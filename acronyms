@@ -1,4 +1,4 @@
-$MirBSD: acronyms,v 1.37 2004/04/08 15:17:18 tg Exp $
+$MirBSD: acronyms,v 1.38 2004/04/23 20:28:14 tg Exp $
 $NetBSD: acronyms,v 1.135 2004/01/14 13:46:26 keihan Exp $
 $NetBSD: acronyms.comp,v 1.37 2004/01/15 03:35:20 grant Exp $
 10X	tenx (thanks)
@@ -563,6 +563,7 @@ SAP	Suchen Anklicken Pause
 SAP	Suffer After Purchase
 SAP	Suffer and Pay
 SAP	Summe Aller Probleme
+SAP	ich sag's ja: SS, SA, SAP
 SASI	Shugart Associates system interface (predecessor to SCSI)
 SATA	serial advanced technology attachment
 SCNR	schulljung, connte nit rückhalten
