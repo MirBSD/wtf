@@ -1,4 +1,4 @@
-$MirBSD: acronyms,v 1.1 2003/03/23 22:47:05 tg Exp $
+$MirBSD: acronyms,v 1.2 2003/04/06 04:34:29 tg Exp $
 $NetBSD: acronyms,v 1.113 2003/02/05 20:11:04 mason Exp $
 10X	tenx (thanks)
 ACK	achja, cönnt klappen
@@ -321,6 +321,7 @@ THGTTG	the hitchhiker's guide to the galaxy
 TIA	thanks in advance
 TLA	three letter acronym
 TLB	translation lookaside buffer
+TM	thanks much (lilo lingo, from IRC)
 TMA	too many abbreviations
 TMI	too much information
 TNX	thanks
@@ -336,6 +337,7 @@ UTFG	use the fscking google
 UTFS	use the {fine,fucking} source
 UTSL	use the source, Luke
 VEG	very evil grin
+VH	very helpful (lilo lingo, from IRC)
 WAG	wild-ass guess
 WB	welcome back
 WDYM	what do you mean
