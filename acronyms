@@ -1,4 +1,4 @@
-$MirBSD: acronyms,v 1.18 2003/07/04 14:12:24 tg Exp $
+$MirBSD: acronyms,v 1.19 2003/07/17 20:29:47 tg Exp $
 $NetBSD: acronyms,v 1.119 2003/06/10 19:11:10 wiz Exp $
 10X	tenx (thanks)
 ACK	achja, cönnt klappen
@@ -42,6 +42,7 @@ BOHICA	bend over here it comes again
 BRB	[I'll] be right back
 BSD	basically secure and dependable
 BSD	big scary daemons
+BTAT	been there, ate that
 BTDB	been there, done both
 BTDT	been there, done that
 BTST	been there, seen that
