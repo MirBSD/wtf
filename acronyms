@@ -1,6 +1,6 @@
-$MirBSD: acronyms,v 1.40 2004/05/23 15:57:39 tg Exp $
-$NetBSD: acronyms,v 1.140 2004/04/01 04:03:30 jschauma Exp $
-$NetBSD: acronyms.comp,v 1.44 2004/05/18 16:08:33 jmmv Exp $
+$MirBSD: acronyms,v 1.41 2004/07/14 11:41:45 tg Exp $
+$NetBSD: acronyms,v 1.141 2004/06/29 18:12:13 snj Exp $
+$NetBSD: acronyms.comp,v 1.45 2004/06/03 18:31:53 jmmv Exp $
 10X	tenx (thanks)
 ABI	application binary interface
 ACK	achja, cönnt klappen
@@ -624,6 +624,7 @@ TBD	to be {decided,determined,done}
 TBOMK	the best of my knowledge
 TCL	tool command language
 TCP	transmission control protocol
+TDD	test driven development
 TDR	Theo de Raadt -- http://theos.com/
 TEAM	toll, ein Anderer macht's!
 TFT	thin film transistor
@@ -643,6 +644,8 @@ TM	thanks much (lilo lingo, from IRC)
 TMA	too many abbreviations
 TMDS	transition minimized differential signaling
 TMI	too much information
+TNF	The NetBSD Foundation
+TNF	Tinnef (german dialect)
 TNX	thanks
 TOEFL	test of english as a foreign language
 TPTB	the powers that be
