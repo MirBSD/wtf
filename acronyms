@@ -1,4 +1,4 @@
-$MirBSD: acronyms,v 1.51 2004/10/16 12:15:30 tg Exp $
+$MirBSD: acronyms,v 1.52 2004/10/18 21:31:02 tg Exp $
 $NetBSD: acronyms,v 1.142 2004/09/02 12:10:11 jmmv Exp $
 $NetBSD: acronyms.comp,v 1.46 2004/07/16 01:07:02 xtraeme Exp $
 10X	tenx (thanks)
@@ -116,6 +116,7 @@ DHCP	dynamic host configuration protocol
 DIY	do it yourself
 DJB	Dan J Bernstein -- http://cr.yp.to/
 DKDC	don't know, don't care
+DLL	dynamic link library (shared object)
 DMA	direct memory access
 DNS	domain name system
 DOCH	German for "yes" answering "you don't ..., do you?"
@@ -616,6 +617,7 @@ SNERT	snot-nosed egotistical rude teenager
 SNMP	simple network management protocol
 SNMP	sorry, not my problem
 SNR	signal to noise ratio
+SO	shared object file (cf. DLL)
 SO	significant other
 SOB	son of [a] bitch
 SOL	shit out [of] luck
