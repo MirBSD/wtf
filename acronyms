@@ -1,5 +1,5 @@
-$MirBSD: acronyms,v 1.7 2003/05/01 14:11:19 tg Exp $
-$NetBSD: acronyms,v 1.116 2003/04/06 19:57:09 salo Exp $
+$MirBSD: acronyms,v 1.8 2003/05/03 13:09:32 tg Exp $
+$NetBSD: acronyms,v 1.117 2003/04/30 13:04:52 jmmv Exp $
 10X	tenx (thanks)
 ACK	achja, cönnt klappen
 ACK	acknowledged / [japanese] Hai!
@@ -305,6 +305,7 @@ ROTOTILL	"nuke with a chain saw device", to die with extreme prejudice (see GC)
 RP	responsible person
 RSN	real soon now
 RTFB	read the fine/fucking book
+RTFC	read the fine/fucking code (see also UTFS)
 RTFJF	read the fine jargon file: http://www.catb.org/~esr/jargon/
 RTFM	read the fine/fucking manual
 RTFMF	read the fucking Makefile
