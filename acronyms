@@ -1,5 +1,5 @@
-$MirBSD: acronyms,v 1.13 2003/06/23 14:39:11 tg Exp $
-$NetBSD: acronyms,v 1.118 2003/05/26 13:11:36 jmmv Exp $
+$MirBSD: acronyms,v 1.14 2003/06/24 16:32:27 tg Exp $
+$NetBSD: acronyms,v 1.119 2003/06/10 19:11:10 wiz Exp $
 10X	tenx (thanks)
 ACK	achja, cönnt klappen
 ACK	acknowledged / [japanese] Hai!
@@ -355,6 +355,7 @@ SWMBO	she who must be obeyed
 TANSTAAFL	there ain't no such thing as a free lunch
 TBC	to be continued
 TBD	to be {decided,determined,done}
+TBOMK	the best of my knowledge
 TDR	Theo de Raadt -- http://theos.com/
 THGTTG	the hitchhiker's guide to the galaxy
 TIA	thanks in advance
@@ -367,6 +368,7 @@ TMI	too much information
 TNX	thanks
 TOEFL	test of english as a foreign language
 TPTB	the powers that be (Theo de Raadt et. al with commit access)
+TTBOMK	to the best of my knowledge
 TTFN	ta ta for now
 TTY	teletype [terminal]
 TTYL	talk to you later
