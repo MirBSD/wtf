@@ -1,4 +1,4 @@
-$MirBSD: acronyms,v 1.5 2003/04/22 13:16:29 tg Exp $
+$MirBSD: acronyms,v 1.6 2003/04/23 12:45:33 tg Exp $
 $NetBSD: acronyms,v 1.116 2003/04/06 19:57:09 salo Exp $
 10X	tenx (thanks)
 ACK	achja, cönnt klappen
@@ -83,7 +83,7 @@ FDA	Für den Arsch
 FIIK	fuck[ed] if I know
 FIIR	fuck[ed] if I remember
 FM	fucking magic
-FOAD	fall over and die
+FOAD	{fall over,fuck off} and die
 FREEBSD	open source operating system -- http://www.freebsd.org/
 FSDO	for some definition of
 FSF	Free Software Foundation -- http://www.fsf.org/ http://www.fsf-europe.org/
@@ -352,7 +352,7 @@ TNX	thanks
 TOEFL	test of english as a foreign language
 TPTB	the powers that be (Theo de Raadt et. al with commit access)
 TTFN	ta ta for now
-TTY	teletype terminal
+TTY	teletype [terminal]
 TTYL	talk to you later
 TTYL8ER	tty (read) you later [usenet]
 TWIAVBP	the world is a very big place
