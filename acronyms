@@ -1,12 +1,13 @@
-$MirBSD: acronyms,v 1.38 2004/04/23 20:28:14 tg Exp $
-$NetBSD: acronyms,v 1.135 2004/01/14 13:46:26 keihan Exp $
-$NetBSD: acronyms.comp,v 1.37 2004/01/15 03:35:20 grant Exp $
+$MirBSD: acronyms,v 1.39 2004/04/23 20:33:16 tg Exp $
+$NetBSD: acronyms,v 1.140 2004/04/01 04:03:30 jschauma Exp $
+$NetBSD: acronyms.comp,v 1.42 2004/04/01 04:35:45 simonb Exp $
 10X	tenx (thanks)
 ABI	application binary interface
 ACK	achja, cönnt klappen
 ACK	acknowledged / [japanese] Hai!
 ACPI	advanced configuration and power interface
 ADC	analog [to] digital converter
+AFAIC	as far as I'm concerned
 AFAICR	as far as I can recall
 AFAICT	as far as I can tell
 AFAIHH	as far as I have heard
@@ -21,7 +22,7 @@ AGP	accelerated graphics port
 AIU	as I understand
 AIUI	as I understand it
 AKA	also known as
-ANSI	American National Standards Institute
+ANSI	american national standards institute
 API	application programming interface
 APIC	advanced programmable interrupt controller
 ARP	address resolution protocol
@@ -94,6 +95,7 @@ CMIIW	correct me if I'm wrong
 CNP	continued [in my] next post
 COB	close of business [day]
 COFF	common object file format
+COTS	commercial off-the-shelf
 CPU	central processing unit
 CRLF	carriage return / line feed
 CRT	cathode ray tube
@@ -155,6 +157,7 @@ FBRAM	frame buffer random access memory
 FCFS	first come first served
 FDA	Federal Drug Administration
 FDA	Für den Arsch
+FDDI	fiber distributed data interface
 FFS	fast file system
 FICON	Fiber Connectivity
 FIGJAM	fuck I'm good, just ask me
@@ -235,7 +238,7 @@ ICBW	I could be wrong
 ICCL	I couldn't care less
 ICMP	internet control message protocol
 IDE	integrated drive electronics
-IEC	International Electrotechnical Commission
+IEC	international electrotechnical commission
 IEEE	institute [of] electrical [and] electronics engineers
 IESG	internet engineering steering group
 IETF	internet engineering task force
@@ -253,7 +256,7 @@ IMCO	in my considered opinion
 IMHO	in my humble opinion
 IMNSHO	in my not so humble opinion
 IMO	in my opinion
-INCITS	InterNational Committee on Information Technology Standards
+INCITS	international committee on information technology standards
 IO	input/output
 IOCTL	input/output control
 IOW	in other words
@@ -268,7 +271,7 @@ IRTF	internet research task force
 ISA	industry standard architecture
 ISAGN	I see a great need
 ISDN	integrated services digital network
-ISO	International Standards Organization
+ISO	international standards organization
 ISOC	internet society
 ISP	internet service provider
 ISTM	it seems to me
@@ -285,6 +288,7 @@ J/K	just kidding
 JAJAJAJA	yes yes yes yes (common German expression in OpenBSD development)
 JFTR	just falls Thema reinkarniert
 JFTR	just for the record
+JHD	just hit "delete"
 JIC	just in case
 JMO	just my opinion
 JPEG	joint photography experts group
@@ -382,7 +386,7 @@ MCSE	mouse clicks selected "erase"
 MCSE	mozilla couldn't stomach explorer
 MCSE	multiple corrective servicepack exorcist
 MCSE	must consult someone experienced
-MCSE	must...  contain...   STR.   Eaaaaaaaaaaaurgh!
+MCSE	must... contain... STR. Eaaaaaaaaaaaurgh!
 MCSE	mutant computer solutions evangelist
 MCSE	mutant computers seem eviscerated
 MCSE	mutated CP/M system emulator
@@ -450,6 +454,7 @@ OMG	Oh my Goddess!
 OMG	oh, my god
 OPENBSD	most secure open source operating system -- http://www.OpenBSD.org/
 OSF	open software foundation
+OSI	open systems interconnection
 OT	off topic
 OT	ohne Themenbezug
 OTL	out to lunch
@@ -459,7 +464,7 @@ OTTOMH	off the top of my head
 PAM	pluggable authentication modules
 PAX	portable archive exchange
 PCI	peripheral component interconnect
-PCMCIA	Personal Computer Memory Card International Association
+PCMCIA	personal computer memory card international association
 PDP	page descriptor page
 PEBCAK	reverse'ism for PEBKAC
 PEBKAC	problem exists between keyboard and chair
@@ -482,6 +487,7 @@ POP	post office protocol
 POS	piece of shit
 POSIX	portable operating system interface [for] unix
 POST	power on self test
+POTS	plain old telephone system
 POWER	Performance Optimization With Enhanced RISC (as in IBM's POWER CPUs)
 PPL	pretty please
 PPP	point-to-point protocol
@@ -564,7 +570,7 @@ SAP	Suffer After Purchase
 SAP	Suffer and Pay
 SAP	Summe Aller Probleme
 SAP	ich sag's ja: SS, SA, SAP
-SASI	Shugart Associates system interface (predecessor to SCSI)
+SASI	shugart associates system interface (predecessor to SCSI)
 SATA	serial advanced technology attachment
 SCNR	schulljung, connte nit rückhalten
 SCNR	sorry, could not resist
@@ -604,6 +610,7 @@ SSL	secure sockets layer
 STFA	search the f{s,u}cking archives
 STFU	search the f{ine,ucking} usenet
 STFU	shut the fuck up
+STP	shielded twisted pair
 SUS	stupid user syndrome
 SVGA	super video graphics array
 SWAG	silly, wild-assed guess
@@ -636,6 +643,7 @@ TMDS	transition minimized differential signaling
 TMI	too much information
 TNX	thanks
 TOEFL	test of english as a foreign language
+TPTB	the powers that be
 TPTB	the powers that be (Theo de Raadt et. al with commit access)
 TRT	the right thing
 TTBOMK	to the best of my knowledge
@@ -660,6 +668,7 @@ USB	universal serial bus
 USWC	uncacheable speculative write combining
 UTFG	use the fscking google
 UTFS	use the {fine,fucking} source
+UTP	unshielded twisted pair
 UTSL	use the source, Luke
 UUCP	unix-to-unix copy protocol
 VAX	virtual address extension
