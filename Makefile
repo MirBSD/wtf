@@ -1,11 +1,10 @@
-# $MirBSD: Makefile,v 1.2 2003/09/22 18:14:08 tg Exp $
-# Public domain.
+# $MirBSD: Makefile,v 1.3 2004/06/03 16:32:30 tg Stab $
 
 SCRIPTS=	wtf
 MAN=		wtf.1
 
 realinstall:
-	cd ${.CURDIR}; install -c -o ${BINOWN} -g ${BINGRP} -m 555 \
+	cd ${.CURDIR}; install -c -o ${BINOWN} -g ${BINGRP} -m ${BINMODE} \
 	    ${SCRIPTS} ${DESTDIR}${BINDIR}
 
 .include <bsd.prog.mk>
