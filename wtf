@@ -1,5 +1,5 @@
 #!/bin/ksh
-# $MirBSD: wtf,v 1.4 2004/03/11 19:41:47 tg Stab $
+# $MirBSD: wtf,v 1.5 2004/11/02 21:22:02 tg Exp $
 # $NetBSD: wtf,v 1.7 2000/11/21 00:18:52 soren Exp $
 #-
 # Copyright (c) 2004
@@ -28,7 +28,8 @@ acronyms=${ACRONYMDB:-/usr/share/misc/acronyms}
 
 rv=0
 while [ $# -gt 0 ] ; do
-	target="$(echo "$1" | tr '[:lower:]' '[:upper:]')"
+	target="$(echo "$1" | tr '[:lower:]' '[:upper:]' \
+	    | sed 'y/äöü/ÄÖÜ/')"
 	ans="$(fgrep "$target" <$acronyms 2>/dev/null \
 	    | sed -ne "/^$(echo "$target" \
 	    | sed s,/,.,)[[:space:]]/s\`^${target}[[:space:]]*\`\`p")"
