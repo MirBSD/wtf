@@ -1,6 +1,6 @@
-$MirBSD: acronyms,v 1.39 2004/04/23 20:33:16 tg Exp $
+$MirBSD: acronyms,v 1.40 2004/05/23 15:57:39 tg Exp $
 $NetBSD: acronyms,v 1.140 2004/04/01 04:03:30 jschauma Exp $
-$NetBSD: acronyms.comp,v 1.42 2004/04/01 04:35:45 simonb Exp $
+$NetBSD: acronyms.comp,v 1.44 2004/05/18 16:08:33 jmmv Exp $
 10X	tenx (thanks)
 ABI	application binary interface
 ACK	achja, cönnt klappen
@@ -188,6 +188,7 @@ G	grin
 G/C	garbage collect{,ion}
 GAC	get a clue
 GAL	get a life
+GC	garbage collector
 GCC	gcc can't compile
 GIF	graphics interchange format
 GIGO	garbage in, garbage out
@@ -261,6 +262,7 @@ IO	input/output
 IOCTL	input/output control
 IOW	in other words
 IP	internet protocol
+IPC	interprocess communication
 IPNG	internet protocol, next generation
 IPSEC	internet protocol security
 IPV6	next generation Internet Protocol, triggers japanese simple-mind ideas
