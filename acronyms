@@ -1,4 +1,4 @@
-$MirBSD: acronyms,v 1.30 2004/01/31 20:40:41 tg Exp $
+$MirBSD: acronyms,v 1.31 2004/02/11 14:23:56 tg Exp $
 $NetBSD: acronyms,v 1.135 2004/01/14 13:46:26 keihan Exp $
 $NetBSD: acronyms.comp,v 1.37 2004/01/15 03:35:20 grant Exp $
 10X	tenx (thanks)
@@ -392,6 +392,8 @@ MIPS	million instructions per second
 MIPS	{def.} die Zahl von Millionen Maschinenoperationen pro Sekunde, von der der Hersteller garantiert, daß sie unter keinerlei Betriebsbedingungen überschritten wird
 MIRBSD	split of OpenBSD with a lot of improvements -- http://MirBSD.BSDadvocacy.org/
 MMU	memory management unit
+MODE	Mann, opfere dein Erspartes!
+MODE	die teuerste Stoffwechselkrankheit
 MOTAS	member of the appropriate sex
 MOTOS	member of the opposite sex
 MOTSS	member of the same sex
