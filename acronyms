@@ -1,4 +1,4 @@
-$MirBSD: acronyms,v 1.47 2004/08/15 15:45:27 tg Exp $
+$MirBSD: acronyms,v 1.48 2004/08/18 18:01:17 tg Exp $
 $NetBSD: acronyms,v 1.141 2004/06/29 18:12:13 snj Exp $
 $NetBSD: acronyms.comp,v 1.45 2004/06/03 18:31:53 jmmv Exp $
 10X	tenx (thanks)
@@ -514,6 +514,7 @@ RATIBIBUGLE	french-specific version of ROTOTILL
 RCS	revision control system
 RFC	request for comments
 RGB	red green blue
+RGR	roger
 RIP	requiescat in pacem
 RIP	rest in peace
 RISC	reduced instruction set computing
