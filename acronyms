@@ -1,4 +1,4 @@
-$MirBSD: acronyms,v 1.44 2004/08/01 10:30:36 tg Exp $
+$MirBSD: acronyms,v 1.45 2004/08/10 22:05:49 tg Exp $
 $NetBSD: acronyms,v 1.141 2004/06/29 18:12:13 snj Exp $
 $NetBSD: acronyms.comp,v 1.45 2004/06/03 18:31:53 jmmv Exp $
 10X	tenx (thanks)
@@ -474,6 +474,7 @@ PCMCIA	personal computer memory card international association
 PDP	page descriptor page
 PEBCAK	reverse'ism for PEBKAC
 PEBKAC	problem exists between keyboard and chair
+PERL	Pathologically Eclectic Rubbish Lister
 PERL	practical extraction [and] report language
 PFO	please fuck off
 PFY	pimply faced youth
