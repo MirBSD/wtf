@@ -1,4 +1,4 @@
-$MirBSD: acronyms,v 1.45 2004/08/10 22:05:49 tg Exp $
+$MirBSD: acronyms,v 1.46 2004/08/11 20:07:32 tg Exp $
 $NetBSD: acronyms,v 1.141 2004/06/29 18:12:13 snj Exp $
 $NetBSD: acronyms.comp,v 1.45 2004/06/03 18:31:53 jmmv Exp $
 10X	tenx (thanks)
@@ -542,6 +542,7 @@ RTFMP	read the fine/fucking man page
 RTFRFC	read the boring RFC
 RTFRFC	read the {fine,fucking} RFC
 RTFS	read the fine/fucking source
+RTFS	read the fine/fucking spec
 RTFWS	read the {fine,fucking} web site
 RTFWS	return to frankensteins wooly sheep
 S/PDIF	sony/phillips digital interface
