@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.1 2005/03/06 16:33:41 tg Exp $
+$MirOS: wtf/acronyms,v 1.2 2005/03/10 20:56:56 tg Exp $
 $NetBSD: acronyms,v 1.145 2005/02/18 01:40:49 jsm Exp $
 $NetBSD: acronyms.comp,v 1.59 2005/02/22 12:24:44 grant Exp $
 10X	tenx (thanks)
@@ -495,6 +495,7 @@ MWDW	Mach' was Du willst!
 MWE	module width encoding
 MYOB	mind your own business
 N/M	never mind
+N1	nice one
 N8	goodneight
 NAK	negative acknowledgement (see ACK)
 NAT	network address translation
