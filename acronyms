@@ -1,4 +1,4 @@
-$MirBSD: acronyms,v 1.31 2004/02/11 14:23:56 tg Exp $
+$MirBSD: acronyms,v 1.32 2004/02/29 01:10:10 tg Exp $
 $NetBSD: acronyms,v 1.135 2004/01/14 13:46:26 keihan Exp $
 $NetBSD: acronyms.comp,v 1.37 2004/01/15 03:35:20 grant Exp $
 10X	tenx (thanks)
@@ -594,6 +594,7 @@ TBOMK	the best of my knowledge
 TCL	tool command language
 TCP	transmission control protocol
 TDR	Theo de Raadt -- http://theos.com/
+TEAM	toll, ein Anderer macht's!
 TFT	thin film transistor
 THGTTG	the hitchhiker's guide to the galaxy
 THNX	thanks
