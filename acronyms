@@ -1,6 +1,6 @@
-$MirBSD: acronyms,v 1.24 2003/10/03 15:20:43 tg Exp $
-$NetBSD: acronyms,v 1.126 2003/09/29 12:44:30 jmmv Exp $
-$NetBSD: acronyms.comp,v 1.18 2003/10/03 13:48:09 jmmv Exp $
+$MirBSD: acronyms,v 1.25 2003/10/22 08:14:45 tg Exp $
+$NetBSD: acronyms,v 1.127 2003/10/10 12:16:05 jmmv Exp $
+$NetBSD: acronyms.comp,v 1.24 2003/10/17 08:56:39 keihan Exp $
 10X	tenx (thanks)
 ABI	application binary interface
 ACK	achja, cönnt klappen
@@ -20,6 +20,7 @@ AGP	accelerated graphics port
 AIU	as I understand
 AIUI	as I understand it
 AKA	also known as
+ANSI	American National Standards Institute
 API	application programming interface
 APIC	advanced programmable interrupt controller
 ASAIC	as soon as I can
@@ -44,6 +45,7 @@ BBT	be back tomorrow
 BEDO	burst extended data output
 BFD	big fucking deal
 BFG	big fat grin
+BGP	border gateway protocol
 BIAB	back in a bit
 BIAF	back in a few
 BIALW	back in a little while
@@ -65,23 +67,31 @@ BTST	been there, seen that
 BTTH	boot to the head
 BTW	by the way
 BTX	(new form factor like ATX, ITX, BAT)
+CAD	computer-aided design
+CAV	constant angular velocity (as opposed to CLV)
 CD	compact disc
 CDRAM	cache dynamic random access memory
+CGA	color graphics array
 CHS	cylinder/head/sector
 CIDR	classless inter-domain routing
 CLI	command line interface
+CLV	constant linear velocity (as opposed to CAV)
 CMIIW	correct me if I'm wrong
 CNP	continued [in my] next post
 COB	close of business [day]
-CPU	central process unit
+CPU	central processing unit
 CRLF	carriage return / line feed
+CRT	cathode ray tube
 CSS	cascading style sheets
 CVS	concurrent versions system
 CYA	see you around
 C|N>K	coffee pipe nose to keyboard
 D/L	download
+DAC	digital to analog conversor
 DBDDHKP	doof bleibt doof, da helfen keine Pillen
+DDC	display data channel
 DDR	double data rate
+DDWG	digital display working group
 DEBILLIAN	ancient GNU/Linux distribution, nearly forgotten
 DIY	do it yourself
 DJB	Dan J Bernstein -- http://cr.yp.to/
@@ -97,11 +107,14 @@ DTD	document type definition
 DTRT	do the right thing
 DTWT	do the wrong thing
 DVD	digital versatile disc
+DVI	digital visual interface
 DWIM	do what I mean
 ECP	enhanced capability port
+EDID	extended display identification data
 EDO	extended data out
 EEPROM	electrically erasable programmable read only memory
 EG	evil grin
+EGA	enhanced graphics array
 EISA	extended industry standard architecture
 ELF	endless long to wait for
 ELF	extrem langsames Format
@@ -148,11 +161,21 @@ GAL	get a life
 GCC	gcc can't compile
 GIF	graphics interchange format
 GIGO	garbage in, garbage out
+GL	"gl hf" - geek l33t hack forever
+GL	"gl hf" - gentoo linux: hack freedumbly
+GL	"gl hf" - gentoo linux: hack freely
+GL	"gl hf" - gentoo linux: half finished
+GL	"gl hf" - get a life: hack forever
+GL	"gl hf" - get a life: hack freebsd
+GL	"gl hf" - go liberate half-born fetuses
+GL	"gl hf" - go lick hairy females
+GL	"gl hf" - go lick hairy folksingers
 GL	"gl hf" - good luck, have fun [StarCraft]
 GMTA	great minds think alike
 GN8	goodneight
 GNU	GNU's Not Unix(r)
 GPL	(GNU) general public license
+GPU	graphics processing unit
 GTFO	get the fuck out
 GTG	got to go
 GUI	graphical user interface
@@ -165,6 +188,7 @@ HBCI	hopelessly catastrophic banking interface
 HBCI	hopelessly corrupt banking interface
 HDA	Heil den Asen (=OMG)
 HDB	Heil Dir, Bruder
+HDCP	high-bandwidth digital content protection
 HDW	Heil den Wansen (=OMG)
 HF	see GL
 HHIS	hanging head in shame
@@ -178,10 +202,12 @@ IAC	in any case
 IANA	internet assigned number authority
 IANAL	I am not a lawyer
 IC	I see
+IC	integrated circuit
 ICB	internet citizen's band
 ICCL	I couldn't care less
 ICMP	internet control message protocol
 IDE	integrated drive electronics
+IEC	International Electrotechnical Commission
 IEEE	institute [of] electrical [and] electronics engineers
 IESG	internet engineering steering group
 IETF	internet engineering task force
@@ -198,6 +224,7 @@ IMCO	in my considered opinion
 IMHO	in my humble opinion
 IMNSHO	in my not so humble opinion
 IMO	in my opinion
+INCITS	InterNational Committee on Information Technology Standards
 IO	input/output
 IOCTL	input/output control
 IOW	in other words
@@ -212,6 +239,7 @@ IRTF	internet research task force
 ISA	industry standard architecture
 ISAGN	I see a great need
 ISDN	integrated services digital network
+ISO	International Standards Organization
 ISOC	internet society
 ISP	internet service provider
 ISTM	it seems to me
@@ -241,6 +269,7 @@ L8R	later
 LAN	local area network
 LART	luser attitude readjustment tool (ie, hammer)
 LBA	logical block addressing
+LCD	liquid crystal display
 LDAP	lightweight directory access protocol
 LINUX	free (as in GNU) operating system kernel -- http://www.kernel.org/
 LINUX	life is not utterly exciting
@@ -252,6 +281,7 @@ LOL	lachend, oba laut
 LOL	laughing out loud
 LTNS	long time no see
 LUN	logical unit number
+MAC	media access control
 MARC	http://marc.theaimsgroup.com/
 MBR	master boot record
 MCSE	"Mayday", called some experts
@@ -379,6 +409,7 @@ OTT	over the top
 OTTOMH	off the top of my head
 PAX	portable archive exchange
 PCI	peripheral component interconnect
+PCMCIA	Personal Computer Memory Card International Association
 PDP	page descriptor page
 PEBCAK	reverse'ism for PEBKAC
 PEBKAC	problem exists between keyboard and chair
@@ -400,12 +431,14 @@ POLA	principle of least astonishment
 POP	post office protocol
 POS	piece of shit
 POSIX	portable operating system interface [for] unix
+POST	power on self test
 PPL	pretty please
 PPP	point-to-point protocol
 PPPOE	point-to-point protocol over ethernet
 PROM	programmable read only memory
 PSU	power supply unit
 PTE	page table entry
+PTLA	pseudo top level aggregator
 PTP	page table page
 PTV	parental tunnel vision
 QED	quod erat demonstrandum
@@ -414,6 +447,7 @@ RAM	random access memory
 RATIBIBUGLE	french-specific version of ROTOTILL
 RCS	revision control system
 RFC	request for comments
+RGB	red green blue
 RISC	reduced instruction set computing
 RL	real life
 RLC	rod length check
@@ -471,10 +505,11 @@ SAP	Suchen Anklicken Pause
 SAP	Suffer After Purchase
 SAP	Suffer and Pay
 SAP	Summe Aller Probleme
+SASI	Shugart Associates system interface (predecessor to SCSI)
 SATA	serial advanced technology attachment
 SCNR	schulljung, connte nit rückhalten
 SCNR	sorry, could not resist
-SCSI	small computer standard interface
+SCSI	small computer system interface
 SDRAM	synchronous dynamic random access memory
 SEP	someone else's problem
 SFA	sweet fuck all
@@ -504,6 +539,7 @@ STFA	search the f{s,u}cking archives
 STFU	search the f{ine,ucking} usenet
 STFU	shut the fuck up
 SUS	stupid user syndrome
+SVGA	super video graphics array
 SWAG	silly, wild-assed guess
 SWAHBI	silly, wild-assed hare-brained idea
 SWMBO	she who must be obeyed
@@ -514,19 +550,23 @@ TBOMK	the best of my knowledge
 TCL	tool command language
 TCP	transmission control protocol
 TDR	Theo de Raadt -- http://theos.com/
+TFT	thin film transistor
 THGTTG	the hitchhiker's guide to the galaxy
 TIA	thanks in advance
 TIMTOWTDI	there is more than one way to do it (perl sucks, now we all know why)
 TINC	there is no cabal
 TLA	three letter acronym
+TLA	top level aggregator
 TLB	translation lookaside buffer
 TLD	top level domain
 TM	thanks much (lilo lingo, from IRC)
 TMA	too many abbreviations
+TMDS	transition minimized differential signaling
 TMI	too much information
 TNX	thanks
 TOEFL	test of english as a foreign language
 TPTB	the powers that be (Theo de Raadt et. al with commit access)
+TRT	the right thing
 TTBOMK	to the best of my knowledge
 TTFN	ta ta for now
 TTY	teletype [terminal]
@@ -551,6 +591,8 @@ UTSL	use the source, Luke
 UUCP	unix-to-unix copy protocol
 VCM	virtual channel memory
 VEG	very evil grin
+VESA	video electronics standards association
+VGA	video graphics array
 VH	very helpful (lilo lingo, from IRC)
 VPN	virtual private network
 VRAM	video random access memory
@@ -578,6 +620,7 @@ WWW	world wide waiting
 WWW	world wide web
 WYSIWYG	what you see is what you get
 XD	;-) on español
+XGA	extended graphics array
 XML	extensible markup language
 XSL	extensible stylesheet language
 XT	extended technology
