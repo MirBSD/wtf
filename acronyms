@@ -1,4 +1,4 @@
-$MirBSD: acronyms,v 1.35 2004/04/07 20:52:18 tg Exp $
+$MirBSD: acronyms,v 1.36 2004/04/07 20:52:58 tg Exp $
 $NetBSD: acronyms,v 1.135 2004/01/14 13:46:26 keihan Exp $
 $NetBSD: acronyms.comp,v 1.37 2004/01/15 03:35:20 grant Exp $
 10X	tenx (thanks)
@@ -649,6 +649,7 @@ VESA	video electronics standards association
 VGA	video graphics array
 VH	very helpful (lilo lingo, from IRC)
 VM	virtual memory
+VM	virtual machine
 VPN	virtual private network
 VRAM	video random access memory
 W/	with
