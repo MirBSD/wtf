@@ -1,10 +1,11 @@
-$MirBSD: acronyms,v 1.23 2003/09/17 18:24:53 tg Exp $
-$NetBSD: acronyms,v 1.124 2003/08/31 16:35:32 wiz Exp $
-$NetBSD: acronyms.comp,v 1.14 2003/09/16 07:29:31 keihan Exp $
+$MirBSD: acronyms,v 1.24 2003/10/03 15:20:43 tg Exp $
+$NetBSD: acronyms,v 1.126 2003/09/29 12:44:30 jmmv Exp $
+$NetBSD: acronyms.comp,v 1.18 2003/10/03 13:48:09 jmmv Exp $
 10X	tenx (thanks)
 ABI	application binary interface
 ACK	achja, cönnt klappen
 ACK	acknowledged / [japanese] Hai!
+ACPI	advanced configuration and power interface
 AFAICR	as far as I can recall
 AFAICT	as far as I can tell
 AFAIHH	as far as I have heard
@@ -13,17 +14,22 @@ AFAIR	as far as I recall
 AFAIU	as far as I understand
 AFD	away from desktop
 AFK	away from keyboard
+AFU	all fucked up
 AFW	away from window
 AGP	accelerated graphics port
 AIU	as I understand
 AIUI	as I understand it
 AKA	also known as
 API	application programming interface
+APIC	advanced programmable interrupt controller
 ASAIC	as soon as I can
 ASAP	as soon as possible
+AT	advanced technology
 ATA	advanced technology attachment
+ATAPI	advanced technology attachment packet interface
 ATM	asynchronous transfer mode
 ATM	at the moment
+ATX	advanced technology extended
 AWOL	absent without official leave
 AYB	all your base are belong to us
 AYBABTU	all your base are belong to us
@@ -35,6 +41,7 @@ BBIAF	be back in a few
 BBL	[I'll] be back later
 BBS	be back soon
 BBT	be back tomorrow
+BEDO	burst extended data output
 BFD	big fucking deal
 BFG	big fat grin
 BIAB	back in a bit
@@ -57,13 +64,16 @@ BTDT	been there, done that
 BTST	been there, seen that
 BTTH	boot to the head
 BTW	by the way
+BTX	(new form factor like ATX, ITX, BAT)
 CD	compact disc
+CDRAM	cache dynamic random access memory
 CHS	cylinder/head/sector
 CIDR	classless inter-domain routing
 CLI	command line interface
 CMIIW	correct me if I'm wrong
 CNP	continued [in my] next post
 COB	close of business [day]
+CPU	central process unit
 CRLF	carriage return / line feed
 CSS	cascading style sheets
 CVS	concurrent versions system
@@ -71,6 +81,7 @@ CYA	see you around
 C|N>K	coffee pipe nose to keyboard
 D/L	download
 DBDDHKP	doof bleibt doof, da helfen keine Pillen
+DDR	double data rate
 DEBILLIAN	ancient GNU/Linux distribution, nearly forgotten
 DIY	do it yourself
 DJB	Dan J Bernstein -- http://cr.yp.to/
@@ -79,6 +90,7 @@ DMA	direct memory access
 DNS	domain name system
 DOCH	German for "yes" answering "you don't ..., do you?"
 DOS	Disc Operating System
+DRAM	dynamic random access memory
 DSL	digital subscriber line
 DSTM	don't shoot the messenger
 DTD	document type definition
@@ -86,6 +98,9 @@ DTRT	do the right thing
 DTWT	do the wrong thing
 DVD	digital versatile disc
 DWIM	do what I mean
+ECP	enhanced capability port
+EDO	extended data out
+EEPROM	electrically erasable programmable read only memory
 EG	evil grin
 EISA	extended industry standard architecture
 ELF	endless long to wait for
@@ -94,11 +109,15 @@ EMSG	email message
 EOB	end of business [day]
 EOD	end of discussion
 EOL	end of life
+EPP	enhanced parallel port
+EPROM	erasable programmable read only memory
+ESDRAM	enhanced synchronous dynamic random access memory
 ESR	Eric Steven Raymond -- http://www.catb.org/~esr/
 ETA	estimated time of arrival (usually infinite)
 ETLA	extended three letter acronym
 EWAG	experienced wild-ass guess
 FAQ	frequently asked question
+FBRAM	frame buffer random access memory
 FCFS	first come first served
 FDA	Federal Drug Administration
 FDA	Für den Arsch
@@ -108,6 +127,7 @@ FIIR	fuck[ed] if I remember
 FLOPS	floating [point] operations per second
 FM	fucking magic
 FOAD	{fall over,fuck off} and die
+FPM	fast page mode
 FQDN	fully qualified domain name
 FREEBSD	open source operating system -- http://www.freebsd.org/
 FSDO	for some definition of
@@ -309,6 +329,7 @@ MCSE	my company screws everyone
 MCSE	my computer's software exploded
 MCSE	my cranium softened easily
 MCSE	my customers support extravagance
+MDRAM	multibank dynamic random access memory
 MFG	with friendly greetings
 MIA	missing in action
 MIPS	meaningless indicator of processor speed
@@ -365,7 +386,9 @@ PERL	practical extraction [and] report language
 PFO	please fuck off
 PFY	pimply faced youth
 PGP	pretty good privacy
+PIC	programmable interrupt controller
 PID	process id
+PIO	programmed input/output
 PITA	pain in the ass
 PKSP	pound keys and spew profanity
 PLONK	Poster liest Originalposter nicht konsequent
@@ -380,6 +403,7 @@ POSIX	portable operating system interface [for] unix
 PPL	pretty please
 PPP	point-to-point protocol
 PPPOE	point-to-point protocol over ethernet
+PROM	programmable read only memory
 PSU	power supply unit
 PTE	page table entry
 PTP	page table page
@@ -418,6 +442,8 @@ RTFRFC	read the {fine,fucking} RFC
 RTFS	read the fine/fucking source
 RTFWS	read the {fine,fucking} web site
 RTFWS	return to frankensteins wooly sheep
+S/PDIF	sony/phillips digital interface
+SAM	serial access memory
 SAP	Salary Appreciation Program.
 SAP	Sammelstelle Arbeitsloser Physiker
 SAP	Sanduhr-Anzeige-Programm
@@ -449,11 +475,15 @@ SATA	serial advanced technology attachment
 SCNR	schulljung, connte nit rückhalten
 SCNR	sorry, could not resist
 SCSI	small computer standard interface
+SDRAM	synchronous dynamic random access memory
 SEP	someone else's problem
 SFA	sweet fuck all
+SGRAM	synchronous graphics random access memory
 SHID	slaps head in disgust
 SHOK	smashing head on keyboard
 SIMCA	sitting in my chair amused
+SLDRAM	synchronous-link dynamic random access memory
+SMART	self-monitoring analysis and reporting technology
 SMLSFB	so many losers, so few bullets
 SMOP	simple matter of programming
 SMP	symmetric multiprocessing
@@ -465,6 +495,8 @@ SO	significant other
 SOB	son of [a] bitch
 SOL	shit out [of] luck
 SOP	standard operating procedure
+SPD	serial presence detect
+SRAM	static random access memory
 SSH	secure shell
 SSIA	subject says it all
 SSL	secure sockets layer
@@ -506,18 +538,22 @@ TWKMHNNOMRN	those who know me have no need of my real name
 TYVM	thank you very much
 TZ	time zone
 U/L	upload
+UC	uncacheable
 UDP	user datagram protocol
 UPS	uninterruptible power supply
 URI	uniform resource identifier
 URL	uniform resource locator
 USB	universal serial bus
+USWC	uncacheable speculative write combining
 UTFG	use the fscking google
 UTFS	use the {fine,fucking} source
 UTSL	use the source, Luke
 UUCP	unix-to-unix copy protocol
+VCM	virtual channel memory
 VEG	very evil grin
 VH	very helpful (lilo lingo, from IRC)
 VPN	virtual private network
+VRAM	video random access memory
 W/	with
 W/O	without
 WAG	wild-ass guess
@@ -532,6 +568,7 @@ WINDOWS	work is never done on WINDOWS systems.
 WIP	work in progress
 WOFTAM	waste of fucking time and money
 WOMBAT	waste of money, brain, and time
+WRAM	window random access memory
 WRT	with respect to
 WTF	oh, it's me! *g*
 WTF	{what,where,who,why} the fuck
@@ -543,6 +580,7 @@ WYSIWYG	what you see is what you get
 XD	;-) on español
 XML	extensible markup language
 XSL	extensible stylesheet language
+XT	extended technology
 YGWYPF	you get what you {pay,prayed} for
 YHBT	you have been trolled
 YHL	you have lost
