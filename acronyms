@@ -1,5 +1,5 @@
-$MirBSD: acronyms,v 1.50 2004/08/31 20:56:07 tg Exp $
-$NetBSD: acronyms,v 1.141 2004/06/29 18:12:13 snj Exp $
+$MirBSD: acronyms,v 1.51 2004/10/16 12:15:30 tg Exp $
+$NetBSD: acronyms,v 1.142 2004/09/02 12:10:11 jmmv Exp $
 $NetBSD: acronyms.comp,v 1.46 2004/07/16 01:07:02 xtraeme Exp $
 10X	tenx (thanks)
 ABI	application binary interface
@@ -432,6 +432,7 @@ MWDW	Mach' was Du willst!
 MYOB	mind your own business
 N/M	never mind
 N8	goodneight
+NAK	negative acknowledgement (see ACK)
 NAT	network address translation
 NBD	no big deal
 NETBSD	... is a registered trademark of TNF
@@ -493,6 +494,7 @@ PNG	portable network graphics
 PNP	{pay,plug} and pray
 POC	point of contact
 POLA	principle of least astonishment
+POLS	principle of least surprise
 POP	post office protocol
 POS	piece of shit
 POSIX	portable operating system interface [for] unix
