@@ -1,6 +1,6 @@
-$MirBSD: acronyms,v 1.48 2004/08/18 18:01:17 tg Exp $
+$MirBSD: acronyms,v 1.49 2004/08/22 16:07:21 tg Stab $
 $NetBSD: acronyms,v 1.141 2004/06/29 18:12:13 snj Exp $
-$NetBSD: acronyms.comp,v 1.45 2004/06/03 18:31:53 jmmv Exp $
+$NetBSD: acronyms.comp,v 1.46 2004/07/16 01:07:02 xtraeme Exp $
 10X	tenx (thanks)
 ABI	application binary interface
 ACK	achja, cönnt klappen
@@ -403,6 +403,7 @@ MCSE	my computer's software exploded
 MCSE	my cranium softened easily
 MCSE	my customers support extravagance
 MDRAM	multibank dynamic random access memory
+MDWDW	Mach' doch, was Du willst!
 MFC	Merged From -current
 MFG	with friendly greetings
 MFS	Memory File System
@@ -427,6 +428,7 @@ MTF	more to follow
 MTU	maximum transmission unit
 MUA	mail user agent
 MVS	Multiple Virtual Systems
+MWDW	Mach' was Du willst!
 MYOB	mind your own business
 N/M	never mind
 N8	goodneight
@@ -593,6 +595,7 @@ SGRAM	synchronous graphics random access memory
 SHID	slaps head in disgust
 SHOK	smashing head on keyboard
 SIMCA	sitting in my chair amused
+SIP	Session Initiation Protocol
 SLDRAM	synchronous-link dynamic random access memory
 SMART	self-monitoring analysis and reporting technology
 SMB	Server Message Block
