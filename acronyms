@@ -1,4 +1,4 @@
-$MirBSD: acronyms,v 1.26 2003/11/10 19:30:54 tg Exp $
+$MirBSD: acronyms,v 1.27 2003/11/15 20:30:12 tg Exp $
 $NetBSD: acronyms,v 1.127 2003/10/10 12:16:05 jmmv Exp $
 $NetBSD: acronyms.comp,v 1.26 2003/10/29 13:52:25 wennmach Exp $
 10X	tenx (thanks)
@@ -64,6 +64,7 @@ BSD	big scary daemons
 BTAT	been there, ate that
 BTDB	been there, done both
 BTDT	been there, done that
+BTFIT	been there, fell into that
 BTST	been there, seen that
 BTTH	boot to the head
 BTW	by the way
@@ -143,7 +144,8 @@ FM	fucking magic
 FOAD	{fall over,fuck off} and die
 FPM	fast page mode
 FQDN	fully qualified domain name
-FREEBSD	open source operating system -- http://www.freebsd.org/
+FREEBSD	most 1337 open source operating system -- http://www.freebsd.org/
+FSCK	file system check [or: polite for F*CK]
 FSDO	for some definition of
 FSF	Free Software Foundation -- http://www.fsf.org/ http://www.fsf-europe.org/
 FSVO	for sane values of
@@ -369,7 +371,7 @@ MIPS	meaningless indicator of processor speed
 MIPS	meaningless information provided by salesperson
 MIPS	million instructions per second
 MIPS	{def.} die Zahl von Millionen Maschinenoperationen pro Sekunde, von der der Hersteller garantiert, daß sie unter keinerlei Betriebsbedingungen überschritten wird
-MIRBSD	split of OpenBSD with some improvements -- http://MirBSD.BSDadvocacy.org/
+MIRBSD	split of OpenBSD with a lot of improvements -- http://MirBSD.BSDadvocacy.org/
 MMU	memory management unit
 MOTAS	member of the appropriate sex
 MOTOS	member of the opposite sex
