@@ -1,5 +1,5 @@
-$MirBSD: acronyms,v 1.10 2003/05/25 18:14:07 tg Exp $
-$NetBSD: acronyms,v 1.117 2003/04/30 13:04:52 jmmv Exp $
+$MirBSD: acronyms,v 1.11 2003/05/30 18:23:57 tg Exp $
+$NetBSD: acronyms,v 1.118 2003/05/26 13:11:36 jmmv Exp $
 10X	tenx (thanks)
 ACK	achja, cönnt klappen
 ACK	acknowledged / [japanese] Hai!
@@ -126,6 +126,7 @@ IHNFC	I have no fucking clue
 IIANM	if I am not mistaken
 IINM	if I'm not mistaken
 IIRC	if I recall correctly
+IIUC	if I understand correctly
 IMAO	in my arrogant opinion
 IMCO	in my considered opinion
 IMHO	in my humble opinion
