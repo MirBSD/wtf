@@ -1,4 +1,4 @@
-$MirBSD: acronyms,v 1.4 2003/04/20 19:14:54 tg Exp $
+$MirBSD: acronyms,v 1.5 2003/04/22 13:16:29 tg Exp $
 $NetBSD: acronyms,v 1.116 2003/04/06 19:57:09 salo Exp $
 10X	tenx (thanks)
 ACK	achja, cönnt klappen
@@ -84,6 +84,7 @@ FIIK	fuck[ed] if I know
 FIIR	fuck[ed] if I remember
 FM	fucking magic
 FOAD	fall over and die
+FREEBSD	open source operating system -- http://www.freebsd.org/
 FSDO	for some definition of
 FSF	Free Software Foundation -- http://www.fsf.org/ http://www.fsf-europe.org/
 FSVO	for some value of
@@ -102,6 +103,7 @@ GIGO	garbage in, garbage out
 GL	"gl hf" - good luck, have fun [StarCraft]
 GMTA	great minds think alike
 GN8	goodneight
+GNU	GNU's Not Unix(r)
 GTFO	get the fuck out
 GTG	got to go
 HAND	have a nice day
@@ -151,6 +153,7 @@ KUNDE	kann ungestraft nerven, da Einnahmequelle
 L8ER	later
 L8R	later
 LART	luser attitude readjustment tool (ie, hammer)
+LINUX	free (as in GNU) operating system kernel -- http://www.kernel.org/
 LINUX	life is not utterly exciting
 LJBF	let's just be friends
 LKML	linux-kernel mailing list (vger.rutgers.edu -> vger.kernel.org)
@@ -239,6 +242,7 @@ MFG	with friendly greetings
 MIPS	meaningless indicator of processor speed
 MIPS	meaningless information provided by salesperson
 MIPS	{def.} die Zahl von Millionen Maschinenoperationen pro Sekunde, von der der Hersteller garantiert, daß sie unter keinerlei Betriebsbedingungen überschritten wird
+MIRBSD	split of OpenBSD with some improvements -- http://MirBSD.BSDadvocacy.org/
 MMU	memory management unit
 MOTAS	member of the appropriate sex
 MOTOS	member of the opposite sex
@@ -248,6 +252,7 @@ MYOB	mind your own business
 N/M	never mind
 N8	goodneight
 NBD	no big deal
+NETBSD	most portable open source operating system -- http://www.netbsd.org/
 NFC	no fucking clue
 NFI	no fucking idea
 NFW	no fucking way
@@ -262,6 +267,7 @@ NRN	no reply necessary
 OIC	oh, I see
 OMG	Oh my Goddess!
 OMG	oh, my god
+OPENBSD	most secure open source operating system -- http://www.OpenBSD.org/
 OT	off topic
 OT	ohne Themenbezug
 OTL	out to lunch
