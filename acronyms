@@ -1,4 +1,4 @@
-$MirBSD: acronyms,v 1.27 2003/11/15 20:30:12 tg Exp $
+$MirBSD: acronyms,v 1.28 2003/12/28 17:33:03 tg Exp $
 $NetBSD: acronyms,v 1.127 2003/10/10 12:16:05 jmmv Exp $
 $NetBSD: acronyms.comp,v 1.26 2003/10/29 13:52:25 wennmach Exp $
 10X	tenx (thanks)
@@ -58,6 +58,7 @@ BOFH	bastard operator from hell
 BOGAHICA	bend over, grab ankles, here it comes again
 BOHICA	bend over here it comes again
 BRB	[I'll] be right back
+BRT	[I'll] be right there
 BSD	basically secure and dependable
 BSD	berkeley software distribution
 BSD	big scary daemons
