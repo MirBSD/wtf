@@ -1,4 +1,4 @@
-$MirBSD: acronyms,v 1.36 2004/04/07 20:52:58 tg Exp $
+$MirBSD: acronyms,v 1.37 2004/04/08 15:17:18 tg Exp $
 $NetBSD: acronyms,v 1.135 2004/01/14 13:46:26 keihan Exp $
 $NetBSD: acronyms.comp,v 1.37 2004/01/15 03:35:20 grant Exp $
 10X	tenx (thanks)
@@ -75,14 +75,19 @@ BTST	been there, seen that
 BTTH	boot to the head
 BTW	by the way
 BTX	(new form factor like ATX, ITX, BAT)
+BTX	Balanced Technology Extended
+BTX	Bildschirmtext (der Deutschen Bundespost Telekom)
 CAD	computer-aided design
+CAM	Computer-Aided Manufacturing (as in CAD/CAM)
 CAV	constant angular velocity (as opposed to CLV)
 CD	compact disc
 CDRAM	cache dynamic random access memory
 CGA	color graphics array
 CGI	common gateway interface
 CHS	cylinder/head/sector
+CICS	Customer Information Control System
 CIDR	classless inter-domain routing
+CIFS	Common Internet File System (old SMB)
 CLI	command line interface
 CLV	constant linear velocity (as opposed to CAV)
 CMIIW	correct me if I'm wrong
@@ -92,6 +97,7 @@ COFF	common object file format
 CPU	central processing unit
 CRLF	carriage return / line feed
 CRT	cathode ray tube
+CSS	Content Scrambling System
 CSS	cascading style sheets
 CVS	concurrent versions system
 CYA	see you around
@@ -134,8 +140,10 @@ EMSG	email message
 EOB	end of business [day]
 EOD	end of discussion
 EOL	end of life
+EPIC	Explicitly Parallel Instruction Computing
 EPP	enhanced parallel port
 EPROM	erasable programmable read only memory
+ESCON	Enterprise Systems Connection
 ESDRAM	enhanced synchronous dynamic random access memory
 ESR	Eric Steven Raymond -- http://www.catb.org/~esr/
 ETA	estimated time of arrival (usually infinite)
@@ -148,6 +156,7 @@ FCFS	first come first served
 FDA	Federal Drug Administration
 FDA	Für den Arsch
 FFS	fast file system
+FICON	Fiber Connectivity
 FIGJAM	fuck I'm good, just ask me
 FIIK	fuck[ed] if I know
 FIIR	fuck[ed] if I remember
@@ -155,8 +164,10 @@ FLOPS	floating [point] operations per second
 FM	fucking magic
 FOAD	{fall over,fuck off} and die
 FPM	fast page mode
+FPU	Floating Point Unit
 FQDN	fully qualified domain name
 FREEBSD	most 1337 open source operating system -- http://www.freebsd.org/
+FSB	Front-Side Bus
 FSCK	file system check [or: polite for F*CK]
 FSDO	for some definition of
 FSF	Free Software Foundation -- http://www.fsf.org/ http://www.fsf-europe.org/
@@ -382,7 +393,9 @@ MCSE	my computer's software exploded
 MCSE	my cranium softened easily
 MCSE	my customers support extravagance
 MDRAM	multibank dynamic random access memory
+MFC	Merged From -current
 MFG	with friendly greetings
+MFS	Memory File System
 MIA	missing in action
 MIDI	musical instrument digital interface
 MIME	multipurpose internet mail extensions
@@ -403,6 +416,7 @@ MTA	mail transfer agent
 MTF	more to follow
 MTU	maximum transmission unit
 MUA	mail user agent
+MVS	Multiple Virtual Systems
 MYOB	mind your own business
 N/M	never mind
 N8	goodneight
@@ -468,6 +482,7 @@ POP	post office protocol
 POS	piece of shit
 POSIX	portable operating system interface [for] unix
 POST	power on self test
+POWER	Performance Optimization With Enhanced RISC (as in IBM's POWER CPUs)
 PPL	pretty please
 PPP	point-to-point protocol
 PPPOA	point-to-point protocol over ATM
@@ -562,6 +577,8 @@ SHOK	smashing head on keyboard
 SIMCA	sitting in my chair amused
 SLDRAM	synchronous-link dynamic random access memory
 SMART	self-monitoring analysis and reporting technology
+SMB	Server Message Block
+SMBFS	Server Message Block File System (see CIFS)
 SMIDF	schieß mir in den Fuß
 SMIDF	simple-minded incompetent drooling fool
 SMLSFB	so many losers, so few bullets
@@ -577,6 +594,7 @@ SO	significant other
 SOB	son of [a] bitch
 SOL	shit out [of] luck
 SOP	standard operating procedure
+SPARC	Scalable Processor Architecture
 SPD	serial presence detect
 SRAM	static random access memory
 SSH	secure shell
@@ -633,6 +651,7 @@ TZ	time zone
 U/L	upload
 UC	uncacheable
 UDP	user datagram protocol
+UFS	UNIX File System
 UPS	uninterruptible power supply
 URI	uniform resource identifier
 URL	uniform resource locator
@@ -646,19 +665,22 @@ VAX	virtual address extension
 VCM	virtual channel memory
 VEG	very evil grin
 VESA	video electronics standards association
+VFS	Virtual File System
 VGA	video graphics array
 VH	very helpful (lilo lingo, from IRC)
-VM	virtual memory
 VM	virtual machine
+VM	virtual memory
 VPN	virtual private network
 VRAM	video random access memory
 W/	with
 W/O	without
 WAG	wild-ass guess
 WAN	wide area network
+WAP	Wireless Access Point
 WAP	wireless application protocol
 WB	welcome back
 WDYM	what do you mean
+WEP	Wired Equivalent Privacy (yikes! it's as insecure as hell)
 WFM	works for me
 WHY	because.
 WIBNI	wouldn't it be nice if
@@ -673,14 +695,17 @@ WRT	with respect to
 WTF	oh, it's me! *g*
 WTF	{what,where,who,why} the fuck
 WTH	{what,where,who,why} the hell
+WTX	Workstation Technology Extended
 WWW	weltweit warten
 WWW	world wide waiting
 WWW	world wide web
 WYSIWYG	what you see is what you get
 XD	;-) on español
 XGA	extended graphics array
+XHTML	Extensible Hyper-Text Markup Language
 XML	extensible markup language
 XSL	extensible stylesheet language
+XSS	Cross-Site Scripting (sometimes CSS)
 XT	extended technology
 YALIMO	you are lame, in my opinion
 YGWYPF	you get what you {pay,prayed} for
@@ -690,4 +715,5 @@ YKWIM	you know what I mean
 YMA	yo momma's ass
 YMMD	you made my day!
 YMMV	your mileage may vary
+YNS	Yeah, No Shit!
 YW	you're welcome
