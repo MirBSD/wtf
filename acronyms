@@ -1,4 +1,4 @@
-$MirBSD: acronyms,v 1.8 2003/05/03 13:09:32 tg Exp $
+$MirBSD: acronyms,v 1.9 2003/05/06 18:21:59 tg Exp $
 $NetBSD: acronyms,v 1.117 2003/04/30 13:04:52 jmmv Exp $
 10X	tenx (thanks)
 ACK	achja, cönnt klappen
@@ -99,6 +99,7 @@ G	grin
 G/C	garbage collect{,ion}
 GAC	get a clue
 GAL	get a life
+GCC	gcc can't compile
 GIGO	garbage in, garbage out
 GL	"gl hf" - good luck, have fun [StarCraft]
 GMTA	great minds think alike
