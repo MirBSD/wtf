@@ -1,4 +1,4 @@
-$MirBSD: acronyms,v 1.21 2003/09/09 20:30:52 tg Exp $
+$MirBSD: acronyms,v 1.22 2003/09/10 14:28:31 tg Exp $
 $NetBSD: acronyms,v 1.124 2003/08/31 16:35:32 wiz Exp $
 10X	tenx (thanks)
 ACK	achja, cönnt klappen
@@ -389,6 +389,7 @@ TBOMK	the best of my knowledge
 TDR	Theo de Raadt -- http://theos.com/
 THGTTG	the hitchhiker's guide to the galaxy
 TIA	thanks in advance
+TIMTOWTDI	there is more than one way to do it (perl sucks, now we all know why)
 TINC	there is no cabal
 TLA	three letter acronym
 TLB	translation lookaside buffer
