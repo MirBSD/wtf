@@ -1,8 +1,24 @@
-#!/bin/sh -
-#	$MirBSD: wtf,v 1.2 2003/04/20 19:14:56 tg Exp $
-#	$NetBSD: wtf,v 1.7 2000/11/21 00:18:52 soren Exp $
+#!/bin/sh
+# $MirBSD: wtf,v 1.3 2004/03/11 19:29:01 tg Exp $
+# $NetBSD: wtf,v 1.7 2000/11/21 00:18:52 soren Exp $
+#-
+# Copyright (c) 2004
+#	Thorsten "mirabile" Glaser <x86@ePost.de>
 #
-# Public domain
+# Subject to these terms, everybody who obtained a copy of this work
+# is hereby permitted to deal in the work without restriction inclu-
+# ding without limitation the rights to use, distribute, sell, modi-
+# fy, publically perform, give away, merge or sublicence it provided
+# this notice is kept and the authors and contributors are given due
+# credit in derivates or accompanying documents.
+#
+# This work is provided "as is" with no explicit or implicit warran-
+# ties whatsoever to the maximum extent permitted by applicable law;
+# in no event may an author or contributor be held liable for damage
+# that is, directly or indirectly, caused by the work, even if advi-
+# sed of the possibility of such damage.
+#-
+# This script was originally in the public domin from NetBSD.
 
 acronyms=${ACRONYMDB:-/usr/share/misc/acronyms}
 
@@ -19,7 +35,14 @@ while [ $# -gt 0 ] ; do
 		echo "   ${target}:\n${ans}"
 	else
 		ans=$(whatis $1 2>/dev/null | egrep "^$1[, ]" 2>/dev/null)
-		if [ $? -eq 0 ] ; then
+		if [ $? -ne 0 ]; then
+			ans=$( export IFS=\|; fgrep $1 \
+			    /usr/ports/INDEX 2>/dev/null \
+			    | while read a b c d e; do \
+				echo "${a}|$d"; done \
+			    | fgrep $1 2>/dev/null | column -ts\|)
+		fi
+		if [ -n "$ans" ]; then
 			echo "   ${1}:\n${ans}"
 		else
 			echo "Gee...  I don't know what $1 means..." 1>&2
