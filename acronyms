@@ -1,6 +1,6 @@
-$MirBSD: acronyms,v 1.28 2003/12/28 17:33:03 tg Exp $
-$NetBSD: acronyms,v 1.127 2003/10/10 12:16:05 jmmv Exp $
-$NetBSD: acronyms.comp,v 1.26 2003/10/29 13:52:25 wennmach Exp $
+$MirBSD: acronyms,v 1.29 2004/01/14 16:25:56 tg Exp $
+$NetBSD: acronyms,v 1.135 2004/01/14 13:46:26 keihan Exp $
+$NetBSD: acronyms.comp,v 1.34 2004/01/14 13:46:26 keihan Exp $
 10X	tenx (thanks)
 ABI	application binary interface
 ACK	achja, cönnt klappen
@@ -24,6 +24,7 @@ AKA	also known as
 ANSI	American National Standards Institute
 API	application programming interface
 APIC	advanced programmable interrupt controller
+ARP	address resolution protocol
 ASAIC	as soon as I can
 ASAP	as soon as possible
 AT	advanced technology
@@ -36,6 +37,8 @@ AWOL	absent without official leave
 AYB	all your base are belong to us
 AYBABTU	all your base are belong to us
 B/C	because
+B/S	bullshit
+B/W	between
 B4	before
 BASIC	beginners' all-purpose symbolic instruction code (_the_ programming language per se)
 BBIAB	be back in a bit
@@ -54,11 +57,13 @@ BIAS	back in a second
 BIAW	back in a while
 BIOS	basic input/output system
 BLOB	binary large object
+BOATILAS	bend over and take it like a slut
 BOFH	bastard operator from hell
 BOGAHICA	bend over, grab ankles, here it comes again
 BOHICA	bend over here it comes again
 BRB	[I'll] be right back
 BRT	[I'll] be right there
+BS	bullshit
 BSD	basically secure and dependable
 BSD	berkeley software distribution
 BSD	big scary daemons
@@ -75,6 +80,7 @@ CAV	constant angular velocity (as opposed to CLV)
 CD	compact disc
 CDRAM	cache dynamic random access memory
 CGA	color graphics array
+CGI	common gateway interface
 CHS	cylinder/head/sector
 CIDR	classless inter-domain routing
 CLI	command line interface
@@ -96,6 +102,7 @@ DDC	display data channel
 DDR	double data rate
 DDWG	digital display working group
 DEBILLIAN	ancient GNU/Linux distribution, nearly forgotten
+DHCP	dynamic host configuration protocol
 DIY	do it yourself
 DJB	Dan J Bernstein -- http://cr.yp.to/
 DKDC	don't know, don't care
@@ -133,11 +140,13 @@ ETA	estimated time of arrival (usually infinite)
 ETLA	extended three letter acronym
 EWAG	experienced wild-ass guess
 FAQ	frequently asked question
+FAT	file allocation table
 FBRAM	frame buffer random access memory
 FCFS	first come first served
 FDA	Federal Drug Administration
 FDA	Für den Arsch
 FFS	fast file system
+FIGJAM	fuck I'm good, just ask me
 FIIK	fuck[ed] if I know
 FIIR	fuck[ed] if I remember
 FLOPS	floating [point] operations per second
@@ -209,6 +218,7 @@ IANAL	I am not a lawyer
 IC	I see
 IC	integrated circuit
 ICB	internet citizen's band
+ICBW	I could be wrong
 ICCL	I couldn't care less
 ICMP	internet control message protocol
 IDE	integrated drive electronics
@@ -217,6 +227,7 @@ IEEE	institute [of] electrical [and] electronics engineers
 IESG	internet engineering steering group
 IETF	internet engineering task force
 IHAFC	I haven't a fucking clue
+IHBW	I have been wrong
 IHNFC	I have no fucking clue
 IIANM	if I am not mistaken
 IINM	if I'm not mistaken
@@ -255,6 +266,7 @@ ITYM	It's this you mean
 ITYW	I think you want
 ITYW	Is it this you want
 ITYW	It's this you want
+IWBNI	it would be nice if
 IYSS	if you say so
 J/K	just kidding
 JAJAJAJA	yes yes yes yes (common German expression in OpenBSD development)
@@ -276,8 +288,10 @@ LART	luser attitude readjustment tool (ie, hammer)
 LBA	logical block addressing
 LCD	liquid crystal display
 LDAP	lightweight directory access protocol
+LED	light emitting diode
 LINUX	free (as in GNU) operating system kernel -- http://www.kernel.org/
 LINUX	life is not utterly exciting
+LIR	local internet registry
 LJBF	let's just be friends
 LKML	linux-kernel mailing list (vger.rutgers.edu -> vger.kernel.org)
 LMAO	laughing my ass off
@@ -368,6 +382,8 @@ MCSE	my customers support extravagance
 MDRAM	multibank dynamic random access memory
 MFG	with friendly greetings
 MIA	missing in action
+MIDI	musical instrument digital interface
+MIME	multipurpose internet mail extensions
 MIPS	meaningless indicator of processor speed
 MIPS	meaningless information provided by salesperson
 MIPS	million instructions per second
@@ -377,6 +393,7 @@ MMU	memory management unit
 MOTAS	member of the appropriate sex
 MOTOS	member of the opposite sex
 MOTSS	member of the same sex
+MPEG	moving picture experts group
 MSB	most significant bit [or: byte]
 MTA	mail transfer agent
 MTF	more to follow
@@ -390,11 +407,13 @@ NBD	no big deal
 NETBSD	most portable open source operating system -- http://www.netbsd.org/
 NFC	no fucking clue
 NFI	no fucking idea
+NFS	networking file system
 NFW	no fucking way
 NIC	network interface card
 NIH	not invented here
 NIS	network information service
 NM	never mind
+NMF	not my fault
 NMP	not my problem
 NOYB	none of your business
 NOYFB	none of your fucking business
@@ -404,6 +423,7 @@ NR	not really
 NRFPT	not ready for prime time
 NRN	no reply necessary
 NUMA	non uniform memory access
+OEM	original equipment manufacturer
 OIC	oh, I see
 OMG	Oh my Goddess!
 OMG	oh, my god
@@ -414,6 +434,7 @@ OTL	out to lunch
 OTOH	on the other hand
 OTT	over the top
 OTTOMH	off the top of my head
+PAM	pluggable authentication modules
 PAX	portable archive exchange
 PCI	peripheral component interconnect
 PCMCIA	Personal Computer Memory Card International Association
@@ -455,6 +476,8 @@ RATIBIBUGLE	french-specific version of ROTOTILL
 RCS	revision control system
 RFC	request for comments
 RGB	red green blue
+RIP	requiescat in pacem
+RIP	rest in peace
 RISC	reduced instruction set computing
 RL	real life
 RLC	rod length check
@@ -474,6 +497,7 @@ RSN	real soon now
 RTF	rich text format
 RTFB	read the fine/fucking book
 RTFC	read the fine/fucking code (see also UTFS)
+RTFD	read the fine/fucking documentation
 RTFJF	read the fine jargon file: http://www.catb.org/~esr/jargon/
 RTFM	read the fine/fucking manual
 RTFMF	read the fucking Makefile
@@ -484,12 +508,14 @@ RTFS	read the fine/fucking source
 RTFWS	read the {fine,fucking} web site
 RTFWS	return to frankensteins wooly sheep
 S/PDIF	sony/phillips digital interface
+SACD	super audio compact disc
 SAM	serial access memory
 SAP	Salary Appreciation Program.
 SAP	Sammelstelle Arbeitsloser Physiker
 SAP	Sanduhr-Anzeige-Programm
 SAP	Save and pray
 SAP	Schafft Arbeits-Plätze
+SAP	Schlimmstes Aller Probleme der Deutschen Telekom
 SAP	Schrecken, Angst und Panik
 SAP	See Administrators Panic
 SAP	See After Playing
@@ -532,6 +558,8 @@ SMP	symmetric multiprocessing
 SMTP	simple mail transfer protocol
 SNAFU	situation normal, all fucked up
 SNERT	snot-nosed egotistical rude teenager
+SNMP	simple network management protocol
+SNMP	sorry, not my problem
 SNR	signal to noise ratio
 SO	significant other
 SOB	son of [a] bitch
@@ -559,11 +587,15 @@ TCP	transmission control protocol
 TDR	Theo de Raadt -- http://theos.com/
 TFT	thin film transistor
 THGTTG	the hitchhiker's guide to the galaxy
+THNX	thanks
+THX	thanks
 TIA	thanks in advance
+TIFF	tagged image file format
 TIMTOWTDI	there is more than one way to do it (perl sucks, now we all know why)
 TINC	there is no cabal
 TLA	three letter acronym
 TLA	top level aggregator
+TLB	transition lookaside buffer
 TLB	translation lookaside buffer
 TLD	top level domain
 TM	thanks much (lilo lingo, from IRC)
@@ -582,6 +614,7 @@ TTYL8ER	tty (read) you later [usenet]
 TWIAVBP	the world is a very big place
 TWKMHNNOARN	those who know me have no need of a real name
 TWKMHNNOMRN	those who know me have no need of my real name
+TY	thank you
 TYVM	thank you very much
 TZ	time zone
 U/L	upload
@@ -596,16 +629,20 @@ UTFG	use the fscking google
 UTFS	use the {fine,fucking} source
 UTSL	use the source, Luke
 UUCP	unix-to-unix copy protocol
+VAX	virtual address extension
 VCM	virtual channel memory
 VEG	very evil grin
 VESA	video electronics standards association
 VGA	video graphics array
 VH	very helpful (lilo lingo, from IRC)
+VM	virtual memory
 VPN	virtual private network
 VRAM	video random access memory
 W/	with
 W/O	without
 WAG	wild-ass guess
+WAN	wide area network
+WAP	wireless application protocol
 WB	welcome back
 WDYM	what do you mean
 WFM	works for me
@@ -631,6 +668,7 @@ XGA	extended graphics array
 XML	extensible markup language
 XSL	extensible stylesheet language
 XT	extended technology
+YALIMO	you are lame, in my opinion
 YGWYPF	you get what you {pay,prayed} for
 YHBT	you have been trolled
 YHL	you have lost
