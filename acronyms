@@ -1,5 +1,5 @@
-$MirBSD: acronyms,v 1.19 2003/07/17 20:29:47 tg Exp $
-$NetBSD: acronyms,v 1.119 2003/06/10 19:11:10 wiz Exp $
+$MirBSD: acronyms,v 1.20 2003/09/04 12:36:39 tg Exp $
+$NetBSD: acronyms,v 1.124 2003/08/31 16:35:32 wiz Exp $
 10X	tenx (thanks)
 ACK	achja, cönnt klappen
 ACK	acknowledged / [japanese] Hai!
@@ -15,6 +15,7 @@ AFW	away from window
 AIU	as I understand
 AIUI	as I understand it
 AKA	also known as
+ASAIC	as soon as I can
 ASAP	as soon as possible
 ATM	asynchronous transfer mode
 ATM	at the moment
@@ -253,6 +254,7 @@ MCSE	my computer's software exploded
 MCSE	my cranium softened easily
 MCSE	my customers support extravagance
 MFG	with friendly greetings
+MIA	missing in action
 MIPS	meaningless indicator of processor speed
 MIPS	meaningless information provided by salesperson
 MIPS	{def.} die Zahl von Millionen Maschinenoperationen pro Sekunde, von der der Hersteller garantiert, daß sie unter keinerlei Betriebsbedingungen überschritten wird
@@ -273,6 +275,8 @@ NFW	no fucking way
 NIH	not invented here
 NM	never mind
 NMP	not my problem
+NOYB	none of your business
+NOYFB	none of your fucking business
 NP	no problem
 NP	now playing
 NR	not really
@@ -373,7 +377,7 @@ SOB	son of [a] bitch
 SOL	shit out [of] luck
 SOP	standard operating procedure
 SSIA	subject says it all
-STFA	search the fscking archives
+STFA	search the f{s,u}cking archives
 STFU	search the f{ine,ucking} usenet
 STFU	shut the fuck up
 SUS	stupid user syndrome
