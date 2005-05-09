@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.4 2005/04/09 13:17:12 tg Exp $
+$MirOS: wtf/acronyms,v 1.5 2005/05/09 21:08:02 bsiegert Exp $
 $NetBSD: acronyms,v 1.146 2005/03/10 05:45:25 soda Exp $
 $NetBSD: acronyms.comp,v 1.61 2005/03/28 15:07:16 jschauma Exp $
 10X	tenx (thanks)
@@ -816,6 +816,8 @@ VLAN	virtual local area network
 VLSM	variable length subnetting mask
 VM	virtual machine
 VM	virtual memory
+VMS	Virtual Memory System (aka OpenVMS, operating system by HP)
+VMS	Very Much Strange
 VPN	virtual private network
 VRAM	video random access memory
 W/	with
