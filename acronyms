@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.7 2005/05/19 06:48:41 tg Exp $
+$MirOS: wtf/acronyms,v 1.8 2005/06/27 20:49:27 tg Exp $
 $NetBSD: acronyms,v 1.146 2005/03/10 05:45:25 soda Exp $
 $NetBSD: acronyms.comp,v 1.61 2005/03/28 15:07:16 jschauma Exp $
 10X	tenx (thanks)
@@ -804,6 +804,7 @@ URL	uniform resource locator
 USART	universal synchronous/asynchronous receiver/transmitter
 USB	universal serial bus
 USWC	uncacheable speculative write combining
+UTFG	use the fscking google
 UTFG	use the fscking google
 UTFS	use the {fine,fucking} source
 UTP	unshielded twisted pair
