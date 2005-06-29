@@ -1,5 +1,5 @@
-$MirOS: wtf/acronyms,v 1.9 2005/06/29 12:05:46 tg Exp $
-$NetBSD: acronyms,v 1.146 2005/03/10 05:45:25 soda Exp $
+$MirOS: wtf/acronyms,v 1.10 2005/06/29 14:11:41 tg Exp $
+$NetBSD: acronyms,v 1.147 2005/06/14 12:26:32 peter Exp $
 $NetBSD: acronyms.comp,v 1.61 2005/03/28 15:07:16 jschauma Exp $
 10X	tenx (thanks)
 3WHS	three-way handshake
@@ -221,6 +221,7 @@ FOAD	{fall over,fuck off} and die
 FORD	er fuhr ford und kam nie wieder
 FORD	fix or repair daily
 FORD	für Ossis reicht det
+FOS	full of shit
 FPM	fast page mode
 FPU	Floating Point Unit
 FQDN	fully qualified domain name
@@ -356,6 +357,7 @@ JFTR	just falls Thema reinkarniert
 JFTR	just for the record
 JHD	just hit "delete"
 JIC	just in case
+JIHBED	some weird joke only certain NetBSD(R) freaks understand
 JMO	just my opinion
 JPEG	joint photography experts group
 JSYK	just so you know
