@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.11 2005/06/29 14:13:30 tg Exp $
+$MirOS: wtf/acronyms,v 1.12 2005/07/02 20:13:06 tg Exp $
 $NetBSD: acronyms,v 1.147 2005/06/14 12:26:32 peter Exp $
 $NetBSD: acronyms.comp,v 1.61 2005/03/28 15:07:16 jschauma Exp $
 10X	tenx (thanks)
@@ -357,8 +357,7 @@ JFTR	just falls Thema reinkarniert
 JFTR	just for the record
 JHD	just hit "delete"
 JIC	just in case
-JIHBED	it is word arabic == TOP AND POWER INTELLIGENT</quote>
-JIHBED	some weird joke only certain NetBSD(R) freaks understand
+JIHBED	it is word arabic == TOP AND POWER INTELLIGENT</quote> (a TNF joke)
 JMO	just my opinion
 JPEG	joint photography experts group
 JSYK	just so you know
@@ -562,6 +561,8 @@ PAM	pluggable authentication modules
 PAM	pulse amplitude modulation
 PAT	port address translation
 PAX	portable archive exchange
+PB	powerbook
+PB	problem
 PC	personal computer
 PCI	peripheral component interconnect
 PCM	pulse code modulation
