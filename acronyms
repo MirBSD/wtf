@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.12 2005/07/02 20:13:06 tg Exp $
+$MirOS: wtf/acronyms,v 1.13 2005/07/19 21:50:52 tg Exp $
 $NetBSD: acronyms,v 1.147 2005/06/14 12:26:32 peter Exp $
 $NetBSD: acronyms.comp,v 1.61 2005/03/28 15:07:16 jschauma Exp $
 10X	tenx (thanks)
@@ -26,6 +26,9 @@ AGP	accelerated graphics port
 AIU	as I understand
 AIUI	as I understand it
 AKA	also known as
+AKUEFI	Abkürzungsfimmel
+AKÜFI	Abkürzungsfimmel
+AKüFI	Abkürzungsfimmel
 AM	amplitude modulation
 AMI	alternate mark inversion
 ANSI	american national standards institute
