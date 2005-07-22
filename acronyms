@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.14 2005/07/22 21:32:42 tg Exp $
+$MirOS: wtf/acronyms,v 1.15 2005/07/22 22:24:19 tg Exp $
 $NetBSD: acronyms,v 1.147 2005/06/14 12:26:32 peter Exp $
 $NetBSD: acronyms.comp,v 1.61 2005/03/28 15:07:16 jschauma Exp $
 10X	tenx (thanks)
@@ -771,6 +771,7 @@ TIFF	tagged image file format
 TIMTOWTDI	there is more than one way to do it (perl sucks, now we all know why)
 TINC	there is no cabal
 TLA	three letter acronym
+TLA	tom lord's arch
 TLA	top level aggregator
 TLB	transition lookaside buffer
 TLB	translation lookaside buffer
