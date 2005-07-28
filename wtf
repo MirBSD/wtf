@@ -1,5 +1,5 @@
 #!/bin/mksh
-# $MirOS: wtf/wtf,v 1.3 2005/07/07 13:39:59 tg Exp $
+# $MirOS: wtf/wtf,v 1.4 2005/07/28 12:22:35 tg Exp $
 # $NetBSD: wtf,v 1.7 2000/11/21 00:18:52 soren Exp $
 #-
 # Copyright (c) 2002, 2003, 2004
@@ -24,13 +24,13 @@ acronyms=${ACRONYMDB:-/usr/share/misc/acronyms}
 
 [[ $1 = is || $1 = ist ]] && shift
 
-[ $# -lt 1 ] && echo "Usage: $(basename $0) [is] <acronym>"
+[ $# -lt 1 ] && print -u2 "Usage: $(basename $0) [is] <acronym>"
 
 rv=0
 while [ $# -gt 0 ] ; do
 	target="$(echo "$1" | tr '[:lower:]' '[:upper:]' \
 	    | sed 'y/äöü/ÄÖÜ/')"
-	ans="$(fgrep "$target" <$acronyms 2>/dev/null \
+	ans="$(fgrep -a "$target" <$acronyms 2>/dev/null \
 	    | sed -ne "/^$(echo "$target" \
 	    | sed s,/,.,)[[:space:]]/s\`^${target}[[:space:]]*\`\`p")"
 	if [[ -z $ans ]]; then
@@ -47,12 +47,12 @@ while [ $# -gt 0 ] ; do
 		)
 	fi
 	if [[ -n $ans ]]; then
-		echo "   ${target}:\n$ans"
+		print "   ${target}:\n$ans"
 	else
-		echo "Gee...  I don't know what '${target}' means..." 1>&2
+		print -u2 "Gee...  I don't know what '${target}' means..."
 		rv=1
 		if [ -x /usr/bin/dict ]; then
-			echo "Let's try The Dictionary..." 1>&2
+			print -u2 "Let's try The Dictionary..."
 			rv=2
 			dict "$target" && rv=0
 		fi
