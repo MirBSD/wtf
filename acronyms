@@ -1,8 +1,10 @@
-$MirOS: wtf/acronyms,v 1.15 2005/07/22 22:24:19 tg Exp $
+$MirOS: wtf/acronyms,v 1.16 2005/07/28 12:25:24 tg Exp $
 $NetBSD: acronyms,v 1.147 2005/06/14 12:26:32 peter Exp $
 $NetBSD: acronyms.comp,v 1.61 2005/03/28 15:07:16 jschauma Exp $
 10X	tenx (thanks)
 3WHS	three-way handshake
+</3	emoticon (a broken heart)
+<3	emoticon (a heart)
 ABI	application binary interface
 ACK	achja, cönnt klappen
 ACK	acknowledged / [japanese] Hai!
@@ -27,9 +29,8 @@ AIU	as I understand
 AIUI	as I understand it
 AIX	Ain't unIX
 AKA	also known as
-AKUEFI	AbkÃ¼rzungsfimmel
-AKÃœFI	AbkÃ¼rzungsfimmel
-AKÃ¼FI	AbkÃ¼rzungsfimmel
+AKUEFI	Abkürzungsfimmel
+AKÜFI	Abkürzungsfimmel
 AM	amplitude modulation
 AMI	alternate mark inversion
 ANSI	american national standards institute
@@ -544,6 +545,7 @@ NT	new technology
 NT	no text (also: n/t)
 NTSC	Never Twice Same Color
 NUMA	non uniform memory access
+NÄHMLICH	Wer nämlich mit h schreibt, ist dämlich.
 NÄMLICH	Wer nämlich mit h schreibt, ist dämlich.
 OCL	object constraint language
 OCR	optical character recognition
