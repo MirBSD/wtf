@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.17 2005/08/20 19:20:05 tg Exp $
+$MirOS: wtf/acronyms,v 1.18 2005/09/07 21:29:13 tg Exp $
 $NetBSD: acronyms,v 1.147 2005/06/14 12:26:32 peter Exp $
 $NetBSD: acronyms.comp,v 1.61 2005/03/28 15:07:16 jschauma Exp $
 10X	tenx (thanks)
@@ -592,6 +592,7 @@ PITA	pain in the ass
 PKSP	pound keys and spew profanity
 PLL	phase locked loop
 PLONK	Poster liest Originalposter nicht konsequent
+PMD	poor man's debugging (aka printf)
 PMT	photo-multiplier tube
 PNG	persona non grata
 PNG	portable network graphics
