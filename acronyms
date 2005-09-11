@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.19 2005/09/07 21:41:41 tg Exp $
+$MirOS: wtf/acronyms,v 1.20 2005/09/11 20:35:20 bsiegert Exp $
 $NetBSD: acronyms,v 1.147 2005/06/14 12:26:32 peter Exp $
 $NetBSD: acronyms.comp,v 1.61 2005/03/28 15:07:16 jschauma Exp $
 10X	tenx (thanks)
@@ -301,6 +301,7 @@ ICB	internet citizen's band
 ICBW	I could be wrong
 ICCL	I couldn't care less
 ICMP	internet control message protocol
+IDD	[dutch] inderdaad / indeed
 IDE	integrated drive electronics
 IDRP	inter-domain routing protocol
 IEC	international electrotechnical commission
