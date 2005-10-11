@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.20 2005/09/11 20:35:20 bsiegert Exp $
+$MirOS: wtf/acronyms,v 1.21 2005/10/11 20:47:55 tg Exp $
 $NetBSD: acronyms,v 1.147 2005/06/14 12:26:32 peter Exp $
 $NetBSD: acronyms.comp,v 1.61 2005/03/28 15:07:16 jschauma Exp $
 10X	tenx (thanks)
@@ -314,7 +314,7 @@ IHBW	I have been wrong
 IHNFC	I have no fucking clue
 IIANM	if I am not mistaken
 IINM	if I'm not mistaken
-IIRC	if I recall correctly
+IIRC	if I recall/remember correctly
 IIUC	if I understand correctly
 IKE	internet key exchange
 IMAO	in my arrogant opinion
