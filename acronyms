@@ -1,5 +1,5 @@
-$MirOS: wtf/acronyms,v 1.21 2005/10/11 20:47:55 tg Exp $
-$NetBSD: acronyms,v 1.147 2005/06/14 12:26:32 peter Exp $
+$MirOS: wtf/acronyms,v 1.22 2005/11/09 21:18:02 tg Exp $
+$NetBSD: acronyms,v 1.148 2005/09/20 13:22:04 jschauma Exp $
 $NetBSD: acronyms.comp,v 1.61 2005/03/28 15:07:16 jschauma Exp $
 10X	tenx (thanks)
 3WHS	three-way handshake
@@ -543,6 +543,7 @@ NR	not really
 NRFPT	not ready for prime time
 NRN	no reply necessary
 NRZ	non-return to zero
+NSFW	not suitable for work
 NT	new technology
 NT	no text (also: n/t)
 NTSC	Never Twice Same Color
@@ -754,7 +755,9 @@ STFU	search the f{ine,ucking} usenet
 STFU	shut the fuck up
 STFW	search the fucking web
 STP	shielded twisted pair
+SUS	Single UNIX® Specification
 SUS	stupid user syndrome
+SUSE	Software- und Systementwicklung (now Novell ):
 SVGA	super video graphics array
 SWAG	silly, wild-assed guess
 SWAHBI	silly, wild-assed hare-brained idea
