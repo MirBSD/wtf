@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.22 2005/11/09 21:18:02 tg Exp $
+$MirOS: wtf/acronyms,v 1.23 2005/11/20 18:54:41 tg Exp $
 $NetBSD: acronyms,v 1.148 2005/09/20 13:22:04 jschauma Exp $
 $NetBSD: acronyms.comp,v 1.61 2005/03/28 15:07:16 jschauma Exp $
 10X	tenx (thanks)
@@ -882,6 +882,7 @@ XML	extensible markup language
 XSL	extensible stylesheet language
 XSS	Cross-Site Scripting (sometimes CSS)
 XT	extended technology
+YAHOO	Yet Another Hierarchically Officious Oracle
 YALIMO	you are lame, in my opinion
 YGWYPF	you get what you {pay,prayed} for
 YHBT	you have been trolled
