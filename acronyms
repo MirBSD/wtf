@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.23 2005/11/20 18:54:41 tg Exp $
+$MirOS: wtf/acronyms,v 1.24 2006/01/01 03:15:39 tg Exp $
 $NetBSD: acronyms,v 1.148 2005/09/20 13:22:04 jschauma Exp $
 $NetBSD: acronyms.comp,v 1.61 2005/03/28 15:07:16 jschauma Exp $
 10X	tenx (thanks)
@@ -331,6 +331,7 @@ IP	internet protocol
 IPC	interprocess communication
 IPNG	internet protocol, next generation
 IPSEC	internet protocol security
+IPV	in place of (dutch)
 IPV6	next generation Internet Protocol, triggers japanese simple-mind ideas
 IRC	internet relay chat
 IRL	in real life
