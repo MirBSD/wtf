@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.24 2006/01/01 03:15:39 tg Exp $
+$MirOS: wtf/acronyms,v 1.25 2006/01/01 14:05:28 tg Exp $
 $NetBSD: acronyms,v 1.148 2005/09/20 13:22:04 jschauma Exp $
 $NetBSD: acronyms.comp,v 1.61 2005/03/28 15:07:16 jschauma Exp $
 10X	tenx (thanks)
@@ -352,6 +352,7 @@ ITYM	I think you mean
 ITYM	Is it this you mean
 ITYM	It's this you mean
 ITYW	I think you want
+ITYW	I'll tell you what
 ITYW	Is it this you want
 ITYW	It's this you want
 IWBNI	it would be nice if
