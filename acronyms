@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.26 2006/01/12 01:16:40 tg Exp $
+$MirOS: wtf/acronyms,v 1.27 2006/01/13 02:56:51 tg Exp $
 $NetBSD: acronyms,v 1.148 2005/09/20 13:22:04 jschauma Exp $
 $NetBSD: acronyms.comp,v 1.61 2005/03/28 15:07:16 jschauma Exp $
 10X	tenx (thanks)
@@ -765,6 +765,7 @@ SVGA	super video graphics array
 SWAG	silly, wild-assed guess
 SWAHBI	silly, wild-assed hare-brained idea
 SWMBO	she who must be obeyed
+TANSTA	there ain't (no) such thing as ...
 TANSTAAFL	there ain't no such thing as a free lunch
 TBC	to be continued
 TBD	to be {decided,determined,done}
@@ -782,6 +783,7 @@ TIA	thanks in advance
 TIFF	tagged image file format
 TIMTOWTDI	there is more than one way to do it (perl sucks, now we all know why)
 TINC	there is no cabal
+TINSTA	there is no such thing as ...
 TLA	three letter acronym
 TLA	tom lord's arch
 TLA	top level aggregator
