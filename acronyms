@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.27 2006/01/13 02:56:51 tg Exp $
+$MirOS: wtf/acronyms,v 1.28 2006/01/24 10:35:57 tg Exp $
 $NetBSD: acronyms,v 1.148 2005/09/20 13:22:04 jschauma Exp $
 $NetBSD: acronyms.comp,v 1.61 2005/03/28 15:07:16 jschauma Exp $
 10X	tenx (thanks)
@@ -159,6 +159,8 @@ DKDC	don't know, don't care
 DLE	data link escape
 DLL	dynamic link library (shared object)
 DMA	direct memory access
+DMCA	(USA) digital milennium copyright act
+DMCA	don't make content accessible
 DNS	domain name system
 DOCH	German for "yes" answering "you don't ..., do you?"
 DOS	Disc Operating System
