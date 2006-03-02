@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.30 2006/02/06 17:54:14 tg Exp $
+$MirOS: wtf/acronyms,v 1.31 2006/03/02 00:58:32 tg Exp $
 $NetBSD: acronyms,v 1.148 2005/09/20 13:22:04 jschauma Exp $
 $NetBSD: acronyms.comp,v 1.61 2005/03/28 15:07:16 jschauma Exp $
 10X	tenx (thanks)
@@ -493,6 +493,7 @@ MIA	missing in action
 MIDI	musical instrument digital interface
 MIME	multipurpose internet mail extensions
 MIPS	meaningless indicator of processor speed
+MIPS	meaningless information for a pushy salesman
 MIPS	meaningless information provided by salesperson
 MIPS	million instructions per second
 MIPS	{def.} die Zahl von Millionen Maschinenoperationen pro Sekunde, von der der Hersteller garantiert, daß sie unter keinerlei Betriebsbedingungen überschritten wird
