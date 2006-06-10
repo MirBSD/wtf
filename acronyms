@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.32 2006/04/01 19:02:21 tg Exp $
+$MirOS: wtf/acronyms,v 1.33 2006/06/10 22:28:09 tg Exp $
 $NetBSD: acronyms,v 1.148 2005/09/20 13:22:04 jschauma Exp $
 $NetBSD: acronyms.comp,v 1.61 2005/03/28 15:07:16 jschauma Exp $
 10X	tenx (thanks)
@@ -390,6 +390,7 @@ LCD	liquid crystal display
 LCP	link control protocol
 LDAP	lightweight directory access protocol
 LED	light emitting diode
+LER	light emitting resistant
 LINUX	free (as in GNU) operating system kernel -- http://www.kernel.org/
 LINUX	life is not utterly exciting
 LIR	local internet registry
@@ -721,6 +722,7 @@ SCNR	sorry, could not resist
 SCSI	small computer system interface
 SDRAM	synchronous dynamic random access memory
 SECAM	Something Essentialy Contrary to the American Method
+SED	smoke emitting diode
 SEP	someone else's problem
 SFA	sweet fuck all
 SGRAM	synchronous graphics random access memory
@@ -872,6 +874,8 @@ WIBNI	wouldn't it be nice if
 WINDOWS	Will ich nicht doch ohne WINDOWS sein?
 WINDOWS	will install needless data on whole system
 WINDOWS	work is never done on WINDOWS systems.
+WINFX	Windows Fix Everyday
+WINFX	Windows Freakout Extension
 WIP	work in progress
 WLAN	wireless local area network
 WOFTAM	waste of fucking time and money
