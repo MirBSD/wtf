@@ -1,6 +1,6 @@
-$MirOS: wtf/acronyms,v 1.34 2006/06/15 19:18:50 tg Exp $
-$NetBSD: acronyms,v 1.148 2005/09/20 13:22:04 jschauma Exp $
-$NetBSD: acronyms.comp,v 1.61 2005/03/28 15:07:16 jschauma Exp $
+$MirOS: wtf/acronyms,v 1.35 2006/06/25 03:22:24 tg Exp $
+$NetBSD: acronyms,v 1.158 2006/06/23 22:03:18 christos Exp $
+$NetBSD: acronyms.comp,v 1.69 2006/06/09 07:07:28 elad Exp $
 10X	tenx (thanks)
 3WHS	three-way handshake
 </3	emoticon (a broken heart)
@@ -48,6 +48,7 @@ ASN	autonomous system number
 AT	advanced technology
 ATA	advanced technology attachment
 ATAPI	advanced technology attachment packet interface
+ATC	address translation cache
 ATM	asynchronous transfer mode
 ATM	at the moment
 ATX	advanced technology extended
@@ -83,6 +84,7 @@ BOFH	bastard operator from hell
 BOGAHICA	bend over, grab ankles, here it comes again
 BOHICA	bend over here it comes again
 BPS	bits per second
+BQS	berkeley quality software
 BRB	[I'll] be right back
 BRT	[I'll] be right there
 BS	bullshit
@@ -151,6 +153,7 @@ DDWG	digital display working group
 DEBILLIAN	ancient GNU/Linux distribution, nearly forgotten
 DER	distinguished encoding rules
 DFT	discrete fourier transform
+DGAS	don't give a shit
 DHCP	dynamic host configuration protocol
 DIFS	distributed inter-frame space
 DIY	do it yourself
@@ -166,6 +169,8 @@ DOCH	German for "yes" answering "you don't ..., do you?"
 DOS	Disc Operating System
 DOS	denial of service
 DPCM	differential pulse code modulation
+DPD	Deutscher Paketdienst
+DPD	dead peer detection
 DPI	dots per inch
 DRAM	dynamic random access memory
 DSL	digital subscriber line
@@ -196,7 +201,9 @@ ELWMS	Eierlegende Wollmilchsau
 EMSG	email message
 EOB	end of business [day]
 EOD	end of discussion
+EOF	end of file
 EOL	end of life
+EOT	end of transmission
 EPIC	Explicitly Parallel Instruction Computing
 EPP	enhanced parallel port
 EPRML	extended partial response, maximum likelihood
@@ -241,7 +248,9 @@ FSF	Free Software Foundation -- http://www.fsf.org/ http://www.fsf-europe.org/
 FSVO	for sane values of
 FSVO	for some value of
 FTFM	fuck the fuckin' manual!
-FTP	file transfer protocol
+FTL	for the loss
+FTP	file transfer protocol (needs to die)
+FTW	for the win
 FU	fuck you
 FUBAR	fucked up beyond all recognition
 FUD	fear, uncertainty and doubt
@@ -378,6 +387,7 @@ JTLYK	just to let you know
 KISS	keep it simple, stupid
 KITA	kick in the arse
 KNF	kernel normal form (man 9 style)
+KPI	kernel programming interface
 KUNDE	kann ungestraft nerven, da Einnahmequelle
 KVA	kernel virtual address
 L8ER	later
@@ -586,6 +596,7 @@ PCI	peripheral component interconnect
 PCM	pulse code modulation
 PCMCIA	personal computer memory card international association
 PDP	page descriptor page
+PDQ	pretty darn quick
 PDU	protocol data unit
 PEBCAK	reverse'ism for PEBKAC
 PEBKAC	problem exists between keyboard and chair
@@ -593,6 +604,7 @@ PER	packed encoding rules
 PERL	Pathologically Eclectic Rubbish Lister
 PERL	practical extraction [and] report language
 PFO	please fuck off
+PFS	perfect forward secrecy
 PFY	pimply faced youth
 PGP	pretty good privacy
 PHD	Doctor of Philosophy
@@ -683,6 +695,7 @@ RTS	request to send
 RTT	round time trip
 S/PDIF	sony/phillips digital interface
 SACD	super audio compact disc
+SAD	security association database
 SAM	serial access memory
 SAP	Salary Appreciation Program.
 SAP	Sammelstelle Arbeitsloser Physiker
@@ -716,6 +729,7 @@ SAP	Summe Aller Probleme
 SAP	Systeme, Anwendungen, Programme in der Datenverarbeitung
 SAP	ich sag's ja: SS, SA, SAP
 SASI	shugart associates system interface (predecessor to SCSI)
+SATA	satan
 SATA	serial advanced technology attachment
 SCNR	schulljung, connte nit rückhalten
 SCNR	sorry, could not resist
@@ -756,12 +770,14 @@ SOB	son of [a] bitch
 SOL	shit out [of] luck
 SOP	standard operating procedure
 SPARC	Scalable Processor Architecture
+SPD	security policy database
 SPD	serial presence detect
 SRAM	static random access memory
 SSFDC	solid state floppy disc card
 SSH	secure shell
 SSIA	subject says it all
 SSL	secure sockets layer
+SSTO	single stage to orbit
 STFA	search the f{s,u}cking archives
 STFU	search the f{ine,ucking} usenet
 STFU	shut the fuck up
@@ -804,6 +820,7 @@ TM	thanks much (lilo lingo, from IRC)
 TMA	too many abbreviations
 TMDS	transition minimized differential signaling
 TMI	too much information
+TMTOWTDI	there's more than one way to do it
 TNF	The NetBSD(TM) Foundation
 TNF	Tinnef (german dialect)
 TNX	thanks
@@ -847,6 +864,7 @@ UUCP	unix-to-unix copy protocol
 VAX	virtual address extension
 VCM	virtual channel memory
 VEG	very evil grin
+VERPEILUNGSFAKTOR	never forget it
 VESA	video electronics standards association
 VFS	Virtual File System
 VGA	video graphics array
@@ -868,6 +886,7 @@ WAP	wireless application protocol
 WB	welcome back
 WDYM	what do you mean
 WEP	Wired Equivalent Privacy (yikes! it's as insecure as hell)
+WFH	working from home
 WFM	works for me
 WHY	because.
 WIBNI	wouldn't it be nice if
