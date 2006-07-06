@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.35 2006/06/25 03:22:24 tg Exp $
+$MirOS: wtf/acronyms,v 1.36 2006/07/06 13:51:20 tg Exp $
 $NetBSD: acronyms,v 1.158 2006/06/23 22:03:18 christos Exp $
 $NetBSD: acronyms.comp,v 1.69 2006/06/09 07:07:28 elad Exp $
 10X	tenx (thanks)
@@ -772,6 +772,7 @@ SOP	standard operating procedure
 SPARC	Scalable Processor Architecture
 SPD	security policy database
 SPD	serial presence detect
+SPIT	spam over internet telephony
 SRAM	static random access memory
 SSFDC	solid state floppy disc card
 SSH	secure shell
