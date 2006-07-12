@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.37 2006/07/06 21:18:06 tg Exp $
+$MirOS: wtf/acronyms,v 1.38 2006/07/12 22:01:56 tg Exp $
 $NetBSD: acronyms,v 1.158 2006/06/23 22:03:18 christos Exp $
 $NetBSD: acronyms.comp,v 1.69 2006/06/09 07:07:28 elad Exp $
 10X	tenx (thanks)
@@ -901,6 +901,8 @@ WIP	work in progress
 WLAN	wireless local area network
 WOFTAM	waste of fucking time and money
 WOMBAT	waste of money, brain, and time
+WORM	write once, read many (CD-R predecessor)
+WORN	write once, read never (usually bad code)
 WRAM	window random access memory
 WRT	with respect to
 WTF	oh, it's me! *g*
