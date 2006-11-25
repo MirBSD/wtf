@@ -1,6 +1,6 @@
-$MirOS: wtf/acronyms,v 1.40 2006/10/05 00:32:53 tg Exp $
-$NetBSD: acronyms,v 1.158 2006/06/23 22:03:18 christos Exp $
-$NetBSD: acronyms.comp,v 1.69 2006/06/09 07:07:28 elad Exp $
+$MirOS: wtf/acronyms,v 1.41 2006/11/25 00:36:55 tg Exp $
+$NetBSD: acronyms,v 1.162 2006/11/12 11:29:51 bjh21 Exp $
+$NetBSD: acronyms.comp,v 1.71 2006/10/12 20:47:55 salo Exp $
 10X	tenx (thanks)
 3WHS	three-way handshake
 </3	emoticon (a broken heart)
@@ -185,6 +185,7 @@ DVD	digital versatile disc
 DVI	digital visual interface
 DWIM	do what I mean
 E-XER	extended XML encoding rules
+EAP    extensible authentication protocol
 ECP	enhanced capability port
 EDID	extended display identification data
 EDO	extended data out
@@ -288,6 +289,7 @@ GRE	generic routing encapsulation
 GTFO	get the fuck out
 GTG	got to go
 GUI	graphical user interface
+GWS    get well soon
 HAND	have a nice day
 HBCI	half correct banking interface
 HBCI	hand codeded banking interface
@@ -637,6 +639,7 @@ PPPOA	point-to-point protocol over ATM
 PPPOE	point-to-point protocol over ethernet
 PRML	partial response, maximum likelihood
 PROM	programmable read only memory
+PSK    pre-shared key
 PSTN	public switched telephone network
 PSU	power supply unit
 PTE	page table entry
@@ -732,6 +735,8 @@ SAP	ich sag's ja: SS, SA, SAP
 SASI	shugart associates system interface (predecessor to SCSI)
 SATA	satan
 SATA	serial advanced technology attachment
+SCM    software configuration management
+SCM    source code management
 SCNR	schulljung, connte nit rückhalten
 SCNR	sorry, could not resist
 SCSI	small computer system interface
@@ -768,6 +773,7 @@ SNMP	sorry, not my problem
 SNR	signal to noise ratio
 SO	shared object file (cf. DLL)
 SO	significant other
+SOA	Service Oriented Architecture
 SOB	son of [a] bitch
 SOL	shit out [of] luck
 SOP	standard operating procedure
@@ -797,6 +803,7 @@ TANSTA	there ain't (no) such thing as ...
 TANSTAAFL	there ain't no such thing as a free lunch
 TBC	to be continued
 TBD	to be {decided,determined,done}
+TBH    to be honest
 TBOMK	the best of my knowledge
 TCL	tool command language
 TCP	transmission control protocol
@@ -817,7 +824,9 @@ TLA	tom lord's arch
 TLA	top level aggregator
 TLB	transition lookaside buffer
 TLB	translation lookaside buffer
+TLC    tender loving care
 TLD	top level domain
+TLDR   too long, didn't read
 TLS	transport layer security
 TM	thanks much (lilo lingo, from IRC)
 TMA	too many abbreviations
@@ -889,6 +898,7 @@ WAP	wireless application protocol
 WB	welcome back
 WDYM	what do you mean
 WEP	Wired Equivalent Privacy (yikes! it's as insecure as hell)
+WEP    wired equivalent privacy
 WFH	working from home
 WFM	works for me
 WHY	because.
@@ -905,6 +915,7 @@ WOFTAM	waste of fucking time and money
 WOMBAT	waste of money, brain, and time
 WORM	write once, read many (CD-R predecessor)
 WORN	write once, read never (usually bad code)
+WPA    wi-fi protected access
 WRAM	window random access memory
 WRT	with respect to
 WTF	oh, it's me! *g*
