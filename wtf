@@ -1,9 +1,9 @@
 #!/bin/mksh
-# $MirOS: wtf/wtf,v 1.5 2005/12/17 05:46:29 tg Exp $
+# $MirOS: wtf/wtf,v 1.6 2006/11/25 00:49:47 tg Exp $
 # $NetBSD: wtf,v 1.7 2000/11/21 00:18:52 soren Exp $
 #-
-# Copyright (c) 2002, 2003, 2004
-#	Thorsten "mirabile" Glaser <tg@66h.42h.de>
+# Copyright (c) 2002, 2003, 2004, 2006
+#	Thorsten "mirabilos" Glaser <tg@66h.42h.de>
 #
 # Licensee is hereby permitted to deal in this work without restric-
 # tion, including unlimited rights to use, publicly perform, modify,
@@ -52,11 +52,16 @@ while [ $# -gt 0 ] ; do
 	else
 		print -u2 "Gee...  I don't know what '${target}' means..."
 		rv=1
-		if [ -x /usr/bin/dict ]; then
-			print -u2 "Let's try The Dictionary..."
-			rv=2
-			dict "$target" && rv=0
-		fi
+		for dir in /usr/bin /usr/local/bin /usr/mpkg/bin; do
+			if [ -x $dir/dict ]; then
+				print -u2 "Let's try The Dictionary..."
+				rv=2
+				if dict "$target"; then
+					rv=0
+					break
+				fi
+			fi
+		done
 	fi
 	shift
 done
