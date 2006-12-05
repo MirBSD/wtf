@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.41 2006/11/25 00:36:55 tg Exp $
+$MirOS: wtf/acronyms,v 1.42 2006/12/05 11:51:05 tg Exp $
 $NetBSD: acronyms,v 1.162 2006/11/12 11:29:51 bjh21 Exp $
 $NetBSD: acronyms.comp,v 1.71 2006/10/12 20:47:55 salo Exp $
 10X	tenx (thanks)
@@ -6,7 +6,7 @@ $NetBSD: acronyms.comp,v 1.71 2006/10/12 20:47:55 salo Exp $
 </3	emoticon (a broken heart)
 <3	emoticon (a heart)
 ABI	application binary interface
-ACK	achja, cönnt klappen
+ACK	achja, cÃ¶nnt klappen
 ACK	acknowledged / [japanese] Hai!
 ACL	access control list
 ACPI	advanced configuration and power interface
@@ -29,8 +29,8 @@ AIU	as I understand
 AIUI	as I understand it
 AIX	Ain't unIX
 AKA	also known as
-AKUEFI	Abkürzungsfimmel
-AKÜFI	Abkürzungsfimmel
+AKUEFI	AbkÃ¼rzungsfimmel
+AKÃœFI	AbkÃ¼rzungsfimmel
 AM	amplitude modulation
 AMI	alternate mark inversion
 ANSI	american national standards institute
@@ -185,7 +185,7 @@ DVD	digital versatile disc
 DVI	digital visual interface
 DWIM	do what I mean
 E-XER	extended XML encoding rules
-EAP    extensible authentication protocol
+EAP	extensible authentication protocol
 ECP	enhanced capability port
 EDID	extended display identification data
 EDO	extended data out
@@ -221,7 +221,7 @@ FBRAM	frame buffer random access memory
 FCFS	first come first served
 FCS	frame check sequence
 FDA	Federal Drug Administration
-FDA	Für den Arsch
+FDA	FÃ¼r den Arsch
 FDDI	fiber distributed data interface
 FFS	fast file system
 FHSS	frequency hop spread spectrum
@@ -236,7 +236,7 @@ FM	fucking magic
 FOAD	{fall over,fuck off} and die
 FORD	er fuhr ford und kam nie wieder
 FORD	fix or repair daily
-FORD	für Ossis reicht det
+FORD	fÃ¼r Ossis reicht det
 FOS	full of shit
 FPM	fast page mode
 FPU	Floating Point Unit
@@ -279,7 +279,7 @@ GL	"gl hf" - go lick hairy folksingers
 GL	"gl hf" - good luck, have fun [StarCraft]
 GMBH	Geh mal Bier holen (german pun)
 GMBH	Geh mir Bier holen (german pun)
-GMBH	Gesellschaft mit beschränkter Haftung (german)
+GMBH	Gesellschaft mit beschrÃ¤nkter Haftung (german)
 GMTA	great minds think alike
 GN8	goodneight
 GNU	GNU's Not Unix(r)
@@ -289,7 +289,7 @@ GRE	generic routing encapsulation
 GTFO	get the fuck out
 GTG	got to go
 GUI	graphical user interface
-GWS    get well soon
+GWS	get well soon
 HAND	have a nice day
 HBCI	half correct banking interface
 HBCI	hand codeded banking interface
@@ -510,7 +510,7 @@ MIPS	meaningless indicator of processor speed
 MIPS	meaningless information for a pushy salesman
 MIPS	meaningless information provided by salesperson
 MIPS	million instructions per second
-MIPS	{def.} die Zahl von Millionen Maschinenoperationen pro Sekunde, von der der Hersteller garantiert, daß sie unter keinerlei Betriebsbedingungen überschritten wird
+MIPS	{def.} die Zahl von Millionen Maschinenoperationen pro Sekunde, von der der Hersteller garantiert, daÃŸ sie unter keinerlei Betriebsbedingungen Ã¼berschritten wird
 MIRBSD	split of OpenBSD with a lot of improvements -- http://mirbsd.de/
 MMU	memory management unit
 MODE	Mann, opfere dein Erspartes!
@@ -570,8 +570,8 @@ NT	new technology
 NT	no text (also: n/t)
 NTSC	Never Twice Same Color
 NUMA	non uniform memory access
-NÄHMLICH	Wer nämlich mit h schreibt, ist dämlich.
-NÄMLICH	Wer nämlich mit h schreibt, ist dämlich.
+NÃ„HMLICH	Wer nÃ¤mlich mit h schreibt, ist dÃ¤mlich.
+NÃ„MLICH	Wer nÃ¤mlich mit h schreibt, ist dÃ¤mlich.
 OCL	object constraint language
 OCR	optical character recognition
 OEM	original equipment manufacturer
@@ -639,7 +639,7 @@ PPPOA	point-to-point protocol over ATM
 PPPOE	point-to-point protocol over ethernet
 PRML	partial response, maximum likelihood
 PROM	programmable read only memory
-PSK    pre-shared key
+PSK	pre-shared key
 PSTN	public switched telephone network
 PSU	power supply unit
 PTE	page table entry
@@ -673,7 +673,7 @@ ROFL	Respekt, Originalposting fein lustig
 ROFL	rolling on floor laughing
 ROFLMAO	rolling on floor laughing my arse off
 ROM	read only memory
-ROTFL	Respekt, Originalposting tatsächlich fein lustig
+ROTFL	Respekt, Originalposting tatsÃ¤chlich fein lustig
 ROTFL	rolling on the floor laughing
 ROTFLBTCDICAJTTWADBSIHPWTRHITSBKABAYB	rolling on the floor laughing, biting the carpet, dancing in circles and jumping through the window almost dieing by smashing into hp who's then running horrified into the street being killed accidentally by a yellow bulldozer
 ROTFLMAO	rolling on the floor laughing my arse off
@@ -705,7 +705,7 @@ SAP	Salary Appreciation Program.
 SAP	Sammelstelle Arbeitsloser Physiker
 SAP	Sanduhr-Anzeige-Programm
 SAP	Save and pray
-SAP	Schafft Arbeits-Plätze
+SAP	Schafft Arbeits-PlÃ¤tze
 SAP	Schlimmstes Aller Probleme der Deutschen Telekom
 SAP	Schrecken, Angst und Panik
 SAP	Secondary Audio Programming
@@ -714,7 +714,7 @@ SAP	See After Playing
 SAP	Service Access Point
 SAP	Sex And Pornography
 SAP	Sicherer Arbeitsplatz
-SAP	Sichert Arbeits-Plätze
+SAP	Sichert Arbeits-PlÃ¤tze
 SAP	Simple Application Program
 SAP	Software Ante Portas
 SAP	Software aus Pakistan
@@ -735,9 +735,9 @@ SAP	ich sag's ja: SS, SA, SAP
 SASI	shugart associates system interface (predecessor to SCSI)
 SATA	satan
 SATA	serial advanced technology attachment
-SCM    software configuration management
-SCM    source code management
-SCNR	schulljung, connte nit rückhalten
+SCM	software configuration management
+SCM	source code management
+SCNR	schulljung, connte nit rÃ¼ckhalten
 SCNR	sorry, could not resist
 SCSI	small computer system interface
 SDRAM	synchronous dynamic random access memory
@@ -760,7 +760,7 @@ SLDRAM	synchronous-link dynamic random access memory
 SMART	self-monitoring analysis and reporting technology
 SMB	Server Message Block
 SMBFS	Server Message Block File System (see CIFS)
-SMIDF	schieß mir in den Fuß
+SMIDF	schieÃŸ mir in den FuÃŸ
 SMIDF	simple-minded incompetent drooling fool
 SMLSFB	so many losers, so few bullets
 SMOP	simple matter of programming
@@ -792,7 +792,7 @@ STFU	search the f{ine,ucking} usenet
 STFU	shut the fuck up
 STFW	search the fucking web
 STP	shielded twisted pair
-SUS	Single UNIX® Specification
+SUS	Single UNIXÂ® Specification
 SUS	stupid user syndrome
 SUSE	Software- und Systementwicklung (now Novell ):
 SVGA	super video graphics array
@@ -803,7 +803,7 @@ TANSTA	there ain't (no) such thing as ...
 TANSTAAFL	there ain't no such thing as a free lunch
 TBC	to be continued
 TBD	to be {decided,determined,done}
-TBH    to be honest
+TBH	to be honest
 TBOMK	the best of my knowledge
 TCL	tool command language
 TCP	transmission control protocol
@@ -824,9 +824,9 @@ TLA	tom lord's arch
 TLA	top level aggregator
 TLB	transition lookaside buffer
 TLB	translation lookaside buffer
-TLC    tender loving care
+TLC	tender loving care
 TLD	top level domain
-TLDR   too long, didn't read
+TLDR	too long, didn't read
 TLS	transport layer security
 TM	thanks much (lilo lingo, from IRC)
 TMA	too many abbreviations
@@ -898,7 +898,7 @@ WAP	wireless application protocol
 WB	welcome back
 WDYM	what do you mean
 WEP	Wired Equivalent Privacy (yikes! it's as insecure as hell)
-WEP    wired equivalent privacy
+WEP	wired equivalent privacy
 WFH	working from home
 WFM	works for me
 WHY	because.
@@ -915,7 +915,7 @@ WOFTAM	waste of fucking time and money
 WOMBAT	waste of money, brain, and time
 WORM	write once, read many (CD-R predecessor)
 WORN	write once, read never (usually bad code)
-WPA    wi-fi protected access
+WPA	wi-fi protected access
 WRAM	window random access memory
 WRT	with respect to
 WTF	oh, it's me! *g*
@@ -926,7 +926,7 @@ WWW	weltweit warten
 WWW	world wide waiting
 WWW	world wide web
 WYSIWYG	what you see is what you get
-XD	;-) on español
+XD	;-) on espaÃ±ol
 XER	XML encoding rules
 XGA	extended graphics array
 XHTML	Extensible Hyper-Text Markup Language
