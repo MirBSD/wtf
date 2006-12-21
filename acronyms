@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.43 2006/12/05 11:51:37 tg Exp $
+$MirOS: wtf/acronyms,v 1.44 2006/12/21 16:16:36 tg Exp $
 $NetBSD: acronyms,v 1.162 2006/11/12 11:29:51 bjh21 Exp $
 $NetBSD: acronyms.comp,v 1.71 2006/10/12 20:47:55 salo Exp $
 10X	tenx (thanks)
@@ -88,6 +88,8 @@ BQS	berkeley quality software
 BRB	[I'll] be right back
 BRT	[I'll] be right there
 BS	bullshit
+BSD	Blobs Schaden Dir
+BSD	Blobs Sind Doof
 BSD	basically secure and dependable
 BSD	berkeley software distribution
 BSD	big scary daemons
