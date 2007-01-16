@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.44 2006/12/21 16:16:36 tg Exp $
+$MirOS: wtf/acronyms,v 1.45 2007/01/16 17:08:32 tg Exp $
 $NetBSD: acronyms,v 1.162 2006/11/12 11:29:51 bjh21 Exp $
 $NetBSD: acronyms.comp,v 1.71 2006/10/12 20:47:55 salo Exp $
 10X	tenx (thanks)
@@ -397,6 +397,7 @@ KUNDE	kann ungestraft nerven, da Einnahmequelle
 KVA	kernel virtual address
 L8ER	later
 L8R	later
+LACP	Link Aggregation Control Protocol
 LAN	local area network
 LART	luser attitude readjustment tool (ie, hammer)
 LBA	logical block addressing
@@ -508,6 +509,7 @@ MFS	Memory File System
 MIA	missing in action
 MIDI	musical instrument digital interface
 MIME	multipurpose internet mail extensions
+MIPS	Microprocessor without Interlocked Pipeline Stages
 MIPS	meaningless indicator of processor speed
 MIPS	meaningless information for a pushy salesman
 MIPS	meaningless information provided by salesperson
@@ -777,7 +779,9 @@ SNMP	sorry, not my problem
 SNR	signal to noise ratio
 SO	shared object file (cf. DLL)
 SO	significant other
+SOA	Seksueel Overdraagbare Aandoening (STD in dutch)
 SOA	Service Oriented Architecture
+SOA	Start Of Authority (DNS record type)
 SOB	son of [a] bitch
 SOL	shit out [of] luck
 SOP	standard operating procedure
@@ -791,6 +795,8 @@ SSH	secure shell
 SSIA	subject says it all
 SSL	secure sockets layer
 SSTO	single stage to orbit
+STD	Sexually Trasmittable Disease
+STD	Standard
 STFA	search the f{s,u}cking archives
 STFU	search the f{ine,ucking} usenet
 STFU	shut the fuck up
