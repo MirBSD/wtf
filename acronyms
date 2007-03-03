@@ -1,6 +1,6 @@
-$MirOS: wtf/acronyms,v 1.45 2007/01/16 17:08:32 tg Exp $
-$NetBSD: acronyms,v 1.162 2006/11/12 11:29:51 bjh21 Exp $
-$NetBSD: acronyms.comp,v 1.71 2006/10/12 20:47:55 salo Exp $
+$MirOS: wtf/acronyms,v 1.46 2007/03/03 21:23:25 tg Exp $
+$NetBSD: acronyms,v 1.164 2007/01/31 18:37:07 elad Exp $
+$NetBSD: acronyms.comp,v 1.73 2007/01/25 05:40:26 salo Exp $
 10X	tenx (thanks)
 3WHS	three-way handshake
 </3	emoticon (a broken heart)
@@ -105,13 +105,14 @@ BTX	Balanced Technology Extended
 BTX	Bildschirmtext (der Deutschen Bundespost Telekom)
 CAD	computer-aided design
 CAM	Computer-Aided Manufacturing (as in CAD/CAM)
+CARP	common address redundancy protocol
 CAV	constant angular velocity (as opposed to CLV)
 CCD	charge coupled device
 CD	compact disc
 CDDA	compact disc digital audio
 CDRAM	cache dynamic random access memory
 CER	canonical encoding rules
-CGA	color graphics array
+CGA	color graphics adapter
 CGI	common gateway interface
 CHS	cylinder/head/sector
 CICS	Customer Information Control System
@@ -192,9 +193,10 @@ ECP	enhanced capability port
 EDID	extended display identification data
 EDO	extended data out
 EEPROM	electrically erasable programmable read only memory
+EFI	extensible firmware interface
 EFM	eight to fourteen modulation
 EG	evil grin
-EGA	enhanced graphics array
+EGA	enhanced graphics adapter
 EGP	exterior gateway protocol
 EISA	extended industry standard architecture
 ELF	endless long to wait for
@@ -250,9 +252,11 @@ FSDO	for some definition of
 FSF	Free Software Foundation -- http://www.fsf.org/ http://www.fsf-europe.org/
 FSVO	for sane values of
 FSVO	for some value of
+FTBFS	failure to build from source
 FTFM	fuck the fuckin' manual!
 FTL	for the loss
 FTP	file transfer protocol (needs to die)
+FTPS	file transfer protocol, ssl secured
 FTW	for the win
 FU	fuck you
 FUBAR	fucked up beyond all recognition
@@ -302,14 +306,17 @@ HBCI	hopelessly corrupt banking interface
 HDA	Heil den Asen (=OMG)
 HDB	Heil Dir, Bruder
 HDCP	high-bandwidth digital content protection
+HDD	hard disc drive
 HDW	Heil den Wansen (=OMG)
 HF	see GL
+HHDD	hybrid hard disc drive
 HHIS	hanging head in shame
 HICA	here it comes again
 HTH	hoffentlich tut's helfen
 HTH	hope this helps
 HTML	hyper-text markup language
 HTTP	hyper-text transfer protocol
+HTTPS	hyper-text transfer protocol, ssl secured
 I2O	intelligent input/output
 IAC	in any case
 IANA	internet assigned number authority
@@ -395,6 +402,7 @@ KNF	kernel normal form (man 9 style)
 KPI	kernel programming interface
 KUNDE	kann ungestraft nerven, da Einnahmequelle
 KVA	kernel virtual address
+KVM	keyboard, video, mouse switch
 L8ER	later
 L8R	later
 LACP	Link Aggregation Control Protocol
@@ -407,10 +415,12 @@ LCP	link control protocol
 LDAP	lightweight directory access protocol
 LED	light emitting diode
 LER	light emitting resistant
+LGTM	looks good to me
 LINUX	free (as in GNU) operating system kernel -- http://www.kernel.org/
 LINUX	life is not utterly exciting
 LIR	local internet registry
 LJBF	let's just be friends
+LKM	loadable kernel module
 LKML	linux-kernel mailing list (vger.rutgers.edu -> vger.kernel.org)
 LLC	logical link control
 LMAO	laughing my arse off
@@ -419,6 +429,7 @@ LOL	lachend, oba laut
 LOL	laughing out loud
 LRC	longitudinal redundancy check
 LSB	least significant bit [or: byte]
+LSB	linux standards base
 LTNS	long time no see
 LUN	logical unit number
 LZW	Lempel Ziv Welch
@@ -523,6 +534,7 @@ MOTAS	member of the appropriate sex
 MOTOS	member of the opposite sex
 MOTSS	member of the same sex
 MPEG	moving picture experts group
+MPLS	multiprotocol label switching
 MSB	most significant bit [or: byte]
 MSF	minutes seconds frames
 MSIE	Microsoft Slaves' Incessant Exasperation
@@ -545,6 +557,7 @@ NAT	network address translation
 NAV	network allocation vector
 NBD	no big deal
 NCP	network control protocol
+NCQ	native command queuing
 NETBSD	... is a registered trademark of TNF
 NETBSD	most portable open source operating system -- http://www.netbsd.org/
 NFC	no fucking clue
@@ -588,6 +601,8 @@ OMG	oh, my god
 OPENBSD	most secure open source operating system -- http://www.OpenBSD.org/
 OSF	open software foundation
 OSI	open systems interconnection
+OSI	open-source initiative
+OSPF	open shortest path first
 OT	off topic
 OT	ohne Themenbezug
 OTL	out to lunch
@@ -741,6 +756,7 @@ SAP	ich sag's ja: SS, SA, SAP
 SASI	shugart associates system interface (predecessor to SCSI)
 SATA	satan
 SATA	serial advanced technology attachment
+SB	sound blaster
 SCM	software configuration management
 SCM	source code management
 SCNR	schulljung, connte nit rückhalten
@@ -790,6 +806,7 @@ SPD	security policy database
 SPD	serial presence detect
 SPIT	spam over internet telephony
 SRAM	static random access memory
+SSD	solid state disc
 SSFDC	solid state floppy disc card
 SSH	secure shell
 SSIA	subject says it all
@@ -808,6 +825,7 @@ SUSE	Software- und Systementwicklung (now Novell ):
 SVGA	super video graphics array
 SWAG	silly, wild-assed guess
 SWAHBI	silly, wild-assed hare-brained idea
+SWFG	search with fucking google
 SWMBO	she who must be obeyed
 TANSTA	there ain't (no) such thing as ...
 TANSTAAFL	there ain't no such thing as a free lunch
@@ -817,10 +835,12 @@ TBH	to be honest
 TBOMK	the best of my knowledge
 TCL	tool command language
 TCP	transmission control protocol
+TCQ	tagged command queueing
 TDD	test driven development
 TDR	Theo de Raadt -- http://theos.com/
 TEAM	toll, ein Anderer macht's!
 TFT	thin film transistor
+TFTP	trivial file transfer protocol
 THGTTG	the hitchhiker's guide to the galaxy
 THNX	thanks
 THX	thanks
@@ -883,6 +903,7 @@ UTFS	use the {fine,fucking} source
 UTP	unshielded twisted pair
 UTSL	use the source, Luke
 UUCP	unix-to-unix copy protocol
+UUOC	useless use of cat
 VAX	virtual address extension
 VCM	virtual channel memory
 VEG	very evil grin
@@ -892,13 +913,14 @@ VFS	Virtual File System
 VGA	video graphics array
 VH	very helpful (lilo lingo, from IRC)
 VLAN	virtual local area network
-VLSM	variable length subnetting mask
+VLSM	variable length subnet mask
 VM	virtual machine
 VM	virtual memory
 VMS	Very Much Strange
 VMS	Virtual Memory System (aka OpenVMS, operating system by HP)
 VPN	virtual private network
 VRAM	video random access memory
+VRRP	virtual router redundancy protocol
 W/	with
 W/O	without
 WAG	wild-ass guess
@@ -913,6 +935,7 @@ WFH	working from home
 WFM	works for me
 WHY	because.
 WIBNI	wouldn't it be nice if
+WIFI	wireless fidelity
 WINDOWS	Which Idiot Needs Definitly Obsolete (and) Worse Software
 WINDOWS	Will ich nicht doch ohne WINDOWS sein?
 WINDOWS	will install needless data on whole system
@@ -938,6 +961,7 @@ WWW	world wide web
 WYSIWYG	what you see is what you get
 XD	;-) on español
 XER	XML encoding rules
+XGA	extended graphics adapter
 XGA	extended graphics array
 XHTML	Extensible Hyper-Text Markup Language
 XML	extensible markup language
