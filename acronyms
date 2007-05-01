@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.46 2007/03/03 21:23:25 tg Exp $
+$MirOS: wtf/acronyms,v 1.47 2007/05/01 11:36:10 tg Exp $
 $NetBSD: acronyms,v 1.164 2007/01/31 18:37:07 elad Exp $
 $NetBSD: acronyms.comp,v 1.73 2007/01/25 05:40:26 salo Exp $
 10X	tenx (thanks)
@@ -632,6 +632,7 @@ PFS	perfect forward secrecy
 PFY	pimply faced youth
 PGP	pretty good privacy
 PHD	Doctor of Philosophy
+PHP	people hate PHP
 PIC	programmable interrupt controller
 PID	process id
 PIN	personal identification number
