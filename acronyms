@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.47 2007/05/01 11:36:10 tg Exp $
+$MirOS: wtf/acronyms,v 1.48 2007/05/14 20:55:55 tg Exp $
 $NetBSD: acronyms,v 1.164 2007/01/31 18:37:07 elad Exp $
 $NetBSD: acronyms.comp,v 1.73 2007/01/25 05:40:26 salo Exp $
 10X	tenx (thanks)
@@ -387,6 +387,7 @@ J/K	just kidding
 JAJAJAJA	yes yes yes yes (common German expression in OpenBSD development)
 JARGON	hacker slang censored - http://catb.org/~esr/jargon/chaff.html
 JARGON	hacker slang collection - http://catb.org/~esr/jargon/
+JFGI	just fucking google it
 JFTR	just falls Thema reinkarniert
 JFTR	just for the record
 JHD	just hit "delete"
