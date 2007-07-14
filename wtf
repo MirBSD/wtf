@@ -1,25 +1,24 @@
 #!/bin/mksh
-# $MirOS: wtf/wtf,v 1.6 2006/11/25 00:49:47 tg Exp $
+# $MirOS: wtf/wtf,v 1.7 2007/07/14 20:08:45 tg Exp $
 # $NetBSD: wtf,v 1.7 2000/11/21 00:18:52 soren Exp $
 #-
-# Copyright (c) 2002, 2003, 2004, 2006
+# Copyright (c) 2002, 2003, 2004, 2006, 2007
 #	Thorsten "mirabilos" Glaser <tg@66h.42h.de>
 #
-# Licensee is hereby permitted to deal in this work without restric-
-# tion, including unlimited rights to use, publicly perform, modify,
-# merge, distribute, sell, give away or sublicence, provided all co-
-# pyright notices above, these terms and the disclaimer are retained
-# in all redistributions or reproduced in accompanying documentation
-# or other materials provided with binary redistributions.
+# Provided that these terms and disclaimer and all copyright notices
+# are retained or reproduced in an accompanying document, permission
+# is granted to deal in this work without restriction, including un-
+# limited rights to use, publicly perform, distribute, sell, modify,
+# merge, give away, or sublicence.
 #
-# Licensor offers the work "AS IS" and WITHOUT WARRANTY of any kind,
-# express, or implied, to the maximum extent permitted by applicable
-# law, without malicious intent or gross negligence; in no event may
-# licensor, an author or contributor be held liable for any indirect
-# or other damage, or direct damage except proven a consequence of a
-# direct error of said person and intended use of this work, loss or
-# other issues arising in any way out of its use, even if advised of
-# the possibility of such damage or existence of a nontrivial bug.
+# This work is provided "AS IS" and WITHOUT WARRANTY of any kind, to
+# the utmost extent permitted by applicable law, neither express nor
+# implied; without malicious intent or gross negligence. In no event
+# may a licensor, author or contributor be held liable for indirect,
+# direct, other damage, loss, or other issues arising in any way out
+# of dealing in the work, even if advised of the possibility of such
+# damage or existence of a defect, except proven that it results out
+# of said person's immediate fault when using the work as intended.
 
 acronyms=${ACRONYMDB:-/usr/share/misc/acronyms}
 
@@ -29,39 +28,32 @@ acronyms=${ACRONYMDB:-/usr/share/misc/acronyms}
 
 rv=0
 while [ $# -gt 0 ] ; do
-	target="$(echo "$1" | tr '[:lower:]' '[:upper:]' \
-	    | sed 'y/äöü/ÄÖÜ/')"
-	ans="$(fgrep -a "$target" <$acronyms 2>/dev/null \
-	    | sed -ne "/^$(echo "$target" \
-	    | sed s,/,.,)[[:space:]]/s\`^${target}[[:space:]]*\`\`p")"
+	target=$(echo "$1" | tr '[:lower:]' '[:upper:]')
+	ans=$(fgrep -a "$target" <$acronyms 2>/dev/null | \
+	    sed -ne "/^$(print -nr -- "$target" | \
+	    sed s,/,.,)[[:space:]]/s^${target}[[:space:]]*p")
 	if [[ -z $ans ]]; then
 		target="$1"
-		ans="$(whatis "$target" 2>/dev/null \
-		    | egrep "^${target}[, ]" 2>/dev/null)" \
-		 || ans=$(export IFS=\|; fgrep -i "$target" \
-		    /usr/ports/INDEX 2>/dev/null \
-		    | while read a b c d e; do \
-			echo "${a}|${d%% \(uses*}"; done \
-		    | fgrep -i "$target" 2>/dev/null \
-		    | sort -u \
-		    | column -ts'|' \
-		)
+		ans=$(whatis "$target" 2>/dev/null | \
+		    egrep "^${target}[, ]" 2>/dev/null) || \
+		    ans=$(fgrep -i "$target" /usr/ports/INDEX 2>/dev/null | \
+		    while IFS=\| read a b c d e; do \
+			print -r -- "${a}|${d%% \(uses*}"; \
+		    done | \
+		    fgrep -i "$target" 2>/dev/null | \
+		    sort -u | \
+		    column -ts'|')
 	fi
 	if [[ -n $ans ]]; then
 		print "   ${target}:\n$ans"
 	else
-		print -u2 "Gee...  I don't know what '${target}' means..."
+		print -u2 "Gee...  I don't know what â€˜${target}â€™ means..."
 		rv=1
-		for dir in /usr/bin /usr/local/bin /usr/mpkg/bin; do
-			if [ -x $dir/dict ]; then
-				print -u2 "Let's try The Dictionary..."
-				rv=2
-				if dict "$target"; then
-					rv=0
-					break
-				fi
-			fi
-		done
+		if whence -p dict >&-; then
+			print -u2 "Let's try The Dictionary..."
+			rv=2
+			dict "$target" && rv=0
+		fi
 	fi
 	shift
 done
