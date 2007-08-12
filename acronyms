@@ -1,5 +1,5 @@
-$MirOS: wtf/acronyms,v 1.48 2007/05/14 20:55:55 tg Exp $
-$NetBSD: acronyms,v 1.164 2007/01/31 18:37:07 elad Exp $
+$MirOS: wtf/acronyms,v 1.49 2007/08/12 19:24:47 tg Exp $
+$NetBSD: acronyms,v 1.168 2007/06/25 17:25:17 jschauma Exp $
 $NetBSD: acronyms.comp,v 1.73 2007/01/25 05:40:26 salo Exp $
 10X	tenx (thanks)
 3WHS	three-way handshake
@@ -237,7 +237,7 @@ FIR	fast infrared
 FLOPS	floating [point] operations per second
 FM	frequency modulation
 FM	fucking magic
-FOAD	{fall over,fuck off} and die
+FOAD	{fuck off,fall over} and die
 FORD	er fuhr ford und kam nie wieder
 FORD	fix or repair daily
 FORD	für Ossis reicht det
@@ -254,6 +254,7 @@ FSVO	for sane values of
 FSVO	for some value of
 FTBFS	failure to build from source
 FTFM	fuck the fuckin' manual!
+FTHOI	for the {heck,hell} of it
 FTL	for the loss
 FTP	file transfer protocol (needs to die)
 FTPS	file transfer protocol, ssl secured
@@ -390,6 +391,7 @@ JARGON	hacker slang collection - http://catb.org/~esr/jargon/
 JFGI	just fucking google it
 JFTR	just falls Thema reinkarniert
 JFTR	just for the record
+JFW	just fucking works
 JHD	just hit "delete"
 JIC	just in case
 JIHBED	it is word arabic == TOP AND POWER INTELLIGENT</quote> (a TNF joke)
@@ -833,6 +835,7 @@ TANSTA	there ain't (no) such thing as ...
 TANSTAAFL	there ain't no such thing as a free lunch
 TBC	to be continued
 TBD	to be {decided,determined,done}
+TBF	to be fixed
 TBH	to be honest
 TBOMK	the best of my knowledge
 TCL	tool command language
@@ -900,7 +903,6 @@ USART	universal synchronous/asynchronous receiver/transmitter
 USB	universal serial bus
 USWC	uncacheable speculative write combining
 UTFG	use the fscking google
-UTFG	use the fscking google
 UTFS	use the {fine,fucking} source
 UTP	unshielded twisted pair
 UTSL	use the source, Luke
@@ -954,8 +956,8 @@ WPA	wi-fi protected access
 WRAM	window random access memory
 WRT	with respect to
 WTF	oh, it's me! *g*
-WTF	{what,where,who,why} the fuck
-WTH	{what,where,who,why} the hell
+WTF	{what,when,where,who,why} the fuck
+WTH	{what,when,where,who,why} the hell
 WTX	Workstation Technology Extended
 WWW	weltweit warten
 WWW	world wide waiting
