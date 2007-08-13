@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.49 2007/08/12 19:24:47 tg Exp $
+$MirOS: wtf/acronyms,v 1.50 2007/08/13 01:22:54 tg Exp $
 $NetBSD: acronyms,v 1.168 2007/06/25 17:25:17 jschauma Exp $
 $NetBSD: acronyms.comp,v 1.73 2007/01/25 05:40:26 salo Exp $
 10X	tenx (thanks)
@@ -845,6 +845,7 @@ TDD	test driven development
 TDR	Theo de Raadt -- http://theos.com/
 TEAM	toll, ein Anderer macht's!
 TFT	thin film transistor
+TFTC	thanks for the cache
 TFTP	trivial file transfer protocol
 THGTTG	the hitchhiker's guide to the galaxy
 THNX	thanks
