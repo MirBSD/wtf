@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.50 2007/08/13 01:22:54 tg Exp $
+$MirOS: wtf/acronyms,v 1.51 2007/10/27 19:03:15 tg Exp $
 $NetBSD: acronyms,v 1.168 2007/06/25 17:25:17 jschauma Exp $
 $NetBSD: acronyms.comp,v 1.73 2007/01/25 05:40:26 salo Exp $
 10X	tenx (thanks)
@@ -844,6 +844,7 @@ TCQ	tagged command queueing
 TDD	test driven development
 TDR	Theo de Raadt -- http://theos.com/
 TEAM	toll, ein Anderer macht's!
+TFB	too fucking bad
 TFT	thin film transistor
 TFTC	thanks for the cache
 TFTP	trivial file transfer protocol
