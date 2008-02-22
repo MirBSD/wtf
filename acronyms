@@ -1,6 +1,6 @@
-$MirOS: wtf/acronyms,v 1.51 2007/10/27 19:03:15 tg Exp $
-$NetBSD: acronyms,v 1.168 2007/06/25 17:25:17 jschauma Exp $
-$NetBSD: acronyms.comp,v 1.73 2007/01/25 05:40:26 salo Exp $
+$MirOS: wtf/acronyms,v 1.52 2008/02/22 23:17:22 tg Exp $
+$NetBSD: acronyms,v 1.179 2008/01/31 11:45:16 tnn Exp $
+$NetBSD: acronyms.comp,v 1.82 2008/01/24 15:04:24 tnn Exp $
 10X	tenx (thanks)
 3WHS	three-way handshake
 </3	emoticon (a broken heart)
@@ -10,6 +10,7 @@ ACK	achja, cönnt klappen
 ACK	acknowledged / [japanese] Hai!
 ACL	access control list
 ACPI	advanced configuration and power interface
+ADB	Apple desktop bus
 ADC	analog [to] digital converter
 ADPCM	adaptive differential pulse code modulation
 ADSL	asymmetric digital subscriber line
@@ -22,6 +23,7 @@ AFAIR	as far as I recall
 AFAIU	as far as I understand
 AFD	away from desktop
 AFK	away from keyboard
+AFS	Andrew file system
 AFU	all fucked up
 AFW	away from window
 AGP	accelerated graphics port
@@ -44,7 +46,10 @@ ASAIC	as soon as I can
 ASAP	as soon as possible
 ASCII	american standard code for information interchange
 ASF	The Apache(TM) Foundation
+ASLR	address space layout randomization
 ASN	autonomous system number
+AST	abstract syntax tree
+AST	asynchronous trap
 AT	advanced technology
 ATA	advanced technology attachment
 ATAPI	advanced technology attachment packet interface
@@ -60,12 +65,15 @@ B/C	because
 B/S	bullshit
 B/W	between
 B4	before
+BAR	base address register
 BASIC	beginners' all-purpose symbolic instruction code (_the_ programming language per se)
 BBIAB	be back in a bit
 BBIAF	be back in a few
 BBL	[I'll] be back later
 BBS	be back soon
 BBT	be back tomorrow
+BCNU	be seeing you
+BCNUL8R	be seeing you later
 BEDO	burst extended data output
 BER	basic encoding rules
 BER	bit error rate
@@ -176,6 +184,7 @@ DPD	Deutscher Paketdienst
 DPD	dead peer detection
 DPI	dots per inch
 DRAM	dynamic random access memory
+DRY	don't repeat yourself
 DSL	digital subscriber line
 DSSS	direct sequence spread spectrum
 DSTM	don't shoot the messenger
@@ -297,22 +306,30 @@ GTFO	get the fuck out
 GTG	got to go
 GUI	graphical user interface
 GWS	get well soon
+HA	high availability
 HAND	have a nice day
+HBA	host bus adapter
 HBCI	half correct banking interface
 HBCI	hand codeded banking interface
 HBCI	hardcore banking interface
 HBCI	hopefully correct banking interface
 HBCI	hopelessly catastrophic banking interface
 HBCI	hopelessly corrupt banking interface
+HCI	host controller interface
+HCI	human-computer interaction
 HDA	Heil den Asen (=OMG)
 HDB	Heil Dir, Bruder
 HDCP	high-bandwidth digital content protection
 HDD	hard disc drive
 HDW	Heil den Wansen (=OMG)
 HF	see GL
+HFIW	HOLY FUCK IT WORKS
 HHDD	hybrid hard disc drive
 HHIS	hanging head in shame
+HHOS	ha ha, only serious
 HICA	here it comes again
+HNY	happy new year
+HSIW	HOLY SHIT IT WORKS
 HTH	hoffentlich tut's helfen
 HTH	hope this helps
 HTML	hyper-text markup language
@@ -327,9 +344,12 @@ IC	integrated circuit
 ICB	internet citizen's band
 ICBW	I could be wrong
 ICCL	I couldn't care less
+ICE	in-circuit emulator
+ICE	internal compiler error
 ICMP	internet control message protocol
 IDD	[dutch] inderdaad / indeed
 IDE	integrated drive electronics
+IDK	I don't know
 IDRP	inter-domain routing protocol
 IEC	international electrotechnical commission
 IEEE	institute [of] electrical [and] electronics engineers
@@ -344,6 +364,8 @@ IINM	if I'm not mistaken
 IIRC	if I recall/remember correctly
 IIUC	if I understand correctly
 IKE	internet key exchange
+ILU	I love you
+ILY	I love you
 IMAO	in my arrogant opinion
 IMAP	internet mail access protocol
 IMCO	in my considered opinion
@@ -384,6 +406,7 @@ ITYW	Is it this you want
 ITYW	It's this you want
 IWBNI	it would be nice if
 IYSS	if you say so
+IYSWIM	if you see what I mean
 J/K	just kidding
 JAJAJAJA	yes yes yes yes (common German expression in OpenBSD development)
 JARGON	hacker slang censored - http://catb.org/~esr/jargon/chaff.html
@@ -401,10 +424,12 @@ JSYK	just so you know
 JTLYK	just to let you know
 KISS	keep it simple, stupid
 KITA	kick in the arse
+KLOC	thousand lines of code
 KNF	kernel normal form (man 9 style)
 KPI	kernel programming interface
 KUNDE	kann ungestraft nerven, da Einnahmequelle
 KVA	kernel virtual address
+KVM	kernel virtual memory
 KVM	keyboard, video, mouse switch
 L8ER	later
 L8R	later
@@ -428,11 +453,13 @@ LKML	linux-kernel mailing list (vger.rutgers.edu -> vger.kernel.org)
 LLC	logical link control
 LMAO	laughing my arse off
 LMSO	laughing my socks off
+LOC	lines of code
 LOL	lachend, oba laut
 LOL	laughing out loud
 LRC	longitudinal redundancy check
 LSB	least significant bit [or: byte]
 LSB	linux standards base
+LSI	large scale integration
 LTNS	long time no see
 LUN	logical unit number
 LZW	Lempel Ziv Welch
@@ -516,7 +543,7 @@ MCSE	my cranium softened easily
 MCSE	my customers support extravagance
 MDRAM	multibank dynamic random access memory
 MDWDW	Mach' doch, was Du willst!
-MFC	Merged From -current
+MFC	merge from -current
 MFG	with friendly greetings
 MFM	modified frequency modulation
 MFS	Memory File System
@@ -572,6 +599,7 @@ NFS	nightmare file system
 NFS	no filesystem
 NFW	no fucking way
 NIC	network interface card
+NIFOC	naked in front of computer
 NIH	not invented here
 NIS	network information service
 NM	never mind
@@ -601,7 +629,9 @@ OFDM	orthogonal frequency division multiplexing
 OIC	oh, I see
 OMG	Oh my Goddess!
 OMG	oh, my god
+OMW	on my way
 OPENBSD	most secure open source operating system -- http://www.OpenBSD.org/
+OS	operating system
 OSF	open software foundation
 OSI	open systems interconnection
 OSI	open-source initiative
@@ -612,6 +642,8 @@ OTL	out to lunch
 OTOH	on the other hand
 OTT	over the top
 OTTOMH	off the top of my head
+PA	physical address
+PAE	physical address extension
 PAM	pluggable authentication modules
 PAM	pulse amplitude modulation
 PAT	port address translation
@@ -636,8 +668,10 @@ PFY	pimply faced youth
 PGP	pretty good privacy
 PHD	Doctor of Philosophy
 PHP	people hate PHP
+PIC	position independent code
 PIC	programmable interrupt controller
 PID	process id
+PIE	position independent executable
 PIN	personal identification number
 PIO	programmed input/output
 PITA	pain in the arse
@@ -676,11 +710,13 @@ QED	quod erat demonstrandum
 QOS	quality of service
 RAID	redundant array of inexpensive disks
 RAM	random access memory
+RAS	restartable atomic sequence
 RATIBIBUGLE	french-specific version of ROTOTILL
 RCS	revision control system
 RFA	request for assistance
 RFC	request for comments
 RFD	request for discussion
+RFE	request for enhancements
 RGB	red green blue
 RGR	roger
 RIFF	Resource Interchange File Format
@@ -704,8 +740,10 @@ ROTFLBTCDICAJTTWADBSIHPWTRHITSBKABAYB	rolling on the floor laughing, biting the 
 ROTFLMAO	rolling on the floor laughing my arse off
 ROTOTILL	"nuke with a chain saw device", to die with extreme prejudice (see GC)
 RP	responsible person
+RPC	remote procedure call
 RPM	revolutions per minute
 RSN	real soon now
+RSVP	repondez s'il vous plait (please reply)
 RTF	rich text format
 RTFB	read the fine/fucking book
 RTFC	read the fine/fucking code (see also UTFS)
@@ -766,6 +804,7 @@ SCM	source code management
 SCNR	schulljung, connte nit rückhalten
 SCNR	sorry, could not resist
 SCSI	small computer system interface
+SCTP	stream control transmission protocol
 SDRAM	synchronous dynamic random access memory
 SECAM	Something Essentialy Contrary to the American Method
 SED	smoke emitting diode
@@ -823,9 +862,12 @@ STFU	search the f{ine,ucking} usenet
 STFU	shut the fuck up
 STFW	search the fucking web
 STP	shielded twisted pair
+STP	spanning-tree protocol
 SUS	Single UNIX® Specification
 SUS	stupid user syndrome
 SUSE	Software- und Systementwicklung (now Novell ):
+SUX	sucks
+SUX2BU	sucks to be you
 SVGA	super video graphics array
 SWAG	silly, wild-assed guess
 SWAHBI	silly, wild-assed hare-brained idea
@@ -838,6 +880,7 @@ TBD	to be {decided,determined,done}
 TBF	to be fixed
 TBH	to be honest
 TBOMK	the best of my knowledge
+TCB	trusted computing base
 TCL	tool command language
 TCP	transmission control protocol
 TCQ	tagged command queueing
@@ -852,6 +895,7 @@ THGTTG	the hitchhiker's guide to the galaxy
 THNX	thanks
 THX	thanks
 TIA	thanks in advance
+TIAVP	this is a volunteer project
 TIFF	tagged image file format
 TIMTOWTDI	there is more than one way to do it (perl sucks, now we all know why)
 TINC	there is no cabal
@@ -910,6 +954,7 @@ UTP	unshielded twisted pair
 UTSL	use the source, Luke
 UUCP	unix-to-unix copy protocol
 UUOC	useless use of cat
+VA	virtual address
 VAX	virtual address extension
 VCM	virtual channel memory
 VEG	very evil grin
@@ -919,6 +964,7 @@ VFS	Virtual File System
 VGA	video graphics array
 VH	very helpful (lilo lingo, from IRC)
 VLAN	virtual local area network
+VLSI	very large scale integration
 VLSM	variable length subnet mask
 VM	virtual machine
 VM	virtual memory
@@ -959,6 +1005,7 @@ WRAM	window random access memory
 WRT	with respect to
 WTF	oh, it's me! *g*
 WTF	{what,when,where,who,why} the fuck
+WTFRUD	what the fuck are you doing
 WTH	{what,when,where,who,why} the hell
 WTX	Workstation Technology Extended
 WWW	weltweit warten
