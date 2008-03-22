@@ -1,9 +1,9 @@
 #!/bin/mksh
-# $MirOS: wtf/wtf,v 1.7 2007/07/14 20:08:45 tg Exp $
+# $MirOS: wtf/wtf,v 1.8 2008/03/22 21:27:55 tg Exp $
 # $NetBSD: wtf,v 1.7 2000/11/21 00:18:52 soren Exp $
 #-
-# Copyright (c) 2002, 2003, 2004, 2006, 2007
-#	Thorsten "mirabilos" Glaser <tg@66h.42h.de>
+# Copyright (c) 2002, 2003, 2004, 2006, 2007, 2008
+#	Thorsten “mirabilos” Glaser <tg@66h.42h.de>
 #
 # Provided that these terms and disclaimer and all copyright notices
 # are retained or reproduced in an accompanying document, permission
@@ -11,14 +11,14 @@
 # limited rights to use, publicly perform, distribute, sell, modify,
 # merge, give away, or sublicence.
 #
-# This work is provided "AS IS" and WITHOUT WARRANTY of any kind, to
+# This work is provided “AS IS” and WITHOUT WARRANTY of any kind, to
 # the utmost extent permitted by applicable law, neither express nor
 # implied; without malicious intent or gross negligence. In no event
 # may a licensor, author or contributor be held liable for indirect,
 # direct, other damage, loss, or other issues arising in any way out
 # of dealing in the work, even if advised of the possibility of such
 # damage or existence of a defect, except proven that it results out
-# of said person's immediate fault when using the work as intended.
+# of said person’s immediate fault when using the work as intended.
 
 acronyms=${ACRONYMDB:-/usr/share/misc/acronyms}
 
@@ -28,31 +28,27 @@ acronyms=${ACRONYMDB:-/usr/share/misc/acronyms}
 
 rv=0
 while [ $# -gt 0 ] ; do
-	target=$(echo "$1" | tr '[:lower:]' '[:upper:]')
-	ans=$(fgrep -a "$target" <$acronyms 2>/dev/null | \
-	    sed -ne "/^$(print -nr -- "$target" | \
-	    sed s,/,.,)[[:space:]]/s^${target}[[:space:]]*p")
-	if [[ -z $ans ]]; then
-		target="$1"
-		ans=$(whatis "$target" 2>/dev/null | \
-		    egrep "^${target}[, ]" 2>/dev/null) || \
-		    ans=$(fgrep -i "$target" /usr/ports/INDEX 2>/dev/null | \
-		    while IFS=\| read a b c d e; do \
-			print -r -- "${a}|${d%% \(uses*}"; \
-		    done | \
-		    fgrep -i "$target" 2>/dev/null | \
-		    sort -u | \
-		    column -ts'|')
-	fi
-	if [[ -n $ans ]]; then
-		print "   ${target}:\n$ans"
+	target=$1
+	tgsrch=$(tr '[:lower:]' '[:upper:]' <<<"$target" | sed 's#/#.#g')
+	ans=$(
+		sed -ne "/^$tgsrch[[:space:]][[:space:]]*/s///p" "$acronyms"
+		whatis "$target" 2>/dev/null | \
+		    egrep "^${target}[, ]" 2>/dev/null
+		[[ -s /usr/ports/INDEX ]] && while IFS=\| read a b c d e; do
+			[[ $a$d = *@($target)* ]] && \
+			    print -r -- "${a}|${d%% \(uses*}"
+		done </usr/ports/INDEX | sort -u | column -ts'|'
+	)
+	if [[ $ans != *([$IFS]) ]]; then
+		print -r -- "   $target:"
+		print -r -- "$ans"
 	else
-		print -u2 "Gee...  I don't know what ‘${target}’ means..."
-		rv=1
+		print -u2 "Gee...  I don’t know what “$target” means…"
 		if whence -p dict >&-; then
-			print -u2 "Let's try The Dictionary..."
-			rv=2
-			dict "$target" && rv=0
+			print -u2 "Let’s try The Dictionary..."
+			dict "$target" || let 'rv = rv ? rv : 2'
+		else
+			rv=1
 		fi
 	fi
 	shift
