@@ -1,6 +1,6 @@
-$MirOS: wtf/acronyms,v 1.52 2008/02/22 23:17:22 tg Exp $
-$NetBSD: acronyms,v 1.179 2008/01/31 11:45:16 tnn Exp $
-$NetBSD: acronyms.comp,v 1.82 2008/01/24 15:04:24 tnn Exp $
+$MirOS: wtf/acronyms,v 1.53 2008/04/16 22:17:44 tg Exp $
+$NetBSD: acronyms,v 1.182 2008/03/05 21:37:55 plunky Exp $
+$NetBSD: acronyms.comp,v 1.84 2008/03/16 20:50:00 dholland Exp $
 10X	tenx (thanks)
 3WHS	three-way handshake
 </3	emoticon (a broken heart)
@@ -79,6 +79,7 @@ BER	basic encoding rules
 BER	bit error rate
 BFD	big fucking deal
 BFG	big fat grin
+BFKL	big fscking kernel lock
 BGP	border gateway protocol
 BIAB	back in a bit
 BIAF	back in a few
@@ -120,6 +121,9 @@ CD	compact disc
 CDDA	compact disc digital audio
 CDRAM	cache dynamic random access memory
 CER	canonical encoding rules
+CFG	context-free grammar
+CFG	control-flow graph
+CFV	call for votes
 CGA	color graphics adapter
 CGI	common gateway interface
 CHS	cylinder/head/sector
@@ -283,6 +287,7 @@ GCC	gcc can't compile
 GCR	group-coded recording
 GIF	graphics interchange format
 GIGO	garbage in, garbage out
+GIT	content addressable filesystem written by finnish study aborter
 GL	"gl hf" - geek l33t hack forever
 GL	"gl hf" - gentoo linux: hack freedumbly
 GL	"gl hf" - gentoo linux: hack freely
@@ -620,6 +625,7 @@ NT	new technology
 NT	no text (also: n/t)
 NTSC	Never Twice Same Color
 NUMA	non uniform memory access
+NVM	never mind
 NÄHMLICH	Wer nämlich mit h schreibt, ist dämlich.
 NÄMLICH	Wer nämlich mit h schreibt, ist dämlich.
 OCL	object constraint language
@@ -666,6 +672,7 @@ PFO	please fuck off
 PFS	perfect forward secrecy
 PFY	pimply faced youth
 PGP	pretty good privacy
+PHB	pointy haired boss
 PHD	Doctor of Philosophy
 PHP	people hate PHP
 PIC	position independent code
@@ -891,6 +898,7 @@ TFB	too fucking bad
 TFT	thin film transistor
 TFTC	thanks for the cache
 TFTP	trivial file transfer protocol
+TGIF	Thank God It’s Friday
 THGTTG	the hitchhiker's guide to the galaxy
 THNX	thanks
 THX	thanks
@@ -973,6 +981,7 @@ VMS	Virtual Memory System (aka OpenVMS, operating system by HP)
 VPN	virtual private network
 VRAM	video random access memory
 VRRP	virtual router redundancy protocol
+VVV	Voilà, Vivement Vendredi
 W/	with
 W/O	without
 WAG	wild-ass guess
