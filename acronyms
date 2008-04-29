@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.54 2008/04/29 17:29:15 tg Exp $
+$MirOS: wtf/acronyms,v 1.55 2008/04/29 21:17:44 tg Exp $
 $NetBSD: acronyms,v 1.182 2008/03/05 21:37:55 plunky Exp $
 $NetBSD: acronyms.comp,v 1.84 2008/03/16 20:50:00 dholland Exp $
 10X	tenx (thanks)
@@ -200,6 +200,7 @@ DTWT	do the wrong thing
 DVD	digital versatile disc
 DVI	digital visual interface
 DWIM	do what I mean
+DWZ	dat wil zeggen?
 E-XER	extended XML encoding rules
 EAP	extensible authentication protocol
 ECP	enhanced capability port
