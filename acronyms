@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.53 2008/04/16 22:17:44 tg Exp $
+$MirOS: wtf/acronyms,v 1.54 2008/04/29 17:29:15 tg Exp $
 $NetBSD: acronyms,v 1.182 2008/03/05 21:37:55 plunky Exp $
 $NetBSD: acronyms.comp,v 1.84 2008/03/16 20:50:00 dholland Exp $
 10X	tenx (thanks)
@@ -901,6 +901,7 @@ TFTP	trivial file transfer protocol
 TGIF	Thank God It’s Friday
 THGTTG	the hitchhiker's guide to the galaxy
 THNX	thanks
+THRB	thumb hits reset button
 THX	thanks
 TIA	thanks in advance
 TIAVP	this is a volunteer project
