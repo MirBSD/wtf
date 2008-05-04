@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.55 2008/04/29 21:17:44 tg Exp $
+$MirOS: wtf/acronyms,v 1.56 2008/05/04 01:23:00 tg Exp $
 $NetBSD: acronyms,v 1.182 2008/03/05 21:37:55 plunky Exp $
 $NetBSD: acronyms.comp,v 1.84 2008/03/16 20:50:00 dholland Exp $
 10X	tenx (thanks)
@@ -231,6 +231,7 @@ ESCON	Enterprise Systems Connection
 ESDRAM	enhanced synchronous dynamic random access memory
 ESR	Eric Steven Raymond -- http://www.catb.org/~esr/
 ETA	estimated time of arrival (usually infinite)
+ETC	et cetera
 ETLA	extended three letter acronym
 EWAG	experienced wild-ass guess
 FAQ	frequently asked question
@@ -957,6 +958,8 @@ URI	uniform resource identifier
 URL	uniform resource locator
 USART	universal synchronous/asynchronous receiver/transmitter
 USB	universal serial bus
+USR	Unix Source Repository
+USR	Unix System Resources
 USWC	uncacheable speculative write combining
 UTFG	use the fscking google
 UTFS	use the {fine,fucking} source
@@ -965,6 +968,7 @@ UTSL	use the source, Luke
 UUCP	unix-to-unix copy protocol
 UUOC	useless use of cat
 VA	virtual address
+VAR	Volatile Access Region
 VAX	virtual address extension
 VCM	virtual channel memory
 VEG	very evil grin
