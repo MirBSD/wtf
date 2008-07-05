@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.56 2008/05/04 01:23:00 tg Exp $
+$MirOS: wtf/acronyms,v 1.57 2008/07/05 10:46:25 tg Exp $
 $NetBSD: acronyms,v 1.182 2008/03/05 21:37:55 plunky Exp $
 $NetBSD: acronyms.comp,v 1.84 2008/03/16 20:50:00 dholland Exp $
 10X	tenx (thanks)
@@ -728,6 +728,7 @@ RFD	request for discussion
 RFE	request for enhancements
 RGB	red green blue
 RGR	roger
+RIA	rich internet application
 RIFF	Resource Interchange File Format
 RIP	requiescat in pacem
 RIP	rest in peace
