@@ -1,5 +1,5 @@
 #!/bin/mksh
-# $MirOS: wtf/wtf,v 1.8 2008/03/22 21:27:55 tg Exp $
+# $MirOS: wtf/wtf,v 1.9 2008/07/07 20:45:11 tg Exp $
 # $NetBSD: wtf,v 1.7 2000/11/21 00:18:52 soren Exp $
 #-
 # Copyright (c) 2002, 2003, 2004, 2006, 2007, 2008
@@ -29,11 +29,15 @@ acronyms=${ACRONYMDB:-/usr/share/misc/acronyms}
 rv=0
 while [ $# -gt 0 ] ; do
 	target=$1
-	tgsrch=$(tr '[:lower:]' '[:upper:]' <<<"$target" | sed 's#/#.#g')
+	tgsrch=$(tr '[:lower:]' '[:upper:]' <<<"$target")
 	ans=$(
-		sed -ne "/^$tgsrch[[:space:]][[:space:]]*/s///p" "$acronyms"
-		whatis "$target" 2>/dev/null | \
-		    egrep "^${target}[, ]" 2>/dev/null
+		while IFS= read -r line; do
+			[[ $line = @($tgsrch)+([	 ])* ]] || continue
+			print -r -- "${line##@($tgsrch)+([	 ])}"
+		done <"$acronyms"
+		whatis "$target" 2>/dev/null | while IFS= read -r line; do
+			[[ $line = @($target[, ])* ]] && print -r -- "$line"
+		done
 		[[ -s /usr/ports/INDEX ]] && while IFS=\| read a b c d e; do
 			[[ $a$d = *@($target)* ]] && \
 			    print -r -- "${a}|${d%% \(uses*}"
