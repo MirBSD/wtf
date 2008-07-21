@@ -1,6 +1,6 @@
-$MirOS: wtf/acronyms,v 1.57 2008/07/05 10:46:25 tg Exp $
+$MirOS: wtf/acronyms,v 1.58 2008/07/21 21:55:52 tg Exp $
 $NetBSD: acronyms,v 1.182 2008/03/05 21:37:55 plunky Exp $
-$NetBSD: acronyms.comp,v 1.84 2008/03/16 20:50:00 dholland Exp $
+$NetBSD: acronyms.comp,v 1.85 2008/06/19 18:47:16 spz Exp $
 10X	tenx (thanks)
 3WHS	three-way handshake
 </3	emoticon (a broken heart)
@@ -722,6 +722,7 @@ RAM	random access memory
 RAS	restartable atomic sequence
 RATIBIBUGLE	french-specific version of ROTOTILL
 RCS	revision control system
+RDF	reality distortion field
 RFA	request for assistance
 RFC	request for comments
 RFD	request for discussion
@@ -907,11 +908,13 @@ THNX	thanks
 THRB	thumb hits reset button
 THX	thanks
 TIA	thanks in advance
+TIAS	try it and see
 TIAVP	this is a volunteer project
 TIFF	tagged image file format
 TIMTOWTDI	there is more than one way to do it (perl sucks, now we all know why)
 TINC	there is no cabal
 TINSTA	there is no such thing as ...
+TITS	try it to see
 TLA	three letter acronym
 TLA	tom lord's arch
 TLA	top level aggregator
