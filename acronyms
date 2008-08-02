@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.58 2008/07/21 21:55:52 tg Exp $
+$MirOS: wtf/acronyms,v 1.59 2008/08/02 00:57:30 tg Exp $
 $NetBSD: acronyms,v 1.182 2008/03/05 21:37:55 plunky Exp $
 $NetBSD: acronyms.comp,v 1.85 2008/06/19 18:47:16 spz Exp $
 10X	tenx (thanks)
@@ -639,6 +639,7 @@ OMG	Oh my Goddess!
 OMG	oh, my god
 OMW	on my way
 OPENBSD	most secure open source operating system -- http://www.OpenBSD.org/
+OPTU	Octet Pass-Through for Unicode (encoding) -- MirOS OPTU-8 and OPTU-16
 OS	operating system
 OSF	open software foundation
 OSI	open systems interconnection
