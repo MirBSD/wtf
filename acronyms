@@ -1,6 +1,6 @@
-$MirOS: wtf/acronyms,v 1.60 2008/11/10 23:02:51 ahoka Exp $
-$NetBSD: acronyms,v 1.182 2008/03/05 21:37:55 plunky Exp $
-$NetBSD: acronyms.comp,v 1.85 2008/06/19 18:47:16 spz Exp $
+$MirOS: wtf/acronyms,v 1.61 2008/11/10 23:05:04 tg Exp $
+$NetBSD: acronyms,v 1.183 2008/08/24 23:12:10 dholland Exp $
+$NetBSD: acronyms.comp,v 1.90 2008/09/26 04:54:23 dholland Exp $
 10X	tenx (thanks)
 3WHS	three-way handshake
 </3	emoticon (a broken heart)
@@ -78,7 +78,9 @@ BEDO	burst extended data output
 BER	basic encoding rules
 BER	bit error rate
 BFD	big fucking deal
+BFD	binary formats descriptor
 BFG	big fat grin
+BFH	big fucking hammer
 BFKL	big fscking kernel lock
 BGP	border gateway protocol
 BIAB	back in a bit
@@ -243,7 +245,10 @@ FCS	frame check sequence
 FDA	Federal Drug Administration
 FDA	Für den Arsch
 FDDI	fiber distributed data interface
+FFI	foreign function interface
 FFS	fast file system
+FFS	find first set
+FFS	for fuck's sake
 FHSS	frequency hop spread spectrum
 FICON	Fiber Connectivity
 FIGJAM	fuck I'm good, just ask me
@@ -258,6 +263,7 @@ FORD	er fuhr ford und kam nie wieder
 FORD	fix or repair daily
 FORD	für Ossis reicht det
 FOS	full of shit
+FOSS	free / open source software
 FPM	fast page mode
 FPU	Floating Point Unit
 FQDN	fully qualified domain name
@@ -343,6 +349,7 @@ HTH	hope this helps
 HTML	hyper-text markup language
 HTTP	hyper-text transfer protocol
 HTTPS	hyper-text transfer protocol, ssl secured
+HWRNG	hardware random number generator
 I2O	intelligent input/output
 IAC	in any case
 IANA	internet assigned number authority
@@ -469,8 +476,8 @@ LSB	least significant bit [or: byte]
 LSB	linux standards base
 LSI	large scale integration
 LTNS	long time no see
-LUG	local user group
 LUG	Linux user group
+LUG	local user group
 LUN	logical unit number
 LZW	Lempel Ziv Welch
 MAC	medium access control
@@ -641,13 +648,17 @@ OIC	oh, I see
 OMG	Oh my Goddess!
 OMG	oh, my god
 OMW	on my way
+OOB	out of band
+OOB	out of bounds
 OPENBSD	most secure open source operating system -- http://www.OpenBSD.org/
 OPTU	Octet Pass-Through for Unicode (encoding) -- MirOS OPTU-8 and OPTU-16
 OS	operating system
+OSD	open source definition
 OSF	open software foundation
 OSI	open systems interconnection
 OSI	open-source initiative
 OSPF	open shortest path first
+OSS	open source software
 OT	off topic
 OT	ohne Themenbezug
 OTL	out to lunch
@@ -697,6 +708,7 @@ PNG	persona non grata
 PNG	portable network graphics
 PNP	{pay,plug} and pray
 POC	point of contact
+POC	proof of concept
 POLA	principle of least astonishment
 POLS	principle of least surprise
 POP	post office protocol
@@ -710,6 +722,7 @@ PPP	point-to-point protocol
 PPPOA	point-to-point protocol over ATM
 PPPOE	point-to-point protocol over ethernet
 PRML	partial response, maximum likelihood
+PRNG	pseudo random number generator
 PROM	programmable read only memory
 PSK	pre-shared key
 PSTN	public switched telephone network
@@ -746,6 +759,7 @@ RLC	rod length check
 RLE	run length encoding
 RLL	run length limited
 RMS	Richard M Stallman -- http://www.stallman.org/
+RNG	random number generator
 ROFL	Respekt, Originalposting fein lustig
 ROFL	rolling on floor laughing
 ROFLMAO	rolling on floor laughing my arse off
@@ -865,6 +879,8 @@ SPD	security policy database
 SPD	serial presence detect
 SPIT	spam over internet telephony
 SRAM	static random access memory
+SRGG	secure random number generator
+SRNG	stretched random number generator
 SSD	solid state disc
 SSFDC	solid state floppy disc card
 SSH	secure shell
@@ -928,6 +944,7 @@ TLB	translation lookaside buffer
 TLC	tender loving care
 TLD	top level domain
 TLDR	too long, didn't read
+TLS	thread-local storage
 TLS	transport layer security
 TM	thanks much (lilo lingo, from IRC)
 TMA	too many abbreviations
@@ -938,10 +955,10 @@ TNF	The NetBSD(TM) Foundation
 TNF	Tinnef (german dialect)
 TNX	thanks
 TOEFL	test of english as a foreign language
-TPTB	the powers that be
-TPTB	the powers that be (Theo de Raadt et. al with commit access)
 TPTB	the person to bug
+TPTB	the powers that be
 TR	token ring
+TRNG	true random number generator
 TRT	the right thing
 TTBOMK	to the best of my knowledge
 TTFN	ta ta for now
