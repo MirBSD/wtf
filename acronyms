@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.59 2008/08/02 00:57:30 tg Exp $
+$MirOS: wtf/acronyms,v 1.60 2008/11/10 23:02:51 ahoka Exp $
 $NetBSD: acronyms,v 1.182 2008/03/05 21:37:55 plunky Exp $
 $NetBSD: acronyms.comp,v 1.85 2008/06/19 18:47:16 spz Exp $
 10X	tenx (thanks)
@@ -130,6 +130,7 @@ CHS	cylinder/head/sector
 CICS	Customer Information Control System
 CIDR	classless inter-domain routing
 CIFS	Common Internet File System (old SMB)
+CIG	common interest group
 CIS	contact image sensor
 CLI	command line interface
 CLUT	color look-up table
@@ -468,6 +469,8 @@ LSB	least significant bit [or: byte]
 LSB	linux standards base
 LSI	large scale integration
 LTNS	long time no see
+LUG	local user group
+LUG	Linux user group
 LUN	logical unit number
 LZW	Lempel Ziv Welch
 MAC	medium access control
@@ -724,6 +727,7 @@ RAS	restartable atomic sequence
 RATIBIBUGLE	french-specific version of ROTOTILL
 RCS	revision control system
 RDF	reality distortion field
+REST	representational state transfer
 RFA	request for assistance
 RFC	request for comments
 RFD	request for discussion
@@ -936,6 +940,7 @@ TNX	thanks
 TOEFL	test of english as a foreign language
 TPTB	the powers that be
 TPTB	the powers that be (Theo de Raadt et. al with commit access)
+TPTB	the person to bug
 TR	token ring
 TRT	the right thing
 TTBOMK	to the best of my knowledge
