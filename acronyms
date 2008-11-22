@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.63 2008/11/20 01:03:38 tg Exp $
+$MirOS: wtf/acronyms,v 1.64 2008/11/22 13:02:43 tg Exp $
 $NetBSD: acronyms,v 1.183 2008/08/24 23:12:10 dholland Exp $
 $NetBSD: acronyms.comp,v 1.90 2008/09/26 04:54:23 dholland Exp $
 10X	tenx (thanks)
@@ -57,6 +57,7 @@ ATC	address translation cache
 ATM	asynchronous transfer mode
 ATM	at the moment
 ATX	advanced technology extended
+AUB	please (dutch: alstublieft / als het u belieft)
 AWOL	absent without official leave
 AYB	all your base are belong to us
 AYBABTU	all your base are belong to us
@@ -362,7 +363,7 @@ ICCL	I couldn't care less
 ICE	in-circuit emulator
 ICE	internal compiler error
 ICMP	internet control message protocol
-IDD	[dutch] inderdaad / indeed
+IDD	indeed (dutch: inderdaad)
 IDE	integrated drive electronics
 IDK	I don't know
 IDRP	inter-domain routing protocol
@@ -395,7 +396,7 @@ IP	internet protocol
 IPC	interprocess communication
 IPNG	internet protocol, next generation
 IPSEC	internet protocol security
-IPV	in place of (dutch)
+IPV	in place of (dutch: in plaats van)
 IPV6	next generation Internet Protocol, triggers japanese simple-mind ideas
 IRC	internet relay chat
 IRL	in real life
@@ -781,7 +782,7 @@ RP	responsible person
 RPC	remote procedure call
 RPM	revolutions per minute
 RSN	real soon now
-RSVP	repondez s'il vous plait (please reply)
+RSVP	please reply (french: repondez s'il vous plaît)
 RTF	rich text format
 RTFB	read the fine/fucking book
 RTFC	read the fine/fucking code (see also UTFS)
@@ -876,7 +877,7 @@ SNMP	sorry, not my problem
 SNR	signal to noise ratio
 SO	shared object file (cf. DLL)
 SO	significant other
-SOA	Seksueel Overdraagbare Aandoening (STD in dutch)
+SOA	STD (dutch: Seksueel Overdraagbare Aandoening)
 SOA	Service Oriented Architecture
 SOA	Start Of Authority (DNS record type)
 SOB	son of [a] bitch
@@ -909,6 +910,7 @@ SUSE	Software- und Systementwicklung (now Novell ):
 SUX	sucks
 SUX2BU	sucks to be you
 SVGA	super video graphics array
+SVP	please (french: s'il vous plaît)
 SWAG	silly, wild-assed guess
 SWAHBI	silly, wild-assed hare-brained idea
 SWFG	search with fucking google
