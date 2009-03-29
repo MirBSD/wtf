@@ -1,6 +1,6 @@
-$MirOS: wtf/acronyms,v 1.67 2009/02/04 22:52:18 tg Exp $
-$NetBSD: acronyms,v 1.183 2008/08/24 23:12:10 dholland Exp $
-$NetBSD: acronyms.comp,v 1.90 2008/09/26 04:54:23 dholland Exp $
+$MirOS: wtf/acronyms,v 1.68 2009/03/29 11:32:25 tg Exp $
+$NetBSD: acronyms,v 1.185 2009/02/16 15:59:41 sketch Exp $
+$NetBSD: acronyms.comp,v 1.91 2008/11/11 03:55:40 matt Exp $
 10X	tenx (thanks)
 3WHS	three-way handshake
 </3	emoticon (a broken heart)
@@ -105,6 +105,7 @@ BSD	Blobs Sind Doof
 BSD	basically secure and dependable
 BSD	berkeley software distribution
 BSD	big scary daemons
+BSS	block started by symbol
 BTAT	been there, ate that
 BTDB	been there, done both
 BTDT	been there, done that
@@ -358,6 +359,8 @@ I2O	intelligent input/output
 IAC	in any case
 IANA	internet assigned number authority
 IANAL	I am not a lawyer
+IBTD	I beg to differ
+IBTD	in before the delete (web fora)
 IC	I see
 IC	integrated circuit
 ICB	internet citizen's band
@@ -1035,6 +1038,7 @@ WAN	wide area network
 WAP	Wireless Access Point
 WAP	wireless application protocol
 WB	welcome back
+WCPGW	what could possibly go wrong
 WDYM	what do you mean
 WEP	Wired Equivalent Privacy (yikes! it's as insecure as hell)
 WEP	wired equivalent privacy
@@ -1051,6 +1055,7 @@ WINFX	Windows Fix Everyday
 WINFX	Windows Freakout Extension
 WIP	work in progress
 WLAN	wireless local area network
+WMNC	watch me not care
 WOFTAM	waste of fucking time and money
 WOMBAT	waste of money, brain, and time
 WORM	write once, read many (CD-R predecessor)
