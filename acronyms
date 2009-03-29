@@ -1,8 +1,9 @@
-$MirOS: wtf/acronyms,v 1.68 2009/03/29 11:32:25 tg Exp $
+$MirOS: wtf/acronyms,v 1.69 2009/03/29 17:42:33 tg Exp $
 $NetBSD: acronyms,v 1.185 2009/02/16 15:59:41 sketch Exp $
 $NetBSD: acronyms.comp,v 1.91 2008/11/11 03:55:40 matt Exp $
 10X	tenx (thanks)
 3WHS	three-way handshake
+4TF	[gc] fourth to find
 </3	emoticon (a broken heart)
 <3	emoticon (a heart)
 ABI	application binary interface
@@ -39,6 +40,7 @@ ANSI	american national standards institute
 AP	access point
 API	application programming interface
 APIC	advanced programmable interrupt controller
+APINKE	[gc] Another Place (originally Park, in the USA) I Never Knew Existed (spoken 'apinky')
 ARP	address resolution protocol
 ARQ	automatic repeat request
 AS	autonomous system
@@ -73,6 +75,7 @@ BBIAF	be back in a few
 BBL	[I'll] be back later
 BBS	be back soon
 BBT	be back tomorrow
+BCB	[gc] Bookcrossing Book
 BCNU	be seeing you
 BCNUL8R	be seeing you later
 BEDO	burst extended data output
@@ -116,6 +119,8 @@ BTW	by the way
 BTX	(new form factor like ATX, ITX, BAT)
 BTX	Balanced Technology Extended
 BTX	Bildschirmtext (der Deutschen Bundespost Telekom)
+BYOP	[gc] bring your own pen
+BYOP	[gc] bring your own pencil
 CAD	computer-aided design
 CAM	Computer-Aided Manufacturing (as in CAD/CAM)
 CARP	common address redundancy protocol
@@ -136,12 +141,14 @@ CIDR	classless inter-domain routing
 CIFS	Common Internet File System (old SMB)
 CIG	common interest group
 CIS	contact image sensor
+CITO	[gc] cache in, trash out
 CLI	command line interface
 CLUT	color look-up table
 CLV	constant linear velocity (as opposed to CAV)
 CMIIW	correct me if I'm wrong
 CMYK	cyan magenta yellow black
 CNP	continued [in my] next post
+CO	[gc] cache owner
 COB	close of business [day]
 COFF	common object file format
 COTS	commercial off-the-shelf
@@ -185,6 +192,7 @@ DLL	dynamic link library (shared object)
 DMA	direct memory access
 DMCA	(USA) digital milennium copyright act
 DMCA	don't make content accessible
+DNF	[gc] did not find
 DNS	domain name system
 DOCH	German for "yes" answering "you don't ..., do you?"
 DOS	Disc Operating System
@@ -280,8 +288,10 @@ FSF	Free Software Foundation -- http://www.fsf.org/ http://www.fsf-europe.org/
 FSVO	for sane values of
 FSVO	for some value of
 FTBFS	failure to build from source
+FTF	[gc] first to find
 FTFM	fuck the fuckin' manual!
 FTHOI	for the {heck,hell} of it
+FTL	[gc] first to log (when you beat FTF on the log - lame)
 FTL	for the loss
 FTP	file transfer protocol (needs to die)
 FTPS	file transfer protocol, ssl secured
@@ -296,6 +306,10 @@ G	grin
 G/C	garbage collect{,ion}
 GAC	get a clue
 GAL	get a life
+GC	[gc] The Frog Site (gc.com)
+GC	[gc] gc.com listed geocache
+GC	[gc] geocache
+GC	[gc] geocoin (also used as common name for trackable items, cf. TB)
 GC	garbage collector
 GCC	gcc can't compile
 GCR	group-coded recording
@@ -312,6 +326,7 @@ GL	"gl hf" - go liberate half-born fetuses
 GL	"gl hf" - go lick hairy females
 GL	"gl hf" - go lick hairy folksingers
 GL	"gl hf" - good luck, have fun [StarCraft]
+GL	[gc] GeoLutin, free trackable item (see also: TB)
 GMBH	Geh mal Bier holen (german pun)
 GMBH	Geh mir Bier holen (german pun)
 GMBH	Gesellschaft mit beschränkter Haftung (german)
@@ -319,12 +334,15 @@ GMTA	great minds think alike
 GN8	goodneight
 GNU	GNU's Not Unix(r)
 GPL	(GNU) general public license
+GPS	global positioning system
+GPSR	GPSr = GPS receiver
 GPU	graphics processing unit
 GRE	generic routing encapsulation
 GTFO	get the fuck out
 GTG	got to go
 GUI	graphical user interface
 GWS	get well soon
+GZ	[gc] Ground Zero - the spot your GPSr takes you to the cache location
 HA	high availability
 HAND	have a nice day
 HBA	host bus adapter
@@ -467,7 +485,9 @@ LAN	local area network
 LART	luser attitude readjustment tool (ie, hammer)
 LBA	logical block addressing
 LBNL	last but not least
+LC	[gc] locationless cache (usually tracked at TC)
 LCD	liquid crystal display
+LCL	[gc] left calling card
 LCP	link control protocol
 LDAP	lightweight directory access protocol
 LED	light emitting diode
@@ -605,11 +625,13 @@ MTA	mail transfer agent
 MTF	more to follow
 MTU	maximum transmission unit
 MUA	mail user agent
+MUGGLE	[gc] person not knowing about geocaching
 MVS	Multiple Virtual Systems
 MWDW	Mach' was Du willst!
 MWE	module width encoding
 MYOB	mind your own business
 N/M	never mind
+N/T	[gc] no trade
 N/T	no text (also: nt)
 N1	nice one
 N8	goodneight
@@ -617,6 +639,7 @@ NAK	negative acknowledgement (see ACK)
 NAT	network address translation
 NAV	network allocation vector
 NBD	no big deal
+NC	[gc] navicache
 NCP	network control protocol
 NCQ	native command queuing
 NETBSD	... is a registered trademark of TNF
@@ -632,7 +655,9 @@ NFW	no fucking way
 NIC	network interface card
 NIFOC	naked in front of computer
 NIH	not invented here
+NINU	[gc] niets in, niets uit (cf. TNLN)
 NIS	network information service
+NM	[gc] needs maintenance
 NM	never mind
 NMF	not my fault
 NMP	not my problem
@@ -645,8 +670,10 @@ NPC	non-player character
 NR	not really
 NRFPT	not ready for prime time
 NRN	no reply necessary
+NRNR	[gc] nichts rein, nichts raus (cf. TNLN)
 NRZ	non-return to zero
 NSFW	not suitable for work
+NT	[gc] no trade
 NT	new technology
 NT	no text (also: n/t)
 NTSC	Never Twice Same Color
@@ -654,6 +681,7 @@ NUMA	non uniform memory access
 NVM	never mind
 NÄHMLICH	Wer nämlich mit h schreibt, ist dämlich.
 NÄMLICH	Wer nämlich mit h schreibt, ist dämlich.
+OC	[gc] opencaching.{cz,de,pl}
 OCL	object constraint language
 OCR	optical character recognition
 OEM	original equipment manufacturer
@@ -681,6 +709,7 @@ OTT	over the top
 OTTOMH	off the top of my head
 PA	physical address
 PAE	physical address extension
+PAF	[gc] phone a friend (usually required for webcam caches)
 PAM	pluggable authentication modules
 PAM	pulse amplitude modulation
 PAT	port address translation
@@ -723,6 +752,7 @@ PNG	portable network graphics
 PNP	{pay,plug} and pray
 POC	point of contact
 POC	proof of concept
+POI	[gc] point of interest
 POLA	principle of least astonishment
 POLS	principle of least surprise
 POP	post office protocol
@@ -844,6 +874,7 @@ SASI	shugart associates system interface (predecessor to SCSI)
 SATA	satan
 SATA	serial advanced technology attachment
 SB	sound blaster
+SBA	[gc] should be archived (needs archived)
 SCM	software configuration management
 SCM	source code management
 SCNR	schulljung, connte nit rückhalten
@@ -904,6 +935,7 @@ SSL	secure sockets layer
 SSTO	single stage to orbit
 STD	Sexually Trasmittable Disease
 STD	Standard
+STF	[gc] second to find
 STFA	search the f{s,u}cking archives
 STFU	search the f{ine,ucking} usenet
 STFU	shut the fuck up
@@ -919,15 +951,19 @@ SVGA	super video graphics array
 SVP	please (french: s'il vous plaît)
 SWAG	silly, wild-assed guess
 SWAHBI	silly, wild-assed hare-brained idea
+SWAP	[gc] Some say this is short for "Stuff We All Get." Swag means the trade items that we swap at geocaches and carry in our backpacks.
 SWFG	search with fucking google
 SWMBO	she who must be obeyed
+T4TC	[gc] thanks for the cache
 TANSTA	there ain't (no) such thing as ...
 TANSTAAFL	there ain't no such thing as a free lunch
+TB	[gc] travel bug (also used as common name for trackable items, cf. GC)
 TBC	to be continued
 TBD	to be {decided,determined,done}
 TBF	to be fixed
 TBH	to be honest
 TBOMK	the best of my knowledge
+TC	[gc] Terracache
 TCB	trusted computing base
 TCL	tool command language
 TCP	transmission control protocol
@@ -937,7 +973,9 @@ TDR	Theo de Raadt -- http://theos.com/
 TEAM	toll, ein Anderer macht's!
 TFB	too fucking bad
 TFT	thin film transistor
+TFTC	[gc] thanks for the cache
 TFTC	thanks for the cache
+TFTH	[gc] thanks for the hunt
 TFTP	trivial file transfer protocol
 TGIF	Thank God It’s Friday
 THGTTG	the hitchhiker's guide to the galaxy
@@ -969,6 +1007,8 @@ TMI	too much information
 TMTOWTDI	there's more than one way to do it
 TNF	The NetBSD(TM) Foundation
 TNF	Tinnef (german dialect)
+TNLN	[gc] took nothing, left nothing (also: N/T)
+TNLNSL	[gc] took nothing, left nothing, signed log (also: N/T)
 TNX	thanks
 TOEFL	test of english as a foreign language
 TPTB	the person to bug
@@ -977,6 +1017,7 @@ TR	token ring
 TRNG	true random number generator
 TRT	the right thing
 TTBOMK	to the best of my knowledge
+TTF	[gc] third to find
 TTFN	ta ta for now
 TTL	time to live
 TTY	teletype [terminal]
@@ -996,7 +1037,9 @@ UDP	user datagram protocol
 UFS	UNIX File System
 UFS	unix file system
 UML	unified modeling language
+UPS	[gc] unnatural pile of sticks
 UPS	uninterruptible power supply
+UPS	united parcel service
 URI	uniform resource identifier
 URL	uniform resource locator
 USART	universal synchronous/asynchronous receiver/transmitter
@@ -1060,6 +1103,7 @@ WOFTAM	waste of fucking time and money
 WOMBAT	waste of money, brain, and time
 WORM	write once, read many (CD-R predecessor)
 WORN	write once, read never (usually bad code)
+WP	[gc] waypoint
 WPA	wi-fi protected access
 WRAM	window random access memory
 WRT	with respect to
@@ -1078,6 +1122,7 @@ XGA	extended graphics adapter
 XGA	extended graphics array
 XHTML	Extensible Hyper-Text Markup Language
 XML	extensible markup language
+XNSL	[gc] exchanged nothing, signed log (cf. TNLNSL, N/T)
 XSL	extensible stylesheet language
 XSS	Cross-Site Scripting (sometimes CSS)
 XT	extended technology
