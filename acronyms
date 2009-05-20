@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.71 2009/05/15 11:02:41 tg Exp $
+$MirOS: wtf/acronyms,v 1.72 2009/05/20 18:32:29 tg Exp $
 $NetBSD: acronyms,v 1.185 2009/02/16 15:59:41 sketch Exp $
 $NetBSD: acronyms.comp,v 1.91 2008/11/11 03:55:40 matt Exp $
 10X	tenx (thanks)
@@ -11,6 +11,7 @@ ACK	achja, cönnt klappen
 ACK	acknowledged / [japanese] Hai!
 ACL	access control list
 ACPI	advanced configuration and power interface
+ACPI	advanced conflagration punishment interface
 ADB	Apple desktop bus
 ADC	analog [to] digital converter
 ADPCM	adaptive differential pulse code modulation
