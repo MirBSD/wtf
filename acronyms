@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.72 2009/05/20 18:32:29 tg Exp $
+$MirOS: wtf/acronyms,v 1.73 2009/06/03 18:12:00 tg Exp $
 $NetBSD: acronyms,v 1.185 2009/02/16 15:59:41 sketch Exp $
 $NetBSD: acronyms.comp,v 1.91 2008/11/11 03:55:40 matt Exp $
 10X	tenx (thanks)
@@ -1117,6 +1117,7 @@ WRAM	window random access memory
 WRT	with respect to
 WTF	oh, it's me! *g*
 WTF	{what,when,where,who,why} the fuck
+WTFM	write the fucking manual (GRUB2...)
 WTFRUD	what the fuck are you doing
 WTH	{what,when,where,who,why} the hell
 WTX	Workstation Technology Extended
