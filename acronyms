@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.75 2009/07/30 19:15:39 tg Exp $
+$MirOS: wtf/acronyms,v 1.76 2009/08/01 17:42:58 tg Exp $
 $NetBSD: acronyms,v 1.186 2009/07/07 10:56:13 tonnerre Exp $
 $NetBSD: acronyms.comp,v 1.92 2009/06/06 06:46:42 dholland Exp $
 10X	tenx (thanks)
@@ -126,6 +126,7 @@ CAD	computer-aided design
 CAM	Computer-Aided Manufacturing (as in CAD/CAM)
 CARP	common address redundancy protocol
 CAV	constant angular velocity (as opposed to CLV)
+CC	Creative Commons
 CCD	charge coupled device
 CD	compact disc
 CDDA	compact disc digital audio
@@ -400,6 +401,7 @@ ICCL	I couldn't care less
 ICE	in-circuit emulator
 ICE	internal compiler error
 ICMP	internet control message protocol
+IDC	I don't care
 IDD	indeed (dutch: inderdaad)
 IDE	integrated drive electronics
 IDK	I don't know
