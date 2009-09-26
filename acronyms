@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.78 2009/09/23 15:57:32 tg Exp $
+$MirOS: wtf/acronyms,v 1.79 2009/09/26 16:35:56 tg Exp $
 $NetBSD: acronyms,v 1.186 2009/07/07 10:56:13 tonnerre Exp $
 $NetBSD: acronyms.comp,v 1.93 2009/08/09 14:04:43 jakllsch Exp $
 10X	tenx (thanks)
@@ -1080,6 +1080,8 @@ VA	virtual address
 VAR	Volatile Access Region
 VAX	virtual address extension
 VCM	virtual channel memory
+VDFDC	[gc] Vielen Dank für den Cache (TFTC)
+VDFDD	[gc] Vielen Dank für die Dose (TFTC)
 VEG	very evil grin
 VERPEILUNGSFAKTOR	never forget it
 VESA	video electronics standards association
