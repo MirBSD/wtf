@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.79 2009/09/26 16:35:56 tg Exp $
+$MirOS: wtf/acronyms,v 1.80 2009/11/03 22:22:46 tg Exp $
 $NetBSD: acronyms,v 1.186 2009/07/07 10:56:13 tonnerre Exp $
 $NetBSD: acronyms.comp,v 1.93 2009/08/09 14:04:43 jakllsch Exp $
 10X	tenx (thanks)
@@ -1073,6 +1073,7 @@ USWC	uncacheable speculative write combining
 UTFG	use the fscking google
 UTFS	use the {fine,fucking} source
 UTP	unshielded twisted pair
+UTRTFTJ	use the right tool for the job
 UTSL	use the source, Luke
 UUCP	unix-to-unix copy protocol
 UUOC	useless use of cat
