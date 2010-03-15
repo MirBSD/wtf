@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.84 2010/03/03 11:56:58 tg Exp $
+$MirOS: wtf/acronyms,v 1.85 2010/03/15 10:00:21 tg Exp $
 $NetBSD: acronyms,v 1.186 2009/07/07 10:56:13 tonnerre Exp $
 $NetBSD: acronyms.comp,v 1.93 2009/08/09 14:04:43 jakllsch Exp $
 10X	tenx (thanks)
@@ -48,7 +48,7 @@ AS	autonomous system
 ASAIC	as soon as I can
 ASAP	as soon as possible
 ASCII	american standard code for information interchange
-ASF	The Apache(TM) Foundation
+ASF	The Apache™ Foundation
 ASLR	address space layout randomization
 ASN	autonomous system number
 AST	abstract syntax tree
@@ -169,6 +169,7 @@ CSMA/CD	carrier sense multiple access with collision detection
 CSS	Content Scrambling System
 CSS	cascading style sheets
 CTS	clear to send
+CUI	(n)curses user interface
 CVS	concurrent versions system
 CW	[gc] CacheWolf
 CYA	see you around
@@ -351,7 +352,7 @@ GMBH	Geh mir Bier holen (german pun)
 GMBH	Gesellschaft mit beschränkter Haftung (german)
 GMTA	great minds think alike
 GN8	goodneight
-GNU	GNU's Not Unix(r)
+GNU	GNU's Not UNIX®
 GPL	(GNU) general public license
 GPS	global positioning system
 GPSR	GPSr = GPS receiver
@@ -361,7 +362,7 @@ GRML	(Ausruf der Unzufriedenheit, z.B. mit dem Schicksal)
 GRML	austrian GNU/Linux live distribution, contains MirOS bsd4grml
 GTFO	get the fuck out
 GTG	got to go
-GUI	graphical user interface
+GUI	graphic{al,s} user interface
 GWS	get well soon
 GZ	[gc] Ground Zero - the spot your GPSr takes you to the cache location
 HA	high availability
@@ -481,6 +482,7 @@ JFW	just fucking works
 JHD	just hit "delete"
 JIC	just in case
 JIHBED	it is word arabic == TOP AND POWER INTELLIGENT</quote> (a TNF joke)
+JK	just kidding
 JMO	just my opinion
 JPEG	joint photography experts group
 JSYK	just so you know
@@ -729,6 +731,7 @@ OT	off topic
 OT	ohne Themenbezug
 OTL	out to lunch
 OTOH	on the other hand
+OTP	one time password
 OTT	over the top
 OTTOMH	off the top of my head
 PA	physical address
@@ -1033,7 +1036,7 @@ TMA	too many abbreviations
 TMDS	transition minimized differential signaling
 TMI	too much information
 TMTOWTDI	there's more than one way to do it
-TNF	The NetBSD(TM) Foundation
+TNF	The NetBSD® Foundation
 TNF	Tinnef (german dialect)
 TNLN	[gc] took nothing, left nothing (also: N/T)
 TNLNSL	[gc] took nothing, left nothing, signed log (also: N/T)
@@ -1051,6 +1054,7 @@ TTL	time to live
 TTY	teletype [terminal]
 TTYL	talk to you later
 TTYL8ER	tty (read) you later [usenet]
+TUI	text user interface
 TWIAVBP	the world is a very big place
 TWKMHNNOARN	those who know me have no need of a real name
 TWKMHNNOMRN	those who know me have no need of my real name
