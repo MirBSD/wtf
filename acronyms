@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.88 2010/03/30 12:44:14 tg Exp $
+$MirOS: wtf/acronyms,v 1.89 2010/04/16 16:08:34 tg Exp $
 $NetBSD: acronyms,v 1.186 2009/07/07 10:56:13 tonnerre Exp $
 $NetBSD: acronyms.comp,v 1.93 2009/08/09 14:04:43 jakllsch Exp $
 10X	tenx (thanks)
@@ -653,6 +653,7 @@ MTA	mail transfer agent
 MTF	more to follow
 MTU	maximum transmission unit
 MUA	mail user agent
+MUC	multi user chat (jabber/xmpp equivalent to irc channel)
 MUGGLE	[gc] person not knowing about geocaching
 MVS	Multiple Virtual Systems
 MWDW	Mach' was Du willst!
@@ -1162,6 +1163,7 @@ XGA	extended graphics adapter
 XGA	extended graphics array
 XHTML	Extensible Hyper-Text Markup Language
 XML	extensible markup language
+XMPP	Extensible Messaging and Presence Protocol (aka. Jabber)
 XNSL	[gc] exchanged nothing, signed log (cf. TNLNSL, N/T)
 XSL	extensible stylesheet language
 XSS	Cross-Site Scripting (sometimes CSS)
