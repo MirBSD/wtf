@@ -1,6 +1,6 @@
-$MirOS: wtf/acronyms,v 1.89 2010/04/16 16:08:34 tg Exp $
-$NetBSD: acronyms,v 1.186 2009/07/07 10:56:13 tonnerre Exp $
-$NetBSD: acronyms.comp,v 1.93 2009/08/09 14:04:43 jakllsch Exp $
+$MirOS: wtf/acronyms,v 1.90 2010/07/23 20:30:27 tg Exp $
+$NetBSD: acronyms,v 1.189 2010/04/23 17:48:06 dholland Exp $
+$NetBSD: acronyms.comp,v 1.100 2010/06/08 12:52:51 jruoho Exp $
 10X	tenx (thanks)
 2IC	second in charge
 3WHS	three-way handshake
@@ -17,6 +17,8 @@ ADB	Apple desktop bus
 ADC	analog [to] digital converter
 ADPCM	adaptive differential pulse code modulation
 ADSL	asymmetric digital subscriber line
+ADT	abstract data type
+AES	Advanced Encryption Standard
 AFAIC	as far as I'm concerned
 AFAICR	as far as I can recall
 AFAICT	as far as I can tell
@@ -26,7 +28,7 @@ AFAIR	as far as I recall
 AFAIU	as far as I understand
 AFD	away from desktop
 AFK	away from keyboard
-AFS	Andrew file system
+AFS	Andrew File System
 AFU	all fucked up
 AFW	away from window
 AGP	accelerated graphics port
@@ -36,19 +38,23 @@ AIX	Ain't unIX
 AKA	also known as
 AKUEFI	Abkürzungsfimmel
 AKÜFI	Abkürzungsfimmel
+ALU	arithmetic and logical unit
 AM	amplitude modulation
 AMI	alternate mark inversion
-ANSI	american national standards institute
+ANSI	American National Standards Institute
 AP	access point
 API	application programming interface
 APIC	advanced programmable interrupt controller
 APINKE	[gc] Another Place (originally Park, in the USA) I Never Knew Existed (spoken 'apinky')
+ARM	Acorn RISC Machine
+ARM	Advanced RISC Machines
 ARP	address resolution protocol
+ARPA	Advanced Research Projects Agency
 ARQ	automatic repeat request
 AS	autonomous system
 ASAIC	as soon as I can
 ASAP	as soon as possible
-ASCII	american standard code for information interchange
+ASCII	American standard code for information interchange
 ASF	The Apache™ Foundation
 ASLR	address space layout randomization
 ASN	autonomous system number
@@ -60,16 +66,21 @@ ATAPI	advanced technology attachment packet interface
 ATC	address translation cache
 ATM	asynchronous transfer mode
 ATM	at the moment
+ATM	automatic teller machine
 ATX	advanced technology extended
 AUB	please (dutch: alstublieft / als het u belieft)
+AWK	Aho, Werner, and Kernighan
 AWOL	absent without official leave
 AYB	all your base are belong to us
 AYBABTU	all your base are belong to us
 AYT	are you there
 B/C	because
 B/S	bullshit
+B/W	bandwidth
 B/W	between
 B4	before
+BAMP	BSD Apache MySQL {Perl,PHP,Python}
+BAMPP	BSD Apache MySQL {Perl,PHP,Python}
 BAR	base address register
 BASIC	beginners' all-purpose symbolic instruction code (_the_ programming language per se)
 BBIAB	be back in a bit
@@ -78,6 +89,7 @@ BBL	[I'll] be back later
 BBS	be back soon
 BBT	be back tomorrow
 BCB	[gc] Bookcrossing Book
+BCD	binary coded decimal
 BCNU	be seeing you
 BCNUL8R	be seeing you later
 BEDO	burst extended data output
@@ -94,23 +106,29 @@ BIAF	back in a few
 BIALW	back in a little while
 BIAS	back in a second
 BIAW	back in a while
+BIND	Berkeley Internet Name Daemon
+BIND	Buggy Internet Name Dæmon
 BIOS	basic input/output system
 BLOB	binary large object
 BOATILAS	bend over and take it like a slut
 BOFH	bastard operator from hell
 BOGAHICA	bend over, grab ankles, here it comes again
 BOHICA	bend over here it comes again
+BPF	Berkeley packet filter
 BPS	bits per second
-BQS	berkeley quality software
+BQS	Berkeley quality software
 BRB	[I'll] be right back
 BRT	[I'll] be right there
 BS	bullshit
+BSD	Berkeley software distribution
 BSD	Blobs Schaden Dir
 BSD	Blobs Sind Doof
 BSD	basically secure and dependable
-BSD	berkeley software distribution
 BSD	big scary daemons
+BSOD	blue screen of death
 BSS	block started by symbol
+BT	BitTorrent
+BT	Bluetooth
 BTAT	been there, ate that
 BTDB	been there, done both
 BTDT	been there, done that
@@ -146,6 +164,7 @@ CIFS	Common Internet File System (old SMB)
 CIG	common interest group
 CIS	contact image sensor
 CITO	[gc] cache in, trash out
+CJK	Chinese, Japanese, and Korean
 CLI	command line interface
 CLIP	Calling Line Identification Presentation (feature on callee side to present incoming transmitted phone number)
 CLIR	Calling Line Identification Restriction (feature on caller side to prevent transmitting the own phone number - three modi: CLIR presentation (off by default, on by dial prefix), CLIR restriction (on by default, off by dial prefix), always enabled)
@@ -162,11 +181,15 @@ COLR	Connected Line Identification Restriction (feature on callee side to preven
 COTS	commercial off-the-shelf
 COW	copy-on-write
 CPU	central processing unit
+CR	carriage return
 CRLF	carriage return / line feed
 CRT	cathode ray tube
+CS	cable select
+CS	computer science
 CSMA	carrier sense multiple access
 CSMA/CA	carrier sense multiple access with collision avoidance
 CSMA/CD	carrier sense multiple access with collision detection
+CSRF	cross-site request forgery
 CSS	Content Scrambling System
 CSS	cascading style sheets
 CTS	clear to send
@@ -179,8 +202,11 @@ D&R	duck and run
 D/L	download
 D/W	don't worry
 DAC	digital [to] analog converter
+DAC	discretionary access control
 DAEMON	disk and execution monitor (and that cuddly red BSD mascot)
+DB	database
 DBDDHKP	doof bleibt doof, da helfen keine Pillen
+DCC	direct client [to] client
 DCE	data control equipment
 DCE	distributed computing environment
 DCT	discrete cosine transform
@@ -190,12 +216,17 @@ DDTT	don't do that then
 DDWG	digital display working group
 DEBILLIAN	ancient GNU/Linux distribution, nearly forgotten
 DER	distinguished encoding rules
+DES	Data Encryption Standard
 DFDC	[gc] Danke für den Cache (TFTC)
 DFDD	[gc] Danke für die Dose (TFTC)
-DFT	discrete fourier transform
+DFS	depth first search
+DFS	distributed file system
+DFT	discrete Fourier transformation
 DGAS	don't give a shit
 DHCP	dynamic host configuration protocol
+DHL	Da Haste Lauferei
 DIFS	distributed inter-frame space
+DIMM	dual inline memory module
 DIY	do it yourself
 DJB	Dan J Bernstein -- http://cr.yp.to/
 DKDC	don't know, don't care
@@ -209,15 +240,21 @@ DNF	[gc] did not find
 DNS	domain name system
 DOA	dead on arrival
 DOCH	German for "yes" answering "you don't ..., do you?"
+DOM	document object model
 DOS	Disc Operating System
 DOS	denial of service
 DPCM	differential pulse code modulation
 DPD	Deutscher Paketdienst
 DPD	dead peer detection
+DPI	deep packet inspection
 DPI	dots per inch
 DRAM	dynamic random access memory
+DRI	direct rendering infrastructure
+DRM	digital restriction management
+DRM	direct rendering module
 DRY	don't repeat yourself
 DSL	digital subscriber line
+DSLAM	digital subscriber line access multiplexer
 DSSS	direct sequence spread spectrum
 DST	daylife sucking time
 DST	daylight saving time
@@ -230,10 +267,12 @@ DTST	did the same thing
 DTWT	do the wrong thing
 DVD	digital versatile disc
 DVI	digital visual interface
+DVR	digital video recorder
 DWIM	do what I mean
 DWZ	dat wil zeggen?
 E-XER	extended XML encoding rules
 EAP	extensible authentication protocol
+ECN	explicit congestion notification
 ECP	enhanced capability port
 EDID	extended display identification data
 EDO	extended data out
@@ -243,6 +282,7 @@ EFM	eight to fourteen modulation
 EG	evil grin
 EGA	enhanced graphics adapter
 EGP	exterior gateway protocol
+EIDE	enchanced IDE
 EISA	extended industry standard architecture
 ELF	endless long to wait for
 ELF	executable and linking format
@@ -253,6 +293,7 @@ EOB	end of business [day]
 EOD	end of discussion
 EOF	end of file
 EOL	end of life
+EOL	end of line
 EOT	end of transmission
 EPIC	Explicitly Parallel Instruction Computing
 EPP	enhanced parallel port
@@ -280,7 +321,10 @@ FFS	find first set
 FFS	for fuck's sake
 FFTFT	feel free to fix that
 FHSS	frequency hop spread spectrum
+FIAT	Fehler in allen Teilen
+FIAT	Feuer in allen Töpfen
 FICON	Fiber Connectivity
+FIFO	first in first out
 FIGJAM	fuck I'm good, just ask me
 FIIK	fuck[ed] if I know
 FIIR	fuck[ed] if I remember
@@ -294,6 +338,7 @@ FORD	fix or repair daily
 FORD	für Ossis reicht det
 FOS	full of shit
 FOSS	free / open source software
+FPGA	field programmable gate array
 FPM	fast page mode
 FPOS	Financial Point of Sale
 FPOS	First Person On Scene (first responders training)
@@ -304,12 +349,14 @@ FPOS	Future Point of Sale
 FPU	Floating Point Unit
 FQDN	fully qualified domain name
 FREEBSD	most 1337 open source operating system -- http://www.freebsd.org/
+FRU	field replaceable unit
 FSB	Front-Side Bus
 FSCK	file system check [or: polite for F*CK]
 FSDO	for some definition of
 FSF	Free Software Foundation -- http://www.fsf.org/ http://www.fsf-europe.org/
 FSVO	for sane values of
 FSVO	for some value of
+FTBFS	fails to build from source
 FTBFS	failure to build from source
 FTF	[gc] first to find
 FTFM	fuck the fuckin' manual!
@@ -336,6 +383,8 @@ GC	[gc] geocoin (also used as common name for trackable items, cf. TB)
 GC	garbage collector
 GCC	gcc can't compile
 GCR	group-coded recording
+GDT	global descriptor table
+GID	group identifier
 GIF	graphics interchange format
 GIGO	garbage in, garbage out
 GIT	content addressable filesystem written by finnish study aborter
@@ -366,9 +415,11 @@ GRML	austrian GNU/Linux live distribution, contains MirOS bsd4grml
 GTFO	get the fuck out
 GTG	got to go
 GUI	graphic{al,s} user interface
+GUID	globally unique identifier
 GWS	get well soon
 GZ	[gc] Ground Zero - the spot your GPSr takes you to the cache location
 HA	high availability
+HAL	hardware abstraction layer
 HAND	have a nice day
 HBA	host bus adapter
 HBCI	half correct banking interface
@@ -390,8 +441,10 @@ HHDD	hybrid hard disc drive
 HHIS	hanging head in shame
 HHOS	ha ha, only serious
 HICA	here it comes again
+HID	human interface device
 HNY	happy new year
 HSIW	HOLY SHIT IT WORKS
+HT	hyper-threading
 HTH	hoffentlich tut's helfen
 HTH	hope this helps
 HTML	hyper-text markup language
@@ -399,6 +452,7 @@ HTTP	Hot Tits Transport Pr0nocol
 HTTP	hyper-text transfer protocol
 HTTPS	hyper-text transfer protocol, ssl secured
 HWRNG	hardware random number generator
+HZ	Hertz
 I2O	intelligent input/output
 IAC	in any case
 IANA	internet assigned number authority
@@ -415,13 +469,18 @@ ICE	internal compiler error
 ICMP	internet control message protocol
 IDC	I don't care
 IDD	indeed (dutch: inderdaad)
+IDE	integrated development environment
 IDE	integrated drive electronics
 IDK	I don't know
 IDRP	inter-domain routing protocol
+IDS	intrusion detection system
+IDT	interrupt descriptor table
+IE	Microsoft Internet Explorer
 IEC	international electrotechnical commission
-IEEE	institute [of] electrical [and] electronics engineers
-IESG	internet engineering steering group
-IETF	internet engineering task force
+IEEE	Institute [of] Electrical [and] Electronics Engineers
+IESG	Internet Engineering Steering Group
+IETF	Internet Engineering Task Force
+IGMP	Internet group management protocol
 IGP	interior gateway protocol
 IHAFC	I haven't a fucking clue
 IHBW	I have been wrong
@@ -443,13 +502,16 @@ INCITS	international committee on information technology standards
 IO	input/output
 IOCTL	input/output control
 IOW	in other words
-IP	internet protocol
+IP	Internet Protocol
+IP	intellectual property
 IPC	interprocess communication
-IPNG	internet protocol, next generation
-IPSEC	internet protocol security
+IPNG	Internet Protocol, next generation
+IPS	intrusion prevention system
+IPSEC	Internet Protocol security
 IPV	in place of (dutch: in plaats van)
 IPV6	next generation Internet Protocol, triggers japanese simple-mind ideas
 IRC	internet relay chat
+IRDA	infrared data association
 IRL	in real life
 IRQ	interrupt request
 IRTF	internet research task force
@@ -462,6 +524,8 @@ ISN	initial serial number
 ISO	international standards organization
 ISOC	internet society
 ISP	internet service provider
+ISR	interrupt service routine
+IST	interrupt stack table
 ISTM	it seems to me
 ISTR	I seem to recall
 ITYM	I think you mean
@@ -471,6 +535,7 @@ ITYW	I think you want
 ITYW	I'll tell you what
 ITYW	Is it this you want
 ITYW	It's this you want
+IVT	interrupt vector table
 IWBNI	it would be nice if
 IYSS	if you say so
 IYSWIM	if you see what I mean
@@ -478,6 +543,7 @@ J/K	just kidding
 JAJAJAJA	yes yes yes yes (common German expression in OpenBSD development)
 JARGON	hacker slang censored - http://catb.org/~esr/jargon/chaff.html
 JARGON	hacker slang collection - http://catb.org/~esr/jargon/
+JBOD	just a bunch of disks
 JFGI	just fucking google it
 JFTR	just falls Thema reinkarniert
 JFTR	just for the record
@@ -485,10 +551,13 @@ JFW	just fucking works
 JHD	just hit "delete"
 JIC	just in case
 JIHBED	it is word arabic == TOP AND POWER INTELLIGENT</quote> (a TNF joke)
+JIT	just in time
 JK	just kidding
 JMO	just my opinion
 JPEG	joint photography experts group
+JRE	Java™ runtime environment
 JSYK	just so you know
+JTAG	joint test action group
 JTLYK	just to let you know
 KISS	keep it short and simple
 KISS	keep it simple and smart
@@ -509,6 +578,8 @@ KVM	keyboard, video, mouse switch
 L8ER	later
 L8R	later
 LACP	Link Aggregation Control Protocol
+LAMP	Linux Apache MySQL {Perl,PHP,Python}
+LAMPP	Linux Apache MySQL {Perl,PHP,Python}
 LAN	local area network
 LART	luser attitude readjustment tool (ie, hammer)
 LBA	logical block addressing
@@ -518,13 +589,20 @@ LCD	liquid crystal display
 LCL	[gc] left calling card
 LCP	link control protocol
 LDAP	lightweight directory access protocol
+LDT	local descriptor table
 LED	light emitting diode
 LER	light emitting resistant
+LFS	Linux from Scratch
+LFS	log-structured file system
 LGTM	looks good to me
+LIFO	last in first out
+LILO	Linux loader
+LILO	last in last out
 LINUX	free (as in GNU) operating system kernel -- http://www.kernel.org/
 LINUX	life is not utterly exciting
 LIR	local internet registry
 LJBF	let's just be friends
+LKM	Linux kernel module
 LKM	loadable kernel module
 LKML	linux-kernel mailing list (vger.rutgers.edu -> vger.kernel.org)
 LLC	logical link control
@@ -538,13 +616,18 @@ LSB	least significant bit [or: byte]
 LSB	linux standards base
 LSI	large scale integration
 LTNS	long time no see
+LTR	load task register
 LUG	Linux user group
 LUG	local user group
 LUN	logical unit number
+LV	logical volume
+LVM	logical volume management
 LZW	Lempel Ziv Welch
+MAC	mandatory access control
 MAC	medium access control
 MARC	http://marc.theaimsgroup.com/
 MBR	master boot record
+MCGA	multicolor graphics adapter
 MCSE	"Mayday", called some experts
 MCSE	Minesweeper Consultant and Solitaire Expert
 MCSE	mad consultants slurping ethanol
@@ -620,6 +703,8 @@ MCSE	my company screws everyone
 MCSE	my computer's software exploded
 MCSE	my cranium softened easily
 MCSE	my customers support extravagance
+MDA	mail delivery agent
+MDA	monochrome display adapter
 MDRAM	multibank dynamic random access memory
 MDWDW	Mach' doch, was Du willst!
 MFC	merge from -current
@@ -629,6 +714,7 @@ MFS	Memory File System
 MIA	missing in action
 MIDI	musical instrument digital interface
 MIME	multipurpose internet mail extensions
+MIMO	multiple input multiple output
 MIPS	Microprocessor without Interlocked Pipeline Stages
 MIPS	meaningless indicator of processor speed
 MIPS	meaningless information for a pushy salesman
@@ -636,6 +722,7 @@ MIPS	meaningless information provided by salesperson
 MIPS	million instructions per second
 MIPS	{def.} die Zahl von Millionen Maschinenoperationen pro Sekunde, von der der Hersteller garantiert, daß sie unter keinerlei Betriebsbedingungen überschritten wird
 MIRBSD	split of OpenBSD with a lot of improvements -- http://mirbsd.de/
+MIT	Massachusetts Institute of Technology
 MMU	memory management unit
 MODE	Mann, opfere dein Erspartes!
 MODE	die teuerste Stoffwechselkrankheit
@@ -646,6 +733,7 @@ MPEG	moving picture experts group
 MPLS	multiprotocol label switching
 MSB	most significant bit [or: byte]
 MSF	minutes seconds frames
+MSI	message signaled interrupt
 MSIE	Microsoft Slaves' Incessant Exasperation
 MSIE	Microsoft® Internet Explorer
 MSS	maximum segment size
@@ -665,6 +753,7 @@ N/T	no text (also: nt)
 N1	nice one
 N8	goodneight
 NAK	negative acknowledgement (see ACK)
+NAS	network attached storage
 NAT	network address translation
 NAV	network allocation vector
 NBD	no big deal
@@ -686,11 +775,15 @@ NIFOC	naked in front of computer
 NIH	not invented here
 NINU	[gc] niets in, niets uit (cf. TNLN)
 NIS	network information service
+NLS	native language support
 NM	[gc] needs maintenance
 NM	never mind
 NMF	not my fault
+NMI	non-maskable interrupt
 NMP	not my problem
+NNTP	network news transfer protocol
 NOFI	no flame intended
+NOP	no operation
 NOYB	none of your business
 NOYFB	none of your fucking business
 NP	no problem
@@ -701,13 +794,15 @@ NRFPT	not ready for prime time
 NRN	no reply necessary
 NRNR	[gc] nichts rein, nichts raus (cf. TNLN)
 NRZ	non-return to zero
+NSA	National Security Agency
 NSFW	not suitable for work
 NT	[gc] no trade
 NT	new technology
 NT	no text (also: n/t)
 NTSC	Never Twice Same Color
-NUMA	non uniform memory access
+NUMA	non-uniform memory access
 NVM	never mind
+NVRAM	non-volatile random access memory
 NÄHMLICH	Wer nämlich mit h schreibt, ist dämlich.
 NÄMLICH	Wer nämlich mit h schreibt, ist dämlich.
 OC	[gc] opencaching.{cz,de,pl}
@@ -719,17 +814,23 @@ OIC	oh, I see
 OMG	Oh my Goddess!
 OMG	oh, my god
 OMW	on my way
+OO	OpenOffice
+OO	object oriented
 OOB	out of band
 OOB	out of bounds
 OOM	out of memory
+OOO	OpenOffice
+OOP	object oriented programming
 OPENBSD	most secure open source operating system -- http://www.OpenBSD.org/
 OPTU	Octet Pass-Through for Unicode (encoding) -- MirOS OPTU-8 and OPTU-16
+OQL	object query language
 OS	operating system
 OSD	open source definition
 OSF	open software foundation
 OSI	open systems interconnection
 OSI	open-source initiative
 OSPF	open shortest path first
+OSS	open sound system
 OSS	open source software
 OT	off topic
 OT	ohne Themenbezug
@@ -738,20 +839,28 @@ OTOH	on the other hand
 OTP	one time password
 OTT	over the top
 OTTOMH	off the top of my head
+OUI	organizationally unique identifier
+OWL	Web ontology language
+P2P	PCI to PCI
+P2P	peer to peer
 PA	physical address
 PAE	physical address extension
 PAF	[gc] phone a friend (usually required for webcam caches)
 PAM	pluggable authentication modules
 PAM	pulse amplitude modulation
 PAT	port address translation
+PATA	parallel ATA (IDE, AT-Bus)
 PAX	portable archive exchange
 PB	powerbook
 PB	problem
 PC	personal computer
 PCB	printed circuit board
+PCC	Portable C Compiler
 PCI	peripheral component interconnect
 PCM	pulse code modulation
 PCMCIA	personal computer memory card international association
+PDA	personal digital assistant
+PDF	portable document format
 PDP	page descriptor page
 PDQ	pretty darn quick
 PDU	protocol data unit
@@ -764,6 +873,7 @@ PFO	please fuck off
 PFS	perfect forward secrecy
 PFY	pimply faced youth
 PGP	pretty good privacy
+PHB	PCI host bridge
 PHB	pointy haired boss
 PHD	Doctor of Philosophy
 PHP	people hate PHP
@@ -774,6 +884,7 @@ PIE	position independent executable
 PIN	personal identification number
 PIO	programmed input/output
 PITA	pain in the arse
+PKI	public key infrastructure
 PKSP	pound keys and spew profanity
 PLL	phase locked loop
 PLONK	Poster liest Originalposter nicht konsequent
@@ -784,6 +895,7 @@ PNG	portable network graphics
 PNP	{pay,plug} and pray
 POC	point of contact
 POC	proof of concept
+POE	power over ethernet
 POI	[gc] point of interest
 POLA	principle of least astonishment
 POLS	principle of least surprise
@@ -792,7 +904,10 @@ POS	piece of shit
 POSIX	portable operating system interface [for] unix
 POST	power on self test
 POTS	plain old telephone system
+POV	point of view
 POWER	Performance Optimization With Enhanced RISC (as in IBM's POWER CPUs)
+PPB	PCI [to] PCI bridge
+PPC	PowerPC
 PPL	pretty please
 PPP	point-to-point protocol
 PPPOA	point-to-point protocol over ATM
@@ -808,15 +923,21 @@ PTLA	pseudo top level aggregator
 PTP	page table page
 PTV	parental tunnel vision
 PWM	pulse width modulation
+PXE	preboot execution environment
+QA	quality assurance
 QED	quod erat demonstrandum
+QFT	quoted for truth
 QOS	quality of service
 QOTD	quote of the day
 RAID	redundant array of inexpensive disks
 RAM	random access memory
+RAS	remote access service
 RAS	restartable atomic sequence
 RATIBIBUGLE	french-specific version of ROTOTILL
 RCS	revision control system
+RCU	read-copy-update
 RDF	reality distortion field
+RDF	resource description format
 REST	representational state transfer
 RF	radio frequency
 RFA	request for assistance
@@ -825,6 +946,8 @@ RFD	request for discussion
 RFE	request for enhancements
 RGB	red green blue
 RGR	roger
+RHEL	Red Hat Enterprise Linux
+RHL	Red Hat Linux (now either RHEL or Fedora)
 RIA	rich internet application
 RIFF	Resource Interchange File Format
 RIP	requiescat in pacem
@@ -851,7 +974,9 @@ RP	responsible person
 RPC	remote procedure call
 RPM	revolutions per minute
 RSN	real soon now
+RSS	really simple syndication
 RSVP	please reply (french: repondez s'il vous plaît)
+RTC	real time clock
 RTF	rich text format
 RTFB	read the fine/fucking book
 RTFC	read the fine/fucking code (see also UTFS)
@@ -866,12 +991,14 @@ RTFS	read the fine/fucking source
 RTFS	read the fine/fucking spec
 RTFWS	read the {fine,fucking} web site
 RTFWS	return to frankensteins wooly sheep
+RTOS	real time operating system
 RTS	request to send
 RTT	round time trip
-S/PDIF	sony/phillips digital interface
+S/PDIF	Sony/Phillips digital interface
 SACD	super audio compact disc
 SAD	security association database
 SAM	serial access memory
+SAN	storage area network
 SAP	Salary Appreciation Program.
 SAP	Sammelstelle Arbeitsloser Physiker
 SAP	Sanduhr-Anzeige-Programm
@@ -908,12 +1035,15 @@ SATA	satan
 SATA	serial advanced technology attachment
 SB	sound blaster
 SBA	[gc] should be archived (needs archived)
+SCI	system control interrupt
 SCM	software configuration management
 SCM	source code management
 SCNR	schulljung, connte nit rückhalten
 SCNR	sorry, could not resist
+SCP	secure copy
 SCSI	small computer system interface
 SCTP	stream control transmission protocol
+SDK	software development kit
 SDRAM	synchronous dynamic random access memory
 SECAM	Something Essentialy Contrary to the American Method
 SED	smoke emitting diode
@@ -925,9 +1055,14 @@ SHIT	FSF - Shit happens: http://www.fsf.org/fun/jokes/shit-happens.html
 SHIT	FSF - Shit part 2: http://www.fsf.org/fun/jokes/more-shit.html
 SHIT	FSF - Shit part 3: http://www.fsf.org/fun/jokes/religions.html
 SHOK	smashing head on keyboard
+SIEMENS	Schon Im Ersten Moment Eigenartiger Nichtfunktionierender Scheiß
+SIEMENS	Sicher Ist Eins: Man Erhält Nur Schrott
+SIEMENS	Super Im Ersten Moment, Erst Nachher Scheiße
 SIFS	short inter-frame space
 SIGNAL	Stallman is (a) GNU, not a Lawyer
 SIMCA	sitting in my chair amused
+SIMD	single instruction multiple data
+SIMM	single inline memory module
 SIP	session initiation protocol
 SIR	slow infrared
 SLDRAM	synchronous-link dynamic random access memory
@@ -935,6 +1070,7 @@ SLOB	source BLOB
 SMART	self-monitoring analysis and reporting technology
 SMB	Server Message Block
 SMBFS	Server Message Block File System (see CIFS)
+SMI	system management interrupt
 SMIDF	schieß mir in den Fuß
 SMIDF	simple-minded incompetent drooling fool
 SMLSFB	so many losers, so few bullets
@@ -952,21 +1088,31 @@ SO	significant other
 SOA	STD (dutch: Seksueel Overdraagbare Aandoening)
 SOA	Service Oriented Architecture
 SOA	Start Of Authority (DNS record type)
+SOA	service oriented architecture
+SOAP	simple object access protocol
 SOB	son of [a] bitch
+SOHO	small office / home office
 SOL	shit out [of] luck
 SOP	standard operating procedure
 SPARC	Scalable Processor Architecture
+SPARK	annotated subset of Ada for formal verification
+SPARQL	SPARQL protocol and RDF query language
 SPD	security policy database
 SPD	serial presence detect
+SPI	serial peripheral interface
+SPI	stateful packet inspection
 SPIT	spam over internet telephony
+SQL	structured query language
 SRAM	static random access memory
 SRGG	secure random number generator
 SRNG	stretched random number generator
-SSD	solid state disc
+SSD	solid state drive
+SSE	streaming SIMD extensions
 SSFDC	solid state floppy disc card
 SSH	secure shell
 SSIA	subject says it all
 SSL	secure sockets layer
+SSP	stack smashing protection
 SSTO	single stage to orbit
 STD	Sexually Trasmittable Disease
 STD	Standard
@@ -982,11 +1128,13 @@ SUS	stupid user syndrome
 SUSE	Software- und Systementwicklung (now Novell ):
 SUX	sucks
 SUX2BU	sucks to be you
+SVG	scalable vector graphics
 SVGA	super video graphics array
 SVP	please (french: s'il vous plaît)
 SWAG	silly, wild-assed guess
 SWAHBI	silly, wild-assed hare-brained idea
 SWAP	[gc] Some say this is short for "Stuff We All Get." Swag means the trade items that we swap at geocaches and carry in our backpacks.
+SWF	Shockwave Flash
 SWFG	search with fucking google
 SWMBO	she who must be obeyed
 T4TC	[gc] thanks for the cache
@@ -994,6 +1142,7 @@ TANSTA	there ain't (no) such thing as ...
 TANSTAAFL	there ain't no such thing as a free lunch
 TATMWTDI	there are too many ways to do it (in Perl)
 TB	[gc] travel bug (also used as common name for trackable items, cf. GC)
+TBA	to be announced
 TBC	to be continued
 TBD	to be {decided,determined,done}
 TBF	to be fixed
@@ -1025,6 +1174,7 @@ TIFF	tagged image file format
 TIMTOWTDI	there is more than one way to do it (perl sucks, now we all know why)
 TINC	there is no cabal
 TINSTA	there is no such thing as ...
+TIOOWTDI	There is only one way to do it
 TITS	try it to see
 TLA	three letter acronym
 TLA	tom lord's arch
@@ -1046,12 +1196,17 @@ TNF	Tinnef (german dialect)
 TNLN	[gc] took nothing, left nothing (also: N/T)
 TNLNSL	[gc] took nothing, left nothing, signed log (also: N/T)
 TNX	thanks
+TOCTOU	time of check to time of use
 TOEFL	test of english as a foreign language
+TOS	terms of service
+TOS	type of service
 TPTB	the person to bug
 TPTB	the powers that be
+TR	task register
 TR	token ring
 TRNG	true random number generator
 TRT	the right thing
+TSS	task state segment
 TTBOMK	to the best of my knowledge
 TTF	[gc] third to find
 TTFN	ta ta for now
@@ -1069,10 +1224,13 @@ TZ	time zone
 U/L	upload
 UART	universal asynchronous receiver/transmitter
 UC	uncacheable
+UDMA	Ultra-DMA
 UDO	ultra density optical (storage)
 UDP	user datagram protocol
-UFS	UNIX File System
-UFS	unix file system
+UFS	Unix filesystem
+UI	user interface
+UID	unique identifier
+UID	user identifier
 UML	unified modeling language
 UPS	[gc] unnatural pile of sticks
 UPS	uninterruptible power supply
@@ -1084,12 +1242,14 @@ USB	universal serial bus
 USR	Unix Source Repository
 USR	Unix System Resources
 USWC	uncacheable speculative write combining
+UTC	coordinated universal time
 UTFG	use the fscking google
 UTFS	use the {fine,fucking} source
 UTP	unshielded twisted pair
 UTRTFTJ	use the right tool for the job
 UTSL	use the source, Luke
-UUCP	unix-to-unix copy protocol
+UUCP	Unix-to-Unix copy protocol
+UUID	universally unique identifier
 UUOC	useless use of cat
 VA	virtual address
 VAR	Volatile Access Region
@@ -1101,6 +1261,7 @@ VEG	very evil grin
 VERPEILUNGSFAKTOR	never forget it
 VESA	video electronics standards association
 VFS	Virtual File System
+VG	volume group
 VGA	video graphics array
 VH	very helpful (lilo lingo, from IRC)
 VLAN	virtual local area network
@@ -1116,7 +1277,10 @@ VRRP	virtual router redundancy protocol
 VVV	Voilà, Vivement Vendredi
 W/	with
 W/O	without
+W3C	World Wide Web Consortium
 WAG	wild-ass guess
+WAMP	Windows Apache MySQL {Perl,PHP,Python}
+WAMPP	Windows Apache MySQL {Perl,PHP,Python}
 WAN	wide area network
 WAP	Wireless Access Point
 WAP	wireless application protocol
@@ -1126,6 +1290,7 @@ WDYM	what do you mean
 WEP	Wired Equivalent Privacy (yikes! it's as insecure as hell)
 WEP	wired equivalent privacy
 WFH	working from home
+WFI	wait for interrupt
 WFM	works for me
 WHY	because.
 WIBNI	wouldn't it be nice if
@@ -1153,6 +1318,7 @@ WTFM	write the fucking manual (GRUB2...)
 WTFRUD	what the fuck are you doing
 WTH	{what,when,where,who,why} the hell
 WTX	Workstation Technology Extended
+WWAN	wireless wide area network
 WWW	weltweit warten
 WWW	world wide waiting
 WWW	world wide web
@@ -1165,9 +1331,13 @@ XHTML	Extensible Hyper-Text Markup Language
 XML	extensible markup language
 XMPP	Extensible Messaging and Presence Protocol (aka. Jabber)
 XNSL	[gc] exchanged nothing, signed log (cf. TNLNSL, N/T)
+XP	extreme programming
 XSL	extensible stylesheet language
 XSS	Cross-Site Scripting (sometimes CSS)
 XT	extended technology
+XUL	XML user interface language
+YACC	yet another compiler compiler
+YAGNI	you ain't gonna need it
 YAHOO	Yet Another Hierarchically Officious Oracle
 YALIMO	you are lame, in my opinion
 YGWYPF	you get what you {pay,prayed} for
@@ -1178,5 +1348,7 @@ YMA	yo momma's arse
 YMMD	you made my day!
 YMMV	your mileage may vary
 YNS	Yeah, No Shit!
+YP	yellow pages (aka NIS)
 YW	you're welcome
 ZFOD	zero-filled on demand
+ZIFS	zero insertion force socket
