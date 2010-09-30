@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.91 2010/09/21 07:35:53 tg Exp $
+$MirOS: wtf/acronyms,v 1.92 2010/09/30 21:57:54 tg Exp $
 $NetBSD: acronyms,v 1.189 2010/04/23 17:48:06 dholland Exp $
 $NetBSD: acronyms.comp,v 1.100 2010/06/08 12:52:51 jruoho Exp $
 10X	tenx (thanks)
@@ -1177,6 +1177,8 @@ TINC	there is no cabal
 TINSTA	there is no such thing as ...
 TIOOWTDI	There is only one way to do it
 TITS	try it to see
+TL;DR	too long; didn't read
+TL;DS	too long; didn't see
 TLA	three letter acronym
 TLA	tom lord's arch
 TLA	top level aggregator
