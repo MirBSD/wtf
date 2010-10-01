@@ -1,13 +1,13 @@
 #!/bin/mksh
-# $MirOS: wtf/wtf,v 1.10 2008/11/08 23:04:55 tg Exp $
+# $MirOS: wtf/wtf,v 1.11 2010/10/01 17:03:58 tg Exp $
 # $NetBSD: wtf,v 1.7 2000/11/21 00:18:52 soren Exp $
 #-
-# Copyright (c) 2002, 2003, 2004, 2006, 2007, 2008
+# Copyright © 2002, 2003, 2004, 2006, 2007, 2008, 2010
 #	Thorsten “mirabilos” Glaser <tg@mirbsd.org>
 #
 # Provided that these terms and disclaimer and all copyright notices
 # are retained or reproduced in an accompanying document, permission
-# is granted to deal in this work without restriction, including un-
+# is granted to deal in this work without restriction, including un‐
 # limited rights to use, publicly perform, distribute, sell, modify,
 # merge, give away, or sublicence.
 #
@@ -22,39 +22,71 @@
 
 acronyms=${ACRONYMDB:-/usr/share/misc/acronyms}
 
-[[ $1 = is || $1 = ist ]] && shift
+function usage {
+	print -u2 "usage: ${0##*/} [±adp] [is[t]] <acronym> [...]"
+	exit 1
+}
 
-[ $# -lt 1 ] && print -u2 "Usage: $(basename $0) [is] <acronym>"
+use_acronyms=1
+use_dict=0
+use_ports=0
+use_whatis=1
+while getopts "adpw" ch; do
+	case $ch {
+	(+a)	use_acronyms=0 ;;
+	(a)	use_acronyms=1 ;;
+	(+d)	use_dict=0 ;;
+	(d)	use_dict=1 ;;
+	(+p)	use_ports=0 ;;
+	(p)	use_ports=1 ;;
+	(+w)	use_whatis=0 ;;
+	(w)	use_whatis=1 ;;
+	(*)	usage ;;
+	}
+done
+shift $((OPTIND - 1))
+
+[[ $1 = is || $1 = ist ]] && shift
+(( $# < 1 )) && usage
 
 rv=0
-while [ $# -gt 0 ] ; do
-	target=$1
-	tgsrch=$(tr '[:lower:]' '[:upper:]' <<<"$target")
-	ans=$(
-		while IFS= read -r line; do
-			[[ $line = @($tgsrch)+([	 ])* ]] || continue
-			print -r -- "${line##@($tgsrch)+([	 ])}"
-		done <"$acronyms"
-		whatis "$target" 2>/dev/null | while IFS= read -r line; do
-			[[ $line = @($target[, ])* ]] && print -r -- "$line"
-		done
-		[[ -s /usr/ports/INDEX ]] && while IFS=\| read a b c d e; do
-			[[ $a$d = *@($target)* ]] && \
-			    print -r -- "${a}|${d%% \(uses*}"
-		done </usr/ports/INDEX | sort -u | column -ts'|'
-	)
-	if [[ $ans != *([$IFS]) ]]; then
-		print -r -- "   $target:"
-		print -r -- "$ans"
-	else
-		print -u2 "Gee...  I don’t know what “$target” means…"
-		if whence -p dict >&-; then
-			print -u2 "Let’s try The Dictionary..."
-			dict "$target" || let 'rv = rv ? rv : 2'
-		else
-			rv=1
+for target in "$@"; do
+	typeset -u tgsrch=$target
+
+	if (( use_ports )) && [[ -s /usr/ports/INDEX ]]; then
+		p=$(while IFS='|' read a b c d e; do
+			[[ $a$d = *"$target"* ]] && \
+			    print -r -- "$a|${d%% \(uses*}"
+		done </usr/ports/INDEX)
+		if [[ -n $p ]]; then
+			print -r "  - ports matching “$target”:"
+			print -r -- "$p" | sort -u | column -ts'|'
 		fi
 	fi
-	shift
+
+	if (( use_acronyms )); then
+		found=0
+		while IFS= read -r line; do
+			[[ $line = "$tgsrch	"* ]] || continue
+			(( found++ )) || print -r "   $target:"
+			print -r -- "${line#*	}"
+		done <"$acronyms"
+		if (( !found )); then
+			print -ru2 Gee… I don’t know what “"$target"” means…
+			(( rv |= 1 ))
+		fi
+	fi
+
+	(( use_dict )) && if whence -p dict >&-; then
+		dict "$target" || (( rv |= 2 ))
+	else
+		(( rv |= 4 ))
+	fi
+
+	if (( use_whatis )); then
+		w=$(whatis "$target") || \
+		    w="Sorry, no entry for a “$target” manpage"
+		print -r -- "$w"
+	fi
 done
 exit $rv
