@@ -1,6 +1,6 @@
-$MirOS: wtf/acronyms,v 1.94 2010/10/01 19:18:53 tg Exp $
-$NetBSD: acronyms,v 1.190 2010/09/21 07:14:20 soda Exp $
-$NetBSD: acronyms.comp,v 1.109 2010/09/05 23:50:48 ahoka Exp $
+$MirOS: wtf/acronyms,v 1.95 2010/10/26 08:50:00 tg Exp $
+$NetBSD: acronyms,v 1.192 2010/10/25 06:14:10 jruoho Exp $
+$NetBSD: acronyms.comp,v 1.111 2010/10/24 22:37:35 dholland Exp $
 10X	tenx (thanks)
 2IC	second in charge
 3WHS	three-way handshake
@@ -18,6 +18,7 @@ ADC	analog [to] digital converter
 ADPCM	adaptive differential pulse code modulation
 ADSL	asymmetric digital subscriber line
 ADT	abstract data type
+AEAP	as early as possible
 AES	Advanced Encryption Standard
 AFAIC	as far as I'm concerned
 AFAICR	as far as I can recall
@@ -47,6 +48,7 @@ AP	access point
 API	application programming interface
 APIC	advanced programmable interrupt controller
 APINKE	[gc] Another Place (originally Park, in the USA) I Never Knew Existed (spoken 'apinky')
+ARAT	always running APIC timer
 ARC	adaptive replacement cache
 ARM	Acorn RISC Machine
 ARM	Advanced RISC Machines
@@ -66,6 +68,7 @@ AT	advanced technology
 ATA	advanced technology attachment
 ATAPI	advanced technology attachment packet interface
 ATC	address translation cache
+ATEOTD	at the end of the day
 ATM	asynchronous transfer mode
 ATM	at the moment
 ATM	automatic teller machine
@@ -169,8 +172,11 @@ CER	canonical encoding rules
 CFG	context-free grammar
 CFG	control-flow graph
 CFV	call for votes
+CG	center of gravity
+CG	control gate
 CGA	color graphics adapter
 CGI	common gateway interface
+CHAP	challenge-handshake authentication protocol
 CHS	cylinder/head/sector
 CICS	Customer Information Control System
 CIDR	classless inter-domain routing
@@ -187,6 +193,7 @@ CLV	constant linear velocity (as opposed to CAV)
 CMI	control management interface
 CMI	control method interface
 CMIIW	correct me if I'm wrong
+CMOS	complementary metal-oxide-semiconductor
 CMYK	cyan magenta yellow black
 CNP	continued [in my] next post
 CO	[gc] cache owner
@@ -198,6 +205,7 @@ COLR	Connected Line Identification Restriction (feature on callee side to preven
 COMA	cache-only memory architecture
 COTS	commercial off-the-shelf
 COW	copy-on-write
+CPL	current privilege level
 CPU	central processing unit
 CR	carriage return
 CRLF	carriage return / line feed
@@ -214,6 +222,7 @@ CSRF	cross-site request forgery
 CSS	Content Scrambling System
 CSS	cascading style sheets
 CTS	clear to send
+CU	see you
 CUI	(n)curses user interface
 CVS	concurrent versions system
 CW	[gc] CacheWolf
@@ -238,6 +247,7 @@ DDWG	digital display working group
 DE	debugging extensions
 DE	desktop environment
 DEBILLIAN	ancient GNU/Linux distribution, nearly forgotten
+DEP	data execution prevention
 DER	distinguished encoding rules
 DES	Data Encryption Standard
 DFDC	[gc] Danke für den Cache (TFTC)
@@ -253,12 +263,15 @@ DIMM	dual inline memory module
 DIY	do it yourself
 DJB	Dan J Bernstein -- http://cr.yp.to/
 DKDC	don't know, don't care
+DL	diode logic
 DLE	data link escape
 DLL	dynamic link library (shared object)
 DMA	direct memory access
 DMCA	(USA) digital milennium copyright act
 DMCA	don't make content accessible
+DMI	desktop management interface
 DNARD	Digital network appliance reference design
+DND	do not disturb
 DNF	[gc] did not find
 DNS	domain name system
 DOA	dead on arrival
@@ -271,9 +284,12 @@ DPD	Deutscher Paketdienst
 DPD	dead peer detection
 DPI	deep packet inspection
 DPI	dots per inch
+DPL	Debian Project Leader
+DPL	descriptor privilege level
 DRAM	dynamic random access memory
 DRI	direct rendering infrastructure
 DRM	digital restriction management
+DRM	digital rights management
 DRM	direct rendering module
 DRY	don't repeat yourself
 DS	debug store
@@ -281,6 +297,7 @@ DSDT	differentiated system descriptor table
 DSL	digital subscriber line
 DSLAM	digital subscriber line access multiplexer
 DSO	dynamic shared object
+DSP	digital signal processor
 DSSS	direct sequence spread spectrum
 DST	daylife sucking time
 DST	daylight saving time
@@ -288,6 +305,7 @@ DSTM	don't shoot the messenger
 DTD	document type definition
 DTE	data terminal equipment
 DTE	dumb terminal emulator
+DTL	diode-transistor logic
 DTRT	do the right thing
 DTST	did the same thing
 DTWT	do the wrong thing
@@ -300,6 +318,7 @@ DWIM	do what I mean
 DWZ	dat wil zeggen?
 E-XER	extended XML encoding rules
 EAP	extensible authentication protocol
+ECL	emitter-coupled logic
 ECN	explicit congestion notification
 ECP	enhanced capability port
 EDID	extended display identification data
@@ -322,6 +341,7 @@ EOD	end of discussion
 EOF	end of file
 EOL	end of life
 EOL	end of line
+EOM	end of message
 EOT	end of transmission
 EPIC	Explicitly Parallel Instruction Computing
 EPP	enhanced parallel port
@@ -350,7 +370,9 @@ FFI	foreign function interface
 FFS	fast file system
 FFS	find first set
 FFS	for fuck's sake
+FFT	fast Fourier transform
 FFTFT	feel free to fix that
+FG	floating gate
 FHSS	frequency hop spread spectrum
 FIAT	Fehler in allen Teilen
 FIAT	Feuer in allen Töpfen
@@ -364,6 +386,8 @@ FIR	fast infrared
 FLOPS	floating [point] operations per second
 FM	frequency modulation
 FM	fucking magic
+FNO	for nerds only
+FNO	from now on
 FOAD	{fuck off,fall over} and die
 FORD	er fuhr ford und kam nie wieder
 FORD	fix or repair daily
@@ -410,6 +434,7 @@ G/C	garbage collect{,ion}
 GAC	get a clue
 GAL	get a life
 GAS	generic address structure
+GBTW	get back to work
 GC	[gc] The Frog Site (gc.com)
 GC	[gc] gc.com listed geocache
 GC	[gc] geocache
@@ -418,10 +443,14 @@ GC	garbage collector
 GCC	gcc can't compile
 GCR	group-coded recording
 GDT	global descriptor table
+GEM	graphics environment manager
+GEM	graphics execution manager
+GFU	good for you
 GID	group identifier
 GIF	graphics interchange format
 GIGO	garbage in, garbage out
 GIT	content addressable filesystem written by finnish study aborter
+GJ	good job
 GL	"gl hf" - geek l33t hack forever
 GL	"gl hf" - gentoo linux: hack freedumbly
 GL	"gl hf" - gentoo linux: hack freely
@@ -433,6 +462,7 @@ GL	"gl hf" - go lick hairy females
 GL	"gl hf" - go lick hairy folksingers
 GL	"gl hf" - good luck, have fun [StarCraft]
 GL	[gc] GeoLutin, free trackable item (see also: TB)
+GL	good luck
 GMBH	Geh mal Bier holen (german pun)
 GMBH	Geh mir Bier holen (german pun)
 GMBH	Gesellschaft mit beschränkter Haftung (german)
@@ -536,6 +566,7 @@ IINM	if I'm not mistaken
 IIRC	if I recall/remember correctly
 IIUC	if I understand correctly
 IKE	internet key exchange
+ILP	instruction level parallelism
 ILU	I love you
 ILY	I love you
 IMAO	in my arrogant opinion
@@ -555,6 +586,7 @@ IP	intellectual property
 IPC	interprocess communication
 IPI	interprocessor interrupt
 IPNG	Internet Protocol, next generation
+IPS	in-plane switching
 IPS	intrusion prevention system
 IPSEC	Internet Protocol security
 IPV	in place of (dutch: in plaats van)
@@ -587,6 +619,7 @@ ITYW	Is it this you want
 ITYW	It's this you want
 IVT	interrupt vector table
 IWBNI	it would be nice if
+IYKWIM	if you know what I mean
 IYSS	if you say so
 IYSWIM	if you see what I mean
 J/K	just kidding
@@ -619,7 +652,10 @@ KISS	keep it strictly simple
 KISS	keep it sweet and simple
 KITA	kick in the arse
 KLOC	thousand lines of code
+KMS	kernel-mode setting
 KNF	kernel normal form (man 9 style)
+KOD	kiss of death
+KOS	kill on sight
 KPI	kernel programming interface
 KUNDE	kann ungestraft nerven, da Einnahmequelle
 KVA	kernel virtual address
@@ -641,6 +677,7 @@ LCL	[gc] left calling card
 LCP	link control protocol
 LDAP	lightweight directory access protocol
 LDT	local descriptor table
+LE	logical extent
 LED	light emitting diode
 LER	light emitting resistant
 LFM	lowest frequency mode
@@ -777,8 +814,10 @@ MFG	with friendly greetings
 MFM	modified frequency modulation
 MFS	Memory File System
 MIA	missing in action
+MIB	management information base
 MID	mobile internet device
 MIDI	musical instrument digital interface
+MIF	management information format
 MIME	multipurpose internet mail extensions
 MIMO	multiple input multiple output
 MIPS	Microprocessor without Interlocked Pipeline Stages
@@ -789,6 +828,7 @@ MIPS	million instructions per second
 MIPS	{def.} die Zahl von Millionen Maschinenoperationen pro Sekunde, von der der Hersteller garantiert, daß sie unter keinerlei Betriebsbedingungen überschritten wird
 MIRBSD	split of OpenBSD with a lot of improvements -- http://mirbsd.de/
 MIT	Massachusetts Institute of Technology
+MLC	multi-level cell
 MMIO	memory mapped input/output
 MMU	memory management unit
 MMX	matrix math extension
@@ -874,6 +914,7 @@ NSFW	not suitable for work
 NT	[gc] no trade
 NT	new technology
 NT	no text (also: n/t)
+NTP	network time protocol
 NTSC	Never Twice Same Color
 NUMA	non-uniform memory access
 NVM	never mind
@@ -882,6 +923,7 @@ NX	no execute
 NÄHMLICH	Wer nämlich mit h schreibt, ist dämlich.
 NÄMLICH	Wer nämlich mit h schreibt, ist dämlich.
 O2W	off to work
+OAEP	optimal asymmetric encryption padding
 OBO	off by one
 OBOE	off by one error
 OC	[gc] opencaching.{cz,de,pl}
@@ -932,6 +974,7 @@ PAE	physical address extension
 PAF	[gc] phone a friend (usually required for webcam caches)
 PAM	pluggable authentication modules
 PAM	pulse amplitude modulation
+PAP	password authentication protocol
 PAT	page attribute table
 PAT	port address translation
 PATA	parallel ATA (IDE, AT-Bus)
@@ -948,6 +991,7 @@ PCM	pulse code modulation
 PCMCIA	personal computer memory card international association
 PDA	personal digital assistant
 PDF	portable document format
+PDN	pull-down network
 PDP	page descriptor page
 PDQ	pretty darn quick
 PDU	protocol data unit
@@ -971,6 +1015,7 @@ PIE	position independent executable
 PIN	personal identification number
 PIO	programmed input/output
 PITA	pain in the arse
+PKCS	public-key cryptography standards
 PKI	public key infrastructure
 PKSP	pound keys and spew profanity
 PLL	phase locked loop
@@ -996,11 +1041,14 @@ POTS	plain old telephone system
 POV	point of view
 POWER	Performance Optimization With Enhanced RISC (as in IBM's POWER CPUs)
 PPB	PCI [to] PCI bridge
+PPC	Pocket PC
 PPC	PowerPC
+PPL	people
 PPL	pretty please
 PPP	point-to-point protocol
 PPPOA	point-to-point protocol over ATM
 PPPOE	point-to-point protocol over ethernet
+PPU	physics processing unit
 PRBS	pseudo-random bit sequence
 PRML	partial response, maximum likelihood
 PRNG	pseudo random number generator
@@ -1013,6 +1061,8 @@ PTE	page table entry
 PTLA	pseudo top level aggregator
 PTP	page table page
 PTV	parental tunnel vision
+PV	physical volume
+PVG	physical volume group
 PWM	pulse width modulation
 PXE	preboot execution environment
 QA	quality assurance
@@ -1027,6 +1077,8 @@ RAS	remote access service
 RAS	restartable atomic sequence
 RAS	row address strobe
 RATIBIBUGLE	french-specific version of ROTOTILL
+RC	release candidate
+RC	remote control
 RCS	revision control system
 RCU	read-copy-update
 RDF	reality distortion field
@@ -1065,7 +1117,9 @@ ROTFLMAO	rolling on the floor laughing my arse off
 ROTOTILL	"nuke with a chain saw device", to die with extreme prejudice (see GC)
 RP	responsible person
 RPC	remote procedure call
+RPL	requested privilege level
 RPM	revolutions per minute
+RSA	Rivest, Shamir and Adleman
 RSN	real soon now
 RSS	really simple syndication
 RSVP	please reply (french: repondez s'il vous plaît)
@@ -1086,6 +1140,7 @@ RTFS	read the fine/fucking source
 RTFS	read the fine/fucking spec
 RTFWS	read the {fine,fucking} web site
 RTFWS	return to frankensteins wooly sheep
+RTL	resistor-transistor logic
 RTOS	real time operating system
 RTS	request to send
 RTT	round time trip
@@ -1164,11 +1219,16 @@ SIMD	single instruction multiple data
 SIMM	single inline memory module
 SIP	session initiation protocol
 SIR	slow infrared
+SLC	single-level cell
 SLDRAM	synchronous-link dynamic random access memory
+SLI	scalable link interface
+SLI	scan-line interleave
 SLOB	source BLOB
 SMART	self-monitoring analysis and reporting technology
 SMB	Server Message Block
 SMBFS	Server Message Block File System (see CIFS)
+SMBIOS	system management BIOS
+SMI	structure of management information
 SMI	system management interrupt
 SMIDF	schieß mir in den Fuß
 SMIDF	simple-minded incompetent drooling fool
@@ -1300,6 +1360,7 @@ TM	thanks much (lilo lingo, from IRC)
 TMA	too many abbreviations
 TMDS	transition minimized differential signaling
 TMI	too much information
+TMO	timeout
 TMTOWTDI	there's more than one way to do it
 TNF	The NetBSD® Foundation
 TNF	Tinnef (german dialect)
@@ -1318,15 +1379,24 @@ TR	task register
 TR	token ring
 TRNG	true random number generator
 TRT	the right thing
+TS	terminal services
+TS	time series
+TS	time stamp
 TSC	time stamp counter
+TSP	time stamp protocol
+TSP	tunnel service provider
+TSP	tunnel setup protocol
 TSS	task state segment
 TTBOMK	to the best of my knowledge
 TTF	[gc] third to find
 TTFN	ta ta for now
 TTL	time to live
+TTL	transistor-transistor logic
+TTM	translation table maps
 TTY	teletype [terminal]
 TTYL	talk to you later
 TTYL8ER	tty (read) you later [usenet]
+TTYS	talk to you soon
 TUI	text user interface
 TWIAVBP	the world is a very big place
 TWKMHNNOARN	those who know me have no need of a real name
@@ -1368,6 +1438,7 @@ UTSL	use the source, Luke
 UUCP	Unix-to-Unix copy protocol
 UUID	universally unique identifier
 UUOC	useless use of cat
+VA	vertical alignment
 VA	virtual address
 VAR	Volatile Access Region
 VAX	virtual address extension
@@ -1382,8 +1453,10 @@ VFS	Virtual File System
 VG	volume group
 VGA	video graphics array
 VH	very helpful (lilo lingo, from IRC)
+VHDCI	very high density cable interconnect
 VID	voltage level identifier
 VLAN	virtual local area network
+VLIW	very long instruction word
 VLSI	very large scale integration
 VLSM	variable length subnet mask
 VM	virtual machine
@@ -1438,6 +1511,7 @@ WTF	oh, it's me! *g*
 WTF	{what,when,where,who,why} the fuck
 WTFM	write the fucking manual (GRUB2...)
 WTFRUD	what the fuck are you doing
+WTG	way to go
 WTH	{what,when,where,who,why} the hell
 WTX	Workstation Technology Extended
 WWAN	wireless wide area network
@@ -1464,6 +1538,8 @@ YACC	yet another compiler compiler
 YAGNI	you ain't gonna need it
 YAHOO	Yet Another Hierarchically Officious Oracle
 YALIMO	you are lame, in my opinion
+YAWPFAPR	you are welcome; please file a problem report
+YGM	you got mail
 YGWYPF	you get what you {pay,prayed} for
 YHBT	you have been trolled
 YHL	you have lost
