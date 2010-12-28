@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.97 2010/12/23 18:03:03 tg Exp $
+$MirOS: wtf/acronyms,v 1.98 2010/12/28 01:39:26 tg Exp $
 $NetBSD: acronyms,v 1.196 2010/12/02 08:32:32 dholland Exp $
 $NetBSD: acronyms.comp,v 1.114 2010/11/22 23:05:22 dholland Exp $
 10Q	thank you
@@ -626,6 +626,7 @@ INCITS	international committee on information technology standards
 IO	input/output
 IOCTL	input/output control
 IOMMU	input/output memory management unit
+IOU	I owe you (debt)
 IOW	in other words
 IP	Internet Protocol
 IP	intellectual property
