@@ -1,11 +1,12 @@
-$MirOS: wtf/acronyms,v 1.98 2010/12/28 01:39:26 tg Exp $
-$NetBSD: acronyms,v 1.196 2010/12/02 08:32:32 dholland Exp $
-$NetBSD: acronyms.comp,v 1.114 2010/11/22 23:05:22 dholland Exp $
+$MirOS: wtf/acronyms,v 1.99 2011/01/10 08:40:30 tg Exp $
+$NetBSD: acronyms,v 1.198 2011/01/04 06:18:51 dholland Exp $
+$NetBSD: acronyms.comp,v 1.115 2011/01/04 06:18:51 dholland Exp $
 10Q	thank you
 10X	tenx (thanks)
-1337	leet/elite
+1337	elite ("leet")
 224	today, tomorrow, forever
 2IC	second in charge
+31337	elite ("eleet")
 3WHS	three-way handshake
 4TF	[gc] fourth to find
 4TW	for the win
@@ -935,6 +936,7 @@ NC	[gc] navicache
 NCP	network control protocol
 NCQ	native command queuing
 NE1	anyone
+NERD	non emotionally responding dude
 NETBSD	... is a registered trademark of TNF
 NETBSD	most portable open source operating system -- http://www.netbsd.org/
 NFC	no fucking clue
@@ -958,7 +960,7 @@ NMI	non-maskable interrupt
 NMP	not my problem
 NNTP	network news transfer protocol
 NOFI	no flame intended
-NOOB	noob/newbie
+NOOB	newbie
 NOP	no operation
 NOYB	none of your business
 NOYFB	none of your fucking business
