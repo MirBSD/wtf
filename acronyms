@@ -1,6 +1,6 @@
-$MirOS: wtf/acronyms,v 1.101 2011/03/15 19:34:23 tg Exp $
-$NetBSD: acronyms,v 1.205 2011/03/12 11:32:11 tron Exp $
-$NetBSD: acronyms.comp,v 1.122 2011/03/09 17:52:45 jruoho Exp $
+$MirOS: wtf/acronyms,v 1.102 2011/03/26 17:30:08 tg Exp $
+$NetBSD: acronyms,v 1.206 2011/03/26 12:39:16 dholland Exp $
+$NetBSD: acronyms.comp,v 1.124 2011/03/26 12:40:07 dholland Exp $
 10Q	thank you
 10X	tenx (thanks)
 1337	elite ("leet")
@@ -399,6 +399,7 @@ DD	Debian developer
 DDC	display data channel
 DDE	dynamic data exchange
 DDK	device driver kit
+DDL	data description language
 DDPO	Debian developer's package overview (http://qa.debian.org/developer.php)
 DDR	double data rate
 DDS	direct digital sound
@@ -413,6 +414,7 @@ DEK	data encryption key
 DEP	data execution prevention
 DER	distinguished encoding rules
 DES	Data Encryption Standard
+DF	don't fragment
 DFA	deterministic finite automaton
 DFC	data flow control
 DFDC	[gc] Danke für den Cache (TFTC)
@@ -837,7 +839,7 @@ IDGI	I don't get it
 IDGW	in a good way (?)
 IDI	I doubt it
 IDK	I don't know
-IDPS	instruction detection [and] prevention system
+IDPS	intrusion detection [and] prevention system
 IDRC	I don't really care
 IDRP	inter-domain routing protocol
 IDS	intrusion detection system
@@ -1070,6 +1072,8 @@ LNO	loop nest optimisation
 LOC	lines of code
 LOL	lachend, oba laut
 LOL	laughing out loud
+LP	Langspielplatte (Schallplatte)
+LP	long playing (record)
 LPC	low pin count
 LPS	local positioning system
 LRC	longitudinal redundancy check
@@ -1454,6 +1458,7 @@ PCC	Portable C Compiler
 PCD	page-level cache disable
 PCE	performance-monitor counter enable
 PCI	peripheral component interconnect
+PCM	phase change memory
 PCM	pulse code modulation
 PCMCIA	personal computer memory card international association
 PD	public domain
@@ -1590,6 +1595,7 @@ QOS	quality of service
 QOTD	quote of the day
 RA	receiver address
 RA	remote assistance
+RA	residential advisor
 RA	router advertisement
 RAD	rapid application development
 RAID	redundant array of inexpensive disks
@@ -1658,6 +1664,7 @@ RP	responsible person
 RPC	remote procedure call
 RPL	requested privilege level
 RPM	revolutions per minute
+RR	railroad
 RR	random replacement
 RS	relay station
 RSA	Rivest, Shamir and Adleman
@@ -1695,6 +1702,7 @@ RUP	rational unified process
 RWM	read-write memory
 RX	receive, receiver
 S/PDIF	Sony/Phillips digital interface
+SA	security advisory
 SA	security association
 SA	source address
 SA	structured analysis
@@ -1746,6 +1754,7 @@ SBA	[gc] should be archived (needs archived)
 SBU	standard build unit
 SC	store conditional
 SCA	source code analyzer
+SCADA	supervisory control and data acquisition
 SCC	single chip cloud
 SCC	source code control
 SCCS	source code control system
@@ -1898,6 +1907,7 @@ SWFG	search with fucking google
 SWMBO	she who must be obeyed
 SYS	see you soon
 T4TC	[gc] thanks for the cache
+TA	teaching assistant
 TA	test assertion
 TA	thanks (pre-net slang, pronounced tar)
 TA	transmitter address
@@ -2096,6 +2106,8 @@ VCC	common collector voltage
 VCF	voltage-controlled filter
 VCM	virtual channel memory
 VCO	voltage-controlled oscillator
+VCR	video cassette recorder
+VCS	version control system
 VDFDC	[gc] Vielen Dank für den Cache (TFTC)
 VDFDD	[gc] Vielen Dank für die Dose (TFTC)
 VEG	very evil grin
