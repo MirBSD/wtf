@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.102 2011/03/26 17:30:08 tg Exp $
+$MirOS: wtf/acronyms,v 1.103 2011/04/17 12:27:11 tg Exp $
 $NetBSD: acronyms,v 1.206 2011/03/26 12:39:16 dholland Exp $
 $NetBSD: acronyms.comp,v 1.124 2011/03/26 12:40:07 dholland Exp $
 10Q	thank you
@@ -252,6 +252,8 @@ BTS	bit test [and] set
 BTS	bits per second
 BTST	been there, seen that
 BTTH	boot to the head
+BTU	British Thermal Units
+BTU	back to you
 BTW	by the way
 BTX	(new form factor like ATX, ITX, BAT)
 BTX	Balanced Technology Extended
@@ -2164,6 +2166,7 @@ WEP	wired equivalent privacy (yikes! it's as insecure as hell)
 WFH	working from home
 WFI	wait for interrupt
 WFM	works for me
+WFY	works for you
 WH	write hit
 WHY	because.
 WIBNI	wouldn't it be nice if
