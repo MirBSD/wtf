@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.103 2011/04/17 12:27:11 tg Exp $
+$MirOS: wtf/acronyms,v 1.104 2011/04/22 17:55:26 tg Exp $
 $NetBSD: acronyms,v 1.206 2011/03/26 12:39:16 dholland Exp $
 $NetBSD: acronyms.comp,v 1.124 2011/03/26 12:40:07 dholland Exp $
 10Q	thank you
@@ -1092,6 +1092,10 @@ LTNS	long time no see
 LTO	link-time optimisation
 LTR	left to right
 LTR	load task register
+LTS	*buntu equivalent of Debian unstable
+LTS	long term Schrott
+LTS	long term shlock
+LTS	long time support
 LUG	Linux user group
 LUG	local user group
 LUN	logical unit number
@@ -2060,6 +2064,7 @@ TZ	time zone
 U/L	upload
 UAC	user {account, access} control
 UART	universal asynchronous receiver/transmitter
+UBUNTU	I am too stupid to configure Debian.
 UC	uncacheable
 UCS	uniform-cost search
 UDMA	Ultra-DMA
