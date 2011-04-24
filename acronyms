@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.104 2011/04/22 17:55:26 tg Exp $
+$MirOS: wtf/acronyms,v 1.105 2011/04/24 17:04:19 tg Exp $
 $NetBSD: acronyms,v 1.206 2011/03/26 12:39:16 dholland Exp $
 $NetBSD: acronyms.comp,v 1.124 2011/03/26 12:40:07 dholland Exp $
 10Q	thank you
@@ -804,6 +804,7 @@ HTTPS	hyper-text transfer protocol, ssl secured
 HVM	hardware virtual machine
 HWRNG	hardware random number generator
 HZ	Hertz
+I C	I see
 I2O	intelligent input/output
 IA	information assurance
 IAC	in any case
@@ -1378,6 +1379,7 @@ NX	no execute
 NXT	next
 NÄHMLICH	Wer nämlich mit h schreibt, ist dämlich.
 NÄMLICH	Wer nämlich mit h schreibt, ist dämlich.
+O I C	oh, I see
 O2W	off to work
 OAEP	optimal asymmetric encryption padding
 OAO	over and out
