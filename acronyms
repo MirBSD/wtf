@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.106 2011/04/24 18:32:41 tg Exp $
+$MirOS: wtf/acronyms,v 1.107 2011/04/26 23:05:33 tg Exp $
 $NetBSD: acronyms,v 1.206 2011/03/26 12:39:16 dholland Exp $
 $NetBSD: acronyms.comp,v 1.124 2011/03/26 12:40:07 dholland Exp $
 10Q	thank you
@@ -566,6 +566,7 @@ EU	European Union
 EU	execution unit
 EULA	end user licence agreement
 EWAG	experienced wild-ass guess
+EWE	Epilogue? What Epilogue? (usually in HP context)
 F9	fine
 FAQ	frequently asked question
 FAT	file allocation table
@@ -1386,15 +1387,18 @@ OAO	over and out
 OBO	off by one
 OBOE	off by one error
 OC	[gc] opencaching.{cz,de,pl}
+OC	original character
 OCL	object constraint language
 OCR	optical character recognition
 ODCM	on-demand clock modulation
 ODT	on-die termination
 OEM	original equipment manufacturer
+OFC	original female character (OC)
 OFDM	orthogonal frequency division multiplexing
 OFET	organic field-effect transistor
 OH	other half
 OIC	oh, I see
+OMC	original male character (OC)
 OMFG	oh my fucking god
 OMG	Oh my Goddess!
 OMG	oh, my god
@@ -1590,6 +1594,7 @@ PV	physical volume
 PVG	physical volume group
 PVI	protected-mode virtual interrupt
 PWM	pulse width modulation
+PWP	Plot? What Plot?
 PXE	preboot execution environment
 QA	quality assurance
 QAM	quadrature amplitude modulation
