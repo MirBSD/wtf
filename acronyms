@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.107 2011/04/26 23:05:33 tg Exp $
+$MirOS: wtf/acronyms,v 1.108 2011/05/11 12:42:27 tg Exp $
 $NetBSD: acronyms,v 1.206 2011/03/26 12:39:16 dholland Exp $
 $NetBSD: acronyms.comp,v 1.124 2011/03/26 12:40:07 dholland Exp $
 10Q	thank you
@@ -252,6 +252,7 @@ BTS	bit test [and] set
 BTS	bits per second
 BTST	been there, seen that
 BTTH	boot to the head
+BTTT	been there, tried that
 BTU	British Thermal Units
 BTU	back to you
 BTW	by the way
