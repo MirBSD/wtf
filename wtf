@@ -1,5 +1,5 @@
 #!/bin/mksh
-# $MirOS: wtf/wtf,v 1.13 2011/05/23 11:25:03 tg Exp $
+# $MirOS: wtf/wtf,v 1.14 2011/05/23 11:25:39 tg Exp $
 # $NetBSD: wtf,v 1.7 2000/11/21 00:18:52 soren Exp $
 #-
 # Copyright © 2002, 2003, 2004, 2006, 2007, 2008, 2010, 2011
@@ -20,6 +20,7 @@
 # damage or existence of a defect, except proven that it results out
 # of said person’s immediate fault when using the work as intended.
 
+#acronyms=${ACRONYMDB:-/usr/share/games/bsdgames/acronyms}
 acronyms=${ACRONYMDB:-/usr/share/misc/acronyms}
 
 function usage {
