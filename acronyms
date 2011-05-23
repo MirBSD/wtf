@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.109 2011/05/13 21:03:12 tg Exp $
+$MirOS: wtf/acronyms,v 1.110 2011/05/23 11:21:53 tg Exp $
 $NetBSD: acronyms,v 1.206 2011/03/26 12:39:16 dholland Exp $
 $NetBSD: acronyms.comp,v 1.125 2011/05/10 23:33:07 enami Exp $
 10Q	thank you
@@ -152,6 +152,7 @@ BAMF	Bad Ass Mother Fucker
 BAMP	BSD Apache MySQL {Perl,PHP,Python}
 BAMPP	BSD Apache MySQL {Perl,PHP,Python}
 BAR	base address register
+BASH	GNU Bourne-Again Shell
 BASIC	beginners' all-purpose symbolic instruction code (_the_ programming language per se)
 BBIAB	be back in a bit
 BBIAF	be back in a few
@@ -350,6 +351,7 @@ CS	cable select
 CS	chip select
 CS	code segment
 CS	computer science
+CSH	C Shell
 CSI	common system interface
 CSMA	carrier sense multiple access
 CSMA/CA	carrier sense multiple access with collision avoidance
@@ -1005,6 +1007,7 @@ KNF	kernel normal form - https://www.mirbsd.org/man9/style
 KOD	kiss of death
 KOS	kill on sight
 KPI	kernel programming interface
+KSH	Korn Shell
 KTHX	okay, thanks
 KUNDE	kann ungestraft nerven, da Einnahmequelle
 KVA	kernel virtual address
@@ -1798,6 +1801,9 @@ SFAICT	so far as I can tell
 SFC	sequential function chart
 SFI	simple firmware interface
 SGRAM	synchronous graphics random access memory
+SH	Bourne Shell
+SH	POSIX Shell
+SH	Shell
 SHID	slaps head in disgust
 SHIT	FSF - Shit happens: http://www.fsf.org/fun/jokes/shit-happens.html
 SHIT	FSF - Shit part 2: http://www.fsf.org/fun/jokes/more-shit.html
@@ -1952,6 +1958,7 @@ TCL	tool command language
 TCO	taken care of
 TCP	transmission control protocol
 TCQ	tagged command queueing
+TCSH	Tenex C Shell
 TDC	time [to] digital converter
 TDD	test driven development
 TDM	time division multiplexing
@@ -2269,3 +2276,4 @@ ZFOD	zero-filled on demand
 ZIF	zero insertion force
 ZIFS	zero insertion force socket
 ZMA	zone multicast address
+ZSH	Z Shell
