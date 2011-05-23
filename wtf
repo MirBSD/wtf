@@ -1,5 +1,5 @@
 #!/bin/mksh
-# $MirOS: wtf/wtf,v 1.12 2011/05/02 22:59:36 tg Exp $
+# $MirOS: wtf/wtf,v 1.13 2011/05/23 11:25:03 tg Exp $
 # $NetBSD: wtf,v 1.7 2000/11/21 00:18:52 soren Exp $
 #-
 # Copyright © 2002, 2003, 2004, 2006, 2007, 2008, 2010, 2011
@@ -53,6 +53,7 @@ rv=0
 for target in "$@"; do
 	typeset -u tgsrch=$target
 
+	# MirPorts Framework, OpenBSD ports tree
 	if (( use_ports )) && [[ -s /usr/ports/INDEX ]]; then
 		p=$(while IFS='|' read a b c d e; do
 			[[ $a$d = *"$target"* ]] && \
@@ -63,6 +64,30 @@ for target in "$@"; do
 			print -r -- "$p" | sort -u | column -ts'|'
 		fi
 	fi
+
+	# Debian Advanced Packaging Tool
+	:|| if (( use_ports )); then
+		p=$(apt-cache search -- "$target" | while read a b c; do
+			[[ $a = *"$target"* ]] && print -r -- "$a|$c"
+		done)
+		if [[ -n $p ]]; then
+			print -r "  - packages matching “$target”:"
+			print -r -- "$p" | sort -u | column -ts'|'
+		fi
+	fi
+
+	# Red Hat Yellowdog Updater Modified
+	:|| if (( use_ports )); then
+		p=$(yum search -q -- "$target" | tr '\n' '' | \
+		    sed 's/ *: / /g' | tr '' '\n' | while read a b c; do
+			[[ $a = *"$target"* ]] && print -r -- "$a|$c"
+		done)
+		if [[ -n $p ]]; then
+			print -r "  - packages matching “$target”:"
+			print -r -- "$p" | sort -u | column -ts'|'
+		fi
+	fi
+
 
 	if (( use_acronyms )); then
 		found=0
