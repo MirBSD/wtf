@@ -1,6 +1,6 @@
-$MirOS: wtf/acronyms,v 1.110 2011/05/23 11:21:53 tg Exp $
+$MirOS: wtf/acronyms,v 1.111 2011/06/24 14:12:16 tg Exp $
 $NetBSD: acronyms,v 1.206 2011/03/26 12:39:16 dholland Exp $
-$NetBSD: acronyms.comp,v 1.125 2011/05/10 23:33:07 enami Exp $
+$NetBSD: acronyms.comp,v 1.126 2011/06/14 05:43:37 jruoho Exp $
 10Q	thank you
 10X	tenx (thanks)
 1337	elite ("leet")
@@ -75,6 +75,7 @@ AKÜFI	Abkürzungsfimmel
 AL	access list
 AL	active link
 ALE	address latch enable
+ALS	ambient light sensor
 ALU	arithmetic and logical unit
 AM	access method
 AM	alignment mask
@@ -92,6 +93,7 @@ AP	application processor
 API	application programming interface
 APIC	advanced programmable interrupt controller
 APINKE	[gc] Another Place (originally Park, in the USA) I Never Knew Existed (spoken 'apinky')
+AQM	active queue management
 ARAT	always running APIC timer
 ARC	adaptive replacement cache
 ARM	Acorn RISC Machine
@@ -226,7 +228,9 @@ BPM	business process modelling
 BPS	bits per second
 BQS	Berkeley quality software
 BRB	[I'll] be right back
+BRE	basic regular expression
 BRT	[I'll] be right there
+BS	binary sequence
 BS	bullshit
 BSD	Berkeley software distribution
 BSD	Blobs Schaden Dir
@@ -236,7 +240,7 @@ BSD	big scary daemons
 BSF	bit scan forward
 BSOD	blue screen of death
 BSP	binary space partition
-BSP	boot strap processor
+BSP	bootstrap processor
 BSR	bit scan reverse
 BSS	block started by symbol
 BT	BitTorrent
@@ -285,6 +289,7 @@ CCD	charge coupled device
 CD	cache disable
 CD	compact disc
 CDDA	compact disc digital audio
+CDMA	code division multiple access
 CDRAM	cache dynamic random access memory
 CER	canonical encoding rules
 CF	compact flash
@@ -298,12 +303,14 @@ CGA	color graphics adapter
 CGI	common gateway interface
 CHAP	challenge-handshake authentication protocol
 CHS	cylinder/head/sector
+CI	continuous integration
 CI	{common, component} interface
 CICS	Customer Information Control System
 CIDR	classless inter-domain routing
 CIFS	Common Internet File System (old SMB)
 CIG	common interest group
 CIL	common intermediate language
+CIR	carrier to interference ratio
 CIS	contact image sensor
 CITO	[gc] cache in, trash out
 CJK	Chinese, Japanese, and Korean
@@ -327,19 +334,23 @@ CMYK	cyan magenta yellow black
 CN	{common, canonical} name
 CNC	computer numerical control
 CNP	continued [in my] next post
+CNR	carrier to noise ratio
 CO	[gc] cache owner
 COB	close of business [day]
 COF	current operating frequency
 COFF	common object file format
 COLP	Connected Line Identification Presentation (feature on caller side to see which phone number was actually connected)
 COLR	Connected Line Identification Restriction (feature on callee side to prevent caller to see the actually connected phone number)
+COM	component object model
 COMA	cache-only memory architecture
+CORBA	common object request broker architecture
 COTS	commercial off-the-shelf
 COW	copy-on-write
 CPB	core performance boost
 CPC	cost per click
 CPG	clock pulse generator
 CPL	current privilege level
+CPLD	complex programmable logic device
 CPS	characters per second
 CPT	command pass through
 CPU	central processing unit
@@ -387,8 +398,11 @@ DAP	directory access protocol
 DAT	digital audio tape
 DAT	dynamic acceleration technology
 DB	database
+DBA	dynamic bandwidth allocation
+DBC	design by contract
 DBDDHKP	doof bleibt doof, da helfen keine Pillen
 DBEYR	don't believe everything you read
+DBL	dynamic buffer limiting
 DBMS	database management system
 DBS	database server
 DC	direct current
@@ -397,6 +411,8 @@ DCC	direct client [to] client
 DCD	data carrier detect
 DCE	data control equipment
 DCE	distributed computing environment
+DCOM	distributed component object model
+DCOP	desktop communication protocol
 DCS	data collection systems
 DCT	discrete cosine transform
 DCU	data cache unit
@@ -498,6 +514,7 @@ DTRT	do the right thing
 DTS	digital thermal sensor
 DTST	did the same thing
 DTWT	do the wrong thing
+DUT	device under test
 DVB	digital video broadcasting
 DVCS	distributed version control system
 DVD	digital versatile disc
@@ -508,6 +525,7 @@ DWIM	do what I mean
 DWZ	dat wil zeggen?
 DYK	do you know?
 E-XER	extended XML encoding rules
+EABI	embedded-application binary interface
 EAP	extensible authentication protocol
 EBR	extended boot record
 ECC	error correction code
@@ -544,6 +562,7 @@ EMSG	email message
 EOB	end of business [day]
 EOD	end of {day, discussion}
 EOF	end of file
+EOI	end of interrupt
 EOL	end of life
 EOL	end of line
 EOM	end of message
@@ -554,6 +573,7 @@ EPP	enhanced parallel port
 EPRML	extended partial response, maximum likelihood
 EPROM	erasable programmable read only memory
 ERD	emergency recovery disk
+ERE	extended regular expression
 ESCON	Enterprise Systems Connection
 ESDRAM	enhanced synchronous dynamic random access memory
 ESR	Eric Steven Raymond -- http://www.catb.org/~esr/
@@ -683,6 +703,7 @@ G/C	garbage collect{,ion}
 G2G	got to go
 G2K	good to know
 GAC	get a clue
+GAL	generic array logic
 GAL	get a life
 GAS	generic address structure
 GBTW	get back to work
@@ -696,12 +717,14 @@ GCR	group-coded recording
 GDT	global descriptor table
 GEM	graphics environment manager
 GEM	graphics execution manager
+GENA	general event notification architecture
 GF	girlfriend
 GFU	good for you
 GFY	go fuck yourself
 GFY	good for you
 GG	good game
 GGWP	good game, well played
+GHC	Glasgow Haskell compiler
 GID	group identifier
 GIF	graphics interchange format
 GIGO	garbage in, garbage out
@@ -735,6 +758,7 @@ GPE	general purpose event
 GPF	general protection fault
 GPL	GNU General Public License
 GPR	general purpose register
+GPS	generalized processor sharing
 GPS	global positioning system
 GPSR	GPSr = GPS receiver
 GPT	GUID partition table
@@ -773,6 +797,7 @@ HDA	Heil den Asen (=OMG)
 HDB	Heil Dir, Bruder
 HDCP	high-bandwidth digital content protection
 HDD	hard disc drive
+HDL	hardware description language
 HDW	Heil den Wansen (=OMG)
 HE	how embarrasing
 HF	hardware floating point (Debian/armhf)
@@ -838,6 +863,7 @@ ICE	in-circuit emulator
 ICE	internal compiler error
 ICH	I/O controller hub
 ICMP	internet control message protocol
+ICT	information and communications technology
 ICUR	I see you are
 IDA	Intel dynamic acceleration
 IDC	I don't care
@@ -861,6 +887,7 @@ IEEE	Institute [of] Electrical [and] Electronics Engineers
 IESG	Internet Engineering Steering Group
 IETF	Internet Engineering Task Force
 IFCM	isochronous flow control mode
+IGD	Internet gateway device
 IGMP	Internet group management protocol
 IGP	interior gateway protocol
 IHAFC	I haven't a fucking clue
@@ -938,6 +965,7 @@ IST	interrupt stack table
 ISTM	it seems to me
 ISTR	I seem to recall
 ISV	independent software vendor
+IT	information technology
 ITB	Intel turbo boost
 ITYM	I think you mean
 ITYM	Is it this you mean
@@ -1032,7 +1060,7 @@ LCD	liquid crystal display
 LCL	[gc] left calling card
 LCP	link control protocol
 LDA	local delivery agent
-LDAP	lightweight directory access protocol
+LDAP	lightweight directory access protocol (not lightweight)
 LDR	light-dependent resistor
 LDT	local descriptor table
 LE	logical extent
@@ -1221,6 +1249,7 @@ MIB	management information base
 MID	mobile internet device
 MIDI	musical instrument digital interface
 MIF	management information format
+MILF	mother i'd like to fuck
 MIMD	multiple instruction stream, multiple data stream
 MIME	multipurpose internet mail extensions
 MIMO	multiple input multiple output
@@ -1404,6 +1433,7 @@ OFDM	orthogonal frequency division multiplexing
 OFET	organic field-effect transistor
 OH	other half
 OIC	oh, I see
+OLE	object linking and embedding
 OMC	original male character (OC)
 OMFG	oh my fucking god
 OMG	Oh my Goddess!
@@ -1459,6 +1489,8 @@ PA	physical address
 PAC	phase-amplitude converter
 PAE	physical address extension
 PAF	[gc] phone a friend (usually required for webcam caches)
+PAL	phase alternating line
+PAL	programmable array logic
 PAM	pluggable authentication modules
 PAM	pulse amplitude modulation
 PAP	password authentication protocol
@@ -1519,12 +1551,15 @@ PIM	platform-independent model
 PIN	personal identification number
 PIO	programmed input/output
 PIPT	physically indexed, physically tagged
+PIQ	prefetch input queue
+PIT	programmable interrupt timer
 PITA	pain in the arse
 PIV	personal identity verification
 PKCS	public-key cryptography standards
 PKI	public key infrastructure
 PKSP	pound keys and spew profanity
 PLC	programmable logic controller
+PLD	programmable logic device
 PLL	phase locked loop
 PLONK	Poster liest Originalposter nicht konsequent
 PLRU	pseudo LRU
@@ -1580,6 +1615,8 @@ PPU	physics processing unit
 PR	public relations
 PRBS	pseudo-random bit sequence
 PRML	partial response, maximum likelihood
+PRN	pseudo random noise
+PRN	pseudo random number
 PRNG	pseudo random number generator
 PROM	programmable read only memory
 PSD	power spectral density
@@ -1615,6 +1652,7 @@ QOTD	quote of the day
 RA	receiver address
 RA	remote assistance
 RA	residential advisor
+RA	resource affinity
 RA	router advertisement
 RAD	rapid application development
 RAID	redundant array of inexpensive disks
@@ -1634,6 +1672,7 @@ RDF	reality distortion field
 RDF	resource description format
 RDM	relational data model
 RDMA	remote direct memory access
+RE	regular expression
 REST	representational state transfer
 RF	radio frequency
 RFA	request for assistance
@@ -1664,6 +1703,7 @@ RLE	run length encoding
 RLL	run length limited
 RLO	right-to-left override
 RM	read miss
+RMI	remote method invocation
 RMPM	rapid memory power management
 RMS	Richard Matthew Stallman
 RMS	root mean square
@@ -1685,6 +1725,7 @@ RPL	requested privilege level
 RPM	revolutions per minute
 RR	railroad
 RR	random replacement
+RR	round robin
 RS	relay station
 RSA	Rivest, Shamir and Adleman
 RSI	repetitive strain injury
@@ -1728,6 +1769,7 @@ SA	structured analysis
 SAAS	software as a service
 SACD	super audio compact disc
 SAD	security association database
+SAL	system abstraction layer
 SAM	serial access memory
 SAM	sum addressed memory
 SAN	storage area network
@@ -1766,6 +1808,7 @@ SAPIC	streamlined advanced programmable interrupt controller
 SAR	some assembly required
 SASD	structured analysis, structured design
 SASI	shugart associates system interface (predecessor to SCSI)
+SASL	simple authentication [and] security layer (neither simple nor secure)
 SATA	satan
 SATA	serial advanced technology attachment
 SB	sound blaster
@@ -1915,6 +1958,7 @@ STW	search the web
 SUS	Single UNIX® Specification
 SUS	stupid user syndrome
 SUSE	Software- und Systementwicklung (now Novell ):
+SUT	system under test
 SUX	sucks
 SUX2BU	sucks to be you
 SVG	scalable vector graphics
@@ -1927,6 +1971,7 @@ SWAHBI	silly, wild-assed hare-brained idea
 SWAP	[gc] Some say this is short for "Stuff We All Get." Swag means the trade items that we swap at geocaches and carry in our backpacks.
 SWF	Shockwave Flash
 SWFG	search with fucking google
+SWIG	simplified wrapper [and] interface generator
 SWMBO	she who must be obeyed
 SYS	see you soon
 T4TC	[gc] thanks for the cache
@@ -1939,6 +1984,7 @@ TANSTA	there ain't (no) such thing as ...
 TANSTAAFL	there ain't no such thing as a free lunch
 TAO	track at once
 TAOCP	The Art of Computer Programming
+TAP	test anything protocol
 TAS	test and set
 TATMWTDI	there are too many ways to do it (in Perl)
 TB	[gc] travel bug (also used as common name for trackable items, cf. GC)
@@ -1961,7 +2007,9 @@ TCQ	tagged command queueing
 TCSH	Tenex C Shell
 TDC	time [to] digital converter
 TDD	test driven development
+TDD	time division duplex
 TDM	time division multiplexing
+TDMA	time division multiple access
 TDOA	time difference of arrival
 TDP	thermal design point
 TDP	thermal design power
@@ -2082,6 +2130,7 @@ TZ	time zone
 U/L	upload
 UAC	user {account, access} control
 UART	universal asynchronous receiver/transmitter
+UAT	user acceptance testing
 UBUNTU	I am too stupid to configure Debian.
 UC	uncacheable
 UCS	uniform-cost search
@@ -2099,6 +2148,7 @@ UMA	upper memory area
 UMB	upper memory block
 UML	unified modeling language
 UMPC	ultra-mobile PC
+UPNP	universal plug and play
 UPS	[gc] unnatural pile of sticks
 UPS	uninterruptible power supply
 UPS	united parcel service
@@ -2120,6 +2170,7 @@ UTSL	use the source, Luke (open source programming)
 UUCP	Unix-to-Unix copy protocol
 UUID	universally unique identifier
 UUOC	useless use of cat
+UUT	unit under test
 VA	vertical alignment
 VA	virtual address
 VA	volt-ampere
@@ -2189,6 +2240,7 @@ WEP	wired equivalent privacy (yikes! it's as insecure as hell)
 WFH	working from home
 WFI	wait for interrupt
 WFM	works for me
+WFQ	weighted fair queuing
 WFY	works for you
 WH	write hit
 WHY	because.
