@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.111 2011/06/24 14:12:16 tg Exp $
+$MirOS: wtf/acronyms,v 1.112 2011/06/30 13:48:09 tg Exp $
 $NetBSD: acronyms,v 1.206 2011/03/26 12:39:16 dholland Exp $
 $NetBSD: acronyms.comp,v 1.126 2011/06/14 05:43:37 jruoho Exp $
 10Q	thank you
@@ -618,6 +618,7 @@ FFS	free for shipping
 FFT	fast Fourier transform
 FFTFT	feel free to fix that
 FG	floating gate
+FHOG	first hit on google
 FHSS	frequency hop spread spectrum
 FIAT	Fehler in allen Teilen
 FIAT	Feuer in allen Töpfen
@@ -1073,6 +1074,7 @@ LFM	lowest frequency mode
 LFN	long file names
 LFO	low-frequency oscillation
 LFS	Linux from Scratch
+LFS	Live for Speed (online racing simulator)
 LFS	log-structured file system
 LFU	least frequently used
 LGPL	GNU Lesser General Public License
@@ -1358,6 +1360,7 @@ NFA	nondeterministic finite automaton
 NFC	no fucking clue
 NFI	no flame intended (usually: NOFI)
 NFI	no fucking idea
+NFS	Need for Speed (computer game)
 NFS	need file server
 NFS	network[ing] file system
 NFS	nightmare file system
