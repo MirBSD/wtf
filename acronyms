@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.112 2011/06/30 13:48:09 tg Exp $
+$MirOS: wtf/acronyms,v 1.113 2011/07/08 19:19:37 tg Exp $
 $NetBSD: acronyms,v 1.206 2011/03/26 12:39:16 dholland Exp $
 $NetBSD: acronyms.comp,v 1.126 2011/06/14 05:43:37 jruoho Exp $
 10Q	thank you
@@ -173,6 +173,7 @@ BCR	byte count register
 BCS	base configuration space
 BD	baud
 BDD	binary decision diagram
+BDFL	Benevolent Dictator for Life
 BDUF	big design up front
 BEDO	burst extended data output
 BER	basic encoding rules
@@ -631,6 +632,7 @@ FIIR	fuck[ed] if I remember
 FILO	first in, last out
 FIR	fast infrared
 FITB	fill in the blank
+FKA	formerly known as
 FLOPS	floating [point] operations per second
 FLOSS	(dental care product)
 FLOSS	free / libre / open source software
