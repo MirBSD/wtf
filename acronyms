@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.113 2011/07/08 19:19:37 tg Exp $
+$MirOS: wtf/acronyms,v 1.114 2011/07/09 18:47:46 tg Exp $
 $NetBSD: acronyms,v 1.206 2011/03/26 12:39:16 dholland Exp $
 $NetBSD: acronyms.comp,v 1.126 2011/06/14 05:43:37 jruoho Exp $
 10Q	thank you
@@ -27,7 +27,8 @@ ACK	acknowledged / [japanese] Hai!
 ACK	acknowledgement
 ACL	access control list
 ACL	active current loop
-ACP	auxillary control {program, process}
+ACP	auxillary control process
+ACP	auxillary control program
 ACPI	advanced configuration and power interface
 ACPI	advanced conflagration punishment interface
 ACS	access control set
@@ -52,7 +53,8 @@ AFAICS	as far as I can see
 AFAICT	as far as I can tell
 AFAIHH	as far as I have heard
 AFAIK	as far as I know
-AFAIR	as far as I {recall, remember}
+AFAIR	as far as I recall
+AFAIR	as far as I remember
 AFAIU	as far as I understand
 AFD	away from desktop
 AFK	away from keyboard
@@ -181,7 +183,8 @@ BER	bit error rate
 BF	best friend
 BF	boyfriend
 BFD	big fucking deal
-BFD	binary {file, format} descriptor
+BFD	binary file descriptor
+BFD	binary format descriptor
 BFF	best friend forever
 BFG	big fat grin
 BFH	big fucking hammer
@@ -304,8 +307,9 @@ CGA	color graphics adapter
 CGI	common gateway interface
 CHAP	challenge-handshake authentication protocol
 CHS	cylinder/head/sector
+CI	common interface
+CI	component interface
 CI	continuous integration
-CI	{common, component} interface
 CICS	Customer Information Control System
 CIDR	classless inter-domain routing
 CIFS	Common Internet File System (old SMB)
@@ -332,7 +336,8 @@ CMOS	complementary metal-oxide-semiconductor
 CMP	chip multi-processing
 CMS	content management system
 CMYK	cyan magenta yellow black
-CN	{common, canonical} name
+CN	canonical name
+CN	common name
 CNC	computer numerical control
 CNP	continued [in my] next post
 CNR	carrier to noise ratio
@@ -420,6 +425,7 @@ DCU	data cache unit
 DD	Debian developer
 DDC	display data channel
 DDE	dynamic data exchange
+DDG	duck duck go (search engine)
 DDK	device driver kit
 DDL	data description language
 DDPO	Debian developer's package overview (http://qa.debian.org/developer.php)
@@ -561,7 +567,8 @@ EMP	electro-magnetic pulse
 EMR	electro-magnetic radiation
 EMSG	email message
 EOB	end of business [day]
-EOD	end of {day, discussion}
+EOD	end of day
+EOD	end of discussion
 EOF	end of file
 EOI	end of interrupt
 EOL	end of life
@@ -612,8 +619,8 @@ FEC	forward error correction
 FET	field-effect transistor
 FFH	functional fixed hardware
 FFI	foreign function interface
-FFS	fast file system
-FFS	find first set
+FFS	fast filesystem
+FFS	find first set (bit)
 FFS	for fuck's sake
 FFS	free for shipping
 FFT	fast Fourier transform
@@ -642,7 +649,8 @@ FML	fuck my life
 FMR	false match rate
 FNO	for nerds only
 FNO	from now on
-FOAD	{fuck off,fall over} and die
+FOAD	fall over and die
+FOAD	fuck off and die
 FOC	free of charge
 FORD	er fuhr ford und kam nie wieder
 FORD	fix or repair daily
@@ -1103,6 +1111,7 @@ LMAA	Leck' mich am Arsch
 LMAO	laughing my arse off
 LMB	lick my balls
 LMC	let me check
+LMDDGTFY	let me duck duck go that for you
 LMFAO	laughing my fucking ass off
 LMGTFY	let me google that for you
 LMHO	laughing my head off
@@ -1584,8 +1593,9 @@ PMT	photo-multiplier tube
 PMU	power management unit
 PNG	persona non grata
 PNG	portable network graphics
+PNP	pay and pray
 PNP	plug and play
-PNP	{pay,plug} and pray
+PNP	plug and pray
 POC	piece of crap
 POC	point of contact
 POC	proof of concept
@@ -1996,7 +2006,10 @@ TB	[gc] travel bug (also used as common name for trackable items, cf. GC)
 TB	terabyte
 TBA	to be announced
 TBC	to be continued
-TBD	to be {decided,determined,done}
+TBD	to be decided
+TBD	to be determined
+TBD	to be discussed
+TBD	to be done
 TBF	to be fixed
 TBH	to be honest
 TBOMK	the best of my knowledge
@@ -2037,6 +2050,7 @@ TIAS	try it and see
 TIAVP	this is a volunteer project
 TIC	tonque in cheek
 TIFF	tagged image file format
+TIFF	thousand incompatible file formats
 TIL	today I learned
 TIMTOWTDI	there is more than one way to do it (perl sucks, now we all know why)
 TINASOTODP	this is not a statement of the official Debian position
@@ -2133,7 +2147,8 @@ TY	thank you
 TYVM	thank you very much
 TZ	time zone
 U/L	upload
-UAC	user {account, access} control
+UAC	user access control
+UAC	user account control
 UART	universal asynchronous receiver/transmitter
 UAT	user acceptance testing
 UBUNTU	I am too stupid to configure Debian.
