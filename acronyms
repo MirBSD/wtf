@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.115 2011/07/12 18:14:38 tg Exp $
+$MirOS: wtf/acronyms,v 1.116 2011/08/04 12:46:56 tg Exp $
 $NetBSD: acronyms,v 1.206 2011/03/26 12:39:16 dholland Exp $
 $NetBSD: acronyms.comp,v 1.126 2011/06/14 05:43:37 jruoho Exp $
 10Q	thank you
@@ -681,6 +681,7 @@ FSCK	fuck
 FSDO	for some definition of
 FSF	Free Software Foundation -- http://www.fsf.org/ http://www.fsf-europe.org/
 FSK	frequency shift keying
+FSM	(see http://en.wikipedia.org/wiki/Flying_Spaghetti_Monster)
 FSM	finite-state machine
 FSVO	for sane values of
 FSVO	for some value of
@@ -2036,6 +2037,7 @@ TDR	Theo de Raadt -- http://theos.com/
 TEAM	toll, ein Anderer macht's!
 TECO	Text Editor and Corrector
 TFB	too fucking bad
+TFSMIF	Thank Flying Spaghetti Monster It’s Friday
 TFT	thin film transistor
 TFTC	[gc] thanks for the cache
 TFTC	thanks for the cache
