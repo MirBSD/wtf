@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.117 2011/08/13 16:07:26 tg Exp $
+$MirOS: wtf/acronyms,v 1.118 2011/08/24 19:05:01 tg Exp $
 $NetBSD: acronyms,v 1.206 2011/03/26 12:39:16 dholland Exp $
 $NetBSD: acronyms.comp,v 1.126 2011/06/14 05:43:37 jruoho Exp $
 10Q	thank you
@@ -823,6 +823,7 @@ HHIS	hanging head in shame
 HHOS	ha ha, only serious
 HICA	here it comes again
 HID	human interface device
+HIPPO	highest paid person's opinion
 HLL	high-level language
 HMA	high memory area
 HMI	human-machine interface
@@ -2038,13 +2039,13 @@ TDR	Theo de Raadt -- http://theos.com/
 TEAM	toll, ein Anderer macht's!
 TECO	Text Editor and Corrector
 TFB	too fucking bad
-TFSMIF	Thank Flying Spaghetti Monster It’s Friday
+TFSMIF	Thank Flying Spaghetti Monster It's Friday
 TFT	thin film transistor
 TFTC	[gc] thanks for the cache
 TFTC	thanks for the cache
 TFTH	[gc] thanks for the hunt
 TFTP	trivial file transfer protocol
-TGIF	Thank God It’s Friday
+TGIF	Thank God It's Friday
 THGTTG	the hitchhiker's guide to the galaxy
 THNX	thanks
 THRB	thumb hits reset button
