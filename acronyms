@@ -1,6 +1,6 @@
-$MirOS: wtf/acronyms,v 1.119 2011/08/27 19:47:12 tg Exp $
-$NetBSD: acronyms,v 1.206 2011/03/26 12:39:16 dholland Exp $
-$NetBSD: acronyms.comp,v 1.126 2011/06/14 05:43:37 jruoho Exp $
+$MirOS: wtf/acronyms,v 1.120 2011/09/16 08:57:46 tg Exp $
+$NetBSD: acronyms,v 1.207 2011/08/28 08:41:01 jnemeth Exp $
+$NetBSD: acronyms.comp,v 1.127 2011/08/29 16:28:38 jruoho Exp $
 10Q	thank you
 10X	tenx (thanks)
 1337	elite ("leet")
@@ -10,6 +10,7 @@ $NetBSD: acronyms.comp,v 1.126 2011/06/14 05:43:37 jruoho Exp $
 3WHS	three-way handshake
 4TF	[gc] fourth to find
 4TW	for the win
+8VSB	8-state vestigial side band modulation
 </3	emoticon (a broken heart)
 <3	emoticon (a heart)
 AA	anti-aliasing
@@ -20,6 +21,7 @@ ABI	application binary interface
 ABR	available bit rate
 AC	alternating current
 AC	audible chuckle
+ACI	adjacent channel interferer
 ACID	atomicity, consistency, isolation, durability
 ACK	Amsterdam compiler kit
 ACK	achja, cönnt klappen
@@ -149,6 +151,7 @@ B/S	bullshit
 B/W	bandwidth
 B/W	between
 B4	before
+BA	byte align
 BAK	back at keyboard
 BAL	basic assembly language
 BALGE	by and large good enough
@@ -176,10 +179,11 @@ BCS	base configuration space
 BD	baud
 BDD	binary decision diagram
 BDFL	Benevolent Dictator for Life
+BDI	bit deinterleave
 BDUF	big design up front
 BEDO	burst extended data output
 BER	basic encoding rules
-BER	bit error rate
+BER	bit error {rate,ratio}
 BF	best friend
 BF	boyfriend
 BFD	big fucking deal
@@ -231,6 +235,7 @@ BPF	Berkeley packet filter
 BPI	bits per inch
 BPM	business process modelling
 BPS	bits per second
+BPSK	binary phase shift keying
 BQS	Berkeley quality software
 BRB	[I'll] be right back
 BRE	basic regular expression
@@ -277,6 +282,7 @@ BYOP	[gc] bring your own pencil
 CA	certificate authority
 CAD	computer-aided design
 CAM	computer-aided (or -assisted) manufacturing
+CAM	conditional access module
 CAM	content addressable memory
 CARP	common address redundancy protocol
 CAS	(atomic) compare and swap
@@ -291,6 +297,7 @@ CC	Creative Commons
 CC	carbon coby
 CC	credit card
 CCD	charge coupled device
+CCI	co-channel interferer
 CD	cache disable
 CD	compact disc
 CDDA	compact disc digital audio
@@ -345,6 +352,7 @@ CNR	carrier to noise ratio
 CO	[gc] cache owner
 COB	close of business [day]
 COF	current operating frequency
+COFDM	coded orthogonal frequency division multiplexing
 COFF	common object file format
 COLP	Connected Line Identification Presentation (feature on caller side to see which phone number was actually connected)
 COLR	Connected Line Identification Restriction (feature on callee side to prevent caller to see the actually connected phone number)
@@ -353,8 +361,10 @@ COMA	cache-only memory architecture
 CORBA	common object request broker architecture
 COTS	commercial off-the-shelf
 COW	copy-on-write
+CP	continuous pilot
 CPB	core performance boost
 CPC	cost per click
+CPE	common phase error
 CPG	clock pulse generator
 CPL	current privilege level
 CPLD	complex programmable logic device
@@ -363,6 +373,7 @@ CPT	command pass through
 CPU	central processing unit
 CR	carriage return
 CRC	cyclic redundancy check
+CRL	carrier recovery loop
 CRLF	carriage return / line feed
 CRT	cathode ray tube
 CS	cable select
@@ -370,10 +381,13 @@ CS	chip select
 CS	code segment
 CS	computer science
 CSH	C Shell
+CSI	channel state information
 CSI	common system interface
+CSI	crime scene investigation
 CSMA	carrier sense multiple access
 CSMA/CA	carrier sense multiple access with collision avoidance
 CSMA/CD	carrier sense multiple access with collision detection
+CSR	control [and] status registers
 CSRF	cross-site request forgery
 CSS	Content Scrambling System
 CSS	cascading style sheets
@@ -396,6 +410,7 @@ D/L	download
 D/W	don't worry
 DA	destination address
 DAA	distributed application architecture
+DAB	digital audio broadcasting
 DAC	digital [to] analog converter
 DAC	discretionary access control
 DAEMON	disk and execution monitor
@@ -406,6 +421,7 @@ DAT	digital audio tape
 DAT	dynamic acceleration technology
 DB	database
 DBA	dynamic bandwidth allocation
+DBB	data bus buffer
 DBC	design by contract
 DBDDHKP	doof bleibt doof, da helfen keine Pillen
 DBEYR	don't believe everything you read
@@ -473,6 +489,7 @@ DMCA	(USA) digital milennium copyright act
 DMCA	don't make content accessible
 DMI	desktop management interface
 DMS	document management system
+DMT	discrete multitone modulation
 DMZ	demilitarised zone
 DNARD	Digital network appliance reference design
 DND	do not disturb
@@ -543,6 +560,7 @@ ECP	enhanced capability port
 ECS	enhanced chip set
 ECS	extended configuration space
 EDAT	enhanced dynamic acceleration technology
+EDGE	explicit data graph execution
 EDID	extended display identification data
 EDO	extended data out
 EDS	electronical data sheet
@@ -620,6 +638,7 @@ FEC	forward error correction
 FET	field-effect transistor
 FFH	functional fixed hardware
 FFI	foreign function interface
+FFM	focus follows mouse
 FFS	fast filesystem
 FFS	find first set (bit)
 FFS	for fuck's sake
@@ -733,6 +752,7 @@ GEM	graphics execution manager
 GENA	general event notification architecture
 GF	girlfriend
 GFU	good for you
+GFX	graphics (card)
 GFY	go fuck yourself
 GFY	good for you
 GG	good game
@@ -771,7 +791,7 @@ GPE	general purpose event
 GPF	general protection fault
 GPL	GNU General Public License
 GPR	general purpose register
-GPS	generalized processor sharing
+GPS	generalised processor sharing
 GPS	global positioning system
 GPSR	GPSr = GPS receiver
 GPT	GUID partition table
@@ -811,6 +831,7 @@ HDB	Heil Dir, Bruder
 HDCP	high-bandwidth digital content protection
 HDD	hard disc drive
 HDL	hardware description language
+HDTV	high-definition television
 HDW	Heil den Wansen (=OMG)
 HE	how embarrasing
 HF	hardware floating point (Debian/armhf)
@@ -879,6 +900,7 @@ ICH	I/O controller hub
 ICMP	internet control message protocol
 ICT	information and communications technology
 ICUR	I see you are
+ICW	initialisation command word
 IDA	Intel dynamic acceleration
 IDC	I don't care
 IDD	indeed (dutch: inderdaad)
@@ -900,6 +922,8 @@ IEC	international electrotechnical commission
 IEEE	Institute [of] Electrical [and] Electronics Engineers
 IESG	Internet Engineering Steering Group
 IETF	Internet Engineering Task Force
+IF	interface
+IF	intermediate frequency
 IFCM	isochronous flow control mode
 IGD	Internet gateway device
 IGMP	Internet group management protocol
@@ -928,6 +952,7 @@ IMCR	interrupt mode configuration register
 IMHO	in my humble opinion
 IMNSHO	in my not so humble opinion
 IMO	in my opinion
+IMR	interrupt mask register
 IMS	information management system
 INCITS	international committee on information technology standards
 INPO	in no particular order
@@ -958,6 +983,7 @@ IRDA	infrared data association
 IRL	in real life
 IRQ	interrupt request
 IRQL	interrupt request level
+IRR	interrupt request register
 IRT	in real time
 IRT	in regards to
 IRTF	internet research task force
@@ -973,6 +999,7 @@ ISN	initial serial number
 ISO	international standards organisation
 ISOC	internet society
 ISP	internet service provider
+ISR	in-service register
 ISR	interrupt service routine
 ISSN	international standard serial number
 IST	interrupt stack table
@@ -1092,6 +1119,7 @@ LFS	log-structured file system
 LFU	least frequently used
 LGPL	GNU Lesser General Public License
 LGTM	looks good to me
+LHP	loop heat pipe
 LIFO	last in, first out
 LILO	Linux loader
 LILO	last in, last out
@@ -1285,6 +1313,7 @@ ML	mailing list
 ML	markup language
 ML	maximum likelihood
 MLC	multi-level cell
+MLHP	micro loop heat pipe
 MMB	message me back
 MMIC	monolithic microwave integrated circuit
 MMIO	memory mapped input/output
@@ -1522,6 +1551,7 @@ PB	problem
 PBE	pending break encoding
 PBE	programming by example
 PC	personal computer
+PC	program counter
 PCB	printed circuit board
 PCC	Portable C Compiler
 PCD	page-level cache disable
@@ -1546,6 +1576,7 @@ PDU	protocol data unit
 PE	protection enable
 PEBCAK	reverse'ism for PEBKAC
 PEBKAC	problem exists between keyboard and chair
+PECI	platform environment control interface
 PEP	protocol extension protocol
 PER	packed encoding rules
 PERL	Pathologically Eclectic Rubbish Lister
@@ -1584,6 +1615,7 @@ PLONK	Poster liest Originalposter nicht konsequent
 PLRU	pseudo LRU
 PLTM	package level thermal management
 PLZ	please
+PM	phase modulation
 PM	post meridiem
 PM	power management
 PM	pulse modulation
@@ -1850,6 +1882,7 @@ SCNR	sorry, could not resist
 SCP	secure copy
 SCSI	small computer system interface
 SCTP	stream control transmission protocol
+SDI	symbol deinterleave
 SDK	software development kit
 SDL	simple declarative language
 SDRAM	synchronous dynamic random access memory
@@ -1927,6 +1960,7 @@ SOA	service oriented architecture
 SOAP	simple object access protocol
 SOB	son of [a] bitch
 SOC	system on chip
+SOF	start of frame
 SOHO	small office / home office
 SOL	serial over LAN
 SOL	shit out [of] luck
@@ -1986,6 +2020,10 @@ SVGA	super video graphics array
 SVM	secure virtual machine
 SVM	support vector machine
 SVP	please (french: s'il vous plaît)
+SVR	System V Release
+SVR2	System V Release 2
+SVR3	System V Release 3
+SVR4	System V Release 4
 SWAG	silly, wild-assed guess
 SWAHBI	silly, wild-assed hare-brained idea
 SWAP	[gc] Some say this is short for "Stuff We All Get." Swag means the trade items that we swap at geocaches and carry in our backpacks.
@@ -1993,6 +2031,7 @@ SWF	Shockwave Flash
 SWFG	search with fucking google
 SWIG	simplified wrapper [and] interface generator
 SWMBO	she who must be obeyed
+SYR	symbol timing recovery
 SYS	see you soon
 T4TC	[gc] thanks for the cache
 TA	teaching assistant
@@ -2112,20 +2151,24 @@ TP	transaction processing
 TPM	transactions per minute
 TPM	trusted platform module
 TPR	task priority register
+TPS	transmission parameters signaling
 TPTB	the person to bug
 TPTB	the powers that be
 TR	task register
 TR	token ring
+TRL	timing recovery loop
 TRNG	true random number generator
 TRT	the right thing
 TS	terminal services
 TS	time series
 TS	time stamp
+TS	transport stream
 TSC	time stamp counter
 TSD	time stamp disable
 TSL	test, set, lock
 TSO	time sharing option
 TSP	time stamp protocol
+TSP	time synchronisation protocol
 TSP	traveling salesman problem
 TSP	tunnel service provider
 TSP	tunnel setup protocol
@@ -2282,6 +2325,7 @@ WIP	work in progress
 WIR	when it's ready
 WLAN	wireless local area network
 WM	write miss
+WMI	Windows management instrumentation
 WMNC	watch me not care
 WOFTAM	waste of fucking time and money
 WOL	wake on LAN
