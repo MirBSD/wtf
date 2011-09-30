@@ -1,5 +1,5 @@
 #!/bin/mksh
-# $MirOS: wtf/wtf,v 1.14 2011/05/23 11:25:39 tg Exp $
+# $MirOS: wtf/wtf,v 1.15 2011/09/30 21:59:45 tg Exp $
 # $NetBSD: wtf,v 1.7 2000/11/21 00:18:52 soren Exp $
 #-
 # Copyright © 2002, 2003, 2004, 2006, 2007, 2008, 2010, 2011
@@ -53,6 +53,8 @@ shift $((OPTIND - 1))
 rv=0
 for target in "$@"; do
 	typeset -u tgsrch=$target
+	tgsrch=${tgsrch//ä/Ä}
+	tgsrch=${tgsrch//ü/Ü}
 
 	# MirPorts Framework, OpenBSD ports tree
 	if (( use_ports )) && [[ -s /usr/ports/INDEX ]]; then
@@ -102,6 +104,8 @@ for target in "$@"; do
 			(( rv |= 1 ))
 		fi
 	fi
+
+	(( use_dict || use_whatis )) && print "  - other information sources"
 
 	(( use_dict )) && if whence -p dict >&-; then
 		dict "$target" || (( rv |= 2 ))
