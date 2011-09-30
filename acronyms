@@ -1,15 +1,19 @@
-$MirOS: wtf/acronyms,v 1.120 2011/09/16 08:57:46 tg Exp $
+$MirOS: wtf/acronyms,v 1.121 2011/09/30 22:00:36 tg Exp $
 $NetBSD: acronyms,v 1.207 2011/08/28 08:41:01 jnemeth Exp $
 $NetBSD: acronyms.comp,v 1.127 2011/08/29 16:28:38 jruoho Exp $
+1	one, on
 10Q	thank you
 10X	tenx (thanks)
 1337	elite ("leet")
+2	two, to
 224	today, tomorrow, forever
 2IC	second in charge
 31337	elite ("eleet")
 3WHS	three-way handshake
+4	four, for
 4TF	[gc] fourth to find
 4TW	for the win
+8	eight, ate
 8VSB	8-state vestigial side band modulation
 </3	emoticon (a broken heart)
 <3	emoticon (a heart)
@@ -122,6 +126,9 @@ ASN	autonomous system number
 ASPM	active state power management
 ASQ	automated software quality
 ASR	address space register
+ASS	After Sales Support
+ASS	dumbhead
+ASS	jackass, moke (zool.)
 AST	abstract syntax tree
 AST	asynchronous trap
 AT	access time
@@ -783,6 +790,7 @@ GMBH	Gesellschaft mit beschränkter Haftung (german/austrian/swiss)
 GMCH	graphics and memory controller hub
 GMTA	great minds think alike
 GN8	goodneight
+GN8	gute Nacht
 GNU	GNU's Not UNIX®
 GOK	god only knows
 GOT	global offset table
@@ -1378,7 +1386,8 @@ N/M	never mind
 N/T	[gc] no trade
 N/T	no text (also: nt)
 N1	nice one
-N8	goodneight
+N8	(good)neight
+N8	(gute) Nacht
 NACK	negative acknowledgement
 NAFAIK	not as far as I know
 NAK	negative acknowledgement (see ACK)
@@ -1562,6 +1571,7 @@ PCM	pulse code modulation
 PCMCIA	personal computer memory card international association
 PD	public domain
 PDA	personal digital assistant
+PDA	public display of affection
 PDA	pushdown automaton
 PDAG	propositional directed acyclic graph
 PDB	power distribution board
@@ -1701,6 +1711,7 @@ QED	quod erat demonstrandum
 QFT	quoted for truth
 QOS	quality of service
 QOTD	quote of the day
+R	r, are
 RA	receiver address
 RA	remote assistance
 RA	residential advisor
@@ -2195,6 +2206,7 @@ TX	transmit out, transmitter
 TY	thank you
 TYVM	thank you very much
 TZ	time zone
+U	u, you
 U/L	upload
 UAC	user access control
 UAC	user account control
