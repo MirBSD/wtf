@@ -1,5 +1,5 @@
 #!/bin/mksh
-# $MirOS: wtf/wtf,v 1.15 2011/09/30 21:59:45 tg Exp $
+# $MirOS: wtf/wtf,v 1.16 2011/10/08 19:42:45 tg Exp $
 # $NetBSD: wtf,v 1.7 2000/11/21 00:18:52 soren Exp $
 #-
 # Copyright © 2002, 2003, 2004, 2006, 2007, 2008, 2010, 2011
@@ -24,7 +24,7 @@
 acronyms=${ACRONYMDB:-/usr/share/misc/acronyms}
 
 function usage {
-	print -u2 "usage: ${0##*/} [±adpw] [is[t]] <acronym> [...]"
+	print -u2 "usage: ${0##*/} [±adPpw] [is[t]] <acronym> [...]"
 	exit 1
 }
 
@@ -32,12 +32,14 @@ use_acronyms=1
 use_dict=0
 use_ports=0
 use_whatis=1
-while getopts "adpw" ch; do
+while getopts "adPpw" ch; do
 	case $ch {
 	(+a)	use_acronyms=0 ;;
 	(a)	use_acronyms=1 ;;
 	(+d)	use_dict=0 ;;
 	(d)	use_dict=1 ;;
+	(+P)	use_ports=0 ;;
+	(P)	use_ports=2 ;;
 	(+p)	use_ports=0 ;;
 	(p)	use_ports=1 ;;
 	(+w)	use_whatis=0 ;;
@@ -50,47 +52,75 @@ shift $((OPTIND - 1))
 [[ $1 = is || $1 = ist ]] && shift
 (( $# < 1 )) && usage
 
+if (( use_ports )); then
+	if [[ -s /usr/ports/INDEX ]]; then
+		# MirPorts Framework, OpenBSD ports tree
+		binpkgs=ports
+		function ports_acquire_filtered {
+			while IFS='|' read a b c d e; do
+				[[ $a = *"$1"* ]] && \
+				    print -r -- "$a|${d%% \(uses*}"
+			done </usr/ports/INDEX
+		}
+		function ports_acquire_unfiltered {
+			while IFS='|' read a b c d e; do
+				[[ $a$d = *"$1"* ]] && \
+				    print -r -- "$a|${d%% \(uses*}"
+			done </usr/ports/INDEX
+		}
+	elif [[ -x $(whence -p apt-cache) ]]; then
+		# Debian Advanced Packaging Tool
+		binpkgs=packages
+		function ports_acquire_filtered {
+			apt-cache search -- "$1" | while read a b c; do
+				[[ $a = *"$1"* ]] && print -r -- "$a|$c"
+			done
+		}
+		function ports_acquire_unfiltered {
+			apt-cache search -- "$1" | while read a b c; do
+				print -r -- "$a|$c"
+			done
+		}
+	elif [[ -x $(whence -p yum) ]]; then
+		# Red Hat Yellowdog Updater Modified
+		binpkgs=RPMs
+		function ports_acquire_filtered {
+			yum search -q -- "$1" | \
+			    tr '\n' '' | sed 's/ *: / /g' | tr '' '\n' | \
+			    while read a b c; do
+				[[ $a = *"$1"* ]] && print -r -- "$a|$c"
+			done
+		}
+		function ports_acquire_unfiltered {
+			yum search -q -- "$1" | \
+			    tr '\n' '' | sed 's/ *: / /g' | tr '' '\n' | \
+			    while read a b c; do
+				print -r -- "$a|$c"
+			done
+		}
+	else
+		use_ports=0
+	fi
+	case $use_ports {
+	(1)	alias ports_acquire=ports_acquire_filtered ;;
+	(2)	alias ports_acquire=ports_acquire_unfiltered ;;
+	(*)	use_ports=0 ;;
+	}
+fi
+
 rv=0
 for target in "$@"; do
 	typeset -u tgsrch=$target
 	tgsrch=${tgsrch//ä/Ä}
 	tgsrch=${tgsrch//ü/Ü}
 
-	# MirPorts Framework, OpenBSD ports tree
-	if (( use_ports )) && [[ -s /usr/ports/INDEX ]]; then
-		p=$(while IFS='|' read a b c d e; do
-			[[ $a$d = *"$target"* ]] && \
-			    print -r -- "$a|${d%% \(uses*}"
-		done </usr/ports/INDEX)
+	if (( use_ports )); then
+		p=$(ports_acquire "$target")
 		if [[ -n $p ]]; then
-			print -r "  - ports matching “$target”:"
+			print -r "  - $binpkgs matching “$target”:"
 			print -r -- "$p" | sort -u | column -ts'|'
 		fi
 	fi
-
-	# Debian Advanced Packaging Tool
-	:|| if (( use_ports )); then
-		p=$(apt-cache search -- "$target" | while read a b c; do
-			[[ $a = *"$target"* ]] && print -r -- "$a|$c"
-		done)
-		if [[ -n $p ]]; then
-			print -r "  - packages matching “$target”:"
-			print -r -- "$p" | sort -u | column -ts'|'
-		fi
-	fi
-
-	# Red Hat Yellowdog Updater Modified
-	:|| if (( use_ports )); then
-		p=$(yum search -q -- "$target" | tr '\n' '' | \
-		    sed 's/ *: / /g' | tr '' '\n' | while read a b c; do
-			[[ $a = *"$target"* ]] && print -r -- "$a|$c"
-		done)
-		if [[ -n $p ]]; then
-			print -r "  - packages matching “$target”:"
-			print -r -- "$p" | sort -u | column -ts'|'
-		fi
-	fi
-
 
 	if (( use_acronyms )); then
 		found=0
