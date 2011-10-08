@@ -1,5 +1,5 @@
 #!/bin/mksh
-# $MirOS: wtf/wtf,v 1.16 2011/10/08 19:42:45 tg Exp $
+# $MirOS: wtf/wtf,v 1.17 2011/10/08 19:43:55 tg Exp $
 # $NetBSD: wtf,v 1.7 2000/11/21 00:18:52 soren Exp $
 #-
 # Copyright © 2002, 2003, 2004, 2006, 2007, 2008, 2010, 2011
@@ -126,11 +126,11 @@ for target in "$@"; do
 		found=0
 		while IFS= read -r line; do
 			[[ $line = "$tgsrch	"* ]] || continue
-			(( found++ )) || print -r "   $target:"
+			(( found++ )) || print -r "   $tgsrch:"
 			print -r -- "${line#*	}"
 		done <"$acronyms"
 		if (( !found )); then
-			print -ru2 Gee… I don’t know what “"$target"” means…
+			print -ru2 Gee… I don’t know what “"$tgsrch"” means…
 			(( rv |= 1 ))
 		fi
 	fi
@@ -145,7 +145,7 @@ for target in "$@"; do
 
 	if (( use_whatis )); then
 		w=$(whatis "$target") || \
-		    w="Sorry, no entry for a “$target” manpage"
+		    w="Sorry, no entry for a “$target” manual page"
 		print -r -- "$w"
 	fi
 done
