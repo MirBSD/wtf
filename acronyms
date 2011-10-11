@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.122 2011/10/08 19:25:46 tg Exp $
+$MirOS: wtf/acronyms,v 1.123 2011/10/11 12:00:34 tg Exp $
 $NetBSD: acronyms,v 1.207 2011/08/28 08:41:01 jnemeth Exp $
 $NetBSD: acronyms.comp,v 1.127 2011/08/29 16:28:38 jruoho Exp $
 1	one, on
@@ -1908,6 +1908,7 @@ SFA	sweet fuck all
 SFAICT	so far as I can tell
 SFC	sequential function chart
 SFI	simple firmware interface
+SFW	safe for work
 SGRAM	synchronous graphics random access memory
 SH	Bourne Shell
 SH	POSIX Shell
