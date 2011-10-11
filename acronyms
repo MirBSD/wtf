@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.123 2011/10/11 12:00:34 tg Exp $
+$MirOS: wtf/acronyms,v 1.124 2011/10/11 19:11:00 tg Exp $
 $NetBSD: acronyms,v 1.207 2011/08/28 08:41:01 jnemeth Exp $
 $NetBSD: acronyms.comp,v 1.127 2011/08/29 16:28:38 jruoho Exp $
 1	one, on
@@ -481,6 +481,7 @@ DGL	data generation language
 DH	Diffie-Hellman
 DHCP	dynamic host configuration protocol
 DHL	Da Haste Lauferei
+DHL	Dauert halt länger
 DIAFYO	did I ask for your opinion?
 DIFS	distributed inter-frame space
 DIMM	dual inline memory module
@@ -792,6 +793,7 @@ GMCH	graphics and memory controller hub
 GMTA	great minds think alike
 GN8	goodneight
 GN8	gute Nacht
+GNOME	some kind of small earthen animal
 GNU	GNU's Not UNIX®
 GOK	god only knows
 GOT	global offset table
@@ -1066,6 +1068,9 @@ KB	keyboard
 KB	kilobyte
 KBD	keyboard
 KBD	kilobaud
+KBE	Kappes Buure Expreß
+KBE	Köln-Bonner Eisenbahnen
+KDE	Kiddish Desktop Environment
 KISS	keep it short and simple
 KISS	keep it simple and smart
 KISS	keep it simple and straightforward
@@ -2040,6 +2045,8 @@ SVR4	System V Release 4
 SWAG	silly, wild-assed guess
 SWAHBI	silly, wild-assed hare-brained idea
 SWAP	[gc] Some say this is short for "Stuff We All Get." Swag means the trade items that we swap at geocaches and carry in our backpacks.
+SWB	Stadtwerke Bonn
+SWB	stehen, warten, beten
 SWF	Shockwave Flash
 SWFG	search with fucking google
 SWIG	simplified wrapper [and] interface generator
@@ -2408,6 +2415,7 @@ YTD	year to date
 YW	you're welcome
 YWSYLS	you win some, you lose some
 ZBR	zone bit recording
+ZBUS	Zwischen Bildschirm und Stuhl
 ZFOD	zero-filled on demand
 ZIF	zero insertion force
 ZIFS	zero insertion force socket
