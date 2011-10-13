@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.124 2011/10/11 19:11:00 tg Exp $
+$MirOS: wtf/acronyms,v 1.125 2011/10/13 09:15:12 tg Exp $
 $NetBSD: acronyms,v 1.207 2011/08/28 08:41:01 jnemeth Exp $
 $NetBSD: acronyms.comp,v 1.127 2011/08/29 16:28:38 jruoho Exp $
 1	one, on
@@ -1019,6 +1019,7 @@ ISTR	I seem to recall
 ISV	independent software vendor
 IT	information technology
 ITB	Intel turbo boost
+ITYD	It's this you did
 ITYM	I think you mean
 ITYM	Is it this you mean
 ITYM	It's this you mean
@@ -1496,6 +1497,7 @@ OFET	organic field-effect transistor
 OH	other half
 OIC	oh, I see
 OID	of iets dergelijks (or so, or something like that)
+OIOW	or, in other words, ...
 OLE	object linking and embedding
 OMC	original male character (OC)
 OMFG	oh my fucking god
@@ -2401,6 +2403,7 @@ YAHOO	Yet Another Hierarchically Officious Oracle
 YALIMO	you are lame, in my opinion
 YAOTM	yet another off-topic message
 YAWPFAPR	you are welcome; please file a problem report
+YDAY	yesterday
 YGM	you got mail
 YGWYPF	you get what you {pay,prayed} for
 YHBT	you have been trolled
