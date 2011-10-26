@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.125 2011/10/13 09:15:12 tg Exp $
+$MirOS: wtf/acronyms,v 1.126 2011/10/26 19:49:46 tg Exp $
 $NetBSD: acronyms,v 1.207 2011/08/28 08:41:01 jnemeth Exp $
 $NetBSD: acronyms.comp,v 1.127 2011/08/29 16:28:38 jruoho Exp $
 1	one, on
@@ -17,6 +17,7 @@ $NetBSD: acronyms.comp,v 1.127 2011/08/29 16:28:38 jruoho Exp $
 8VSB	8-state vestigial side band modulation
 </3	emoticon (a broken heart)
 <3	emoticon (a heart)
+A/N	author's note
 AA	anti-aliasing
 AAA	authentication, authorisation, accounting
 AAMOF	as a matter of fact
@@ -93,6 +94,7 @@ AMI	alternate mark inversion
 AMOL	a mountain of love
 AMT	active management technology
 AN	Arabic number
+AN	author's note (usually A/N)
 ANSI	American National Standards Institute
 AO	analog output
 AOL	alert on LAN
@@ -1371,6 +1373,7 @@ MSIE	Microsoft Slaves' Incessant Exasperation
 MSIE	Microsoft® Internet Explorer
 MSR	machine state register
 MSS	maximum segment size
+MSS	maybe (dutch: misschien)
 MT	machine translation
 MTA	mail transfer agent
 MTBF	mean time between failures
@@ -2409,6 +2412,7 @@ YGWYPF	you get what you {pay,prayed} for
 YHBT	you have been trolled
 YHL	you have lost
 YKWIM	you know what I mean
+YM	yo momma
 YMA	yo momma's arse
 YMMD	you made my day!
 YMMV	your mileage may vary
