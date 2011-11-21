@@ -1,5 +1,5 @@
-$MirOS: wtf/acronyms,v 1.126 2011/10/26 19:49:46 tg Exp $
-$NetBSD: acronyms,v 1.207 2011/08/28 08:41:01 jnemeth Exp $
+$MirOS: wtf/acronyms,v 1.127 2011/11/21 21:46:16 tg Exp $
+$NetBSD: acronyms,v 1.209 2011/11/19 17:40:19 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.127 2011/08/29 16:28:38 jruoho Exp $
 1	one, on
 10Q	thank you
@@ -257,6 +257,7 @@ BSD	Blobs Schaden Dir
 BSD	Blobs Sind Doof
 BSD	basically secure and dependable
 BSD	big scary daemons
+BSD	booze, sex, drugs
 BSF	bit scan forward
 BSOD	blue screen of death
 BSP	binary space partition
@@ -568,6 +569,7 @@ ECC	error correction code
 ECL	emitter-coupled logic
 ECN	explicit congestion notification
 ECP	enhanced capability port
+ECR	electronic cash register
 ECS	enhanced chip set
 ECS	extended configuration space
 EDAT	enhanced dynamic acceleration technology
@@ -580,6 +582,7 @@ EEPROM	electrically erasable programmable read only memory
 EFI	extensible firmware interface
 EFL	emitter follower logic
 EFM	eight to fourteen modulation
+EFT	electronic funds transfer
 EG	evil grin
 EGA	enhanced graphics adapter
 EGP	exterior gateway protocol
@@ -2408,6 +2411,7 @@ YAOTM	yet another off-topic message
 YAWPFAPR	you are welcome; please file a problem report
 YDAY	yesterday
 YGM	you got mail
+YGMP	you get my point
 YGWYPF	you get what you {pay,prayed} for
 YHBT	you have been trolled
 YHL	you have lost
