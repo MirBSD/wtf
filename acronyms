@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.127 2011/11/21 21:46:16 tg Exp $
+$MirOS: wtf/acronyms,v 1.128 2011/11/25 21:54:43 tg Exp $
 $NetBSD: acronyms,v 1.209 2011/11/19 17:40:19 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.127 2011/08/29 16:28:38 jruoho Exp $
 1	one, on
@@ -559,6 +559,8 @@ DVFS	dynamic voltage and frequency scaling
 DVI	digital visual interface
 DVR	digital video recorder
 DWIM	do what I mean
+DWIW	do what I want
+DWYW	do what you want
 DWZ	dat wil zeggen?
 DYK	do you know?
 E-XER	extended XML encoding rules
@@ -681,6 +683,7 @@ FM	frequency modulation
 FM	fucking magic
 FML	fuck my life
 FMR	false match rate
+FMT	Facility Management Technology
 FNO	for nerds only
 FNO	from now on
 FOAD	fall over and die
@@ -791,6 +794,7 @@ GL	"gl hf" - good luck, have fun [StarCraft]
 GL	[gc] GeoLutin, free trackable item (see also: TB)
 GL	good luck
 GLHF	good luck, have fun
+GLT	Gebäudeleittechnik
 GLWT	good luck with that
 GMBH	Geh {mir,mal} Bier holen (german pun)
 GMBH	Gesellschaft mit beschränkter Haftung (german/austrian/swiss)
@@ -2106,6 +2110,7 @@ TDP	thermal design power
 TDR	Theo de Raadt -- http://theos.com/
 TEAM	toll, ein Anderer macht's!
 TECO	Text Editor and Corrector
+TF	... the fuck
 TFB	too fucking bad
 TFSMIF	Thank Flying Spaghetti Monster It's Friday
 TFT	thin film transistor
