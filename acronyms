@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.128 2011/11/25 21:54:43 tg Exp $
+$MirOS: wtf/acronyms,v 1.129 2011/12/04 20:34:16 tg Exp $
 $NetBSD: acronyms,v 1.209 2011/11/19 17:40:19 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.127 2011/08/29 16:28:38 jruoho Exp $
 1	one, on
@@ -648,6 +648,8 @@ FDC	floppy disk controller
 FDD	floppy disk drive
 FDDI	fiber distributed data interface
 FDE	full disk encryption
+FDIK	Fick' Dich ins Knie
+FDIK	Volker Birk (VB)
 FEA	finite element analysis
 FEAR	false evidence appearing real
 FEC	forward error correction
@@ -1494,6 +1496,7 @@ OAEP	optimal asymmetric encryption padding
 OAO	over and out
 OBO	off by one
 OBOE	off by one error
+OBS	OpenSuSE Buildservice
 OC	[gc] opencaching.{cz,de,pl}
 OC	original character
 OCL	object constraint language
