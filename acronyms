@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.129 2011/12/04 20:34:16 tg Exp $
+$MirOS: wtf/acronyms,v 1.130 2011/12/16 20:01:31 tg Exp $
 $NetBSD: acronyms,v 1.209 2011/11/19 17:40:19 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.127 2011/08/29 16:28:38 jruoho Exp $
 1	one, on
@@ -1733,6 +1733,8 @@ QFT	quoted for truth
 QOS	quality of service
 QOTD	quote of the day
 R	r, are
+R/O	read-only
+R/W	read-write
 RA	receiver address
 RA	remote assistance
 RA	residential advisor
@@ -1793,6 +1795,7 @@ RMS	Richard Matthew Stallman
 RMS	root mean square
 RMW	read, modify, write
 RNG	random number generator
+RO	read-only
 ROFL	Respekt, Originalposting fein lustig
 ROFL	rolling on floor laughing
 ROFLMAO	rolling on floor laughing my arse off
@@ -1843,6 +1846,7 @@ RTSL	real-time shading language (Stanford University)
 RTSL	real-time systems laboratory
 RTT	round time trip
 RUP	rational unified process
+RW	read-write
 RWM	read-write memory
 RX	receive, receiver
 S/PDIF	Sony/Phillips digital interface
@@ -2395,6 +2399,7 @@ WWW	weltweit warten
 WWW	world wide waiting
 WWW	world wide web
 WYSIWYG	what you see is what you get
+W^X	either writable or executable, but not both (W xor X)
 XBAR	crossbar
 XD	;-) on español
 XER	XML encoding rules
