@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.130 2011/12/16 20:01:31 tg Exp $
+$MirOS: wtf/acronyms,v 1.131 2011/12/28 00:52:25 tg Exp $
 $NetBSD: acronyms,v 1.209 2011/11/19 17:40:19 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.127 2011/08/29 16:28:38 jruoho Exp $
 1	one, on
@@ -1997,6 +1997,7 @@ SOA	service oriented architecture
 SOAP	simple object access protocol
 SOB	son of [a] bitch
 SOC	system on chip
+SOE	Standard Operating Environment (a spec, image, or build process that attempts (usually unsuccessfully) to produce identical machines, typically under the management of a central authority that does its damnedest to get in the way of useful work)
 SOF	start of frame
 SOHO	small office / home office
 SOL	serial over LAN
