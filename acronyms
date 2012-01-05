@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.132 2011/12/31 02:25:37 tg Exp $
+$MirOS: wtf/acronyms,v 1.133 2012/01/05 00:41:19 tg Exp $
 $NetBSD: acronyms,v 1.209 2011/11/19 17:40:19 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.127 2011/08/29 16:28:38 jruoho Exp $
 1	one, on
@@ -65,6 +65,7 @@ AFAIR	as far as I recall
 AFAIR	as far as I remember
 AFAIU	as far as I understand
 AFD	away from desktop
+AFF	AdultFanFiction.Net
 AFK	away from keyboard
 AFS	Andrew File System
 AFU	all fucked up
@@ -97,6 +98,7 @@ AN	Arabic number
 AN	author's note (usually A/N)
 ANSI	American National Standards Institute
 AO	analog output
+AO3	Archive of Our Own (by the OTW) -- http://archiveofourown.org/
 AOL	alert on LAN
 AOS	add or subtract
 AP	access point
@@ -657,6 +659,7 @@ FET	field-effect transistor
 FFH	functional fixed hardware
 FFI	foreign function interface
 FFM	focus follows mouse
+FFN	FanFiction.Net
 FFS	fast filesystem
 FFS	find first set (bit)
 FFS	for fuck's sake
@@ -1153,6 +1156,7 @@ LINT	local interrupt
 LINUX	free (as in GNU) operating system kernel -- http://www.kernel.org/
 LINUX	life is not utterly exciting
 LIR	local internet registry
+LJ	LiveJournal
 LJBF	let's just be friends
 LKM	Linux kernel module
 LKM	loadable kernel module
@@ -1556,6 +1560,7 @@ OTP	one time password
 OTS	off the shelf
 OTT	over the top
 OTTOMH	off the top of my head
+OTW	Organization for Transformative Works -- http://transformativeworks.org/
 OU	organisational unit
 OUI	organisationally unique identifier
 OWL	Web ontology language
