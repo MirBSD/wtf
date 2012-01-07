@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.133 2012/01/05 00:41:19 tg Exp $
+$MirOS: wtf/acronyms,v 1.134 2012/01/07 16:54:10 tg Exp $
 $NetBSD: acronyms,v 1.209 2011/11/19 17:40:19 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.127 2011/08/29 16:28:38 jruoho Exp $
 1	one, on
@@ -724,6 +724,7 @@ FSF	Free Software Foundation -- http://www.fsf.org/ http://www.fsf-europe.org/
 FSK	frequency shift keying
 FSM	(see http://en.wikipedia.org/wiki/Flying_Spaghetti_Monster)
 FSM	finite-state machine
+FST	freenode Standard Time (just UTC)
 FSVO	for sane values of
 FSVO	for some value of
 FTA	fault tree analysis
@@ -2255,6 +2256,7 @@ UDMA	Ultra-DMA
 UDO	ultra density optical (storage)
 UDP	user datagram protocol
 UFS	Unix filesystem
+UGT	Universal Greeting Time -- http://thinkmoult.com/ugt.html
 UI	unit interval
 UI	user interface
 UID	unique identifier
@@ -2288,6 +2290,7 @@ UUCP	Unix-to-Unix copy protocol
 UUID	universally unique identifier
 UUOC	useless use of cat
 UUT	unit under test
+UVZ	Universelle Verpeilerzeit
 VA	vertical alignment
 VA	virtual address
 VA	volt-ampere
