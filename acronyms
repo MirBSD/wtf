@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.134 2012/01/07 16:54:10 tg Exp $
+$MirOS: wtf/acronyms,v 1.135 2012/01/07 17:18:02 tg Exp $
 $NetBSD: acronyms,v 1.209 2011/11/19 17:40:19 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.127 2011/08/29 16:28:38 jruoho Exp $
 1	one, on
@@ -1709,6 +1709,7 @@ PRN	pseudo random noise
 PRN	pseudo random number
 PRNG	pseudo random number generator
 PROM	programmable read only memory
+PSA	public service announcement
 PSD	power spectral density
 PSE	page size extensions
 PSK	phase shift keying
