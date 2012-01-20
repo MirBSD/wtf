@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.139 2012/01/19 18:19:10 tg Exp $
+$MirOS: wtf/acronyms,v 1.140 2012/01/20 11:42:52 tg Exp $
 $NetBSD: acronyms,v 1.209 2011/11/19 17:40:19 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.127 2011/08/29 16:28:38 jruoho Exp $
 1	one, on
@@ -2377,6 +2377,7 @@ WEP	wired equivalent privacy (yikes! it's as insecure as hell)
 WFH	working from home
 WFI	wait for interrupt
 WFM	works for me
+WFM2	works for me, too
 WFQ	weighted fair queuing
 WFY	works for you
 WH	write hit
@@ -2393,6 +2394,9 @@ WIP	work in progress
 WIR	when it's ready
 WLAN	wireless local area network
 WM	write miss
+WMF	Wiedersehen macht Freude
+WMF	Windows Metafile
+WMF	Württembergische Metallwarenfabrik
 WMI	Windows management instrumentation
 WMNC	watch me not care
 WOFTAM	waste of fucking time and money
