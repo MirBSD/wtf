@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.140 2012/01/20 11:42:52 tg Exp $
+$MirOS: wtf/acronyms,v 1.141 2012/02/15 21:06:42 tg Exp $
 $NetBSD: acronyms,v 1.209 2011/11/19 17:40:19 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.127 2011/08/29 16:28:38 jruoho Exp $
 1	one, on
@@ -2284,6 +2284,7 @@ UMA	upper memory area
 UMB	upper memory block
 UML	unified modeling language
 UMPC	ultra-mobile PC
+UMR	uninitialised memory read
 UPNP	universal plug and play
 UPS	[gc] unnatural pile of sticks
 UPS	uninterruptible power supply
