@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.141 2012/02/15 21:06:42 tg Exp $
+$MirOS: wtf/acronyms,v 1.142 2012/02/19 18:15:06 tg Exp $
 $NetBSD: acronyms,v 1.209 2011/11/19 17:40:19 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.127 2011/08/29 16:28:38 jruoho Exp $
 1	one, on
@@ -36,6 +36,7 @@ ACK	acknowledged / [japanese] Hai!
 ACK	acknowledgement
 ACL	access control list
 ACL	active current loop
+ACM	Association for Computing Machinery
 ACME	A Company Making Everything
 ACP	auxillary control process
 ACP	auxillary control program
@@ -817,6 +818,7 @@ GMCH	graphics and memory controller hub
 GMTA	great minds think alike
 GN8	goodneight
 GN8	gute Nacht
+GND	ground
 GNOME	some kind of small earthen animal
 GNU	GNU's Not UNIX®
 GOK	god only knows
@@ -1416,6 +1418,7 @@ MWDW	Mach' was Du willst!
 MWE	module width encoding
 MX	mail exchange
 MYOB	mind your own business
+N/C	not connected
 N/M	never mind
 N/T	[gc] no trade
 N/T	no text (also: nt)
@@ -1433,6 +1436,7 @@ NBC	National Broadcasting Company (USA)
 NBD	network block device
 NBD	no big deal
 NC	[gc] navicache
+NC	not connected
 NC	numerical control
 NCO	numerically-controlled oscillator
 NCP	network control protocol
