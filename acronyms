@@ -1,5 +1,5 @@
-$MirOS: wtf/acronyms,v 1.144 2012/03/13 22:56:26 tg Exp $
-$NetBSD: acronyms,v 1.209 2011/11/19 17:40:19 mbalmer Exp $
+$MirOS: wtf/acronyms,v 1.145 2012/03/24 23:04:59 tg Exp $
+$NetBSD: acronyms,v 1.210 2012/03/06 17:04:54 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.127 2011/08/29 16:28:38 jruoho Exp $
 1	one, on
 10Q	thank you
@@ -1239,6 +1239,7 @@ MARC	http://marc.theaimsgroup.com/
 MB	megabyte
 MBR	master boot record
 MBS	megabits per second
+MBZ	must be zero
 MC	memory controller
 MCA	machine check architecture
 MCC	multiversion concurrency control
@@ -1933,6 +1934,8 @@ SATA	serial advanced technology attachment
 SB	sound blaster
 SBA	[gc] should be archived (needs archived)
 SBU	standard build unit
+SBZ	Sowjetische Besatzungszone
+SBZ	should be zero
 SC	store conditional
 SCA	source code analyzer
 SCADA	supervisory control and data acquisition
