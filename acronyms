@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.145 2012/03/24 23:04:59 tg Exp $
+$MirOS: wtf/acronyms,v 1.146 2012/03/26 21:16:25 tg Exp $
 $NetBSD: acronyms,v 1.210 2012/03/06 17:04:54 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.127 2011/08/29 16:28:38 jruoho Exp $
 1	one, on
@@ -9,6 +9,7 @@ $NetBSD: acronyms.comp,v 1.127 2011/08/29 16:28:38 jruoho Exp $
 224	today, tomorrow, forever
 2IC	second in charge
 31337	elite ("eleet")
+3LD	third-level domain
 3WHS	three-way handshake
 4	four, for
 4TF	[gc] fourth to find
@@ -1990,6 +1991,7 @@ SISD	single instruction, single data
 SITD	still in the dark
 SIYH	sooner if you help
 SLC	single-level cell
+SLD	second-level domain
 SLDRAM	synchronous-link dynamic random access memory
 SLI	scalable link interface
 SLI	scan-line interleave
@@ -2190,7 +2192,7 @@ TLA	top level aggregator
 TLB	transition lookaside buffer
 TLB	translation lookaside buffer
 TLC	tender loving care
-TLD	top level domain
+TLD	top-level domain
 TLDR	too long, didn't read
 TLS	thread-local storage
 TLS	transport layer security
