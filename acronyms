@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.147 2012/03/28 15:17:01 tg Exp $
+$MirOS: wtf/acronyms,v 1.148 2012/03/28 22:59:19 tg Exp $
 $NetBSD: acronyms,v 1.210 2012/03/06 17:04:54 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.127 2011/08/29 16:28:38 jruoho Exp $
 1	one, on
@@ -1094,6 +1094,7 @@ JSYK	just so you know
 JTAG	joint test action group
 JTLYK	just to let you know
 JW	just wondering
+KA	kA = keine Ahnung (no idea)
 KB	keyboard
 KB	kilobyte
 KBD	keyboard
@@ -1119,6 +1120,7 @@ KMS	kernel-mode setting
 KNF	kernel normal form - https://www.mirbsd.org/man9/style
 KOD	kiss of death
 KOS	kill on sight
+KP	kP = kein Peil (no idea, coll.)
 KPI	kernel programming interface
 KSH	Korn Shell
 KTHX	okay, thanks
