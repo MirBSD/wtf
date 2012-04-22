@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.150 2012/04/06 14:22:00 tg Exp $
+$MirOS: wtf/acronyms,v 1.151 2012/04/22 16:43:26 tg Exp $
 $NetBSD: acronyms,v 1.210 2012/03/06 17:04:54 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.127 2011/08/29 16:28:38 jruoho Exp $
 1	one, on
@@ -187,6 +187,7 @@ BBS	be back soon
 BBS	bulletin board system
 BBT	be back tomorrow
 BCB	[gc] Bookcrossing Book
+BCC	Broadcast Call Control
 BCC	blind carbon copy
 BCD	binary coded decimal
 BCNU	be seeing you
@@ -215,16 +216,19 @@ BFS	breadth-first search
 BFT	binary file transfer
 BGA	ball grid array
 BGP	border gateway protocol
+BI	two-
 BIAB	back in a bit
 BIAF	back in a few
 BIALW	back in a little while
 BIAS	back in a second
 BIAW	back in a while
+BICC	Bearer Independent Call Control protoco
 BIND	Berkeley Internet Name Daemon
 BIND	Buggy Internet Name Dæmon
 BINNMU	binNMU, binary non-maintainer upload from unchanged sources
 BIOS	basic input/output system
 BIST	built-in self-test
+BISUP	B-ISDN User Part
 BIU	bus interface unit
 BKDG	BIOS and kernel developer's guide
 BLAS	basic linear algebra subprograms
@@ -273,6 +277,8 @@ BSP	binary space partition
 BSP	bootstrap processor
 BSR	bit scan reverse
 BSS	block started by symbol
+BSSAP+	BSS Application Part Plus
+BSSGP	Base Station System GPRS Protocol
 BT	BitTorrent
 BT	Bluetooth
 BT	bit test
@@ -318,6 +324,8 @@ CC	carbon coby
 CC	credit card
 CCD	charge coupled device
 CCI	co-channel interferer
+CCITT	Comitè Consultatif Internationale de Tèlègraphie et Tèlèphonie
+CCITT	now: ITU-T
 CD	cache disable
 CD	compact disc
 CDDA	compact disc digital audio
@@ -381,6 +389,7 @@ COLR	Connected Line Identification Restriction (feature on callee side to preven
 COM	component object model
 COMA	cache-only memory architecture
 CORBA	common object request broker architecture
+CORDIC	COordinate Rotation DIgital Computer algorithm
 COTS	commercial off-the-shelf
 COW	copy-on-write
 CP	continuous pilot
@@ -565,6 +574,8 @@ DTRT	do the right thing
 DTS	digital thermal sensor
 DTST	did the same thing
 DTWT	do the wrong thing
+DUP	Data User Part
+DUP	duplicate
 DUT	device under test
 DVB	digital video broadcasting
 DVCS	distributed version control system
@@ -781,6 +792,9 @@ GC	[gc] gc.com listed geocache
 GC	[gc] geocache
 GC	[gc] geocoin (also used as common name for trackable items, cf. TB)
 GC	garbage collector
+GCC	GNU C Compiler (old)
+GCC	GNU Compiler Collection
+GCC	Group Call Control
 GCC	gcc can't compile
 GCR	group-coded recording
 GDT	global descriptor table
@@ -795,6 +809,7 @@ GFY	good for you
 GG	good game
 GGWP	good game, well played
 GHC	Glasgow Haskell compiler
+GHZ	GHz: Gigahertz (1'000'000'000 Hz)
 GID	group identifier
 GIF	graphics interchange format
 GIGO	garbage in, garbage out
@@ -819,6 +834,7 @@ GLWT	good luck with that
 GMBH	Geh {mir,mal} Bier holen (german pun)
 GMBH	Gesellschaft mit beschränkter Haftung (german/austrian/swiss)
 GMCH	graphics and memory controller hub
+GMM	GPRS Mobility Management
 GMTA	great minds think alike
 GN8	goodneight
 GN8	gute Nacht
@@ -832,6 +848,7 @@ GPE	general purpose event
 GPF	general protection fault
 GPL	GNU General Public License
 GPR	general purpose register
+GPRS	general packet radio service
 GPS	generalised processor sharing
 GPS	global positioning system
 GPSR	GPSr = GPS receiver
@@ -843,9 +860,11 @@ GRE	generic routing encapsulation
 GRML	(Ausruf der Unzufriedenheit, z.B. mit dem Schicksal)
 GRML	austrian GNU/Linux live distribution, contains MirOS bsd4grml
 GSI	global system interrupt
+GSM	GPRS Session Management
 GTFO	get the fuck out
 GTG	got to go
 GTH	go to hell
+GTP	GPRS Tunneling Protocol
 GTSY	{good, glad} to see you
 GUI	graphic{al,s} user interface
 GUID	globally unique identifier
@@ -875,6 +894,8 @@ HDL	hardware description language
 HDTV	high-definition television
 HDW	Heil den Wansen (=OMG)
 HE	how embarrasing
+HEPTA	seven-
+HEXA	six-
 HF	hardware floating point (Debian/armhf)
 HF	have fun (see also: GL)
 HF	high frequency
@@ -1046,9 +1067,12 @@ ISSN	international standard serial number
 IST	interrupt stack table
 ISTM	it seems to me
 ISTR	I seem to recall
+ISUP	ISDN User Part
 ISV	independent software vendor
 IT	information technology
 ITB	Intel turbo boost
+ITU	International Telecommunication Union
+ITU-T	ITU Telecommunication Standardization Sector
 ITYD	It's this you did
 ITYM	I think you mean
 ITYM	Is it this you mean
@@ -1103,6 +1127,7 @@ KBD	kilobaud
 KBE	Kappes Buure Expreß
 KBE	Köln-Bonner Eisenbahnen
 KDE	Kiddish Desktop Environment
+KHZ	kHz: Kilohertz (1'000 Hz)
 KISS	keep it short and simple
 KISS	keep it simple and smart
 KISS	keep it simple and straightforward
@@ -1241,6 +1266,7 @@ MAC	mandatory access control
 MAC	medium access control
 MAD	mutually assured destruction
 MADT	multiple APIC descriptor table
+MAP	Mobile Application Part
 MARC	http://marc.theaimsgroup.com/
 MB	megabyte
 MBR	master boot record
@@ -1339,6 +1365,7 @@ MFC	merge from -current
 MFG	with friendly greetings
 MFM	modified frequency modulation
 MFS	Memory File System
+MHZ	MHz: Megahertz (1'000'000 Hz)
 MI	machine-independent
 MIA	missing in action
 MIB	management information base
@@ -1413,6 +1440,9 @@ MT	machine translation
 MTA	mail transfer agent
 MTBF	mean time between failures
 MTF	more to follow
+MTP	see MTP-2, MTP-3
+MTP-2	Message Transfer Part Level 2
+MTP-3	Message Transfer Part Level 3
 MTRR	memory type range register
 MTTF	mean time to failure
 MTU	maximum transmission unit
@@ -1501,6 +1531,7 @@ NRN	no reply necessary
 NRN	not right now
 NRNR	[gc] nichts rein, nichts raus (cf. TNLN)
 NRZ	non-return to zero
+NS	Network Service
 NSA	National Security Agency
 NSA	no such agency
 NSFW	not safe for work
@@ -1534,6 +1565,7 @@ OC	[gc] opencaching.{cz,de,pl}
 OC	original character
 OCL	object constraint language
 OCR	optical character recognition
+OCTA	eight-
 ODCM	on-demand clock modulation
 ODT	on-die termination
 OEM	original equipment manufacturer
@@ -1544,6 +1576,7 @@ OH	other half
 OIC	oh, I see
 OID	of iets dergelijks (or so, or something like that)
 OIOW	or, in other words, ...
+OKTA	eight-
 OLE	object linking and embedding
 OMC	original male character (OC)
 OMFG	oh my fucking god
@@ -1645,6 +1678,7 @@ PE	protection enable
 PEBCAK	reverse'ism for PEBKAC
 PEBKAC	problem exists between keyboard and chair
 PECI	platform environment control interface
+PENTA	five-
 PEP	protocol extension protocol
 PER	packed encoding rules
 PERL	Pathologically Eclectic Rubbish Lister
@@ -1760,6 +1794,7 @@ PVI	protected-mode virtual interrupt
 PWM	pulse width modulation
 PWP	Plot? What Plot?
 PXE	preboot execution environment
+Q2140	ITU-T Recommendation Q.2140 (B-ISDN ATM adaptation layer)
 QA	quality assurance
 QAM	quadrature amplitude modulation
 QAM	quality assurance management
@@ -1826,6 +1861,7 @@ RLC	rod length check
 RLE	run length encoding
 RLL	run length limited
 RLO	right-to-left override
+RLP	Radio Link Protocol
 RM	read miss
 RMI	remote method invocation
 RMPM	rapid memory power management
@@ -1948,6 +1984,7 @@ SCADA	supervisory control and data acquisition
 SCC	second class citizen
 SCC	single chip cloud
 SCC	source code control
+SCCP	Signalling Connection Control Part
 SCCS	source code control system
 SCI	scalable coherent interface
 SCI	system control interrupt
@@ -1961,6 +1998,7 @@ SCTP	stream control transmission protocol
 SDI	symbol deinterleave
 SDK	software development kit
 SDL	simple declarative language
+SDR	software defined radio
 SDRAM	synchronous dynamic random access memory
 SDT	syntax-directed translation
 SECAM	Something Essentialy Contrary to the American Method
@@ -2019,10 +2057,12 @@ SMLSFB	so many losers, so few bullets
 SMM	system management mode
 SMOP	simple matter of programming
 SMP	symmetric multiprocessing
+SMSCB	Short Message Service Cell Broadcast
 SMT	simultaneous multithreading
 SMTP	simple mail transfer protocol
 SMU	system management unit
 SNAFU	situation normal, all fucked up
+SNDCP	Sub-Network Dependant Convergence Protocol
 SNERT	snot-nosed egotistical rude teenager
 SNMP	security's not my problem
 SNMP	simple network management protocol
@@ -2066,6 +2106,8 @@ SRNG	stretched random number generator
 SRU	stable release update
 SS	self-snoop
 SS	stack segment
+SS7	Signalisierungssystem Nummer 7
+SS7	signalling system #7
 SSB	single-sideband modulation
 SSD	solid state drive
 SSE	streaming SIMD extensions
@@ -2139,6 +2181,7 @@ TBF	to be fixed
 TBH	to be honest
 TBOMK	the best of my knowledge
 TC	[gc] Terracache
+TCAP	Transaction Capabilities Application Part
 TCB	taking care of business
 TCB	trace capture buffer
 TCB	trusted computing base
@@ -2159,6 +2202,9 @@ TDP	thermal design power
 TDR	Theo de Raadt -- http://theos.com/
 TEAM	toll, ein Anderer macht's!
 TECO	Text Editor and Corrector
+TETRA	Terrestrial Trunked Radio
+TETRA	Trans-European Trunked Radio (old)
+TETRA	four-
 TF	... the fuck
 TFB	too fucking bad
 TFSMIF	Thank Flying Spaghetti Monster It's Friday
@@ -2225,6 +2271,7 @@ TOCTTOU	time of check to time of use
 TOD	time of day
 TOEFL	test of english as a foreign language
 TOH	to other half
+TOM	Tunnelling of Messages
 TOS	terms of service
 TOS	the (atari) operating system
 TOS	trusted operating system
@@ -2238,6 +2285,8 @@ TPTB	the person to bug
 TPTB	the powers that be
 TR	task register
 TR	token ring
+TRAU	Transcoding Rate and Adaption Unit
+TRI	three-
 TRL	timing recovery loop
 TRNG	true random number generator
 TRT	the right thing
@@ -2268,6 +2317,7 @@ TTYL	talk to you later
 TTYL8ER	tty (read) you later [usenet]
 TTYS	talk to you soon
 TUI	text user interface
+TUP	Telephone User Part
 TWAIN	thing without an interesting name
 TWDT	the whole damn thing
 TWIAVBP	the world is a very big place
@@ -2302,6 +2352,7 @@ UMB	upper memory block
 UML	unified modeling language
 UMPC	ultra-mobile PC
 UMR	uninitialised memory read
+UNI	one-
 UPNP	universal plug and play
 UPS	[gc] unnatural pile of sticks
 UPS	uninterruptible power supply
