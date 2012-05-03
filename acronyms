@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.152 2012/04/24 08:16:06 tg Exp $
+$MirOS: wtf/acronyms,v 1.153 2012/05/03 18:40:42 tg Exp $
 $NetBSD: acronyms,v 1.210 2012/03/06 17:04:54 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.127 2011/08/29 16:28:38 jruoho Exp $
 1	one, on
@@ -244,6 +244,7 @@ BO	binary output
 BOAT	bring out another thousand (hole in the water you throw money into)
 BOATILAS	bend over and take it like a slut
 BOC	but of course
+BOCU	Binary Ordered Compression for Unicode
 BOF	beginning of file
 BOFH	bastard operator from hell
 BOGAHICA	bend over, grab ankles, here it comes again
@@ -455,6 +456,7 @@ DB	database
 DBA	dynamic bandwidth allocation
 DBB	data bus buffer
 DBC	design by contract
+DBCS	double-byte character set
 DBDDHKP	doof bleibt doof, da helfen keine Pillen
 DBEYR	don't believe everything you read
 DBL	dynamic buffer limiting
@@ -591,6 +593,7 @@ DYK	do you know?
 E-XER	extended XML encoding rules
 EABI	embedded-application binary interface
 EAP	extensible authentication protocol
+EBCDIC	Extended Binary Coded Decimal Interchange Code (cf. BCD)
 EBR	extended boot record
 ECC	error correction code
 ECL	emitter-coupled logic
@@ -655,6 +658,7 @@ ETLA	extended three letter acronym
 ETR	early to rise
 EU	European Union
 EU	execution unit
+EUC	Extended Unix Code
 EULA	end user licence agreement
 EWAG	experienced wild-ass guess
 EWE	Epilogue? What Epilogue? (usually in HP context)
@@ -846,6 +850,7 @@ GOT	global offset table
 GOWI	get on with it
 GPE	general purpose event
 GPF	general protection fault
+GPIO	General Purpose I/O
 GPL	GNU General Public License
 GPR	general purpose register
 GPRS	general packet radio service
@@ -931,6 +936,7 @@ HVM	hardware virtual machine
 HWRNG	hardware random number generator
 HZ	Hertz
 I C	I see
+I/O	input / output
 I2O	intelligent input/output
 IA	information assurance
 IAC	in any case
@@ -1109,6 +1115,7 @@ JGI	just got it
 JHD	just hit "delete"
 JIC	just in case
 JIHBED	it is word arabic == TOP AND POWER INTELLIGENT</quote> (a TNF joke)
+JIS	Japanese Institute for Standardisation
 JIT	just in time
 JJA	just joking around
 JK	just kidding
@@ -1146,6 +1153,7 @@ KMA	kill me already
 KMS	kernel-mode setting
 KNF	kernel normal form - https://www.mirbsd.org/man9/style
 KOD	kiss of death
+KOI	Код Обмена Информацией (Code for Information Exchange)
 KOS	kill on sight
 KP	kP = kein Peil (no idea, coll.)
 KPI	kernel programming interface
@@ -1269,6 +1277,7 @@ MADT	multiple APIC descriptor table
 MAP	Mobile Application Part
 MARC	http://marc.theaimsgroup.com/
 MB	megabyte
+MBCS	multi-byte character set
 MBR	master boot record
 MBS	megabits per second
 MBZ	must be zero
@@ -1975,6 +1984,8 @@ SATA	satan
 SATA	serial advanced technology attachment
 SB	sound blaster
 SBA	[gc] should be archived (needs archived)
+SBCS	single-board computer system
+SBCS	single-byte character set
 SBU	standard build unit
 SBZ	Sowjetische Besatzungszone
 SBZ	should be zero
@@ -1994,6 +2005,7 @@ SCNR	schulljung, connte nit rückhalten
 SCNR	sorry, could not resist
 SCP	secure copy
 SCSI	small computer system interface
+SCSU	Standard Compression Scheme for Unicode
 SCTP	stream control transmission protocol
 SDI	symbol deinterleave
 SDK	software development kit
@@ -2367,6 +2379,7 @@ USR	Unix System Resources
 USWC	uncacheable speculative write combining
 UT	unit test
 UTC	coordinated universal time
+UTF	Unicode Translation Form
 UTFG	use the fscking google
 UTFS	use the {fine,fucking} source
 UTP	unshielded twisted pair
