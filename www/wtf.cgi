@@ -1,5 +1,5 @@
 #!/usr/bin/perl -T
-my $rcsid = '$MirOS: wtf/www/wtf.cgi,v 1.4 2012/05/15 20:34:09 tg Exp $';
+my $rcsid = '$MirOS: wtf/www/wtf.cgi,v 1.5 2012/05/15 20:37:31 tg Exp $';
 #-
 # Copyright © 2012
 #	Thorsten Glaser <tg@mirbsd.org>
@@ -102,10 +102,9 @@ if ($query ne "") {
 		    tohtml($query) . "” means…</p>\n";
 	}
 
-	$output .= "<form action=\"https://duckduckgo.com/?kp=-1&#38;kl=wt-wt&#38;kb=t&#38;kh=1&#38;kj=g2&#38;km=l&#38;ka=monospace&#38;ku=1&#38;ko=s&#38;k1=-1&#38;kv=1&#38;t=debian\" method=\"post\">" .
-	    "<p><input type=\"hidden\" name=\"q\" value=\"" . $enc .
+	$output .= "<p>\n <input type=\"hidden\" name=\"q\" value=\"" . $enc .
 	    "\" /><input type=\"submit\" value=\"Search the web for: " .
-	    $enc . "\" /></p></form>\n";
+	    $enc . "\" />";
 }
 close(ACRONYMS);
 
@@ -113,10 +112,10 @@ print "Content-Type: text/html; charset=utf-8\r\n\r\n";
 my $state = 0;
 foreach my $line (<TEMPLATE>) {
 	chomp($line);
-	if ($line eq '<!-- wtf-begin -->') {
+	if ($line eq '<!-- wtf-result begin -->') {
 		$state = 1;
 	}
-	if ($line eq '<!-- wtf-result -->') {
+	if ($line eq '<!-- wtf-result end -->') {
 		$line = $output;
 		$state = 0;
 	}
