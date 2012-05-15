@@ -1,5 +1,5 @@
 #!/usr/bin/perl -T
-my $rcsid = '$MirOS: wtf/www/wtf.cgi,v 1.3 2012/05/15 20:21:21 tg Exp $';
+my $rcsid = '$MirOS: wtf/www/wtf.cgi,v 1.4 2012/05/15 20:34:09 tg Exp $';
 #-
 # Copyright © 2012
 #	Thorsten Glaser <tg@mirbsd.org>
@@ -110,16 +110,20 @@ if ($query ne "") {
 close(ACRONYMS);
 
 print "Content-Type: text/html; charset=utf-8\r\n\r\n";
+my $state = 0;
 foreach my $line (<TEMPLATE>) {
 	chomp($line);
+	if ($line eq '<!-- wtf-begin -->') {
+		$state = 1;
+	}
 	if ($line eq '<!-- wtf-result -->') {
-		print $output;
-		next;
+		$line = $output;
+		$state = 0;
 	}
 	if ($line =~ /rcsdiv.*rcsid/) {
 		$line =~ s!\Q</p>\E! by <span class=\"rcsid\">$rcsid</span>$&!;
 	}
-	print $line . "\n";
+	print $line . "\n" unless $state;
 }
 close(TEMPLATE);
 exit(0);
