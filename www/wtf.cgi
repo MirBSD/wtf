@@ -1,5 +1,5 @@
 #!/usr/bin/perl -T
-my $rcsid = '$MirOS: wtf/www/wtf.cgi,v 1.2 2012/05/15 20:18:46 tg Exp $';
+my $rcsid = '$MirOS: wtf/www/wtf.cgi,v 1.3 2012/05/15 20:21:21 tg Exp $';
 #-
 # Copyright © 2012
 #	Thorsten Glaser <tg@mirbsd.org>
@@ -83,7 +83,13 @@ if ($query ne "") {
 	$enc =~ s/\"/&#34;/g;
 	$query = uc($query);
 	$query =~ y/äü/ÄÜ/;
-	#…
+
+	foreach my $line (<ACRONYMS>) {
+		chomp($line);
+		if ($line =~ /^\Q$query	\E(.*)$/) {
+			push(@results, $1);
+		}
+	}
 
 	if (@results > 0) {
 		$output = "<h2>Results for " . tohtml($query) . "</h2>\n<ul>\n";
