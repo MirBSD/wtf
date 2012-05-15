@@ -1,5 +1,5 @@
 #!/usr/bin/perl -T
-my $rcsid = '$MirOS: wtf/www/wtf.cgi,v 1.5 2012/05/15 20:37:31 tg Exp $';
+my $rcsid = '$MirOS: wtf/www/wtf.cgi,v 1.6 2012/05/15 20:39:33 tg Exp $';
 #-
 # Copyright © 2012
 #	Thorsten Glaser <tg@mirbsd.org>
@@ -113,7 +113,8 @@ my $state = 0;
 foreach my $line (<TEMPLATE>) {
 	chomp($line);
 	if ($line eq '<!-- wtf-result begin -->') {
-		$state = 1;
+		$state = 1 unless $query eq "";
+		next;
 	}
 	if ($line eq '<!-- wtf-result end -->') {
 		$line = $output;
