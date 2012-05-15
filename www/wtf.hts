@@ -1,0 +1,17 @@
+# This file is part of the website of The MirOS Project, which is
+# copyrighted material, please read the LICENCE file for details.
+
+mws_setname wtf "WTF acronym database"
+mws_setheadline "What the Fuck‽"
+mws_putheader '$MirOS: wtf/www/wtf.hts,v 1.1 2012/05/15 20:10:11 tg Exp $'
+mws_content <<'EOF'
+<h2>Query the WTF acronym database</h2>
+<form action="@@RELPATH@@wtf.cgi" method="get"><p>
+ <input type="text" name="q" size="64" maxlength="255" />
+ <input type="submit" />
+</p></form>
+
+<!-- wtf-result -->
+EOF
+mws_putfooter
+exit 0
