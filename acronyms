@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.156 2012/05/20 16:31:44 tg Exp $
+$MirOS: wtf/acronyms,v 1.157 2012/05/20 20:24:09 tg Exp $
 $NetBSD: acronyms,v 1.210 2012/03/06 17:04:54 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.127 2011/08/29 16:28:38 jruoho Exp $
 1	one, on
@@ -1778,6 +1778,7 @@ POS	piece of shit
 POS	point of sale
 POSIX	portable operating system interface [for] unix
 POST	power on self test
+POSUX	see POSIX and SUX
 POTS	plain old telephone system
 POV	point of view
 POWER	performance optimisation with enhanced RISC (as in IBM's POWER CPUs)
