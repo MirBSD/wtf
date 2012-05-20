@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.154 2012/05/03 18:41:31 tg Exp $
+$MirOS: wtf/acronyms,v 1.155 2012/05/20 13:25:56 tg Exp $
 $NetBSD: acronyms,v 1.210 2012/03/06 17:04:54 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.127 2011/08/29 16:28:38 jruoho Exp $
 1	one, on
@@ -237,6 +237,7 @@ BLOB	binary large object
 BM	bus master
 BMC	baseboard management controller
 BMIC	bus master interface controller
+BMZ	Brandmeldezentrale
 BN	boundary neutral
 BNF	Backus-Naur form
 BNYA	burned now you are
@@ -479,7 +480,7 @@ DDE	dynamic data exchange
 DDG	duck duck go (search engine)
 DDK	device driver kit
 DDL	data description language
-DDPO	Debian developer's package overview (http://qa.debian.org/developer.php)
+DDPO	Debian developer's package overview -- http://qa.debian.org/developer.php
 DDR	double data rate
 DDS	Doctor of Dental Surgery
 DDS	direct digital sound
@@ -683,6 +684,7 @@ FDIK	Volker Birk (VB)
 FEA	finite element analysis
 FEAR	false evidence appearing real
 FEC	forward error correction
+FEFE	Felix von Leitner -- http://www.fefe.de/
 FET	field-effect transistor
 FFH	functional fixed hardware
 FFI	foreign function interface
@@ -719,6 +721,10 @@ FMR	false match rate
 FMT	Facility Management Technology
 FNO	for nerds only
 FNO	from now on
+FNORD	For No Other Reason Dischord
+FNORD	fnord
+FNORD	typographic representation of disinformation or irrelevant information intending to misdirect, with the implication of a worldwide conspiracy
+FNORD	webserver by Fefe
 FOAD	fall over and die
 FOAD	fuck off and die
 FOC	free of charge
@@ -912,6 +918,7 @@ HHOS	ha ha, only serious
 HICA	here it comes again
 HID	human interface device
 HIPPO	highest paid person's opinion
+HIRD	HURD of Interfaces Representing Depth
 HLL	high-level language
 HMA	high memory area
 HMI	human-machine interface
@@ -932,6 +939,8 @@ HTT	hyper-threading technology
 HTTP	Hot Tits Transport Pr0nocol
 HTTP	hyper-text transfer protocol
 HTTPS	hyper-text transfer protocol, ssl secured
+HURD	HIRD of Unix-Replacing Daemons
+HURD	the GNU operating system kernel (herd of gnus)
 HVM	hardware virtual machine
 HWRNG	hardware random number generator
 HZ	Hertz
@@ -1029,7 +1038,8 @@ IOCTL	input/output control
 IOMMU	input/output memory management unit
 IOU	I owe you (debt)
 IOW	in other words
-IP	Internet Protocol
+IP	Internet Protocol (IPv6)
+IP	Legacy IP (IPv4)
 IP	intellectual property
 IPC	interprocess communication
 IPE	integrated programming environment
@@ -1100,8 +1110,8 @@ IYSWIM	if you see what I mean
 J/K	just kidding
 JAJAJAJA	yes yes yes yes (common German expression in OpenBSD development)
 JAM	just a minute
-JARGON	hacker slang collection - http://catb.org/~esr/jargon/
-JARGON	hacker slang, censored - http://catb.org/~esr/jargon/chaff.html
+JARGON	hacker slang collection -- http://catb.org/~esr/jargon/
+JARGON	hacker slang, censored -- http://catb.org/~esr/jargon/chaff.html
 JAS	just a second
 JBOD	just a bunch of disks
 JFET	junction [gate] field-effect transistor
@@ -1151,7 +1161,7 @@ KMA	keep me advised
 KMA	keep moving ahead
 KMA	kill me already
 KMS	kernel-mode setting
-KNF	kernel normal form - https://www.mirbsd.org/man9/style
+KNF	kernel normal form -- https://www.mirbsd.org/man9/style
 KOD	kiss of death
 KOI	Код Обмена Информацией (Code for Information Exchange)
 KOS	kill on sight
@@ -1275,7 +1285,7 @@ MAC	medium access control
 MAD	mutually assured destruction
 MADT	multiple APIC descriptor table
 MAP	Mobile Application Part
-MARC	http://marc.theaimsgroup.com/
+MARC	mailing list archives -- http://marc.theaimsgroup.com/
 MB	megabyte
 MBCS	multi-byte character set
 MBR	master boot record
@@ -1438,6 +1448,7 @@ MS	Microsoft
 MSB	most significant bit [or: byte]
 MSE	mean square error
 MSF	minutes seconds frames
+MSG	message
 MSI	message signaled interrupt
 MSI	modified, shared, invalid
 MSIE	Microsoft Slaves' Incessant Exasperation
@@ -1460,6 +1471,7 @@ MUC	multi user chat (jabber/xmpp equivalent to irc channel)
 MUD	multi-user domain
 MUD	multi-user dungeon
 MUGGLE	[gc] person not knowing about geocaching
+MULTICS	Multiplexed Information and Computing Service
 MVCC	multiversion concurrency control
 MVS	Multiple Virtual Systems
 MWDW	Mach' was Du willst!
@@ -1477,8 +1489,11 @@ NACK	negative acknowledgement
 NAFAIK	not as far as I know
 NAK	negative acknowledgement (see ACK)
 NAN	not a number
+NAS	Network Audio System
 NAS	network attached storage
 NAT	network address translation
+NATO	North Atlantic Treaty Organisation
+NATO	Organisation du traité de l'Atlantique Nord
 NAV	network allocation vector
 NBC	National Broadcasting Company (USA)
 NBD	network block device
@@ -1577,6 +1592,8 @@ OCR	optical character recognition
 OCTA	eight-
 ODCM	on-demand clock modulation
 ODT	on-die termination
+OE	Microsoft Outlook Expreß (Windows built-in MUA/newsreader)
+OE	operating environment
 OEM	original equipment manufacturer
 OFC	original female character (OC)
 OFDM	orthogonal frequency division multiplexing
@@ -1714,6 +1731,7 @@ PIO	programmed input/output
 PIPT	physically indexed, physically tagged
 PIQ	prefetch input queue
 PIT	programmable interrupt timer
+PITA	bread used to eat Gyros in
 PITA	pain in the arse
 PIV	personal identity verification
 PKCS	public-key cryptography standards
@@ -1752,6 +1770,7 @@ POF	probability of failure
 POI	[gc] point of interest
 POLA	principle of least astonishment
 POLS	principle of least surprise
+POP	point of presence
 POP	post office protocol
 POP	power on password
 POS	piece of shit
@@ -1910,7 +1929,7 @@ RTF	rich text format
 RTFB	read the fine/fucking book
 RTFC	read the fine/fucking code (see also UTFS)
 RTFD	read the fine/fucking documentation
-RTFJF	read the fine jargon file: http://www.catb.org/~esr/jargon/
+RTFJF	read the fine jargon file -- http://www.catb.org/~esr/jargon/
 RTFM	read the fine/fucking manual
 RTFMF	read the fucking Makefile
 RTFMP	read the fine/fucking man page
@@ -2023,15 +2042,16 @@ SFA	sweet fuck all
 SFAICT	so far as I can tell
 SFC	sequential function chart
 SFI	simple firmware interface
+SFW	Sun freeware
 SFW	safe for work
 SGRAM	synchronous graphics random access memory
 SH	Bourne Shell
 SH	POSIX Shell
 SH	Shell
 SHID	slaps head in disgust
-SHIT	FSF - Shit happens: http://www.fsf.org/fun/jokes/shit-happens.html
-SHIT	FSF - Shit part 2: http://www.fsf.org/fun/jokes/more-shit.html
-SHIT	FSF - Shit part 3: http://www.fsf.org/fun/jokes/religions.html
+SHIT	FSF - Shit happens -- http://www.fsf.org/fun/jokes/shit-happens.html
+SHIT	FSF - Shit part 2 -- http://www.fsf.org/fun/jokes/more-shit.html
+SHIT	FSF - Shit part 3 -- http://www.fsf.org/fun/jokes/religions.html
 SHOK	smashing head on keyboard
 SIEMENS	Schon Im Ersten Moment Eigenartiger Nichtfunktionierender Scheiß
 SIEMENS	Sicher Ist Eins: Man Erhält Nur Schrott
@@ -2266,6 +2286,7 @@ TM	thermal monitor
 TM	trademark
 TM	trust me
 TMA	too many abbreviations
+TMBO	this might be offensive
 TMDS	transition minimised differential signaling
 TMG	too much government
 TMI	too much information
@@ -2366,6 +2387,8 @@ UML	unified modeling language
 UMPC	ultra-mobile PC
 UMR	uninitialised memory read
 UNI	one-
+UNIX	(Uniplexed Information and Computing System, pun on MULTICS)
+UNIX	(bootloader for games written by Ken Thompson et al.)
 UPNP	universal plug and play
 UPS	[gc] unnatural pile of sticks
 UPS	uninterruptible power supply
@@ -2490,6 +2513,10 @@ WOMBAT	waste of money, brain, and time
 WOR	wake on ring
 WORM	write once, read many (CD-R predecessor)
 WORN	write once, read never (usually bad code)
+WOW	(exclamation of amazement)
+WOW	Windows on Windows (ABI wrapper)
+WOW	World of Warcraft (clinically addictive online game)
+WOW	words of wisdom
 WP	WordPerfect
 WP	[gc] waypoint
 WP	word processor
@@ -2510,6 +2537,7 @@ WTS	{want,willing,waiting} to sell
 WTT	{want,willing,waiting} to trade
 WTX	Workstation Technology Extended
 WWAN	wireless wide area network
+WWE	World Wrestling Entertainment, Inc.
 WWJD	what would Jesus do?
 WWW	weltweit warten
 WWW	world wide waiting
