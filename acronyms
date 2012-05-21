@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.157 2012/05/20 20:24:09 tg Exp $
+$MirOS: wtf/acronyms,v 1.158 2012/05/21 08:25:02 tg Exp $
 $NetBSD: acronyms,v 1.210 2012/03/06 17:04:54 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.127 2011/08/29 16:28:38 jruoho Exp $
 1	one, on
@@ -1941,7 +1941,11 @@ RTFS	read the fine/fucking source
 RTFS	read the fine/fucking spec
 RTFWS	read the {fine,fucking} web site
 RTFWS	return to frankensteins wooly sheep
+RTL	(kurz über Bodenniveau; die NICs genauso wie das TV-Programm)
+RTL	Radio Téle Luxembourg
+RTL	Realtek (NIC vendor)
 RTL	resistor-transistor logic
+RTL	richtig träges LAN
 RTOS	real time operating system
 RTS	ready to send
 RTS	request to send
@@ -2354,6 +2358,7 @@ TTYL8ER	tty (read) you later [usenet]
 TTYS	talk to you soon
 TUI	text user interface
 TUP	Telephone User Part
+TV	television
 TWAIN	thing without an interesting name
 TWDT	the whole damn thing
 TWIAVBP	the world is a very big place
