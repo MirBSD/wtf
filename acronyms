@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.159 2012/05/21 13:28:23 tg Exp $
+$MirOS: wtf/acronyms,v 1.160 2012/05/21 18:27:40 tg Exp $
 $NetBSD: acronyms,v 1.210 2012/03/06 17:04:54 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.127 2011/08/29 16:28:38 jruoho Exp $
 1	one, on
@@ -2344,6 +2344,7 @@ TSP	time synchronisation protocol
 TSP	traveling salesman problem
 TSP	tunnel service provider
 TSP	tunnel setup protocol
+TSS	Time-Sharing System
 TSS	task state segment
 TTBOMK	to the best of my knowledge
 TTF	[gc] third to find
@@ -2480,6 +2481,8 @@ WAFWOT	what a foolish waste of time
 WAG	wild-ass guess
 WAMP	Windows Apache MySQL {Perl,PHP,Python}
 WAMPP	Windows Apache MySQL {Perl,PHP,Python}
+WAN	Wondering about Networking
+WAN	we are noobs (newbies)
 WAN	wide area network
 WAP	Wireless Access Point
 WAP	wireless application protocol
