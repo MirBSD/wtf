@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.163 2012/05/28 00:38:57 tg Exp $
+$MirOS: wtf/acronyms,v 1.164 2012/06/06 12:31:51 tg Exp $
 $NetBSD: acronyms,v 1.210 2012/03/06 17:04:54 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.127 2011/08/29 16:28:38 jruoho Exp $
 1	one, on
@@ -314,6 +314,7 @@ CAD	computer-aided design
 CAM	computer-aided (or -assisted) manufacturing
 CAM	conditional access module
 CAM	content addressable memory
+CAPTCHA	Completely Automated Public Turing test to tell Computers and Humans Apart
 CARP	common address redundancy protocol
 CAS	(atomic) compare and swap
 CAS	column address strobe
