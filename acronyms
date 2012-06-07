@@ -1,6 +1,7 @@
-$MirOS: wtf/acronyms,v 1.165 2012/06/07 01:14:21 tg Exp $
+$MirOS: wtf/acronyms,v 1.166 2012/06/07 17:25:38 tg Exp $
 $NetBSD: acronyms,v 1.210 2012/03/06 17:04:54 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.127 2011/08/29 16:28:38 jruoho Exp $
+$miros: src/sys/sys/errno.h,v 1.8 2008/12/10 20:08:39 tg Exp $
 1	one, on
 10Q	thank you
 10X	tenx (thanks)
@@ -595,45 +596,107 @@ DWYW	do what you want
 DWZ	dat wil zeggen?
 DYK	do you know?
 E-XER	extended XML encoding rules
+E2BIG	(#7) Argument list too long
 EABI	embedded-application binary interface
+EACCES	(#13) Permission denied
+EADDRINUSE	(#48) Address already in use
+EADDRNOTAVAIL	(#49) Can't assign requested address
+EAFNOSUPPORT	(#47) Address family not supported by protocol family
+EAGAIN	(#35) Resource temporarily unavailable
+EALREADY	(#37) Operation already in progress
 EAP	extensible authentication protocol
+EAUTH	(#80) Authentication error
+EBADF	(#9) Bad file descriptor
+EBADRPC	(#72) RPC struct is bad
 EBCDIC	Extended Binary Coded Decimal Interchange Code (cf. BCD)
 EBR	extended boot record
+EBUSY	(#16) Device busy
 ECC	error correction code
+ECHILD	(#10) No child processes
 ECL	emitter-coupled logic
 ECN	explicit congestion notification
+ECONNABORTED	(#53) Software caused connection abort
+ECONNREFUSED	(#61) Connection refused
+ECONNRESET	(#54) Connection reset by peer
 ECP	enhanced capability port
 ECR	electronic cash register
 ECS	enhanced chip set
 ECS	extended configuration space
 EDAT	enhanced dynamic acceleration technology
+EDEADLK	(#11) Resource deadlock avoided
+EDESTADDRREQ	(#39) Destination address required
 EDGE	explicit data graph execution
 EDID	extended display identification data
 EDO	extended data out
+EDOM	(#33) Numerical argument out of domain
+EDQUOT	(#69) Disk quota exceeded
 EDS	electronical data sheet
 EDS	eternal downward spiral
 EEPROM	electrically erasable programmable read only memory
+EEXIST	(#17) File exists
+EFAULT	(#14) Bad address
+EFBIG	(#27) File too large
 EFI	extensible firmware interface
 EFL	emitter follower logic
 EFM	eight to fourteen modulation
 EFT	electronic funds transfer
+EFTYPE	(#79) Inappropriate file type or format
 EG	evil grin
 EGA	enhanced graphics adapter
 EGID	effective group ID
 EGP	exterior gateway protocol
 EH	extension header
+EHOSTDOWN	(#64) Host is down
+EHOSTUNREACH	(#65) No route to host
 EIDE	enchanced IDE
 EIE	enough is enough
+EILSEQ	(#84) Illegal byte sequence
+EINPROGRESS	(#36) Operation now in progress
+EINTR	(#4) Interrupted system call
+EINVAL	(#22) Invalid argument
+EIO	(#5) Input/output error
+EIPSEC	(#82) IPsec processing failure
 EISA	extended industry standard architecture
+EISCONN	(#56) Socket is already connected
+EISDIR	(#21) Is a directory
 ELF	endless long to wait for
 ELF	executable and linking format
 ELF	extrem langsames Format
+ELOOP	(#62) Too many levels of symbolic links
 ELS	entry level system
 ELWMS	Eierlegende Wollmilchsau
+EMFILE	(#24) Too many open files
 EMI	electro-magnetic interference
+EMLINK	(#31) Too many links
 EMP	electro-magnetic pulse
 EMR	electro-magnetic radiation
 EMSG	email message
+EMSGSIZE	(#40) Message too long
+ENAMETOOLONG	(#63) File name too long
+ENEEDAUTH	(#81) Need authenticator
+ENETDOWN	(#50) Network is down
+ENETRESET	(#52) Network dropped connection on reset
+ENETUNREACH	(#51) Network is unreachable
+ENFILE	(#23) Too many open files in system
+ENOATTR	(#83) Attribute not found
+ENOBUFS	(#55) No buffer space available
+ENOCOFFEE	(#85) Programmer needs more coffee
+ENODEV	(#19) Operation not supported by device
+ENOENT	(#2) No such file or directory
+ENOEXEC	(#8) Exec format error
+ENOLCK	(#77) No locks available
+ENOMEM	(#12) Cannot allocate memory
+ENOPROTOOPT	(#42) Protocol not available
+ENOSPC	(#28) No space left on device
+ENOSYS	(#78) Function not implemented
+ENOTBLK	(#15) Block device required
+ENOTCONN	(#57) Socket is not connected
+ENOTDIR	(#20) Not a directory
+ENOTEMPTY	(#66) Directory not empty
+ENOTSOCK	(#38) Socket operation on non-socket
+ENOTSUP	(=EOPNOTSUPP) Operation not supported
+ENOTTY	(#25) Inappropriate ioctl for device
+ENXIO	(#6) Device not configured
 EOB	end of business [day]
 EOD	end of day
 EOD	end of discussion
@@ -642,32 +705,58 @@ EOI	end of interrupt
 EOL	end of life
 EOL	end of line
 EOM	end of message
+EOPNOTSUPP	(#45) Operation not supported
 EOS	end of story
 EOT	end of transmission
+EOVERFLOW	(=ERANGE) Result too large
+EPERM	(#1) Operation not permitted
+EPFNOSUPPORT	(#46) Protocol family not supported
 EPIC	explicitly parallel instruction computing
+EPIPE	(#32) Broken pipe
 EPP	enhanced parallel port
 EPRML	extended partial response, maximum likelihood
+EPROCLIM	(#67) Too many processes
+EPROCUNAVAIL	(#76) Bad procedure for program
+EPROGMISMATCH	(#75) Program version wrong
+EPROGUNAVAIL	(#74) RPC prog. not avail
 EPROM	erasable programmable read only memory
+EPROTONOSUPPORT	(#43) Protocol not supported
+EPROTOTYPE	(#41) Protocol wrong type for socket
+ERANGE	(#34) Result too large
 ERD	emergency recovery disk
 ERE	extended regular expression
+EREMOTE	(#71) Too many levels of remote in path
+EROFS	(#30) Read-only file system
+ERPCMISMATCH	(#73) RPC version wrong
 ESCON	Enterprise Systems Connection
 ESDRAM	enhanced synchronous dynamic random access memory
+ESHUTDOWN	(#58) Can't send after socket shutdown
+ESOCKTNOSUPPORT	(#44) Socket type not supported
+ESPIPE	(#29) Illegal seek
 ESR	Eric Steven Raymond -- http://www.catb.org/~esr/
+ESRCH	(#3) No such process
 ESS	electronic switching system
 EST	enhanced speedstep
+ESTALE	(#70) Stale NFS file handle
 ETA	edited to add
 ETA	estimated time of arrival (usually infinite)
 ETC	et cetera
+ETIMEDOUT	(#60) Operation timed out
 ETL	extract, transform, load
 ETLA	extended three letter acronym
+ETOOMANYREFS	(#59) Too many references: can't splice
 ETR	early to rise
+ETXTBSY	(#26) Text file busy
 EU	European Union
 EU	execution unit
 EUC	Extended Unix Code
 EUID	effective user ID
 EULA	end user licence agreement
+EUSERS	(#68) Too many users
 EWAG	experienced wild-ass guess
 EWE	Epilogue? What Epilogue? (usually in HP context)
+EWOULDBLOCK	(=EAGAIN) Operation would block
+EXDEV	(#18) Cross-device link
 F9	fine
 FAQ	frequently asked question
 FAT	file allocation table
