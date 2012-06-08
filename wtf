@@ -1,8 +1,8 @@
 #!/bin/mksh
-# $MirOS: wtf/wtf,v 1.17 2011/10/08 19:43:55 tg Exp $
+# $MirOS: wtf/wtf,v 1.18 2012/06/08 16:15:00 tg Exp $
 # $NetBSD: wtf,v 1.7 2000/11/21 00:18:52 soren Exp $
 #-
-# Copyright © 2002, 2003, 2004, 2006, 2007, 2008, 2010, 2011
+# Copyright © 2002, 2003, 2004, 2006, 2007, 2008, 2010, 2011, 2012
 #	Thorsten “mirabilos” Glaser <tg@mirbsd.org>
 #
 # Provided that these terms and disclaimer and all copyright notices
@@ -68,19 +68,6 @@ if (( use_ports )); then
 				    print -r -- "$a|${d%% \(uses*}"
 			done </usr/ports/INDEX
 		}
-	elif [[ -x $(whence -p apt-cache) ]]; then
-		# Debian Advanced Packaging Tool
-		binpkgs=packages
-		function ports_acquire_filtered {
-			apt-cache search -- "$1" | while read a b c; do
-				[[ $a = *"$1"* ]] && print -r -- "$a|$c"
-			done
-		}
-		function ports_acquire_unfiltered {
-			apt-cache search -- "$1" | while read a b c; do
-				print -r -- "$a|$c"
-			done
-		}
 	elif [[ -x $(whence -p yum) ]]; then
 		# Red Hat Yellowdog Updater Modified
 		binpkgs=RPMs
@@ -95,6 +82,19 @@ if (( use_ports )); then
 			yum search -q -- "$1" | \
 			    tr '\n' '' | sed 's/ *: / /g' | tr '' '\n' | \
 			    while read a b c; do
+				print -r -- "$a|$c"
+			done
+		}
+	elif [[ -x $(whence -p apt-cache) ]]; then
+		# Debian Advanced Packaging Tool
+		binpkgs=packages
+		function ports_acquire_filtered {
+			apt-cache search -- "$1" | while read a b c; do
+				[[ $a = *"$1"* ]] && print -r -- "$a|$c"
+			done
+		}
+		function ports_acquire_unfiltered {
+			apt-cache search -- "$1" | while read a b c; do
 				print -r -- "$a|$c"
 			done
 		}
