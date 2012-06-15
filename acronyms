@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.168 2012/06/12 17:28:07 tg Exp $
+$MirOS: wtf/acronyms,v 1.169 2012/06/15 08:12:30 tg Exp $
 $NetBSD: acronyms,v 1.210 2012/03/06 17:04:54 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.127 2011/08/29 16:28:38 jruoho Exp $
 $miros: src/sys/sys/errno.h,v 1.8 2008/12/10 20:08:39 tg Exp $
@@ -665,6 +665,12 @@ ELF	extrem langsames Format
 ELOOP	(#62) Too many levels of symbolic links
 ELS	entry level system
 ELWMS	Eierlegende Wollmilchsau
+EMACS	Easily Mangles Aborts Crashes And Stupifies
+EMACS	Editor MACroS
+EMACS	Eight Megabytes And Continuously Swapping
+EMACS	Emacs Makes A Computer Slow
+EMACS	Escape Meta Alt Ctrl Shift
+EMACS	Eventually Munches All Computer Storage
 EMFILE	(#24) Too many open files
 EMI	electro-magnetic interference
 EMLINK	(#31) Too many links
@@ -2272,6 +2278,7 @@ SPI	serial peripheral interface
 SPI	stateful packet inspection
 SPIT	spam over internet telephony
 SPMD	single process, multiple data
+SPQR	senatus populusque romanus
 SPR	special purpose register
 SPT	sectors per track
 SQA	software quality assurance
@@ -2384,7 +2391,7 @@ TETRA	Trans-European Trunked Radio (old)
 TETRA	four-
 TF	... the fuck
 TFB	too fucking bad
-TFSMIF	Thank Flying Spaghetti Monster It's Friday
+TFSMIF	Thank the Flying Spaghetti Monster It's Friday
 TFT	thin film transistor
 TFTC	[gc] thanks for the cache
 TFTC	thanks for the cache
@@ -2399,6 +2406,8 @@ TIA	thanks in advance
 TIAS	try it and see
 TIAVP	this is a volunteer project
 TIC	tonque in cheek
+TIDH	Tausender in die Hand
+TIDH	Tritt in den Hintern
 TIFF	tagged image file format
 TIFF	thousand incompatible file formats
 TIL	today I learned
@@ -2492,6 +2501,7 @@ TSS	task state segment
 TTBOMK	to the best of my knowledge
 TTF	[gc] third to find
 TTFN	ta ta for now
+TTFSMIF	Thank The Flying Spaghetti Monster It's Friday
 TTL	time to live
 TTL	transistor-transistor logic
 TTM	to the moderator
@@ -2592,7 +2602,9 @@ VG	volume group
 VGA	video graphics array
 VH	very helpful (lilo lingo, from IRC)
 VHDCI	very high density cable interconnect
+VI	it’s e̲d̲itor, *not* v̲i̲itor! don’t use it!
 VID	voltage level identifier
+VIM	it’s e̲d̲itor, *not* v̲i̲itor! (and vim’s worse.) don’t use it!
 VIP	very important person
 VIPT	virtually indexed, physically tagged
 VIVT	virtually indexed, virtually tagged
@@ -2745,3 +2757,4 @@ ZIF	zero insertion force
 ZIFS	zero insertion force socket
 ZMA	zone multicast address
 ZSH	Z Shell
+^_^	(emoticon of… bemusement?)
