@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.169 2012/06/15 08:12:30 tg Exp $
+$MirOS: wtf/acronyms,v 1.170 2012/06/26 18:44:12 tg Exp $
 $NetBSD: acronyms,v 1.210 2012/03/06 17:04:54 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.127 2011/08/29 16:28:38 jruoho Exp $
 $miros: src/sys/sys/errno.h,v 1.8 2008/12/10 20:08:39 tg Exp $
@@ -180,6 +180,7 @@ BAMPP	BSD Apache MySQL {Perl,PHP,Python}
 BAR	base address register
 BASH	GNU Bourne-Again Shell
 BASIC	beginners' all-purpose symbolic instruction code (_the_ programming language per se)
+BAU	business as usual
 BBC	British Broadcasting Company
 BBIAB	be back in a bit
 BBIAF	be back in a few
@@ -453,6 +454,7 @@ DAC	digital [to] analog converter
 DAC	discretionary access control
 DAEMON	disk and execution monitor
 DAEMON	that cuddly red BSD mascot)
+DAFUQ	... the fuck
 DAO	disk at once
 DAP	directory access protocol
 DAT	digital audio tape
@@ -2582,6 +2584,7 @@ VA	volt-ampere
 VAR	Volatile Access Region
 VAX	virtual address extension
 VB	Visual Basic
+VBEG	very big evil grin
 VCA	variable-gain amplifier
 VCC	common collector voltage
 VCF	Vintage Computing Festival
