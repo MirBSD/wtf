@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.170 2012/06/26 18:44:12 tg Exp $
+$MirOS: wtf/acronyms,v 1.171 2012/07/03 20:08:14 tg Exp $
 $NetBSD: acronyms,v 1.210 2012/03/06 17:04:54 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.127 2011/08/29 16:28:38 jruoho Exp $
 $miros: src/sys/sys/errno.h,v 1.8 2008/12/10 20:08:39 tg Exp $
@@ -1947,6 +1947,7 @@ QED	quod erat demonstrandum
 QFT	quoted for truth
 QOS	quality of service
 QOTD	quote of the day
+QR	Quick Reaction
 R	r, are
 R/O	read-only
 R/W	read-write
