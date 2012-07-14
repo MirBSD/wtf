@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.173 2012/07/14 11:29:39 tg Exp $
+$MirOS: wtf/acronyms,v 1.174 2012/07/14 12:31:28 tg Exp $
 $NetBSD: acronyms,v 1.210 2012/03/06 17:04:54 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.127 2011/08/29 16:28:38 jruoho Exp $
 $miros: src/sys/sys/errno.h,v 1.8 2008/12/10 20:08:39 tg Exp $
@@ -63,7 +63,11 @@ ACS	access control set
 ACU	automatic calling unit
 ADB	Apple desktop bus
 ADC	analog [to] digital converter
+ADD	Attention Deficit Disorder
 ADD	acronym driven development
+ADH	Aufmerksamkeitsdefizitsyndrom (cf. ADD)
+ADHD	Attention Deficit Disorder in combination with hyperactivity
+ADHS	Aufmerksamkeitsdefizitsyndrom in Komorbidität mit Hyperaktivität (cf. ADHD)
 ADN	any day now
 ADO	active data objects
 ADP	automatic data processing
@@ -91,6 +95,7 @@ AFK	away from keyboard
 AFS	Andrew File System
 AFU	all fucked up
 AFW	away from window
+AG	[Schule DE] Arbeitsgemeinschaft
 AGC	automatic gain control
 AGM	annual general meeting
 AGP	accelerated graphics port
@@ -129,6 +134,7 @@ AP	application processor
 API	application programming interface
 APIC	advanced programmable interrupt controller
 APINKE	[gc] Another Place (originally Park, in the USA) I Never Knew Existed (spoken 'apinky')
+APOGOST	[Schule DE] Allgemeine Prüfungsordnung der Gymnasialen Oberstufe
 AQM	active queue management
 ARAT	always running APIC timer
 ARC	adaptive replacement cache
@@ -554,6 +560,8 @@ DLL	dynamic link library (shared object)
 DMA	direct memory access
 DMCA	(USA) digital milennium copyright act
 DMCA	don't make content accessible
+DMFS	[dental] decayed/missing/filled surfaces (lowercase for first dentition)
+DMFT	[dental] decayed/missing/filled teeth (lowercase for first dentition)
 DMI	desktop management interface
 DMS	document management system
 DMT	discrete multitone modulation
@@ -663,6 +671,7 @@ EDS	eternal downward spiral
 EDV	Elektronische Datenverarbeitung
 EEPROM	electrically erasable programmable read only memory
 EEXIST	(#17) File exists
+EF	[Schule DE] Einführungsphase (10. Klasse Gymnasium nach G8)
 EFAULT	(#14) Bad address
 EFBIG	(#27) File too large
 EFI	extensible firmware interface
@@ -688,6 +697,7 @@ EIPSEC	(#82) IPsec processing failure
 EISA	extended industry standard architecture
 EISCONN	(#56) Socket is already connected
 EISDIR	(#21) Is a directory
+EK	[Schule DE] Erweiterungskurs (gymnasialer Zweig der Gesamtschule)
 ELF	endless long to wait for
 ELF	executable and linking format
 ELF	extrem langsames Format
@@ -788,6 +798,7 @@ EUC	Extended Unix Code
 EUID	effective user ID
 EULA	end user licence agreement
 EUSERS	(#68) Too many users
+EVA	[Schule DE] Eigenverantwortliche Arbeit (auch Präsenz-EVA)
 EWAG	experienced wild-ass guess
 EWE	Epilogue? What Epilogue? (usually in HP context)
 EWOULDBLOCK	(=EAGAIN) Operation would block
@@ -839,6 +850,7 @@ FIIR	fuck[ed] if I remember
 FILO	first in, last out
 FIR	fast infrared
 FITB	fill in the blank
+FK	[Schule DE] Fachkonferenz
 FKA	formerly known as
 FLOPS	floating [point] operations per second
 FLOSS	(dental care product)
@@ -924,6 +936,8 @@ G	grin
 G/C	garbage collect{,ion}
 G2G	got to go
 G2K	good to know
+G8	[Schule DE] Gymnasialer Bildungszweig in 8 Schuljahren (Turbo-Abitur)
+G9	[Schule DE] Gymnasialer Bildungszweig in 9 Schuljahren
 GAC	get a clue
 GAL	generic array logic
 GAL	get a life
@@ -958,6 +972,7 @@ GIGO	garbage in, garbage out
 GIT	content addressable filesystem written by finnish study aborter
 GIYF	google is your friend
 GJ	good job
+GK	[Schule DE] Grundkurs
 GL	"gl hf" - geek l33t hack forever
 GL	"gl hf" - gentoo linux: hack freedumbly
 GL	"gl hf" - gentoo linux: hack freely
@@ -1018,6 +1033,7 @@ HA	high availability
 HAL	hardware abstraction layer
 HAND	have a nice day
 HAT	hashed array tree
+HAUFEN	Hauptschüler auf unterstem frei erreichbarem Niveau
 HBA	host bus adapter
 HBCI	half correct banking interface
 HBCI	hand codeded banking interface
@@ -1051,11 +1067,13 @@ HICA	here it comes again
 HID	human interface device
 HIPPO	highest paid person's opinion
 HIRD	HURD of Interfaces Representing Depth
+HLGK	[Schule DE] Hochleistungsgrundkurs (Grundkurs bei anspruchsvollem Lehrer)
 HLL	high-level language
 HMA	high memory area
 HMI	human-machine interface
 HNY	happy new year
 HOAS	hold on a second
+HONK	Hauptschüler ohne nennenswerte Kenntnisse
 HOOD	hierarchical object oriented design
 HP	Hewlett-Packard
 HPC	high performance computing
@@ -1359,6 +1377,7 @@ LINUX	life is not utterly exciting
 LIR	local internet registry
 LJ	LiveJournal
 LJBF	let's just be friends
+LK	[Schule DE] Leistungskurs
 LKM	Linux kernel module
 LKM	loadable kernel module
 LKML	linux-kernel mailing list (vger.rutgers.edu -> vger.kernel.org)
@@ -1785,6 +1804,8 @@ OSPF	open shortest path first
 OSPM	OS power management
 OSS	open sound system
 OSS	open source software
+OSTD	[Schule DE] Oberstudiendirektor
+OSTR	[Schule DE] Oberstudienrat
 OSVW	operating system visible workarounds
 OT	off topic
 OT	ohne Themenbezug
@@ -1938,6 +1959,7 @@ PPB	PCI [to] PCI bridge
 PPC	Pocket PC
 PPC	PowerPC
 PPI	pixels per inch
+PPL	[Schule DE] Praktische Philosophie
 PPL	people
 PPL	pretty please
 PPM	pages per minute
@@ -1968,13 +1990,17 @@ PTP	page table page
 PTV	parental tunnel vision
 PTV	perceived target value
 PU	processing unit
+PUK	[Schule DE] Pflichtunterricht im Klassenverband
 PUN	physical unit number
+PUT	[Schule DE] Pflichtunterricht in Teilklassen
 PV	physical volume
 PVG	physical volume group
 PVI	protected-mode virtual interrupt
 PWM	pulse width modulation
 PWP	Plot? What Plot?
 PXE	preboot execution environment
+Q1	[Schule DE] Qualifikationsphase 1 (11. Klasse Gymnasium nach G8)
+Q2	[Schule DE] Qualifikationsphase 2 (12. Klasse Gymnasium nach G8)
 Q2140	ITU-T Recommendation Q.2140 (B-ISDN ATM adaptation layer)
 QA	quality assurance
 QAM	quadrature amplitude modulation
@@ -2007,6 +2033,8 @@ RBT	red-black tree
 RC	release candidate
 RC	remote control
 RCS	revision control system
+RCT	[dental] Wurzelkanalbehandlung (vulg. "Wurzelfüllung")
+RCT	[dental] root canal treatment
 RCU	read, copy, update
 RCU	read-copy-update
 RDF	reality distortion field
@@ -2112,6 +2140,8 @@ RWM	read-write memory
 RX	receive, receiver
 RZ	Rechenzentrum (cf. DC)
 S/PDIF	Sony/Phillips digital interface
+S1	[Schule DE] Sekundarstufe 1 (Erprobungs- und Mittelstufe)
+S2	[Schule DE] Sekundarstufe 2 (Oberstufe)
 SA	security advisory
 SA	security association
 SA	source address
@@ -2269,6 +2299,7 @@ SLI	scan-line interleave
 SLOB	source BLOB
 SLOC	source lines of code
 SLRU	segmented LRU
+SLZ	[Schule DE] Selbstlernzentrum
 SMA	smart memory access
 SMAF	system management action field
 SMART	self-monitoring analysis and reporting technology
@@ -2309,6 +2340,7 @@ SOC	system on chip
 SOE	Standard Operating Environment (a spec, image, or build process that attempts (usually unsuccessfully) to produce identical machines, typically under the management of a central authority that does its damnedest to get in the way of useful work)
 SOF	start of frame
 SOHO	small office / home office
+SOL	[Schule DE] Soziales Lernen
 SOL	serial over LAN
 SOL	shit out [of] luck
 SOP	standard operating procedure
@@ -2350,6 +2382,7 @@ SSTO	single stage to orbit
 STC	software thermal control
 STD	Sexually Trasmittable Disease
 STD	Standard
+STD	[Schule DE] Sudiendirektor
 STD	state transition diagram
 STF	[gc] second to find
 STFA	search the f{s,u}cking archives
@@ -2358,6 +2391,8 @@ STFU	shut the fuck up
 STFW	search the fucking web
 STP	shielded twisted pair
 STP	spanning-tree protocol
+STR	[Schule DE] Studienrat
+STUBO	[Schule DE] Studien- und Berufsorientierung
 STW	search the web
 SUS	Single UNIX® Specification
 SUS	stupid user syndrome
@@ -2374,6 +2409,7 @@ SVR	System V Release
 SVR2	System V Release 2
 SVR3	System V Release 3
 SVR4	System V Release 4
+SVWS-NRW	[Schule DE] Obligatorische Schulverwaltungssoftware des Landes Nordrhein-Westfalen
 SWAG	silly, wild-assed guess
 SWAHBI	silly, wild-assed hare-brained idea
 SWAP	[gc] Some say this is short for "Stuff We All Get." Swag means the trade items that we swap at geocaches and carry in our backpacks.
@@ -2742,9 +2778,11 @@ WP	[gc] waypoint
 WP	word processor
 WP	write protect
 WPA	wi-fi protected access
+WPT	[Schule DE] Wahlpflichtunterricht in Teilklassen
 WRAM	window random access memory
 WRT	with respect to
 WS	web services
+WSR	[dental] Wurzelspitzenresektion
 WTB	{want,willing,waiting} to buy
 WTC	write through caching
 WTF	oh, it's me! *g*
