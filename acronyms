@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.172 2012/07/13 21:18:11 tg Exp $
+$MirOS: wtf/acronyms,v 1.173 2012/07/14 11:29:39 tg Exp $
 $NetBSD: acronyms,v 1.210 2012/03/06 17:04:54 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.127 2011/08/29 16:28:38 jruoho Exp $
 $miros: src/sys/sys/errno.h,v 1.8 2008/12/10 20:08:39 tg Exp $
@@ -17,6 +17,20 @@ $miros: src/sys/sys/errno.h,v 1.8 2008/12/10 20:08:39 tg Exp $
 4TW	for the win
 8	eight, ate
 8VSB	8-state vestigial side band modulation
+:'(	(emoticon: cry, with tears)
+:(	(emoticon: sad)
+:)	(emoticon: smile)
+:-(	(emoticon: sad)
+:-)	(emoticon: smile)
+:-D	(emoticon: laughing)
+:-P	(emoticon: tongue)
+:-o	(emoticon: shocked)
+:D	(emoticon: laughing)
+:P	(emoticon: tongue)
+:o	(emoticon: shocked)
+:o)	(emoticon: clown)
+;)	(emoticon: wink)
+;-)	(emoticon: wink)
 </3	emoticon (a broken heart)
 <3	emoticon (a heart)
 A/N	author's note
@@ -72,6 +86,7 @@ AFAIR	as far as I remember
 AFAIU	as far as I understand
 AFD	away from desktop
 AFF	AdultFanFiction.Net
+AFK	auffem Klo
 AFK	away from keyboard
 AFS	Andrew File System
 AFU	all fucked up
@@ -92,6 +107,7 @@ AKÜFI	Abkürzungsfimmel
 AL	access list
 AL	active link
 ALE	address latch enable
+ALF	Außerirdische Lebensform
 ALS	ambient light sensor
 ALU	arithmetic and logical unit
 AM	access method
@@ -105,6 +121,7 @@ AN	author's note (usually A/N)
 ANSI	American National Standards Institute
 AO	analog output
 AO3	Archive of Our Own (by the OTW) -- http://archiveofourown.org/
+AOL	America OnLine
 AOL	alert on LAN
 AOS	add or subtract
 AP	access point
@@ -277,6 +294,8 @@ BSD	Blobs Sind Doof
 BSD	basically secure and dependable
 BSD	big scary daemons
 BSD	booze, sex, drugs
+BSDA	BSD Associate (BSDCG exam)
+BSDCG	BSD Certification Group
 BSF	bit scan forward
 BSOD	blue screen of death
 BSP	binary space partition
@@ -437,7 +456,9 @@ CU	see you
 CUA	common user access
 CUI	(n)curses user interface
 CUT	coordinated universal time (UTC)
+CV	Lebenslauf
 CV	control voltage
+CV	curriculum vitae
 CVE	Common Vulnerabilities and Exposures
 CVS	concurrent versions system
 CW	[gc] CacheWolf
@@ -460,6 +481,7 @@ DAP	directory access protocol
 DAT	digital audio tape
 DAT	dynamic acceleration technology
 DB	database
+DBA	database administrator
 DBA	dynamic bandwidth allocation
 DBB	data bus buffer
 DBC	design by contract
@@ -469,6 +491,7 @@ DBEYR	don't believe everything you read
 DBL	dynamic buffer limiting
 DBMS	database management system
 DBS	database server
+DC	data centre
 DC	direct current
 DCC	direct cable connect
 DCC	direct client [to] client
@@ -587,6 +610,9 @@ DUP	Data User Part
 DUP	duplicate
 DUT	device under test
 DVB	digital video broadcasting
+DVB-C	digital video broadcasting over cable
+DVB-S	digital video broadcasting over satellite
+DVB-T	digital video broadcasting over terrestrial stations
 DVCS	distributed version control system
 DVD	digital versatile disc
 DVFS	dynamic voltage and frequency scaling
@@ -634,6 +660,7 @@ EDOM	(#33) Numerical argument out of domain
 EDQUOT	(#69) Disk quota exceeded
 EDS	electronical data sheet
 EDS	eternal downward spiral
+EDV	Elektronische Datenverarbeitung
 EEPROM	electrically erasable programmable read only memory
 EEXIST	(#17) File exists
 EFAULT	(#14) Bad address
@@ -1033,6 +1060,7 @@ HOOD	hierarchical object oriented design
 HP	Hewlett-Packard
 HPC	high performance computing
 HPET	high precision event timer
+HRZ	Hochschul-Rechenzentrum (cf. RZ)
 HSIW	HOLY SHIT IT WORKS
 HT	hyper-threading
 HTC	hardware thermal control
@@ -1359,8 +1387,12 @@ LOC	lines of code
 LOL	lachend, oba laut
 LOL	laughing out loud
 LP	Langspielplatte (Schallplatte)
+LP	[gc] Lost Place
 LP	long playing (record)
+LPC	[gc] Lost Place Cache
 LPC	low pin count
+LPI	Linux Professional Institute
+LPIC	Linux Professional Institute Certification
 LPS	local positioning system
 LRC	longitudinal redundancy check
 LRM	left-to-right mark
@@ -1372,6 +1404,7 @@ LSI	large scale integration
 LSL	load segment limit
 LSR	label switch router
 LTCC	low temperature co-fired ceramic
+LTF	[gc] last to find
 LTNS	long time no see
 LTO	link-time optimisation
 LTR	left to right
@@ -1610,6 +1643,7 @@ NBC	National Broadcasting Company (USA)
 NBD	network block device
 NBD	no big deal
 NC	[gc] navicache
+NC	[gc] night cache
 NC	not connected
 NC	numerical control
 NCO	numerically-controlled oscillator
@@ -1797,6 +1831,7 @@ PCI	peripheral component interconnect
 PCM	phase change memory
 PCM	pulse code modulation
 PCMCIA	personal computer memory card international association
+PCRE	Perl compatible regular expression
 PCS	pieces
 PD	public domain
 PDA	personal digital assistant
@@ -1812,6 +1847,7 @@ PDQ	pretty darn quick
 PDS	please don't shout
 PDS	product data sheet
 PDU	protocol data unit
+PE	physical education
 PE	protection enable
 PEBCAK	reverse'ism for PEBKAC
 PEBKAC	problem exists between keyboard and chair
@@ -1857,6 +1893,7 @@ PLONK	Poster liest Originalposter nicht konsequent
 PLRU	pseudo LRU
 PLTM	package level thermal management
 PLZ	please
+PM	[gc] premium member (on GC.com)
 PM	phase modulation
 PM	post meridiem
 PM	power management
@@ -1867,6 +1904,7 @@ PMFI	problem magically fixed itself
 PMFJI	pardon me for jumping in
 PMI	platform management interrupt
 PMIO	port-mapped input/output
+PMO	[gc] premium member only (restricted cache listing on GC.com)
 PMS	female monthly nightmare
 PMSL	pissing myself laughing
 PMT	photo-multiplier tube
@@ -2072,6 +2110,7 @@ RUP	rational unified process
 RW	read-write
 RWM	read-write memory
 RX	receive, receiver
+RZ	Rechenzentrum (cf. DC)
 S/PDIF	Sony/Phillips digital interface
 SA	security advisory
 SA	security association
@@ -2154,6 +2193,8 @@ SDL	simple declarative language
 SDR	software defined radio
 SDRAM	synchronous dynamic random access memory
 SDT	syntax-directed translation
+SE	Software Engineer
+SE	Support Engineer
 SECAM	Something Essentialy Contrary to the American Method
 SED	smoke emitting diode
 SEGV	segmentation violation
@@ -2379,6 +2420,7 @@ TCO	taken care of
 TCP	transmission control protocol
 TCQ	tagged command queueing
 TCSH	Tenex C Shell
+TD	table data (in HTML)
 TDC	time [to] digital converter
 TDD	test driven development
 TDD	time division duplex
@@ -2402,6 +2444,7 @@ TFTC	thanks for the cache
 TFTH	[gc] thanks for the hunt
 TFTP	trivial file transfer protocol
 TGIF	Thank God It's Friday
+TH	table head (in HTML)
 THGTTG	the hitchhiker's guide to the galaxy
 THNX	thanks
 THRB	thumb hits reset button
@@ -2424,6 +2467,7 @@ TINWIS	this is not what I said
 TIOOWTDI	There is only one way to do it
 TITS	try it to see
 TJM	that's just me
+TK	Telekommunikation
 TK	temporal key
 TL;DR	too long; didn't read
 TL;DS	too long; didn't see
@@ -2480,6 +2524,7 @@ TPR	task priority register
 TPS	transmission parameters signaling
 TPTB	the person to bug
 TPTB	the powers that be
+TR	table row (in HTML)
 TR	task register
 TR	token ring
 TRAU	Transcoding Rate and Adaption Unit
@@ -2633,6 +2678,7 @@ VRM	voltage regulator module
 VRRP	virtual router redundancy protocol
 VVV	Voilà, Vivement Vendredi
 VVV	veni, vidi, vici
+VVV	veni, vidi, vodka (Ich kam, sah und soff.)
 W	Watt
 W/	with
 W/O	without
@@ -2648,6 +2694,7 @@ WAN	we are noobs (newbies)
 WAN	wide area network
 WAP	Wireless Access Point
 WAP	wireless application protocol
+WARUM	darum (cf. WHY)
 WB	welcome back
 WCPGW	what could possibly go wrong
 WDT	watchdog timer
@@ -2718,7 +2765,7 @@ WWW	world wide web
 WYSIWYG	what you see is what you get
 W^X	either writable or executable, but not both (W xor X)
 XBAR	crossbar
-XD	;-) on español
+XD	(spanish emoticon: smile)
 XER	XML encoding rules
 XGA	extended graphics adapter
 XGA	extended graphics array
@@ -2761,6 +2808,7 @@ ZBUS	Zwischen Bildschirm und Stuhl
 ZFOD	zero-filled on demand
 ZIF	zero insertion force
 ZIFS	zero insertion force socket
+ZIM	Zentrum für Informations- und Medienverwaltung (cf. HRZ)
 ZMA	zone multicast address
 ZSH	Z Shell
-^_^	(emoticon of… bemusement?)
+^_^	(emoticon: bemusement)
