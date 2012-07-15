@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.177 2012/07/15 16:17:11 tg Exp $
+$MirOS: wtf/acronyms,v 1.178 2012/07/15 16:32:40 tg Exp $
 $NetBSD: acronyms,v 1.210 2012/03/06 17:04:54 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.127 2011/08/29 16:28:38 jruoho Exp $
 $miros: src/sys/sys/errno.h,v 1.8 2008/12/10 20:08:39 tg Exp $
@@ -10,6 +10,7 @@ $miros: src/sys/sys/errno.h,v 1.8 2008/12/10 20:08:39 tg Exp $
 224	today, tomorrow, forever
 2IC	second in charge
 31337	elite ("eleet")
+3GPP	3rd generation partnership project
 3LD	third-level domain
 3WHS	three-way handshake
 4	four, for
@@ -118,6 +119,7 @@ ALU	arithmetic and logical unit
 AM	access method
 AM	alignment mask
 AM	amplitude modulation
+AMC	Adaptive Modulation and Coding
 AMI	alternate mark inversion
 AMOL	a mountain of love
 AMT	active management technology
@@ -444,6 +446,7 @@ CS	cable select
 CS	chip select
 CS	code segment
 CS	computer science
+CSD	Circuit Switched Data
 CSH	C Shell
 CSI	channel state information
 CSI	common system interface
@@ -661,9 +664,13 @@ ECP	enhanced capability port
 ECR	electronic cash register
 ECS	enhanced chip set
 ECS	extended configuration space
+ECSD	HSCSD over EDGE
 EDAT	enhanced dynamic acceleration technology
 EDEADLK	(#11) Resource deadlock avoided
 EDESTADDRREQ	(#39) Destination address required
+EDGE	Enhanced Data rates for GSM Evolution
+EDGE	Enhanced GPRS (EGPRS)
+EDGE	IMT Single Carrier (IMT-SC)
 EDGE	explicit data graph execution
 EDID	extended display identification data
 EDO	extended data out
@@ -686,6 +693,7 @@ EG	evil grin
 EGA	enhanced graphics adapter
 EGID	effective group ID
 EGP	exterior gateway protocol
+EGPRS	Enhanced GPRS (GPRS over EDGE)
 EH	extension header
 EHOSTDOWN	(#64) Host is down
 EHOSTUNREACH	(#65) No route to host
@@ -794,6 +802,7 @@ ETL	extract, transform, load
 ETLA	extended three letter acronym
 ETOOMANYREFS	(#59) Too many references: can't splice
 ETR	early to rise
+ETSI	European Telecommunications Standards Institute
 ETXTBSY	(#26) Text file busy
 EU	European Union
 EU	execution unit
@@ -1022,6 +1031,8 @@ GRML	(Ausruf der Unzufriedenheit, z.B. mit dem Schicksal)
 GRML	austrian GNU/Linux live distribution, contains MirOS bsd4grml
 GSI	global system interrupt
 GSM	GPRS Session Management
+GSM	Global System for Mobile Communications
+GSM	Groupe Spécial Mobile
 GTFO	get the fuck out
 GTG	got to go
 GTH	go to hell
@@ -1035,6 +1046,7 @@ H8	hate
 HA	high availability
 HAL	hardware abstraction layer
 HAND	have a nice day
+HARQ	Hybrid Automatic Request
 HAT	hashed array tree
 HAUFEN	Hauptschüler auf unterstem frei erreichbarem Niveau
 HBA	host bus adapter
@@ -1082,7 +1094,10 @@ HP	Hewlett-Packard
 HPC	high performance computing
 HPET	high precision event timer
 HRZ	Hochschul-Rechenzentrum (cf. RZ)
+HSCSD	High Speed Circuit Switched Data
+HSDPA	High-Speed Downlink Packet Access
 HSIW	HOLY SHIT IT WORKS
+HSUPA	High-Speed Uplink Packet Access
 HT	hyper-threading
 HTC	hardware thermal control
 HTCC	high temperature co-fired ceramic
@@ -1187,6 +1202,7 @@ IMNSHO	in my not so humble opinion
 IMO	in my opinion
 IMR	interrupt mask register
 IMS	information management system
+IMT-SC	IMT Single Carrier = EDGE
 INCITS	international committee on information technology standards
 INPO	in no particular order
 IO	input/output
@@ -1427,6 +1443,7 @@ LSI	large scale integration
 LSL	load segment limit
 LSR	label switch router
 LTCC	low temperature co-fired ceramic
+LTE	Long Term Evolution
 LTF	[gc] last to find
 LTNS	long time no see
 LTO	link-time optimisation
@@ -1858,6 +1875,7 @@ PCM	phase change memory
 PCM	pulse code modulation
 PCMCIA	personal computer memory card international association
 PCRE	Perl compatible regular expression
+PCS	Personal Communications Services (the 1900 MHz band in the USA)
 PCS	pieces
 PD	public domain
 PDA	personal digital assistant
@@ -2640,6 +2658,7 @@ UMB	upper memory block
 UML	unified modeling language
 UMPC	ultra-mobile PC
 UMR	uninitialised memory read
+UMTS	Universal Mobile Telecommunications System
 UNI	one-
 UNIX	(Uniplexed Information and Computing System, pun on MULTICS)
 UNIX	(bootloader for games written by Ken Thompson et al.)
@@ -2723,6 +2742,7 @@ VVV	Voilà, Vivement Vendredi
 VVV	veni, vidi, vici
 VVV	veni, vidi, vodka (Ich kam, sah und soff.)
 W	Watt
+W-CDMA	Wideband Code Division Multiple Access
 W/	with
 W/O	without
 W00T	(exclamation of excitement or happiness)
@@ -2739,6 +2759,7 @@ WAP	Wireless Access Point
 WAP	wireless application protocol
 WARUM	darum (cf. WHY)
 WB	welcome back
+WCDMA	see W-CDMA
 WCPGW	what could possibly go wrong
 WDT	watchdog timer
 WDYM	what do you mean
