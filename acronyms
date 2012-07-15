@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.175 2012/07/15 10:13:45 tg Exp $
+$MirOS: wtf/acronyms,v 1.176 2012/07/15 10:14:55 tg Exp $
 $NetBSD: acronyms,v 1.210 2012/03/06 17:04:54 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.127 2011/08/29 16:28:38 jruoho Exp $
 $miros: src/sys/sys/errno.h,v 1.8 2008/12/10 20:08:39 tg Exp $
@@ -228,6 +228,7 @@ BDFL	Benevolent Dictator for Life
 BDI	bit deinterleave
 BDUF	big design up front
 BEDO	burst extended data output
+BENELUX	Belgium, Netherlands, Luxembourg
 BER	basic encoding rules
 BER	bit error {rate,ratio}
 BF	best friend
@@ -479,6 +480,7 @@ DAA	distributed application architecture
 DAB	digital audio broadcasting
 DAC	digital [to] analog converter
 DAC	discretionary access control
+DACH	D-A-CH: Germany, Austria, Switzerland
 DAEMON	disk and execution monitor
 DAEMON	that cuddly red BSD mascot)
 DAFUQ	... the fuck
