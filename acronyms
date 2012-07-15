@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.174 2012/07/14 12:31:28 tg Exp $
+$MirOS: wtf/acronyms,v 1.175 2012/07/15 10:13:45 tg Exp $
 $NetBSD: acronyms,v 1.210 2012/03/06 17:04:54 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.127 2011/08/29 16:28:38 jruoho Exp $
 $miros: src/sys/sys/errno.h,v 1.8 2008/12/10 20:08:39 tg Exp $
@@ -553,6 +553,7 @@ DIRT	design in real time
 DIY	do it yourself
 DJB	Dan J Bernstein -- http://cr.yp.to/
 DKDC	don't know, don't care
+DKIM	DomainKeys Identified Mail
 DL	diode logic
 DL	download
 DLE	data link escape
@@ -1401,6 +1402,7 @@ LMK	let me know
 LMM	link management mode
 LMNO	laughing my nuts off
 LMSO	laughing my socks off
+LMTP	Local Mail Transport Protocol
 LNO	loop nest optimisation
 LOC	lines of code
 LOL	lachend, oba laut
@@ -1607,6 +1609,7 @@ MPS	multiprocessor specification
 MR	modem ready
 MRU	most recently used
 MS	Microsoft
+MSA	Mail Submission Agent
 MSB	most significant bit [or: byte]
 MSE	mean square error
 MSF	minutes seconds frames
@@ -2351,6 +2354,7 @@ SPARK	annotated subset of Ada for formal verification
 SPARQL	SPARQL protocol and RDF query language
 SPD	security policy database
 SPD	serial presence detect
+SPF	Sender Policy Framework
 SPI	serial peripheral interface
 SPI	stateful packet inspection
 SPIT	spam over internet telephony
@@ -2849,4 +2853,5 @@ ZIFS	zero insertion force socket
 ZIM	Zentrum für Informations- und Medienverwaltung (cf. HRZ)
 ZMA	zone multicast address
 ZSH	Z Shell
+^^	(emoticon: bemusement)
 ^_^	(emoticon: bemusement)
