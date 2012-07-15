@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.178 2012/07/15 16:32:40 tg Exp $
+$MirOS: wtf/acronyms,v 1.179 2012/07/15 17:57:36 tg Exp $
 $NetBSD: acronyms,v 1.210 2012/03/06 17:04:54 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.127 2011/08/29 16:28:38 jruoho Exp $
 $miros: src/sys/sys/errno.h,v 1.8 2008/12/10 20:08:39 tg Exp $
@@ -982,6 +982,7 @@ GID	group identifier
 GIF	graphics interchange format
 GIGO	garbage in, garbage out
 GIT	content addressable filesystem written by finnish study aborter
+GIT	stupid content tracker
 GIYF	google is your friend
 GJ	good job
 GK	[Schule DE] Grundkurs
@@ -1772,6 +1773,7 @@ OAO	over and out
 OBO	off by one
 OBOE	off by one error
 OBS	OpenSuSE Buildservice
+OC	Optical Carrier (OC-3 ≘ STM-1)
 OC	[gc] opencaching.{cz,de,pl}
 OC	original character
 OCL	object constraint language
@@ -2241,6 +2243,7 @@ SCP	secure copy
 SCSI	small computer system interface
 SCSU	Standard Compression Scheme for Unicode
 SCTP	stream control transmission protocol
+SDH	Synchrone Digitale Hierarchie
 SDI	symbol deinterleave
 SDK	software development kit
 SDL	simple declarative language
@@ -2367,6 +2370,7 @@ SOHO	small office / home office
 SOL	[Schule DE] Soziales Lernen
 SOL	serial over LAN
 SOL	shit out [of] luck
+SONET	Synchronous Optical Network (now SDH)
 SOP	standard operating procedure
 SP	service pack
 SP	stack pointer
@@ -2414,6 +2418,8 @@ STFA	search the f{s,u}cking archives
 STFU	search the f{ine,ucking} usenet
 STFU	shut the fuck up
 STFW	search the fucking web
+STM	STMicroelectronics
+STM	Synchronous Transport Module (SDH)
 STP	shielded twisted pair
 STP	spanning-tree protocol
 STR	[Schule DE] Studienrat
