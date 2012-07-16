@@ -1,5 +1,5 @@
 #!/bin/mksh
-# $MirOS: wtf/wtf,v 1.18 2012/06/08 16:15:00 tg Exp $
+# $MirOS: wtf/wtf,v 1.19 2012/07/16 15:23:03 tg Exp $
 # $NetBSD: wtf,v 1.7 2000/11/21 00:18:52 soren Exp $
 #-
 # Copyright © 2002, 2003, 2004, 2006, 2007, 2008, 2010, 2011, 2012
@@ -20,11 +20,10 @@
 # damage or existence of a defect, except proven that it results out
 # of said person’s immediate fault when using the work as intended.
 
-#acronyms=${ACRONYMDB:-/usr/share/games/bsdgames/acronyms}
 acronyms=${ACRONYMDB:-/usr/share/misc/acronyms}
 
 function usage {
-	print -u2 "usage: ${0##*/} [±adPpw] [is[t]] <acronym> [...]"
+	print -u2 "usage: ${0##*/} [±adPpw] [-f dbfile] [is[t]] <acronym> [...]"
 	exit 1
 }
 
@@ -32,16 +31,18 @@ use_acronyms=1
 use_dict=0
 use_ports=0
 use_whatis=1
-while getopts "adPpw" ch; do
+while getopts "adf:Ppt:w" ch; do
 	case $ch {
 	(+a)	use_acronyms=0 ;;
 	(a)	use_acronyms=1 ;;
 	(+d)	use_dict=0 ;;
 	(d)	use_dict=1 ;;
+	(f)	acronyms=$OPTARG ;;
 	(+P)	use_ports=0 ;;
 	(P)	use_ports=2 ;;
 	(+p)	use_ports=0 ;;
 	(p)	use_ports=1 ;;
+	(t)	;;
 	(+w)	use_whatis=0 ;;
 	(w)	use_whatis=1 ;;
 	(*)	usage ;;
