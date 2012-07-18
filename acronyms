@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.182 2012/07/18 12:14:19 tg Exp $
+$MirOS: wtf/acronyms,v 1.183 2012/07/18 12:25:01 tg Exp $
 $NetBSD: acronyms,v 1.210 2012/03/06 17:04:54 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.127 2011/08/29 16:28:38 jruoho Exp $
 $miros: src/sys/sys/errno.h,v 1.8 2008/12/10 20:08:39 tg Exp $
@@ -166,6 +166,7 @@ ASR	address space register
 ASS	After Sales Support
 ASS	dumbhead
 ASS	jackass, moke (zool.)
+AST	AT&T Software Technology (ast-ksh package) from AT&T Labs Research
 AST	abstract syntax tree
 AST	asynchronous trap
 AT	access time
