@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.184 2012/07/20 21:46:38 tg Exp $
+$MirOS: wtf/acronyms,v 1.185 2012/07/30 20:59:50 tg Exp $
 $NetBSD: acronyms,v 1.210 2012/03/06 17:04:54 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.127 2011/08/29 16:28:38 jruoho Exp $
 $miros: src/sys/sys/errno.h,v 1.8 2008/12/10 20:08:39 tg Exp $
@@ -495,6 +495,7 @@ DAO	disk at once
 DAP	directory access protocol
 DAT	digital audio tape
 DAT	dynamic acceleration technology
+DAV	Distributed Authoring and Versioning
 DB	database
 DBA	database administrator
 DBA	dynamic bandwidth allocation
@@ -820,6 +821,8 @@ EWE	Epilogue? What Epilogue? (usually in HP context)
 EWOULDBLOCK	(=EAGAIN) Operation would block
 EXDEV	(#18) Cross-device link
 F9	fine
+FACK	Full ACK!
+FACK	forward ACKnowledgement (TCP)
 FAQ	frequently asked question
 FAT	file allocation table
 FBI	Federal Bureau of Investigation (USA)
@@ -2181,6 +2184,7 @@ SA	source address
 SA	structured analysis
 SAAS	software as a service
 SACD	super audio compact disc
+SACK	selective ACKnowledgement (TCP)
 SAD	security association database
 SAL	system abstraction layer
 SAM	serial access memory
