@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.185 2012/07/30 20:59:50 tg Exp $
+$MirOS: wtf/acronyms,v 1.186 2012/07/31 20:07:01 tg Exp $
 $NetBSD: acronyms,v 1.210 2012/03/06 17:04:54 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.127 2011/08/29 16:28:38 jruoho Exp $
 $miros: src/sys/sys/errno.h,v 1.8 2008/12/10 20:08:39 tg Exp $
@@ -2242,6 +2242,7 @@ SCADA	supervisory control and data acquisition
 SCC	second class citizen
 SCC	single chip cloud
 SCC	source code control
+SCC	strongly connected component
 SCCP	Signalling Connection Control Part
 SCCS	source code control system
 SCI	scalable coherent interface
