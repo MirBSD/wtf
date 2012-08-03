@@ -1,4 +1,4 @@
-.\" $MirOS: wtf/wtf.1,v 1.9 2012/07/16 15:23:03 tg Exp $
+.\" $MirOS: wtf/wtf.1,v 1.10 2012/08/03 18:48:07 tg Exp $
 .\" $NetBSD: wtf.6,v 1.4 2001/04/02 22:42:40 wiz Exp $
 .\"-
 .\" Copyright © 2002, 2003, 2006, 2010, 2011, 2012
@@ -73,7 +73,7 @@
 .\" with -mandoc, it might implement .Mx itself, but we want to
 .\" use our own definition. And .Dd must come *first*, always.
 .\"
-.Dd $Mdocdate: July 16 2012 $
+.Dd $Mdocdate: August 3 2012 $
 .\"
 .\" Check which macro package we use, and do other -mdoc setup.
 .\"
@@ -229,6 +229,9 @@ default ports index file on BSD.
 .Pp
 .Pa https://www.mirbsd.org/wtf.htm
 .No \*(en online acronym database query
+.Pp
+.Pa https://www.mirbsd.org/acronyms
+.No \*(en live updated acronym database
 .Sh HISTORY
 .Nm
 first appeared in
@@ -238,3 +241,8 @@ It then was ported to
 actually being the very reason for MirOS to exist.
 Option processing was added in
 .Mx 11 .
+.Sh FEEDBACK
+.An Thorsten Glaser Aq tg@mirbsd.org
+maintains
+.Nm
+and the acronym database; please send any suggestions to him.
