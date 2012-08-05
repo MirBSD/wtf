@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.188 2012/08/05 18:08:29 tg Exp $
+$MirOS: wtf/acronyms,v 1.189 2012/08/05 22:34:31 tg Exp $
 $NetBSD: acronyms,v 1.210 2012/03/06 17:04:54 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.127 2011/08/29 16:28:38 jruoho Exp $
 $miros: src/sys/sys/errno.h,v 1.8 2008/12/10 20:08:39 tg Exp $
@@ -181,10 +181,12 @@ ATM	at the moment
 ATM	automatic teller machine
 ATW	around the world
 ATX	advanced technology extended
+AU	alternate universe
 AUB	please (dutch: alstublieft / als het u belieft)
 AV	anti virus
 AVL	Adelson-Velsky-Landis
 AVX	advanced vector extensions
+AWACBE	as well as can be expected
 AWK	Aho, Werner, and Kernighan
 AWOL	absent without official leave
 AYB	all your base are belong to us
@@ -208,6 +210,7 @@ BAR	base address register
 BASH	GNU Bourne-Again Shell
 BASIC	beginners' all-purpose symbolic instruction code (_the_ programming language per se)
 BAU	business as usual
+BB	big brother
 BBC	British Broadcasting Company
 BBIAB	be back in a bit
 BBIAF	be back in a few
@@ -893,6 +896,7 @@ FORD	fix or repair daily
 FORD	für Ossis reicht det
 FOS	full of shit
 FOSS	free / open source software
+FOTW	fun of the week
 FPGA	field programmable gate array
 FPM	fast page mode
 FPOS	Financial Point of Sale
@@ -1315,6 +1319,7 @@ JJA	just joking around
 JK	just kidding
 JMO	just my opinion
 JPEG	joint photography experts group
+JR	Junior
 JRE	Java™ runtime environment
 JSYK	just so you know
 JTAG	joint test action group
@@ -1369,12 +1374,14 @@ LAN	local area network
 LAPIC	local advanced programmable interrupt controller
 LAR	load access rights
 LART	luser attitude readjustment tool (ie, hammer)
+LB	little brother
 LBA	logical block addressing
 LBNL	last but not least
 LBS	location-based service
 LC	[gc] locationless cache (usually tracked at TC)
 LCD	liquid crystal display
 LCL	[gc] left calling card
+LCM	landing craft, mechanised
 LCP	link control protocol
 LDA	local delivery agent
 LDAP	lightweight directory access protocol (not lightweight)
@@ -1484,6 +1491,7 @@ MBCS	multi-byte character set
 MBR	master boot record
 MBS	megabits per second
 MBZ	must be zero
+MC	Midnight Commander (see NC, VC)
 MC	memory controller
 MCA	machine check architecture
 MCC	multiversion concurrency control
@@ -1573,6 +1581,7 @@ MDA	monochrome display adapter
 MDRAM	multibank dynamic random access memory
 MDWDW	Mach' doch, was Du willst!
 MESI	modified, exclusive, shared, invalid
+MFC	Men from Cathay
 MFC	merge from -current
 MFG	with friendly greetings
 MFM	modified frequency modulation
@@ -1693,6 +1702,7 @@ NAV	network allocation vector
 NBC	National Broadcasting Company (USA)
 NBD	network block device
 NBD	no big deal
+NC	Norton Commander (see MC, VC)
 NC	[gc] navicache
 NC	[gc] night cache
 NC	not connected
@@ -1717,6 +1727,7 @@ NFS	network[ing] file system
 NFS	nightmare file system
 NFS	no filesystem
 NFW	no fucking way
+NGO	Non-Government Organisation
 NHS	National Health Service (UK)
 NIA	next instruction address
 NIC	network interface card
@@ -2562,6 +2573,7 @@ TLC	tender loving care
 TLD	top-level domain
 TLDR	too long, didn't read
 TLS	thread-local storage
+TLS	tiny little sister
 TLS	transport layer security
 TM	Turing machine
 TM	thanks much (lilo lingo, from IRC)
@@ -2716,6 +2728,7 @@ VAT	value-added tax (MwSt)
 VAX	virtual address extension
 VB	Visual Basic
 VBEG	very big evil grin
+VC	Volkov Commander (see MC, NC)
 VCA	variable-gain amplifier
 VCC	common collector voltage
 VCF	Vintage Computing Festival
@@ -2887,6 +2900,7 @@ YMMD	you made my day!
 YMMV	your mileage may vary
 YNS	Yeah, No Shit!
 YP	yellow pages (aka NIS)
+YR	your, yours
 YTD	year to date
 YW	you're welcome
 YWSYLS	you win some, you lose some
