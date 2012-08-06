@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.189 2012/08/05 22:34:31 tg Exp $
+$MirOS: wtf/acronyms,v 1.190 2012/08/06 19:45:05 tg Exp $
 $NetBSD: acronyms,v 1.210 2012/03/06 17:04:54 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.127 2011/08/29 16:28:38 jruoho Exp $
 $miros: src/sys/sys/errno.h,v 1.8 2008/12/10 20:08:39 tg Exp $
@@ -1167,6 +1167,7 @@ IDC	I don't care
 IDD	inderdaad (dutch; indeed)
 IDE	integrated development environment
 IDE	integrated drive electronics
+IDFD	in-der-fucking-daad (cf. IDD)
 IDGI	I don't get it
 IDGW	in a good way (?)
 IDI	I doubt it
