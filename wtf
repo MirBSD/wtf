@@ -1,5 +1,5 @@
 #!/bin/mksh
-# $MirOS: wtf/wtf,v 1.19 2012/07/16 15:23:03 tg Exp $
+# $MirOS: wtf/wtf,v 1.20 2012/08/18 04:48:46 tg Exp $
 # $NetBSD: wtf,v 1.7 2000/11/21 00:18:52 soren Exp $
 #-
 # Copyright © 2002, 2003, 2004, 2006, 2007, 2008, 2010, 2011, 2012
@@ -113,6 +113,7 @@ rv=0
 for target in "$@"; do
 	typeset -u tgsrch=$target
 	tgsrch=${tgsrch//ä/Ä}
+	tgsrch=${tgsrch//ö/Ö}
 	tgsrch=${tgsrch//ü/Ü}
 
 	if (( use_ports )); then

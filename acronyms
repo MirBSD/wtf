@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.193 2012/08/17 18:35:39 tg Exp $
+$MirOS: wtf/acronyms,v 1.194 2012/08/18 04:48:44 tg Exp $
 $NetBSD: acronyms,v 1.211 2012/08/12 13:41:18 jakllsch Exp $
 $NetBSD: acronyms.comp,v 1.127 2011/08/29 16:28:38 jruoho Exp $
 $miros: src/sys/sys/errno.h,v 1.8 2008/12/10 20:08:39 tg Exp $
@@ -24,12 +24,12 @@ $miros: src/sys/sys/errno.h,v 1.8 2008/12/10 20:08:39 tg Exp $
 :-(	(emoticon: sad)
 :-)	(emoticon: smile)
 :-D	(emoticon: laughing)
+:-O	(emoticon: shocked)
 :-P	(emoticon: tongue)
-:-o	(emoticon: shocked)
 :D	(emoticon: laughing)
+:O	(emoticon: shocked)
+:O)	(emoticon: clown)
 :P	(emoticon: tongue)
-:o	(emoticon: shocked)
-:o)	(emoticon: clown)
 ;)	(emoticon: wink)
 ;-)	(emoticon: wink)
 </3	emoticon (a broken heart)
@@ -108,6 +108,7 @@ AISE	as I see it
 AIU	as I understand
 AIUI	as I understand it
 AIX	Ain't unIX
+AK	[HP] Avada Kedavra
 AKA	also known as
 AKUEFI	Abkürzungsfimmel
 AKÜFI	Abkürzungsfimmel
@@ -115,6 +116,8 @@ AL	access list
 AL	active link
 ALE	address latch enable
 ALF	Außerirdische Lebensform
+ALFA	A (International Radiotelephony Spelling Alphabet)
+ALPHA	A (International Radiotelephony Spelling Alphabet)
 ALS	ambient light sensor
 ALU	arithmetic and logical unit
 AM	access method
@@ -127,6 +130,7 @@ AMT	active management technology
 AN	Arabic number
 AN	author's note (usually A/N)
 ANSI	American National Standards Institute
+ANTON	A (deutsches Funkalphabet)
 AO	analog output
 AO3	Archive of Our Own (by the OTW) -- http://archiveofourown.org/
 AOL	America OnLine
@@ -160,6 +164,7 @@ ASF	The Apache™ Foundation
 ASIC	application-specific integrated circuit
 ASK	amplitude shif keying
 ASLR	address space layout randomisation
+ASM	Anti-Structures Missile
 ASN	autonomous system number
 ASPM	active state power management
 ASQ	automated software quality
@@ -170,8 +175,10 @@ ASS	jackass, moke (zool.)
 AST	AT&T Software Technology (ast-ksh package) from AT&T Labs Research
 AST	abstract syntax tree
 AST	asynchronous trap
+AT	Hayes modem command leader
 AT	access time
 AT	advanced technology
+AT	anti-tank weapon
 ATA	advanced technology attachment
 ATAPI	advanced technology attachment packet interface
 ATC	address translation cache
@@ -229,6 +236,7 @@ BCNUL8R	be seeing you later
 BCP	best current practice
 BCR	byte count register
 BCS	base configuration space
+BCT	Brigade Combat Team
 BD	baud
 BDD	binary decision diagram
 BDFL	Benevolent Dictator for Life
@@ -238,6 +246,7 @@ BEDO	burst extended data output
 BENELUX	Belgium, Netherlands, Luxembourg
 BER	basic encoding rules
 BER	bit error {rate,ratio}
+BERTA	B (deutsches Funkalphabet)
 BF	best friend
 BF	boyfriend
 BFD	big fucking deal
@@ -262,6 +271,7 @@ BIND	Berkeley Internet Name Daemon
 BIND	Buggy Internet Name Dæmon
 BINNMU	binNMU, binary non-maintainer upload from unchanged sources
 BIOS	basic input/output system
+BISSOTWO	2 (International Radiotelephony Spelling Alphabet)
 BIST	built-in self-test
 BISUP	B-ISDN User Part
 BIU	bus interface unit
@@ -297,6 +307,7 @@ BPM	business process modelling
 BPS	bits per second
 BPSK	binary phase shift keying
 BQS	Berkeley quality software
+BRAVO	B (International Radiotelephony Spelling Alphabet)
 BRB	[I'll] be right back
 BRE	basic regular expression
 BRT	[I'll] be right there
@@ -358,6 +369,7 @@ CAS	(atomic) compare and swap
 CAS	column address strobe
 CAS	computer algebra system
 CASE	computer aided software engineering
+CASEVAC	Casualty Evacuation
 CAU	control access unit
 CAV	constant angular velocity (as opposed to CLV)
 CBC	cipher block chaining
@@ -385,6 +397,7 @@ CG	control gate
 CGA	color graphics adapter
 CGI	common gateway interface
 CHAP	challenge-handshake authentication protocol
+CHARLIE	C (International Radiotelephony Spelling Alphabet)
 CHS	cylinder/head/sector
 CI	common interface
 CI	component interface
@@ -483,6 +496,7 @@ CW	[gc] CacheWolf
 CYA	see you around
 CYE	check your email
 C|N>K	coffee pipe nose to keyboard
+CÄSAR	C (deutsches Funkalphabet)
 D&R	duck and run
 D/L	download
 D/W	don't worry
@@ -497,6 +511,7 @@ DAEMON	that cuddly red BSD mascot)
 DAFUQ	... the fuck
 DAO	disk at once
 DAP	directory access protocol
+DASH	(hyphen) - (International Radiotelephony Spelling Alphabet)
 DAT	digital audio tape
 DAT	dynamic acceleration technology
 DAV	Distributed Authoring and Versioning
@@ -535,12 +550,15 @@ DDS	Doctor of Dental Surgery
 DDS	direct digital sound
 DDTT	don't do that then
 DDWG	digital display working group
+DE	[HP] Death Eater
 DE	debugging extensions
 DE	desktop environment
 DEA	data encryption algorithm
 DEBILIAN	ancient GNU/Linux distribution, nearly forgotten
 DEBILLIAN	ancient GNU/Linux distribution, nearly forgotten
+DECIMAL	(decimal point) . (International Radiotelephony Spelling Alphabet)
 DEK	data encryption key
+DELTA	D (International Radiotelephony Spelling Alphabet)
 DEP	data execution prevention
 DER	distinguished encoding rules
 DES	Data Encryption Standard
@@ -590,6 +608,7 @@ DOCH	German for "yes" answering "you don't ..., do you?"
 DOE	distributed object environment
 DOF	data over fibre
 DOM	document object model
+DORA	D (deutsches Funkalphabet)
 DOS	Disc Operating System
 DOS	denial of service
 DPC	deferred procedure call
@@ -665,6 +684,7 @@ EBR	extended boot record
 EBUSY	(#16) Device busy
 ECC	error correction code
 ECHILD	(#10) No child processes
+ECHO	E (International Radiotelephony Spelling Alphabet)
 ECL	emitter-coupled logic
 ECN	explicit congestion notification
 ECONNABORTED	(#53) Software caused connection abort
@@ -733,6 +753,7 @@ EMACS	Escape Meta Alt Ctrl Shift
 EMACS	Eventually Munches All Computer Storage
 EMFILE	(#24) Too many open files
 EMI	electro-magnetic interference
+EMIL	E (deutsches Funkalphabet)
 EMLINK	(#31) Too many links
 EMP	electro-magnetic pulse
 EMR	electro-magnetic radiation
@@ -804,6 +825,7 @@ ESRCH	(#3) No such process
 ESS	electronic switching system
 EST	enhanced speedstep
 ESTALE	(#70) Stale NFS file handle
+ESZETT	ß (deutsches Funkalphabet)
 ETA	edited to add
 ETA	estimated time of arrival (usually infinite)
 ETC	et cetera
@@ -900,6 +922,7 @@ FORD	für Ossis reicht det
 FOS	full of shit
 FOSS	free / open source software
 FOTW	fun of the week
+FOXTROT	F (International Radiotelephony Spelling Alphabet)
 FPGA	field programmable gate array
 FPM	fast page mode
 FPOS	Financial Point of Sale
@@ -914,6 +937,7 @@ FPS	frames per second
 FPU	Floating Point Unit
 FQDN	fully qualified domain name
 FREEBSD	most 1337 open source operating system -- http://www.freebsd.org/
+FRIEDRICH	F (deutsches Funkalphabet)
 FRR	false rejection rate
 FRU	field replaceable unit
 FS	file system
@@ -1029,6 +1053,7 @@ GND	ground
 GNOME	some kind of small earthen animal
 GNU	GNU's Not UNIX®
 GOK	god only knows
+GOLF	G (International Radiotelephony Spelling Alphabet)
 GOT	global offset table
 GOWI	get on with it
 GPE	general purpose event
@@ -1058,6 +1083,7 @@ GTP	GPRS Tunneling Protocol
 GTSY	{good, glad} to see you
 GUI	graphic{al,s} user interface
 GUID	globally unique identifier
+GUSTAV	G (deutsches Funkalphabet)
 GWS	get well soon
 GZ	[gc] Ground Zero - the spot your GPSr takes you to the cache location
 H8	hate
@@ -1086,6 +1112,7 @@ HDL	hardware description language
 HDTV	high-definition television
 HDW	Heil den Wansen (=OMG)
 HE	how embarrasing
+HEINRICH	H (deutsches Funkalphabet)
 HEPTA	seven-
 HEXA	six-
 HF	hardware floating point (Debian/armhf)
@@ -1108,10 +1135,12 @@ HNY	happy new year
 HOAS	hold on a second
 HONK	Hauptschüler ohne nennenswerte Kenntnisse
 HOOD	hierarchical object oriented design
+HOTEL	H (International Radiotelephony Spelling Alphabet)
 HP	Harry Potter
 HP	Hewlett-Packard
 HPC	high performance computing
 HPET	high precision event timer
+HQ	Headquarters
 HRZ	Hochschul-Rechenzentrum (cf. RZ)
 HSCSD	High Speed Circuit Switched Data
 HSDPA	High-Speed Downlink Packet Access
@@ -1168,6 +1197,7 @@ ICUR	I see you are
 ICW	initialisation command word
 ID	identification (passport)
 ID	identifier
+IDA	I (deutsches Funkalphabet)
 IDA	Intel dynamic acceleration
 IDC	I don't care
 IDD	inderdaad (dutch; indeed)
@@ -1224,6 +1254,7 @@ IMR	interrupt mask register
 IMS	information management system
 IMT-SC	IMT Single Carrier = EDGE
 INCITS	international committee on information technology standards
+INDIA	I (International Radiotelephony Spelling Alphabet)
 INPO	in no particular order
 IO	input/output
 IOCTL	input/output control
@@ -1331,8 +1362,13 @@ JRE	Java™ runtime environment
 JSYK	just so you know
 JTAG	joint test action group
 JTLYK	just to let you know
+JULIET	J (International Radiotelephony Spelling Alphabet)
+JULIETT	J (International Radiotelephony Spelling Alphabet)
+JULIUS	J (deutsches Funkalphabet)
 JW	just wondering
 KA	kA = keine Ahnung (no idea)
+KARTEFOUR	4 (International Radiotelephony Spelling Alphabet)
+KAUFMANN	K (deutsches Funkalphabet)
 KB	keyboard
 KB	kilobyte
 KBD	keyboard
@@ -1341,6 +1377,7 @@ KBE	Kappes Buure Expreß
 KBE	Köln-Bonner Eisenbahnen
 KDE	Kiddish Desktop Environment
 KHZ	kHz: Kilohertz (1'000 Hz)
+KILO	K (International Radiotelephony Spelling Alphabet)
 KISS	keep it short and simple
 KISS	keep it simple and smart
 KISS	keep it simple and straightforward
@@ -1351,6 +1388,7 @@ KISS	keep it strictly simple
 KISS	keep it sweet and simple
 KITA	kick in the arse
 KK	okay, okay
+KLICK	kilometer
 KLOC	thousand lines of code
 KLOD	thousand lines of unidiff
 KMA	keep me advised
@@ -1381,6 +1419,7 @@ LAN	local area network
 LAPIC	local advanced programmable interrupt controller
 LAR	load access rights
 LART	luser attitude readjustment tool (ie, hammer)
+LASM	Light Anti-Structures Missile
 LB	little brother
 LBA	logical block addressing
 LBNL	last but not least
@@ -1414,6 +1453,7 @@ LHP	loop heat pipe
 LIFO	last in, first out
 LILO	Linux loader
 LILO	last in, last out
+LIMA	L (International Radiotelephony Spelling Alphabet)
 LINT	local interrupt
 LINUX	free (as in GNU) operating system kernel -- http://www.kernel.org/
 LINUX	life is not utterly exciting
@@ -1438,6 +1478,7 @@ LMB	lick my balls
 LMC	let me check
 LMDDGTFY	let me duck duck go that for you
 LMFAO	laughing my fucking ass off
+LMG	Light Machine Gun
 LMGTFY	let me google that for you
 LMHO	laughing my head off
 LMK	let me know
@@ -1477,6 +1518,7 @@ LTS	*buntu equivalent of Debian unstable
 LTS	long term Schrott
 LTS	long term shlock
 LTS	long time support
+LUDWIG	L (deutsches Funkalphabet)
 LUG	Linux user group
 LUG	local user group
 LUN	logical unit number
@@ -1493,6 +1535,7 @@ MAD	mutually assured destruction
 MADT	multiple APIC descriptor table
 MAP	Mobile Application Part
 MARC	mailing list archives -- http://marc.theaimsgroup.com/
+MARTHA	M (deutsches Funkalphabet)
 MB	megabyte
 MBCS	multi-byte character set
 MBR	master boot record
@@ -1600,6 +1643,7 @@ MIB	management information base
 MID	mobile internet device
 MIDI	musical instrument digital interface
 MIF	management information format
+MIKE	M (International Radiotelephony Spelling Alphabet)
 MILF	mother i'd like to fuck
 MIMD	multiple instruction stream, multiple data stream
 MIME	multipurpose internet mail extensions
@@ -1614,6 +1658,7 @@ MIRBSD	split of OpenBSD with a lot of improvements -- http://mirbsd.de/
 MISCHAN	(accidentally writing in the wrong IRC channel)
 MISD	multiple instruction, single data
 MIT	Massachusetts Institute of Technology
+MK	Mark (as in edition, version)
 ML	machine language
 ML	machine learning
 ML	mailing list
@@ -1697,6 +1742,7 @@ N1	nice one
 N8	(good)neight
 N8	(gute) Nacht
 NACK	negative acknowledgement
+NADAZERO	0 (International Radiotelephony Spelling Alphabet)
 NAFAIK	not as far as I know
 NAK	negative acknowledgement (see ACK)
 NAN	not a number
@@ -1742,6 +1788,7 @@ NIFOC	naked in front of computer
 NIH	not invented here
 NIMB	not in my backyard
 NIMBY	not in my backyard
+NINER	9 (International Radiotelephony Spelling Alphabet)
 NINU	[gc] niets in, niets uit (cf. TNLN)
 NIP	network interface protocol
 NIS	network information service
@@ -1758,6 +1805,9 @@ NOFI	no flame intended
 NOM	no offence meant
 NOOB	newbie
 NOP	no operation
+NORDPOL	N (deutsches Funkalphabet)
+NOVEMBER	N (International Radiotelephony Spelling Alphabet)
+NOVENINE	9 (International Radiotelephony Spelling Alphabet)
 NOYB	none of your business
 NOYFB	none of your fucking business
 NP	no problem
@@ -1821,6 +1871,7 @@ OIC	oh, I see
 OID	of iets dergelijks (or so, or something like that)
 OIOW	or, in other words, ...
 OKTA	eight-
+OKTOEIGHT	8 (International Radiotelephony Spelling Alphabet)
 OLE	object linking and embedding
 OMC	original male character (OC)
 OMFG	oh my fucking god
@@ -1849,6 +1900,7 @@ OPTU	Octet Pass-Through for Unicode (encoding) -- MirOS OPTU-8 and OPTU-16
 OQL	object query language
 ORM	object-relational mapping
 OS	operating system
+OSCAR	O (International Radiotelephony Spelling Alphabet)
 OSD	open source definition
 OSF	open software foundation
 OSI	open systems interconnection
@@ -1868,8 +1920,10 @@ OTOH	on the other hand
 OTP	one time password
 OTS	off the shelf
 OTT	over the top
+OTTO	O (deutsches Funkalphabet)
 OTTOMH	off the top of my head
 OTW	Organization for Transformative Works -- http://transformativeworks.org/
+OTW	on the way
 OU	organisational unit
 OUI	organisationally unique identifier
 OWL	Web ontology language
@@ -1887,10 +1941,13 @@ PAL	phase alternating line
 PAL	programmable array logic
 PAM	pluggable authentication modules
 PAM	pulse amplitude modulation
+PANTAFIVE	5 (International Radiotelephony Spelling Alphabet)
 PAP	password authentication protocol
+PAPA	P (International Radiotelephony Spelling Alphabet)
 PAT	page attribute table
 PAT	port address translation
 PATA	parallel ATA (IDE, AT-Bus)
+PAULA	P (deutsches Funkalphabet)
 PAX	portable archive exchange
 PB	powerbook
 PB	problem
@@ -1971,6 +2028,7 @@ PLONK	Poster liest Originalposter nicht konsequent
 PLRU	pseudo LRU
 PLTM	package level thermal management
 PLZ	please
+PM	Prime Minister
 PM	[gc] premium member (on GC.com)
 PM	phase modulation
 PM	post meridiem
@@ -1999,6 +2057,7 @@ POC	proof of concept
 POE	power over ethernet
 POF	probability of failure
 POI	[gc] point of interest
+POINT	(decimal point) . (International Radiotelephony Spelling Alphabet)
 POLA	principle of least astonishment
 POLS	principle of least surprise
 POP	point of presence
@@ -2073,6 +2132,8 @@ QFT	quoted for truth
 QOS	quality of service
 QOTD	quote of the day
 QR	Quick Reaction
+QUEBEC	Q (International Radiotelephony Spelling Alphabet)
+QUELLE	Q (deutsches Funkalphabet)
 R	r, are
 R/O	read-only
 R/W	read-write
@@ -2120,6 +2181,7 @@ RHEL	Red Hat Enterprise Linux
 RHL	Red Hat Linux (now either RHEL or Fedora)
 RIA	rich internet application
 RIB	routing information base
+RICHARD	R (deutsches Funkalphabet)
 RIFF	Resource Interchange File Format
 RIP	requiescat in pacem
 RIP	rest in peace
@@ -2146,6 +2208,7 @@ ROFL	rolling on floor laughing
 ROFLMAO	rolling on floor laughing my arse off
 ROI	return on investment
 ROM	read only memory
+ROMEO	R (International Radiotelephony Spelling Alphabet)
 ROTFL	Respekt, Originalposting tatsächlich fein lustig
 ROTFL	rolling on the floor laughing
 ROTFLBTCDICAJTTWADBSIHPWTRHITSBKABAYB	rolling on the floor laughing, biting the carpet, dancing in circles and jumping through the window almost dieing by smashing into hp who's then running horrified into the street being killed accidentally by a yellow bulldozer
@@ -2153,6 +2216,8 @@ ROTFLMAO	rolling on the floor laughing my arse off
 ROTOTILL	"nuke with a chain saw device", to die with extreme prejudice (see GC)
 RP	responsible person
 RPC	remote procedure call
+RPG	Rocket Propelled Grenade
+RPG	role-playing game
 RPL	requested privilege level
 RPM	revolutions per minute
 RR	railroad
@@ -2214,6 +2279,7 @@ SAD	security association database
 SAL	system abstraction layer
 SAM	serial access memory
 SAM	sum addressed memory
+SAMUEL	S (deutsches Funkalphabet)
 SAN	storage area network
 SAP	Salary Appreciation Program.
 SAP	Sammelstelle Arbeitsloser Physiker
@@ -2248,6 +2314,8 @@ SAP	Systeme, Anwendungen, Programme in der Datenverarbeitung
 SAP	ich sag's ja: SS, SA, SAP
 SAPIC	streamlined advanced programmable interrupt controller
 SAR	some assembly required
+SAS	Serial Attached SCSI
+SAS	Special Air Service
 SASD	structured analysis, structured design
 SASI	shugart associates system interface (predecessor to SCSI)
 SASL	simple authentication [and] security layer (neither simple nor secure)
@@ -2270,6 +2338,7 @@ SCC	source code control
 SCC	strongly connected component
 SCCP	Signalling Connection Control Part
 SCCS	source code control system
+SCHULE	SCH (deutsches Funkalphabet)
 SCI	scalable coherent interface
 SCI	system control interrupt
 SCM	software configuration management
@@ -2294,6 +2363,7 @@ SED	smoke emitting diode
 SEGV	segmentation violation
 SEP	someone else's problem
 SERP	search engine results page
+SETTESEVEN	7 (International Radiotelephony Spelling Alphabet)
 SFA	sweet fuck all
 SFAICT	so far as I can tell
 SFC	sequential function chart
@@ -2312,6 +2382,7 @@ SHOK	smashing head on keyboard
 SIEMENS	Schon Im Ersten Moment Eigenartiger Nichtfunktionierender Scheiß
 SIEMENS	Sicher Ist Eins: Man Erhält Nur Schrott
 SIEMENS	Super Im Ersten Moment, Erst Nachher Scheiße
+SIERRA	S (International Radiotelephony Spelling Alphabet)
 SIFS	short inter-frame space
 SIGABRT	(#6) Abort trap
 SIGALRM	(#14) Alarm clock
@@ -2409,6 +2480,7 @@ SOL	serial over LAN
 SOL	shit out [of] luck
 SONET	Synchronous Optical Network (now SDH)
 SOP	standard operating procedure
+SOXISIX	6 (International Radiotelephony Spelling Alphabet)
 SP	service pack
 SP	stack pointer
 SPARC	Scalable Processor Architecture
@@ -2457,6 +2529,7 @@ STFU	shut the fuck up
 STFW	search the fucking web
 STM	STMicroelectronics
 STM	Synchronous Transport Module (SDH)
+STOP	(full stop, period) . (International Radiotelephony Spelling Alphabet)
 STP	shielded twisted pair
 STP	spanning-tree protocol
 STR	[Schule DE] Studienrat
@@ -2495,6 +2568,8 @@ TA	test assertion
 TA	thanks (pre-net slang, pronounced tar)
 TA	transmitter address
 TAI	international atomic time
+TANGO	T (International Radiotelephony Spelling Alphabet)
+TANGO	enemy
 TANSTA	there ain't (no) such thing as ...
 TANSTAAFL	there ain't no such thing as a free lunch
 TAO	track at once
@@ -2536,6 +2611,7 @@ TDP	thermal design power
 TDR	Theo de Raadt -- http://theos.com/
 TEAM	toll, ein Anderer macht's!
 TECO	Text Editor and Corrector
+TERRATHREE	3 (International Radiotelephony Spelling Alphabet)
 TETRA	Terrestrial Trunked Radio
 TETRA	Trans-European Trunked Radio (old)
 TETRA	four-
@@ -2549,6 +2625,7 @@ TFTH	[gc] thanks for the hunt
 TFTP	trivial file transfer protocol
 TGIF	Thank God It's Friday
 TH	table head (in HTML)
+THEODOR	T (deutsches Funkalphabet)
 THGTTG	the hitchhiker's guide to the galaxy
 THNX	thanks
 THRB	thumb hits reset button
@@ -2697,7 +2774,9 @@ UI	unit interval
 UI	user interface
 UID	unique identifier
 UID	user identifier
+UKSF	United Kingdom Special Forces
 UL	upload
+ULRICH	U (deutsches Funkalphabet)
 UMA	uniform memory access
 UMA	upper memory area
 UMB	upper memory block
@@ -2705,9 +2784,12 @@ UML	unified modeling language
 UMPC	ultra-mobile PC
 UMR	uninitialised memory read
 UMTS	Universal Mobile Telecommunications System
+UNAONE	1 (International Radiotelephony Spelling Alphabet)
 UNI	one-
+UNIFORM	U (International Radiotelephony Spelling Alphabet)
 UNIX	(Uniplexed Information and Computing System, pun on MULTICS)
 UNIX	(bootloader for games written by Ken Thompson et al.)
+UOR	Urgent Operational Requirement
 UPNP	universal plug and play
 UPS	[gc] unnatural pile of sticks
 UPS	uninterruptible power supply
@@ -2717,6 +2799,7 @@ URL	uniform resource locator
 URN	uniform resource name
 USART	universal synchronous/asynchronous receiver/transmitter
 USB	universal serial bus
+USP	Universale Selbstladepistole
 USR	Unix Source Repository
 USR	Unix System Resources
 USWC	uncacheable speculative write combining
@@ -2763,7 +2846,9 @@ VGA	video graphics array
 VH	very helpful (lilo lingo, from IRC)
 VHDCI	very high density cable interconnect
 VI	it’s e̲d̲itor, *not* v̲i̲itor! don’t use it!
+VICTOR	V (International Radiotelephony Spelling Alphabet)
 VID	voltage level identifier
+VIKTOR	V (deutsches Funkalphabet)
 VIM	it’s e̲d̲itor, *not* v̲i̲itor! (and vim’s worse.) don’t use it!
 VIP	very important person
 VIPT	virtually indexed, physically tagged
@@ -2820,9 +2905,11 @@ WFM2	works for me, too
 WFQ	weighted fair queuing
 WFY	works for you
 WH	write hit
+WHISKEY	W (International Radiotelephony Spelling Alphabet)
 WHY	because.
 WIBNI	wouldn't it be nice if
 WIFI	wireless fidelity
+WILHELM	W (deutsches Funkalphabet)
 WINDOWS	Which Idiot Needs Definitly Obsolete (and) Worse Software
 WINDOWS	Will ich nicht doch ohne WINDOWS sein?
 WINDOWS	will install needless data on whole system
@@ -2877,6 +2964,8 @@ WWW	world wide waiting
 WWW	world wide web
 WYSIWYG	what you see is what you get
 W^X	either writable or executable, but not both (W xor X)
+X-RAY	X (International Radiotelephony Spelling Alphabet)
+XANTHIPPE	X (deutsches Funkalphabet)
 XBAR	crossbar
 XD	(spanish emoticon: smile)
 XER	XML encoding rules
@@ -2889,6 +2978,7 @@ XMPP	Extensible Messaging and Presence Protocol (aka. Jabber)
 XNSL	[gc] exchanged nothing, signed log (cf. TNLNSL, N/T)
 XOR	exclusive or
 XP	extreme programming
+XRAY	X (International Radiotelephony Spelling Alphabet)
 XSL	extensible stylesheet language
 XSS	Cross-Site Scripting (sometimes CSS)
 XT	extended technology
@@ -2897,6 +2987,7 @@ YACC	yet another compiler compiler
 YAGNI	you ain't gonna need it
 YAHOO	Yet Another Hierarchically Officious Oracle
 YALIMO	you are lame, in my opinion
+YANKEE	Y (International Radiotelephony Spelling Alphabet)
 YAOTM	yet another off-topic message
 YAWPFAPR	you are welcome; please file a problem report
 YDAY	yesterday
@@ -2914,10 +3005,12 @@ YMMV	your mileage may vary
 YNS	Yeah, No Shit!
 YOLO	you only live once
 YP	yellow pages (aka NIS)
+YPSILON	Y (deutsches Funkalphabet)
 YR	your, yours
 YTD	year to date
 YW	you're welcome
 YWSYLS	you win some, you lose some
+ZACHARIAS	Z (deutsches Funkalphabet)
 ZBR	zone bit recording
 ZBUS	Zwischen Bildschirm und Stuhl
 ZFOD	zero-filled on demand
@@ -2926,5 +3019,9 @@ ZIFS	zero insertion force socket
 ZIM	Zentrum für Informations- und Medienverwaltung (cf. HRZ)
 ZMA	zone multicast address
 ZSH	Z Shell
+ZULU	Z (International Radiotelephony Spelling Alphabet)
 ^^	(emoticon: bemusement)
 ^_^	(emoticon: bemusement)
+ÄRGER	Ä (deutsches Funkalphabet)
+ÖKONOM	Ö (deutsches Funkalphabet)
+ÜBERMUT	Ü (deutsches Funkalphabet)
