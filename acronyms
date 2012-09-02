@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.197 2012/09/02 17:06:15 tg Exp $
+$MirOS: wtf/acronyms,v 1.198 2012/09/02 19:13:48 tg Exp $
 $NetBSD: acronyms,v 1.212 2012/08/24 06:04:02 dholland Exp $
 $NetBSD: acronyms.comp,v 1.127 2011/08/29 16:28:38 jruoho Exp $
 $miros: src/sys/sys/errno.h,v 1.8 2008/12/10 20:08:39 tg Exp $
@@ -2074,6 +2074,8 @@ POST	power on self test
 POSUX	see POSIX and SUX
 POTS	plain old telephone system
 POV	point of view
+POW	power over WLAN
+POW	prisoner of war
 POWER	performance optimisation with enhanced RISC (as in IBM's POWER CPUs)
 PP	pair programming
 PPB	PCI [to] PCI bridge
@@ -2508,8 +2510,15 @@ SRC	sample rate conversion
 SRGG	secure random number generator
 SRNG	stretched random number generator
 SRU	stable release update
+SS	SPARCstation
 SS	self-snoop
 SS	stack segment
+SS1	SPARCstation 1
+SS10	SPARCstation 10
+SS2	SPARCstation 2
+SS20	SPARCstation 20
+SS4	SPARCstation 4
+SS5	SPARCstation 5
 SS7	Signalisierungssystem Nummer 7
 SS7	signalling system #7
 SSB	single-sideband modulation
