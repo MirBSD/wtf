@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.198 2012/09/02 19:13:48 tg Exp $
+$MirOS: wtf/acronyms,v 1.199 2012/09/03 19:13:13 tg Exp $
 $NetBSD: acronyms,v 1.212 2012/08/24 06:04:02 dholland Exp $
 $NetBSD: acronyms.comp,v 1.127 2011/08/29 16:28:38 jruoho Exp $
 $miros: src/sys/sys/errno.h,v 1.8 2008/12/10 20:08:39 tg Exp $
@@ -625,6 +625,7 @@ DPL	descriptor privilege level
 DPST	display power savings technology
 DRAM	dynamic random access memory
 DRI	direct rendering infrastructure
+DRM	Digitale Rechte-Minderung
 DRM	digital restriction management
 DRM	digital rights management
 DRM	direct rendering module
@@ -1637,8 +1638,10 @@ MESI	modified, exclusive, shared, invalid
 MFC	Men from Cathay
 MFC	merge from -current
 MFG	with friendly greetings
+MFM	merge from master
 MFM	modified frequency modulation
 MFS	Memory File System
+MFT	merge from trunk
 MHZ	MHz: Megahertz (1'000'000 Hz)
 MI	machine-independent
 MIA	missing in action
