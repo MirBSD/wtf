@@ -1,6 +1,6 @@
-$MirOS: wtf/acronyms,v 1.201 2012/09/04 21:04:18 tg Exp $
-$NetBSD: acronyms,v 1.212 2012/08/24 06:04:02 dholland Exp $
-$NetBSD: acronyms.comp,v 1.127 2011/08/29 16:28:38 jruoho Exp $
+$MirOS: wtf/acronyms,v 1.202 2012/09/18 19:57:02 tg Exp $
+$NetBSD: acronyms,v 1.213 2012/09/16 00:02:41 dholland Exp $
+$NetBSD: acronyms.comp,v 1.128 2012/09/06 15:24:26 ginsbach Exp $
 $miros: src/sys/sys/errno.h,v 1.8 2008/12/10 20:08:39 tg Exp $
 0	[Kfz:D] Diplomatenkennzeichen oder Politiker
 1	one, on
@@ -73,7 +73,10 @@ ACPI	advanced configuration and power interface
 ACPI	advanced conflagration punishment interface
 ACS	access control set
 ACU	automatic calling unit
+AD	(towards)
 AD	[ccTLD] Andorra
+AD	advertisement
+AD	anno domini
 ADB	Apple desktop bus
 ADC	analog [to] digital converter
 ADD	Attention Deficit Disorder
@@ -317,6 +320,7 @@ BBS	be back soon
 BBS	bulletin board system
 BBT	be back tomorrow
 BC	[Kfz:D] Landkreis Biberach
+BC	before christus
 BCB	[gc] Bookcrossing Book
 BCC	Broadcast Call Control
 BCC	blind carbon copy
@@ -601,6 +605,7 @@ CDMA	code division multiple access
 CDN	[Kfz] Kanada
 CDRAM	cache dynamic random access memory
 CE	[Kfz:D] Landkreis Celle
+CE	common era
 CER	canonical encoding rules
 CF	[ccTLD] Zentralafrikanische Republik
 CF	compact flash
@@ -1027,6 +1032,8 @@ ECS	enhanced chip set
 ECS	extended configuration space
 ECSD	HSCSD over EDGE
 ED	[Kfz:D] Landkreis Erding
+ED	edition
+ED	editor
 EDAT	enhanced dynamic acceleration technology
 EDEADLK	(#11) Resource deadlock avoided
 EDESTADDRREQ	(#39) Destination address required
@@ -3472,6 +3479,7 @@ SAP	Summe Aller Probleme
 SAP	Systeme, Anwendungen, Programme in der Datenverarbeitung
 SAP	ich sag's ja: SS, SA, SAP
 SAPIC	streamlined advanced programmable interrupt controller
+SAR	search and rescue
 SAR	some assembly required
 SAS	Serial Attached SCSI
 SAS	Special Air Service
@@ -3542,6 +3550,7 @@ SE	[ccTLD] Schweden
 SEB	[Kfz:D] Landkreis Sebnitz
 SECAM	Something Essentialy Contrary to the American Method
 SED	smoke emitting diode
+SED	stream editor
 SEE	[Kfz:D] Landkreis Seelow
 SEF	[Kfz:D] Landkreis Scheinfeld
 SEGV	segmentation violation
@@ -4210,6 +4219,7 @@ UUID	universally unique identifier
 UUOC	useless use of cat
 UUT	unit under test
 UVZ	Universelle Verpeilerzeit
+UX	user experience
 UY	[ccTLD] Uruguay
 UZ	[Kfz] Usbekistan
 UZ	[ccTLD] Usbekistan
