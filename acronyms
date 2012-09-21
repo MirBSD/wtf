@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.203 2012/09/21 17:20:50 tg Exp $
+$MirOS: wtf/acronyms,v 1.204 2012/09/21 19:05:15 tg Exp $
 $NetBSD: acronyms,v 1.213 2012/09/16 00:02:41 dholland Exp $
 $NetBSD: acronyms.comp,v 1.129 2012/09/21 14:10:14 ginsbach Exp $
 $miros: src/sys/sys/errno.h,v 1.8 2008/12/10 20:08:39 tg Exp $
@@ -171,6 +171,7 @@ ANA	[Kfz:D] Landkreis Annaberg
 AND	[Kfz] Andorra
 ANG	[Kfz:D] Landkreis Angermünde
 ANG	[Kfz] Angola
+ANH	[SW] Episode IV: A New Hope
 ANK	[Kfz:D] Landkreis Anklam
 ANK	[Kfz:D] Landkreis Ostvorpommern
 ANSI	American National Standards Institute
@@ -181,6 +182,7 @@ AO3	Archive of Our Own (by the OTW) -- http://archiveofourown.org/
 AOL	America OnLine
 AOL	alert on LAN
 AOS	add or subtract
+AOTC	[SW] Episode II: Attack of the Clones
 AP	[Kfz:D] Landkreis Weimarer Land
 AP	access point
 AP	application processor
@@ -290,6 +292,7 @@ B/C	because
 B/S	bullshit
 B/W	bandwidth
 B/W	between
+B/W	black and white
 B4	before
 BA	[Kfz:D] kreisfreie Stadt und Landkreis Bamberg
 BA	[Kfz] Birma (veraltet)
@@ -547,6 +550,7 @@ BW	[Kfz:D] Dienstfahrzeuge der Bundes-Wasser- und -schifffahrtsverwaltung
 BW	[Kfz] Botswana (nicht offiziell)
 BW	[ccTLD] Botswana
 BW	bandwidth
+BW	black and white
 BWC	because we can
 BWL	[Kfz:D] Baden-Württemberg, Landesregierung und Landtag
 BWM	block-write mode
@@ -698,6 +702,7 @@ COMA	cache-only memory architecture
 COOP	[sTLD] cooperatives (Gesellschaften)
 CORBA	common object request broker architecture
 CORDIC	COordinate Rotation DIgital Computer algorithm
+COS	[HP] Chamber of Secrets
 COTS	commercial off-the-shelf
 COW	copy-on-write
 CP	continuous pilot
@@ -866,6 +871,7 @@ DGAS	don't give a shit
 DGF	[Kfz:D] Landkreis Dingolfing-Landau
 DGL	data generation language
 DH	Diffie-Hellman
+DH	[HP] Deathly Hallows
 DH	[Kfz:D] Landkreis Grafschaft Diepholz
 DHCP	dynamic host configuration protocol
 DHL	Da Haste Lauferei
@@ -943,6 +949,7 @@ DRRS	display refresh rate switching
 DRY	don't repeat yourself
 DS	[Kfz:D] Landkreis Donaueschingen
 DS	debug store
+DS9	Star Trek: Deep Space Nine
 DSB	double-sideband modulation
 DSDT	differentiated system descriptor table
 DSL	digital subscriber line
@@ -1024,10 +1031,12 @@ EBUSY	(#16) Device busy
 EC	[Kfz] Ecuador
 EC	[ccTLD] Ecuador
 ECC	error correction code
+ECCM	electronic counter-countermeasures (e.g. something against jamming)
 ECHILD	(#10) No child processes
 ECHO	E (International Radiotelephony Spelling Alphabet)
 ECK	[Kfz:D] Landkreis Eckernförde
 ECL	emitter-coupled logic
+ECM	electronic countermeasures (often: jammer)
 ECN	explicit congestion notification
 ECONNABORTED	(#53) Software caused connection abort
 ECONNREFUSED	(#61) Connection refused
@@ -1149,6 +1158,7 @@ ENOTEMPTY	(#66) Directory not empty
 ENOTSOCK	(#38) Socket operation on non-socket
 ENOTSUP	(=EOPNOTSUPP) Operation not supported
 ENOTTY	(#25) Inappropriate ioctl for device
+ENT	Star Trek: Enterprise
 ENXIO	(#6) Device not configured
 EOB	end of business [day]
 EOD	end of day
@@ -1544,6 +1554,7 @@ GNOME	some kind of small earthen animal
 GNT	[Kfz:D] Landkreis Genthin
 GNU	GNU's Not UNIX®
 GOA	[Kfz:D] Landkreis Sankt Goar
+GOF	[HP] Goblet of Fire
 GOH	[Kfz:D] Landkreis Sankt Goarshausen
 GOH	[Kfz:D] Loreleykreis
 GOK	god only knows
@@ -1645,6 +1656,7 @@ HBCI	hopefully correct banking interface
 HBCI	hopelessly catastrophic banking interface
 HBCI	hopelessly corrupt banking interface
 HBN	[Kfz:D] Landkreis Hildburghausen
+HBP	[HP] Half-Blood Prince
 HBS	[Kfz:D] Landkreis Halberstadt
 HC	[Kfz:D] Landkreis Hainichen
 HC	[Kfz:D] Landkreis Mittweida
@@ -1728,6 +1740,15 @@ HOTEL	H (International Radiotelephony Spelling Alphabet)
 HP	Harry Potter
 HP	Hewlett-Packard
 HP	[Kfz:D] Landkreis Bergstraße
+HP	homepage
+HP:COS	Harry Potter and the Chamber of Secrets
+HP:DH	Harry Potter and the Deathly Hallows
+HP:GOF	Harry Potter and the Goblet of Fire
+HP:HBP	Harry Potter and the Half-Blood Prince
+HP:OOTP	Harry Potter and the Order of the Phœnix
+HP:POA	Harry Potter and the Prisoner of Azkaban
+HP:PS	Harry Potter and the Philosopher's Stone
+HP:SS	(see HP:PS)
 HPC	high performance computing
 HPET	high precision event timer
 HQ	Headquarters
@@ -2258,6 +2279,7 @@ LOH	[Kfz:D] Landkreis Lohr am Main
 LOL	lachend, oba laut
 LOL	laughing out loud
 LOS	[Kfz:D] Landkreis Oder-Spree
+LOTR	Lord of the Rings
 LP	Langspielplatte (Schallplatte)
 LP	[Kfz:D] Kreis Lippstadt
 LP	[gc] Lost Place
@@ -2897,6 +2919,7 @@ OOO	OpenOffice
 OOP	object oriented programming
 OOSE	object oriented software engineering
 OOSOOM	out of sight, out of mind
+OOTP	[HP] Order of the Phœnix
 OP	[Kfz:D] Rhein-Wupper-Kreis
 OPENBSD	most secure open source operating system -- http://www.OpenBSD.org/
 OPM	operations per minute
@@ -3109,6 +3132,7 @@ PNG	portable network graphics
 PNP	pay and pray
 PNP	plug and play
 PNP	plug and pray
+POA	[HP] Prisoner of Azkaban
 POC	piece of crap
 POC	point of contact
 POC	proof of concept
@@ -3160,9 +3184,12 @@ PRNG	pseudo random number generator
 PRO	[uTLD] professionals (qualifizierte Fachkräfte)
 PROM	programmable read only memory
 PRÜ	[Kfz:D] Landkreis Prüm
+PS	Postscript
+PS	[HP] Philosopher's Stone
 PS	[Kfz:D] kreisfreie Stadt Pirmasens und Landkreis Südwestpfalz
 PS	[Kfz] Perlis (veraltet)
 PS	[ccTLD] Palästinensische Autonomiegebiete
+PS	post scriptum
 PSA	public service announcement
 PSD	power spectral density
 PSE	page size extensions
@@ -3348,7 +3375,9 @@ ROTFL	Respekt, Originalposting tatsächlich fein lustig
 ROTFL	rolling on the floor laughing
 ROTFLBTCDICAJTTWADBSIHPWTRHITSBKABAYB	rolling on the floor laughing, biting the carpet, dancing in circles and jumping through the window almost dieing by smashing into hp who's then running horrified into the street being killed accidentally by a yellow bulldozer
 ROTFLMAO	rolling on the floor laughing my arse off
+ROTJ	[SW] Episode VI: Return of the Jedi
 ROTOTILL	"nuke with a chain saw device", to die with extreme prejudice (see GC)
+ROTS	[SW] Episode III: Revenge of the Sith
 ROU	[Kfz] Uruguay
 ROW	[Kfz:D] Landkreis Rotenburg (Wümme)
 RP	[Kfz:D] Rhein-Pfalz-Kreis
@@ -3434,6 +3463,7 @@ S	[Kfz] Schweden
 S.M.O.M.	[Kfz] Malteserorden (nicht offiziell)
 S/MIME	Secure/Multipurpose Internet Mail Extensions
 S/PDIF	Sony/Phillips digital interface
+S/W	schwarzweiß
 S1	[Schule DE] Sekundarstufe 1 (Erprobungs- und Mittelstufe)
 S2	[Schule DE] Sekundarstufe 2 (Oberstufe)
 SA	[Kfz] Saargebiet (veraltet)
@@ -3804,9 +3834,16 @@ SSIA	subject says it all
 SSL	secure sockets layer
 SSP	stack smashing protection
 SSTO	single stage to orbit
+ST	Star Trek
 ST	[Kfz:D] Kreis Steinfurt
 ST	[Kfz:D] Landkreis Stade
 ST	[ccTLD] São Tomé und Príncipe
+ST:DS9	[ST] Deep Space Nine
+ST:ENT	[ST] Enterprise
+ST:TAS	[ST] The Animated Series
+ST:TNG	Star Trek: The Next Generation
+ST:TOS	[ST] The Original Series
+ST:VOY	[ST] Voyager
 STA	[Kfz:D] Landkreis Starnberg
 STB	[Kfz:D] Landkreis Sternberg
 STC	software thermal control
@@ -3859,7 +3896,10 @@ SVR2	System V Release 2
 SVR3	System V Release 3
 SVR4	System V Release 4
 SVWS-NRW	[Schule DE] Obligatorische Schulverwaltungssoftware des Landes Nordrhein-Westfalen
+SW	Software
+SW	Star Wars
 SW	[Kfz:D] kreisfreie Stadt und Landkreis Schweinfurt
+SW	schwarzweiß
 SWA	[Kfz:D] Untertaunuskreis
 SWA	[Kfz] Namibia (veraltet)
 SWA	[Kfz] Südwestafrika (veraltet)
@@ -3916,6 +3956,7 @@ TANSTAAFL	there ain't no such thing as a free lunch
 TAO	track at once
 TAOCP	The Art of Computer Programming
 TAP	test anything protocol
+TAS	Star Trek: The Animated Series
 TAS	test and set
 TATMWTDI	there are too many ways to do it (in Perl)
 TB	[gc] travel bug (also used as common name for trackable items, cf. GC)
@@ -3963,6 +4004,7 @@ TEAM	toll, ein Anderer macht's!
 TECO	Text Editor and Corrector
 TEL	[sTLD] telecommunication (Kontaktdaten als NAPTR und TXT RR im DNS)
 TERRATHREE	3 (International Radiotelephony Spelling Alphabet)
+TESB	[SW] Episode V: The Empire Strikes Back
 TET	[Kfz:D] Landkreis Teterow
 TETRA	Terrestrial Trunked Radio
 TETRA	Trans-European Trunked Radio (old)
@@ -4051,6 +4093,7 @@ TN	[Kfz] Tunesien
 TN	[ccTLD] Tunesien
 TNF	The NetBSD® Foundation
 TNF	Tinnef (german dialect)
+TNG	[ST] The Next Generation
 TNLN	[gc] took nothing, left nothing (also: N/T)
 TNLNSL	[gc] took nothing, left nothing, signed log (also: N/T)
 TNX	thanks
@@ -4070,6 +4113,7 @@ TOFU	soy bean based edible
 TOH	to other half
 TOM	Tunnelling of Messages
 TON	[Kfz] Tonga (nicht offiziell)
+TOS	Star Trek: The Original Series
 TOS	terms of service
 TOS	the (atari) operating system
 TOS	trusted operating system
@@ -4077,6 +4121,7 @@ TOS	type of service
 TP	[Kfz:D] Landkreis Templin
 TP	[ccTLD] Osttimor (heute .tl)
 TP	transaction processing
+TPM	[SW] Episode I: The Phantom Menace
 TPM	transactions per minute
 TPM	trusted platform module
 TPR	task priority register
@@ -4306,6 +4351,7 @@ VN	[ccTLD] Vietnam
 VOD	video on demand
 VOF	[Kfz:D] Landkreis Vilshofen
 VOH	[Kfz:D] Landkreis Vohenstrauß
+VOY	Star Trek: Voyager
 VPN	virtual private network
 VR	[Kfz:D] Landkreis Vorpommern-Rügen ohne die Stadt Stralsund und ohne den Altkreis Rügen
 VR	virtual reality
