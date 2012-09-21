@@ -1,6 +1,6 @@
-$MirOS: wtf/acronyms,v 1.202 2012/09/18 19:57:02 tg Exp $
+$MirOS: wtf/acronyms,v 1.203 2012/09/21 17:20:50 tg Exp $
 $NetBSD: acronyms,v 1.213 2012/09/16 00:02:41 dholland Exp $
-$NetBSD: acronyms.comp,v 1.128 2012/09/06 15:24:26 ginsbach Exp $
+$NetBSD: acronyms.comp,v 1.129 2012/09/21 14:10:14 ginsbach Exp $
 $miros: src/sys/sys/errno.h,v 1.8 2008/12/10 20:08:39 tg Exp $
 0	[Kfz:D] Diplomatenkennzeichen oder Politiker
 1	one, on
@@ -188,6 +188,8 @@ APD	[Kfz:D] Landkreis Apolda
 API	application programming interface
 APIC	advanced programmable interrupt controller
 APINKE	[gc] Another Place (originally Park, in the USA) I Never Knew Existed (spoken 'apinky')
+APIP	automatic private (Legacy) IP address
+APIPA	automatic private IP addressing
 APOGOST	[Schule DE] Allgemeine Prüfungsordnung der Gymnasialen Oberstufe
 AQ	[ccTLD] Antarktis (hier definiert als alles südlich von 60° S)
 AQM	active queue management
@@ -262,6 +264,7 @@ AUT	[Kfz] Palästinensische Autonomiegebiete/Gazastreifen (nicht offiziell)
 AV	anti virus
 AVL	Adelson-Velsky-Landis
 AVX	advanced vector extensions
+AW	Armer Winzer
 AW	[Kfz:D] Landkreis Ahrweiler
 AW	[ccTLD] Aruba
 AWACBE	as well as can be expected
@@ -420,6 +423,7 @@ BLB	[Kfz:D] Kreis Wittgenstein
 BLC	back light control
 BLK	[Kfz:D] Burgenlandkreis
 BLOB	binary large object
+BM	Bereifter Mörder
 BM	[Kfz:D] Erftkreis
 BM	[Kfz:D] Kreis Bergheim
 BM	[Kfz:D] Rhein-Erft-Kreis
@@ -664,6 +668,8 @@ CMI	control method interface
 CMIIW	correct me if I'm wrong
 CMOS	complementary metal-oxide-semiconductor
 CMP	chip multi-processing
+CMS	Cryptographic Message Syntax
+CMS	colour management system
 CMS	content management system
 CMYK	cyan magenta yellow black
 CN	[ccTLD] China
@@ -1550,6 +1556,7 @@ GP	[Kfz:D] Landkreis Göppingen
 GP	[ccTLD] Guadeloupe
 GPE	general purpose event
 GPF	general protection fault
+GPG	GNU Privacy Guard (GnuPG, a PGP implementation)
 GPIO	General Purpose I/O
 GPL	GNU General Public License
 GPR	general purpose register
@@ -2087,6 +2094,7 @@ KN	[ccTLD] St. Kitts und Nevis
 KNF	kernel normal form -- https://www.mirbsd.org/man9/style
 KO	[Kfz:D] Landkreis Mayen-Koblenz
 KO	[Kfz:D] kreisfreie Stadt Koblenz
+KO	knocked out
 KOD	kiss of death
 KOI	Код Обмена Информацией (Code for Information Exchange)
 KOS	kill on sight
@@ -3424,6 +3432,7 @@ RÜG	[Kfz:D] Altkreis Rügen im Landkreis Vorpommern-Rügen
 S	[Kfz:D] Stadtkreis Stuttgart
 S	[Kfz] Schweden
 S.M.O.M.	[Kfz] Malteserorden (nicht offiziell)
+S/MIME	Secure/Multipurpose Internet Mail Extensions
 S/PDIF	Sony/Phillips digital interface
 S1	[Schule DE] Sekundarstufe 1 (Erprobungs- und Mittelstufe)
 S2	[Schule DE] Sekundarstufe 2 (Oberstufe)
@@ -3685,6 +3694,7 @@ SMI	structure of management information
 SMI	system management interrupt
 SMIDF	schieß mir in den Fuß
 SMIDF	simple-minded incompetent drooling fool
+SMIME	(see S/MIME)
 SMLSFB	so many losers, so few bullets
 SMM	system management mode
 SMOM	[Kfz] Malteserorden (nicht offiziell)
@@ -3824,6 +3834,8 @@ STP	spanning-tree protocol
 STR	[Schule DE] Studienrat
 STUBO	[Schule DE] Studien- und Berufsorientierung
 STW	search the web
+SU	Sau unterwegs
+SU	Suche Unfall
 SU	[Kfz:D] Rhein-Sieg-Kreis (in Siegburg)
 SU	[Kfz] Sowjetunion (veraltet)
 SU	[ccTLD] die ehemalige Sowjetunion (heute von Rußland weiterverwendet)
