@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.204 2012/09/21 19:05:15 tg Exp $
+$MirOS: wtf/acronyms,v 1.205 2012/09/25 11:24:50 tg Exp $
 $NetBSD: acronyms,v 1.213 2012/09/16 00:02:41 dholland Exp $
 $NetBSD: acronyms.comp,v 1.129 2012/09/21 14:10:14 ginsbach Exp $
 $miros: src/sys/sys/errno.h,v 1.8 2008/12/10 20:08:39 tg Exp $
@@ -37,6 +37,8 @@ $miros: src/sys/sys/errno.h,v 1.8 2008/12/10 20:08:39 tg Exp $
 <3	emoticon (a heart)
 A	[Kfz:D] kreisfreie Stadt und Landkreis Augsburg
 A	[Kfz] Österreich
+A-C	apt-cache
+A-G	apt-get
 A/N	author's note
 AA	[Kfz:D] Landkreis Aalen
 AA	[Kfz:D] Ostalbkreis
@@ -178,6 +180,7 @@ ANSI	American National Standards Institute
 ANTON	A (deutsches Funkalphabet)
 AO	[ccTLD] Angola
 AO	analog output
+AO	at work
 AO3	Archive of Our Own (by the OTW) -- http://archiveofourown.org/
 AOL	America OnLine
 AOL	alert on LAN
@@ -193,6 +196,7 @@ APINKE	[gc] Another Place (originally Park, in the USA) I Never Knew Existed (sp
 APIP	automatic private (Legacy) IP address
 APIPA	automatic private IP addressing
 APOGOST	[Schule DE] Allgemeine Prüfungsordnung der Gymnasialen Oberstufe
+APT	Advanced Packaging Tool
 AQ	[ccTLD] Antarktis (hier definiert als alles südlich von 60° S)
 AQM	active queue management
 AR	[Kfz:D] Kreis Arnsberg
@@ -546,6 +550,7 @@ BUL	[Kfz:D] Landkreis Burglengenfeld
 BUR	[Kfz] Birma (veraltet)
 BUR	[Kfz] Myanmar (veraltet)
 BV	[ccTLD] Bouvetinsel (auch .no)
+BV	bijvoorbeeld (for example, zum Beispiel)
 BW	[Kfz:D] Dienstfahrzeuge der Bundes-Wasser- und -schifffahrtsverwaltung
 BW	[Kfz] Botswana (nicht offiziell)
 BW	[ccTLD] Botswana
@@ -936,6 +941,7 @@ DPD	Deutscher Paketdienst
 DPD	dead peer detection
 DPI	deep packet inspection
 DPI	dots per inch
+DPKG	Debian Package Manager
 DPL	Debian Project Leader
 DPL	descriptor privilege level
 DPST	display power savings technology
@@ -3091,6 +3097,7 @@ PK	[Kfz:D] Landkreis Pritzwalk
 PK	[Kfz] Pakistan
 PK	[ccTLD] Pakistan
 PKCS	public-key cryptography standards
+PKG	package
 PKI	public key infrastructure
 PKSP	pound keys and spew profanity
 PL	[Kfz:D] Landkreis Plauen
@@ -4559,6 +4566,7 @@ YALIMO	you are lame, in my opinion
 YANKEE	Y (International Radiotelephony Spelling Alphabet)
 YAOTM	yet another off-topic message
 YAR	[Kfz] Nordjemen (veraltet)
+YAST	Yet another Setup Tool
 YAWPFAPR	you are welcome; please file a problem report
 YDAY	yesterday
 YDIW	You’re doing it wrong.
@@ -4584,6 +4592,7 @@ YT	[ccTLD] Mayotte (Frankreich) (auch .fr)
 YTD	year to date
 YU	[Kfz] Jugoslawien (veraltet)
 YU	[ccTLD] ehemaliges Jugoslawien (lief bis 30. März 2010, heute .rs für Serbien und .me für Montenegro)
+YUM	Yellowdog Updater Modified
 YV	[Kfz] Venezuela
 YW	you're welcome
 YWSYLS	you win some, you lose some
