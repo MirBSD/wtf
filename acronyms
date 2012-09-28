@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.205 2012/09/25 11:24:50 tg Exp $
+$MirOS: wtf/acronyms,v 1.206 2012/09/28 22:39:47 tg Exp $
 $NetBSD: acronyms,v 1.213 2012/09/16 00:02:41 dholland Exp $
 $NetBSD: acronyms.comp,v 1.129 2012/09/21 14:10:14 ginsbach Exp $
 $miros: src/sys/sys/errno.h,v 1.8 2008/12/10 20:08:39 tg Exp $
@@ -184,7 +184,9 @@ AO	at work
 AO3	Archive of Our Own (by the OTW) -- http://archiveofourown.org/
 AOL	America OnLine
 AOL	alert on LAN
+AOP	aspect-oriented programming
 AOS	add or subtract
+AOT	ahead of time
 AOTC	[SW] Episode II: Attack of the Clones
 AP	[Kfz:D] Landkreis Weimarer Land
 AP	access point
@@ -2037,6 +2039,7 @@ JK	just kidding
 JL	[Kfz:D] Landkreis Jerichower Land
 JM	[ccTLD] Jamaika
 JMO	just my opinion
+JNDI	Java Naming and Directory Interface
 JO	[Kfz] Johor (veraltet)
 JO	[ccTLD] Jordanien
 JOBS	[sTLD] jobs (Unternehmen mit Stellenangeboten)
@@ -2047,6 +2050,7 @@ JR	Junior
 JRE	Java™ runtime environment
 JSYK	just so you know
 JTAG	joint test action group
+JTL	just too late
 JTLYK	just to let you know
 JULIET	J (International Radiotelephony Spelling Alphabet)
 JULIETT	J (International Radiotelephony Spelling Alphabet)
