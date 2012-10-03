@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.206 2012/09/28 22:39:47 tg Exp $
+$MirOS: wtf/acronyms,v 1.207 2012/10/03 17:50:32 tg Exp $
 $NetBSD: acronyms,v 1.213 2012/09/16 00:02:41 dholland Exp $
 $NetBSD: acronyms.comp,v 1.129 2012/09/21 14:10:14 ginsbach Exp $
 $miros: src/sys/sys/errno.h,v 1.8 2008/12/10 20:08:39 tg Exp $
@@ -713,6 +713,7 @@ COS	[HP] Chamber of Secrets
 COTS	commercial off-the-shelf
 COW	copy-on-write
 CP	continuous pilot
+CP	corporal punishment
 CPB	core performance boost
 CPC	cost per click
 CPE	common phase error
@@ -2863,6 +2864,7 @@ OA	[Kfz:D] Landkreis Oberallgäu
 OAEP	optimal asymmetric encryption padding
 OAL	[Kfz:D] Landkreis Ostallgäu
 OAO	over and out
+OASIS	Organization for the Advancement of Structured Information Standards
 OB	[Kfz:D] kreisfreie Stadt Oberhausen
 OBB	[Kfz:D] Landkreis Obernburg am Main
 OBG	[Kfz:D] Landkreis Osterburg
@@ -2880,6 +2882,7 @@ OCR	optical character recognition
 OCTA	eight-
 OD	[Kfz:D] Kreis Stormarn
 ODCM	on-demand clock modulation
+ODF	OASIS Open Document Format for Office Applications (ISO/IEC 26300:2006)
 ODT	on-die termination
 OE	Microsoft Outlook Expreß (Windows built-in MUA/newsreader)
 OE	[Kfz:D] Kreis Olpe
@@ -2907,9 +2910,11 @@ OKTOEIGHT	8 (International Radiotelephony Spelling Alphabet)
 OL	[Kfz:D] kreisfreie Stadt Oldenburg (Oldenburg) und Landkreis Oldenburg
 OLD	[Kfz:D] Kreis Oldenburg in Holstein
 OLE	object linking and embedding
+OLF	(slightly modified ELF file format with operating system tag)
 OM	[Kfz] Oman
 OM	[ccTLD] Oman
 OMC	original male character (OC)
+OMF	Object Metafile
 OMFG	oh my fucking god
 OMG	Oh my Goddess!
 OMG	oh, my god
@@ -2930,6 +2935,7 @@ OOP	object oriented programming
 OOSE	object oriented software engineering
 OOSOOM	out of sight, out of mind
 OOTP	[HP] Order of the Phœnix
+OOXML	Office Open XML (ISO/IEC 29500)
 OP	[Kfz:D] Rhein-Wupper-Kreis
 OPENBSD	most secure open source operating system -- http://www.OpenBSD.org/
 OPM	operations per minute
@@ -4530,6 +4536,9 @@ WV	[Kfz] St. Vincent und die Grenadinen
 WW	[Kfz:D] Westerwaldkreis
 WWAN	wireless wide area network
 WWE	World Wrestling Entertainment, Inc.
+WWI	First World War
+WWI	was weiß ich
+WWII	Second World War
 WWJD	what would Jesus do?
 WWW	weltweit warten
 WWW	world wide waiting
