@@ -1,6 +1,6 @@
-$MirOS: wtf/acronyms,v 1.207 2012/10/03 17:50:32 tg Exp $
+$MirOS: wtf/acronyms,v 1.208 2012/10/19 20:28:07 tg Exp $
 $NetBSD: acronyms,v 1.213 2012/09/16 00:02:41 dholland Exp $
-$NetBSD: acronyms.comp,v 1.129 2012/09/21 14:10:14 ginsbach Exp $
+$NetBSD: acronyms.comp,v 1.130 2012/10/11 18:00:25 ginsbach Exp $
 $miros: src/sys/sys/errno.h,v 1.8 2008/12/10 20:08:39 tg Exp $
 0	[Kfz:D] Diplomatenkennzeichen oder Politiker
 1	one, on
@@ -633,6 +633,7 @@ CG	center of gravity
 CG	control gate
 CGA	color graphics adapter
 CGI	common gateway interface
+CGN	carrier grade NAT
 CGO	[Kfz] Demokratische Republik Kongo
 CGO	[Kfz] Kongo-Kinshasa (veraltet)
 CH	[Kfz] Schweiz
@@ -741,6 +742,7 @@ CS	chip select
 CS	code segment
 CS	computer science
 CSD	Circuit Switched Data
+CSF	Cerebro-Spinal Fluid
 CSH	C Shell
 CSI	channel state information
 CSI	common system interface
@@ -1728,6 +1730,7 @@ HLL	high-level language
 HM	[Kfz:D] Landkreis Hameln-Pyrmont
 HM	[ccTLD] Heard und McDonaldinseln
 HMA	high memory area
+HMAC	hash-based message authentication code
 HMI	human-machine interface
 HMÜ	[Kfz:D] Landkreis Münden
 HN	[Kfz:D] Stadt- und Landkreis Heilbronn
@@ -2312,16 +2315,18 @@ LS	[Kfz:D] Märkischer Kreis
 LS	[Kfz] Lesotho
 LS	[ccTLD] Lesotho
 LSA	[Kfz:D] Sachsen-Anhalt, Landesregierung und Landtag
-LSB	least significant bit [or: byte]
+LSB	least significant bit [or: byte] (rightmost, bit#0)
 LSB	linux standards base
 LSI	large scale integration
 LSL	load segment limit
 LSN	[Kfz:D] Sachsen, Landesregierung und Landtag
+LSN	large scale NAT
 LSR	label switch router
 LSZ	[Kfz:D] Landkreis Langensalza
 LT	[Kfz] Litauen
 LT	[Kfz] Tripolitanien (veraltet)
 LT	[ccTLD] Litauen
+LTB	Lustiges Taschenbuch (Duck Tales)
 LTCC	low temperature co-fired ceramic
 LTE	Long Term Evolution
 LTF	[gc] last to find
@@ -2366,6 +2371,7 @@ MAB	[Kfz:D] Landkreis Marienberg
 MAB	[Kfz:D] Mittlerer Erzgebirgskreis
 MAC	mandatory access control
 MAC	medium access control
+MAC	message authentication code
 MAD	mutually assured destruction
 MADT	multiple APIC descriptor table
 MAI	[Kfz:D] Landkreis Mainburg
@@ -2607,7 +2613,7 @@ MS	[Kfz:D] Kreis Münster
 MS	[Kfz] Mauritius
 MS	[ccTLD] Montserrat
 MSA	Mail Submission Agent
-MSB	most significant bit [or: byte]
+MSB	most significant bit [or: byte] (leftmost)
 MSE	[Kfz:D] Landkreis Mecklenburgische Seenplatte
 MSE	mean square error
 MSF	minutes seconds frames
@@ -2693,6 +2699,7 @@ NAK	negative acknowledgement (see ACK)
 NAM	[Kfz] Namibia
 NAME	[uTLD] name (natürliche Personen)
 NAN	not a number
+NAPT	network address [and] port translation
 NAS	Network Audio System
 NAS	network attached storage
 NAT	network address translation
@@ -3024,6 +3031,7 @@ PB	powerbook
 PB	problem
 PBE	pending break encoding
 PBE	programming by example
+PBR	partition boot record (bootsector)
 PC	personal computer
 PC	program counter
 PCB	printed circuit board
@@ -3415,6 +3423,7 @@ RS	[ccTLD] Serbien
 RS	relay station
 RSA	Rivest, Shamir and Adleman
 RSI	repetitive strain injury
+RSIP	realm specific Internet Protocol
 RSL	[Kfz:D] Landkreis Roßlau
 RSM	[Kfz] San Marino
 RSN	real soon now
@@ -4171,6 +4180,7 @@ TSP	time synchronisation protocol
 TSP	traveling salesman problem
 TSP	tunnel service provider
 TSP	tunnel setup protocol
+TSR	terminate and stay resident
 TSS	Time-Sharing System
 TSS	task state segment
 TT	[Kfz:D] Landkreis Tettnang
@@ -4250,6 +4260,7 @@ UM	[Kfz:D] Landkreis Uckermark
 UM	[ccTLD] United States Minor Outlying Islands (lief bis 2008)
 UMA	uniform memory access
 UMA	upper memory area
+UMAC	message authentication code based on universal hashing
 UMB	upper memory block
 UML	unified modeling language
 UMPC	ultra-mobile PC
