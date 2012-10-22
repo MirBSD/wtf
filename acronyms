@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.208 2012/10/19 20:28:07 tg Exp $
+$MirOS: wtf/acronyms,v 1.209 2012/10/22 20:18:33 tg Exp $
 $NetBSD: acronyms,v 1.213 2012/09/16 00:02:41 dholland Exp $
 $NetBSD: acronyms.comp,v 1.130 2012/10/11 18:00:25 ginsbach Exp $
 $miros: src/sys/sys/errno.h,v 1.8 2008/12/10 20:08:39 tg Exp $
@@ -827,6 +827,7 @@ DBR	[Kfz:D] Altkreis Bad Doberan im Landkreis Rostock
 DBS	database server
 DC	data centre
 DC	direct current
+DC	disconnect
 DCC	direct cable connect
 DCC	direct client [to] client
 DCD	data carrier detect
@@ -1277,6 +1278,7 @@ FCL	fiber channel loop
 FCOL	for crying out loud
 FCS	frame check sequence
 FD	[Kfz:D] Landkreis Fulda
+FD	file descriptor
 FDA	Federal Drug Administration
 FDA	Für den Arsch
 FDB	[Kfz:D] Landkreis Friedberg in Bayern
