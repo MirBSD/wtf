@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.209 2012/10/22 20:18:33 tg Exp $
+$MirOS: wtf/acronyms,v 1.210 2012/11/06 21:11:35 tg Exp $
 $NetBSD: acronyms,v 1.213 2012/09/16 00:02:41 dholland Exp $
 $NetBSD: acronyms.comp,v 1.130 2012/10/11 18:00:25 ginsbach Exp $
 $miros: src/sys/sys/errno.h,v 1.8 2008/12/10 20:08:39 tg Exp $
@@ -583,10 +583,13 @@ CA	certificate authority
 CABAL	TINC
 CABAL	http://www.lucianobello.com.ar/post/there-is-no-cabal-but-whats-a-cabal/
 CAD	computer-aided design
+CAM	Categorical Abstract Machine
 CAM	[Kfz] Kamerun
 CAM	computer-aided (or -assisted) manufacturing
 CAM	conditional access module
 CAM	content addressable memory
+CAML	Categorical Abstract Machine Language
+CAML	Collaborative Application Markup Language
 CAPTCHA	Completely Automated Public Turing test to tell Computers and Humans Apart
 CARP	common address redundancy protocol
 CAS	(atomic) compare and swap
@@ -602,6 +605,7 @@ CB	[Kfz:D] Landkreis Cottbus
 CB	[Kfz] Belgisch-Kongo (veraltet)
 CBC	cipher block chaining
 CBR	constant bit rate
+CC	C compiler
 CC	Creative Commons
 CC	[ccTLD] Kokosinseln
 CC	carbon coby
@@ -721,6 +725,7 @@ CPE	common phase error
 CPG	clock pulse generator
 CPL	current privilege level
 CPLD	complex programmable logic device
+CPP	C præprocessor
 CPS	characters per second
 CPT	command pass through
 CPU	central processing unit
@@ -1483,6 +1488,7 @@ GCC	GNU C Compiler (old)
 GCC	GNU Compiler Collection
 GCC	Group Call Control
 GCC	gcc can't compile
+GCD	greatest common divisor (GGT)
 GCR	group-coded recording
 GD	[Kfz:D] Landkreis Schwäbisch Gmünd
 GD	[ccTLD] Grenada
@@ -1512,7 +1518,7 @@ GG	[Kfz:D] Landkreis Groß-Gerau
 GG	[ccTLD] Guernsey
 GG	good game
 GGT	ganz großes Tennis
-GGT	größter gemeinsamer Teiler
+GGT	größter gemeinsamer Teiler (GCD)
 GGWP	good game, well played
 GH	[Kfz] Ghana
 GH	[ccTLD] Ghana
@@ -1840,6 +1846,7 @@ ICBW	It could be worse
 ICCL	I couldn't care less
 ICE	in-circuit emulator
 ICE	internal compiler error
+ICFP	International Conference on Functional Programming
 ICH	I/O controller hub
 ICMP	internet control message protocol
 ICT	information and communications technology
@@ -1924,9 +1931,11 @@ INDY	[altTLD] Unabhängige Informationen, Medien und Kunst
 INFO	[uTLD] information
 ING	[altTLD] ?
 INPO	in no particular order
+INRIA	National Institute for Research in Computer Science and Control
 INT	[sTLD] international (multinationale Organisationen)
 IO	[ccTLD] Britisches Territorium im Indischen Ozean
 IO	input/output
+IOCCC	International Obfuscated C Code Contest
 IOCTL	input/output control
 IOMMU	input/output memory management unit
 IOU	I owe you (debt)
@@ -1954,6 +1963,7 @@ IR	[Kfz] Iran
 IR	[ccTLD] Iran
 IRC	internet relay chat
 IRDA	infrared data association
+IRILL	Initiative pour la Recherche et l'Innovation sur le Logiciel Libre
 IRL	[Kfz] Irland
 IRL	in real life
 IRQ	[Kfz] Irak
@@ -2092,6 +2102,8 @@ KF	[Kfz:D] Landkreis Kaufbeuren
 KFZ	Kraftfahrzeug (autonomously powered vehicle)
 KG	[Kfz:D] Landkreis Bad Kissingen
 KG	[ccTLD] Kirgisistan
+KGV	George Ⅴ, King of Britain
+KGV	kleinstes gemeinsames Vielfaches (LCM)
 KH	[Kfz:D] Landkreis Bad Kreuznach
 KH	[ccTLD] Kambodscha
 KHZ	kHz: Kilohertz (1'000 Hz)
@@ -2207,6 +2219,7 @@ LC	[gc] locationless cache (usually tracked at TC)
 LCD	liquid crystal display
 LCL	[gc] left calling card
 LCM	landing craft, mechanised
+LCM	least/lowest/smallest common multiple (KGV)
 LCP	link control protocol
 LD	[Kfz:D] Landkreis Landau in der Pfalz
 LD	[Kfz:D] Landkreis Landau-Bad Bergzabern
@@ -2885,6 +2898,7 @@ OC	[Kfz:D] Bördekreis
 OC	[Kfz:D] Landkreis Oschersleben
 OC	[gc] opencaching.{cz,de,pl}
 OC	original character
+OCAML	Objective Caml
 OCH	[Kfz:D] Landkreis Ochsenfurt
 OCL	object constraint language
 OCR	optical character recognition
@@ -2946,6 +2960,7 @@ OOSOOM	out of sight, out of mind
 OOTP	[HP] Order of the Phœnix
 OOXML	Office Open XML (ISO/IEC 29500)
 OP	[Kfz:D] Rhein-Wupper-Kreis
+OPC	Obfuscated Perl Contest
 OPENBSD	most secure open source operating system -- http://www.OpenBSD.org/
 OPM	operations per minute
 OPR	[Kfz:D] Landkreis Ostprignitz-Ruppin
@@ -3640,6 +3655,7 @@ SFW	safe for work
 SG	[Kfz:D] kreisfreie Stadt Solingen
 SG	[ccTLD] Singapur
 SGH	[Kfz:D] Landkreis Sangerhausen
+SGML	Standard Generalised Markup Language
 SGP	[Kfz] Singapur
 SGRAM	synchronous graphics random access memory
 SH	Bourne Shell
@@ -4237,6 +4253,7 @@ UART	universal asynchronous receiver/transmitter
 UAT	user acceptance testing
 UBUNTU	I am too stupid to configure Debian.
 UC	uncacheable
+UCC	Underhanded C Contest
 UCS	uniform-cost search
 UDMA	Ultra-DMA
 UDO	ultra density optical (storage)
