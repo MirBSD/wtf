@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.210 2012/11/06 21:11:35 tg Exp $
+$MirOS: wtf/acronyms,v 1.211 2012/11/10 13:40:45 tg Exp $
 $NetBSD: acronyms,v 1.213 2012/09/16 00:02:41 dholland Exp $
 $NetBSD: acronyms.comp,v 1.130 2012/10/11 18:00:25 ginsbach Exp $
 $miros: src/sys/sys/errno.h,v 1.8 2008/12/10 20:08:39 tg Exp $
@@ -577,6 +577,8 @@ BÜS	[Kfz:D] Gemeinde Büsingen am Hochrhein im Landkreis Konstanz
 BÜZ	[Kfz:D] Landkreis Bützow
 C	[Kfz:D] Landkreis Chemnitz
 C	[Kfz] Kuba
+C4	(some kind of explosive)
+C4	CCC Cologne
 CA	[Kfz:D] Landkreis Calau
 CA	[ccTLD] Kanada
 CA	certificate authority
@@ -610,6 +612,7 @@ CC	Creative Commons
 CC	[ccTLD] Kokosinseln
 CC	carbon coby
 CC	credit card
+CCC	Chaos Computer Club
 CCD	charge coupled device
 CCI	co-channel interferer
 CCITT	Comitè Consultatif Internationale de Tèlègraphie et Tèlèphonie
@@ -670,6 +673,7 @@ CLF	common log format
 CLI	command line interface
 CLIP	Calling Line Identification Presentation (feature on callee side to present incoming transmitted phone number)
 CLIR	Calling Line Identification Restriction (feature on caller side to prevent transmitting the own phone number - three modi: CLIR presentation (off by default, on by dial prefix), CLIR restriction (on by default, off by dial prefix), always enabled)
+CLOUD	Can't Locate Our Users' Data
 CLP	[Kfz:D] Landkreis Cloppenburg
 CLR	common language runtime
 CLTT	closed loop thermal throttling
@@ -1782,6 +1786,7 @@ HSCSD	High Speed Circuit Switched Data
 HSDPA	High-Speed Downlink Packet Access
 HSIW	HOLY SHIT IT WORKS
 HSK	[Kfz:D] Hochsauerlandkreis
+HSPA	high speed packet access
 HST	[Kfz:D] Hansestadt Stralsund im Landkreis Vorpommern-Rügen
 HST	[Kfz:D] Landkreis Stralsund
 HSUPA	High-Speed Uplink Packet Access
@@ -4292,6 +4297,7 @@ UNIFORM	U (International Radiotelephony Spelling Alphabet)
 UNIX	(Uniplexed Information and Computing System, pun on MULTICS)
 UNIX	(bootloader for games written by Ken Thompson et al.)
 UOR	Urgent Operational Requirement
+UPLOAD	to create load on the server
 UPNP	universal plug and play
 UPS	[gc] unnatural pile of sticks
 UPS	uninterruptible power supply
