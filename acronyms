@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.212 2012/11/12 19:19:08 tg Exp $
+$MirOS: wtf/acronyms,v 1.213 2012/11/20 17:09:20 tg Exp $
 $NetBSD: acronyms,v 1.213 2012/09/16 00:02:41 dholland Exp $
 $NetBSD: acronyms.comp,v 1.130 2012/10/11 18:00:25 ginsbach Exp $
 $miros: src/sys/sys/errno.h,v 1.8 2008/12/10 20:08:39 tg Exp $
@@ -2070,6 +2070,7 @@ JP	[ccTLD] Japan
 JPEG	joint photography experts group
 JR	Junior
 JRE	Java™ runtime environment
+JSB	Jetzt sehr bald
 JSYK	just so you know
 JTAG	joint test action group
 JTL	just too late
@@ -2236,6 +2237,7 @@ LDK	[Kfz:D] Lahn-Dill-Kreis
 LDR	light-dependent resistor
 LDS	[Kfz:D] Landkreis Dahme-Spreewald
 LDT	local descriptor table
+LDVM	Lies das verdammte Manual
 LE	[Kfz:D] Landkreis Lemgo
 LE	logical extent
 LED	light emitting diode
@@ -4403,6 +4405,7 @@ VMX	vector multimedia extensions
 VMX	virtual machine extensions
 VN	[Kfz] Vietnam
 VN	[ccTLD] Vietnam
+VNL	voornamelijk
 VOD	video on demand
 VOF	[Kfz:D] Landkreis Vilshofen
 VOH	[Kfz:D] Landkreis Vohenstrauß
