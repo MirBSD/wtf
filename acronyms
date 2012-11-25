@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.213 2012/11/20 17:09:20 tg Exp $
+$MirOS: wtf/acronyms,v 1.214 2012/11/25 21:53:05 tg Exp $
 $NetBSD: acronyms,v 1.213 2012/09/16 00:02:41 dholland Exp $
 $NetBSD: acronyms.comp,v 1.130 2012/10/11 18:00:25 ginsbach Exp $
 $miros: src/sys/sys/errno.h,v 1.8 2008/12/10 20:08:39 tg Exp $
@@ -517,7 +517,9 @@ BSF	bit scan forward
 BSK	[Kfz:D] Landkreis Beeskow
 BSOD	blue screen of death
 BSP	binary space partition
+BSP	board support package
 BSP	bootstrap processor
+BSP	bug-squashing party
 BSR	bit scan reverse
 BSS	block started by symbol
 BSSAP+	BSS Application Part Plus
@@ -2049,6 +2051,7 @@ JFK	John Fitzgerald Kennedy
 JFTR	just falls Thema reinkarniert
 JFTR	just for the record
 JFW	just fucking works
+JFYI	just for your information
 JGI	just google it
 JGI	just got it
 JHD	just hit "delete"
@@ -2810,6 +2813,7 @@ NL	[Kfz:D] Niedersachsen, Landesregierung und Landtag
 NL	[Kfz] Niederlande
 NL	[ccTLD] Niederlande
 NLS	native language support
+NM	New Maintainer
 NM	[Kfz:D] Landkreis Neumarkt in der Oberpfalz
 NM	[gc] needs maintenance
 NM	never mind
