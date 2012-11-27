@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.214 2012/11/25 21:53:05 tg Exp $
+$MirOS: wtf/acronyms,v 1.215 2012/11/27 14:53:29 tg Exp $
 $NetBSD: acronyms,v 1.213 2012/09/16 00:02:41 dholland Exp $
 $NetBSD: acronyms.comp,v 1.130 2012/10/11 18:00:25 ginsbach Exp $
 $miros: src/sys/sys/errno.h,v 1.8 2008/12/10 20:08:39 tg Exp $
@@ -1538,6 +1538,7 @@ GI	[ccTLD] Gibraltar
 GID	group identifier
 GIF	graphics interchange format
 GIGO	garbage in, garbage out
+GILF	grandma i'd like to fuck
 GIT	content addressable filesystem written by finnish study aborter
 GIT	stupid content tracker
 GIYF	google is your friend
