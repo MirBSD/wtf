@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.215 2012/11/27 14:53:29 tg Exp $
+$MirOS: wtf/acronyms,v 1.216 2012/11/28 22:01:32 tg Exp $
 $NetBSD: acronyms,v 1.213 2012/09/16 00:02:41 dholland Exp $
 $NetBSD: acronyms.comp,v 1.130 2012/10/11 18:00:25 ginsbach Exp $
 $miros: src/sys/sys/errno.h,v 1.8 2008/12/10 20:08:39 tg Exp $
@@ -1060,6 +1060,8 @@ ECHILD	(#10) No child processes
 ECHO	E (International Radiotelephony Spelling Alphabet)
 ECK	[Kfz:D] Landkreis Eckernförde
 ECL	emitter-coupled logic
+ECLIPSE	Eight Cores? Look, it performs slow everywhere!
+ECLIPSE	Java's answer to EMACS
 ECM	electronic countermeasures (often: jammer)
 ECN	explicit congestion notification
 ECONNABORTED	(#53) Software caused connection abort
