@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.216 2012/11/28 22:01:32 tg Exp $
+$MirOS: wtf/acronyms,v 1.217 2012/12/01 17:43:12 tg Exp $
 $NetBSD: acronyms,v 1.213 2012/09/16 00:02:41 dholland Exp $
 $NetBSD: acronyms.comp,v 1.130 2012/10/11 18:00:25 ginsbach Exp $
 $miros: src/sys/sys/errno.h,v 1.8 2008/12/10 20:08:39 tg Exp $
@@ -45,6 +45,7 @@ AA	[Kfz:D] Ostalbkreis
 AA	anti-aliasing
 AAA	authentication, authorisation, accounting
 AAMOF	as a matter of fact
+AAO	am angegebenen Orte (cf. ibid.)
 AAT	average access time
 AB	[Kfz:D] kreisfreie Stadt und Landkreis Aschaffenburg
 ABC	(latin Alphabet)
@@ -161,6 +162,7 @@ AM	[ccTLD] Armenien
 AM	access method
 AM	alignment mask
 AM	amplitude modulation
+AM	ante meridiem (before noon)
 AMC	Adaptive Modulation and Coding
 AMI	alternate mark inversion
 AMOL	a mountain of love
@@ -633,6 +635,7 @@ CE	common era
 CER	canonical encoding rules
 CF	[ccTLD] Zentralafrikanische Republik
 CF	compact flash
+CF	confer (see)
 CFG	context-free grammar
 CFG	control-flow graph
 CFV	call for votes
@@ -1026,6 +1029,7 @@ E	2.718281828459045235360287471352662497757…
 E	[Kfz:D] kreisfreie Stadt Essen
 E	[Kfz] Spanien
 E-XER	extended XML encoding rules
+E.G.	exempli gratia (for example)
 E2BIG	(#7) Argument list too long
 EA	[Kfz:D] kreisfreie Stadt Eisenach
 EA	[Kfz] Britisch-Ostafrika (veraltet)
@@ -1106,6 +1110,7 @@ EFTYPE	(#79) Inappropriate file type or format
 EG	[Kfz:D] Landkreis Eggenfelden
 EG	[ccTLD] Ägypten
 EG	evil grin
+EG	exempli gratia (for example)
 EGA	enhanced graphics adapter
 EGID	effective group ID
 EGP	exterior gateway protocol
@@ -1249,7 +1254,7 @@ ET	[Kfz] Ägypten
 ET	[ccTLD] Äthiopien
 ETA	edited to add
 ETA	estimated time of arrival (usually infinite)
-ETC	et cetera
+ETC	et cetera (and the rest, and so on)
 ETH	[Kfz] Äthiopien
 ETIMEDOUT	(#60) Operation timed out
 ETL	extract, transform, load
@@ -1829,6 +1834,7 @@ HÖS	[Kfz:D] Landkreis Höchstadt an der Aisch
 HÜN	[Kfz:D] Landkreis Hünfeld
 I	[Kfz] Italien
 I C	I see
+I.E.	id est (it is, that is)
 I/O	input / output
 I2O	intelligent input/output
 IA	information assurance
@@ -1842,6 +1848,7 @@ IAWTC	I agree with this comment
 IAY	I adore you
 IB	I'm back
 IBC	iterated block cipher
+IBID	ibidem (in the same place)
 IBM	International Business Machines
 IBS	instruction based sampling
 IBTD	I beg to differ
@@ -1864,6 +1871,7 @@ ICT	information and communications technology
 ICUR	I see you are
 ICW	initialisation command word
 ID	[ccTLD] Indonesien
+ID	idem (in the same place)
 ID	identification (passport)
 ID	identifier
 IDA	I (deutsches Funkalphabet)
@@ -1886,6 +1894,7 @@ IDTS	I don't think so
 IDTT	I drink to that
 IE	Microsoft Internet Explorer
 IE	[ccTLD] Irland
+IE	id est (it is, that is)
 IEC	international electrotechnical commission
 IEEE	Institute [of] Electrical [and] Electronics Engineers
 IESG	Internet Engineering Steering Group
@@ -3604,6 +3613,7 @@ SBZ	Sowjetische Besatzungszone
 SBZ	should be zero
 SC	[Kfz:D] Landkreis Schwabach
 SC	[ccTLD] Seychellen
+SC	scilicet (evidently, naturally; used as namely)
 SC	store conditional
 SCA	source code analyzer
 SCADA	supervisory control and data acquisition
@@ -3619,6 +3629,7 @@ SCG	[Kfz] Serbien und Montenegro (veraltet)
 SCHULE	SCH (deutsches Funkalphabet)
 SCI	scalable coherent interface
 SCI	system control interrupt
+SCIL	scilicet (evidently, naturally; used as namely)
 SCM	software configuration management
 SCM	source code management
 SCNR	schulljung, connte nit rückhalten
@@ -3691,6 +3702,7 @@ SHOK	smashing head on keyboard
 SHS	[Kfz] Königreich der Serben, Kroaten und Slowenen (veraltet)
 SI	[Kfz:D] Kreis Siegen-Wittgenstein
 SI	[ccTLD] Slowenien
+SIC	thus, such (in quotes: really written like that, including errors)
 SIEMENS	Schon Im Ersten Moment Eigenartiger Nichtfunktionierender Scheiß
 SIEMENS	Sicher Ist Eins: Man Erhält Nur Schrott
 SIEMENS	Super Im Ersten Moment, Erst Nachher Scheiße
@@ -4659,9 +4671,11 @@ YW	you're welcome
 YWSYLS	you win some, you lose some
 Z	[Kfz:D] Landkreis Zwickau
 Z	[Kfz] Sambia
+Z.B.	zum Beispiel
 ZA	[Kfz] Südafrika
 ZA	[ccTLD] Südafrika
 ZACHARIAS	Z (deutsches Funkalphabet)
+ZB	zum Beispiel
 ZBR	zone bit recording
 ZBUS	Zwischen Bildschirm und Stuhl
 ZE	[Kfz:D] Landkreis Zerbst
