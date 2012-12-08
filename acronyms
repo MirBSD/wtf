@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.220 2012/12/08 20:34:26 tg Exp $
+$MirOS: wtf/acronyms,v 1.221 2012/12/08 22:29:31 tg Exp $
 $NetBSD: acronyms,v 1.213 2012/09/16 00:02:41 dholland Exp $
 $NetBSD: acronyms.comp,v 1.130 2012/10/11 18:00:25 ginsbach Exp $
 $miros: src/sys/sys/errno.h,v 1.8 2008/12/10 20:08:39 tg Exp $
@@ -4442,6 +4442,7 @@ VRM	voltage regulator module
 VRRP	virtual router redundancy protocol
 VS	[Kfz:D] Landkreis Villingen-Schwenningen
 VU	[ccTLD] Vanuatu
+VVG	Verbesserungsvorschlag
 VVV	Voilà, Vivement Vendredi
 VVV	veni, vidi, vici
 VVV	veni, vidi, vodka (Ich kam, sah und soff.)
