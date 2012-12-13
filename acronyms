@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.222 2012/12/10 15:26:38 tg Exp $
+$MirOS: wtf/acronyms,v 1.223 2012/12/13 18:48:44 tg Exp $
 $NetBSD: acronyms,v 1.213 2012/09/16 00:02:41 dholland Exp $
 $NetBSD: acronyms.comp,v 1.130 2012/10/11 18:00:25 ginsbach Exp $
 $miros: src/sys/sys/errno.h,v 1.8 2008/12/10 20:08:39 tg Exp $
@@ -1800,6 +1800,7 @@ HS	[Kfz:D] Kreis Heinsberg
 HSCSD	High Speed Circuit Switched Data
 HSDPA	High-Speed Downlink Packet Access
 HSIW	HOLY SHIT IT WORKS
+HSK	Hühner, Schweine, Kühe
 HSK	[Kfz:D] Hochsauerlandkreis
 HSPA	high speed packet access
 HST	[Kfz:D] Hansestadt Stralsund im Landkreis Vorpommern-Rügen
@@ -1819,6 +1820,7 @@ HTTPS	hyper-text transfer protocol, ssl secured
 HU	[Kfz:D] Stadt Hanau im Main-Kinzig-Kreis
 HU	[ccTLD] Ungarn
 HURD	HIRD of Unix-Replacing Daemons
+HURD	Hurd Users Relish Deviance
 HURD	the GNU operating system kernel (herd of gnus)
 HUS	[Kfz:D] Landkreis Husum
 HV	[Kfz:D] Landkreis Havelberg
