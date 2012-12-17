@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.224 2012/12/16 22:55:37 tg Exp $
+$MirOS: wtf/acronyms,v 1.225 2012/12/17 22:58:18 tg Exp $
 $NetBSD: acronyms,v 1.213 2012/09/16 00:02:41 dholland Exp $
 $NetBSD: acronyms.comp,v 1.130 2012/10/11 18:00:25 ginsbach Exp $
 $miros: src/sys/sys/errno.h,v 1.8 2008/12/10 20:08:39 tg Exp $
@@ -3945,6 +3945,7 @@ STL	[Kfz:D] Landkreis Stollberg
 STLD	sponsored top-level domain
 STM	STMicroelectronics
 STM	Synchronous Transport Module (SDH)
+STMT	statement
 STO	[Kfz:D] Landkreis Stockach
 STOP	(full stop, period) . (International Radiotelephony Spelling Alphabet)
 STP	[Kfz] São Tomé und Príncipe
