@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.225 2012/12/17 22:58:18 tg Exp $
+$MirOS: wtf/acronyms,v 1.226 2012/12/21 17:26:03 tg Exp $
 $NetBSD: acronyms,v 1.213 2012/09/16 00:02:41 dholland Exp $
 $NetBSD: acronyms.comp,v 1.130 2012/10/11 18:00:25 ginsbach Exp $
 $miros: src/sys/sys/errno.h,v 1.8 2008/12/10 20:08:39 tg Exp $
@@ -2857,6 +2857,7 @@ NOOB	newbie
 NOP	no operation
 NOR	[Kfz:D] Landkreis Norden
 NORDPOL	N (deutsches Funkalphabet)
+NOTA	none of the above
 NOVEMBER	N (International Radiotelephony Spelling Alphabet)
 NOVENINE	9 (International Radiotelephony Spelling Alphabet)
 NOYB	none of your business
