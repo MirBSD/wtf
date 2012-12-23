@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.228 2012/12/23 16:27:04 tg Exp $
+$MirOS: wtf/acronyms,v 1.229 2012/12/23 20:32:22 tg Exp $
 $NetBSD: acronyms,v 1.213 2012/09/16 00:02:41 dholland Exp $
 $NetBSD: acronyms.comp,v 1.130 2012/10/11 18:00:25 ginsbach Exp $
 $miros: src/sys/sys/errno.h,v 1.8 2008/12/10 20:08:39 tg Exp $
@@ -2533,6 +2533,7 @@ MDA	mail delivery agent
 MDA	monochrome display adapter
 MDRAM	multibank dynamic random access memory
 MDWDW	Mach' doch, was Du willst!
+MDWN	Markdown
 ME	[Kfz:D] Kreis Mettmann
 ME	[Kfz] Spanisch-Marokko (veraltet)
 ME	[ccTLD] Montenegro
@@ -3489,6 +3490,7 @@ RSR	[Kfz] Simbabwe (veraltet)
 RSR	[Kfz] Südrhodesien (veraltet)
 RSS	really simple syndication
 RSS	residual sum of squares
+RST	reStructured Text
 RSVP	please reply (french: repondez s'il vous plaît)
 RT	[Kfz:D] Landkreis Reutlingen
 RT	[Kfz] Togo
