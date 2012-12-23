@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.227 2012/12/22 00:20:40 tg Exp $
+$MirOS: wtf/acronyms,v 1.228 2012/12/23 16:27:04 tg Exp $
 $NetBSD: acronyms,v 1.213 2012/09/16 00:02:41 dholland Exp $
 $NetBSD: acronyms.comp,v 1.130 2012/10/11 18:00:25 ginsbach Exp $
 $miros: src/sys/sys/errno.h,v 1.8 2008/12/10 20:08:39 tg Exp $
@@ -355,6 +355,7 @@ BDF	Bitmap Distribution Format
 BDFC	(vertically) compressed form of BDF
 BDFL	Benevolent Dictator for Life
 BDI	bit deinterleave
+BDS	Branch Delay Slot
 BDS	[Kfz] Barbados
 BDUF	big design up front
 BE	[Kfz:D] Kreis Beckum
@@ -3562,6 +3563,8 @@ SACD	super audio compact disc
 SACK	selective ACKnowledgement (TCP)
 SAD	[Kfz:D] Landkreis Schwandorf
 SAD	security association database
+SAK	Secure Access Key
+SAK	System Attention Key
 SAL	[Kfz:D] Saarland, Landesregierung und Landtag
 SAL	system abstraction layer
 SAM	serial access memory
