@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.230 2012/12/31 19:25:09 tg Exp $
+$MirOS: wtf/acronyms,v 1.231 2012/12/31 20:19:47 tg Exp $
 $NetBSD: acronyms,v 1.213 2012/09/16 00:02:41 dholland Exp $
 $NetBSD: acronyms.comp,v 1.130 2012/10/11 18:00:25 ginsbach Exp $
 $miros: src/sys/sys/errno.h,v 1.8 2008/12/10 20:08:39 tg Exp $
@@ -1179,8 +1179,23 @@ ENFILE	(#23) Too many open files in system
 ENOATTR	(#83) Attribute not found
 ENOBUFS	(#55) No buffer space available
 ENOCOFFEE	(#85) Programmer needs more coffee
+ECANCELED	(#86) Operation canceled
+EBADMSG	(#87) Bad message
+EIDRM	(#88) Identifier removed
+EMULTIHOP	(#89) (reserved)
+ENODATA	(#90) No message available on STREAM head read queue
+ENOLINK	(#91) (reserved)
+ENOMSG	(#92) No message of desired type
+ENOSR	(#93) No STREAM resources
+ENOSTR	(#94) Not a STREAM
+ENOTRECOVERABLE	(#95) State not recoverable
+EOVERFLOW	(#96) Value too large to be stored in data type
+EOWNERDEAD	(#97) Previous owner died
+EPROTO	(#98) Protocol error
+ETIME	(#99) STREAM ioctl timeout
 ENODEV	(#19) Operation not supported by device
 ENOENT	(#2) No such file or directory
+ELAST	(#99) (must be equal to largest errno)
 ENOEXEC	(#8) Exec format error
 ENOLCK	(#77) No locks available
 ENOMEM	(#12) Cannot allocate memory
@@ -1207,7 +1222,6 @@ EOM	end of message
 EOPNOTSUPP	(#45) Operation not supported
 EOS	end of story
 EOT	end of transmission
-EOVERFLOW	(=ERANGE) Result too large
 EPERM	(#1) Operation not permitted
 EPFNOSUPPORT	(#46) Protocol family not supported
 EPIC	explicitly parallel instruction computing
