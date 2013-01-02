@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.231 2012/12/31 20:19:47 tg Exp $
+$MirOS: wtf/acronyms,v 1.232 2013/01/02 22:26:07 tg Exp $
 $NetBSD: acronyms,v 1.213 2012/09/16 00:02:41 dholland Exp $
 $NetBSD: acronyms.comp,v 1.130 2012/10/11 18:00:25 ginsbach Exp $
 $miros: src/sys/sys/errno.h,v 1.8 2008/12/10 20:08:39 tg Exp $
@@ -1054,6 +1054,7 @@ EAUTH	(#80) Authentication error
 EAZ	[Kfz] Sansibar (veraltet)
 EB	[Kfz:D] Landkreis Eilenburg
 EBADF	(#9) Bad file descriptor
+EBADMSG	(#87) Bad message
 EBADRPC	(#72) RPC struct is bad
 EBCDIC	Extended Binary Coded Decimal Interchange Code (cf. BCD)
 EBE	[Kfz:D] Landkreis Ebersberg
@@ -1063,6 +1064,7 @@ EBS	[Kfz:D] Landkreis Ebermannstadt
 EBUSY	(#16) Device busy
 EC	[Kfz] Ecuador
 EC	[ccTLD] Ecuador
+ECANCELED	(#86) Operation canceled
 ECC	error correction code
 ECCM	electronic counter-countermeasures (e.g. something against jamming)
 ECHILD	(#10) No child processes
@@ -1129,6 +1131,7 @@ EHOSTUNREACH	(#65) No route to host
 EI	[Kfz:D] Landkreis Eichstätt
 EIC	[Kfz:D] Landkreis Eichsfeld
 EIDE	enchanced IDE
+EIDRM	(#88) Identifier removed
 EIE	enough is enough
 EIH	[Kfz:D] Landkreis Eichstätt
 EIL	[Kfz:D] Landkreis Eisleben
@@ -1146,6 +1149,7 @@ EISCONN	(#56) Socket is already connected
 EISDIR	(#21) Is a directory
 EK	[Schule DE] Erweiterungskurs (gymnasialer Zweig der Gesamtschule)
 EL	[Kfz:D] Landkreis Emsland
+ELAST	(#99) (must be equal to largest errno)
 ELF	endless long to wait for
 ELF	executable and linking format
 ELF	extrem langsames Format
@@ -1169,6 +1173,7 @@ EMR	electro-magnetic radiation
 EMS	[Kfz:D] Rhein-Lahn-Kreis, Stadt Lahnstein
 EMSG	email message
 EMSGSIZE	(#40) Message too long
+EMULTIHOP	(#89) (reserved)
 EN	[Kfz:D] Ennepe-Ruhr-Kreis
 ENAMETOOLONG	(#63) File name too long
 ENEEDAUTH	(#81) Need authenticator
@@ -1179,33 +1184,24 @@ ENFILE	(#23) Too many open files in system
 ENOATTR	(#83) Attribute not found
 ENOBUFS	(#55) No buffer space available
 ENOCOFFEE	(#85) Programmer needs more coffee
-ECANCELED	(#86) Operation canceled
-EBADMSG	(#87) Bad message
-EIDRM	(#88) Identifier removed
-EMULTIHOP	(#89) (reserved)
 ENODATA	(#90) No message available on STREAM head read queue
-ENOLINK	(#91) (reserved)
-ENOMSG	(#92) No message of desired type
-ENOSR	(#93) No STREAM resources
-ENOSTR	(#94) Not a STREAM
-ENOTRECOVERABLE	(#95) State not recoverable
-EOVERFLOW	(#96) Value too large to be stored in data type
-EOWNERDEAD	(#97) Previous owner died
-EPROTO	(#98) Protocol error
-ETIME	(#99) STREAM ioctl timeout
 ENODEV	(#19) Operation not supported by device
 ENOENT	(#2) No such file or directory
-ELAST	(#99) (must be equal to largest errno)
 ENOEXEC	(#8) Exec format error
 ENOLCK	(#77) No locks available
+ENOLINK	(#91) (reserved)
 ENOMEM	(#12) Cannot allocate memory
+ENOMSG	(#92) No message of desired type
 ENOPROTOOPT	(#42) Protocol not available
 ENOSPC	(#28) No space left on device
+ENOSR	(#93) No STREAM resources
+ENOSTR	(#94) Not a STREAM
 ENOSYS	(#78) Function not implemented
 ENOTBLK	(#15) Block device required
 ENOTCONN	(#57) Socket is not connected
 ENOTDIR	(#20) Not a directory
 ENOTEMPTY	(#66) Directory not empty
+ENOTRECOVERABLE	(#95) State not recoverable
 ENOTSOCK	(#38) Socket operation on non-socket
 ENOTSUP	(=EOPNOTSUPP) Operation not supported
 ENOTTY	(#25) Inappropriate ioctl for device
@@ -1222,6 +1218,8 @@ EOM	end of message
 EOPNOTSUPP	(#45) Operation not supported
 EOS	end of story
 EOT	end of transmission
+EOVERFLOW	(#96) Value too large to be stored in data type
+EOWNERDEAD	(#97) Previous owner died
 EPERM	(#1) Operation not permitted
 EPFNOSUPPORT	(#46) Protocol family not supported
 EPIC	explicitly parallel instruction computing
@@ -1233,6 +1231,7 @@ EPROCUNAVAIL	(#76) Bad procedure for program
 EPROGMISMATCH	(#75) Program version wrong
 EPROGUNAVAIL	(#74) RPC prog. not avail
 EPROM	erasable programmable read only memory
+EPROTO	(#98) Protocol error
 EPROTONOSUPPORT	(#43) Protocol not supported
 EPROTOTYPE	(#41) Protocol wrong type for socket
 EQ	[Kfz] Ecuador (veraltet)
@@ -1275,6 +1274,7 @@ ETA	edited to add
 ETA	estimated time of arrival (usually infinite)
 ETC	et cetera (and the rest, and so on)
 ETH	[Kfz] Äthiopien
+ETIME	(#99) STREAM ioctl timeout
 ETIMEDOUT	(#60) Operation timed out
 ETL	extract, transform, load
 ETLA	extended three letter acronym
@@ -1909,6 +1909,7 @@ IDC	I don't care
 IDD	inderdaad (dutch; indeed)
 IDE	integrated development environment
 IDE	integrated drive electronics
+IDEA	International Data Encryption Algorithm
 IDFD	in-der-fucking-daad (cf. IDD)
 IDGI	I don't get it
 IDGW	in a good way (?)
