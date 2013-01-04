@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.233 2013/01/04 01:58:24 tg Exp $
+$MirOS: wtf/acronyms,v 1.234 2013/01/04 17:16:01 tg Exp $
 $NetBSD: acronyms,v 1.213 2012/09/16 00:02:41 dholland Exp $
 $NetBSD: acronyms.comp,v 1.130 2012/10/11 18:00:25 ginsbach Exp $
 $miros: src/sys/sys/errno.h,v 1.8 2008/12/10 20:08:39 tg Exp $
@@ -156,6 +156,7 @@ ALS	[Kfz:D] Landkreis Alsfeld
 ALS	ambient light sensor
 ALTTLD	alternative top-level domain (using an alternative DNS root)
 ALU	arithmetic and logical unit
+ALU	{address,acronym} lookup
 ALZ	[Kfz:D] Landkreis Alzenau in Unterfranken
 AM	[Kfz:D] Landkreis Amberg-Sulzbach
 AM	[ccTLD] Armenien
@@ -4368,6 +4369,9 @@ UNIFORM	U (International Radiotelephony Spelling Alphabet)
 UNIX	(Uniplexed Information and Computing System, pun on MULTICS)
 UNIX	(bootloader for games written by Ken Thompson et al.)
 UOR	Urgent Operational Requirement
+UPC	unit of processing capacity
+UPC	unit production cost
+UPC	{universal,uniform} product code
 UPLOAD	to create load on the server
 UPNP	universal plug and play
 UPS	[gc] unnatural pile of sticks
