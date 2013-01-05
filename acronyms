@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.234 2013/01/04 17:16:01 tg Exp $
+$MirOS: wtf/acronyms,v 1.235 2013/01/05 02:33:52 tg Exp $
 $NetBSD: acronyms,v 1.213 2012/09/16 00:02:41 dholland Exp $
 $NetBSD: acronyms.comp,v 1.130 2012/10/11 18:00:25 ginsbach Exp $
 $miros: src/sys/sys/errno.h,v 1.8 2008/12/10 20:08:39 tg Exp $
@@ -318,6 +318,7 @@ BAR	[Kfz:D] Landkreis Barnim
 BAR	base address register
 BASH	GNU Bourne-Again Shell
 BASIC	beginners' all-purpose symbolic instruction code (_the_ programming language per se)
+BAT	Baby-AT (Formfaktor, like ATX)
 BAU	business as usual
 BB	[Kfz:D] Landkreis Böblingen
 BB	[ccTLD] Barbados
@@ -888,6 +889,7 @@ DELTA	D (International Radiotelephony Spelling Alphabet)
 DEP	data execution prevention
 DER	distinguished encoding rules
 DES	Data Encryption Standard
+DEV	Diodenerdwahlverfahren
 DF	don't fragment
 DFA	deterministic finite automaton
 DFC	data flow control
@@ -897,6 +899,7 @@ DFS	depth first search
 DFS	distributed file system
 DFT	diagnostic function test
 DFT	discrete Fourier transformation
+DFÜ	Datenfernübertragung
 DGAS	don't give a shit
 DGF	[Kfz:D] Landkreis Dingolfing-Landau
 DGL	data generation language
@@ -1001,6 +1004,7 @@ DTD	document type definition
 DTE	data terminal equipment
 DTE	dumb terminal emulator
 DTL	diode-transistor logic
+DTMF	Dual Tone Multifrequency
 DTRT	do the right thing
 DTS	digital thermal sensor
 DTST	did the same thing
@@ -1555,6 +1559,7 @@ GFY	good for you
 GG	[Kfz:D] Landkreis Groß-Gerau
 GG	[ccTLD] Guernsey
 GG	good game
+GGS	Gehörschutzgleichrichter
 GGT	ganz großes Tennis
 GGT	größter gemeinsamer Teiler (GCD)
 GGWP	good game, well played
@@ -1670,6 +1675,7 @@ GTH	go to hell
 GTLD	generic top-level domain
 GTP	GPRS Tunneling Protocol
 GTSY	{good, glad} to see you
+GU	Gabelumschalter
 GU	[ccTLD] Guam
 GUB	[Kfz:D] Landkreis Guben
 GUB	[Kfz] Guinea-Bissau
@@ -2067,6 +2073,8 @@ IV	initialisation vector
 IVT	interrupt vector table
 IW	it's worse
 IWBNI	it would be nice if
+IWV	Impulswahlverfahren
+IWV	Pulse Dial
 IYD	in your dreams
 IYKWIM	if you know what I mean
 IYSS	if you say so
@@ -2577,6 +2585,8 @@ MFM	merge from master
 MFM	modified frequency modulation
 MFS	Memory File System
 MFT	merge from trunk
+MFV	Mehrfrequenzwahlverfahren
+MFV	Touch Tone
 MG	[Kfz:D] kreisfreie Stadt Mönchengladbach
 MG	[ccTLD] Madagaskar
 MGH	[Kfz:D] Landkreis Mergentheim
@@ -3112,6 +3122,7 @@ PB	problem
 PBE	pending break encoding
 PBE	programming by example
 PBR	partition boot record (bootsector)
+PBX	private branch exchange
 PC	personal computer
 PC	program counter
 PCB	printed circuit board
@@ -3396,6 +3407,7 @@ RDF	resource description format
 RDG	[Kfz:D] Landkreis Ribnitz-Damgarten
 RDM	relational data model
 RDMA	remote direct memory access
+RE	Erdtaste
 RE	[Kfz:D] Kreis Recklinghausen
 RE	[ccTLD] Réunion
 RE	regular expression
@@ -3406,6 +3418,7 @@ REI	[Kfz:D] Stadt Bad Reichenhall im Landkreis Berchtesgadener Land
 REI	[Kfz:D] Teilkreis Laufen im Landkreis Berchtesgadener Land
 REST	representational state transfer
 REXX	Restructured Extended Executor
+RF	Flash-Taste für Amtsholung
 RF	radio frequency
 RFA	request for assistance
 RFC	request for comments
@@ -3544,6 +3557,7 @@ RTL	randomly transmitting link
 RTL	resistor-transistor logic
 RTL	richtig träges LAN
 RTOS	real time operating system
+RTP	real-time transport protocol
 RTS	ready to send
 RTS	request to send
 RTSL	read the source, Luke (open source programming)
