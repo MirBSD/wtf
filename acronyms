@@ -1,9 +1,11 @@
-$MirOS: wtf/acronyms,v 1.235 2013/01/05 02:33:52 tg Exp $
+$MirOS: wtf/acronyms,v 1.236 2013/01/06 00:11:49 tg Exp $
 $NetBSD: acronyms,v 1.213 2012/09/16 00:02:41 dholland Exp $
 $NetBSD: acronyms.comp,v 1.130 2012/10/11 18:00:25 ginsbach Exp $
 $miros: src/sys/sys/errno.h,v 1.8 2008/12/10 20:08:39 tg Exp $
 0	[Kfz:D] Diplomatenkennzeichen oder Politiker
 1	one, on
+1080I	1920x540px (interlaced)
+1080P	1920x1080px
 10Q	thank you
 10X	tenx (thanks)
 1337	elite ("leet")
@@ -17,6 +19,7 @@ $miros: src/sys/sys/errno.h,v 1.8 2008/12/10 20:08:39 tg Exp $
 4	four, for
 4TF	[gc] fourth to find
 4TW	for the win
+720P	1280x720px
 8	eight, ate
 8VSB	8-state vestigial side band modulation
 :'(	(emoticon: cry, with tears)
@@ -70,6 +73,7 @@ ACL	access control list
 ACL	active current loop
 ACM	Association for Computing Machinery
 ACME	A Company Making Everything
+ACOS	Arkuskosinus
 ACP	auxillary control process
 ACP	auxillary control program
 ACPI	advanced configuration and power interface
@@ -84,7 +88,7 @@ ADB	Apple desktop bus
 ADC	analog [to] digital converter
 ADD	Attention Deficit Disorder
 ADD	acronym driven development
-ADH	Aufmerksamkeitsdefizitsyndrom (cf. ADD)
+ADH	cf. ADS
 ADHD	Attention Deficit Disorder in combination with hyperactivity
 ADHS	Aufmerksamkeitsdefizitsyndrom in Komorbidität mit Hyperaktivität (cf. ADHD)
 ADN	[Kfz] Demokratische Volksrepublik Jemen (Südjemen) (veraltet)
@@ -92,6 +96,7 @@ ADN	any day now
 ADO	active data objects
 ADP	automatic data processing
 ADPCM	adaptive differential pulse code modulation
+ADS	Aufmerksamkeitsdefizitsyndrom (cf. ADD)
 ADS	alternate data stream
 ADSL	asymmetric digital subscriber line
 ADT	abstract data type
@@ -208,6 +213,9 @@ AR	[Kfz:D] Kreis Arnsberg
 AR	[ccTLD] Argentinien
 ARAT	always running APIC timer
 ARC	adaptive replacement cache
+ARCCOS	Arkuskosinus
+ARCSIN	Arkussinus
+ARCTAN	Arkustangēns
 ARGE	Amt für Repression, Grundrechtsentzug und Existenzvernichtung
 ARM	Acorn RISC Machine
 ARM	Advanced RISC Machines
@@ -234,6 +242,7 @@ ASE	advanced software environment
 ASF	The Apache™ Foundation
 ASIA	[sTLD] asia (ICANN-Region Asien/Australien/Pazifik)
 ASIC	application-specific integrated circuit
+ASIN	Arkussinus
 ASK	amplitude shif keying
 ASL	[Kfz:D] Landkreis Aschersleben-Staßfurt
 ASLR	address space layout randomisation
@@ -246,6 +255,7 @@ ASS	After Sales Support
 ASS	dumbhead
 ASS	jackass, moke (zool.)
 AST	AT&T Software Technology (ast-ksh package) from AT&T Labs Research
+AST	Anruf-Sammel-Taxi
 AST	abstract syntax tree
 AST	asynchronous trap
 ASZ	[Kfz:D] Landkreis Aue-Schwarzenberg
@@ -256,6 +266,7 @@ AT	access time
 AT	advanced technology
 AT	anti-tank weapon
 ATA	advanced technology attachment
+ATAN	Arkustangēns
 ATAPI	advanced technology attachment packet interface
 ATC	address translation cache
 ATEOTD	at the end of the day
@@ -275,6 +286,7 @@ AUT	[Kfz] Palästinensische Autonomiegebiete/Gazastreifen (nicht offiziell)
 AV	anti virus
 AVL	Adelson-Velsky-Landis
 AVX	advanced vector extensions
+AW	Antwort (MS Outlook mis-translation)
 AW	Armer Winzer
 AW	[Kfz:D] Landkreis Ahrweiler
 AW	[ccTLD] Aruba
@@ -303,6 +315,7 @@ B/W	bandwidth
 B/W	between
 B/W	black and white
 B4	before
+BA	Baccalaureus Artium
 BA	[Kfz:D] kreisfreie Stadt und Landkreis Bamberg
 BA	[Kfz] Birma (veraltet)
 BA	[ccTLD] Bosnien und Herzegowina
@@ -360,6 +373,7 @@ BDI	bit deinterleave
 BDS	Branch Delay Slot
 BDS	[Kfz] Barbados
 BDUF	big design up front
+BE	Broteinheit
 BE	[Kfz:D] Kreis Beckum
 BE	[ccTLD] Belgien
 BED	[Kfz:D] Landkreis Brand-Erbisdorf
@@ -393,6 +407,7 @@ BGD	[Kfz:D] Teilkreis Berchtesgaden im Landkreis Bad Reichenhall
 BGD	[Kfz:D] Teilkreis Berchtesgaden im Landkreis Berchtesgadener Land
 BGL	[Kfz:D] Landkreis Berchtesgadener Land
 BGP	border gateway protocol
+BH	Büstenhalter
 BH	[Kfz:D] Landkreis Bühl
 BH	[Kfz] Belize (veraltet)
 BH	[Kfz] Britisch Honduras (veraltet)
@@ -445,6 +460,7 @@ BM	[Kfz:D] Zulassungsstelle in Hürth
 BM	[ccTLD] Bermuda
 BM	bus master
 BMC	baseboard management controller
+BMI	body mass index
 BMIC	bus master interface controller
 BMZ	Brandmeldezentrale
 BN	[Kfz:D] Landkreis Bonn
@@ -482,6 +498,7 @@ BPB	BIOS parameter block
 BPF	Berkeley packet filter
 BPI	bits per inch
 BPM	business process modelling
+BPP	bits per pixel
 BPS	bits per second
 BPSK	binary phase shift keying
 BQ	[ccTLD] Saba
@@ -510,6 +527,7 @@ BS	[ccTLD] Bahamas
 BS	binary sequence
 BS	bullshit
 BSB	[Kfz:D] Landkreis Bersenbrück
+BSC	Baccalaureus Scientiae
 BSD	Berkeley software distribution
 BSD	Blobs Schaden Dir
 BSD	Blobs Sind Doof
@@ -584,6 +602,7 @@ BÜS	[Kfz:D] Gemeinde Büsingen am Hochrhein im Landkreis Konstanz
 BÜZ	[Kfz:D] Landkreis Bützow
 C	[Kfz:D] Landkreis Chemnitz
 C	[Kfz] Kuba
+C++	CFrustFrust
 C4	(some kind of explosive)
 C4	CCC Cologne
 CA	[Kfz:D] Landkreis Calau
@@ -635,12 +654,14 @@ CDN	[Kfz] Kanada
 CDRAM	cache dynamic random access memory
 CE	[Kfz:D] Landkreis Celle
 CE	common era
+CEO	Chief Executive Officer
 CER	canonical encoding rules
 CF	[ccTLD] Zentralafrikanische Republik
 CF	compact flash
 CF	confer (see)
 CFG	context-free grammar
 CFG	control-flow graph
+CFO	Chief Financial Officer
 CFP	call for papers
 CFP	call for projects
 CFV	call for votes
@@ -681,8 +702,10 @@ CL	[Kfz] Sri Lanka
 CL	[ccTLD] Chile
 CLF	common log format
 CLI	command line interface
+CLI	misspelling for CIL in .net context
 CLIP	Calling Line Identification Presentation (feature on callee side to present incoming transmitted phone number)
 CLIR	Calling Line Identification Restriction (feature on caller side to prevent transmitting the own phone number - three modi: CLIR presentation (off by default, on by dial prefix), CLIR restriction (on by default, off by dial prefix), always enabled)
+CLIRO	CLIR Override (for police, etc.)
 CLOUD	Can't Locate Our Users' Data
 CLP	[Kfz:D] Landkreis Cloppenburg
 CLR	common language runtime
@@ -728,6 +751,7 @@ COMA	cache-only memory architecture
 COOP	[sTLD] cooperatives (Gesellschaften)
 CORBA	common object request broker architecture
 CORDIC	COordinate Rotation DIgital Computer algorithm
+COS	Kosinus
 COS	[HP] Chamber of Secrets
 COTS	commercial off-the-shelf
 COW	copy-on-write
@@ -749,9 +773,11 @@ CR	[ccTLD] Costa Rica
 CR	carriage return
 CRC	cyclic redundancy check
 CRL	carrier recovery loop
+CRL	certificate revocation list
 CRLF	carriage return / line feed
 CRO	[Kfz] Kroatien (veraltet)
 CRT	cathode ray tube
+CS	Counter-Strike
 CS	[Kfz] Slowakei (veraltet)
 CS	[Kfz] Tschechien (veraltet)
 CS	[Kfz] Tschechoslowakei (veraltet)
@@ -769,6 +795,7 @@ CSI	crime scene investigation
 CSMA	carrier sense multiple access
 CSMA/CA	carrier sense multiple access with collision avoidance
 CSMA/CD	carrier sense multiple access with collision detection
+CSR	certificate signing request
 CSR	control [and] status registers
 CSRF	cross-site request forgery
 CSS	Content Scrambling System
@@ -777,11 +804,13 @@ CSV	comma-separated values
 CTF	capture the flag
 CTM	close to metal
 CTN	can't talk now
+CTO	Chief Technology Officer
 CTS	clear to send
 CU	[Kfz] Curaçao (veraltet)
 CU	[ccTLD] Kuba
 CU	see you
 CUA	common user access
+CUDA	Compute Unified Device Architecture (GPU programming)
 CUI	(n)curses user interface
 CUT	coordinated universal time (UTC)
 CUX	[Kfz:D] Landkreis Cuxhaven
@@ -818,8 +847,8 @@ DAB	digital audio broadcasting
 DAC	digital [to] analog converter
 DAC	discretionary access control
 DACH	D-A-CH: Germany, Austria, Switzerland
+DAEMON	(that cuddly red BSD mascot)
 DAEMON	disk and execution monitor
-DAEMON	that cuddly red BSD mascot)
 DAFUQ	... the fuck
 DAH	[Kfz:D] Landkreis Dachau
 DAN	[Kfz:D] Landkreis Lüchow-Dannenberg
@@ -832,6 +861,7 @@ DAU	Dümmster anzunehmender User
 DAU	[Kfz:D] Landkreis Daun
 DAU	[Kfz:D] Landkreis Vulkaneifel
 DAV	Distributed Authoring and Versioning
+DB	Deutsche Bahn
 DB	[Kfz:D] Dienstfahrzeuge der Deutschen Bundesbahn
 DB	database
 DBA	database administrator
@@ -933,6 +963,7 @@ DL	download
 DLE	data link escape
 DLG	[Kfz:D] Landkreis Dillingen an der Donau
 DLL	dynamic link library (shared object)
+DM	Deutsche Mark
 DM	[Kfz:D] Landkreis Demmin
 DM	[Kfz:D] Teile des Landkreises Demmin im Landkreis Mecklenburgische Seenplatte
 DM	[ccTLD] Dominica
@@ -989,6 +1020,7 @@ DSB	double-sideband modulation
 DSDT	differentiated system descriptor table
 DSL	digital subscriber line
 DSL	domain specific language
+DSLAC	DSL Access Concentrator
 DSLAM	digital subscriber line access multiplexer
 DSLR	digital single-lens reflex camera
 DSN	delivery status notification
@@ -1028,6 +1060,7 @@ DW	[Kfz:D] Weißeritzkreis
 DWIM	do what I mean
 DWIW	do what I want
 DWYW	do what you want
+DWZ	Deutsche Wertungszahl (bei Schach)
 DWZ	dat wil zeggen?
 DY	[Kfz] Dahomey (veraltet)
 DYK	do you know?
@@ -1067,6 +1100,8 @@ EBN	[Kfz:D] Landkreis Ebern
 EBR	extended boot record
 EBS	[Kfz:D] Landkreis Ebermannstadt
 EBUSY	(#16) Device busy
+EC	Eurocity
+EC	European Commission
 EC	[Kfz] Ecuador
 EC	[ccTLD] Ecuador
 ECANCELED	(#86) Operation canceled
@@ -1119,6 +1154,7 @@ EFL	emitter follower logic
 EFM	eight to fourteen modulation
 EFT	electronic funds transfer
 EFTYPE	(#79) Inappropriate file type or format
+EG	Europäische Gemeinschaft (now EU)
 EG	[Kfz:D] Landkreis Eggenfelden
 EG	[ccTLD] Ägypten
 EG	evil grin
@@ -1326,6 +1362,7 @@ FCOL	for crying out loud
 FCS	frame check sequence
 FD	[Kfz:D] Landkreis Fulda
 FD	file descriptor
+FD	floppy disc
 FDA	Federal Drug Administration
 FDA	Für den Arsch
 FDB	[Kfz:D] Landkreis Friedberg in Bayern
@@ -1448,6 +1485,7 @@ FSCK	file system check
 FSCK	fuck
 FSDO	for some definition of
 FSF	Free Software Foundation -- http://www.fsf.org/ http://www.fsf-europe.org/
+FSK	Freiwillige Selbstkontrolle
 FSK	frequency shift keying
 FSM	(see http://en.wikipedia.org/wiki/Flying_Spaghetti_Monster)
 FSM	[Kfz] Mikronesien
@@ -1482,6 +1520,7 @@ FUD	fear, uncertainty and doubt
 FUQ	frequently unanswered questions
 FUR	[altTLD] Furry
 FUS	fast user switching
+FUSE	filesystem in userspace
 FUTHARK	(runic Alphabet)
 FW	[Kfz:D] Landkreis Fürstenwalde
 FWH	firmware hub
@@ -1545,10 +1584,12 @@ GEL	[Kfz:D] Kreis Geldern
 GEM	[Kfz:D] Landkreis Gemünden am Main
 GEM	graphics environment manager
 GEM	graphics execution manager
+GEMA	Gesellschaft für musikalische Aufführungs- und mechanische Vervielfältigungsrechte
 GENA	general event notification architecture
 GEO	[Kfz:D] Landkreis Gerolzhofen
 GEO	[Kfz] Georgien (veraltet)
 GER	[Kfz:D] Landkreis Germersheim
+GEZ	Gebühreneinzugszentrale (worse than Scientology)
 GF	[Kfz:D] Landkreis Gifhorn
 GF	[ccTLD] Französisch-Guayana
 GF	girlfriend
@@ -1572,29 +1613,30 @@ GHZ	GHz: Gigahertz (1'000'000'000 Hz)
 GI	[Kfz:D] Landkreis Gießen
 GI	[ccTLD] Gibraltar
 GID	group identifier
+GIDF	Google ist dein Freund (oder besser DDG)
 GIF	graphics interchange format
 GIGO	garbage in, garbage out
 GILF	grandma i'd like to fuck
 GIT	content addressable filesystem written by finnish study aborter
 GIT	stupid content tracker
-GIYF	google is your friend
+GIYF	google is your friend (or rather, DDG)
 GJ	good job
 GK	[Kfz:D] Selfkantkreis Geilenkirchen-Heinsberg
 GK	[Schule DE] Grundkurs
-GL	"gl hf" - geek l33t hack forever
-GL	"gl hf" - gentoo linux: hack freedumbly
-GL	"gl hf" - gentoo linux: hack freely
-GL	"gl hf" - gentoo linux: half finished
-GL	"gl hf" - get a life: hack forever
-GL	"gl hf" - get a life: hack freebsd
-GL	"gl hf" - go liberate half-born fetuses
-GL	"gl hf" - go lick hairy females
-GL	"gl hf" - go lick hairy folksingers
-GL	"gl hf" - good luck, have fun [StarCraft]
 GL	[Kfz:D] Rheinisch-Bergischer Kreis
 GL	[ccTLD] Grönland
 GL	[gc] GeoLutin, free trackable item (see also: TB)
-GL	good luck
+GL	good luck (see GL HF, HF)
+GL HF	geek l33t hack forever
+GL HF	gentoo linux: hack freedumbly
+GL HF	gentoo linux: hack freely
+GL HF	gentoo linux: half finished
+GL HF	get a life: hack forever
+GL HF	get a life: hack freebsd
+GL HF	go liberate half-born fetuses
+GL HF	go lick hairy females
+GL HF	go lick hairy folksingers
+GL HF	good luck, have fun [StarCraft]
 GLA	[Kfz:D] kreisfreie Stadt Gladbeck
 GLHF	good luck, have fun
 GLT	Gebäudeleittechnik
@@ -1730,6 +1772,7 @@ HCI	host controller interface
 HCI	human-computer interaction
 HCL	hardware compatibility list
 HD	[Kfz:D] kreisfreie Stadt Heidelberg und Rhein-Neckar-Kreis
+HD	hard disc
 HDA	Heil den Asen (=OMG)
 HDB	Heil Dir, Bruder
 HDCP	high-bandwidth digital content protection
@@ -1737,7 +1780,7 @@ HDD	hard disc drive
 HDH	[Kfz:D] Landkreis Heidenheim
 HDL	[Kfz:D] Landkreis Haldensleben
 HDL	hardware description language
-HDTV	high-definition television
+HDTV	high-definition television (720p, 1080i, 1080p)
 HDW	Heil den Wansen (=OMG)
 HE	[Kfz:D] Landkreis Helmstedt
 HE	how embarrasing
@@ -1752,7 +1795,7 @@ HET	[Kfz:D] Landkreis Hettstedt
 HEXA	six-
 HF	[Kfz:D] Kreis Herford
 HF	hardware floating point (Debian/armhf)
-HF	have fun (see also: GL)
+HF	have fun (see also: GL, GL HF)
 HF	high frequency
 HFIW	HOLY FUCK IT WORKS
 HFM	highest frequency mode
@@ -1792,6 +1835,7 @@ HMÜ	[Kfz:D] Landkreis Münden
 HN	[Kfz:D] Stadt- und Landkreis Heilbronn
 HN	[Kfz] Honduras
 HN	[ccTLD] Honduras
+HNO	Hals-Nasen-Ohrenarzt
 HNY	happy new year
 HO	[Kfz:D] kreisfreie Stadt und Landkreis Hof
 HOAS	hold on a second
@@ -1889,6 +1933,7 @@ IBS	instruction based sampling
 IBTD	I beg to differ
 IBTD	in before the delete (web fora)
 IC	I see
+IC	Intercity
 IC	integrated circuit
 ICA	independent computer architecture
 ICANN	(also jokingly: ICAN't)
@@ -1898,6 +1943,7 @@ ICBW	I could be wrong
 ICBW	It could be worse
 ICCL	I couldn't care less
 ICD	International statistical Classification of Diseases and related health problems
+ICE	Intercity-Expreß
 ICE	in-circuit emulator
 ICE	internal compiler error
 ICFP	International Conference on Functional Programming
@@ -2019,6 +2065,7 @@ IQ	[ccTLD] Irak
 IQ	intelligence quotient
 IR	[Kfz] Iran
 IR	[ccTLD] Iran
+IR	infrared
 IRC	internet relay chat
 IRDA	infrared data association
 IRILL	Initiative pour la Recherche et l'Innovation sur le Logiciel Libre
@@ -2048,6 +2095,7 @@ ISOC	internet society
 ISP	internet service provider
 ISR	in-service register
 ISR	interrupt service routine
+ISS	International Space Station
 ISSN	international standard serial number
 IST	interrupt stack table
 ISTM	it seems to me
@@ -2070,6 +2118,7 @@ ITYW	It's this you want
 IUD	insert usual disclaimers
 IUSS	if you say so
 IV	initialisation vector
+IVF	in-vitro fertilisation
 IVT	interrupt vector table
 IW	it's worse
 IWBNI	it would be nice if
@@ -2106,6 +2155,7 @@ JFW	just fucking works
 JFYI	just for your information
 JGI	just google it
 JGI	just got it
+JHD	Jahrhundert (century)
 JHD	just hit "delete"
 JIC	just in case
 JIHBED	it is word arabic == TOP AND POWER INTELLIGENT</quote> (a TNF joke)
@@ -2148,6 +2198,7 @@ KAUFMANN	K (deutsches Funkalphabet)
 KB	[Kfz:D] Landkreis Waldeck-Frankenberg
 KB	keyboard
 KB	kilobyte
+KB	knowledge base
 KBD	keyboard
 KBD	kilobaud
 KBE	Kappes Buure Expreß
@@ -2170,6 +2221,7 @@ KGV	kleinstes gemeinsames Vielfaches (LCM)
 KH	[Kfz:D] Landkreis Bad Kreuznach
 KH	[ccTLD] Kambodscha
 KHZ	kHz: Kilohertz (1'000 Hz)
+KI	Künstliche Intelligenz (AI)
 KI	[Kfz:D] kreisfreie Stadt Kiel
 KI	[ccTLD] Kiribati
 KIB	[Kfz:D] Donnersbergkreis
@@ -2199,7 +2251,7 @@ KM	[ccTLD] Komoren
 KMA	keep me advised
 KMA	keep moving ahead
 KMA	kill me already
-KMS	kernel-mode setting
+KMS	kernel mode-setting
 KN	[Kfz:D] Landkreis Konstanz ohne die Gemeinde Büsingen am Hochrhein
 KN	[Kfz] Grönland
 KN	[ccTLD] St. Kitts und Nevis
@@ -2284,6 +2336,7 @@ LCL	[gc] left calling card
 LCM	landing craft, mechanised
 LCM	least/lowest/smallest common multiple (KGV)
 LCP	link control protocol
+LCR	least-cost routing
 LD	[Kfz:D] Landkreis Landau in der Pfalz
 LD	[Kfz:D] Landkreis Landau-Bad Bergzabern
 LD	[Kfz:D] Landkreis Südliche Weinstraße
@@ -2309,6 +2362,7 @@ LF	low frequency
 LFM	lowest frequency mode
 LFN	long file names
 LFO	low-frequency oscillation
+LFS	Large File Support
 LFS	Linux from Scratch
 LFS	Live for Speed (online racing simulator)
 LFS	log-structured file system
@@ -2374,6 +2428,7 @@ LOL	laughing out loud
 LOS	[Kfz:D] Landkreis Oder-Spree
 LOTR	Lord of the Rings
 LP	Langspielplatte (Schallplatte)
+LP	Launchpad
 LP	[Kfz:D] Kreis Lippstadt
 LP	[gc] Lost Place
 LP	long playing (record)
@@ -2443,6 +2498,7 @@ M	[Kfz:D] kreisfreie Stadt und Landkreis München
 M	[Kfz] Israel (veraltet)
 M	[Kfz] Malta
 M8	mate
+MA	Magister Artium
 MA	[Kfz:D] Landkreis Mannheim
 MA	[Kfz] Marokko
 MA	[ccTLD] Marokko
@@ -2554,12 +2610,15 @@ MCSE	my company screws everyone
 MCSE	my computer's software exploded
 MCSE	my cranium softened easily
 MCSE	my customers support extravagance
+MD	Dr. med. (medical doctor)
+MD	Minidisc
 MD	[Kfz:D] kreisfreie Stadt Magdeburg
 MD	[Kfz] Moldawien
 MD	[ccTLD] Moldawien
 MD	machine-dependent
 MDA	mail delivery agent
 MDA	monochrome display adapter
+MDI	multi-document interface
 MDRAM	multibank dynamic random access memory
 MDWDW	Mach' doch, was Du willst!
 MDWN	Markdown
@@ -2584,6 +2643,7 @@ MFG	with friendly greetings
 MFM	merge from master
 MFM	modified frequency modulation
 MFS	Memory File System
+MFT	Master File Table
 MFT	merge from trunk
 MFV	Mehrfrequenzwahlverfahren
 MFV	Touch Tone
@@ -2627,6 +2687,8 @@ MK	[Kfz:D] Märkischer Kreis
 MK	[Kfz] Mazedonien
 MK	[ccTLD] Mazedonien
 MKK	[Kfz:D] Main-Kinzig-Kreis ohne die Stadt Hanau
+MKSH	MidnightBSD Korn Shell
+MKSH	MirBSD Korn Shell
 ML	[Kfz:D] Landkreis Mansfelder Land
 ML	[ccTLD] Mali
 ML	machine language
@@ -2696,6 +2758,8 @@ MS	[Kfz] Mauritius
 MS	[ccTLD] Montserrat
 MSA	Mail Submission Agent
 MSB	most significant bit [or: byte] (leftmost)
+MSC	Magister Scientiae
+MSD	mean shortest distance
 MSE	[Kfz:D] Landkreis Mecklenburgische Seenplatte
 MSE	mean square error
 MSF	minutes seconds frames
@@ -2763,6 +2827,7 @@ MÜN	[Kfz:D] Landkreis Münsingen
 MÜR	[Kfz:D] Altkreis Müritz im Landkreis Mecklenburgische Seenplatte
 N	[Kfz:D] Landkreis Nürnberg
 N	[Kfz] Norwegen
+N/A	not available
 N/C	not connected
 N/M	never mind
 N/T	[gc] no trade
@@ -2772,6 +2837,7 @@ N8	(good)neight
 N8	(gute) Nacht
 NA	[Kfz] Niederländische Antillen
 NA	[ccTLD] Namibia
+NA	see N/A
 NAB	[Kfz:D] Landkreis Nabburg
 NACK	negative acknowledgement
 NADAZERO	0 (International Radiotelephony Spelling Alphabet)
@@ -2857,6 +2923,7 @@ NI	[ccTLD] Nicaragua
 NIA	next instruction address
 NIB	[Kfz:D] Kreis Südtondern
 NIC	[Kfz] Nicaragua
+NIC	network information centre
 NIC	network interface card
 NIFOC	naked in front of computer
 NIG	[Kfz] Niger (veraltet)
@@ -2886,6 +2953,7 @@ NMS	network management system
 NMU	non-maintainer upload
 NNTP	network news transfer protocol
 NO	[ccTLD] Norwegen
+NOC	network operation centre
 NOFI	no flame intended
 NOH	[Kfz:D] Landkreis Grafschaft Bentheim
 NOL	[Kfz:D] Niederschlesischer Oberlausitzkreis
@@ -2918,6 +2986,7 @@ NRW	[Kfz:D] Nordrhein-Westfalen, Landesregierung und Landtag
 NRZ	non-return to zero
 NRÜ	[Kfz:D] Landkreis Neustadt am Rübenberge
 NS	Network Service
+NS	Niederländische Staatsbahn
 NSA	National Security Agency
 NSA	no such agency
 NSFW	not safe for work
@@ -3151,6 +3220,7 @@ PDQ	pretty darn quick
 PDS	please don't shout
 PDS	product data sheet
 PDU	protocol data unit
+PE	Polyäthylen
 PE	[Kfz:D] Landkreis Peine
 PE	[Kfz] Peru
 PE	[ccTLD] Peru
@@ -3161,6 +3231,7 @@ PEBKAC	problem exists between keyboard and chair
 PECI	platform environment control interface
 PEG	[Kfz:D] Landkreis Pegnitz
 PENTA	five-
+PEP	Python Enhancement Proposal
 PEP	protocol extension protocol
 PER	[Kfz:D] Landkreis Perleberg
 PER	packed encoding rules
@@ -3169,6 +3240,7 @@ PERL	Perl’s not an acronym, according to its manpage
 PERL	practical extraction [and] report language
 PF	[Kfz:D] Stadtkreis Pforzheim und Enzkreis
 PF	[ccTLD] Französisch-Polynesien
+PF	packet filter
 PFI	pay for inclusion
 PFO	please fuck off
 PFS	perfect forward secrecy
@@ -3181,7 +3253,9 @@ PH	[ccTLD] Philippinen
 PHB	PCI host bridge
 PHB	pointy haired boss
 PHD	Doctor of Philosophy
+PHP	PHP Hypertext Preprocessor
 PHP	people hate PHP
+PHP	personal homepage
 PI	3.141592653589793238462643383279502884197…
 PI	Private Investigator
 PI	[Kfz:D] Kreis Pinneberg
@@ -3214,6 +3288,7 @@ PL	[Kfz] Polen
 PL	[ccTLD] Polen
 PLC	programmable logic controller
 PLD	programmable logic device
+PLIP	Parallelport IP
 PLL	phase locked loop
 PLONK	Poster liest Originalposter nicht konsequent
 PLRU	pseudo LRU
@@ -3254,6 +3329,7 @@ PNP	pay and pray
 PNP	plug and play
 PNP	plug and pray
 POA	[HP] Prisoner of Azkaban
+POC	phone operation centre
 POC	piece of crap
 POC	point of contact
 POC	proof of concept
@@ -3392,6 +3468,7 @@ RC	[Kfz:D] Landkreis Reichenbach
 RC	[Kfz] China (Volksrepublik) (jetzt eigentlich Taiwan, aber in der VR China noch offiziell)
 RC	[Kfz] Republik China (Taiwan)
 RC	release candidate
+RC	release-critical
 RC	remote control
 RCA	[Kfz] Zentralafrikanische Republik
 RCB	[Kfz] Republik Kongo
@@ -3534,6 +3611,7 @@ RSVP	please reply (french: repondez s'il vous plaît)
 RT	[Kfz:D] Landkreis Reutlingen
 RT	[Kfz] Togo
 RT	real time
+RTBRFC	read the boring RFC
 RTC	real time clock
 RTC	real time computing
 RTF	rich text format
@@ -3544,7 +3622,6 @@ RTFJF	read the fine jargon file -- http://www.catb.org/~esr/jargon/
 RTFM	read the fine/fucking manual
 RTFMF	read the fucking Makefile
 RTFMP	read the fine/fucking man page
-RTFRFC	read the boring RFC
 RTFRFC	read the {fine,fucking} RFC
 RTFS	read the fine/fucking source
 RTFS	read the fine/fucking spec
@@ -3569,6 +3646,7 @@ RU	[Kfz] Burundi
 RU	[ccTLD] Rußland
 RUC	[Kfz] Kamerun (veraltet)
 RUM	[Kfz] Rumänien (nicht offiziell)
+RUMP	Runnable Userspace Meta Programs
 RUP	rational unified process
 RUS	[Kfz] Rußland
 RV	[Kfz:D] Landkreis Ravensburg
@@ -3727,6 +3805,7 @@ SEL	[Kfz:D] kreisfreie Stadt Selb
 SEP	someone else's problem
 SERP	search engine results page
 SETTESEVEN	7 (International Radiotelephony Spelling Alphabet)
+SF	Sourcefrog
 SF	[Kfz:D] Landkreis Oberallgäu
 SF	[Kfz:D] Landkreis Sonthofen
 SF	[Kfz] Finnland (veraltet)
@@ -3760,6 +3839,7 @@ SHK	[Kfz:D] Saale-Holzland-Kreis
 SHL	[Kfz:D] Landkreis Suhl
 SHOK	smashing head on keyboard
 SHS	[Kfz] Königreich der Serben, Kroaten und Slowenen (veraltet)
+SI	Système International d'Unités
 SI	[Kfz:D] Kreis Siegen-Wittgenstein
 SI	[ccTLD] Slowenien
 SIC	thus, such (in quotes: really written like that, including errors)
@@ -3803,11 +3883,13 @@ SIGVTALRM	(#26) Virtual timer expired
 SIGWINCH	(#28) Window size changes
 SIGXCPU	(#24) CPUtime limit exceeded
 SIGXFSZ	(#25) Filesize limit exceeded
+SIM	Subscriber Interface Module
 SIM	[Kfz:D] Landkreis Simmern
 SIM	[Kfz:D] Rhein-Hunsrück-Kreis
 SIMCA	sitting in my chair amused
 SIMD	single instruction, multiple data
 SIMM	single inline memory module
+SIN	Sinus
 SIP	session initiation protocol
 SIR	slow infrared
 SISD	single instruction, single data
@@ -3830,6 +3912,7 @@ SLF	[Kfz:D] Landkreis Saalfeld-Rudolstadt
 SLG	[Kfz:D] Landkreis Saulgau
 SLI	scalable link interface
 SLI	scan-line interleave
+SLIP	Serial Line IP
 SLK	[Kfz:D] Salzlandkreis
 SLN	[Kfz:D] Landkreis Schmölln
 SLO	[Kfz] Slowenien
@@ -3983,7 +4066,7 @@ STC	software thermal control
 STD	Sexually Trasmittable Disease
 STD	Standard
 STD	[Kfz:D] Landkreis Stade
-STD	[Schule DE] Sudiendirektor
+STD	[Schule DE] Studiendirektor
 STD	state transition diagram
 STE	[Kfz:D] Landkreis Staffelstein
 STF	[gc] second to find
@@ -4004,6 +4087,7 @@ STP	shielded twisted pair
 STP	spanning-tree protocol
 STR	[Schule DE] Studienrat
 STUBO	[Schule DE] Studien- und Berufsorientierung
+STVO	[Kfz:D] Straßenverkehrsordnung
 STW	search the web
 SU	Sau unterwegs
 SU	Suche Unfall
@@ -4034,12 +4118,13 @@ SW	Software
 SW	Star Wars
 SW	[Kfz:D] kreisfreie Stadt und Landkreis Schweinfurt
 SW	schwarzweiß
+SW	switch
 SWA	[Kfz:D] Untertaunuskreis
 SWA	[Kfz] Namibia (veraltet)
 SWA	[Kfz] Südwestafrika (veraltet)
+SWAG	[gc] Some say this is short for "Stuff We All Get." Swag means the trade items that we swap at geocaches and carry in our backpacks.
 SWAG	silly, wild-assed guess
 SWAHBI	silly, wild-assed hare-brained idea
-SWAP	[gc] Some say this is short for "Stuff We All Get." Swag means the trade items that we swap at geocaches and carry in our backpacks.
 SWB	Stadtwerke Bonn
 SWB	Stillstand wegen Bombe
 SWB	stehen, warten, beten
@@ -4084,6 +4169,7 @@ TA	test assertion
 TA	thanks (pre-net slang, pronounced tar)
 TA	transmitter address
 TAI	international atomic time
+TAN	Tangēns
 TANGO	T (International Radiotelephony Spelling Alphabet)
 TANGO	enemy
 TANSTA	there ain't (no) such thing as ...
@@ -4151,7 +4237,6 @@ TFB	too fucking bad
 TFSMIF	Thank the Flying Spaghetti Monster It's Friday
 TFT	thin film transistor
 TFTC	[gc] thanks for the cache
-TFTC	thanks for the cache
 TFTH	[gc] thanks for the hunt
 TFTP	trivial file transfer protocol
 TG	[Kfz:D] Landkreis Torgau-Oschatz
@@ -4170,7 +4255,7 @@ THX	thanks
 TIA	thanks in advance
 TIAS	try it and see
 TIAVP	this is a volunteer project
-TIC	tonque in cheek
+TIC	tongue in cheek
 TIDH	Tausender in die Hand
 TIDH	Tritt in den Hintern
 TIFF	tagged image file format
@@ -4405,6 +4490,7 @@ USR	Unix Source Repository
 USR	Unix System Resources
 USWC	uncacheable speculative write combining
 UT	unit test
+UT	universal time
 UTC	coordinated universal time
 UTF	Unicode Translation Form
 UTFG	use the fscking google
@@ -4417,6 +4503,7 @@ UUCP	Unix-to-Unix copy protocol
 UUID	universally unique identifier
 UUOC	useless use of cat
 UUT	unit under test
+UV	ultraviolet
 UVZ	Universelle Verpeilerzeit
 UX	user experience
 UY	[ccTLD] Uruguay
@@ -4441,6 +4528,7 @@ VC	[ccTLD] St. Vincent und die Grenadinen
 VCA	variable-gain amplifier
 VCC	common collector voltage
 VCF	Vintage Computing Festival
+VCF	vCard file
 VCF	voltage-controlled filter
 VCFE	Vintage Computing Festival Europe (VCFe)
 VCM	virtual channel memory
@@ -4494,6 +4582,7 @@ VNL	voornamelijk
 VOD	video on demand
 VOF	[Kfz:D] Landkreis Vilshofen
 VOH	[Kfz:D] Landkreis Vohenstrauß
+VOX	Stimme, voice (latin)
 VOY	Star Trek: Voyager
 VPN	virtual private network
 VR	[Kfz:D] Landkreis Vorpommern-Rügen ohne die Stadt Stralsund und ohne den Altkreis Rügen
@@ -4567,6 +4656,7 @@ WFI	wait for interrupt
 WFM	works for me
 WFM2	works for me, too
 WFQ	weighted fair queuing
+WFW	Windows® for Workgroups
 WFY	works for you
 WG	[Kfz:D] Landkreis Wangen
 WG	[Kfz] Grenada
@@ -4593,17 +4683,21 @@ WIZ	[Kfz:D] Landkreis Witzenhausen
 WK	[Kfz:D] Landkreis Wittstock
 WL	[Kfz:D] Landkreis Harburg
 WL	[Kfz] St. Lucia
+WLAN	WaveLAN
 WLAN	wireless local area network
 WLG	[Kfz:D] Landkreis Wolgast
 WM	[Kfz:D] Landkreis Weilheim in Oberbayern
 WM	[Kfz:D] Landkreis Weilheim-Schongau
 WM	write miss
+WMA	Windows® Media Player audio file
 WMF	Wiedersehen macht Freude
 WMF	Windows Metafile
 WMF	Württembergische Metallwarenfabrik
 WMI	Windows management instrumentation
 WMNC	watch me not care
+WMP	Windows® Media Player
 WMS	[Kfz:D] Landkreis Wolmirstedt
+WMV	Windows® Media Player video file
 WN	[Kfz:D] Landkreis Waiblingen
 WN	[Kfz:D] Rems-Murr-Kreis
 WND	[Kfz:D] Landkreis St. Wendel
@@ -4623,7 +4717,9 @@ WOW	(exclamation of amazement)
 WOW	Windows on Windows (ABI wrapper)
 WOW	World of Warcraft (clinically addictive online game)
 WOW	words of wisdom
+WP	Wikipedia
 WP	WordPerfect
+WP	Wordpress
 WP	[gc] waypoint
 WP	word processor
 WP	write protect
@@ -4633,6 +4729,7 @@ WR	[Kfz:D] Landkreis Wernigerode
 WRAM	window random access memory
 WRN	[Kfz:D] Landkreis Waren
 WRT	with respect to
+WS	WordStar
 WS	[Kfz:D] Landkreis Wasserburg am Inn
 WS	[Kfz] Samoa
 WS	[ccTLD] Samoa
@@ -4647,6 +4744,7 @@ WT	[Kfz:D] Landkreis Waldshut
 WTB	{want,willing,waiting} to buy
 WTC	write through caching
 WTF	oh, it's me! *g*
+WTF	was täte Fefe?
 WTF	{what,when,where,who,why} the fuck
 WTFM	write the fucking manual (GRUB2...)
 WTFRUD	what the fuck are you doing
@@ -4682,6 +4780,7 @@ X-RAY	X (International Radiotelephony Spelling Alphabet)
 XANTHIPPE	X (deutsches Funkalphabet)
 XBAR	crossbar
 XD	(spanish emoticon: smile)
+XEP	XMPP Extension Protocol
 XER	XML encoding rules
 XGA	extended graphics adapter
 XGA	extended graphics array
