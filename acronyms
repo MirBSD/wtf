@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.237 2013/01/11 00:07:57 tg Exp $
+$MirOS: wtf/acronyms,v 1.238 2013/01/11 00:20:51 tg Exp $
 $NetBSD: acronyms,v 1.213 2012/09/16 00:02:41 dholland Exp $
 $NetBSD: acronyms.comp,v 1.130 2012/10/11 18:00:25 ginsbach Exp $
 $miros: src/sys/sys/errno.h,v 1.8 2008/12/10 20:08:39 tg Exp $
@@ -1472,6 +1472,7 @@ FR	[Kfz] Färöer (veraltet)
 FR	[ccTLD] Frankreich
 FREE	[altTLD] free (frei: strikt nichtkommerzielles Internet)
 FREEBSD	most 1337 open source operating system -- http://www.freebsd.org/
+FREEMINT	see MiNT
 FRG	[Kfz:D] Landkreis Freyung-Grafenau
 FRI	[Kfz:D] Landkreis Friesland
 FRIEDRICH	F (deutsches Funkalphabet)
@@ -2674,6 +2675,8 @@ MILF	mother i'd like to fuck
 MIMD	multiple instruction stream, multiple data stream
 MIME	multipurpose internet mail extensions
 MIMO	multiple input multiple output
+MINT	MiNT is Now TOS
+MINT	http://freemint.de/en/
 MIPS	Microprocessor without Interlocked Pipeline Stages
 MIPS	meaningless indicator of processor speed
 MIPS	meaningless information for a pushy salesman
@@ -4052,6 +4055,7 @@ SSIA	subject says it all
 SSL	secure sockets layer
 SSP	stack smashing protection
 SSTO	single stage to orbit
+ST	Sixteen-Thirtytwo (Atari)
 ST	Star Trek
 ST	[Kfz:D] Kreis Steinfurt
 ST	[Kfz:D] Landkreis Stade
@@ -4379,6 +4383,7 @@ TSP	tunnel setup protocol
 TSR	terminate and stay resident
 TSS	Time-Sharing System
 TSS	task state segment
+TT	Thirtytwo-Thirtytwo (Atari)
 TT	[Kfz:D] Landkreis Tettnang
 TT	[Kfz] Togo (veraltet)
 TT	[Kfz] Trinidad und Tobago
@@ -4389,8 +4394,11 @@ TTFN	ta ta for now
 TTFSMIF	Thank The Flying Spaghetti Monster It's Friday
 TTL	time to live
 TTL	transistor-transistor logic
+TTM	Atari 19″ 1280x960 Monochrome Monitor
 TTM	to the moderator
 TTM	translation table maps
+TTM194	TTM with a series bug (changing brightness of its own)
+TTM195	TTM without the TTM194 bug
 TTT	thought that too
 TTY	teletype [terminal]
 TTYL	talk to you later
@@ -4553,6 +4561,8 @@ VG	volume group
 VGA	video graphics array
 VH	very helpful (lilo lingo, from IRC)
 VHDCI	very high density cable interconnect
+VHDL	VHSIC Hardware Description Language
+VHSIC	Very High Speed Integrated Circuit
 VI	[ccTLD] Amerikanische Jungferninseln
 VI	it’s e̲d̲itor, *not* v̲i̲itor! don’t use it!
 VIB	[Kfz:D] Landkreis Vilsbiburg
