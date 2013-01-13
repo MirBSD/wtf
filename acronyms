@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.238 2013/01/11 00:20:51 tg Exp $
+$MirOS: wtf/acronyms,v 1.239 2013/01/13 17:08:37 tg Exp $
 $NetBSD: acronyms,v 1.213 2012/09/16 00:02:41 dholland Exp $
 $NetBSD: acronyms.comp,v 1.130 2012/10/11 18:00:25 ginsbach Exp $
 $miros: src/sys/sys/errno.h,v 1.8 2008/12/10 20:08:39 tg Exp $
@@ -74,6 +74,7 @@ ACL	active current loop
 ACM	Association for Computing Machinery
 ACME	A Company Making Everything
 ACOS	Arkuskosinus
+ACP	Atari Coldfire Project – http://acp.atari.org/
 ACP	auxillary control process
 ACP	auxillary control program
 ACPI	advanced configuration and power interface
@@ -3318,6 +3319,8 @@ PMI	geistiger Dünnschiß
 PMI	platform management interrupt
 PMI	postmentale Inkontinenz
 PMIO	port-mapped input/output
+PMMU	Paged Memory Management Unit
+PMMU	programmable MMU
 PMO	[gc] premium member only (restricted cache listing on GC.com)
 PMS	female monthly nightmare
 PMS	post-menstruale Störungen/Stimmungsschwankungen
