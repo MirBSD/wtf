@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.239 2013/01/13 17:08:37 tg Exp $
+$MirOS: wtf/acronyms,v 1.240 2013/01/14 23:48:58 tg Exp $
 $NetBSD: acronyms,v 1.213 2012/09/16 00:02:41 dholland Exp $
 $NetBSD: acronyms.comp,v 1.130 2012/10/11 18:00:25 ginsbach Exp $
 $miros: src/sys/sys/errno.h,v 1.8 2008/12/10 20:08:39 tg Exp $
@@ -4847,6 +4847,7 @@ YP	yellow pages (aka NIS)
 YPSILON	Y (deutsches Funkalphabet)
 YR	your, yours
 YT	[ccTLD] Mayotte (Frankreich) (auch .fr)
+YT	youtube
 YTD	year to date
 YU	[Kfz] Jugoslawien (veraltet)
 YU	[ccTLD] ehemaliges Jugoslawien (lief bis 30. März 2010, heute .rs für Serbien und .me für Montenegro)
