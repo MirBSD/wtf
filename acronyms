@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.240 2013/01/14 23:48:58 tg Exp $
+$MirOS: wtf/acronyms,v 1.241 2013/01/17 20:24:37 tg Exp $
 $NetBSD: acronyms,v 1.213 2012/09/16 00:02:41 dholland Exp $
 $NetBSD: acronyms.comp,v 1.130 2012/10/11 18:00:25 ginsbach Exp $
 $miros: src/sys/sys/errno.h,v 1.8 2008/12/10 20:08:39 tg Exp $
@@ -133,6 +133,7 @@ AGC	automatic gain control
 AGM	annual general meeting
 AGP	accelerated graphics port
 AH	[Kfz:D] Kreis Ahaus
+AI	Adobe Illustrator
 AI	[ccTLD] Anguilla
 AI	analog input
 AI	artificial intelligence
@@ -286,6 +287,7 @@ AUR	[Kfz:D] Landkreis Aurich (Ostfriesland)
 AUS	[Kfz] Australien
 AUT	[Kfz] Palästinensische Autonomiegebiete/Gazastreifen (nicht offiziell)
 AV	anti virus
+AVI	Audio/Video (RIFF)
 AVL	Adelson-Velsky-Landis
 AVX	advanced vector extensions
 AW	Antwort (MS Outlook mis-translation)
@@ -464,6 +466,7 @@ BM	bus master
 BMC	baseboard management controller
 BMI	body mass index
 BMIC	bus master interface controller
+BMP	bitmap
 BMZ	Brandmeldezentrale
 BN	[Kfz:D] Landkreis Bonn
 BN	[Kfz:D] kreisfreie Stadt Bonn
@@ -653,6 +656,7 @@ CD	compact disc
 CDDA	compact disc digital audio
 CDMA	code division multiple access
 CDN	[Kfz] Kanada
+CDR	Corel Draw
 CDRAM	cache dynamic random access memory
 CE	[Kfz:D] Landkreis Celle
 CE	common era
@@ -814,6 +818,7 @@ CU	see you
 CUA	common user access
 CUDA	Compute Unified Device Architecture (GPU programming)
 CUI	(n)curses user interface
+CUR	cursor (file format, like ICO)
 CUT	coordinated universal time (UTC)
 CUX	[Kfz:D] Landkreis Cuxhaven
 CV	Lebenslauf
@@ -849,6 +854,8 @@ DAB	digital audio broadcasting
 DAC	digital [to] analog converter
 DAC	discretionary access control
 DACH	D-A-CH: Germany, Austria, Switzerland
+DAD	duplicate address detection
+DAD	father (USA English)
 DAEMON	(that cuddly red BSD mascot)
 DAEMON	disk and execution monitor
 DAFUQ	... the fuck
@@ -944,6 +951,7 @@ DHL	Dauert halt länger
 DHS	Department of Homeland Security (USA)
 DI	[Kfz:D] Landkreis Dieburg
 DIAFYO	did I ask for your opinion?
+DIB	device-independent bitmap
 DIFS	distributed inter-frame space
 DIL	[Kfz:D] Dillkreis
 DIMM	dual inline memory module
@@ -1277,6 +1285,7 @@ EPROM	erasable programmable read only memory
 EPROTO	(#98) Protocol error
 EPROTONOSUPPORT	(#43) Protocol not supported
 EPROTOTYPE	(#41) Protocol wrong type for socket
+EPS	Encapsulated Postscript
 EQ	[Kfz] Ecuador (veraltet)
 ER	[Kfz:D] Landkreis Erlangen-Höchstadt
 ER	[Kfz] Eritrea
@@ -1952,6 +1961,7 @@ ICE	internal compiler error
 ICFP	International Conference on Functional Programming
 ICH	I/O controller hub
 ICMP	internet control message protocol
+ICO	icon (bitmap file format)
 ICT	information and communications technology
 ICUR	I see you are
 ICW	initialisation command word
@@ -1988,6 +1998,7 @@ IETF	Internet Engineering Task Force
 IF	interface
 IF	intermediate frequency
 IFCM	isochronous flow control mode
+IFF	Interchange File Format
 IGB	[Kfz:D] Stadt St. Ingbert im Saar-Pfalz-Kreis
 IGD	Internet gateway device
 IGMP	Internet group management protocol
@@ -2006,6 +2017,7 @@ IKWYM	I know what you mean
 IL	[Kfz:D] Landkreis Ilmenau
 IL	[Kfz] Israel
 IL	[ccTLD] Israel
+ILBM	Interleaved Bitmap (IFF)
 ILL	[Kfz:D] Landkreis Illertissen
 ILM	internal loopback mode
 ILP	instruction level parallelism
@@ -2143,6 +2155,8 @@ JARGON	hacker slang collection -- http://catb.org/~esr/jargon/
 JARGON	hacker slang, censored -- http://catb.org/~esr/jargon/chaff.html
 JAS	just a second
 JB	[Kfz:D] Landkreis Jüterbog
+JBD	journalling block device
+JBIG	Joint Bi-Level Image Experts Group
 JBOD	just a bunch of disks
 JE	[Kfz:D] Landkreis Jessen
 JE	[ccTLD] Jersey
@@ -2176,6 +2190,7 @@ JOBS	[sTLD] jobs (Unternehmen mit Stellenangeboten)
 JOR	[Kfz] Jordanien
 JP	[ccTLD] Japan
 JPEG	joint photography experts group
+JPG	(file extension for JPEG files)
 JR	Junior
 JRE	Java™ runtime environment
 JSB	Jetzt sehr bald
@@ -2310,6 +2325,7 @@ L8R	later
 LA	[Kfz:D] kreisfreie Stadt und Landkreis Landshut
 LA	[ccTLD] Laos
 LACP	Link Aggregation Control Protocol
+LADSPA	Linux Audio Developers Simple Plugin API
 LAMP	Linux Apache MySQL {Perl,PHP,Python}
 LAMPP	Linux Apache MySQL {Perl,PHP,Python}
 LAN	[Kfz:D] Landkreis Landau an der Isar
@@ -2718,6 +2734,7 @@ MN	[Kfz:D] Landkreis Unterallgäu
 MN	[Kfz] Montenegro (veraltet)
 MN	[ccTLD] Mongolei
 MNE	[Kfz] Montenegro
+MNG	Multiple-Image Network Graphics
 MO	[Kfz:D] Kreis Moers
 MO	[ccTLD] Macao
 MO	magneto-optical
@@ -2731,6 +2748,9 @@ MODE	die teuerste Stoffwechselkrankheit
 MOESI	modified, owned, exclusive, shared, invalid
 MOF	maximum operating frequency
 MOL	[Kfz:D] Landkreis Märkisch-Oderland
+MOM	(please hold/wait a) moment
+MOM	Moment, bitte!
+MOM	mother (USA English)
 MON	[Kfz:D] Kreis Monschau
 MOS	[Kfz:D] Landkreis Mosbach
 MOS	[Kfz:D] Neckar-Odenwald-Kreis
@@ -3067,6 +3087,7 @@ OFET	organic field-effect transistor
 OFH	Our Favourite Headmaster (HP)
 OG	[Kfz:D] Landkreis Offenburg
 OG	[Kfz:D] Ortenaukreis
+OGG	(container format, similar to RIFF)
 OH	[Kfz:D] Kreis Ostholstein
 OH	other half
 OHA	[Kfz:D] Landkreis Osterode am Harz
@@ -3196,6 +3217,7 @@ PB	powerbook
 PB	problem
 PBE	pending break encoding
 PBE	programming by example
+PBM	portable bitmap
 PBR	partition boot record (bootsector)
 PBX	private branch exchange
 PC	personal computer
@@ -3212,6 +3234,7 @@ PCMCIA	personal computer memory card international association
 PCRE	Perl compatible regular expression
 PCS	Personal Communications Services (the 1900 MHz band in the USA)
 PCS	pieces
+PCX	Personal Computer Exchange (Paintbrush bitmap)
 PD	public domain
 PDA	personal digital assistant
 PDA	public display of affection
@@ -3254,6 +3277,7 @@ PFY	pimply faced youth
 PG	[ccTLD] Papua-Neuguinea
 PGAS	partitioned global address space
 PGE	page global enable
+PGM	portable greymap
 PGP	pretty good privacy
 PH	[ccTLD] Philippinen
 PHB	PCI host bridge
@@ -3333,6 +3357,7 @@ PN	[ccTLD] Pitcairninseln
 PNG	[Kfz] Papua-Neuguinea (nicht offiziell)
 PNG	persona non grata
 PNG	portable network graphics
+PNM	portable anymap (PBM, PGM, PPM)
 PNP	pay and pray
 PNP	plug and play
 PNP	plug and pray
@@ -3371,6 +3396,7 @@ PPL	people
 PPL	pretty please
 PPM	pages per minute
 PPM	parts per million
+PPM	portable pixmap
 PPP	petty pet peeve
 PPP	point-to-point protocol
 PPPOA	point-to-point protocol over ATM
@@ -3396,6 +3422,7 @@ PS	[Kfz] Perlis (veraltet)
 PS	[ccTLD] Palästinensische Autonomiegebiete
 PS	post scriptum
 PSA	public service announcement
+PSD	Photoshop Document
 PSD	power spectral density
 PSE	page size extensions
 PSK	phase shift keying
@@ -3988,6 +4015,7 @@ SOB	son of [a] bitch
 SOC	system on chip
 SOE	Standard Operating Environment (a spec, image, or build process that attempts (usually unsuccessfully) to produce identical machines, typically under the management of a central authority that does its damnedest to get in the way of useful work)
 SOF	start of frame
+SOFTDEP	Softupdates
 SOG	[Kfz:D] Landkreis Schongau
 SOHO	small office / home office
 SOK	[Kfz:D] Saale-Orla-Kreis
@@ -4186,6 +4214,7 @@ TANSTAAFL	there ain't no such thing as a free lunch
 TAO	track at once
 TAOCP	The Art of Computer Programming
 TAP	test anything protocol
+TARGA	Truevision Advanced Raster Graphics Adapter
 TAS	Star Trek: The Animated Series
 TAS	test and set
 TATMWTDI	there are too many ways to do it (in Perl)
@@ -4232,7 +4261,10 @@ TDR	Theo de Raadt -- http://theos.com/
 TE	[Kfz:D] Kreis Tecklenburg
 TEAM	toll, ein Anderer macht's!
 TECO	Text Editor and Corrector
+TEL	(I’m on the) telephone
 TEL	[sTLD] telecommunication (Kontaktdaten als NAPTR und TXT RR im DNS)
+TELE	(I’m on the) telephone
+TELE	Ich telephoniere!
 TERRATHREE	3 (International Radiotelephony Spelling Alphabet)
 TESB	[SW] Episode V: The Empire Strikes Back
 TET	[Kfz:D] Landkreis Teterow
@@ -4251,6 +4283,7 @@ TFTP	trivial file transfer protocol
 TG	[Kfz:D] Landkreis Torgau-Oschatz
 TG	[Kfz] Togo (nicht offiziell)
 TG	[ccTLD] Togo
+TGA	Truevision TGA (TARGA) bitmap
 TGIF	Thank God It's Friday
 TH	[ccTLD] Thailand
 TH	table head (in HTML)
@@ -4267,6 +4300,7 @@ TIAVP	this is a volunteer project
 TIC	tongue in cheek
 TIDH	Tausender in die Hand
 TIDH	Tritt in den Hintern
+TIF	(file extension for TIFF files)
 TIFF	tagged image file format
 TIFF	thousand incompatible file formats
 TIL	today I learned
@@ -4587,6 +4621,7 @@ VLSM	variable length subnet mask
 VM	virtual machine
 VM	virtual memory
 VME	virtual mode extension
+VML	Vector Markup Language
 VMS	Very Much Strange
 VMS	Virtual Memory System (aka OpenVMS, operating system by HP)
 VMX	vector multimedia extensions
@@ -4640,6 +4675,7 @@ WAP	wireless application protocol
 WAR	[Kfz:D] Landkreis, ab 1969 Kreis Warburg
 WARUM	darum (cf. WHY)
 WAT	[Kfz:D] kreisfreie Stadt Wattenscheid
+WAV	Waveform (RIFF)
 WB	[Kfz:D] Landkreis Wittenberg
 WB	[Kfz] Westjordanland (nicht offiziell)
 WB	welcome back
@@ -4794,6 +4830,7 @@ X	[Kfz:D] Dienstfahrzeuge der internationalen Hauptquartiere (NATO)
 X-RAY	X (International Radiotelephony Spelling Alphabet)
 XANTHIPPE	X (deutsches Funkalphabet)
 XBAR	crossbar
+XBM	X Bitmap
 XD	(spanish emoticon: smile)
 XEP	XMPP Extension Protocol
 XER	XML encoding rules
@@ -4806,6 +4843,7 @@ XMPP	Extensible Messaging and Presence Protocol (aka. Jabber)
 XNSL	[gc] exchanged nothing, signed log (cf. TNLNSL, N/T)
 XOR	exclusive or
 XP	extreme programming
+XPM	X Pixmap
 XRAY	X (International Radiotelephony Spelling Alphabet)
 XSL	extensible stylesheet language
 XSS	Cross-Site Scripting (sometimes CSS)
