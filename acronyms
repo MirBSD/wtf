@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.241 2013/01/17 20:24:37 tg Exp $
+$MirOS: wtf/acronyms,v 1.242 2013/01/19 19:43:32 tg Exp $
 $NetBSD: acronyms,v 1.213 2012/09/16 00:02:41 dholland Exp $
 $NetBSD: acronyms.comp,v 1.130 2012/10/11 18:00:25 ginsbach Exp $
 $miros: src/sys/sys/errno.h,v 1.8 2008/12/10 20:08:39 tg Exp $
@@ -781,6 +781,7 @@ CRC	cyclic redundancy check
 CRL	carrier recovery loop
 CRL	certificate revocation list
 CRLF	carriage return / line feed
+CRM	customer relationship management
 CRO	[Kfz] Kroatien (veraltet)
 CRT	cathode ray tube
 CS	Counter-Strike
@@ -1299,6 +1300,7 @@ EREMOTE	(#71) Too many levels of remote in path
 ERH	[Kfz:D] Landkreis Erlangen-Höchstadt
 ERK	[Kfz:D] Kreis Erkelenz
 EROFS	(#30) Read-only file system
+ERP	enterprise resource planning
 ERPCMISMATCH	(#73) RPC version wrong
 ERZ	[Kfz:D] Erzgebirgskreis
 ES	[Kfz:D] Landkreis Eßlingen
@@ -2193,7 +2195,9 @@ JPEG	joint photography experts group
 JPG	(file extension for JPEG files)
 JR	Junior
 JRE	Java™ runtime environment
+JS	ECMAscript
 JSB	Jetzt sehr bald
+JSON	JavaScript Object Notation
 JSYK	just so you know
 JTAG	joint test action group
 JTL	just too late
