@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.243 2013/01/24 23:35:56 tg Exp $
+$MirOS: wtf/acronyms,v 1.244 2013/01/26 17:21:18 tg Exp $
 $NetBSD: acronyms,v 1.213 2012/09/16 00:02:41 dholland Exp $
 $NetBSD: acronyms.comp,v 1.130 2012/10/11 18:00:25 ginsbach Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
@@ -337,6 +337,7 @@ BASH	GNU Bourne-Again Shell
 BASIC	beginners' all-purpose symbolic instruction code (_the_ programming language per se)
 BAT	Baby-AT (Formfaktor, like ATX)
 BAU	business as usual
+BB	Brandenburg
 BB	[Kfz:D] Landkreis Böblingen
 BB	[ccTLD] Barbados
 BB	big brother
@@ -377,6 +378,7 @@ BDI	bit deinterleave
 BDS	Branch Delay Slot
 BDS	[Kfz] Barbados
 BDUF	big design up front
+BE	Berlin
 BE	Broteinheit
 BE	[Kfz:D] Kreis Beckum
 BE	[ccTLD] Belgien
@@ -583,6 +585,7 @@ BUR	[Kfz] Birma (veraltet)
 BUR	[Kfz] Myanmar (veraltet)
 BV	[ccTLD] Bouvetinsel (auch .no)
 BV	bijvoorbeeld (for example, zum Beispiel)
+BW	Baden-Württemberg
 BW	[Kfz:D] Dienstfahrzeuge der Bundes-Wasser- und -schifffahrtsverwaltung
 BW	[Kfz] Botswana (nicht offiziell)
 BW	[ccTLD] Botswana
@@ -591,6 +594,7 @@ BW	black and white
 BWC	because we can
 BWL	[Kfz:D] Baden-Württemberg, Landesregierung und Landtag
 BWM	block-write mode
+BY	Bayern
 BY	[Kfz] Weißrußland
 BY	[ccTLD] Weißrußland
 BYL	[Kfz:D] Bayern, Landesregierung und Landtag
@@ -947,8 +951,8 @@ DH	Diffie-Hellman
 DH	[HP] Deathly Hallows
 DH	[Kfz:D] Landkreis Grafschaft Diepholz
 DHCP	dynamic host configuration protocol
-DHL	Da Haste Lauferei
 DHL	Dauert halt länger
+DHL	da haste Lauferei
 DHS	Department of Homeland Security (USA)
 DI	[Kfz:D] Landkreis Dieburg
 DIAFYO	did I ask for your opinion?
@@ -1766,6 +1770,7 @@ HAS	[Kfz:D] Landkreis Haßberge
 HAS	[Kfz:D] Landkreis Haßfurt
 HAT	hashed array tree
 HAUFEN	Hauptschüler auf unterstem frei erreichbarem Niveau
+HB	Bremen
 HB	[Kfz:D] Hansestadt Bremen und kreisfreie Stadt Bremerhaven
 HB	[Kfz:D] Senat und Bürgerschaft der Hansestadt Bremen
 HBA	host bus adapter
@@ -1796,6 +1801,7 @@ HDL	[Kfz:D] Landkreis Haldensleben
 HDL	hardware description language
 HDTV	high-definition television (720p, 1080i, 1080p)
 HDW	Heil den Wansen (=OMG)
+HE	Hessen
 HE	[Kfz:D] Landkreis Helmstedt
 HE	how embarrasing
 HEB	[Kfz:D] Landkreis Hersbruck
@@ -1817,6 +1823,7 @@ HG	[Kfz:D] Hochtaunuskreis
 HG	[Kfz:D] Obertaunuskreis
 HGN	[Kfz:D] Landkreis Hagenow
 HGW	[Kfz:D] Hansestadt Greifswald im Landkreis Vorpommern-Greifswald
+HH	Hamburg
 HH	[Kfz:D] Hansestadt Hamburg
 HH	[Kfz:D] Senat und Bürgerschaft der Freien und Hansestadt Hamburg
 HHDD	hybrid hard disc drive
@@ -2830,6 +2837,7 @@ MUD	multi-user dungeon
 MUGGLE	[gc] person not knowing about geocaching
 MULTICS	Multiplexed Information and Computing Service
 MUSEUM	[sTLD] museums (Museën)
+MV	Mecklenburg-Vorpommern
 MV	[Kfz] Malediven (nicht offiziell)
 MV	[ccTLD] Malediven
 MVCC	multiversion concurrency control
@@ -2948,6 +2956,7 @@ NGR	[Kfz] Nigeria
 NH	[Kfz:D] Landkreis Neuhaus
 NH	[Kfz:D] Landkreis Neustadt an der Weinstraße
 NHS	National Health Service (UK)
+NI	Niedersachsen
 NI	[Kfz:D] Landkreis Nienburg
 NI	[Kfz] Nordirland
 NI	[ccTLD] Nicaragua
@@ -3039,6 +3048,7 @@ NUNP	no users, no problems
 NVM	never mind
 NVP	[Kfz:D] Landkreis Nordvorpommern
 NVRAM	non-volatile random access memory
+NW	Nordrhein-Westfalen
 NW	[Kfz:D] Landkreis Neustadt an der Weinstraße
 NW	[Kfz:D] Landkreis Neuwied
 NW	no way
@@ -3620,6 +3630,7 @@ ROTOTILL	"nuke with a chain saw device", to die with extreme prejudice (see GC)
 ROTS	[SW] Episode III: Revenge of the Sith
 ROU	[Kfz] Uruguay
 ROW	[Kfz:D] Landkreis Rotenburg (Wümme)
+RP	Rheinland-Pfalz
 RP	[Kfz:D] Rhein-Pfalz-Kreis
 RP	[Kfz] Philippinen
 RP	responsible person
@@ -3866,6 +3877,7 @@ SGP	[Kfz] Singapur
 SGRAM	synchronous graphics random access memory
 SH	Bourne Shell
 SH	POSIX Shell
+SH	Schleswig-Holstein
 SH	Shell
 SH	[Kfz:D] Schleswig-Holstein, Landesregierung und Landtag
 SH	[ccTLD] St. Helena
@@ -3940,6 +3952,7 @@ SK	[Kfz:D] Saalekreis
 SK	[Kfz] Sarawak (veraltet)
 SK	[Kfz] Slowakei
 SK	[ccTLD] Slowakei
+SL	Saarland
 SL	[Kfz:D] Kreis Schleswig-Flensburg
 SL	[Kfz] Syrien und Libanon (veraltet)
 SL	[ccTLD] Sierra Leone
@@ -3991,6 +4004,7 @@ SMT	simultaneous multithreading
 SMTP	simple mail transfer protocol
 SMU	system management unit
 SMÜ	[Kfz:D] Landkreis Schwabmünchen
+SN	Sachsen
 SN	[Kfz:D] Landkreis Schwerin
 SN	[Kfz] Senegal
 SN	[ccTLD] Senegal
@@ -4091,6 +4105,7 @@ SSIA	subject says it all
 SSL	secure sockets layer
 SSP	stack smashing protection
 SSTO	single stage to orbit
+ST	Sachsen-Anhalt
 ST	Sixteen-Thirtytwo (Atari)
 ST	Star Trek
 ST	[Kfz:D] Kreis Steinfurt
@@ -4290,6 +4305,7 @@ TG	[Kfz] Togo (nicht offiziell)
 TG	[ccTLD] Togo
 TGA	Truevision TGA (TARGA) bitmap
 TGIF	Thank God It's Friday
+TH	Thüringen
 TH	[ccTLD] Thailand
 TH	table head (in HTML)
 THEODOR	T (deutsches Funkalphabet)
