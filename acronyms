@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.246 2013/02/09 17:44:02 tg Exp $
+$MirOS: wtf/acronyms,v 1.247 2013/02/09 18:12:29 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.213 2012/09/16 00:02:41 dholland Exp $
 $NetBSD: acronyms.comp,v 1.130 2012/10/11 18:00:25 ginsbach Exp $
@@ -667,11 +667,20 @@ CC	carbon coby
 CC	Creative Commons
 CC	credit card
 CC	[ccTLD] Kokosinseln
+CCAR	Cisco Certified Architect
 CCC	Chaos Computer Club
 CCD	charge coupled device
+CCDA	Cisco Certified Design Associate
+CCDE	Cisco Certified Design Expert
+CCDP	Cisco Certified Design Professional
+CCENT	Cisco Certified Entry Networking Technician
 CCI	co-channel interferer
+CCIE	Cisco Certified Internetwork Expert
+CCIP	Cisco Certified Internetwork Professional
 CCITT	Comitè Consultatif Internationale de Tèlègraphie et Tèlèphonie
 CCITT	now: ITU-T
+CCNA	Cisco Certified Network Associate
+CCNP	Cisco Certified Network Professional
 CCTLD	country-code top-level domain
 CD	cache disable
 CD	compact disc
@@ -4313,6 +4322,7 @@ TA	teaching assistant
 TA	test assertion
 TA	thanks (pre-net slang, pronounced tar)
 TA	transmitter address
+TAC	(Cisco) Technical Assistance Center
 TAI	international atomic time
 TAN	Tangēns
 TANGO	enemy
