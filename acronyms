@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.247 2013/02/09 18:12:29 tg Exp $
+$MirOS: wtf/acronyms,v 1.248 2013/02/10 02:38:09 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.213 2012/09/16 00:02:41 dholland Exp $
 $NetBSD: acronyms.comp,v 1.130 2012/10/11 18:00:25 ginsbach Exp $
@@ -1399,6 +1399,7 @@ EWAG	experienced wild-ass guess
 EWE	Epilogue? What Epilogue? (usually in HP context)
 EWOULDBLOCK	(=EAGAIN) Operation would block
 EXDEV	(#18) Cross-device link
+F	false (boolean 0)
 F	[Kfz:D] kreisfreie Stadt Frankfurt am Main
 F	[Kfz] Frankreich
 F9	fine
@@ -3076,6 +3077,7 @@ NP	now playing
 NP	[ccTLD] Nepal
 NP	[Kfz:D] Landkreis Neuruppin
 NPC	non-player character
+NPE	NULL pointer exception
 NPOASR	never part of a stable release
 NR	not really
 NR	[ccTLD] Nauru
@@ -4299,6 +4301,7 @@ SZB	[Kfz:D] Landkreis Schwarzenberg
 SÄK	[Kfz:D] Landkreis Säckingen
 SÖM	[Kfz:D] Landkreis Sömmerda
 SÜW	[Kfz:D] Landkreis Südliche Weinstraße
+T	true (boolean 1)
 T	[Kfz] Thailand
 T A	[Kfz:D] temporäres Kennzeichen der US-Streitkräfte Augsburg
 T BA	[Kfz:D] temporäres Kennzeichen der US-Streitkräfte Bamberg
@@ -4771,6 +4774,7 @@ VVG	Verbesserungsvorschlag
 VVV	veni, vidi, vici
 VVV	veni, vidi, vodka (Ich kam, sah und soff.)
 VVV	Voilà, Vivement Vendredi
+W	wahr (boolean 1)
 W	Watt
 W	[Kfz:D] kreisfreie Stadt Wuppertal
 W-CDMA	Wideband Code Division Multiple Access
