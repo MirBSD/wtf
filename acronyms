@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.249 2013/02/11 00:48:00 tg Exp $
+$MirOS: wtf/acronyms,v 1.250 2013/02/11 22:55:26 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.213 2012/09/16 00:02:41 dholland Exp $
 $NetBSD: acronyms.comp,v 1.130 2012/10/11 18:00:25 ginsbach Exp $
@@ -699,11 +699,13 @@ CER	canonical encoding rules
 CF	compact flash
 CF	confer (see)
 CF	[ccTLD] Zentralafrikanische Republik
+CFF	Chemins de fer fédéraux suisses (SBB)
 CFG	context-free grammar
 CFG	control-flow graph
 CFO	Chief Financial Officer
 CFP	call for papers
 CFP	call for projects
+CFR	Căile Ferate Române / Rumänische Eisenbahn / Chemins de Fer Roumaine
 CFV	call for votes
 CFY	calling for you
 CG	center of gravity
@@ -771,6 +773,7 @@ CN	common name
 CN	[ccTLD] China
 CNB	[Kfz] Nordborneo (veraltet)
 CNC	computer numerical control
+CNL	CityNightLine
 CNP	continued [in my] next post
 CNR	carrier to noise ratio
 CO	[ccTLD] Kolumbien
@@ -1070,6 +1073,7 @@ DS	[Kfz:D] Landkreis Donaueschingen
 DS9	Star Trek: Deep Space Nine
 DSA	Debian Security Advisory
 DSA	Debian Systems Administration
+DSB	Danske Statsbaner
 DSB	double-sideband modulation
 DSDT	differentiated system descriptor table
 DSL	digital subscriber line
@@ -1447,6 +1451,7 @@ FFI	foreign function interface
 FFM	focus follows mouse
 FFN	FanFiction.Net
 FFS	fast filesystem
+FFS	Ferrovie federali svizzere (SBB)
 FFS	find first set (bit)
 FFS	for fuck's sake
 FFS	free for shipping
@@ -1511,6 +1516,7 @@ FORD	er fuhr ford und kam nie wieder
 FORD	fix or repair daily
 FORD	für Ossis reicht det
 FOS	full of shit
+FOSDEM	Free and open source software developers’ European meeting
 FOSS	free / open source software
 FOTW	fun of the week
 FOXTROT	F (International Radiotelephony Spelling Alphabet)
@@ -2137,6 +2143,7 @@ IPV6	next generation Internet Protocol, triggers japanese simple-mind ideas
 IQ	intelligence quotient
 IQ	[ccTLD] Irak
 IR	infrared
+IR	Interregio
 IR	[ccTLD] Iran
 IR	[Kfz] Iran
 IRC	internet relay chat
@@ -3048,6 +3055,7 @@ NM	New Maintainer
 NM	[gc] needs maintenance
 NM	[Kfz:D] Landkreis Neumarkt in der Oberpfalz
 NMB	[Kfz:D] Landkreis Naumburg
+NMBS	Nationale Maatschappij der Belgische Spoorwegen
 NMF	not my fault
 NMI	non-maskable interrupt
 NMP	not my problem
@@ -3595,6 +3603,7 @@ RAS	remote access service
 RAS	restartable atomic sequence
 RAS	row address strobe
 RATIBIBUGLE	french-specific version of ROTOTILL
+RB	Regionalbahn
 RB	[Kfz] Bolivien (veraltet)
 RB	[Kfz] Botswana
 RBAC	Role Based Access Control
@@ -3624,6 +3633,7 @@ RDMA	remote direct memory access
 RE	(from Latin “back”, upon re-entering an IRC channel)
 RE	(in Skat, countering a “Kontra”)
 RE	Erdtaste
+RE	Regional-Expreß
 RE	regular expression
 RE	[ccTLD] Réunion
 RE	[Kfz:D] Kreis Recklinghausen
@@ -3887,6 +3897,7 @@ SB	[ccTLD] Salomonen
 SB	[Kfz:D] Regionalverband Saarbrücken ohne die Stadt Völklingen
 SB	[Kfz] Serbien (veraltet)
 SBA	[gc] should be archived (needs archived)
+SBB	Schweizerische Bundesbahnen (CFF, FFS, VFS, SFR)
 SBC	single-board computer
 SBCS	single-board computer system
 SBCS	single-byte character set
@@ -3962,6 +3973,7 @@ SFAICT	so far as I can tell
 SFB	[Kfz:D] Landkreis Senftenberg
 SFC	sequential function chart
 SFI	simple firmware interface
+SFR	Swiss federal railways (SBB)
 SFT	[Kfz:D] Landkreis Staßfurt
 SFW	safe for work
 SFW	Sun freeware
@@ -4106,6 +4118,8 @@ SN	[Kfz:D] Landkreis Schwerin
 SN	[Kfz] Senegal
 SNAFU	situation normal, all fucked up
 SNB	[Kfz] Nordborneo (veraltet)
+SNCB	Société Nationale des Chemins de fer Belges
+SNCF	Société Nationale des Chemins de fer français
 SNDCP	Sub-Network Dependant Convergence Protocol
 SNERT	snot-nosed egotistical rude teenager
 SNH	[Kfz:D] Landkreis Sinsheim
@@ -4408,6 +4422,7 @@ TG	[Kfz:D] Landkreis Torgau-Oschatz
 TG	[Kfz] Togo (nicht offiziell)
 TGA	Truevision TGA (TARGA) bitmap
 TGIF	Thank God It's Friday
+TGV	Train à grande vitesse
 TH	table head (in HTML)
 TH	Thüringen
 TH	[ccTLD] Thailand
@@ -4622,6 +4637,7 @@ UK	[ccTLD] Vereinigtes Königreich
 UKSF	United Kingdom Special Forces
 UL	upload
 UL	[Kfz:D] Stadtkreis Ulm und Alb-Donau-Kreis
+ULB	Université libre de Bruxelles (FOSDEM is at Campus Solbosch, not Main Campus!)
 ULRICH	U (deutsches Funkalphabet)
 UM	[ccTLD] United States Minor Outlying Islands (lief bis 2008)
 UM	[Kfz:D] Landkreis Uckermark
@@ -4717,6 +4733,7 @@ VERFGH	Verfassungsgerichtshof
 VERPEILUNGSFAKTOR	never forget it
 VESA	video electronics standards association
 VFO	variable-frequency oscillator
+VFS	Viafiers federalas svizras (SBB)
 VFS	Virtual File System
 VG	Verwaltungsgericht
 VG	volume group
@@ -4772,6 +4789,7 @@ VRM	voltage regulator module
 VRRP	virtual router redundancy protocol
 VS	[Kfz:D] Landkreis Villingen-Schwenningen
 VU	[ccTLD] Vanuatu
+VUB	Vrije Universiteit Brussel (*not* where FOSDEM is!)
 VVG	Verbesserungsvorschlag
 VVV	veni, vidi, vici
 VVV	veni, vidi, vodka (Ich kam, sah und soff.)
@@ -5064,6 +5082,7 @@ ZZ	[Kfz:D] Landkreis Zeitz
 ^^	(emoticon: bemusement)
 ^_^	(emoticon: bemusement)
 ÄRGER	Ä (deutsches Funkalphabet)
+ÖBB	Österreichische Bundesbahnen
 ÖHR	[Kfz:D] Landkreis Öhringen
 ÖKONOM	Ö (deutsches Funkalphabet)
 ÜB	[Kfz:D] Landkreis Überlingen
