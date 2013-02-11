@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.248 2013/02/10 02:38:09 tg Exp $
+$MirOS: wtf/acronyms,v 1.249 2013/02/11 00:48:00 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.213 2012/09/16 00:02:41 dholland Exp $
 $NetBSD: acronyms.comp,v 1.130 2012/10/11 18:00:25 ginsbach Exp $
@@ -3621,6 +3621,8 @@ RDF	resource description format
 RDG	[Kfz:D] Landkreis Ribnitz-Damgarten
 RDM	relational data model
 RDMA	remote direct memory access
+RE	(from Latin “back”, upon re-entering an IRC channel)
+RE	(in Skat, countering a “Kontra”)
 RE	Erdtaste
 RE	regular expression
 RE	[ccTLD] Réunion
