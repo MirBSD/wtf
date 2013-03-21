@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.256 2013/03/12 13:10:38 tg Exp $
+$MirOS: wtf/acronyms,v 1.257 2013/03/21 17:16:32 tg Exp $
 $NetBSD: acronyms,v 1.213 2012/09/16 00:02:41 dholland Exp $
 $NetBSD: acronyms.comp,v 1.130 2012/10/11 18:00:25 ginsbach Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
@@ -4730,6 +4730,7 @@ UAC	user account control
 UAE	[Kfz] Vereinigte Arabische Emirate
 UART	universal asynchronous receiver/transmitter
 UAT	user acceptance testing
+UB	Undefined Behaviour
 UBUNTU	I am too stupid to configure Debian.
 UC	uncacheable
 UCC	Underhanded C Contest
