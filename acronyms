@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.259 2013/03/24 00:56:28 tg Exp $
+$MirOS: wtf/acronyms,v 1.260 2013/04/06 12:27:23 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.214 2013/01/23 12:34:45 wiz Exp $
 $NetBSD: acronyms.comp,v 1.132 2013/02/22 08:19:50 plunky Exp $
@@ -3187,6 +3187,7 @@ NRÜ	[Kfz:D] Landkreis Neustadt am Rübenberge
 NS	Network Service
 NS	Niederländische Staatsbahn
 NSA	National Security Agency
+NSA	never say anything
 NSA	no such agency
 NSFW	not safe for work
 NSFW	not suitable for work
@@ -3655,6 +3656,7 @@ PW	[ccTLD] Palau
 PW	[Kfz:D] Landkreis Pasewalk
 PWM	pulse width modulation
 PWP	Plot? What Plot?
+PWP	porn without plot
 PXE	preboot execution environment
 PY	[ccTLD] Paraguay
 PY	[Kfz] Paraguay
