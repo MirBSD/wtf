@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.263 2013/04/15 07:59:32 tg Exp $
+$MirOS: wtf/acronyms,v 1.264 2013/04/17 19:03:15 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.214 2013/01/23 12:34:45 wiz Exp $
 $NetBSD: acronyms.comp,v 1.132 2013/02/22 08:19:50 plunky Exp $
@@ -58,6 +58,7 @@ ABG	[Kfz:D] Landkreis Altenburger Land
 ABI	application binary interface
 ABI	[Kfz:D] Landkreis Anhalt-Bitterfeld
 ABM	Arbeitsbeschaffungsmaßnahme
+ABO	abonnement
 ABR	available bit rate
 AC	air conditioning
 AC	alternating current
@@ -5267,6 +5268,7 @@ ZZ	[Kfz:D] Landkreis Zeitz
 ÖBB	Österreichische Bundesbahnen
 ÖHR	[Kfz:D] Landkreis Öhringen
 ÖKONOM	Ö (deutsches Funkalphabet)
+ÖPNV	Öffentlicher Personennahverkehr (public transport)
 ÜB	[Kfz:D] Landkreis Überlingen
 ÜBERMUT	Ü (deutsches Funkalphabet)
 СРБ	[ccTLD] Serbien
