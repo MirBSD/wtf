@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.264 2013/04/17 19:03:15 tg Exp $
+$MirOS: wtf/acronyms,v 1.265 2013/04/21 17:13:55 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.214 2013/01/23 12:34:45 wiz Exp $
 $NetBSD: acronyms.comp,v 1.132 2013/02/22 08:19:50 plunky Exp $
@@ -1258,6 +1258,7 @@ EG	[ccTLD] Ägypten
 EG	[Kfz:D] Landkreis Eggenfelden
 EGA	enhanced graphics adapter
 EGID	effective group ID
+EGNOS	European Geostationary Navigation Overlay Service
 EGP	exterior gateway protocol
 EGPRS	Enhanced GPRS (GPRS over EDGE)
 EH	extension header
@@ -2940,6 +2941,7 @@ MS	[ccTLD] Montserrat
 MS	[Kfz:D] Kreis Münster
 MS	[Kfz] Mauritius
 MSA	Mail Submission Agent
+MSAS	Multi-functional Satellite Augmentation System
 MSB	most significant bit (leftmost)
 MSB	most significant byte
 MSC	Magister Scientiae
@@ -3590,7 +3592,9 @@ POV	point of view
 POW	power over WLAN
 POW	prisoner of war
 POWER	performance optimisation with enhanced RISC (as in IBM's POWER CPUs)
+PP	apiece
 PP	pair programming
+PP	per person
 PPB	PCI [to] PCI bridge
 PPC	Pocket PC
 PPC	PowerPC
@@ -4966,6 +4970,7 @@ W00T	(exclamation of excitement or happiness)
 W3C	World Wide Web Consortium
 W8	wait
 WA	[Kfz:D] Landkreis Waldeck
+WAAS	Wide Area Augmentation System
 WAC	[Kfz] Ghana (veraltet)
 WAC	[Kfz] Goldküste (veraltet)
 WAF	warten anstatt fahren
