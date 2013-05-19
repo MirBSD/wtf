@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.271 2013/05/17 20:09:58 tg Exp $
+$MirOS: wtf/acronyms,v 1.272 2013/05/19 01:14:03 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.215 2013/05/17 17:43:04 dholland Exp $
 $NetBSD: acronyms.comp,v 1.134 2013/05/17 17:43:04 dholland Exp $
@@ -1434,6 +1434,7 @@ ETL	extract, transform, load
 ETLA	extended three letter acronym
 ETOOMANYREFS	(#59) Too many references: can't splice
 ETR	early to rise
+ETRS89	European Terrestrial Reference System of 1989 (GRS80 reference ellipsoid)
 ETSI	European Telecommunications Standards Institute
 ETX	U+0003 ␃ END OF TEXT
 ETXTBSY	(#26) Text file busy
@@ -1749,6 +1750,7 @@ GIT	content addressable filesystem written by finnish study aborter
 GIT	stupid content tracker
 GIYF	Google is your friend (or rather, DDG)
 GJ	good job
+GK	Gauß-Krüger coordinate system (Potsdam-Datum, Bessel(BRD)/Krassowski(DDR)-Ellipsoid)
 GK	[Kfz:D] Selfkantkreis Geilenkirchen-Heinsberg
 GK	[Schule DE] Grundkurs
 GL	good luck (see GL HF, HF)
@@ -1767,6 +1769,7 @@ GL HF	go lick hairy folksingers
 GL HF	good luck, have fun [StarCraft]
 GLA	[Kfz:D] kreisfreie Stadt Gladbeck
 GLHF	good luck, have fun
+GLONASS	Global National Satellite System
 GLT	Gebäudeleittechnik
 GLUE	[altTLD] OpenNIC-Projektarchitektur-Aufhängepunkt
 GLWT	good luck with that
@@ -1828,6 +1831,7 @@ GRML	(Ausruf der Unzufriedenheit, z.B. mit dem Schicksal)
 GRML	austrian GNU/Linux live distribution, contains MirOS bsd4grml
 GRO	[Kfz] Grönland (veraltet)
 GRS	[Kfz:D] Landkreis Gransee
+GRS80	Geodetic Reference System of 1980
 GRZ	[Kfz:D] Landkreis Greiz
 GS	Group Separator (U+001D)
 GS	U+001D ␝ INFORMATION SEPARATOR THREE
@@ -2125,6 +2129,7 @@ IE	Microsoft Internet Explorer
 IE	[ccTLD] Irland
 IEC	International Electrotechnical Commission
 IEEE	Institute of Electrical and Electronics Engineers
+IERS	International Earth Rotation and Reference Systems Service
 IESG	Internet Engineering Steering Group
 IETF	Internet Engineering Task Force
 IF	interface
@@ -2491,6 +2496,7 @@ LAR	[Kfz] Libyen (nicht offiziell)
 LART	luser attitude readjustment tool (ie, hammer)
 LASM	Light Anti-Structures Missile
 LAT	[Kfz:D] Landkreis Lauterbach
+LATLON	Latitude / Longitude (coordinate format: N-S / E-W polar; usually WGS84)
 LAU	[Kfz:D] Landkreis Lauf an der Pegnitz
 LAU	[Kfz:D] Landkreis Nürnberger Land
 LB	little brother
@@ -2837,6 +2843,7 @@ MG	[Kfz:D] kreisfreie Stadt Mönchengladbach
 MGH	[Kfz:D] Landkreis Mergentheim
 MGL	[Kfz] Mongolei
 MGN	[Kfz:D] Landkreis Meiningen
+MGRS	Military Grid Reference System (WGS84)
 MH	[ccTLD] Marshallinseln
 MH	[Kfz:D] kreisfreie Stadt Mülheim an der Ruhr
 MH	[Kfz] Marshallinseln
@@ -3038,6 +3045,7 @@ NA	[ccTLD] Namibia
 NA	[Kfz] Niederländische Antillen
 NAB	[Kfz:D] Landkreis Nabburg
 NACK	negative acknowledgement
+NAD83	North American Datum of 1983 (GRS80 reference ellipsoid)
 NADAZERO	0 (International Radiotelephony Spelling Alphabet)
 NAFAIK	not as far as I know
 NAI	[Kfz:D] Landkreis Naila
@@ -3154,6 +3162,7 @@ NM	[gc] needs maintenance
 NM	[Kfz:D] Landkreis Neumarkt in der Oberpfalz
 NMB	[Kfz:D] Landkreis Naumburg
 NMBS	Nationale Maatschappij der Belgische Spoorwegen
+NMEA	National Marine Electronics Association
 NMF	not my fault
 NMI	non-maskable interrupt
 NMP	not my problem
@@ -3340,6 +3349,7 @@ OSC	U+009D OPERATING SYSTEM COMMAND
 OSCAR	O (International Radiotelephony Spelling Alphabet)
 OSD	open source definition
 OSF	open software foundation
+OSGB	Ordnance Survey National Grid of Great Britain (OSGB36)
 OSI	Open Source Initiative
 OSI	open systems interconnection
 OSL	[Kfz:D] Landkreis Oberspreewald-Lausitz
@@ -4832,6 +4842,7 @@ UPLOAD	to create load on the server
 UPNP	universal plug and play
 UPS	uninterruptible power supply
 UPS	united parcel service
+UPS	Universal Polar Stereographic coordinate system (UTM zones A, B, Y, Z)
 UPS	[gc] unnatural pile of sticks
 URI	uniform resource identifier
 URL	uniform resource locator
@@ -4844,6 +4855,7 @@ USA	[Kfz] Vereinigte Staaten von Amerika
 USART	universal synchronous/asynchronous receiver/transmitter
 USB	universal serial bus
 USI	[Kfz:D] Landkreis Usingen
+USNG	United States National Grid (NAD83)
 USP	Universale Selbstladepistole
 USR	Unix Source Repository
 USR	Unix System Resources
@@ -4856,6 +4868,7 @@ UTFG	use the fscking google
 UTFS	use the fine source
 UTFS	use the fucking source
 UTLD	unsponsored top-level domain
+UTM	Universal Transverse Mercator (nowadays WGS84 or ETRS89 which Δ<1m; historically different)
 UTP	unshielded twisted pair
 UTRTFTJ	use the right tool for the job
 UTSL	use the source, Luke (open source programming)
@@ -5040,6 +5053,7 @@ WFW	Windows® for Workgroups
 WFY	works for you
 WG	[Kfz:D] Landkreis Wangen
 WG	[Kfz] Grenada
+WGS84	World Geodetic System of 1984 (refined GRS80 reference ellipsoid) used by GPS
 WH	write hit
 WHISKEY	W (International Radiotelephony Spelling Alphabet)
 WHV	[Kfz:D] kreisfreie Stadt Wilhelmshaven
