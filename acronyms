@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.273 2013/05/19 22:05:06 tg Exp $
+$MirOS: wtf/acronyms,v 1.274 2013/05/23 10:48:03 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.215 2013/05/17 17:43:04 dholland Exp $
 $NetBSD: acronyms.comp,v 1.134 2013/05/17 17:43:04 dholland Exp $
@@ -3843,6 +3843,7 @@ RO	read-only
 RO	[ccTLD] Rumänien
 RO	[Kfz:D] kreisfreie Stadt und Landkreis Rosenheim
 RO	[Kfz] Rumänien
+ROCA	resource-oriented client architecture
 ROD	[Kfz:D] Landkreis Roding
 ROF	[Kfz:D] Landkreis Rotenburg (Fulda)
 ROFL	Respekt, Originalposting fein lustig
