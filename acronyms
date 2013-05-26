@@ -1,7 +1,7 @@
-$MirOS: wtf/acronyms,v 1.274 2013/05/23 10:48:03 tg Exp $
+$MirOS: wtf/acronyms,v 1.275 2013/05/26 19:27:02 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.215 2013/05/17 17:43:04 dholland Exp $
-$NetBSD: acronyms.comp,v 1.134 2013/05/17 17:43:04 dholland Exp $
+$NetBSD: acronyms.comp,v 1.135 2013/05/25 21:17:51 jdf Exp $
 0	[Kfz:D] Diplomatenkennzeichen oder Politiker
 1	one, on
 1080I	1920x540px (interlaced)
@@ -568,6 +568,7 @@ BS	[ccTLD] Bahamas
 BS	[Kfz:D] Landkreis Braunschweig
 BS	[Kfz] Bahamas
 BS	[Kfz] Britisch-Somaliland (veraltet)
+BSA	basic service area
 BSB	[Kfz:D] Landkreis Bersenbrück
 BSC	Baccalaureus Scientiae
 BSD	basically secure and dependable
@@ -587,9 +588,11 @@ BSP	board support package
 BSP	bootstrap processor
 BSP	bug-squashing party
 BSR	bit scan reverse
+BSS	basic service set
 BSS	block started by symbol
 BSSAP+	BSS Application Part Plus
 BSSGP	Base Station System GPRS Protocol
+BSSID	basic service set identifier
 BT	bit test
 BT	BitTorrent
 BT	Bluetooth
@@ -1416,6 +1419,8 @@ ESPIPE	(#29) Illegal seek
 ESR	Eric Steven Raymond -- http://www.catb.org/~esr/
 ESRCH	(#3) No such process
 ESS	electronic switching system
+ESS	extended service set
+ESSID	extended service set identifier
 EST	enhanced speedstep
 EST	[Kfz] Estland
 ESTALE	(#70) Stale NFS file handle
@@ -1489,6 +1494,7 @@ FDC	floppy disk controller
 FDD	floppy disk drive
 FDDI	fiber distributed data interface
 FDE	full disk encryption
+FDI	FdI -- http://altlasten.lutz.donnerhacke.de/mitarb/lutz/usenet/Fachbegriffe.der.Informatik.html
 FDIK	Fick' Dich ins Knie
 FDIK	Volker Birk (VB)
 FDS	[Kfz:D] Landkreis Freudenstadt
@@ -2079,6 +2085,7 @@ IBID	ibidem (in the same place)
 IBM	Ich bin Müll
 IBM	International Business Machines
 IBS	instruction based sampling
+IBSS	independent basic service set
 IBTD	I beg to differ
 IBTD	in before the delete (web fora)
 IC	I see
@@ -4385,6 +4392,7 @@ SSFDC	solid state floppy disc card
 SSH	secure shell
 SSI	server side includes
 SSIA	subject says it all
+SSID	service set identifier
 SSL	secure sockets layer
 SSP	stack smashing protection
 SSTO	single stage to orbit
@@ -4635,6 +4643,7 @@ TJM	that's just me
 TK	Telekommunikation
 TK	temporal key
 TK	[ccTLD] Tokelau
+TKIP	Temporal Key Integrity Protocol
 TL	[ccTLD] Osttimor (zuvor .tp)
 TL	[Kfz] Osttimor
 TL;DR	too long; didn't read
@@ -5124,7 +5133,9 @@ WP	WordPerfect
 WP	Wordpress
 WP	write protect
 WP	[gc] waypoint
-WPA	wi-fi protected access
+WPA	Wi-Fi Protected Access
+WPA2	Wi-Fi Protected Access Ⅱ
+WPS	Wi-Fi Protected Setup
 WPT	[Schule DE] Wahlpflichtunterricht in Teilklassen
 WR	[Kfz:D] Landkreis Wernigerode
 WRAM	window random access memory
