@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.276 2013/06/01 00:18:54 tg Exp $
+$MirOS: wtf/acronyms,v 1.277 2013/06/03 17:25:04 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.217 2013/05/27 21:32:38 dholland Exp $
 $NetBSD: acronyms.comp,v 1.135 2013/05/25 21:17:51 jdf Exp $
@@ -3870,6 +3870,7 @@ ROL	[Kfz:D] Landkreis Rottenburg an der Laaber
 ROM	read only memory
 ROM	Request of Maintainer
 ROMEO	R (International Radiotelephony Spelling Alphabet)
+ROP	return-oriented programming
 ROQA	Request of QA
 ROR	rotate right
 ROS	[Kfz:D] Landkreis Rostock
