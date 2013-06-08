@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.279 2013/06/08 01:41:44 tg Exp $
+$MirOS: wtf/acronyms,v 1.280 2013/06/08 14:32:34 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.218 2013/06/05 21:03:57 dholland Exp $
 $NetBSD: acronyms.comp,v 1.137 2013/06/05 21:03:57 dholland Exp $
@@ -693,6 +693,7 @@ CC	carbon coby
 CC	Creative Commons
 CC	credit card
 CC	[ccTLD] Kokosinseln
+CC	[gc] confirmation code
 CCAR	Cisco Certified Architect
 CCC	Chaos Computer Club
 CCD	charge coupled device
