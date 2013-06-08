@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.278 2013/06/08 00:21:00 tg Exp $
+$MirOS: wtf/acronyms,v 1.279 2013/06/08 01:41:44 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.218 2013/06/05 21:03:57 dholland Exp $
 $NetBSD: acronyms.comp,v 1.137 2013/06/05 21:03:57 dholland Exp $
@@ -4076,6 +4076,7 @@ SBU	standard build unit
 SBZ	should be zero
 SBZ	Sowjetische Besatzungszone
 SC	scilicet (evidently, naturally; used as namely)
+SC	StarCraft
 SC	store conditional
 SC	[ccTLD] Seychellen
 SC	[Kfz:D] Landkreis Schwabach
@@ -5050,6 +5051,7 @@ WAV	Waveform (RIFF)
 WB	welcome back
 WB	[Kfz:D] Landkreis Wittenberg
 WB	[Kfz] Westjordanland (nicht offiziell)
+WBF	[SC] Weltraumbaufahrzeug
 WBS	[Kfz:D] Landkreis Worbis
 WCDMA	see W-CDMA
 WCPGW	what could possibly go wrong
@@ -5314,6 +5316,7 @@ ZR	[Kfz] Zaire (veraltet)
 ZRE	[Kfz] Zaire (veraltet)
 ZS	[Kfz:D] Landkreis Zossen
 ZSH	Z Shell
+ZTF	[gc] zeroth to find, a.k.a. Owner
 ZULU	Z (International Radiotelephony Spelling Alphabet)
 ZW	[ccTLD] Simbabwe
 ZW	[Kfz:D] Landkreis Zweibrücken
