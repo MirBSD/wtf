@@ -1,7 +1,7 @@
-$MirOS: wtf/acronyms,v 1.277 2013/06/03 17:25:04 tg Exp $
+$MirOS: wtf/acronyms,v 1.278 2013/06/08 00:21:00 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
-$NetBSD: acronyms,v 1.217 2013/05/27 21:32:38 dholland Exp $
-$NetBSD: acronyms.comp,v 1.135 2013/05/25 21:17:51 jdf Exp $
+$NetBSD: acronyms,v 1.218 2013/06/05 21:03:57 dholland Exp $
+$NetBSD: acronyms.comp,v 1.137 2013/06/05 21:03:57 dholland Exp $
 0	[Kfz:D] Diplomatenkennzeichen oder Politiker
 1	one, on
 1080I	1920x540px (interlaced)
@@ -422,6 +422,7 @@ BER	[Kfz:D] Landkreis Bernau
 BERTA	B (deutsches Funkalphabet)
 BF	best friend
 BF	boyfriend
+BF	bugfix
 BF	[ccTLD] Burkina Faso
 BF	[Kfz:D] Kreis Steinfurt
 BF	[Kfz] Burkina Faso
@@ -1660,6 +1661,9 @@ FUSE	filesystem in userspace
 FUTHARK	(runic Alphabet)
 FW	[Kfz:D] Landkreis Fürstenwalde
 FWH	firmware hub
+FWIHH	from what I have heard
+FWIK	from what I know
+FWIR	from what I can recall/remember
 FWIW	for what it's worth
 FWS	folding white space
 FYEO	for your eyes only
@@ -1943,6 +1947,7 @@ HEXA	six-
 HF	hardware floating point (Debian/armhf)
 HF	have fun (see also: GL, GL HF)
 HF	high frequency
+HF	hotfix
 HF	[Kfz:D] Kreis Herford
 HFIW	HOLY FUCK IT WORKS
 HFM	highest frequency mode
@@ -1996,6 +2001,7 @@ HONK	Hauptschüler ohne nennenswerte Kenntnisse
 HOOD	hierarchical object oriented design
 HOP	High Octet Preset (U+0081)
 HOR	[Kfz:D] Landkreis Horb
+HORRACLE	Oracle
 HOT	[Kfz:D] Landkreis Hohenstein-Ernstthal
 HOTEL	H (International Radiotelephony Spelling Alphabet)
 HP	Harry Potter
@@ -3351,6 +3357,8 @@ OPS	operations per second
 OPTU	Octet Pass-Through for Unicode (encoding) -- MirOS OPTU-8 and OPTU-16
 OQL	object query language
 OR	[Kfz:D] Landkreis Oranienburg
+ORACLE	cf. Horracle
+ORACLE	one real a..h.le called Larry Ellison
 ORG	[uTLD] organisation (nichtkommerzielle Organisationen)
 ORM	object-relational mapping
 OS	Obligation Service
@@ -3524,6 +3532,7 @@ PI	[Kfz:D] Kreis Pinneberg
 PI	[Kfz] Philippinen (veraltet)
 PIC	position independent code
 PIC	programmable interrupt controller
+PICNIC	problem in chair, not in computer (cf. PEBKAC)
 PID	process id
 PIE	position independent executable
 PIM	personal information manager
@@ -3925,6 +3934,7 @@ RTF	rich text format
 RTFB	read the fine/fucking book
 RTFC	read the fine/fucking code (see also UTFS)
 RTFD	read the fine/fucking documentation
+RTFDTD	read the fucking Document Type Definition
 RTFJF	read the fine jargon file -- http://www.catb.org/~esr/jargon/
 RTFM	read the fine/fucking manual
 RTFMF	read the fucking Makefile
