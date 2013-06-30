@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.284 2013/06/26 09:19:59 tg Exp $
+$MirOS: wtf/acronyms,v 1.285 2013/06/30 17:26:51 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.218 2013/06/05 21:03:57 dholland Exp $
 $NetBSD: acronyms.comp,v 1.137 2013/06/05 21:03:57 dholland Exp $
@@ -695,6 +695,7 @@ CC	Creative Commons
 CC	credit card
 CC	[ccTLD] Kokosinseln
 CC	[gc] confirmation code
+CC	[gc] confirmation code (TC)
 CCAR	Cisco Certified Architect
 CCC	Chaos Computer Club
 CCD	charge coupled device
@@ -1510,6 +1511,7 @@ FEFE	Felix von Leitner -- http://www.fefe.de/
 FET	field-effect transistor
 FEU	[Kfz:D] Landkreis Feuchtwangen
 FF	Form Feed (U+000C)
+FF	[gc] first finder’s code (TC)
 FF	[Kfz:D] kreisfreie Stadt Frankfurt (Oder)
 FFB	[Kfz:D] Landkreis Fürstenfeldbruck
 FFH	functional fixed hardware
@@ -1716,6 +1718,7 @@ GCC	GNU Compiler Collection
 GCC	Group Call Control
 GCD	greatest common divisor (GGT)
 GCR	group-coded recording
+GCRTNO	[gc] Groundspeak (TC)
 GD	[ccTLD] Grenada
 GD	[Kfz:D] Landkreis Schwäbisch Gmünd
 GDB	[Kfz:D] Landkreis Gadebusch
@@ -1853,6 +1856,7 @@ GRZ	[Kfz:D] Landkreis Greiz
 GS	Group Separator (U+001D)
 GS	U+001D ␝ INFORMATION SEPARATOR THREE
 GS	[ccTLD] Südgeorgien und die Südlichen Sandwichinseln
+GS	[gc] Groundspeak (TC)
 GS	[Kfz:D] Landkreis Goslar
 GSI	global system interrupt
 GSM	Global System for Mobile Communications
@@ -2676,6 +2680,7 @@ LTE	Long Term Evolution
 LTF	[gc] last to find
 LTNS	long time no see
 LTO	link-time optimisation
+LTPS	[gc] Locationless TerraCaching Point System
 LTR	load task register
 LTR	U+200E LEFT-TO-RIGHT MARK
 LTS	*buntu equivalent of Debian unstable
@@ -2743,6 +2748,7 @@ MC	[Kfz] Monaco
 MCA	machine check architecture
 MCC	multiversion concurrency control
 MCE	machine check exception
+MCE	[gc] Measure of Cache Excellence (TC)
 MCGA	multicolor graphics adapter
 MCH	memory controller hub
 MCM	multi-chip module
@@ -3657,6 +3663,7 @@ PPPOA	Point-to-Point Protocol over ATM
 PPPOE	Point-to-Point Protocol over Ethernet
 PPPOW	PPP over WLAN
 PPU	physics processing unit
+PQ	[gc] Pocket Query
 PR	public relations
 PR	[ccTLD] Puerto Rico
 PR	[Kfz:D] Landkreis Prignitz
@@ -4736,6 +4743,7 @@ TPM	trusted platform module
 TPM	[SW] Episode I: The Phantom Menace
 TPR	task priority register
 TPS	transmission parameters signaling
+TPS	[gc] TerraCaching Point System
 TPTB	the person to bug
 TPTB	the powers that be
 TR	table row (in HTML)
@@ -4828,6 +4836,7 @@ UB	Undefined Behaviour
 UBUNTU	I am too stupid to configure Debian.
 UC	uncacheable
 UCC	Underhanded C Contest
+UCR	[gc] User Contribution Rating (TC)
 UCS	uniform-cost search
 UDDI	Universal Description, Discovery, and Integration protocol
 UDMA	Ultra-DMA
