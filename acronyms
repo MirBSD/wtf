@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.285 2013/06/30 17:26:51 tg Exp $
+$MirOS: wtf/acronyms,v 1.286 2013/07/08 12:37:35 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.218 2013/06/05 21:03:57 dholland Exp $
 $NetBSD: acronyms.comp,v 1.137 2013/06/05 21:03:57 dholland Exp $
@@ -238,6 +238,7 @@ ARC	adaptive replacement cache
 ARCCOS	Arkuskosinus
 ARCSIN	Arkussinus
 ARCTAN	Arkustangēns
+ARD	Arbeitsgemeinschaft der Rundfunkanstalten Deutschlands
 ARGE	Amt für Repression, Grundrechtsentzug und Existenzvernichtung
 ARJ	ARJ archive (traditional archive compressor)
 ARM	Acorn RISC Machine
@@ -545,7 +546,9 @@ BPS	bits per second
 BPSK	binary phase shift keying
 BQ	[ccTLD] Saba
 BQS	Berkeley quality software
+BR	Bayerischer Rundfunk
 BR	branch
+BR	break
 BR	[ccTLD] Brasilien
 BR	[Kfz:D] Landkreis Bruchsal
 BR	[Kfz] Brasilien
@@ -657,6 +660,7 @@ BÜZ	[Kfz:D] Landkreis Bützow
 C	[Kfz:D] Landkreis Chemnitz
 C	[Kfz] Kuba
 C++	CFrustFrust
+C.P.	ceteris paribus
 C4	(some kind of explosive)
 C4	CCC Cologne
 CA	certificate authority
@@ -831,6 +835,7 @@ COS	Kosinus
 COS	[HP] Chamber of Secrets
 COTS	commercial off-the-shelf
 COW	copy-on-write
+CP	ceteris paribus
 CP	continuous pilot
 CP	corporal punishment
 CPB	core performance boost
@@ -2027,6 +2032,7 @@ HP:SS	(see HP:PS)
 HPC	high performance computing
 HPET	high precision event timer
 HQ	Headquarters
+HR	Hessischer Rundfunk
 HR	[ccTLD] Kroatien
 HR	[Kfz:D] Schwalm-Eder-Kreis
 HR	[Kfz] Kroatien
@@ -2838,6 +2844,7 @@ MD	[Kfz] Moldawien
 MDA	mail delivery agent
 MDA	monochrome display adapter
 MDI	multi-document interface
+MDR	Mitteldeutscher Rundfunk
 MDRAM	multibank dynamic random access memory
 MDWDW	Mach' doch, was Du willst!
 MDWN	Markdown
@@ -5073,6 +5080,7 @@ WD	[Kfz:D] Kreis Wiedenbrück
 WD	[Kfz] Dominica
 WDA	[Kfz:D] Landkreis Werdau
 WDA	[Kfz:D] Landkreis Zwickauer Land
+WDR	Westdeutscher Rundfunk
 WDT	watchdog timer
 WDYM	what do you mean
 WDYMBT	what do you mean by that
@@ -5313,6 +5321,7 @@ ZACHARIAS	Z (deutsches Funkalphabet)
 ZB	zum Beispiel
 ZBR	zone bit recording
 ZBUS	Zwischen Bildschirm und Stuhl
+ZDF	Zweites Deutsches Fernsehen
 ZE	[Kfz:D] Landkreis Zerbst
 ZEL	[Kfz:D] Landkreis Zell
 ZFOD	zero-filled on demand
