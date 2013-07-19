@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.287 2013/07/08 14:04:17 tg Exp $
+$MirOS: wtf/acronyms,v 1.288 2013/07/19 16:34:24 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.218 2013/06/05 21:03:57 dholland Exp $
 $NetBSD: acronyms.comp,v 1.137 2013/06/05 21:03:57 dholland Exp $
@@ -4634,6 +4634,7 @@ TF	... the fuck
 TF	[ccTLD] Französische Süd- und Antarktisgebiete
 TF	[Kfz:D] Landkreis Teltow-Fläming
 TFB	too fucking bad
+TFS	Team Foundation Server
 TFSMIF	Thank the Flying Spaghetti Monster It's Friday
 TFT	thin film transistor
 TFTC	[gc] thanks for the cache
