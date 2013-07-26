@@ -1,7 +1,7 @@
-$MirOS: wtf/acronyms,v 1.289 2013/07/24 18:26:27 tg Exp $
+$MirOS: wtf/acronyms,v 1.290 2013/07/26 18:04:02 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.218 2013/06/05 21:03:57 dholland Exp $
-$NetBSD: acronyms.comp,v 1.137 2013/06/05 21:03:57 dholland Exp $
+$NetBSD: acronyms.comp,v 1.138 2013/06/29 12:22:48 jdf Exp $
 0	[Kfz:D] Diplomatenkennzeichen oder Politiker
 1	one, on
 1080I	1920x540px (interlaced)
@@ -469,7 +469,8 @@ BIN	[Kfz:D] Landkreis Bingen
 BIND	Berkeley Internet Name Daemon
 BIND	Buggy Internet Name Dæmon
 BINNMU	binNMU, binary non-maintainer upload from unchanged sources
-BIOS	basic input/output system
+BIOS	Basic Input/Output System
+BIOS	built-in operating system
 BIR	[Kfz:D] Landkreis Birkenfeld, Stadt Idar-Oberstein
 BISSOTWO	2 (International Radiotelephony Spelling Alphabet)
 BIST	built-in self-test
@@ -747,7 +748,7 @@ CFY	calling for you
 CG	center of gravity
 CG	control gate
 CG	[ccTLD] Republik Kongo
-CGA	color graphics adapter
+CGA	Color Graphics Adapter
 CGI	common gateway interface
 CGN	Carrier-Grade NAT
 CGO	[Kfz] Demokratische Republik Kongo
@@ -1001,7 +1002,7 @@ DDR	[Kfz] Deutsche Demokratische Republik (veraltet)
 DDS	direct digital sound
 DDS	Doctor of Dental Surgery
 DDTT	don't do that then
-DDWG	digital display working group
+DDWG	Digital Display Working Group
 DE	debugging extensions
 DE	desktop environment
 DE	[ccTLD] Deutschland
@@ -1103,6 +1104,7 @@ DON	[Kfz:D] Landkreis Donauwörth
 DORA	D (deutsches Funkalphabet)
 DOS	denial of service
 DOS	Disc Operating System
+DP	DisplayPort
 DPC	deferred procedure call
 DPCM	differential pulse code modulation
 DPD	dead peer detection
@@ -1165,7 +1167,8 @@ DVB-T	digital video broadcasting over terrestrial stations
 DVCS	distributed version control system
 DVD	digital versatile disc
 DVFS	dynamic voltage and frequency scaling
-DVI	digital visual interface
+DVI	device independent
+DVI	Digital Visual Interface
 DVR	digital video recorder
 DW	[Kfz:D] Landkreis Dippoldiswalde
 DW	[Kfz:D] Weißeritzkreis
@@ -1277,7 +1280,7 @@ EG	evil grin
 EG	exempli gratia (for example)
 EG	[ccTLD] Ägypten
 EG	[Kfz:D] Landkreis Eggenfelden
-EGA	enhanced graphics adapter
+EGA	Enhanced Graphics Adapter
 EGID	effective group ID
 EGNOS	European Geostationary Navigation Overlay Service
 EGP	exterior gateway protocol
@@ -1944,6 +1947,7 @@ HDD	hard disc drive
 HDH	[Kfz:D] Landkreis Heidenheim
 HDL	hardware description language
 HDL	[Kfz:D] Landkreis Haldensleben
+HDMI	High-Definition Multimedia Interface
 HDTV	high-definition television (720p, 1080i, 1080p)
 HDW	Heil den Wansen (=OMG)
 HE	Hessen
@@ -2756,7 +2760,7 @@ MCA	machine check architecture
 MCC	multiversion concurrency control
 MCE	machine check exception
 MCE	[gc] Measure of Cache Excellence (TC)
-MCGA	multicolor graphics adapter
+MCGA	Multi-Color Graphics Array
 MCH	memory controller hub
 MCM	multi-chip module
 MCP	Microsoft Certified Professional
@@ -2843,7 +2847,7 @@ MD	[ccTLD] Moldawien
 MD	[Kfz:D] kreisfreie Stadt Magdeburg
 MD	[Kfz] Moldawien
 MDA	mail delivery agent
-MDA	monochrome display adapter
+MDA	Monochrome Display Adapter
 MDI	multi-document interface
 MDR	Mitteldeutscher Rundfunk
 MDRAM	multibank dynamic random access memory
@@ -3375,7 +3379,7 @@ OPN	Open Projects Network (former Linpeople, now Freenode)
 OPR	[Kfz:D] Landkreis Ostprignitz-Ruppin
 OPS	operations per second
 OPTU	Octet Pass-Through for Unicode (encoding) -- MirOS OPTU-8 and OPTU-16
-OQL	object query language
+OQL	Object Query Language
 OR	[Kfz:D] Landkreis Oranienburg
 ORACLE	cf. Horracle
 ORACLE	one real a..h.le called Larry Ellison
@@ -3766,7 +3770,7 @@ RA	[Kfz:D] Landkreis Rastatt
 RA	[Kfz] Argentinien
 RAD	rapid application development
 RADIUS	Remote Authentication Dial In User Service
-RAID	redundant array of inexpensive disks
+RAID	redundant array of {independent,inexpensive} disks
 RAM	random access memory
 RAR	Java™ Resource Adapter Archive (collection of class, XML and other JCA), cf. JAR
 RAR	Roshal Archive (traditional archive compressor)
@@ -3799,7 +3803,7 @@ RCT	[dental] Wurzelkanalbehandlung (vulg. "Wurzelfüllung")
 RCU	read-copy-update
 RD	[Kfz:D] Kreis Rendsburg-Eckernförde
 RDF	reality distortion field
-RDF	resource description format
+RDF	Resource Description Framework
 RDG	[Kfz:D] Landkreis Ribnitz-Damgarten
 RDM	relational data model
 RDMA	remote direct memory access
@@ -3815,6 +3819,7 @@ REGEN	regenerate
 REH	[Kfz:D] Landkreis Rehau
 REI	[Kfz:D] Stadt Bad Reichenhall im Landkreis Berchtesgadener Land
 REI	[Kfz:D] Teilkreis Laufen im Landkreis Berchtesgadener Land
+REPL	read-eval-print loop
 REST	representational state transfer
 REXX	Restructured Extended Executor
 RF	Flash-Taste für Amtsholung
@@ -4298,7 +4303,7 @@ SMAF	system management action field
 SMART	self-monitoring analysis and reporting technology
 SMB	Server Message Block
 SMBFS	Server Message Block File System (see CIFS)
-SMBIOS	system management BIOS
+SMBIOS	System Management BIOS
 SMC	system management controller
 SME	[Kfz] Suriname
 SMH	shaking my head
@@ -4498,7 +4503,7 @@ SUX	sucks
 SUX2BU	sucks to be you
 SV	[ccTLD] El Salvador
 SVG	scalable vector graphics
-SVGA	super video graphics array
+SVGA	Super Video Graphics Array
 SVM	secure virtual machine
 SVM	support vector machine
 SVP	please (french: s'il vous plaît)
@@ -4970,7 +4975,7 @@ VEG	very evil grin
 VER	[Kfz:D] Landkreis Verden
 VERFGH	Verfassungsgerichtshof
 VERPEILUNGSFAKTOR	never forget it
-VESA	video electronics standards association
+VESA	Video Electronics Standards Association
 VFO	variable-frequency oscillator
 VFS	Viafiers federalas svizras (SBB)
 VFS	Virtual File System
@@ -4978,7 +4983,7 @@ VG	Verwaltungsgericht
 VG	volume group
 VG	[ccTLD] Britische Jungferninseln
 VG	[Kfz:D] Landkreis Vorpommern-Greifswald ohne die Stadt Greifswald
-VGA	video graphics array
+VGA	Video Graphics Array
 VGH	Verwaltungsgerichtshof
 VH	very helpful (lilo lingo, from IRC)
 VHDCI	very high density cable interconnect
@@ -5253,7 +5258,7 @@ XBM	X Bitmap
 XD	(spanish emoticon: smile)
 XEP	XMPP Extension Protocol
 XER	XML encoding rules
-XGA	extended graphics adapter/array
+XGA	Extended Graphics Array
 XHTML	Extensible Hyper-Text Markup Language
 XIP	execute in place
 XML	Extensible Markup Language
