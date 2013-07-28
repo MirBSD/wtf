@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.290 2013/07/26 18:04:02 tg Exp $
+$MirOS: wtf/acronyms,v 1.291 2013/07/28 16:25:51 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.218 2013/06/05 21:03:57 dholland Exp $
 $NetBSD: acronyms.comp,v 1.138 2013/06/29 12:22:48 jdf Exp $
@@ -3778,6 +3778,8 @@ RAS	remote access service
 RAS	restartable atomic sequence
 RAS	row address strobe
 RATIBIBUGLE	french-specific version of ROTOTILL
+RATP	Rentre Avec Tes Pieds (Come back home by walking)
+RATP	Régie Autonome des Transports Parisiens
 RB	Regionalbahn
 RB	[Kfz] Bolivien (veraltet)
 RB	[Kfz] Botswana
@@ -3820,6 +3822,7 @@ REH	[Kfz:D] Landkreis Rehau
 REI	[Kfz:D] Stadt Bad Reichenhall im Landkreis Berchtesgadener Land
 REI	[Kfz:D] Teilkreis Laufen im Landkreis Berchtesgadener Land
 REPL	read-eval-print loop
+RER	Réseau Express Régional
 REST	representational state transfer
 REXX	Restructured Extended Executor
 RF	Flash-Taste für Amtsholung
