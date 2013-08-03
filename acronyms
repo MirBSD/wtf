@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.291 2013/07/28 16:25:51 tg Exp $
+$MirOS: wtf/acronyms,v 1.292 2013/08/03 17:17:53 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.218 2013/06/05 21:03:57 dholland Exp $
 $NetBSD: acronyms.comp,v 1.138 2013/06/29 12:22:48 jdf Exp $
@@ -3210,6 +3210,7 @@ NMP	not my problem
 NMS	network management system
 NMS	[Kfz:D] kreisfreie Stadt Neumünster
 NMU	non-maintainer upload
+NN	nighty-night
 NNTP	Network News Transfer Protocol
 NO	[ccTLD] Norwegen
 NOC	network operation centre
