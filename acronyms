@@ -1,7 +1,7 @@
-$MirOS: wtf/acronyms,v 1.292 2013/08/03 17:17:53 tg Exp $
+$MirOS: wtf/acronyms,v 1.293 2013/08/12 18:38:25 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
-$NetBSD: acronyms,v 1.218 2013/06/05 21:03:57 dholland Exp $
-$NetBSD: acronyms.comp,v 1.138 2013/06/29 12:22:48 jdf Exp $
+$NetBSD: acronyms,v 1.219 2013/08/10 22:37:58 dholland Exp $
+$NetBSD: acronyms.comp,v 1.139 2013/08/07 05:19:40 agc Exp $
 0	[Kfz:D] Diplomatenkennzeichen oder Politiker
 1	one, on
 1080I	1920x540px (interlaced)
@@ -1064,11 +1064,14 @@ DKB	[Kfz:D] Landkreis Dinkelsbühl
 DKDC	don't know, don't care
 DKIM	DomainKeys Identified Mail
 DL	diode logic
+DL	discrete logarithm
 DL	download
 DL	[Kfz:D] Landkreis Döbeln
 DLE	U+0010 ␐ DATA LINK ESCAPE
 DLG	[Kfz:D] Landkreis Dillingen an der Donau
 DLL	dynamic link library (shared object)
+DLP	Dark Lord Potter
+DLP	discrete logarithm problem
 DM	Deutsche Mark
 DM	dungeon master
 DM	[ccTLD] Dominica
@@ -1129,6 +1132,7 @@ DS	[Kfz:D] Landkreis Donaueschingen
 DS9	Star Trek: Deep Space Nine
 DSA	Debian Security Advisory
 DSA	Debian Systems Administration
+DSA	Digital Signature Algorithm
 DSB	Danske Statsbaner
 DSB	double-sideband modulation
 DSDT	differentiated system descriptor table
@@ -1220,6 +1224,7 @@ EBN	[Kfz:D] Landkreis Ebern
 EBR	extended boot record
 EBS	[Kfz:D] Landkreis Ebermannstadt
 EBUSY	(#16) Device busy
+EC	elliptical curve
 EC	Eurocity
 EC	European Commission
 EC	[ccTLD] Ecuador
@@ -1227,6 +1232,9 @@ EC	[Kfz] Ecuador
 ECANCELED	(#86) Operation canceled
 ECC	error correction code
 ECCM	electronic counter-countermeasures (e.g. something against jamming)
+ECDH	elliptic-curve Diffie-Hellman
+ECDL	elliptical curve discrete logarithm
+ECDSA	elliptical curve digital signature algorithm
 ECHILD	(#10) No child processes
 ECHO	E (International Radiotelephony Spelling Alphabet)
 ECK	[Kfz:D] Landkreis Eckernförde
@@ -2652,8 +2660,9 @@ LOL	laughing out loud
 LOS	[Kfz:D] Landkreis Oder-Spree
 LOTR	Lord of the Rings
 LP	Langspielplatte (Schallplatte)
-LP	Launchpad
+LP	Launchpad(.net)
 LP	long playing (record)
+LP	[gc] Leitplanke
 LP	[gc] Lost Place
 LP	[Kfz:D] Kreis Lippstadt
 LPC	low pin count
@@ -2901,6 +2910,7 @@ MIKE	M (International Radiotelephony Spelling Alphabet)
 MIL	[Kfz:D] Landkreis Miltenberg
 MIL	[sTLD] military (militärische Einrichtungen der USA)
 MILF	mother i'd like to fuck
+MIM	man in the middle (really MITM)
 MIMD	multiple instruction, multiple data
 MIME	Multipurpose Internet Mail Extensions
 MIMO	multiple input multiple output
@@ -2916,6 +2926,7 @@ MIRBSD	split of OpenBSD with a lot of improvements -- http://mirbsd.de/
 MISCHAN	(accidentally writing in the wrong IRC channel)
 MISD	multiple instruction, single data
 MIT	Massachusetts Institute of Technology
+MITM	man in the middle
 MK	Mark (as in edition, version)
 MK	[ccTLD] Mazedonien
 MK	[Kfz:D] Märkischer Kreis
@@ -4754,6 +4765,7 @@ TOS	terms of service
 TOS	the (atari) operating system
 TOS	trusted operating system
 TOS	type of service
+TP	toilet paper
 TP	transaction processing
 TP	[ccTLD] Osttimor (heute .tl)
 TP	[Kfz:D] Landkreis Templin
