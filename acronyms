@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.293 2013/08/12 18:38:25 tg Exp $
+$MirOS: wtf/acronyms,v 1.294 2013/08/18 12:59:04 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.219 2013/08/10 22:37:58 dholland Exp $
 $NetBSD: acronyms.comp,v 1.139 2013/08/07 05:19:40 agc Exp $
@@ -2106,6 +2106,7 @@ I.E.	id est (it is, that is)
 I/O	input / output
 I2O	intelligent input/output
 IA	information assurance
+IAAS	infrastructure as a service
 IAC	in any case
 IAE	in any event
 IANA	Internet Assigned Numbers Authority
@@ -2180,6 +2181,7 @@ IF	intermediate frequency
 IFCM	isochronous flow control mode
 IFF	Interchange File Format
 IGB	[Kfz:D] Stadt St. Ingbert im Saar-Pfalz-Kreis
+IGCD	International Geocaching Day
 IGD	Internet gateway device
 IGMP	Internet Group Management Protocol
 IGP	Interior Gateway Protocol
@@ -3451,6 +3453,7 @@ PA	physical address
 PA	[ccTLD] Panama
 PA	[Kfz:D] kreisfreie Stadt und Landkreis Passau
 PA	[Kfz] Panama
+PAAS	platform as a service
 PAC	phase-amplitude converter
 PAD	Padding Character (U+0080)
 PAE	physical address extension
