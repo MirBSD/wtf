@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.295 2013/08/23 23:37:50 tg Exp $
+$MirOS: wtf/acronyms,v 1.296 2013/09/03 18:57:37 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.219 2013/08/10 22:37:58 dholland Exp $
 $NetBSD: acronyms.comp,v 1.139 2013/08/07 05:19:40 agc Exp $
@@ -734,6 +734,7 @@ CE	common era
 CE	Compute Element (in a Grid)
 CE	[Kfz:D] Landkreis Celle
 CEO	chief executive officer
+CEPT	Conférence Européenne des Administrations des Postes et des Télécommunications
 CER	canonical encoding rules
 CF	compact flash
 CF	confer (see)
@@ -3731,6 +3732,7 @@ PTE	page table entry
 PTLA	pseudo top level aggregator
 PTM	[Kfz] Malaysia (veraltet)
 PTP	page table page
+PTT	postal, telegraph and telephone service
 PTV	parental tunnel vision
 PTV	perceived target value
 PU	private use
