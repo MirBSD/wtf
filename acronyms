@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.296 2013/09/03 18:57:37 tg Exp $
+$MirOS: wtf/acronyms,v 1.297 2013/09/10 16:08:34 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.219 2013/08/10 22:37:58 dholland Exp $
 $NetBSD: acronyms.comp,v 1.139 2013/08/07 05:19:40 agc Exp $
@@ -1737,6 +1737,7 @@ GCC	GNU C Compiler (old)
 GCC	GNU Compiler Collection
 GCC	Group Call Control
 GCD	greatest common divisor (GGT)
+GCHQ	Government Communications Headquarters (British NSA equivalent)
 GCR	group-coded recording
 GCRTNO	[gc] Groundspeak (TC)
 GD	[ccTLD] Grenada
