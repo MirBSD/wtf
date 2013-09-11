@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.297 2013/09/10 16:08:34 tg Exp $
+$MirOS: wtf/acronyms,v 1.298 2013/09/11 16:19:36 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.219 2013/08/10 22:37:58 dholland Exp $
 $NetBSD: acronyms.comp,v 1.139 2013/08/07 05:19:40 agc Exp $
@@ -2106,6 +2106,7 @@ HÖS	[Kfz:D] Landkreis Höchstadt an der Aisch
 HÜN	[Kfz:D] Landkreis Hünfeld
 I	[Kfz] Italien
 I C	I see
+I.D.R.	in der Regel
 I.E.	id est (it is, that is)
 I/O	input / output
 I2O	intelligent input/output
@@ -2166,6 +2167,7 @@ IDGW	in a good way (?)
 IDI	I doubt it
 IDK	I don't know
 IDPS	intrusion detection [and] prevention system
+IDR	in der Regel
 IDRC	I don't really care
 IDRP	inter-domain routing protocol
 IDS	intrusion detection system
