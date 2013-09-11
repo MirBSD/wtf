@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.298 2013/09/11 16:19:36 tg Exp $
+$MirOS: wtf/acronyms,v 1.299 2013/09/11 16:45:39 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.219 2013/08/10 22:37:58 dholland Exp $
 $NetBSD: acronyms.comp,v 1.139 2013/08/07 05:19:40 agc Exp $
@@ -4413,7 +4413,9 @@ SPD	serial presence detect
 SPDIF	cf. S/PDIF
 SPE	signal processing engine (powerpcspe)
 SPE	synergistic processing element (powerpc-spu AKA cell)
+SPF	Sender Permitted From
 SPF	Sender Policy Framework
+SPF	sun protection factor
 SPI	serial peripheral interface
 SPI	stateful packet inspection
 SPIT	spam over internet telephony
