@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.299 2013/09/11 16:45:39 tg Exp $
+$MirOS: wtf/acronyms,v 1.300 2013/09/17 18:33:33 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.219 2013/08/10 22:37:58 dholland Exp $
 $NetBSD: acronyms.comp,v 1.139 2013/08/07 05:19:40 agc Exp $
@@ -1083,6 +1083,7 @@ DM	[Kfz:D] Teile des Landkreises Demmin im Landkreis Mecklenburgische Seenplatte
 DMA	direct memory access
 DMCA	(USA) digital milennium copyright act
 DMCA	don't make content accessible
+DMDIF	Dann machst Du irgendwas falsch™
 DMFS	[dental] decayed/missing/filled surfaces (lowercase for first dentition)
 DMFT	[dental] decayed/missing/filled teeth (lowercase for first dentition)
 DMI	desktop management interface
@@ -1133,6 +1134,7 @@ DS	data segment
 DS	debug store
 DS	[Kfz:D] Landkreis Donaueschingen
 DS9	Star Trek: Deep Space Nine
+DSA	Das schwarze Auge
 DSA	Debian Security Advisory
 DSA	Debian Systems Administration
 DSA	Digital Signature Algorithm
