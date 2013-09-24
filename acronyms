@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.300 2013/09/17 18:33:33 tg Exp $
+$MirOS: wtf/acronyms,v 1.301 2013/09/24 20:49:25 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.219 2013/08/10 22:37:58 dholland Exp $
 $NetBSD: acronyms.comp,v 1.139 2013/08/07 05:19:40 agc Exp $
@@ -558,7 +558,7 @@ BRA	[Kfz:D] Landkreis Wesermarsch
 BRAVO	B (International Radiotelephony Spelling Alphabet)
 BRB	[I'll] be right back
 BRB	[Kfz:D] Landkreis Brandenburg
-BRE	basic regular expression
+BRE	basic regular expression - https://www.mirbsd.org/man7/re_format
 BRG	[Kfz:D] Landkreis Burg
 BRG	[Kfz] Britisch-Guayana (veraltet)
 BRI	[Kfz:D] Kreis Brilon
@@ -1423,7 +1423,7 @@ ERANGE	(#34) Result too large
 ERB	[Kfz:D] Landkreis Erbach
 ERB	[Kfz:D] Odenwaldkreis
 ERD	emergency recovery disk
-ERE	extended regular expression
+ERE	extended regular expression - https://www.mirbsd.org/man7/re_format
 EREMOTE	(#71) Too many levels of remote in path
 ERH	[Kfz:D] Landkreis Erlangen-Höchstadt
 ERK	[Kfz:D] Kreis Erkelenz
@@ -3511,7 +3511,7 @@ PCI	peripheral component interconnect
 PCM	phase change memory
 PCM	pulse code modulation
 PCMCIA	Personal Computer Memory Card International Association
-PCRE	Perl compatible regular expression
+PCRE	Perl compatible regular expression - https://www.mirbsd.org/man1/perlre
 PCS	Personal Communications Services (the 1900 MHz band in the USA)
 PCS	pieces
 PCX	Personal Computer Exchange (Paintbrush bitmap)
@@ -3837,7 +3837,7 @@ RE	(from Latin “back”, upon re-entering an IRC channel)
 RE	(in Skat, countering a “Kontra”)
 RE	Erdtaste
 RE	Regional-Expreß
-RE	regular expression
+RE	regular expression - https://www.mirbsd.org/man7/re_format
 RE	[ccTLD] Réunion
 RE	[Kfz:D] Kreis Recklinghausen
 REG	[Kfz:D] Landkreis Regen
