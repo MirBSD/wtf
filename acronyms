@@ -1,7 +1,7 @@
-$MirOS: wtf/acronyms,v 1.301 2013/09/24 20:49:25 tg Exp $
+$MirOS: wtf/acronyms,v 1.302 2013/10/09 20:49:58 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
-$NetBSD: acronyms,v 1.219 2013/08/10 22:37:58 dholland Exp $
-$NetBSD: acronyms.comp,v 1.139 2013/08/07 05:19:40 agc Exp $
+$NetBSD: acronyms,v 1.221 2013/09/28 17:58:53 dholland Exp $
+$NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
 0	[Kfz:D] Diplomatenkennzeichen oder Politiker
 1	one, on
 1080I	1920x540px (interlaced)
@@ -56,6 +56,7 @@ ABC	(latin Alphabet)
 ABC	American Broadcasting Company
 ABC	arbitrary bad-smelling cheese
 ABC	atomic, biological and chemical (weapons)
+ABD	all but dissertation
 ABG	[Kfz:D] Landkreis Altenburger Land
 ABI	application binary interface
 ABI	[Kfz:D] Landkreis Anhalt-Bitterfeld
@@ -94,13 +95,14 @@ AD	[ccTLD] Andorra
 ADB	Apple desktop bus
 ADC	analog [to] digital converter
 ADD	acronym driven development
-ADD	Attention Deficit Disorder
+ADD	attention deficit disorder
 ADH	cf. ADS
-ADHD	Attention Deficit Disorder in combination with hyperactivity
+ADHD	attention deficit (and) hyperactivity disorder
 ADHS	Aufmerksamkeitsdefizitsyndrom in Komorbidität mit Hyperaktivität (cf. ADHD)
 ADN	any day now
 ADN	[Kfz] Demokratische Volksrepublik Jemen (Südjemen) (veraltet)
 ADO	active data objects
+ADOS	attention deficit ... oh, shiny!
 ADP	automatic data processing
 ADPCM	adaptive differential pulse code modulation
 ADS	alternate data stream
@@ -123,7 +125,6 @@ AFAICT	as far as I can tell
 AFAIHH	as far as I have heard
 AFAIK	as far as I know
 AFAIR	as far as I recall
-AFAIR	as far as I remember
 AFAIR	as far as I remember
 AFAIU	as far as I understand
 AFD	away from desktop
@@ -357,7 +358,7 @@ BAK	Backup
 BAK	Blutalkoholkonzentration
 BAL	basic assembly language
 BALGE	by and large good enough
-BAMF	Bad Ass Mother Fucker
+BAMF	bad-ass motherfucker
 BAMP	BSD Apache MySQL {Perl,PHP,Python}
 BAMPP	BSD Apache MySQL {Perl,PHP,Python}
 BAR	base address register
@@ -778,6 +779,7 @@ CIG	common interest group
 CIL	common intermediate language
 CIR	carrier-to-interference ratio
 CIS	contact image sensor
+CISC	complex instruction set computing/computer
 CITO	[gc] cache in, trash out
 CJK	Chinese, Japanese and Korean
 CJKV	Chinese, Japanese, Korean and Vietnamese
@@ -887,6 +889,7 @@ CSMA/CD	carrier sense multiple access with collision detection
 CSR	certificate signing request
 CSR	control [and] status registers
 CSRF	cross-site request forgery
+CSRG	Computer Systems Research Group
 CSS	cascading style sheets
 CSS	Content Scrambling System
 CSV	comma-separated values
@@ -929,6 +932,7 @@ D	[Kfz:D] Kreis Düsseldorf-Mettmann
 D	[Kfz] Deutsche Demokratische Republik (veraltet)
 D	[Kfz] Deutschland
 D&R	duck and run
+D/B/A	doing business as
 D/L	download
 D/W	don't worry
 DA	destination address
@@ -960,6 +964,7 @@ DB	database
 DB	Deutsche Bahn
 DB	[Kfz:D] Dienstfahrzeuge der Deutschen Bundesbahn
 DBA	database administrator
+DBA	doing business as
 DBA	dynamic bandwidth allocation
 DBB	data bus buffer
 DBC	design by contract
@@ -1094,6 +1099,7 @@ DMZ	demilitarised zone
 DN	[Kfz:D] Kreis Düren
 DNARD	Digital network appliance reference design
 DND	do not disturb
+DND	drag and drop
 DNF	[gc] did not find
 DNL	delete (until) new line
 DNS	Desoxyribonukleinsäure
@@ -1121,6 +1127,7 @@ DPI	dots per inch
 DPKG	Debian Package Manager
 DPL	Debian Project Leader
 DPL	descriptor privilege level
+DPS	Display PostScript
 DPST	display power savings technology
 DRAM	dynamic random access memory
 DRI	direct rendering infrastructure
@@ -1181,6 +1188,7 @@ DVI	Digital Visual Interface
 DVR	digital video recorder
 DW	[Kfz:D] Landkreis Dippoldiswalde
 DW	[Kfz:D] Weißeritzkreis
+DWH	data warehouse
 DWIM	do what I mean
 DWIW	do what I want
 DWN	Debian Weekly News
@@ -1423,6 +1431,7 @@ ERANGE	(#34) Result too large
 ERB	[Kfz:D] Landkreis Erbach
 ERB	[Kfz:D] Odenwaldkreis
 ERD	emergency recovery disk
+ERD	entity relationship diagram
 ERE	extended regular expression - https://www.mirbsd.org/man7/re_format
 EREMOTE	(#71) Too many levels of remote in path
 ERH	[Kfz:D] Landkreis Erlangen-Höchstadt
@@ -2159,6 +2168,7 @@ ID	[ccTLD] Indonesien
 IDA	I (deutsches Funkalphabet)
 IDA	Intel dynamic acceleration
 IDC	I don't care
+IDCMP	Intuition direct communication message port
 IDD	inderdaad (dutch; indeed)
 IDE	integrated development environment
 IDE	integrated drive electronics
@@ -2212,6 +2222,8 @@ IL	[Kfz] Israel
 ILBM	Interleaved Bitmap (IFF)
 ILL	[Kfz:D] Landkreis Illertissen
 ILM	internal loopback mode
+ILO	(see ILOM)
+ILOM	integrated lights-out management
 ILP	instruction level parallelism
 ILU	I love you
 ILY	I love you
@@ -2508,9 +2520,9 @@ KUNDE	kann ungestraft nerven, da Einnahmequelle
 KUS	[Kfz:D] Landkreis Kusel
 KVA	kernel virtual address
 KVB	keine verläßliche Busverbindung
+KVM	kernel virtual machine (virtualisation module for Linux)
 KVM	kernel virtual memory
 KVM	keyboard, video and mouse (switch)
-KVM	virtualisation module for Linux
 KW	[ccTLD] Kuwait
 KW	[Kfz:D] Landkreis Königs Wusterhausen
 KWIM	know what I mean?
@@ -2667,6 +2679,7 @@ LOC	lines of code
 LOH	[Kfz:D] Landkreis Lohr am Main
 LOL	lachend, oba laut
 LOL	laughing out loud
+LOM	lights-out management
 LOS	[Kfz:D] Landkreis Oder-Spree
 LOTR	Lord of the Rings
 LP	Langspielplatte (Schallplatte)
@@ -2698,6 +2711,7 @@ LSB	linux standards base
 LSI	large scale integration
 LSL	load segment limit
 LSN	Large Scale NAT
+LSN	log sequence number
 LSN	[Kfz:D] Sachsen, Landesregierung und Landtag
 LSR	label switch router
 LSZ	[Kfz:D] Landkreis Langensalza
@@ -2711,6 +2725,7 @@ LTF	[gc] last to find
 LTNS	long time no see
 LTO	link-time optimisation
 LTPS	[gc] Locationless TerraCaching Point System
+LTR	letter(-sized paper)
 LTR	load task register
 LTR	U+200E LEFT-TO-RIGHT MARK
 LTS	*buntu equivalent of Debian unstable
@@ -2753,6 +2768,7 @@ MAB	[Kfz:D] Landkreis Marienberg
 MAB	[Kfz:D] Mittlerer Erzgebirgskreis
 MAC	mandatory access control
 MAC	medium access control
+MAC	message authentication check
 MAC	message authentication code
 MAD	mutually assured destruction
 MADT	multiple APIC descriptor table
@@ -2776,6 +2792,7 @@ MC	[ccTLD] Monaco
 MC	[Kfz:D] Landkreis Malchin
 MC	[Kfz] Monaco
 MCA	machine check architecture
+MCA	MicroChannel architecture
 MCC	multiversion concurrency control
 MCE	machine check exception
 MCE	[gc] Measure of Cache Excellence (TC)
@@ -2889,6 +2906,7 @@ MET	[Kfz:D] Landkreis Mellrichstadt
 MEX	[Kfz] Mexiko
 MFC	Men from Cathay
 MFC	merge from -current
+MFC	Microsoft Foundation Classes
 MFG	with friendly greetings
 MFM	merge from master
 MFM	modified frequency modulation
@@ -2912,6 +2930,7 @@ MI	machine-independent
 MI	[Kfz:D] Kreis Minden-Lübbecke
 MIA	missing in action
 MIB	management information base
+MIC	message integrity {check,code}
 MICRO	[altTLD] Micronations
 MID	mobile Internet device
 MIDI	musical instrument digital interface
@@ -3144,6 +3163,7 @@ NCQ	native command queuing
 ND	neighbor discovery
 ND	[Kfz:D] Landkreis Neuburg an der Donau
 ND	[Kfz:D] Landkreis Neuburg-Schrobenhausen
+NDFA	nondeterministic finite automaton
 NDH	[Kfz:D] Landkreis Nordhausen
 NDH	[Kfz] Kroatien (veraltet)
 NDPF	Nikhef Data Processing Facility
@@ -3234,7 +3254,7 @@ NMU	non-maintainer upload
 NN	nighty-night
 NNTP	Network News Transfer Protocol
 NO	[ccTLD] Norwegen
-NOC	network operation centre
+NOC	network operations centre
 NOFI	no flame intended
 NOH	[Kfz:D] Landkreis Grafschaft Bentheim
 NOL	[Kfz:D] Niederschlesischer Oberlausitzkreis
@@ -3244,6 +3264,7 @@ NOOB	newbie
 NOP	no operation
 NOR	[Kfz:D] Landkreis Norden
 NORDPOL	N (deutsches Funkalphabet)
+NOS	network operating system
 NOTA	none of the above
 NOVEMBER	N (International Radiotelephony Spelling Alphabet)
 NOVENINE	9 (International Radiotelephony Spelling Alphabet)
@@ -3364,10 +3385,12 @@ OK	[Kfz:D] Ohrekreis
 OKTA	eight-
 OKTOEIGHT	8 (International Radiotelephony Spelling Alphabet)
 OL	[Kfz:D] kreisfreie Stadt Oldenburg (Oldenburg) und Landkreis Oldenburg
+OLAP	online analytical processing
 OLD	[Kfz:D] Kreis Oldenburg in Holstein
 OLE	object linking and embedding
 OLF	(slightly modified ELF file format with operating system tag)
 OLG	Oberlandesgericht und Kammergericht
+OLTP	online transaction processing
 OM	[ccTLD] Oman
 OM	[Kfz] Oman
 OMC	original male character (OC)
@@ -3389,6 +3412,7 @@ OOI	out of interest
 OOM	out of memory
 OOO	OpenOffice.org
 OOP	object oriented programming
+OOPS	object oriented programming systems
 OOSE	object oriented software engineering
 OOSOOM	out of sight, out of mind
 OOTP	[HP] Order of the Phœnix
@@ -3405,6 +3429,7 @@ OQL	Object Query Language
 OR	[Kfz:D] Landkreis Oranienburg
 ORACLE	cf. Horracle
 ORACLE	one real a..h.le called Larry Ellison
+ORB	object request broker
 ORG	[uTLD] organisation (nichtkommerzielle Organisationen)
 ORM	object-relational mapping
 OS	Obligation Service
@@ -3502,6 +3527,7 @@ PC	personal computer
 PC	player character
 PC	politically correct
 PC	program counter
+PCB	polychlorinated biphenyl(s)
 PCB	printed circuit board
 PCC	Portable C Compiler
 PCD	page-level cache disable
@@ -3515,6 +3541,7 @@ PCRE	Perl compatible regular expression - https://www.mirbsd.org/man1/perlre
 PCS	Personal Communications Services (the 1900 MHz band in the USA)
 PCS	pieces
 PCX	Personal Computer Exchange (Paintbrush bitmap)
+PD	police department
 PD	public domain
 PDA	personal digital assistant
 PDA	public display of affection
@@ -3526,6 +3553,7 @@ PDL	Policy Description Language
 PDM	pulse-duration modulation
 PDN	pull-down network
 PDP	page descriptor page
+PDP	page directory page
 PDP	Policy Decision Point
 PDQ	pretty darn quick
 PDS	please don't shout
@@ -3828,6 +3856,8 @@ RCT	[dental] root canal treatment
 RCT	[dental] Wurzelkanalbehandlung (vulg. "Wurzelfüllung")
 RCU	read-copy-update
 RD	[Kfz:D] Kreis Rendsburg-Eckernförde
+RDB	Rigid Disk Block
+RDBMS	relational database management system
 RDF	reality distortion field
 RDF	Resource Description Framework
 RDG	[Kfz:D] Landkreis Ribnitz-Damgarten
@@ -3845,6 +3875,7 @@ REGEN	regenerate
 REH	[Kfz:D] Landkreis Rehau
 REI	[Kfz:D] Stadt Bad Reichenhall im Landkreis Berchtesgadener Land
 REI	[Kfz:D] Teilkreis Laufen im Landkreis Berchtesgadener Land
+REMF	rear echelon motherfucker
 REPL	read-eval-print loop
 RER	Réseau Express Régional
 REST	representational state transfer
@@ -3866,6 +3897,7 @@ RFS	request for sponsorship
 RG	[Kfz:D] Landkreis Riesa-Großenhain
 RG	[Kfz] Guinea
 RGB	red green blue
+RGBA	red green blue alpha
 RGR	roger
 RH	read hit
 RH	[Kfz:D] Landkreis Roth
@@ -3888,7 +3920,7 @@ RIP	requiescat in pacem
 RIP	rest in peace
 RIP	Routing Information Protocol
 RIR	regional internet registry
-RISC	reduced instruction set computing
+RISC	reduced instruction set computing/computer
 RKM	ROM Kernel Manual
 RKS	[Kfz] Kosovo
 RL	real life
@@ -3956,6 +3988,7 @@ RPG	role-playing game
 RPL	requested privilege level
 RPL	[Kfz:D] Rheinland-Pfalz, Landesregierung und Landtag
 RPM	revolutions per minute
+RPN	reverse Polish notation
 RR	railroad
 RR	random replacement
 RR	round robin
@@ -4001,6 +4034,7 @@ RTL	(kurz über Bodenniveau; die NICs genauso wie das TV-Programm)
 RTL	Radio Téle Luxembourg
 RTL	randomly transmitting link
 RTL	Realtek (NIC vendor)
+RTL	register transfer language
 RTL	resistor-transistor logic
 RTL	richtig träges LAN
 RTL	U+200F RIGHT-TO-LEFT MARK
@@ -4011,7 +4045,7 @@ RTS	request to send
 RTSL	read the source, Luke (open source programming)
 RTSL	real-time shading language (Stanford University)
 RTSL	real-time systems laboratory
-RTT	round time trip
+RTT	round trip time
 RU	[ccTLD] Rußland
 RU	[Kfz:D] Landkreis Rudolstadt
 RU	[Kfz] Burundi
@@ -4153,6 +4187,7 @@ SCI	U+009A SINGLE CHARACTER INTRODUCER
 SCIL	scilicet (evidently, naturally; used as namely)
 SCM	software configuration management
 SCM	source code management
+SCM	storage-class memory
 SCNR	schulljung, connte nit rückhalten
 SCNR	sorry, could not resist
 SCP	secure copy
@@ -4167,6 +4202,7 @@ SDH	[Kfz:D] Landkreis Sondershausen
 SDI	symbol deinterleave
 SDK	software development kit
 SDL	Simple Declarative Language
+SDL	Simple Direct-media Layer 
 SDL	[Kfz:D] Landkreis Stendal
 SDR	software defined radio
 SDRAM	synchronous dynamic random access memory
@@ -4199,6 +4235,7 @@ SFAICT	so far as I can tell
 SFB	[Kfz:D] Landkreis Senftenberg
 SFC	sequential function chart
 SFI	simple firmware interface
+SFI	software fault isolation
 SFR	Swiss federal railways (SBB)
 SFT	[Kfz:D] Landkreis Staßfurt
 SFTP	Serial File Transfer Protocol
@@ -4307,6 +4344,7 @@ SLD	second-level domain
 SLDRAM	synchronous-link dynamic random access memory
 SLE	[Kfz:D] Kreis Schleiden
 SLE	[Kfz] Sierra Leone (nicht offiziell)
+SLED	single large expensive disk
 SLF	[Kfz:D] Landkreis Saalfeld-Rudolstadt
 SLG	[Kfz:D] Landkreis Saulgau
 SLI	scalable link interface
@@ -4636,6 +4674,7 @@ TCB	trusted computing base
 TCC	thermal control circuit
 TCL	tool command language
 TCO	taken care of
+TCO	total cost of ownership
 TCP	Transmission Control Protocol
 TCQ	tagged command queueing
 TCSH	Tenex C Shell
@@ -4725,7 +4764,6 @@ TL;DS	too long; didn't see
 TLA	three letter acronym
 TLA	tom lord's arch
 TLA	top level aggregator
-TLB	transition lookaside buffer
 TLB	translation lookaside buffer
 TLC	tender loving care
 TLD	top-level domain
@@ -4784,10 +4822,12 @@ TP	toilet paper
 TP	transaction processing
 TP	[ccTLD] Osttimor (heute .tl)
 TP	[Kfz:D] Landkreis Templin
+TPI	tracks per inch
 TPM	transactions per minute
 TPM	trusted platform module
 TPM	[SW] Episode I: The Phantom Menace
 TPR	task priority register
+TPS	transactions per second
 TPS	transmission parameters signaling
 TPS	[gc] TerraCaching Point System
 TPTB	the person to bug
@@ -5289,6 +5329,7 @@ XANTHIPPE	X (deutsches Funkalphabet)
 XBAR	crossbar
 XBM	X Bitmap
 XD	(spanish emoticon: smile)
+XDMCP	X Display Manager control protocol
 XEP	XMPP Extension Protocol
 XER	XML encoding rules
 XGA	Extended Graphics Array
@@ -5347,6 +5388,7 @@ YR	your, yours
 YT	youtube
 YT	[ccTLD] Mayotte (Frankreich) (auch .fr)
 YTD	year to date
+YTF	why the fuck
 YU	[ccTLD] ehemaliges Jugoslawien (lief bis 30. März 2010, heute .rs für Serbien und .me für Montenegro)
 YU	[Kfz] Jugoslawien (veraltet)
 YUM	Yellowdog Updater Modified
