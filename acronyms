@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.302 2013/10/09 20:49:58 tg Exp $
+$MirOS: wtf/acronyms,v 1.303 2013/10/11 20:40:35 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.221 2013/09/28 17:58:53 dholland Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -63,6 +63,7 @@ ABI	[Kfz:D] Landkreis Anhalt-Bitterfeld
 ABM	Arbeitsbeschaffungsmaßnahme
 ABO	abonnement
 ABR	available bit rate
+AC	Ac (PSE#89) Actinium | Übergangsmetalle | transition metals | metalla transitionis
 AC	air conditioning
 AC	alternating current
 AC	Attribute Certificate
@@ -135,6 +136,7 @@ AFK	away from keyboard
 AFS	Andrew File System
 AFU	all fucked up
 AFW	away from window
+AG	Ag (PSE#47) Argentum, Silber, Silver | Übergangsmetalle | transition metals | metalla transitionis
 AG	Aktiengesellschaft
 AG	Amtsgericht
 AG	Arbeitgeber
@@ -164,6 +166,7 @@ AKUEFI	Abkürzungsfimmel
 AKÜFI	Abkürzungsfimmel
 AL	access list
 AL	active link
+AL	Al (PSE#13) Aluminium | Erdmetalle (Borgruppe) | boron group
 AL	[ccTLD] Albanien
 AL	[Kfz:D] Landkreis Altena
 AL	[Kfz] Albanien
@@ -181,6 +184,7 @@ ALU	arithmetic and logical unit
 ALZ	[Kfz:D] Landkreis Alzenau in Unterfranken
 AM	access method
 AM	alignment mask
+AM	Am (PSE#95) Americium | Uran-Metalle (Aktiniden) | actinides | actinida
 AM	amplitude modulation
 AM	ante meridiem (before noon)
 AM	Application Maintainer/Manager
@@ -231,6 +235,7 @@ APOGOST	[Schule DE] Allgemeine Prüfungsordnung der Gymnasialen Oberstufe
 APT	Advanced Packaging Tool
 AQ	[ccTLD] Antarktis (hier definiert als alles südlich von 60° S)
 AQM	active queue management
+AR	Ar (PSE#18) Argon | Edelgase | noble gases | gasia nobilia
 AR	ar(1) archive – *.a
 AR	[ccTLD] Argentinien
 AR	[Kfz:D] Kreis Arnsberg
@@ -254,6 +259,7 @@ ARR	address range register
 ART	[Kfz:D] Landkreis Artern
 ARU	audio response unit
 ARU	[Kfz] Aruba (nicht offiziell)
+AS	As (PSE#33) Arsenicum, Arsen | Stickstoff/Phosphor-Gruppe | pnictogens
 AS	autonomous system
 AS	[ccTLD] Amerikanisch-Samoa
 AS	[Kfz:D] Landkreis Amberg-Sulzbach
@@ -287,6 +293,7 @@ ASZ	[Kfz:D] Landkreis Aue-Schwarzenberg
 AT	access time
 AT	advanced technology
 AT	anti-tank weapon
+AT	At (PSE#85) Astatum, Astatin, Astatine | Halogene | halogens | halogenia
 AT	Hayes modem command leader
 AT	[ccTLD] Österreich
 AT	[Kfz:D] Landkreis Altentreptow
@@ -303,6 +310,7 @@ ATW	around the world
 ATW	Atari Transputer Workstation
 ATX	advanced technology extended
 AU	alternate universe
+AU	Au (PSE#79) Aurum, Gold | Übergangsmetalle | transition metals | metalla transitionis
 AU	[ccTLD] Australien
 AU	[Kfz:D] Landkreis Aue
 AU	[Kfz:D] Westerzgebirgskreis
@@ -337,6 +345,7 @@ AZ	[Kfz:D] Landkreis Alzey-Worms
 AZ	[Kfz] Aserbaidschan
 AZE	[Kfz:D] Landkreis Anhalt-Zerbst
 AÖ	[Kfz:D] Landkreis Altötting
+B	B (PSE#5) Borium, Bor, Boron | Erdmetalle (Borgruppe) | boron group
 B	[Kfz:D] Berlin
 B	[Kfz:D] Berlin, Senat und Abgeordnetenhaus
 B	[Kfz] Belgien
@@ -346,6 +355,7 @@ B/W	bandwidth
 B/W	between
 B/W	black and white
 B4	before
+BA	Ba (PSE#56) Barium | Erdalkalimetalle | alkaline earth metals | metalla alcalica terrena
 BA	Baccalaureus Artium
 BA	byte align
 BA	[ccTLD] Bosnien und Herzegowina
@@ -409,6 +419,7 @@ BDI	bit deinterleave
 BDS	Branch Delay Slot
 BDS	[Kfz] Barbados
 BDUF	big design up front
+BE	Be (PSE#4) Beryllium | Erdalkalimetalle | alkaline earth metals | metalla alcalica terrena
 BE	Berlin
 BE	Broteinheit
 BE	[ccTLD] Belgien
@@ -448,12 +459,14 @@ BGD	[Kfz:D] Teilkreis Berchtesgaden im Landkreis Berchtesgadener Land
 BGH	Bundesgerichtshof
 BGL	[Kfz:D] Landkreis Berchtesgadener Land
 BGP	Border Gateway Protocol
+BH	Bh (PSE#107) Bohrium | Übergangsmetalle | transition metals | metalla transitionis
 BH	Büstenhalter
 BH	[ccTLD] Bahrain
 BH	[Kfz:D] Landkreis Bühl
 BH	[Kfz] Belize (veraltet)
 BH	[Kfz] Britisch Honduras (veraltet)
 BHT	[Kfz] Bhutan
+BI	Bi (PSE#83) Bismuthum, Wismut, Bismuth | Stickstoff/Phosphor-Gruppe | pnictogens
 BI	two-
 BI	[ccTLD] Burundi
 BI	[Kfz:D] Kreis Bielefeld
@@ -482,6 +495,7 @@ BIW	[Kfz:D] Landkreis Bischofswerda
 BIZ	[uTLD] business (Geschäftliches)
 BJ	[ccTLD] Benin
 BJ	[Kfz] Benin
+BK	Bk (PSE#97) Berkelium | Uran-Metalle (Aktiniden) | actinides | actinida
 BK	[Kfz:D] Landkreis Backnang
 BK	[Kfz:D] Landkreis Börde
 BKDG	BIOS and kernel developer's guide
@@ -550,6 +564,7 @@ BPSK	binary phase shift keying
 BQ	[ccTLD] Saba
 BQS	Berkeley quality software
 BR	Bayerischer Rundfunk
+BR	Br (PSE#35) Bromum, Brom | Halogene | halogens | halogenia
 BR	branch
 BR	break
 BR	[ccTLD] Brasilien
@@ -662,12 +677,14 @@ BÜD	[Kfz:D] Landkreis Büdingen
 BÜR	[Kfz:D] Kreis Büren
 BÜS	[Kfz:D] Gemeinde Büsingen am Hochrhein im Landkreis Konstanz
 BÜZ	[Kfz:D] Landkreis Bützow
+C	C (PSE#6) Carbonium, Kohlenstoff, Carbon | Kohlenstoff/Silicium-Gruppe | carbon group
 C	[Kfz:D] Landkreis Chemnitz
 C	[Kfz] Kuba
 C++	CFrustFrust
 C.P.	ceteris paribus
 C4	(some kind of explosive)
 C4	CCC Cologne
+CA	Ca (PSE#20) Calcium | Erdalkalimetalle | alkaline earth metals | metalla alcalica terrena
 CA	certificate authority
 CA	[ccTLD] Kanada
 CA	[Kfz:D] Landkreis Calau
@@ -722,6 +739,7 @@ CCNA	Cisco Certified Network Associate
 CCNP	Cisco Certified Network Professional
 CCTLD	country-code top-level domain
 CD	cache disable
+CD	Cd (PSE#48) Cadmium | Übergangsmetalle | transition metals | metalla transitionis
 CD	compact disc
 CD	[ccTLD] Demokratische Republik Kongo
 CD	[Kfz] Demokratische Republik Kongo (Verwechslungsgefahr!) (veraltet)
@@ -731,12 +749,14 @@ CDN	content distribution network
 CDN	[Kfz] Kanada
 CDR	Corel Draw
 CDRAM	cache dynamic random access memory
+CE	Ce (PSE#58) Cerium, Cer | Metalle der seltenen Erden (Lanthaniden) | lanthanides | lanthanida
 CE	common era
 CE	Compute Element (in a Grid)
 CE	[Kfz:D] Landkreis Celle
 CEO	chief executive officer
 CEPT	Conférence Européenne des Administrations des Postes et des Télécommunications
 CER	canonical encoding rules
+CF	Cf (PSE#98) Californium | Uran-Metalle (Aktiniden) | actinides | actinida
 CF	compact flash
 CF	confer (see)
 CF	[ccTLD] Zentralafrikanische Republik
@@ -784,6 +804,7 @@ CITO	[gc] cache in, trash out
 CJK	Chinese, Japanese and Korean
 CJKV	Chinese, Japanese, Korean and Vietnamese
 CK	[ccTLD] Cookinseln
+CL	Cl (PSE#17) Chlorum, Chlor, Chlorine | Halogene | halogens | halogenia
 CL	[ccTLD] Chile
 CL	[Kfz] Sri Lanka
 CLF	common log format
@@ -799,6 +820,7 @@ CLTT	closed loop thermal throttling
 CLUT	color look-up table
 CLV	constant linear velocity (as opposed to CAV)
 CLZ	[Kfz:D] Landkreis Zellerfeld
+CM	Cm (PSE#96) Curium | Uran-Metalle (Aktiniden) | actinides | actinida
 CM	configuration management
 CM	[ccTLD] Kamerun
 CMA	concert multithread architecture
@@ -812,6 +834,7 @@ CMS	content management system
 CMS	Cryptographic Message Syntax
 CMYK	cyan magenta yellow black
 CN	canonical name
+CN	Cn (PSE#112) Copernicium | Übergangsmetalle | transition metals | metalla transitionis
 CN	common name
 CN	[ccTLD] China
 CNB	[Kfz] Nordborneo (veraltet)
@@ -819,6 +842,7 @@ CNC	computer numerical control
 CNL	CityNightLine
 CNP	continued [in my] next post
 CNR	carrier-to-noise ratio
+CO	Co (PSE#27) Cobaltum, Kobalt, Cobalt | Übergangsmetalle | transition metals | metalla transitionis
 CO	[ccTLD] Kolumbien
 CO	[gc] cache owner
 CO	[Kfz:D] kreisfreie Stadt und Landkreis Coburg
@@ -855,6 +879,7 @@ CPP	C præprocessor
 CPS	characters per second
 CPT	command pass through
 CPU	central processing unit
+CR	Cr (PSE#24) Chromium, Chrom | Übergangsmetalle | transition metals | metalla transitionis
 CR	U+000D ␍ CARRIAGE RETURN
 CR	[ccTLD] Costa Rica
 CR	[Kfz:D] Landkreis Crailsheim
@@ -872,6 +897,7 @@ CS	chip select
 CS	code segment
 CS	computer science
 CS	Counter-Strike
+CS	Cs (PSE#55) Caesium | Alkalimetalle | alkali metals | metalla alcalica
 CS	[ccTLD] Tschechoslowakei (heute .cz und .sk; später für Serbien und Montenegro reserviert, jedoch nie verwendet)
 CS	[Kfz] Slowakei (veraltet)
 CS	[Kfz] Tschechien (veraltet)
@@ -898,6 +924,7 @@ CTM	close to metal
 CTN	can't talk now
 CTO	Chief Technology Officer
 CTS	clear to send
+CU	Cu (PSE#29) Cuprum, Kupfer, Copper | Übergangsmetalle | transition metals | metalla transitionis
 CU	see you
 CU	[ccTLD] Kuba
 CU	[Kfz] Curaçao (veraltet)
@@ -928,6 +955,7 @@ CZ	[ccTLD] Tschechien
 CZ	[Kfz] Tschechien
 C|N>K	coffee pipe nose to keyboard
 CÄSAR	C (deutsches Funkalphabet)
+D	D (PSE#1) Deuterium (special case)
 D	[Kfz:D] Kreis Düsseldorf-Mettmann
 D	[Kfz] Deutsche Demokratische Republik (veraltet)
 D	[Kfz] Deutschland
@@ -961,6 +989,7 @@ DAU	[Kfz:D] Landkreis Daun
 DAU	[Kfz:D] Landkreis Vulkaneifel
 DAV	Distributed Authoring and Versioning
 DB	database
+DB	Db (PSE#105) Dubnium | Übergangsmetalle | transition metals | metalla transitionis
 DB	Deutsche Bahn
 DB	[Kfz:D] Dienstfahrzeuge der Deutschen Bundesbahn
 DBA	database administrator
@@ -1139,6 +1168,7 @@ DRRS	display refresh rate switching
 DRY	don't repeat yourself
 DS	data segment
 DS	debug store
+DS	Ds (PSE#110) Darmstadtium | Übergangsmetalle | transition metals | metalla transitionis
 DS	[Kfz:D] Landkreis Donaueschingen
 DS9	Star Trek: Deep Space Nine
 DSA	Das schwarze Auge
@@ -1197,6 +1227,7 @@ DWYW	do what you want
 DWZ	dat wil zeggen?
 DWZ	Deutsche Wertungszahl (bei Schach)
 DX	data register
+DY	Dy (PSE#66) Dysprosium | Metalle der seltenen Erden (Lanthaniden) | lanthanides | lanthanida
 DY	[Kfz] Dahomey (veraltet)
 DYK	do you know?
 DZ	[ccTLD] Algerien
@@ -1204,6 +1235,7 @@ DZ	[Kfz:D] Landkreis Delitzsch
 DZ	[Kfz] Algerien
 DÜW	[Kfz:D] Landkreis Bad Dürkheim
 E	2.718281828459045235360287471352662497757…
+E	E (PSE#99) Einsteinium (alt.)
 E	[Kfz:D] kreisfreie Stadt Essen
 E	[Kfz] Spanien
 E-XER	extended XML encoding rules
@@ -1424,6 +1456,7 @@ EPROTONOSUPPORT	(#43) Protocol not supported
 EPROTOTYPE	(#41) Protocol wrong type for socket
 EPS	Encapsulated Postscript
 EQ	[Kfz] Ecuador (veraltet)
+ER	Er (PSE#68) Erbium | Metalle der seltenen Erden (Lanthaniden) | lanthanides | lanthanida
 ER	[ccTLD] Eritrea
 ER	[Kfz:D] Landkreis Erlangen-Höchstadt
 ER	[Kfz] Eritrea
@@ -1440,6 +1473,7 @@ EROFS	(#30) Read-only file system
 ERP	enterprise resource planning
 ERPCMISMATCH	(#73) RPC version wrong
 ERZ	[Kfz:D] Erzgebirgskreis
+ES	Es (PSE#99) Einsteinium | Uran-Metalle (Aktiniden) | actinides | actinida
 ES	extra segment
 ES	[ccTLD] Spanien
 ES	[Kfz:D] Landkreis Eßlingen
@@ -1481,6 +1515,7 @@ ETRS89	European Terrestrial Reference System of 1989 (GRS80 reference ellipsoid)
 ETSI	European Telecommunications Standards Institute
 ETX	U+0003 ␃ END OF TEXT
 ETXTBSY	(#26) Text file busy
+EU	Eu (PSE#63) Europium | Metalle der seltenen Erden (Lanthaniden) | lanthanides | lanthanida
 EU	European Union
 EU	execution unit
 EU	[ccTLD] Europäische Union
@@ -1499,6 +1534,7 @@ EWAG	experienced wild-ass guess
 EWE	Epilogue? What Epilogue? (usually in HP context)
 EWOULDBLOCK	(=EAGAIN) Operation would block
 EXDEV	(#18) Cross-device link
+F	F (PSE#9) Fluorum, Fluor, Fluorine | Halogene | halogens | halogenia
 F	false (boolean 0)
 F	[Kfz:D] kreisfreie Stadt Frankfurt am Main
 F	[Kfz] Frankreich
@@ -1535,6 +1571,7 @@ FDI	FdI -- http://altlasten.lutz.donnerhacke.de/mitarb/lutz/usenet/Fachbegriffe.
 FDIK	Fick' Dich ins Knie
 FDIK	Volker Birk (VB)
 FDS	[Kfz:D] Landkreis Freudenstadt
+FE	Fe (PSE#26) Ferrum, Eisen, Iron | Übergangsmetalle | transition metals | metalla transitionis
 FEA	finite element analysis
 FEAR	false evidence appearing real
 FEC	forward error correction
@@ -1585,12 +1622,14 @@ FK	[ccTLD] Falklandinseln
 FK	[Schule DE] Fachkonferenz
 FKA	formerly known as
 FKB	[Kfz:D] Landkreis Frankenberg
+FL	Fl (PSE#114) Flerovium | Kohlenstoff/Silicium-Gruppe | carbon group
 FL	[Kfz:D] Kreis Flensburg-Land
 FL	[Kfz] Liechtenstein
 FLOPS	floating [point] operations per second
 FLOSS	(dental care product)
 FLOSS	free / libre / open source software (deprecated acronym, use OSS)
 FLÖ	[Kfz:D] Landkreis Flöha
+FM	Fm (PSE#100) Fermium | Uran-Metalle (Aktiniden) | actinides | actinida
 FM	frequency modulation
 FM	fucking magic
 FM	[ccTLD] Mikronesien
@@ -1633,6 +1672,7 @@ FPS	first person shooter
 FPS	frames per second
 FPU	Floating Point Unit
 FQDN	fully qualified domain name
+FR	Fr (PSE#87) Francium | Alkalimetalle | alkali metals | metalla alcalica
 FR	[ccTLD] Frankreich
 FR	[Kfz:D] Stadtkreis Freiburg im Breisgau und Landkreis Breisgau-Hochschwarzwald
 FR	[Kfz] Färöer (veraltet)
@@ -1717,6 +1757,7 @@ G2G	got to go
 G2K	good to know
 G8	[Schule DE] Gymnasialer Bildungszweig in 8 Schuljahren (Turbo-Abitur)
 G9	[Schule DE] Gymnasialer Bildungszweig in 9 Schuljahren
+GA	Ga (PSE#31) Gallium | Erdmetalle (Borgruppe) | boron group
 GA	[ccTLD] Gabun
 GA	[Kfz:D] Landkreis Gardelegen
 GAC	get a clue
@@ -1751,11 +1792,13 @@ GCD	greatest common divisor (GGT)
 GCHQ	Government Communications Headquarters (British NSA equivalent)
 GCR	group-coded recording
 GCRTNO	[gc] Groundspeak (TC)
+GD	Gd (PSE#64) Gadolinium | Metalle der seltenen Erden (Lanthaniden) | lanthanides | lanthanida
 GD	[ccTLD] Grenada
 GD	[Kfz:D] Landkreis Schwäbisch Gmünd
 GDB	[Kfz:D] Landkreis Gadebusch
 GDT	global descriptor table
 GDW	genau dann, wenn (german; exactly iff)
+GE	Ge (PSE#32) Germanium | Kohlenstoff/Silicium-Gruppe | carbon group
 GE	[ccTLD] Georgien
 GE	[Kfz:D] kreisfreie Stadt Gelsenkirchen
 GE	[Kfz] Georgien
@@ -1926,6 +1969,7 @@ GZ	[gc] Ground Zero - the spot your GPSr takes you to the cache location
 GZ	[Kfz:D] Landkreis Günzburg
 GÖ	[Kfz:D] Landkreis Göttingen
 GÜ	[Kfz:D] Altkreis Güstrow im Landkreis Rostock
+H	H (PSE#1) Hydrogenium, Wasserstoff, Hydrogen | Alkalimetalle | alkali metals | metalla alcalica
 H	[Kfz:D] Region Hannover
 H	[Kfz] Ungarn
 H8	hate
@@ -1973,6 +2017,7 @@ HDL	[Kfz:D] Landkreis Haldensleben
 HDMI	High-Definition Multimedia Interface
 HDTV	high-definition television (720p, 1080i, 1080p)
 HDW	Heil den Wansen (=OMG)
+HE	He (PSE#2) Helium | Edelgase | noble gases | gasia nobilia
 HE	Hessen
 HE	how embarrasing
 HE	[Kfz:D] Landkreis Helmstedt
@@ -1987,11 +2032,13 @@ HET	[Kfz:D] Landkreis Hettstedt
 HEXA	six-
 HF	hardware floating point (Debian/armhf)
 HF	have fun (see also: GL, GL HF)
+HF	Hf (PSE#72) Hafnium | Übergangsmetalle | transition metals | metalla transitionis
 HF	high frequency
 HF	hotfix
 HF	[Kfz:D] Kreis Herford
 HFIW	HOLY FUCK IT WORKS
 HFM	highest frequency mode
+HG	Hg (PSE#80) Mercurium, Hydrargyron, Quecksilber, Mercury | Übergangsmetalle | transition metals | metalla transitionis
 HG	[Kfz:D] Hochtaunuskreis
 HG	[Kfz:D] Obertaunuskreis
 HGN	[Kfz:D] Landkreis Hagenow
@@ -2031,6 +2078,7 @@ HN	[Kfz:D] Stadt- und Landkreis Heilbronn
 HN	[Kfz] Honduras
 HNO	Hals-Nasen-Ohrenarzt
 HNY	happy new year
+HO	Ho (PSE#67) Holmium | Metalle der seltenen Erden (Lanthaniden) | lanthanides | lanthanida
 HO	[Kfz:D] kreisfreie Stadt und Landkreis Hof
 HOAS	hold on a second
 HOG	[Kfz:D] Landkreis Hofgeismar
@@ -2066,6 +2114,7 @@ HR	[Kfz:D] Schwalm-Eder-Kreis
 HR	[Kfz] Kroatien
 HRO	[Kfz:D] Hansestadt Rostock
 HRZ	Hochschul-Rechenzentrum (cf. RZ)
+HS	Hs (PSE#108) Hassium | Übergangsmetalle | transition metals | metalla transitionis
 HS	[Kfz:D] Kreis Heinsberg
 HSCSD	High Speed Circuit Switched Data
 HSDPA	High-Speed Downlink Packet Access
@@ -2115,6 +2164,7 @@ HZ	[Kfz:D] Landkreis Harz
 HZ	[Kfz:D] Landkreis Herzberg
 HÖS	[Kfz:D] Landkreis Höchstadt an der Aisch
 HÜN	[Kfz:D] Landkreis Hünfeld
+I	I (PSE#53) Iodum, Jod, Iodine | Halogene | halogens | halogenia
 I	[Kfz] Italien
 I C	I see
 I.D.R.	in der Regel
@@ -2242,6 +2292,7 @@ IMO	in my opinion
 IMR	interrupt mask register
 IMS	information management system
 IMT-SC	IMT Single Carrier = EDGE
+IN	In (PSE#49) Indium | Erdmetalle (Borgruppe) | boron group
 IN	[ccTLD] Indien
 IN	[Kfz:D] Landkreis Ingolstadt
 IN	[Kfz] Indonesien (veraltet)
@@ -2287,6 +2338,7 @@ IQ	intelligence quotient
 IQ	[ccTLD] Irak
 IR	infrared
 IR	Interregio
+IR	Ir (PSE#77) Iridium | Übergangsmetalle | transition metals | metalla transitionis
 IR	[ccTLD] Iran
 IR	[Kfz] Iran
 IRC	Internet Relay Chat
@@ -2356,6 +2408,7 @@ IYKWIM	if you know what I mean
 IYSS	if you say so
 IYSWIM	if you see what I mean
 IZ	[Kfz:D] Kreis Steinburg
+J	J (PSE#53) Jod (alt.)
 J	[Kfz:D] Landkreis Jena
 J	[Kfz] Japan
 J/K	just kidding
@@ -2423,6 +2476,7 @@ JULIETT	J (International Radiotelephony Spelling Alphabet)
 JULIUS	J (deutsches Funkalphabet)
 JW	just wondering
 JÜL	[Kfz:D] Kreis Jülich
+K	K (PSE#19) Kalium, Potassium | Alkalimetalle | alkali metals | metalla alcalica
 K	[Kfz:D] Kreis Köln
 K	[Kfz] Kambodscha
 KA	kA = keine Ahnung (no idea)
@@ -2506,6 +2560,7 @@ KP	[ccTLD] Nordkorea
 KP	[Kfz] Nordkorea
 KPI	kernel programming interface
 KPI	key performance indicator
+KR	Kr (PSE#36) Krypton | Edelgase | noble gases | gasia nobilia
 KR	[ccTLD] Südkorea
 KR	[Kfz:D] kreisfreie Stadt Krefeld
 KRU	[Kfz:D] Landkreis Krumbach (Schwaben)
@@ -2545,6 +2600,7 @@ L	[Kfz] Luxemburg
 L8	late
 L8ER	later
 L8R	later
+LA	La (PSE#57) Lanthanum, Lanthan | Übergangsmetalle | transition metals | metalla transitionis
 LA	[ccTLD] Laos
 LA	[Kfz:D] kreisfreie Stadt und Landkreis Landshut
 LACP	Link Aggregation Control Protocol
@@ -2625,6 +2681,7 @@ LGTY	look good to you
 LH	[Kfz:D] Kreis Lüdinghausen
 LHA	LHarc archive (traditional archive compressor)
 LHP	loop heat pipe
+LI	Li (PSE#3) Lithium | Alkalimetalle | alkali metals | metalla alcalica
 LI	[ccTLD] Liechtenstein
 LI	[Kfz:D] Landkreis Lindau (Bodensee)
 LIB	[Kfz:D] Landkreis Bad Liebenwerda
@@ -2732,6 +2789,7 @@ LTS	*buntu equivalent of Debian unstable
 LTS	long term Schrott
 LTS	long term shlock
 LTS	long time support
+LU	Lu (PSE#71) Lutetium | Metalle der seltenen Erden (Lanthaniden) | lanthanides | lanthanida
 LU	[ccTLD] Luxemburg
 LU	[Kfz:D] Landkreis Ludwigshafen
 LU	[Kfz:D] Rhein-Pfalz-Kreis
@@ -2741,11 +2799,13 @@ LUG	local user group
 LUK	[Kfz:D] Landkreis Luckenwalde
 LUN	logical unit number
 LV	logical volume
+LV	Lv (PSE#116) Livermorium | Chalkogene | chalcogens
 LV	[ccTLD] Lettland
 LV	[Kfz] Lettland
 LVG	Landesverfassungsgericht
 LVM	logical volume management
 LVT	local vector table
+LW	Lw (PSE#103) Lawrencium | Uran-Metalle (Aktiniden) | actinides | actinida
 LWL	[Kfz:D] Altkreis Ludwigslust im Landkreis Ludwigslust-Parchim
 LWN	Linux Weekly News
 LWP	light-weight process
@@ -2915,6 +2975,7 @@ MFT	Master File Table
 MFT	merge from trunk
 MFV	Mehrfrequenzwahlverfahren
 MFV	Touch Tone
+MG	Mg (PSE#12) Magnesium | Erdalkalimetalle | alkaline earth metals | metalla alcalica terrena
 MG	[ccTLD] Madagaskar
 MG	[Kfz:D] kreisfreie Stadt Mönchengladbach
 MGH	[Kfz:D] Landkreis Mergentheim
@@ -2981,6 +3042,7 @@ MMU	memory management unit
 MMX	matrix math extension
 MMX	multimedia extension
 MMX	multiple math extension
+MN	Mn (PSE#25) Manganum, Mangan, Manganese | Übergangsmetalle | transition metals | metalla transitionis
 MN	[ccTLD] Mongolei
 MN	[Kfz:D] Landkreis Mindelheim
 MN	[Kfz:D] Landkreis Unterallgäu
@@ -2988,6 +3050,7 @@ MN	[Kfz] Montenegro (veraltet)
 MNE	[Kfz] Montenegro
 MNG	Multiple-Image Network Graphics
 MO	magneto-optical
+MO	Mo (PSE#42) Molybdenum, Molybdän | Übergangsmetalle | transition metals | metalla transitionis
 MO	modus operandi
 MO	[ccTLD] Macao
 MO	[Kfz:D] Kreis Moers
@@ -3056,6 +3119,7 @@ MSS	maximum segment size
 MSS	maybe (dutch: misschien)
 MST	[Kfz:D] Altkreis Mecklenburg-Strelitz im Landkreis Mecklenburgische Seenplatte
 MT	machine translation
+MT	Mt (PSE#109) Meitnerium | Übergangsmetalle | transition metals | metalla transitionis
 MT	[ccTLD] Malta
 MT	[Kfz:D] Landkreis Westerwald
 MT	[Kfz:D] Unterwesterwaldkreis
@@ -3082,6 +3146,7 @@ MULTICS	Multiplexed Information and Computing Service
 MUSEUM	[sTLD] museums (Museën)
 MUX	multiplex
 MV	Mecklenburg-Vorpommern
+MV	Mv (PSE#101) Mendelevium | Uran-Metalle (Aktiniden) | actinides | actinida
 MV	[ccTLD] Malediven
 MV	[Kfz] Malediven (nicht offiziell)
 MVCC	multiversion concurrency control
@@ -3110,6 +3175,7 @@ MÜB	[Kfz:D] Landkreis Münchberg
 MÜL	[Kfz:D] Landkreis Müllheim
 MÜN	[Kfz:D] Landkreis Münsingen
 MÜR	[Kfz:D] Altkreis Müritz im Landkreis Mecklenburgische Seenplatte
+N	N (PSE#7) Nitrogenium, Stickstoff, Nitrogen | Stickstoff/Phosphor-Gruppe | pnictogens
 N	[Kfz:D] Landkreis Nürnberg
 N	[Kfz] Norwegen
 N/A	not applicable
@@ -3121,6 +3187,7 @@ N/T	[gc] no trade
 N1	nice one
 N8	(good)neight
 N8	(gute) Nacht
+NA	Na (PSE#11) Natrium, Sodium | Alkalimetalle | alkali metals | metalla alcalica
 NA	see N/A
 NA	[ccTLD] Namibia
 NA	[Kfz] Niederländische Antillen
@@ -3144,6 +3211,7 @@ NATO	Organisation du traité de l'Atlantique Nord
 NAU	[Kfz:D] Landkreis Nauen
 NAU	[Kfz] Nauru
 NAV	network allocation vector
+NB	Nb (PSE#41) Niobium, Niob | Übergangsmetalle | transition metals | metalla transitionis
 NB	[Kfz:D] Landkreis Neubrandenburg
 NBC	National Broadcasting Company (USA)
 NBD	network block device
@@ -3160,6 +3228,7 @@ NCL	[Kfz] Neukaledonien
 NCO	numerically-controlled oscillator
 NCP	Network Control Protocol
 NCQ	native command queuing
+ND	Nd (PSE#60) Neodymium, Neodym | Metalle der seltenen Erden (Lanthaniden) | lanthanides | lanthanida
 ND	neighbor discovery
 ND	[Kfz:D] Landkreis Neuburg an der Donau
 ND	[Kfz:D] Landkreis Neuburg-Schrobenhausen
@@ -3167,6 +3236,7 @@ NDFA	nondeterministic finite automaton
 NDH	[Kfz:D] Landkreis Nordhausen
 NDH	[Kfz] Kroatien (veraltet)
 NDPF	Nikhef Data Processing Facility
+NE	Ne (PSE#10) Neon | Edelgase | noble gases | gasia nobilia
 NE	numeric error
 NE	[ccTLD] Niger
 NE	[Kfz:D] Rhein-Kreis Neuß
@@ -3210,6 +3280,7 @@ NGR	[Kfz] Nigeria
 NH	[Kfz:D] Landkreis Neuhaus
 NH	[Kfz:D] Landkreis Neustadt an der Weinstraße
 NHS	National Health Service (UK)
+NI	Ni (PSE#28) Niccolum, Nickel | Übergangsmetalle | transition metals | metalla transitionis
 NI	Niedersachsen
 NI	[ccTLD] Nicaragua
 NI	[Kfz:D] Landkreis Nienburg
@@ -3253,6 +3324,7 @@ NMS	[Kfz:D] kreisfreie Stadt Neumünster
 NMU	non-maintainer upload
 NN	nighty-night
 NNTP	Network News Transfer Protocol
+NO	No (PSE#102) Nobelium | Uran-Metalle (Aktiniden) | actinides | actinida
 NO	[ccTLD] Norwegen
 NOC	network operations centre
 NOFI	no flame intended
@@ -3273,6 +3345,7 @@ NOYFB	none of your fucking business
 NP	no problem
 NP	nondeterministic polynomial time
 NP	now playing
+NP	Np (PSE#93) Neptunium | Uran-Metalle (Aktiniden) | actinides | actinida
 NP	U+000C ␌ FORM FEED (FF)
 NP	[ccTLD] Nepal
 NP	[Kfz:D] Landkreis Neuruppin
@@ -3331,6 +3404,7 @@ NZ	[Kfz] Neuseeland
 NÄHMLICH	Wer nämlich mit h schreibt, ist dämlich.
 NÄMLICH	Wer nämlich mit h schreibt, ist dämlich.
 NÖ	[Kfz:D] Landkreis Nördlingen
+O	O (PSE#8) Oxygenium, Sauerstoff, Oxygen | Chalkogene | chalcogens
 O I C	oh, I see
 O2W	off to work
 OA	[Kfz:D] Landkreis Oberallgäu
@@ -3434,6 +3508,7 @@ ORG	[uTLD] organisation (nichtkommerzielle Organisationen)
 ORM	object-relational mapping
 OS	Obligation Service
 OS	operating system
+OS	Os (PSE#76) Osmium | Übergangsmetalle | transition metals | metalla transitionis
 OS	[Kfz:D] kreisfreie Stadt und Landkreis Osnabrück
 OSC	U+009D OPERATING SYSTEM COMMAND
 OSCAR	O (International Radiotelephony Spelling Alphabet)
@@ -3476,11 +3551,13 @@ OVP	[Kfz:D] Landkreis Ostvorpommern
 OWL	Web Ontology Language
 OWTTE	or words to that effect
 OZ	[Kfz:D] Landkreis Oschatz
+P	P (PSE#15) Phosphorus, Phosphor | Stickstoff/Phosphor-Gruppe | pnictogens
 P	[Kfz:D] Landkreis Potsdam
 P	[Kfz] Portugal
 P&P	Philosophy and Procedures
 P2P	PCI to PCI
 P2P	peer to peer
+PA	Pa (PSE#91) Protactinium | Uran-Metalle (Aktiniden) | actinides | actinida
 PA	phase accumulator
 PA	physical address
 PA	[ccTLD] Panama
@@ -3514,6 +3591,7 @@ PAT	port address translation
 PATA	parallel ATA (IDE, AT-Bus)
 PAULA	P (deutsches Funkalphabet)
 PAX	portable archive exchange
+PB	Pb (PSE#82) Plumbum, Blei, Lead | Kohlenstoff/Silicium-Gruppe | carbon group
 PB	powerbook
 PB	problem
 PB	[Kfz:D] Kreis Paderborn
@@ -3541,6 +3619,7 @@ PCRE	Perl compatible regular expression - https://www.mirbsd.org/man1/perlre
 PCS	Personal Communications Services (the 1900 MHz band in the USA)
 PCS	pieces
 PCX	Personal Computer Exchange (Paintbrush bitmap)
+PD	Pd (PSE#46) Palladium | Übergangsmetalle | transition metals | metalla transitionis
 PD	police department
 PD	public domain
 PDA	personal digital assistant
@@ -3648,6 +3727,7 @@ PLU	U+008C PARTIAL LINE BACKWARD
 PLZ	please
 PLÖ	[Kfz:D] Kreis Plön
 PM	phase modulation
+PM	Pm (PSE#61) Promethium | Metalle der seltenen Erden (Lanthaniden) | lanthanides | lanthanida
 PM	post meridiem
 PM	power management
 PM	Prime Minister
@@ -3683,6 +3763,7 @@ PNM	portable anymap (PBM, PGM, PPM)
 PNP	pay and pray
 PNP	plug and play
 PNP	plug and pray
+PO	Po (PSE#84) Polonium | Chalkogene | chalcogens
 POA	[HP] Prisoner of Azkaban
 POC	phone operation centre
 POC	piece of crap
@@ -3728,6 +3809,7 @@ PPPOE	Point-to-Point Protocol over Ethernet
 PPPOW	PPP over WLAN
 PPU	physics processing unit
 PQ	[gc] Pocket Query
+PR	Pr (PSE#59) Praesodymium, Praseodym | Metalle der seltenen Erden (Lanthaniden) | lanthanides | lanthanida
 PR	public relations
 PR	[ccTLD] Puerto Rico
 PR	[Kfz:D] Landkreis Prignitz
@@ -3752,12 +3834,136 @@ PSA	public service announcement
 PSD	Photoshop Document
 PSD	power spectral density
 PSE	page size extensions
+PSE	Periodensystem der Elemente
+PSE	periodic table (chemistry)
+PSE	systema periodicum elementorum
+PSE#1	D (PSE#1) Deuterium (special case)
+PSE#1	H (PSE#1) Hydrogenium, Wasserstoff, Hydrogen | Alkalimetalle | alkali metals | metalla alcalica
+PSE#1	T (PSE#1) Tritium (special case)
+PSE#10	Ne (PSE#10) Neon | Edelgase | noble gases | gasia nobilia
+PSE#100	Fm (PSE#100) Fermium | Uran-Metalle (Aktiniden) | actinides | actinida
+PSE#101	Mv (PSE#101) Mendelevium | Uran-Metalle (Aktiniden) | actinides | actinida
+PSE#102	No (PSE#102) Nobelium | Uran-Metalle (Aktiniden) | actinides | actinida
+PSE#103	Lw (PSE#103) Lawrencium | Uran-Metalle (Aktiniden) | actinides | actinida
+PSE#104	Rf (PSE#104) Rutherfordium | Übergangsmetalle | transition metals | metalla transitionis
+PSE#105	Db (PSE#105) Dubnium | Übergangsmetalle | transition metals | metalla transitionis
+PSE#106	Sg (PSE#106) Seaborgium | Übergangsmetalle | transition metals | metalla transitionis
+PSE#107	Bh (PSE#107) Bohrium | Übergangsmetalle | transition metals | metalla transitionis
+PSE#108	Hs (PSE#108) Hassium | Übergangsmetalle | transition metals | metalla transitionis
+PSE#109	Mt (PSE#109) Meitnerium | Übergangsmetalle | transition metals | metalla transitionis
+PSE#11	Na (PSE#11) Natrium, Sodium | Alkalimetalle | alkali metals | metalla alcalica
+PSE#110	Ds (PSE#110) Darmstadtium | Übergangsmetalle | transition metals | metalla transitionis
+PSE#111	Rg, Uuu (PSE#111) Roentgenium, Unununium | Übergangsmetalle | transition metals | metalla transitionis
+PSE#112	Cn (PSE#112) Copernicium | Übergangsmetalle | transition metals | metalla transitionis
+PSE#113	Uut (PSE#113) Ununtrium | Erdmetalle (Borgruppe) | boron group
+PSE#114	Fl (PSE#114) Flerovium | Kohlenstoff/Silicium-Gruppe | carbon group
+PSE#115	Uup (PSE#115) Ununpentium | Stickstoff/Phosphor-Gruppe | pnictogens
+PSE#116	Lv (PSE#116) Livermorium | Chalkogene | chalcogens
+PSE#117	Uus (PSE#117) Ununseptium | Halogene | halogens | halogenia
+PSE#118	Uuo (PSE#118) Ununoctium | Edelgase | noble gases | gasia nobilia
+PSE#12	Mg (PSE#12) Magnesium | Erdalkalimetalle | alkaline earth metals | metalla alcalica terrena
+PSE#13	Al (PSE#13) Aluminium | Erdmetalle (Borgruppe) | boron group
+PSE#14	Si (PSE#14) Silicium, Silicon | Kohlenstoff/Silicium-Gruppe | carbon group
+PSE#15	P (PSE#15) Phosphorus, Phosphor | Stickstoff/Phosphor-Gruppe | pnictogens
+PSE#16	S (PSE#16) Sulphur, Schwefel, Sulfur | Chalkogene | chalcogens
+PSE#17	Cl (PSE#17) Chlorum, Chlor, Chlorine | Halogene | halogens | halogenia
+PSE#18	Ar (PSE#18) Argon | Edelgase | noble gases | gasia nobilia
+PSE#19	K (PSE#19) Kalium, Potassium | Alkalimetalle | alkali metals | metalla alcalica
+PSE#2	He (PSE#2) Helium | Edelgase | noble gases | gasia nobilia
+PSE#20	Ca (PSE#20) Calcium | Erdalkalimetalle | alkaline earth metals | metalla alcalica terrena
+PSE#21	Sc (PSE#21) Scandium | Übergangsmetalle | transition metals | metalla transitionis
+PSE#22	Ti (PSE#22) Titanium, Titan | Übergangsmetalle | transition metals | metalla transitionis
+PSE#23	V (PSE#23) Vanadium | Übergangsmetalle | transition metals | metalla transitionis
+PSE#24	Cr (PSE#24) Chromium, Chrom | Übergangsmetalle | transition metals | metalla transitionis
+PSE#25	Mn (PSE#25) Manganum, Mangan, Manganese | Übergangsmetalle | transition metals | metalla transitionis
+PSE#26	Fe (PSE#26) Ferrum, Eisen, Iron | Übergangsmetalle | transition metals | metalla transitionis
+PSE#27	Co (PSE#27) Cobaltum, Kobalt, Cobalt | Übergangsmetalle | transition metals | metalla transitionis
+PSE#28	Ni (PSE#28) Niccolum, Nickel | Übergangsmetalle | transition metals | metalla transitionis
+PSE#29	Cu (PSE#29) Cuprum, Kupfer, Copper | Übergangsmetalle | transition metals | metalla transitionis
+PSE#3	Li (PSE#3) Lithium | Alkalimetalle | alkali metals | metalla alcalica
+PSE#30	Zn (PSE#30) Zincum, Zink, Zinc | Übergangsmetalle | transition metals | metalla transitionis
+PSE#31	Ga (PSE#31) Gallium | Erdmetalle (Borgruppe) | boron group
+PSE#32	Ge (PSE#32) Germanium | Kohlenstoff/Silicium-Gruppe | carbon group
+PSE#33	As (PSE#33) Arsenicum, Arsen | Stickstoff/Phosphor-Gruppe | pnictogens
+PSE#34	Se (PSE#34) Selenium, Selen | Chalkogene | chalcogens
+PSE#35	Br (PSE#35) Bromum, Brom | Halogene | halogens | halogenia
+PSE#36	Kr (PSE#36) Krypton | Edelgase | noble gases | gasia nobilia
+PSE#37	Rb (PSE#37) Rubidium | Alkalimetalle | alkali metals | metalla alcalica
+PSE#38	Sr (PSE#38) Strontium | Erdalkalimetalle | alkaline earth metals | metalla alcalica terrena
+PSE#39	Y (PSE#39) Yttrium | Übergangsmetalle | transition metals | metalla transitionis
+PSE#4	Be (PSE#4) Beryllium | Erdalkalimetalle | alkaline earth metals | metalla alcalica terrena
+PSE#40	Zr (PSE#40) Zirconium, Zirkonium | Übergangsmetalle | transition metals | metalla transitionis
+PSE#41	Nb (PSE#41) Niobium, Niob | Übergangsmetalle | transition metals | metalla transitionis
+PSE#42	Mo (PSE#42) Molybdenum, Molybdän | Übergangsmetalle | transition metals | metalla transitionis
+PSE#43	Tc (PSE#43) Technetium | Übergangsmetalle | transition metals | metalla transitionis
+PSE#44	Ru (PSE#44) Ruthenium | Übergangsmetalle | transition metals | metalla transitionis
+PSE#45	Rh (PSE#45) Rhodium | Übergangsmetalle | transition metals | metalla transitionis
+PSE#46	Pd (PSE#46) Palladium | Übergangsmetalle | transition metals | metalla transitionis
+PSE#47	Ag (PSE#47) Argentum, Silber, Silver | Übergangsmetalle | transition metals | metalla transitionis
+PSE#48	Cd (PSE#48) Cadmium | Übergangsmetalle | transition metals | metalla transitionis
+PSE#49	In (PSE#49) Indium | Erdmetalle (Borgruppe) | boron group
+PSE#5	B (PSE#5) Borium, Bor, Boron | Erdmetalle (Borgruppe) | boron group
+PSE#50	Sn (PSE#50) Stannum, Zinn, Tin | Kohlenstoff/Silicium-Gruppe | carbon group
+PSE#51	Sb (PSE#51) Stibium, Antimon, Antimony | Stickstoff/Phosphor-Gruppe | pnictogens
+PSE#52	Te (PSE#52) Tellurium, Tellur | Chalkogene | chalcogens
+PSE#53	I, J (PSE#53) Iodum, Jod, Iodine | Halogene | halogens | halogenia
+PSE#54	Xe (PSE#54) Xenon | Edelgase | noble gases | gasia nobilia
+PSE#55	Cs (PSE#55) Caesium | Alkalimetalle | alkali metals | metalla alcalica
+PSE#56	Ba (PSE#56) Barium | Erdalkalimetalle | alkaline earth metals | metalla alcalica terrena
+PSE#57	La (PSE#57) Lanthanum, Lanthan | Übergangsmetalle | transition metals | metalla transitionis
+PSE#58	Ce (PSE#58) Cerium, Cer | Metalle der seltenen Erden (Lanthaniden) | lanthanides | lanthanida
+PSE#59	Pr (PSE#59) Praesodymium, Praseodym | Metalle der seltenen Erden (Lanthaniden) | lanthanides | lanthanida
+PSE#6	C (PSE#6) Carbonium, Kohlenstoff, Carbon | Kohlenstoff/Silicium-Gruppe | carbon group
+PSE#60	Nd (PSE#60) Neodymium, Neodym | Metalle der seltenen Erden (Lanthaniden) | lanthanides | lanthanida
+PSE#61	Pm (PSE#61) Promethium | Metalle der seltenen Erden (Lanthaniden) | lanthanides | lanthanida
+PSE#62	Sm (PSE#62) Samarium | Metalle der seltenen Erden (Lanthaniden) | lanthanides | lanthanida
+PSE#63	Eu (PSE#63) Europium | Metalle der seltenen Erden (Lanthaniden) | lanthanides | lanthanida
+PSE#64	Gd (PSE#64) Gadolinium | Metalle der seltenen Erden (Lanthaniden) | lanthanides | lanthanida
+PSE#65	Tb (PSE#65) Terbium | Metalle der seltenen Erden (Lanthaniden) | lanthanides | lanthanida
+PSE#66	Dy (PSE#66) Dysprosium | Metalle der seltenen Erden (Lanthaniden) | lanthanides | lanthanida
+PSE#67	Ho (PSE#67) Holmium | Metalle der seltenen Erden (Lanthaniden) | lanthanides | lanthanida
+PSE#68	Er (PSE#68) Erbium | Metalle der seltenen Erden (Lanthaniden) | lanthanides | lanthanida
+PSE#69	Tm, Tu (PSE#69) Thulium | Metalle der seltenen Erden (Lanthaniden) | lanthanides | lanthanida
+PSE#7	N (PSE#7) Nitrogenium, Stickstoff, Nitrogen | Stickstoff/Phosphor-Gruppe | pnictogens
+PSE#70	Yb (PSE#70) Ytterbium | Metalle der seltenen Erden (Lanthaniden) | lanthanides | lanthanida
+PSE#71	Lu (PSE#71) Lutetium | Metalle der seltenen Erden (Lanthaniden) | lanthanides | lanthanida
+PSE#72	Hf (PSE#72) Hafnium | Übergangsmetalle | transition metals | metalla transitionis
+PSE#73	Ta (PSE#73) Tantalum, Tantal | Übergangsmetalle | transition metals | metalla transitionis
+PSE#74	W (PSE#74) Wolframium, Wolfram, Tungsten | Übergangsmetalle | transition metals | metalla transitionis
+PSE#75	Re (PSE#75) Rhenium | Übergangsmetalle | transition metals | metalla transitionis
+PSE#76	Os (PSE#76) Osmium | Übergangsmetalle | transition metals | metalla transitionis
+PSE#77	Ir (PSE#77) Iridium | Übergangsmetalle | transition metals | metalla transitionis
+PSE#78	Pt (PSE#78) Platinum, Platin | Übergangsmetalle | transition metals | metalla transitionis
+PSE#79	Au (PSE#79) Aurum, Gold | Übergangsmetalle | transition metals | metalla transitionis
+PSE#8	O (PSE#8) Oxygenium, Sauerstoff, Oxygen | Chalkogene | chalcogens
+PSE#80	Hg (PSE#80) Mercurium, Hydrargyron, Quecksilber, Mercury | Übergangsmetalle | transition metals | metalla transitionis
+PSE#81	Tl (PSE#81) Thallium | Erdmetalle (Borgruppe) | boron group
+PSE#82	Pb (PSE#82) Plumbum, Blei, Lead | Kohlenstoff/Silicium-Gruppe | carbon group
+PSE#83	Bi (PSE#83) Bismuthum, Wismut, Bismuth | Stickstoff/Phosphor-Gruppe | pnictogens
+PSE#84	Po (PSE#84) Polonium | Chalkogene | chalcogens
+PSE#85	At (PSE#85) Astatum, Astatin, Astatine | Halogene | halogens | halogenia
+PSE#86	Rn (PSE#86) Radon | Edelgase | noble gases | gasia nobilia
+PSE#87	Fr (PSE#87) Francium | Alkalimetalle | alkali metals | metalla alcalica
+PSE#88	Ra (PSE#88) Radium | Erdalkalimetalle | alkaline earth metals | metalla alcalica terrena
+PSE#89	Ac (PSE#89) Actinium | Übergangsmetalle | transition metals | metalla transitionis
+PSE#9	F (PSE#9) Fluorum, Fluor, Fluorine | Halogene | halogens | halogenia
+PSE#90	Th (PSE#90) Thorium | Uran-Metalle (Aktiniden) | actinides | actinida
+PSE#91	Pa (PSE#91) Protactinium | Uran-Metalle (Aktiniden) | actinides | actinida
+PSE#92	U (PSE#92) Uranium, Uran | Uran-Metalle (Aktiniden) | actinides | actinida
+PSE#93	Np (PSE#93) Neptunium | Uran-Metalle (Aktiniden) | actinides | actinida
+PSE#94	Pu (PSE#94) Plutonium | Uran-Metalle (Aktiniden) | actinides | actinida
+PSE#95	Am (PSE#95) Americium | Uran-Metalle (Aktiniden) | actinides | actinida
+PSE#96	Cm (PSE#96) Curium | Uran-Metalle (Aktiniden) | actinides | actinida
+PSE#97	Bk (PSE#97) Berkelium | Uran-Metalle (Aktiniden) | actinides | actinida
+PSE#98	Cf (PSE#98) Californium | Uran-Metalle (Aktiniden) | actinides | actinida
+PSE#99	Es, E (PSE#99) Einsteinium | Uran-Metalle (Aktiniden) | actinides | actinida
 PSK	phase shift keying
 PSK	pre-shared key
 PSTN	public switched telephone network
 PSU	power supply unit
 PSW	program status word (flags register)
 PT	physical training
+PT	Pt (PSE#78) Platinum, Platin | Übergangsmetalle | transition metals | metalla transitionis
 PT	[ccTLD] Portugal
 PTB	Physikalisch-Technische Bundesanstalt
 PTB	powers that be
@@ -3770,6 +3976,7 @@ PTV	parental tunnel vision
 PTV	perceived target value
 PU	private use
 PU	processing unit
+PU	Pu (PSE#94) Plutonium | Uran-Metalle (Aktiniden) | actinides | actinida
 PU1	U+0091 PRIVATE USE ONE
 PU2	U+0092 PRIVATE USE TWO
 PUK	[Schule DE] Pflichtunterricht im Klassenverband
@@ -3813,6 +4020,7 @@ R	[Kfz] Rumänien (veraltet)
 R	[Kfz] Rußland (veraltet)
 R/O	read-only
 R/W	read-write
+RA	Ra (PSE#88) Radium | Erdalkalimetalle | alkaline earth metals | metalla alcalica terrena
 RA	receiver address
 RA	remote assistance
 RA	residential advisor
@@ -3832,6 +4040,7 @@ RAS	row address strobe
 RATIBIBUGLE	french-specific version of ROTOTILL
 RATP	Rentre Avec Tes Pieds (Come back home by walking)
 RATP	Régie Autonome des Transports Parisiens
+RB	Rb (PSE#37) Rubidium | Alkalimetalle | alkali metals | metalla alcalica
 RB	Regionalbahn
 RB	[Kfz] Bolivien (veraltet)
 RB	[Kfz] Botswana
@@ -3866,6 +4075,7 @@ RDMA	remote direct memory access
 RE	(from Latin “back”, upon re-entering an IRC channel)
 RE	(in Skat, countering a “Kontra”)
 RE	Erdtaste
+RE	Re (PSE#75) Rhenium | Übergangsmetalle | transition metals | metalla transitionis
 RE	Regional-Expreß
 RE	regular expression - https://www.mirbsd.org/man7/re_format
 RE	[ccTLD] Réunion
@@ -3882,6 +4092,7 @@ REST	representational state transfer
 REXX	Restructured Extended Executor
 RF	Flash-Taste für Amtsholung
 RF	radio frequency
+RF	Rf (PSE#104) Rutherfordium | Übergangsmetalle | transition metals | metalla transitionis
 RFA	request for adoption
 RFA	request for assistance
 RFB	request for boot
@@ -3894,12 +4105,14 @@ RFO	request for ownership
 RFP	request for package/packaging
 RFP	request for packaging
 RFS	request for sponsorship
+RG	Rg (PSE#111) Roentgenium | Übergangsmetalle | transition metals | metalla transitionis
 RG	[Kfz:D] Landkreis Riesa-Großenhain
 RG	[Kfz] Guinea
 RGB	red green blue
 RGBA	red green blue alpha
 RGR	roger
 RH	read hit
+RH	Rh (PSE#45) Rhodium | Übergangsmetalle | transition metals | metalla transitionis
 RH	[Kfz:D] Landkreis Roth
 RH	[Kfz] Haiti
 RHEL	Red Hat Enterprise Linux
@@ -3941,6 +4154,7 @@ RMPM	rapid memory power management
 RMS	Richard Matthew Stallman
 RMS	root mean square
 RMW	read, modify, write
+RN	Rn (PSE#86) Radon | Edelgase | noble gases | gasia nobilia
 RN	[Kfz:D] Landkreis Rathenow
 RN	[Kfz] Niger
 RNG	random number generator
@@ -4046,6 +4260,7 @@ RTSL	read the source, Luke (open source programming)
 RTSL	real-time shading language (Stanford University)
 RTSL	real-time systems laboratory
 RTT	round trip time
+RU	Ru (PSE#44) Ruthenium | Übergangsmetalle | transition metals | metalla transitionis
 RU	[ccTLD] Rußland
 RU	[Kfz:D] Landkreis Rudolstadt
 RU	[Kfz] Burundi
@@ -4068,6 +4283,7 @@ RZ	Rechenzentrum (cf. DC)
 RZ	[Kfz:D] Kreis Herzogtum Lauenburg
 RÜD	[Kfz:D] Rheingau-Taunus-Kreis, Zulassungsstelle in Bad Schwalbach und Rüdesheim
 RÜG	[Kfz:D] Altkreis Rügen im Landkreis Vorpommern-Rügen
+S	S (PSE#16) Sulphur, Schwefel, Sulfur | Chalkogene | chalcogens
 S	[Kfz:D] Stadtkreis Stuttgart
 S	[Kfz] Schweden
 S.M.O.M.	[Kfz] Malteserorden (nicht offiziell)
@@ -4149,6 +4365,7 @@ SATA	serial advanced technology attachment
 SAU	[Kfz] Republik Südafrika (veraltet)
 SAU	[Kfz] Südafrika (veraltet)
 SAW	[Kfz:D] Altmarkkreis Salzwedel
+SB	Sb (PSE#51) Stibium, Antimon, Antimony | Stickstoff/Phosphor-Gruppe | pnictogens
 SB	sound blaster
 SB	[ccTLD] Salomonen
 SB	[Kfz:D] Regionalverband Saarbrücken ohne die Stadt Völklingen
@@ -4163,6 +4380,7 @@ SBK	[Kfz:D] Landkreis Schönebeck
 SBU	standard build unit
 SBZ	should be zero
 SBZ	Sowjetische Besatzungszone
+SC	Sc (PSE#21) Scandium | Übergangsmetalle | transition metals | metalla transitionis
 SC	scilicet (evidently, naturally; used as namely)
 SC	StarCraft
 SC	store conditional
@@ -4208,6 +4426,7 @@ SDR	software defined radio
 SDRAM	synchronous dynamic random access memory
 SDT	syntax-directed translation
 SDT	[Kfz:D] Stadtkreis Schwedt/Oder
+SE	Se (PSE#34) Selenium, Selen | Chalkogene | chalcogens
 SE	Software Engineer
 SE	Support Engineer
 SE	[ccTLD] Schweden
@@ -4243,6 +4462,7 @@ SFTP	Simple File Transfer Protocol
 SFTP	SSH File Transfer Protocol
 SFW	safe for work
 SFW	Sun freeware
+SG	Sg (PSE#106) Seaborgium | Übergangsmetalle | transition metals | metalla transitionis
 SG	[ccTLD] Singapur
 SG	[Kfz:D] kreisfreie Stadt Solingen
 SGCI	Single Graphic Character Introducer (U+0099)
@@ -4269,6 +4489,7 @@ SHOK	smashing head on keyboard
 SHR	shift right
 SHS	[Kfz] Königreich der Serben, Kroaten und Slowenen (veraltet)
 SHY	U+00AD SOFT HYPHEN
+SI	Si (PSE#14) Silicium, Silicon | Kohlenstoff/Silicium-Gruppe | carbon group
 SI	source index
 SI	Système International d'Unités
 SI	U+000F ␏ SHIFT IN
@@ -4361,6 +4582,7 @@ SLS	[Kfz:D] Landkreis Saarlouis
 SLZ	[Kfz:D] Landkreis Bad Salzungen
 SLZ	[Schule DE] Selbstlernzentrum
 SLÜ	[Kfz:D] Landkreis Schlüchtern
+SM	Sm (PSE#62) Samarium | Metalle der seltenen Erden (Lanthaniden) | lanthanides | lanthanida
 SM	[ccTLD] San Marino
 SM	[Kfz:D] Landkreis Schmalkalden-Meiningen
 SM	[Kfz] Siam (veraltet)
@@ -4389,6 +4611,7 @@ SMTP	Simple Mail Transfer Protocol
 SMU	system management unit
 SMÜ	[Kfz:D] Landkreis Schwabmünchen
 SN	Sachsen
+SN	Sn (PSE#50) Stannum, Zinn, Tin | Kohlenstoff/Silicium-Gruppe | carbon group
 SN	[ccTLD] Senegal
 SN	[Kfz:D] Landkreis Schwerin
 SN	[Kfz] Senegal
@@ -4468,6 +4691,7 @@ SPT	sectors per track
 SQ	[Kfz] Slowakei (veraltet)
 SQA	software quality assurance
 SQL	Structured Query Language
+SR	Sr (PSE#38) Strontium | Erdalkalimetalle | alkaline earth metals | metalla alcalica terrena
 SR	[ccTLD] Suriname
 SR	[Kfz:D] kreisfreie Stadt Straubing und Landkreis Straubing-Bogen
 SR	[Kfz] Südrhodesien (veraltet)
@@ -4613,6 +4837,7 @@ SZB	[Kfz:D] Landkreis Schwarzenberg
 SÄK	[Kfz:D] Landkreis Säckingen
 SÖM	[Kfz:D] Landkreis Sömmerda
 SÜW	[Kfz:D] Landkreis Südliche Weinstraße
+T	T (PSE#1) Tritium (special case)
 T	true (boolean 1)
 T	[Kfz] Thailand
 T A	[Kfz:D] temporäres Kennzeichen der US-Streitkräfte Augsburg
@@ -4633,6 +4858,7 @@ T SW	[Kfz:D] temporäres Kennzeichen der US-Streitkräfte Schweinfurt
 T W	[Kfz:D] temporäres Kennzeichen der US-Streitkräfte Wiesbaden
 T&S	Tasks and Skills
 T4TC	[gc] thanks for the cache
+TA	Ta (PSE#73) Tantalum, Tantal | Übergangsmetalle | transition metals | metalla transitionis
 TA	teaching assistant
 TA	test assertion
 TA	thanks (pre-net slang, pronounced tar)
@@ -4651,6 +4877,7 @@ TARGA	Truevision Advanced Raster Graphics Adapter
 TAS	Star Trek: The Animated Series
 TAS	test and set
 TATMWTDI	there are too many ways to do it (in Perl)
+TB	Tb (PSE#65) Terbium | Metalle der seltenen Erden (Lanthaniden) | lanthanides | lanthanida
 TB	terabyte
 TB	[gc] travel bug (also used as common name for trackable items, cf. GC)
 TBA	to be announced
@@ -4664,6 +4891,7 @@ TBD	to be done
 TBF	to be fixed
 TBH	to be honest
 TBOMK	the best of my knowledge
+TC	Tc (PSE#43) Technetium | Übergangsmetalle | transition metals | metalla transitionis
 TC	[ccTLD] Turks- und Caicosinseln
 TC	[gc] Terracache
 TC	[Kfz] Kamerun (veraltet)
@@ -4692,6 +4920,7 @@ TDOA	time difference of arrival
 TDP	thermal design point
 TDP	thermal design power
 TDR	Theo de Raadt -- http://theos.com/
+TE	Te (PSE#52) Tellurium, Tellur | Chalkogene | chalcogens
 TE	[Kfz:D] Kreis Tecklenburg
 TEAM	toll, ein Anderer macht's!
 TECO	Text Editor and Corrector
@@ -4722,6 +4951,7 @@ TGA	Truevision TGA (TARGA) bitmap
 TGIF	Thank God It's Friday
 TGV	Train à grande vitesse
 TH	table head (in HTML)
+TH	Th (PSE#90) Thorium | Uran-Metalle (Aktiniden) | actinides | actinida
 TH	Thüringen
 TH	[ccTLD] Thailand
 THEODOR	T (deutsches Funkalphabet)
@@ -4731,6 +4961,7 @@ THNX	thanks
 THRB	thumb hits reset button
 THW	[Kfz:D] Dienstfahrzeuge der Bundesanstalt Technisches Hilfswerk
 THX	thanks
+TI	Ti (PSE#22) Titanium, Titan | Übergangsmetalle | transition metals | metalla transitionis
 TIA	thanks in advance
 TIAS	try it and see
 TIAVP	this is a volunteer project
@@ -4757,6 +4988,7 @@ TK	Telekommunikation
 TK	temporal key
 TK	[ccTLD] Tokelau
 TKIP	Temporal Key Integrity Protocol
+TL	Tl (PSE#81) Thallium | Erdmetalle (Borgruppe) | boron group
 TL	[ccTLD] Osttimor (zuvor .tp)
 TL	[Kfz] Osttimor
 TL;DR	too long; didn't read
@@ -4774,6 +5006,7 @@ TLS	transport layer security
 TLT	[Kfz] Freies Territorium Triest (veraltet)
 TM	thanks much (lilo lingo, from IRC)
 TM	thermal monitor
+TM	Tm (PSE#69) Thulium | Metalle der seltenen Erden (Lanthaniden) | lanthanides | lanthanida
 TM	trademark
 TM	trust me
 TM	Turing machine
@@ -4882,6 +5115,7 @@ TTY	teletype [terminal]
 TTYL	talk to you later
 TTYL8ER	tty (read) you later [usenet]
 TTYS	talk to you soon
+TU	Tu (PSE#69) Thulium (alt.)
 TU	[Kfz] Trengganu (veraltet)
 TUI	terminal user interface
 TUI	textual/text-based user interface
@@ -4908,6 +5142,7 @@ TZ	[ccTLD] Tansania
 TÖL	[Kfz:D] Landkreis Bad Tölz-Wolfratshausen
 TÖN	[Kfz:D] Kreis Eiderstedt
 TÜ	[Kfz:D] Landkreis Tübingen
+U	U (PSE#92) Uranium, Uran | Uran-Metalle (Aktiniden) | actinides | actinida
 U	u, you
 U	[Kfz] Uruguay (veraltet)
 U/L	upload
@@ -5003,14 +5238,20 @@ UTRTFTJ	use the right tool for the job
 UTSL	use the source, Luke (open source programming)
 UUCP	Unix-to-Unix Copy Protocol
 UUID	universally unique identifier
+UUO	Uuo (PSE#118) Ununoctium | Edelgase | noble gases | gasia nobilia
 UUOC	useless use of cat
+UUP	Uup (PSE#115) Ununpentium | Stickstoff/Phosphor-Gruppe | pnictogens
+UUS	Uus (PSE#117) Ununseptium | Halogene | halogens | halogenia
 UUT	unit under test
+UUT	Uut (PSE#113) Ununtrium | Erdmetalle (Borgruppe) | boron group
+UUU	Uuu (PSE#111) Roentgenium, Unununium (alt.)
 UV	ultraviolet
 UVZ	Universelle Verpeilerzeit
 UX	user experience
 UY	[ccTLD] Uruguay
 UZ	[ccTLD] Usbekistan
 UZ	[Kfz] Usbekistan
+V	V (PSE#23) Vanadium | Übergangsmetalle | transition metals | metalla transitionis
 V	[Kfz:D] Vogtlandkreis
 V	[Kfz] Vatikanstaat
 VA	vertical alignment
@@ -5116,6 +5357,7 @@ VVV	veni, vidi, vodka (Ich kam, sah und soff.)
 VVV	Voilà, Vivement Vendredi
 VW	Volkswagen
 VWL	Volkswirtschaftslehre
+W	W (PSE#74) Wolframium, Wolfram, Tungsten | Übergangsmetalle | transition metals | metalla transitionis
 W	wahr (boolean 1)
 W	Watt
 W	[Kfz:D] kreisfreie Stadt Wuppertal
@@ -5330,6 +5572,7 @@ XBAR	crossbar
 XBM	X Bitmap
 XD	(spanish emoticon: smile)
 XDMCP	X Display Manager control protocol
+XE	Xe (PSE#54) Xenon | Edelgase | noble gases | gasia nobilia
 XEP	XMPP Extension Protocol
 XER	XML encoding rules
 XGA	Extended Graphics Array
@@ -5351,6 +5594,7 @@ XXX	[sTLD] for sexual purposes
 XXX	[sTLD] sex (erotische Inhalte)
 Y	and
 Y	why?
+Y	Y (PSE#39) Yttrium | Übergangsmetalle | transition metals | metalla transitionis
 Y	[Kfz:D] Dienstfahrzeuge der Bundeswehr
 Y	[Kfz] Jugoslawien (veraltet)
 YACC	yet another compiler compiler
@@ -5364,6 +5608,7 @@ YAOTM	yet another off-topic message
 YAR	[Kfz] Nordjemen (veraltet)
 YAST	Yet another Setup Tool
 YAWPFAPR	you are welcome; please file a problem report
+YB	Yb (PSE#70) Ytterbium | Metalle der seltenen Erden (Lanthaniden) | lanthanides | lanthanida
 YDAY	yesterday
 YDIW	You’re doing it wrong.
 YE	[ccTLD] Jemen
@@ -5416,7 +5661,9 @@ ZIG	[Kfz:D] Landkreis Ziegenhain
 ZIM	Zentrum für Informations- und Medienverwaltung (cf. HRZ)
 ZM	[ccTLD] Sambia
 ZMA	zone multicast address
+ZN	Zn (PSE#30) Zincum, Zink, Zinc | Übergangsmetalle | transition metals | metalla transitionis
 ZP	[Kfz:D] Landkreis Zschopau
+ZR	Zr (PSE#40) Zirconium, Zirkonium | Übergangsmetalle | transition metals | metalla transitionis
 ZR	[Kfz:D] Landkreis Zeulenroda
 ZR	[Kfz] Zaire (veraltet)
 ZRE	[Kfz] Zaire (veraltet)
