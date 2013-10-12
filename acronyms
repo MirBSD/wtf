@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.303 2013/10/11 20:40:35 tg Exp $
+$MirOS: wtf/acronyms,v 1.304 2013/10/12 20:40:33 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.221 2013/09/28 17:58:53 dholland Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -136,7 +136,7 @@ AFK	away from keyboard
 AFS	Andrew File System
 AFU	all fucked up
 AFW	away from window
-AG	Ag (PSE#47) Argentum, Silber, Silver | Übergangsmetalle | transition metals | metalla transitionis
+AG	Ag ☽ (PSE#47) Argentum, Silber, Silver | Übergangsmetalle | transition metals | metalla transitionis
 AG	Aktiengesellschaft
 AG	Amtsgericht
 AG	Arbeitgeber
@@ -310,7 +310,7 @@ ATW	around the world
 ATW	Atari Transputer Workstation
 ATX	advanced technology extended
 AU	alternate universe
-AU	Au (PSE#79) Aurum, Gold | Übergangsmetalle | transition metals | metalla transitionis
+AU	Au ☉ (PSE#79) Aurum, Gold | Übergangsmetalle | transition metals | metalla transitionis
 AU	[ccTLD] Australien
 AU	[Kfz:D] Landkreis Aue
 AU	[Kfz:D] Westerzgebirgskreis
@@ -466,7 +466,7 @@ BH	[Kfz:D] Landkreis Bühl
 BH	[Kfz] Belize (veraltet)
 BH	[Kfz] Britisch Honduras (veraltet)
 BHT	[Kfz] Bhutan
-BI	Bi (PSE#83) Bismuthum, Wismut, Bismuth | Stickstoff/Phosphor-Gruppe | pnictogens
+BI	Bi ♆ (PSE#83) Bismuthum, Wismut, Bismuth | Stickstoff/Phosphor-Gruppe | pnictogens
 BI	two-
 BI	[ccTLD] Burundi
 BI	[Kfz:D] Kreis Bielefeld
@@ -924,7 +924,7 @@ CTM	close to metal
 CTN	can't talk now
 CTO	Chief Technology Officer
 CTS	clear to send
-CU	Cu (PSE#29) Cuprum, Kupfer, Copper | Übergangsmetalle | transition metals | metalla transitionis
+CU	Cu ♀ (PSE#29) Cuprum, Kupfer, Copper | Übergangsmetalle | transition metals | metalla transitionis
 CU	see you
 CU	[ccTLD] Kuba
 CU	[Kfz] Curaçao (veraltet)
@@ -1571,7 +1571,7 @@ FDI	FdI -- http://altlasten.lutz.donnerhacke.de/mitarb/lutz/usenet/Fachbegriffe.
 FDIK	Fick' Dich ins Knie
 FDIK	Volker Birk (VB)
 FDS	[Kfz:D] Landkreis Freudenstadt
-FE	Fe (PSE#26) Ferrum, Eisen, Iron | Übergangsmetalle | transition metals | metalla transitionis
+FE	Fe ♂ (PSE#26) Ferrum, Eisen, Iron | Übergangsmetalle | transition metals | metalla transitionis
 FEA	finite element analysis
 FEAR	false evidence appearing real
 FEC	forward error correction
@@ -2038,7 +2038,7 @@ HF	hotfix
 HF	[Kfz:D] Kreis Herford
 HFIW	HOLY FUCK IT WORKS
 HFM	highest frequency mode
-HG	Hg (PSE#80) Mercurium, Hydrargyron, Quecksilber, Mercury | Übergangsmetalle | transition metals | metalla transitionis
+HG	Hg ☿ (PSE#80) Mercurium, Hydrargyron, Quecksilber, Mercury | Übergangsmetalle | transition metals | metalla transitionis
 HG	[Kfz:D] Hochtaunuskreis
 HG	[Kfz:D] Obertaunuskreis
 HGN	[Kfz:D] Landkreis Hagenow
@@ -2975,7 +2975,7 @@ MFT	Master File Table
 MFT	merge from trunk
 MFV	Mehrfrequenzwahlverfahren
 MFV	Touch Tone
-MG	Mg (PSE#12) Magnesium | Erdalkalimetalle | alkaline earth metals | metalla alcalica terrena
+MG	Mg ⊛ (PSE#12) Magnesium | Erdalkalimetalle | alkaline earth metals | metalla alcalica terrena
 MG	[ccTLD] Madagaskar
 MG	[Kfz:D] kreisfreie Stadt Mönchengladbach
 MGH	[Kfz:D] Landkreis Mergentheim
@@ -3591,7 +3591,7 @@ PAT	port address translation
 PATA	parallel ATA (IDE, AT-Bus)
 PAULA	P (deutsches Funkalphabet)
 PAX	portable archive exchange
-PB	Pb (PSE#82) Plumbum, Blei, Lead | Kohlenstoff/Silicium-Gruppe | carbon group
+PB	Pb ♄ (PSE#82) Plumbum, Blei, Lead | Kohlenstoff/Silicium-Gruppe | carbon group
 PB	powerbook
 PB	problem
 PB	[Kfz:D] Kreis Paderborn
@@ -3963,7 +3963,7 @@ PSTN	public switched telephone network
 PSU	power supply unit
 PSW	program status word (flags register)
 PT	physical training
-PT	Pt (PSE#78) Platinum, Platin | Übergangsmetalle | transition metals | metalla transitionis
+PT	Pt ☽ (PSE#78) Platinum, Platin | Übergangsmetalle | transition metals | metalla transitionis
 PT	[ccTLD] Portugal
 PTB	Physikalisch-Technische Bundesanstalt
 PTB	powers that be
@@ -4365,7 +4365,7 @@ SATA	serial advanced technology attachment
 SAU	[Kfz] Republik Südafrika (veraltet)
 SAU	[Kfz] Südafrika (veraltet)
 SAW	[Kfz:D] Altmarkkreis Salzwedel
-SB	Sb (PSE#51) Stibium, Antimon, Antimony | Stickstoff/Phosphor-Gruppe | pnictogens
+SB	Sb ♁ (PSE#51) Stibium, Antimon, Antimony | Stickstoff/Phosphor-Gruppe | pnictogens
 SB	sound blaster
 SB	[ccTLD] Salomonen
 SB	[Kfz:D] Regionalverband Saarbrücken ohne die Stadt Völklingen
@@ -4611,7 +4611,7 @@ SMTP	Simple Mail Transfer Protocol
 SMU	system management unit
 SMÜ	[Kfz:D] Landkreis Schwabmünchen
 SN	Sachsen
-SN	Sn (PSE#50) Stannum, Zinn, Tin | Kohlenstoff/Silicium-Gruppe | carbon group
+SN	Sn ♃ (PSE#50) Stannum, Zinn, Tin | Kohlenstoff/Silicium-Gruppe | carbon group
 SN	[ccTLD] Senegal
 SN	[Kfz:D] Landkreis Schwerin
 SN	[Kfz] Senegal
