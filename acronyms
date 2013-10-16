@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.304 2013/10/12 20:40:33 tg Exp $
+$MirOS: wtf/acronyms,v 1.305 2013/10/16 19:45:07 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.221 2013/09/28 17:58:53 dholland Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -1218,6 +1218,7 @@ DVI	Digital Visual Interface
 DVR	digital video recorder
 DW	[Kfz:D] Landkreis Dippoldiswalde
 DW	[Kfz:D] Weißeritzkreis
+DWDM	Dense Wavelength Division Multiplexing
 DWH	data warehouse
 DWIM	do what I mean
 DWIW	do what I want
@@ -1387,6 +1388,7 @@ EMIL	E (deutsches Funkalphabet)
 EMLINK	(#31) Too many links
 EMP	electro-magnetic pulse
 EMR	electro-magnetic radiation
+EMS	Expanded Memory Specification (LIM EMS)
 EMS	[Kfz:D] Rhein-Lahn-Kreis, Stadt Lahnstein
 EMSG	email message
 EMSGSIZE	(#40) Message too long
@@ -2689,6 +2691,7 @@ LIF	[Kfz:D] Landkreis Lichtenfels
 LIFO	last in, first out
 LILO	last in, last out
 LILO	LInux LOader
+LIM	Lotus-Intel-Microsoft
 LIMA	L (International Radiotelephony Spelling Alphabet)
 LIN	[Kfz:D] Landkreis Lingen
 LINQ	.NET Language-Integrated Query
@@ -3566,7 +3569,7 @@ PA	[Kfz] Panama
 PAAS	platform as a service
 PAC	phase-amplitude converter
 PAD	Padding Character (U+0080)
-PAE	physical address extension
+PAE	physical address extension (like LIM EMS)
 PAF	[gc] phone a friend (usually required for webcam caches)
 PAF	[Kfz:D] Landkreis Pfaffenhofen an der Ilm
 PAK	[Kfz] Pakistan (veraltet)
@@ -4118,6 +4121,7 @@ RH	[Kfz] Haiti
 RHEL	Red Hat Enterprise Linux
 RHL	Red Hat Linux (now either RHEL or Fedora)
 RHV	[Kfz] Burkina Faso (veraltet)
+RI	Reference Implementation
 RI	Reverse Index (U+008D)
 RI	U+008D REVERSE LINE FEED
 RI	[Kfz:D] Landkreis Grafschaft Schaumburg
@@ -5403,6 +5407,7 @@ WD	[Kfz:D] Kreis Wiedenbrück
 WD	[Kfz] Dominica
 WDA	[Kfz:D] Landkreis Werdau
 WDA	[Kfz:D] Landkreis Zwickauer Land
+WDM	Wavelength Division Multiplexing
 WDR	Westdeutscher Rundfunk
 WDT	watchdog timer
 WDYM	what do you mean
@@ -5580,9 +5585,11 @@ XHTML	Extensible Hyper-Text Markup Language
 XIP	execute in place
 XML	Extensible Markup Language
 XMPP	Extensible Messaging and Presence Protocol (aka. Jabber)
+XMS	Extended Memory Specification
 XNSL	[gc] exchanged nothing, signed log (cf. TNLNSL, N/T)
 XOR	exclusive or
 XP	extreme programming
+XPA	Extended Physical Addressing (PAE for MIPS32)
 XPM	X Pixmap
 XRAY	X (International Radiotelephony Spelling Alphabet)
 XSL	extensible stylesheet language
