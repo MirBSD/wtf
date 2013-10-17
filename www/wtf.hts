@@ -3,7 +3,7 @@
 
 mws_setname wtf "WTF acronym database"
 mws_setheadline "What the Fuck?"
-mws_putheader '$MirOS: wtf/www/wtf.hts,v 1.6 2012/06/11 12:26:51 tg Exp $'
+mws_putheader '$MirOS: wtf/www/wtf.hts,v 1.7 2013/10/17 23:28:57 tg Exp $'
 mws_content <<'EOF'
 <h2>Display all acronyms</h2>
 <p>The <a href="@@RELPATH@@acronyms" type="text/plain; charset=utf-8"
@@ -12,12 +12,14 @@ mws_content <<'EOF'
  have a <a href="@@RELPATH@@man.htm">manual page search</a> page.</p>
 
 <h2>Query the WTF acronym database</h2>
-<form action="@@RELPATH@@wtf.cgi" method="get"><p>
+<form accept-charset="utf-8" action="@@RELPATH@@wtf.cgi" method="get"><p>
  <input type="text" name="q" size="42" maxlength="255" />
  <input type="submit" />
 </p></form>
 
-<form action="https://duckduckgo.com/?kp=-1&#38;kl=wt-wt&#38;kb=t&#38;kh=1&#38;kj=g2&#38;km=l&#38;ka=monospace&#38;ku=1&#38;ko=s&#38;k1=-1&#38;kv=1&#38;t=debian" method="post">
+<form accept-charset="utf-8"
+ action="https://duckduckgo.com/?kp=-1&#38;kl=wt-wt&#38;kb=t&#38;kh=1&#38;kj=g2&#38;km=l&#38;ka=monospace&#38;ku=1&#38;ko=s&#38;k1=-1&#38;kv=1&#38;t=debian"
+ method="post">
 <!-- wtf-result begin -->
 <h2>Search the world-wide web instead</h2>
 <p>
