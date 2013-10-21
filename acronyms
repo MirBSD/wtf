@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.305 2013/10/16 19:45:07 tg Exp $
+$MirOS: wtf/acronyms,v 1.306 2013/10/21 19:49:38 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.221 2013/09/28 17:58:53 dholland Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -2175,6 +2175,8 @@ I/O	input / output
 I2O	intelligent input/output
 IA	information assurance
 IAAS	infrastructure as a service
+IAB	in a bit
+IAB	Internet Architecture Board
 IAC	in any case
 IAE	in any event
 IANA	Internet Assigned Numbers Authority
