@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.306 2013/10/21 19:49:38 tg Exp $
+$MirOS: wtf/acronyms,v 1.307 2013/10/24 18:05:26 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.221 2013/09/28 17:58:53 dholland Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -3970,6 +3970,7 @@ PSW	program status word (flags register)
 PT	physical training
 PT	Pt ☽ (PSE#78) Platinum, Platin | Übergangsmetalle | transition metals | metalla transitionis
 PT	[ccTLD] Portugal
+PTB	pays the bills <igli>
 PTB	Physikalisch-Technische Bundesanstalt
 PTB	powers that be
 PTE	page table entry
@@ -4708,6 +4709,7 @@ SRC	sample rate conversion
 SRGG	secure random number generator
 SRNG	stretched random number generator
 SRO	[Kfz:D] Landkreis Stadtroda
+SRSLY	seriously
 SRU	stable release update
 SS	self-snoop
 SS	SPARCstation
@@ -5699,7 +5701,9 @@ ZZ	[Kfz:D] Landkreis Zeitz
 ÜBERMUT	Ü (deutsches Funkalphabet)
 СРБ	[ccTLD] Serbien
 бг	[ccTLD] Bulgarien
+онлайн	[sTLD] kyrillisch: online
 рф	[ccTLD] Российская Федерация, Rossijskaja Federazija‚ Russische Föderation
+сайт	[sTLD] kyrillisch: site
 срб	[ccTLD] Serbien
 укр	[ccTLD] Ukraine
 ҚАЗ	[ccTLD] Kasachstan
@@ -5714,6 +5718,7 @@ ZZ	[Kfz:D] Landkreis Zeitz
 تونس	[ccTLD] tūnis, Tunesien
 سوريا	[ccTLD] sūriyā, Syrien
 سورية	[ccTLD] Syrien
+شبكة	[sTLD] arabisches: Netz
 عمان	[ccTLD] Oman
 فلسطين	[ccTLD] filasṭīn, Palästina
 قطر	[ccTLD] Katar
@@ -5737,6 +5742,7 @@ ZZ	[Kfz:D] Landkreis Zeitz
 台湾	[ccTLD] Republik China / Taiwan
 台灣	[ccTLD] Republik China / Taiwan
 新加坡	[ccTLD] Singapur
+游戏	[sTLD] chinesisch: game
 香港	[ccTLD] Hongkong
 한국	[ccTLD] Südkorea
 ﻢﻠﻴﺴﻳﺍ	[ccTLD] Malaysia
