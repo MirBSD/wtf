@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.308 2013/10/24 19:37:55 tg Exp $
+$MirOS: wtf/acronyms,v 1.309 2013/10/25 16:33:12 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.221 2013/09/28 17:58:53 dholland Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -1637,6 +1637,7 @@ FM	frequency modulation
 FM	fucking magic
 FM	[ccTLD] Mikronesien
 FM	[Kfz] Malaysia (veraltet)
+FMA	[manga] Fullmetal Alchemise, Hagane no Renkinjutsushi, 鋼の錬金術師
 FML	fuck my life
 FMR	false match rate
 FMT	Facility Management Technology
@@ -2079,6 +2080,7 @@ HMÜ	[Kfz:D] Landkreis Münden
 HN	[ccTLD] Honduras
 HN	[Kfz:D] Stadt- und Landkreis Heilbronn
 HN	[Kfz] Honduras
+HNG	[manga] Hikaru no Go, ヒカルの碁
 HNO	Hals-Nasen-Ohrenarzt
 HNY	happy new year
 HO	Ho (PSE#67) Holmium | Metalle der seltenen Erden (Lanthaniden) | lanthanides | lanthanida
@@ -3377,6 +3379,7 @@ NSA	never say anything
 NSA	no such agency
 NSFW	not safe for work
 NSFW	not suitable for work
+NSL	no such library
 NT	new technology
 NT	no text (also: n/t)
 NT	[gc] no trade
@@ -3496,6 +3499,7 @@ OOP	object oriented programming
 OOPS	object oriented programming systems
 OOSE	object oriented software engineering
 OOSOOM	out of sight, out of mind
+OOTB	out of the box
 OOTP	[HP] Order of the Phœnix
 OOXML	Office Open XML (ISO/IEC 29500)
 OP	[Kfz:D] Rhein-Wupper-Kreis
@@ -5176,6 +5180,7 @@ UDP	User Datagram Protocol
 UE	[Kfz:D] Landkreis Uelzen
 UEM	[Kfz:D] Landkreis Ueckermünde
 UER	[Kfz:D] Landkreis Uecker-Randow
+UFF	(sound of exhaling, with throat)
 UFF	[Kfz:D] Landkreis Uffenheim
 UFS	Unix File System
 UG	[ccTLD] Uganda
