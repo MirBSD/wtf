@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.310 2013/10/27 20:46:04 tg Exp $
+$MirOS: wtf/acronyms,v 1.311 2013/10/30 20:18:50 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.221 2013/09/28 17:58:53 dholland Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -1238,6 +1238,7 @@ DZ	[Kfz] Algerien
 DÜW	[Kfz:D] Landkreis Bad Dürkheim
 E	2.718281828459045235360287471352662497757…
 E	E (PSE#99) Einsteinium (alt.)
+E	Osten, east
 E	[Kfz:D] kreisfreie Stadt Essen
 E	[Kfz] Spanien
 E-XER	extended XML encoding rules
@@ -1396,6 +1397,7 @@ EMSGSIZE	(#40) Message too long
 EMULTIHOP	(#89) (reserved)
 EN	[Kfz:D] Ennepe-Ruhr-Kreis
 ENAMETOOLONG	(#63) File name too long
+ENE	Ostnordost, east-north-east
 ENEEDAUTH	(#81) Need authenticator
 ENETDOWN	(#50) Network is down
 ENETRESET	(#52) Network dropped connection on reset
@@ -1487,6 +1489,7 @@ ESB	[Kfz:D] Landkreis Eschenbach in der Oberpfalz
 ESC	U+001B ␛ ESCAPE
 ESCON	Enterprise Systems Connection
 ESDRAM	enhanced synchronous dynamic random access memory
+ESE	Ostsüdost, east-south-east
 ESHUTDOWN	(#58) Can't send after socket shutdown
 ESOCKTNOSUPPORT	(#44) Socket type not supported
 ESPIPE	(#29) Illegal seek
@@ -3185,6 +3188,7 @@ MÜL	[Kfz:D] Landkreis Müllheim
 MÜN	[Kfz:D] Landkreis Münsingen
 MÜR	[Kfz:D] Altkreis Müritz im Landkreis Mecklenburgische Seenplatte
 N	N (PSE#7) Nitrogenium, Stickstoff, Nitrogen | Stickstoff/Phosphor-Gruppe | pnictogens
+N	Norden, north
 N	[Kfz:D] Landkreis Nürnberg
 N	[Kfz] Norwegen
 N/A	not applicable
@@ -3246,6 +3250,7 @@ NDH	[Kfz:D] Landkreis Nordhausen
 NDH	[Kfz] Kroatien (veraltet)
 NDPF	Nikhef Data Processing Facility
 NE	Ne (PSE#10) Neon | Edelgase | noble gases | gasia nobilia
+NE	Nordost, north-east
 NE	numeric error
 NE	[ccTLD] Niger
 NE	[Kfz:D] Rhein-Kreis Neuß
@@ -3332,8 +3337,13 @@ NMS	network management system
 NMS	[Kfz:D] kreisfreie Stadt Neumünster
 NMU	non-maintainer upload
 NN	nighty-night
+NNE	Nordnordost, north-north-east
+NNO	Nordnordost, north-north-east
 NNTP	Network News Transfer Protocol
+NNW	Nordnordwest, north-north-west
+NO	nein, no, non, нет, nay, 否 (いいえ)
 NO	No (PSE#102) Nobelium | Uran-Metalle (Aktiniden) | actinides | actinida
+NO	Nordost, north-east
 NO	[ccTLD] Norwegen
 NOC	network operations centre
 NOFI	no flame intended
@@ -3401,6 +3411,7 @@ NVP	[Kfz:D] Landkreis Nordvorpommern
 NVRAM	non-volatile random access memory
 NW	no way
 NW	Nordrhein-Westfalen
+NW	Nordwest, north-west
 NW	not write-through
 NW	[Kfz:D] Landkreis Neustadt an der Weinstraße
 NW	[Kfz:D] Landkreis Neuwied
@@ -3415,6 +3426,7 @@ NÄHMLICH	Wer nämlich mit h schreibt, ist dämlich.
 NÄMLICH	Wer nämlich mit h schreibt, ist dämlich.
 NÖ	[Kfz:D] Landkreis Nördlingen
 O	O (PSE#8) Oxygenium, Sauerstoff, Oxygen | Chalkogene | chalcogens
+O	Osten, east
 O I C	oh, I see
 O2W	off to work
 OA	[Kfz:D] Landkreis Oberallgäu
@@ -3486,6 +3498,7 @@ OMW	on my way
 ONFI	open nand flash interface
 ONNA	oh no, not again
 ONNTA	oh no, not this again
+ONO	Ostnordost, east-north-east
 OO	object oriented
 OO	OpenOffice
 OOB	out of band
@@ -3530,6 +3543,7 @@ OSI	Open Source Initiative
 OSI	open systems interconnection
 OSL	[Kfz:D] Landkreis Oberspreewald-Lausitz
 OSM	Open Street Map
+OSO	Ostsüdost, east-south-east
 OSPF	open shortest path first
 OSPM	OS power management
 OSS	open sound system
@@ -4297,6 +4311,7 @@ RZ	[Kfz:D] Kreis Herzogtum Lauenburg
 RÜD	[Kfz:D] Rheingau-Taunus-Kreis, Zulassungsstelle in Bad Schwalbach und Rüdesheim
 RÜG	[Kfz:D] Altkreis Rügen im Landkreis Vorpommern-Rügen
 S	S (PSE#16) Sulphur, Schwefel, Sulfur | Chalkogene | chalcogens
+S	Süden, south
 S	[Kfz:D] Stadtkreis Stuttgart
 S	[Kfz] Schweden
 S.M.O.M.	[Kfz] Malteserorden (nicht offiziell)
@@ -4433,7 +4448,7 @@ SDH	[Kfz:D] Landkreis Sondershausen
 SDI	symbol deinterleave
 SDK	software development kit
 SDL	Simple Declarative Language
-SDL	Simple Direct-media Layer 
+SDL	Simple Direct-media Layer
 SDL	[Kfz:D] Landkreis Stendal
 SDR	software defined radio
 SDRAM	synchronous dynamic random access memory
@@ -4442,6 +4457,7 @@ SDT	[Kfz:D] Stadtkreis Schwedt/Oder
 SE	Se (PSE#34) Selenium, Selen | Chalkogene | chalcogens
 SE	Software Engineer
 SE	Support Engineer
+SE	Südost, south-east
 SE	[ccTLD] Schweden
 SE	[Kfz:D] Kreis Segeberg
 SE	[Kfz] Irland (veraltet)
@@ -4641,6 +4657,7 @@ SNMP	sorry, not my problem
 SNR	signal-to-noise ratio
 SO	shared object file (cf. DLL)
 SO	significant other
+SO	Südost, south-east
 SO	U+000E ␎ SHIFT OUT
 SO	[ccTLD] Somalia
 SO	[Kfz:D] Kreis Soest
@@ -4697,6 +4714,7 @@ SPI	stateful packet inspection
 SPIT	spam over internet telephony
 SPMD	single process, multiple data
 SPN	[Kfz:D] Landkreis Spree-Neiße
+SPOR	[gc] suspicious pile of rocks
 SPQR	senatus populusque romanus
 SPR	special purpose register
 SPR	[Kfz:D] Landkreis Springe
@@ -4737,14 +4755,17 @@ SSB	single-sideband modulation
 SSD	solid state drive
 SSD	[Kfz] Südsudan
 SSE	streaming SIMD extensions
+SSE	Südsüdost, south-south-east
 SSFDC	solid state floppy disc card
 SSH	secure shell
 SSI	server side includes
 SSIA	subject says it all
 SSID	service set identifier
 SSL	secure sockets layer
+SSO	Südsüdost, south-south-east
 SSP	stack smashing protection
 SSTO	single stage to orbit
+SSW	Südsüdwest, south-south-west
 ST	Sachsen-Anhalt
 ST	Sixteen-Thirtytwo (Atari)
 ST	Star Trek
@@ -4822,6 +4843,7 @@ SW	schwarzweiß
 SW	Software
 SW	Star Wars
 SW	switch
+SW	Südwest, south-west
 SW	[Kfz:D] kreisfreie Stadt und Landkreis Schweinfurt
 SWA	[Kfz:D] Untertaunuskreis
 SWA	[Kfz] Namibia (veraltet)
@@ -5220,6 +5242,7 @@ UPC	unit production cost
 UPC	universal product code
 UPLOAD	to create load on the server
 UPNP	universal plug and play
+UPR	[gc] unusual pile of rocks
 UPS	uninterruptible power supply
 UPS	united parcel service
 UPS	Universal Polar Stereographic coordinate system (UTM zones A, B, Y, Z)
@@ -5376,6 +5399,7 @@ VWL	Volkswirtschaftslehre
 W	W (PSE#74) Wolframium, Wolfram, Tungsten | Übergangsmetalle | transition metals | metalla transitionis
 W	wahr (boolean 1)
 W	Watt
+W	Westen, west
 W	[Kfz:D] kreisfreie Stadt Wuppertal
 W-CDMA	Wideband Code Division Multiple Access
 W/	with
@@ -5490,6 +5514,7 @@ WN	[Kfz:D] Landkreis Waiblingen
 WN	[Kfz:D] Rems-Murr-Kreis
 WND	[Kfz:D] Landkreis St. Wendel
 WNPP	work-needing and prospective packages
+WNW	Westnordwest, west-north-west
 WO	[Kfz:D] Landkreis Worms
 WOB	[Kfz:D] kreisfreie Stadt Wolfsburg
 WOFTAM	waste of fucking time and money
@@ -5530,6 +5555,7 @@ WSA	[Kfz] Demokratische Arabische Republik Sahara (nicht offiziell)
 WSF	[Kfz:D] Landkreis Weißenfels
 WSR	[dental] Wurzelspitzenresektion
 WST	[Kfz:D] Landkreis Ammerland
+WSW	Westsüdwest, west-south-west
 WSW	würde schneller wandern
 WSW	[Kfz:D] Landkreis Weißwasser
 WT	[Kfz:D] Landkreis Waldshut
