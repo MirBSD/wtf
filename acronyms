@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.313 2013/10/31 20:14:21 tg Exp $
+$MirOS: wtf/acronyms,v 1.314 2013/11/02 15:55:58 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.221 2013/09/28 17:58:53 dholland Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -3450,6 +3450,7 @@ OCAML	Objective Caml
 OCH	[Kfz:D] Landkreis Ochsenfurt
 OCL	object constraint language
 OCR	optical character recognition
+OCSP	Online Certificate Status Protocol
 OCTA	eight-
 OD	[Kfz:D] Kreis Stormarn
 ODCM	on-demand clock modulation
@@ -3800,6 +3801,7 @@ POI	[gc] point of interest
 POINT	(decimal point) . (International Radiotelephony Spelling Alphabet)
 POLA	principle of least astonishment
 POLS	principle of least surprise
+POP	cf. TOFU/POP
 POP	point of presence
 POP	Post Office Protocol
 POP	power on password
@@ -4809,6 +4811,7 @@ STP	shielded twisted pair
 STP	Spanning Tree Protocol
 STP	[Kfz] São Tomé und Príncipe
 STR	[Schule DE] Studienrat
+STS	HTTP Strict Transport Security
 STS	U+0093 SET TRANSMIT STATE
 STUBO	[Schule DE] Studien- und Berufsorientierung
 STVO	[Kfz:D] Straßenverkehrsordnung
@@ -5075,12 +5078,14 @@ TOCTOU	time of check to time of use
 TOCTTOU	time of check to time of use
 TOD	time of day
 TOEFL	test of english as a foreign language
+TOFU	cf. TOFU/POP
 TOFU	soy bean based edible
 TOFU	Text oben, Fullquote unten
 TOFU	TOp-posting and FUll-quoting
 TOFU	[DE] Aber wie mache ich es richtig? => http://www.afaik.de/usenet/faq/zitieren/
 TOFU	[EN] But how to do it right? => http://www.netmeister.org/news/learn2quote.html
 TOFU	[NL] Maar hoe doe ik dat correct? => http://www.briachons.org/art/quote/
+TOFU/POP	trust on first use, persistence of pseudonym
 TOH	to other half
 TOM	Tunnelling of Messages
 TON	[Kfz] Tonga (nicht offiziell)
