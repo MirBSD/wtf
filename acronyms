@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.314 2013/11/02 15:55:58 tg Exp $
+$MirOS: wtf/acronyms,v 1.315 2013/11/06 18:41:56 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.221 2013/09/28 17:58:53 dholland Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -4219,6 +4219,7 @@ ROTFLMAO	rolling on the floor laughing my arse off
 ROTJ	[SW] Episode VI: Return of the Jedi
 ROTOTILL	"nuke with a chain saw device", to die with extreme prejudice (see GC)
 ROTS	[SW] Episode III: Revenge of the Sith
+ROTW	rest of the world
 ROU	[Kfz] Uruguay
 ROW	[Kfz:D] Landkreis Rotenburg (Wümme)
 RP	responsible person
@@ -4517,6 +4518,7 @@ SHIT	FSF - Shit part 3 -- http://www.fsf.org/fun/jokes/religions.html
 SHK	[Kfz:D] Saale-Holzland-Kreis
 SHL	shift left
 SHL	[Kfz:D] Landkreis Suhl
+SHMOO	eierlegende Wollmilchsau
 SHOK	smashing head on keyboard
 SHR	shift right
 SHS	[Kfz] Königreich der Serben, Kroaten und Slowenen (veraltet)
@@ -4800,6 +4802,7 @@ STFU	shut the fuck up
 STFW	search the fucking web
 STGH	Staatsgerichtshof
 STH	[Kfz:D] Landkreis Schaumburg-Lippe
+STL	Standard Template Library
 STL	[Kfz:D] Landkreis Stollberg
 STLD	sponsored top-level domain
 STM	STMicroelectronics
@@ -5070,6 +5073,7 @@ TNF	Tinnef (german dialect)
 TNG	[ST] The Next Generation
 TNLN	[gc] took nothing, left nothing (also: N/T)
 TNLNSL	[gc] took nothing, left nothing, signed log (also: N/T)
+TNS	Transparent Network Substrate
 TNX	thanks
 TO	[ccTLD] Tonga
 TO	[Kfz:D] Landkreis Torgau-Oschatz
