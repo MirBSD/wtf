@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.315 2013/11/06 18:41:56 tg Exp $
+$MirOS: wtf/acronyms,v 1.316 2013/11/07 22:39:47 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.221 2013/09/28 17:58:53 dholland Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -774,6 +774,7 @@ CG	center of gravity
 CG	control gate
 CG	[ccTLD] Republik Kongo
 CGA	Color Graphics Adapter
+CGA	[gc] Cachegrundausstattung
 CGI	common gateway interface
 CGN	Carrier-Grade NAT
 CGO	[Kfz] Demokratische Republik Kongo
@@ -1277,6 +1278,7 @@ EC	Eurocity
 EC	European Commission
 EC	[ccTLD] Ecuador
 EC	[Kfz] Ecuador
+ECA	[gc] Erweiterte Cacheausrüstung
 ECANCELED	(#86) Operation canceled
 ECC	error correction code
 ECCM	electronic counter-countermeasures (e.g. something against jamming)
