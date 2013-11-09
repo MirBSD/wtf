@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.316 2013/11/07 22:39:47 tg Exp $
+$MirOS: wtf/acronyms,v 1.317 2013/11/09 01:21:30 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.221 2013/09/28 17:58:53 dholland Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -2857,6 +2857,7 @@ MARTHA	M (deutsches Funkalphabet)
 MB	megabyte
 MB	[Kfz:D] Landkreis Miesbach
 MBCS	multi-byte character set
+MBF	mass bugfiling
 MBR	master boot record
 MBS	megabits per second
 MBZ	must be zero
@@ -3088,7 +3089,7 @@ MOSI	modified, owned, shared, invalid
 MOTAS	member of the appropriate sex
 MOTOS	member of the opposite sex
 MOTSS	member of the same sex
-MOTU	masters of the universe (Ubuntu developer)
+MOTU	masters of the universe (Developer of the Debian derivate from Canonical that cannot be named)
 MP	multi-platform
 MP	multiplayer
 MP	multiprocessing
