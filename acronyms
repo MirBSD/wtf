@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.317 2013/11/09 01:21:30 tg Exp $
+$MirOS: wtf/acronyms,v 1.318 2013/11/14 17:13:13 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.221 2013/09/28 17:58:53 dholland Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -1542,6 +1542,8 @@ EWAG	experienced wild-ass guess
 EWE	Epilogue? What Epilogue? (usually in HP context)
 EWOULDBLOCK	(=EAGAIN) Operation would block
 EXDEV	(#18) Cross-device link
+EXIF	exchangeable image file
+EXIV	(library for working with EXIF, XMP, IPTC metadata)
 F	F (PSE#9) Fluorum, Fluor, Fluorine | Halogene | halogens | halogenia
 F	false (boolean 0)
 F	[Kfz:D] kreisfreie Stadt Frankfurt am Main
@@ -2345,6 +2347,8 @@ IPNG	Internet Protocol, Next Generation
 IPS	in-plane switching
 IPS	intrusion prevention system
 IPSEC	Internet Protocol Security
+IPTC	International Press Telecommunications Council
+IPTV	Television over IP
 IPV	in plaats van (dutch; instead of)
 IPV6	next generation Internet Protocol, triggers japanese simple-mind ideas
 IQ	intelligence quotient
@@ -5636,6 +5640,7 @@ XGA	Extended Graphics Array
 XHTML	Extensible Hyper-Text Markup Language
 XIP	execute in place
 XML	Extensible Markup Language
+XMP	extensible metadata platform
 XMPP	Extensible Messaging and Presence Protocol (aka. Jabber)
 XMS	Extended Memory Specification
 XNSL	[gc] exchanged nothing, signed log (cf. TNLNSL, N/T)
