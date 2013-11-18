@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.318 2013/11/14 17:13:13 tg Exp $
+$MirOS: wtf/acronyms,v 1.319 2013/11/18 18:43:44 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.221 2013/09/28 17:58:53 dholland Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -1619,6 +1619,8 @@ FID	frequency identifier
 FIF	[Kfz] Französisch-Indien (veraltet)
 FIFO	first in, first out
 FIGJAM	fuck I'm good, just ask me
+FIGS	[gc] found in good shape
+FIGS SL	[gc] found in good shape, signed log
 FIIK	fuck/fucked if I know
 FIIR	fuck/fucked if I recall
 FIIR	fuck/fucked if I remember
@@ -2224,6 +2226,7 @@ ICH	I/O controller hub
 ICMP	Internet Control Message Protocol
 ICO	icon (bitmap file format)
 ICT	information and communications technology
+ICT	ivy-covered tree
 ICUR	I see you are
 ICW	initialisation command word
 ID	idem (in the same place)
@@ -3307,6 +3310,7 @@ NI	[ccTLD] Nicaragua
 NI	[Kfz:D] Landkreis Nienburg
 NI	[Kfz] Nordirland
 NIA	next instruction address
+NIAH	needle in a haystack
 NIB	[Kfz:D] Kreis Südtondern
 NIC	network information centre
 NIC	network interface card
@@ -4597,6 +4601,7 @@ SK	[Kfz] Sarawak (veraltet)
 SK	[Kfz] Slowakei
 SL	Saarland
 SL	[ccTLD] Sierra Leone
+SL	[gc] signed log
 SL	[Kfz:D] Kreis Schleswig-Flensburg
 SL	[Kfz] Syrien und Libanon (veraltet)
 SLA	Service Level Agreement
@@ -5105,6 +5110,7 @@ TOS	terms of service
 TOS	the (atari) operating system
 TOS	trusted operating system
 TOS	type of service
+TOTT	tools of the trade
 TP	toilet paper
 TP	transaction processing
 TP	[ccTLD] Osttimor (heute .tl)
@@ -5669,6 +5675,7 @@ YAIM	Yet Another Installation Method
 YALIMO	you are lame, in my opinion
 YANKEE	Y (International Radiotelephony Spelling Alphabet)
 YAOTM	yet another off-topic message
+YAPIDKA	[gc] yet another park I didn’t know about
 YAR	[Kfz] Nordjemen (veraltet)
 YAST	Yet another Setup Tool
 YAWPFAPR	you are welcome; please file a problem report
