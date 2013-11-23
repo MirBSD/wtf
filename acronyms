@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.320 2013/11/21 20:17:20 tg Exp $
+$MirOS: wtf/acronyms,v 1.321 2013/11/23 21:28:11 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.221 2013/09/28 17:58:53 dholland Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -2307,6 +2307,9 @@ IMBO	in my biased opinion
 IMC	integrated memory controller
 IMCO	in my considered opinion
 IMCR	interrupt mode configuration register
+IME	in my experience
+IME	input method editor
+IME	meiner Erfahrung nach
 IMHO	in my humble opinion
 IMNSHO	in my not so humble opinion
 IMO	in my opinion
