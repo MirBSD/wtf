@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.321 2013/11/23 21:28:11 tg Exp $
+$MirOS: wtf/acronyms,v 1.322 2013/11/30 00:42:42 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.221 2013/09/28 17:58:53 dholland Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -1839,6 +1839,8 @@ GFY	good for you
 GG	good game
 GG	[ccTLD] Guernsey
 GG	[Kfz:D] Landkreis Groß-Gerau
+GGF	(see GGFS)
+GGFS	ggfs. – gegebenenfalls
 GGS	Gehörschutzgleichrichter
 GGT	ganz großes Tennis
 GGT	größter gemeinsamer Teiler (GCD)
@@ -5176,6 +5178,7 @@ TTM	to the moderator
 TTM	translation table maps
 TTM194	TTM with a series bug (changing brightness of its own)
 TTM195	TTM without the TTM194 bug
+TTR	to the rescue
 TTT	thought that too
 TTY	teletype [terminal]
 TTYL	talk to you later
