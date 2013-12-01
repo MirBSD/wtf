@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.322 2013/11/30 00:42:42 tg Exp $
+$MirOS: wtf/acronyms,v 1.323 2013/12/01 01:26:52 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.221 2013/09/28 17:58:53 dholland Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -4042,6 +4042,7 @@ PY	[ccTLD] Paraguay
 PY	[Kfz] Paraguay
 PZ	[Kfz:D] Landkreis Prenzlau
 Q	[Kfz] Katar
+Q'N'D	quick and dirty
 Q1	[Schule DE] Qualifikationsphase 1 (11. Klasse Gymnasium nach G8)
 Q2	[Schule DE] Qualifikationsphase 2 (12. Klasse Gymnasium nach G8)
 Q2140	ITU-T Recommendation Q.2140 (B-ISDN ATM adaptation layer)
@@ -4056,6 +4057,7 @@ QED	quod erat demonstrandum
 QFT	quoted for truth
 QFT	[Kfz:D] Landkreis Querfurt
 QLB	[Kfz:D] Landkreis Quedlinburg
+QND	quick and dirty
 QOS	quality of service
 QOTD	quote of the day
 QR	Quick Reaction
