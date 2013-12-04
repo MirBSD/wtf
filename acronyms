@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.323 2013/12/01 01:26:52 tg Exp $
+$MirOS: wtf/acronyms,v 1.324 2013/12/04 19:04:14 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.221 2013/09/28 17:58:53 dholland Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -1161,6 +1161,7 @@ DPI	dots per inch
 DPKG	Debian Package Manager
 DPL	Debian Project Leader
 DPL	descriptor privilege level
+DPN	Debian Project News
 DPS	Display PostScript
 DPST	display power savings technology
 DRAM	dynamic random access memory
@@ -5470,6 +5471,7 @@ WAV	Waveform (RIFF)
 WB	welcome back
 WB	[Kfz:D] Landkreis Wittenberg
 WB	[Kfz] Westjordanland (nicht offiziell)
+WBC	Westboro Baptist Church
 WBF	[SC] Weltraumbaufahrzeug
 WBS	[Kfz:D] Landkreis Worbis
 WCDMA	see W-CDMA
