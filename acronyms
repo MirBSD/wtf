@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.324 2013/12/04 19:04:14 tg Exp $
+$MirOS: wtf/acronyms,v 1.325 2013/12/07 22:13:15 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.221 2013/09/28 17:58:53 dholland Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -3085,6 +3085,8 @@ MO	Mo (PSE#42) Molybdenum, Molybdän | Übergangsmetalle | transition metals | m
 MO	modus operandi
 MO	[ccTLD] Macao
 MO	[Kfz:D] Kreis Moers
+MOB	(Mafia)
+MOB	manipulative old bastard
 MOBI	[sTLD] mobile (Dienste, die die Nutzung durch mobile Endgeräte explizit unterstützen)
 MOC	[Kfz] Mosambik
 MOD	[Kfz:D] Landkreis Marktoberdorf
@@ -3098,6 +3100,7 @@ MOM	(please hold/wait a) moment
 MOM	Moment, bitte!
 MOM	mother (USA English)
 MON	[Kfz:D] Kreis Monschau
+MOP	manipulative old prick
 MOS	[Kfz:D] Landkreis Mosbach
 MOS	[Kfz:D] Neckar-Odenwald-Kreis
 MOSFET	metal-oxide-semiconductor field-effect transistor
