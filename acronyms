@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.325 2013/12/07 22:13:15 tg Exp $
+$MirOS: wtf/acronyms,v 1.326 2013/12/14 00:42:37 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.221 2013/09/28 17:58:53 dholland Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -2504,6 +2504,7 @@ JULIET	J (International Radiotelephony Spelling Alphabet)
 JULIETT	J (International Radiotelephony Spelling Alphabet)
 JULIUS	J (deutsches Funkalphabet)
 JW	just wondering
+JWD	ganz weit draußen (Pampa, Walachei)
 JÜL	[Kfz:D] Kreis Jülich
 K	K (PSE#19) Kalium, Potassium | Alkalimetalle | alkali metals | metalla alcalica
 K	[Kfz:D] Kreis Köln
@@ -5794,7 +5795,7 @@ ZZ	[Kfz:D] Landkreis Zeitz
 تونس	[ccTLD] tūnis, Tunesien
 سوريا	[ccTLD] sūriyā, Syrien
 سورية	[ccTLD] Syrien
-شبكة	[sTLD] arabisches: Netz
+شبكة	[sTLD] arabisch: Netz
 عمان	[ccTLD] Oman
 فلسطين	[ccTLD] filasṭīn, Palästina
 قطر	[ccTLD] Katar
