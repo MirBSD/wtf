@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.326 2013/12/14 00:42:37 tg Exp $
+$MirOS: wtf/acronyms,v 1.327 2013/12/19 15:47:56 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.221 2013/09/28 17:58:53 dholland Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -302,6 +302,8 @@ ATAN	Arkustangēns
 ATAPI	advanced technology attachment packet interface
 ATC	address translation cache
 ATEOTD	at the end of the day
+ATF	Automated Testing Framework
+ATF	Bureau of Alcohol, Tobacco, Firearms and Explosives (DoJ)
 ATM	asynchronous transfer mode
 ATM	at the moment
 ATM	automated teller machine
@@ -1142,8 +1144,10 @@ DO	[ccTLD] Dominikanische Republik
 DO	[Kfz:D] kreisfreie Stadt Dortmund
 DOA	dead on arrival
 DOCH	German for "yes" answering "you don't ..., do you?"
+DOD	[USA] Department of Defence
 DOE	distributed object environment
 DOF	data over fibre
+DOJ	[USA] Department of Justice
 DOM	document object model
 DOM	[Kfz] Dominikanische Republik
 DON	[Kfz:D] Landkreis Donau-Ries
@@ -4650,6 +4654,7 @@ SM	[Kfz] Siam (veraltet)
 SMA	smart memory access
 SMAF	system management action field
 SMART	self-monitoring analysis and reporting technology
+SMART	specific, measurable, attainable, relevant and time-bound
 SMB	Server Message Block
 SMBFS	Server Message Block File System (see CIFS)
 SMBIOS	System Management BIOS
@@ -5407,6 +5412,7 @@ VMX	vector multimedia extensions
 VMX	virtual machine extensions
 VN	[ccTLD] Vietnam
 VN	[Kfz] Vietnam
+VND	vendor
 VNL	voornamelijk
 VO	Virtual Organisation
 VOD	video on demand
