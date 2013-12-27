@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.328 2013/12/26 20:40:04 tg Exp $
+$MirOS: wtf/acronyms,v 1.329 2013/12/27 22:54:14 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.221 2013/09/28 17:58:53 dholland Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -479,6 +479,7 @@ BIAF	back in a few
 BIALW	back in a little while
 BIAS	back in a second
 BIAW	back in a while
+BIC	Bank Identifier Code
 BICC	Bearer Independent Call Control protoco
 BID	[Kfz:D] Landkreis Biedenkopf
 BIH	[Kfz] Bosnien und Herzegowina
@@ -1289,6 +1290,7 @@ EC	[ccTLD] Ecuador
 EC	[Kfz] Ecuador
 ECA	[gc] Erweiterte Cacheausrüstung
 ECANCELED	(#86) Operation canceled
+ECBS	European Committee for Banking Standards
 ECC	error correction code
 ECCM	electronic counter-countermeasures (e.g. something against jamming)
 ECDH	elliptic-curve Diffie-Hellman
@@ -2209,6 +2211,7 @@ IAW	in another window
 IAWTC	I agree with this comment
 IAY	I adore you
 IB	I'm back
+IBAN	International Bank Account Number
 IBC	iterated block cipher
 IBID	ibidem (in the same place)
 IBM	Ich bin Müll
@@ -4506,6 +4509,7 @@ SEGV	segmentation violation
 SEL	[Kfz:D] kreisfreie Stadt Selb
 SEO	search engine optimisation
 SEP	someone else's problem
+SEPA	Single Euro Payments Area
 SERP	search engine results page
 SETTESEVEN	7 (International Radiotelephony Spelling Alphabet)
 SF	Sourcefrog
@@ -4896,6 +4900,7 @@ SWB	stehen, warten, beten
 SWB	Stillstand wegen Bombe
 SWF	Shockwave Flash
 SWFG	search with fucking Google
+SWIFT	Society for Worldwide Interbank Financial Telecommunication
 SWIG	simplified wrapper [and] interface generator
 SWMBO	she who must be obeyed
 SX	[ccTLD] Sint Maarten und Bonaire
