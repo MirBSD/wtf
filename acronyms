@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.331 2014/01/11 19:38:51 tg Exp $
+$MirOS: wtf/acronyms,v 1.332 2014/01/13 00:09:43 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.221 2013/09/28 17:58:53 dholland Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -1684,6 +1684,7 @@ FORD	für Ossis reicht det
 FOS	full of shit
 FOSDEM	Free and open source software developers’ European meeting
 FOSS	free / open source software
+FOTF	(FoTF) see: 4TF
 FOTW	fun of the week
 FOXTROT	F (International Radiotelephony Spelling Alphabet)
 FPGA	field programmable gate array
@@ -1754,6 +1755,7 @@ FTW	for the win
 FTW	forever two wheels
 FTW	fuck that works
 FTW	fuck the world
+FTWA	[gc] first to log Will Attend
 FU	fuck you
 FUBAR	fucked up beyond all recognition
 FUD	fear, uncertainty and doubt
