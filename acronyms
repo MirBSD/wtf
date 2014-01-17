@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.333 2014/01/15 18:32:47 tg Exp $
+$MirOS: wtf/acronyms,v 1.334 2014/01/17 18:03:46 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.221 2013/09/28 17:58:53 dholland Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -43,6 +43,7 @@ A	[Kfz] Österreich
 A-C	apt-cache
 A-G	apt-get
 A/N	author's note
+A/S/L	age, sex, location?
 AA	anti-aliasing
 AA	Attribute Authority
 AA	[Kfz:D] Landkreis Aalen
@@ -276,6 +277,8 @@ ASIA	[sTLD] asia (ICANN-Region Asien/Australien/Pazifik)
 ASIC	application-specific integrated circuit
 ASIN	Arkussinus
 ASK	amplitude shif keying
+ASL	age, sex, location?
+ASL	American Sign Language
 ASL	[Kfz:D] Landkreis Aschersleben-Staßfurt
 ASLR	address space layout randomisation
 ASM	Anti-Structures Missile
@@ -446,6 +449,7 @@ BF	bugfix
 BF	[ccTLD] Burkina Faso
 BF	[Kfz:D] Kreis Steinfurt
 BF	[Kfz] Burkina Faso
+BFBS	British Forces Broadcasting Service
 BFD	big fucking deal
 BFD	binary file descriptor
 BFD	binary format descriptor
@@ -612,6 +616,7 @@ BSDCG	BSD Certification Group
 BSF	bit scan forward
 BSG	Bundessozialgericht
 BSK	[Kfz:D] Landkreis Beeskow
+BSL	British Sign Language
 BSOD	blue screen of death
 BSP	binary space partition
 BSP	board support package
@@ -859,10 +864,12 @@ CO	[Kfz:D] kreisfreie Stadt und Landkreis Coburg
 CO	[Kfz] Kolumbien
 COB	close of business [day]
 COC	[Kfz:D] Landkreis Cochem-Zell
+COD	complement d'objet direct
 COE	[Kfz:D] Kreis Coesfeld
 COF	current operating frequency
 COFDM	coded orthogonal frequency division multiplexing
 COFF	common object file format
+COI	complement d'objet indirect
 COLP	Connected Line Identification Presentation (feature on caller side to see which phone number was actually connected)
 COLR	Connected Line Identification Restriction (feature on callee side to prevent caller to see the actually connected phone number)
 COM	component object model
@@ -1283,6 +1290,7 @@ EBCDIC	Every Bull Can Ditch Insane Cows
 EBCDIC	Extended Binary Coded Decimal Interchange Code (cf. BCD)
 EBE	[Kfz:D] Landkreis Ebersberg
 EBN	[Kfz:D] Landkreis Ebern
+EBNF	erweiterte BNF
 EBR	extended boot record
 EBS	[Kfz:D] Landkreis Ebermannstadt
 EBUSY	(#16) Device busy
@@ -1315,6 +1323,7 @@ ECR	electronic cash register
 ECS	enhanced chip set
 ECS	extended configuration space
 ECSD	HSCSD over EDGE
+ECTS	European Credit Transfer System
 ED	edition
 ED	editor
 ED	[Kfz:D] Landkreis Erding
@@ -1526,6 +1535,7 @@ ETA	edited to add
 ETA	estimated time of arrival (usually infinite)
 ETB	U+0017 ␗ END OF TRANSMISSION BLOCK
 ETC	et cetera (and the rest, and so on)
+ETCS	European Train Control System
 ETH	[Kfz] Äthiopien
 ETIME	(#99) STREAM ioctl timeout
 ETIMEDOUT	(#60) Operation timed out
@@ -2791,8 +2801,10 @@ LP	long playing (record)
 LP	[gc] Leitplanke
 LP	[gc] Lost Place
 LP	[Kfz:D] Kreis Lippstadt
+LPC	langage parlé completé
 LPC	low pin count
 LPC	[gc] Lost Place Cache
+LPG	liquefied petroleum gas
 LPI	Linux Professional Institute
 LPIC	Linux Professional Institute Certification
 LPS	local positioning system
@@ -2811,6 +2823,9 @@ LSA	[Kfz:D] Sachsen-Anhalt, Landesregierung und Landtag
 LSB	least significant bit (rightmost, bit#0)
 LSB	least significant byte
 LSB	linux standards base
+LSF	langue des signes française
+LSF	Lehre, Studium und Forschung
+LSF	Lichtschutzfaktor
 LSI	large scale integration
 LSL	load segment limit
 LSN	Large Scale NAT
@@ -4391,6 +4406,7 @@ SAL	[Kfz:D] Saarland, Landesregierung und Landtag
 SAM	serial access memory
 SAM	sum addressed memory
 SAML	Security Assertion Markup Language
+SAMU	service d'aide medicale urgente
 SAMUEL	S (deutsches Funkalphabet)
 SAN	storage area network
 SAN	[Kfz:D] Landkreis Stadtsteinach
@@ -5210,6 +5226,8 @@ TTM	translation table maps
 TTM194	TTM with a series bug (changing brightness of its own)
 TTM195	TTM without the TTM194 bug
 TTR	to the rescue
+TTS	Text to Speech
+TTS	Trouble Ticket System
 TTT	thought that too
 TTY	teletype [terminal]
 TTYL	talk to you later
@@ -5715,6 +5733,7 @@ YAGNI	you ain't gonna need it
 YAHOO	Yet Another Hierarchically Officious Oracle
 YAIM	Yet Another Installation Method
 YALIMO	you are lame, in my opinion
+YAML	YAML Ain't Markup Language
 YANKEE	Y (International Radiotelephony Spelling Alphabet)
 YAOTM	yet another off-topic message
 YAPIDKA	[gc] yet another park I didn’t know about
@@ -5735,6 +5754,7 @@ YHL	you have lost
 YKWIM	you know what I mean
 YM	yo momma
 YMA	yo momma's arse
+YML	Why a Markup Language?!
 YMMD	you made my day!
 YMMV	your mileage may vary
 YMN	[Kfz] Nordjemen (veraltet)
