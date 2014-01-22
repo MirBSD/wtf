@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.334 2014/01/17 18:03:46 tg Exp $
+$MirOS: wtf/acronyms,v 1.335 2014/01/22 20:10:18 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.221 2013/09/28 17:58:53 dholland Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -1852,6 +1852,7 @@ GEO	[Kfz:D] Landkreis Gerolzhofen
 GEO	[Kfz] Georgien (veraltet)
 GER	[Kfz:D] Landkreis Germersheim
 GEZ	Gebühreneinzugszentrale (worse than Scientology)
+GF	Geschäftsführung
 GF	girlfriend
 GF	[ccTLD] Französisch-Guayana
 GF	[Kfz:D] Landkreis Gifhorn
@@ -3148,6 +3149,7 @@ MP	[ccTLD] Nördliche Marianen
 MPEG	moving picture experts group
 MPI	message passing interface
 MPL	Mozilla Public License
+MPLC	[gc] Merci pour le cache (TFTC in French)
 MPLS	Multiprotocol Label Switching
 MPP	massively parallel processor
 MPS	memory pool system
@@ -5431,6 +5433,7 @@ VIKTOR	V (deutsches Funkalphabet)
 VIM	it’s e̲d̲itor, *not* v̲i̲itor! (and vim’s worse.) don’t use it!
 VIP	very important person
 VIPT	virtually indexed, physically tagged
+VISDP	V.i.S.d.P.: Verantwortlich im Sinne des Pressegesetzes
 VIT	[Kfz:D] Landkreis Viechtach
 VIVT	virtually indexed, virtually tagged
 VK	[Kfz:D] Stadt Völklingen im Regionalverband Saarbrücken
