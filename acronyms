@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.335 2014/01/22 20:10:18 tg Exp $
+$MirOS: wtf/acronyms,v 1.336 2014/01/26 20:39:40 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.221 2013/09/28 17:58:53 dholland Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -4073,6 +4073,7 @@ PUT	[Schule DE] Pflichtunterricht in Teilklassen
 PV	physical volume
 PVG	physical volume group
 PVI	protected-mode virtual interrupt
+PVT	private
 PW	[ccTLD] Palau
 PW	[Kfz:D] Landkreis Pasewalk
 PWM	pulse width modulation
