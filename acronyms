@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.337 2014/01/31 00:01:29 tg Exp $
+$MirOS: wtf/acronyms,v 1.338 2014/02/01 16:48:32 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.221 2013/09/28 17:58:53 dholland Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -1076,6 +1076,7 @@ DEL	[Kfz:D] kreisfreie Stadt Delmenhorst
 DELTA	D (International Radiotelephony Spelling Alphabet)
 DEP	data execution prevention
 DER	distinguished encoding rules
+DERP	Debian Emergency Response Person
 DES	Data Encryption Standard
 DEV	Diodenerdwahlverfahren
 DF	don't fragment
