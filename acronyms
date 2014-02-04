@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.338 2014/02/01 16:48:32 tg Exp $
+$MirOS: wtf/acronyms,v 1.339 2014/02/04 22:11:56 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.221 2013/09/28 17:58:53 dholland Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -2154,6 +2154,7 @@ HP:PS	Harry Potter and the Philosopher's Stone
 HP:SS	(see HP:PS)
 HPC	high performance computing
 HPET	high precision event timer
+HPG	Hilfeplangespräch
 HQ	Headquarters
 HQ	high quality
 HR	Hessischer Rundfunk
@@ -2589,6 +2590,7 @@ KISS	keep it small and simple
 KISS	keep it strictly simple
 KISS	keep it sweet and simple
 KITA	kick in the arse
+KJP	Kinder- und Jugendpsychatrie
 KK	okay, okay
 KK	[Kfz:D] Kreis Kempen-Krefeld
 KL	[Kfz:D] kreisfreie Stadt und Landkreis Kaiserslautern
@@ -3029,6 +3031,8 @@ MES	[Kfz:D] Hochsauerlandkreis
 MES	[Kfz:D] Kreis Meschede
 MESI	modified, exclusive, shared, invalid
 MET	[Kfz:D] Landkreis Mellrichstadt
+MEW	miau
+MEW	mit eigenen Worten
 MEX	[Kfz] Mexiko
 MFC	Men from Cathay
 MFC	merge from -current
@@ -3144,6 +3148,7 @@ MOTAS	member of the appropriate sex
 MOTOS	member of the opposite sex
 MOTSS	member of the same sex
 MOTU	masters of the universe (Developer of the Debian derivate from Canonical that cannot be named)
+MOW	mehr oder weniger
 MP	multi-platform
 MP	multiplayer
 MP	multiprocessing
