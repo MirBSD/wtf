@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.340 2014/02/10 21:11:48 tg Exp $
+$MirOS: wtf/acronyms,v 1.341 2014/02/12 21:14:11 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.221 2013/09/28 17:58:53 dholland Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -62,6 +62,7 @@ ABG	[Kfz:D] Landkreis Altenburger Land
 ABI	application binary interface
 ABI	[Kfz:D] Landkreis Anhalt-Bitterfeld
 ABM	Arbeitsbeschaffungsmaßnahme
+ABMR	[Oracle] Auto BMR Background Process
 ABO	abonnement
 ABR	available bit rate
 AC	Ac (PSE#89) Actinium | Übergangsmetalle | transition metals | metalla transitionis
@@ -71,6 +72,7 @@ AC	Attribute Certificate
 AC	audible chuckle
 AC	[ccTLD] Ascension
 AC	[Kfz:D] Städteregion Aachen
+ACFS	[Oracle] ASM Cluster File System CSS Process
 ACI	adjacent channel interferer
 ACID	atomicity, consistency, isolation, durability
 ACK	achja, cönnt klappen
@@ -82,6 +84,7 @@ ACL	active current loop
 ACM	Association for Computing Machinery
 ACM	Attribute Certificate Manager
 ACME	A Company Making Everything
+ACMS	[Oracle] Atomic Control File to Memory Service Process
 ACOS	Arkuskosinus
 ACP	Atari Coldfire Project – http://acp.atari.org/
 ACP	auxillary control process
@@ -224,6 +227,7 @@ AOTC	[SW] Episode II: Attack of the Clones
 AP	access point
 AP	application processor
 AP	[Kfz:D] Landkreis Weimarer Land
+AP00	[Oracle] Database Apply Process Coordinator Process
 APC	U+009F APPLICATION PROGRAM COMMAND
 APD	[Kfz:D] Landkreis Apolda
 API	application programming interface
@@ -236,12 +240,16 @@ APOGOST	[Schule DE] Allgemeine Prüfungsordnung der Gymnasialen Oberstufe
 APT	Advanced Packaging Tool
 AQ	[ccTLD] Antarktis (hier definiert als alles südlich von 60° S)
 AQM	active queue management
+AQPC	[Oracle] AQ Process Coordinator
 AR	Ar (PSE#18) Argon | Edelgase | noble gases | gasia nobilia
 AR	ar(1) archive – *.a
 AR	[ccTLD] Argentinien
 AR	[Kfz:D] Kreis Arnsberg
 ARAT	always running APIC timer
+ARB0	[Oracle] ASM Rebalance Process
 ARC	adaptive replacement cache
+ARC	archive
+ARC0	[Oracle] Archiver Process
 ARCCOS	Arkuskosinus
 ARCSIN	Arkussinus
 ARCTAN	Arkustangēns
@@ -258,6 +266,7 @@ ARPA	Advanced Research Projects Agency
 ARPA	[uTLD] arpanet (Infrastrukturdomain)
 ARQ	automatic repeat request
 ARR	address range register
+ARS0	[Oracle] ASM Recovery Slave Process
 ART	[Kfz:D] Landkreis Artern
 ARU	audio response unit
 ARU	[Kfz] Aruba (nicht offiziell)
@@ -265,6 +274,7 @@ AS	As (PSE#33) Arsenicum, Arsen | Stickstoff/Phosphor-Gruppe | pnictogens
 AS	autonomous system
 AS	[ccTLD] Amerikanisch-Samoa
 AS	[Kfz:D] Landkreis Amberg-Sulzbach
+AS00	[Oracle] Database Apply Reader or Apply Server
 ASAIC	as soon as I can
 ASAP	as soon as possible
 ASC	advanced smart cache
@@ -282,6 +292,8 @@ ASL	American Sign Language
 ASL	[Kfz:D] Landkreis Aschersleben-Staßfurt
 ASLR	address space layout randomisation
 ASM	Anti-Structures Missile
+ASM	[Oracle] automatic storage management
+ASMB	[Oracle] ASM Background Process
 ASN	autonomous system number
 ASPM	active state power management
 ASQ	automated software quality
@@ -361,6 +373,7 @@ B/S	bullshit
 B/W	bandwidth
 B/W	between
 B/W	black and white
+B000	[Oracle] ASM Blocking Slave Process for GMON
 B4	before
 BA	Ba (PSE#56) Barium | Erdalkalimetalle | alkaline earth metals | metalla alcalica terrena
 BA	Baccalaureus Artium
@@ -510,6 +523,7 @@ BK	Bk (PSE#97) Berkelium | Uran-Metalle (Aktiniden) | actinides | actinida
 BK	[Kfz:D] Landkreis Backnang
 BK	[Kfz:D] Landkreis Börde
 BKDG	BIOS and kernel developer's guide
+BKF	[Oracle] backup file
 BKS	[Kfz:D] Landkreis Bernkastel
 BL	[Kfz:D] Landkreis Balingen
 BL	[Kfz:D] Zollernalbkreis
@@ -530,6 +544,7 @@ BMC	baseboard management controller
 BMI	body mass index
 BMIC	bus master interface controller
 BMP	bitmap
+BMR0	[Oracle] Automatic Block Media Recovery Slave Pool Process
 BMZ	Brandmeldezentrale
 BN	boundary neutral
 BN	[ccTLD] Brunei
@@ -669,6 +684,7 @@ BW	black and white
 BW	[ccTLD] Botswana
 BW	[Kfz:D] Dienstfahrzeuge der Bundes-Wasser- und -schifffahrtsverwaltung
 BW	[Kfz] Botswana (nicht offiziell)
+BW00	[Oracle] Database Writer Process
 BWC	because we can
 BWL	Betriebswirtschaftslehre
 BWL	Bitte was Leichtes!
@@ -819,7 +835,9 @@ CISC	complex instruction set computing/computer
 CITO	[gc] cache in, trash out
 CJK	Chinese, Japanese and Korean
 CJKV	Chinese, Japanese, Korean and Vietnamese
+CJQ0	[Oracle] Job Queue Coordinator Process
 CK	[ccTLD] Cookinseln
+CKPT	[Oracle] Checkpoint Process
 CL	Cl (PSE#17) Chlorum, Chlor, Chlorine | Halogene | halogens | halogenia
 CL	[ccTLD] Chile
 CL	[Kfz] Sri Lanka
@@ -887,6 +905,7 @@ COW	copy-on-write
 CP	ceteris paribus
 CP	continuous pilot
 CP	corporal punishment
+CP00	[Oracle] Database Capture Process
 CPB	core performance boost
 CPC	cost per click
 CPE	common phase error
@@ -921,6 +940,7 @@ CS	[ccTLD] Tschechoslowakei (heute .cz und .sk; später für Serbien und Montene
 CS	[Kfz] Slowakei (veraltet)
 CS	[Kfz] Tschechien (veraltet)
 CS	[Kfz] Tschechoslowakei (veraltet)
+CS00	[Oracle] I/O Calibration Process
 CSD	Circuit Switched Data
 CSF	Cerebro-Spinal Fluid
 CSH	C Shell
@@ -941,10 +961,12 @@ CSS	cascading style sheets
 CSS	Content Scrambling System
 CSV	comma-separated values
 CTF	capture the flag
+CTL	control
 CTM	close to metal
 CTN	can't talk now
 CTO	Chief Technology Officer
 CTS	clear to send
+CTWR	[Oracle] Change Tracking Writer Process
 CU	Cu ♀ (PSE#29) Cuprum, Kupfer, Copper | Übergangsmetalle | transition metals | metalla transitionis
 CU	see you
 CU	[ccTLD] Kuba
@@ -968,6 +990,7 @@ CW	[gc] CacheWolf
 CW	[Kfz:D] Landkreis Calw
 CX	counter register
 CX	[ccTLD] Weihnachtsinsel
+CX00	[Oracle] Streams Propagation Sender Process
 CY	[ccTLD] Zypern
 CY	[Kfz] Zypern
 CYA	see you around
@@ -984,6 +1007,7 @@ D&R	duck and run
 D/B/A	doing business as
 D/L	download
 D/W	don't worry
+D000	[Oracle] Dispatcher Process
 DA	destination address
 DA	[Kfz:D] kreisfreie Stadt Darmstadt und Landkreis Darmstadt-Dieburg
 DA	[Kfz] Freie Stadt Danzig (veraltet)
@@ -1021,10 +1045,13 @@ DBC	design by contract
 DBCS	double-byte character set
 DBDDHKP	doof bleibt doof, da helfen keine Pillen
 DBEYR	don't believe everything you read
+DBF	database file (dBase, Oracle)
 DBL	dynamic buffer limiting
 DBMS	database management system
 DBR	[Kfz:D] Altkreis Bad Doberan im Landkreis Rostock
+DBRM	[Oracle] Database Resource Manager Process
 DBS	database server
+DBW0	[Oracle] Database Writer Process
 DC	data centre
 DC	device control
 DC	direct current
@@ -1038,6 +1065,7 @@ DCC	Direct Client-to-Client
 DCD	data carrier detect
 DCE	data control equipment
 DCE	distributed computing environment
+DCL	data control language
 DCOM	distributed component object model
 DCOP	Desktop COmmunication Protocol
 DCS	data collection systems
@@ -1051,7 +1079,7 @@ DDC	display data channel
 DDE	dynamic data exchange
 DDG	duck duck go (search engine)
 DDK	device driver kit
-DDL	data description language
+DDL	data (structure) definition language
 DDP	Debian Documentation Project
 DDPO	Debian developer's package overview -- http://qa.debian.org/developer.php
 DDR	Debian Developer's Reference
@@ -1104,7 +1132,9 @@ DHL	Dauert halt länger
 DHS	Department of Homeland Security (USA)
 DI	destination index
 DI	[Kfz:D] Landkreis Dieburg
+DIA0	[Oracle] Diagnostic Process
 DIAFYO	did I ask for your opinion?
+DIAG	[Oracle] Diagnostic Capture Process
 DIB	device-independent bitmap
 DIFS	distributed inter-frame space
 DIL	[Kfz:D] Dillkreis
@@ -1136,6 +1166,7 @@ DM	dungeon master
 DM	[ccTLD] Dominica
 DM	[Kfz:D] Landkreis Demmin
 DM	[Kfz:D] Teile des Landkreises Demmin im Landkreis Mecklenburgische Seenplatte
+DM00	[Oracle] Data Pump Master Process
 DMA	direct memory access
 DMCA	(USA) digital milennium copyright act
 DMCA	don't make content accessible
@@ -1143,6 +1174,8 @@ DMDIF	Dann machst Du irgendwas falsch™
 DMFS	[dental] decayed/missing/filled surfaces (lowercase for first dentition)
 DMFT	[dental] decayed/missing/filled teeth (lowercase for first dentition)
 DMI	desktop management interface
+DML	data manipulation language
+DMON	[Oracle] Data Guard Broker Monitor Process
 DMS	document management system
 DMT	discrete multitone modulation
 DMUP	Debian Machine Usage Policy
@@ -1203,6 +1236,7 @@ DSA	Digital Signature Algorithm
 DSB	Danske Statsbaner
 DSB	double-sideband modulation
 DSDT	differentiated system descriptor table
+DSKM	[Oracle] Slave Diskmon Process
 DSL	digital subscriber line
 DSL	domain specific language
 DSLAC	DSL Access Concentrator
@@ -1243,6 +1277,7 @@ DVI	Digital Visual Interface
 DVR	digital video recorder
 DW	[Kfz:D] Landkreis Dippoldiswalde
 DW	[Kfz:D] Weißeritzkreis
+DW00	[Oracle] Data Pump Worker Process
 DWDM	Dense Wavelength Division Multiplexing
 DWH	data warehouse
 DWIM	do what I mean
@@ -1267,6 +1302,7 @@ E	[Kfz:D] kreisfreie Stadt Essen
 E	[Kfz] Spanien
 E-XER	extended XML encoding rules
 E.G.	exempli gratia (for example)
+E000	[Oracle] EMON Slave Process
 E2BIG	(#7) Argument list too long
 EA	[Kfz:D] kreisfreie Stadt Eisenach
 EA	[Kfz] Britisch-Ostafrika (veraltet)
@@ -1416,6 +1452,8 @@ EMFILE	(#24) Too many open files
 EMI	electro-magnetic interference
 EMIL	E (deutsches Funkalphabet)
 EMLINK	(#31) Too many links
+EMNC	[Oracle] EMON Coordinator Process
+EMON	[Oracle] event monitor
 EMP	electro-magnetic pulse
 EMR	electro-magnetic radiation
 EMS	Expanded Memory Specification (LIM EMS)
@@ -1583,6 +1621,7 @@ FAQ	frequently asked question
 FAT	file allocation table
 FB	[Kfz:D] Landkreis Friedberg in Hessen
 FB	[Kfz:D] Wetteraukreis
+FBDA	[Oracle] Flashback Data Archiver Process
 FBI	Federal Bureau of Investigation (USA)
 FBOW	for better or worse
 FBRAM	frame buffer random access memory
@@ -1613,6 +1652,7 @@ FEA	finite element analysis
 FEAR	false evidence appearing real
 FEC	forward error correction
 FEFE	Felix von Leitner -- http://www.fefe.de/
+FENC	[Oracle] IOServer Fence Monitor Process
 FET	field-effect transistor
 FEU	[Kfz:D] Landkreis Feuchtwangen
 FF	Form Feed (U+000C)
@@ -1675,6 +1715,7 @@ FM	[ccTLD] Mikronesien
 FM	[Kfz] Malaysia (veraltet)
 FMA	[manga] Fullmetal Alchemise, Hagane no Renkinjutsushi, 鋼の錬金術師
 FML	fuck my life
+FMON	[Oracle] File Mapping Monitor Process
 FMR	false match rate
 FMT	Facility Management Technology
 FN	[Kfz:D] Bodenseekreis
@@ -1736,6 +1777,7 @@ FSCK	file system check
 FSCK	fuck
 FSDO	for some definition of
 FSF	Free Software Foundation -- http://www.fsf.org/ http://www.fsf-europe.org/
+FSFP	[Oracle] Data Guard Broker Fast Start Failover Pinger Process
 FSK	Freiwillige Selbstkontrolle
 FSK	frequency shift keying
 FSM	(see http://en.wikipedia.org/wiki/Flying_Spaghetti_Monster)
@@ -1833,6 +1875,7 @@ GCC	Group Call Control
 GCD	greatest common divisor (GGT)
 GCHQ	Government Communications Headquarters (British NSA equivalent)
 GCR	group-coded recording
+GCR0	[Oracle] Global Conflict Resolution Slave Process
 GCRTNO	[gc] Groundspeak (TC)
 GD	Gd (PSE#64) Gadolinium | Metalle der seltenen Erden (Lanthaniden) | lanthanides | lanthanida
 GD	[ccTLD] Grenada
@@ -1850,6 +1893,7 @@ GEM	graphics environment manager
 GEM	graphics execution manager
 GEM	[Kfz:D] Landkreis Gemünden am Main
 GEMA	Gesellschaft für musikalische Aufführungs- und mechanische Vervielfältigungsrechte
+GEN0	[Oracle] General Task Execution Process
 GENA	general event notification architecture
 GEO	[Kfz:D] Landkreis Gerolzhofen
 GEO	[Kfz] Georgien (veraltet)
@@ -1920,6 +1964,7 @@ GMBH	Gesellschaft mit beschränkter Haftung (german/austrian/swiss)
 GMCH	graphics and memory controller hub
 GMM	GPRS Mobility Management
 GMN	[Kfz:D] Landkreis Grimmen
+GMON	[Oracle] ASM Disk Group Monitor Process
 GMTA	great minds think alike
 GN	[ccTLD] Guinea
 GN	[Kfz:D] Landkreis Gelnhausen
@@ -1995,6 +2040,7 @@ GTLD	generic top-level domain
 GTP	GPRS Tunneling Protocol
 GTSY	glad to see you
 GTSY	good to see you
+GTX0	[Oracle] Global Transaction Process
 GU	Gabelumschalter
 GU	[ccTLD] Guam
 GUB	[Kfz:D] Landkreis Guben
@@ -2220,6 +2266,7 @@ I C	I see
 I.D.R.	in der Regel
 I.E.	id est (it is, that is)
 I/O	input / output
+I000	[Oracle] Disk and Tape I/O Slave Process
 I2O	intelligent input/output
 IA	information assurance
 IAAS	infrastructure as a service
@@ -2365,6 +2412,7 @@ ING	[altTLD] ?
 INPO	in no particular order
 INRIA	National Institute for Research in Computer Science and Control
 INSN	instruction
+INSV	[Oracle] Data Guard Broker Instance Slave Process
 INT	[sTLD] international (multinationale Organisationen)
 IO	input/output
 IO	[ccTLD] Britisches Territorium im Indischen Ozean
@@ -2378,6 +2426,7 @@ IP	intellectual property
 IP	Internet Protocol (IPv6)
 IP	Legacy IP (IPv4)
 IPC	interprocess communication
+IPC0	[Oracle] IPC Service Background Process
 IPE	integrated programming environment
 IPI	interprocessor interrupt
 IPL	IBM Public License
@@ -2472,6 +2521,7 @@ J	J (PSE#53) Jod (alt.)
 J	[Kfz:D] Landkreis Jena
 J	[Kfz] Japan
 J/K	just kidding
+J000	[Oracle] Job Queue Slave Process
 J2EE	Java™ 2 Enterprise Edition
 J4F	just for fun
 JA	[Kfz] Jamaika
@@ -2659,6 +2709,7 @@ L	[Kfz:D] kreisfreie Stadt Lahn
 L	[Kfz:D] kreisfreie Stadt Leipzig und Landkreis Leipziger Land
 L	[Kfz:D] Lahn-Dill-Kreis, Zulassungsstelle in Wetzlar, Nebenstelle in Dillenburg
 L	[Kfz] Luxemburg
+L000	[Oracle] Pooled Server Process
 L8	late
 L8ER	later
 L8R	later
@@ -2699,6 +2750,7 @@ LCA	Linux.conf.au
 LCAS	Local Centre Authorisation Service
 LCD	liquid crystal display
 LCG	LHC Computing Grid (CE)
+LCK0	[Oracle] Lock Process
 LCL	[gc] left calling card
 LCM	landing craft, mechanised
 LCM	least/lowest/smallest common multiple (KGV)
@@ -2710,6 +2762,7 @@ LD	[Kfz:D] Landkreis Landau-Bad Bergzabern
 LD	[Kfz:D] Landkreis Südliche Weinstraße
 LDA	local delivery agent
 LDAP	Lightweight Directory Access Protocol (not lightweight)
+LDD0	[Oracle] Global Enqueue Service Daemon Helper Slave
 LDK	[Kfz:D] Lahn-Dill-Kreis
 LDR	light-dependent resistor
 LDS	[Kfz:D] Landkreis Dahme-Spreewald
@@ -2737,9 +2790,11 @@ LFS	log-structured file system
 LFU	least frequently used
 LG	Landgericht
 LG	[Kfz:D] Landkreis Lüneburg
+LG00	[Oracle] Log Writer Worker
 LGPL	GNU Lesser General Public License
 LGTM	looks good to me
 LGTY	look good to you
+LGWR	[Oracle] (Redo) Log Writer Process
 LH	[Kfz:D] Kreis Lüdinghausen
 LHA	LHarc archive (traditional archive compressor)
 LHP	loop heat pipe
@@ -2783,19 +2838,24 @@ LMAA	Leck' mich am Arsch
 LMAO	laughing my arse off
 LMB	lick my balls
 LMC	let me check
+LMD0	[Oracle] Global Enqueue Service Daemon Process
 LMDDGTFY	let me duck duck go that for you
 LMFAO	laughing my fucking ass off
 LMG	Light Machine Gun
 LMGTFY	let me google that for you
+LMHB	[Oracle] Global Cache/Enqueue Service Heartbeat Monitor
 LMHO	laughing my head off
 LMK	let me know
 LMM	link management mode
 LMNO	laughing my nuts off
+LMON	[Oracle] Global Enqueue Service Monitor Process
+LMS0	[Oracle] Global Cache Service Process
 LMSO	laughing my socks off
 LMTP	Local Mail Transport Protocol
 LN	[Kfz:D] Landkreis Lübben
 LNO	loop nest optimisation
 LOC	lines of code
+LOG	log file
 LOH	[Kfz:D] Landkreis Lohr am Main
 LOL	lachend, oba laut
 LOL	laughing out loud
@@ -2819,6 +2879,7 @@ LR	[ccTLD] Liberia
 LR	[Kfz:D] Landkreis Lahr
 LR	[Kfz] Lettland (veraltet)
 LRC	longitudinal redundancy check
+LREG	[Oracle] Listener Registration Process
 LRM	left-to-right mark
 LRO	left-to-right override
 LRO	[Kfz:D] Landkreis Rostock
@@ -2838,6 +2899,9 @@ LSL	load segment limit
 LSN	Large Scale NAT
 LSN	log sequence number
 LSN	[Kfz:D] Sachsen, Landesregierung und Landtag
+LSP0	[Oracle] Logical Standby Coordinator Process
+LSP1	[Oracle] Logical Standby Dictionary Build Process
+LSP2	[Oracle] Logical Standby Set Guard Process
 LSR	label switch router
 LSZ	[Kfz:D] Landkreis Langensalza
 LT	[ccTLD] Litauen
@@ -2887,6 +2951,7 @@ LÜN	[Kfz:D] kreisfreie Stadt Lünen
 M	[Kfz:D] kreisfreie Stadt und Landkreis München
 M	[Kfz] Israel (veraltet)
 M	[Kfz] Malta
+M000	[Oracle] MMON Slave Process
 M8	mate
 MA	Magister Artium
 MA	[ccTLD] Marokko
@@ -2907,6 +2972,7 @@ MAL	[Kfz] Malaysia
 MAP	Mobile Application Part
 MAR	[Kfz:D] Landkreis Marktheidenfeld
 MARC	mailing list archives -- http://marc.theaimsgroup.com/
+MARK	[Oracle] Mark AU (ASM allocation units) for Resynchronization Coordinator Process
 MARTHA	M (deutsches Funkalphabet)
 MB	megabyte
 MB	[Kfz:D] Landkreis Miesbach
@@ -3106,9 +3172,12 @@ MLC	multi-level cell
 MLHP	micro loop heat pipe
 MM	[ccTLD] Myanmar
 MM	[Kfz:D] Landkreis Memmingen
+MMAN	[Oracle] Memory Manager Process
 MMB	message me back
 MMIC	monolithic microwave integrated circuit
 MMIO	memory mapped input/output
+MMNL	[Oracle] Manageability Monitor Lite Process
+MMON	[Oracle] Manageability Monitor Process
 MMU	memory management unit
 MMX	matrix math extension
 MMX	multimedia extension
@@ -3169,11 +3238,13 @@ MR	modem ready
 MR	[ccTLD] Mauretanien
 MR	[Kfz:D] Landkreis Marburg-Biedenkopf
 MR;DR	mentions Ruby; didn’t read
+MRP0	[Oracle] Managed Standby Recovery Process
 MRU	most recently used
 MS	Microsoft
 MS	[ccTLD] Montserrat
 MS	[Kfz:D] Kreis Münster
 MS	[Kfz] Mauritius
+MS00	[Oracle] LogMiner Worker Process
 MSA	Mail Submission Agent
 MSAS	Multi-functional Satellite Augmentation System
 MSB	most significant bit (leftmost)
@@ -3261,6 +3332,7 @@ N/C	not connected
 N/M	never mind
 N/T	no text (also: nt)
 N/T	[gc] no trade
+N000	[Oracle] Connection Broker Process
 N1	nice one
 N8	(good)neight
 N8	(gute) Nacht
@@ -3452,9 +3524,12 @@ NS	Niederländische Staatsbahn
 NSA	National Security Agency
 NSA	never say anything
 NSA	no such agency
+NSA0	[Oracle] Redo transport
 NSFW	not safe for work
 NSFW	not suitable for work
 NSL	no such library
+NSS0	[Oracle] Network Server SYNC Process
+NSV0	[Oracle] Data Guard Broker NetSlave Process
 NT	new technology
 NT	no text (also: n/t)
 NT	[gc] no trade
@@ -3493,6 +3568,7 @@ NÖ	[Kfz:D] Landkreis Nördlingen
 O	O (PSE#8) Oxygenium, Sauerstoff, Oxygen | Chalkogene | chalcogens
 O	Osten, east
 O I C	oh, I see
+O000	[Oracle] ASM Connection Pool Process
 O2W	off to work
 OA	[Kfz:D] Landkreis Oberallgäu
 OAEP	optimal asymmetric encryption padding
@@ -3512,6 +3588,7 @@ OC	[gc] opencaching.{cz,de,pl,…} (now closedcaching?)
 OC	[Kfz:D] Bördekreis
 OC	[Kfz:D] Landkreis Oschersleben
 OCAML	Objective Caml
+OCF0	[Oracle] ASM CF Connection Pool Process
 OCH	[Kfz:D] Landkreis Ochsenfurt
 OCL	object constraint language
 OCR	optical character recognition
@@ -3531,6 +3608,7 @@ OFC	original female character (OC)
 OFDM	orthogonal frequency division multiplexing
 OFET	organic field-effect transistor
 OFH	Our Favourite Headmaster (HP)
+OFSD	[Oracle] Oracle File Server Background Process
 OG	[Kfz:D] Landkreis Offenburg
 OG	[Kfz:D] Ortenaukreis
 OGF	Open Grid Forum
@@ -3591,6 +3669,7 @@ OPS	operations per second
 OPTU	Octet Pass-Through for Unicode (encoding) -- MirOS OPTU-8 and OPTU-16
 OQL	Object Query Language
 OR	[Kfz:D] Landkreis Oranienburg
+ORA	[Oracle] parameter file
 ORACLE	cf. Horracle
 ORACLE	one real a..h.le called Larry Ellison
 ORB	object request broker
@@ -3646,6 +3725,7 @@ P	P (PSE#15) Phosphorus, Phosphor | Stickstoff/Phosphor-Gruppe | pnictogens
 P	[Kfz:D] Landkreis Potsdam
 P	[Kfz] Portugal
 P&P	Philosophy and Procedures
+P000	[Oracle] Parallel Query Slave Process
 P2P	PCI to PCI
 P2P	peer to peer
 PA	Pa (PSE#91) Protactinium | Uran-Metalle (Aktiniden) | actinides | actinida
@@ -3761,6 +3841,7 @@ PFO	please fuck off
 PFS	perfect forward secrecy
 PFY	pimply faced youth
 PG	[ccTLD] Papua-Neuguinea
+PGA	[Oracle] program global area (private, 35%; 50% bei DWH)
 PGAS	partitioned global address space
 PGE	page global enable
 PGM	portable greymap
@@ -3787,6 +3868,7 @@ PIM	personal information manager
 PIM	platform-independent model
 PIN	personal identification number
 PINE	program for internet news and email
+PING	[Oracle] Interconnect Latency Measurement Process
 PIO	programmed input/output
 PIP	Policy Information Point
 PIPT	physically indexed, physically tagged
@@ -3843,6 +3925,7 @@ PMIO	port-mapped input/output
 PMMU	Paged Memory Management Unit
 PMMU	programmable MMU
 PMO	[gc] premium member only (restricted cache listing on GC.com)
+PMON	[Oracle] Process Monitor
 PMS	female monthly nightmare
 PMS	post-menstruale Störungen/Stimmungsschwankungen
 PMS	prämenstruelles Syndrom
@@ -3910,6 +3993,7 @@ PR	public relations
 PR	[ccTLD] Puerto Rico
 PR	[Kfz:D] Landkreis Prignitz
 PR	[Kfz] Persien (veraltet)
+PR00	[Oracle] Parallel Recovery Process
 PRBS	pseudo-random bit sequence
 PRI	[Kfz] Puerto Rico
 PRIMA	Privilege Management, Authorisation and Enforcement in Grid Environments
@@ -4055,6 +4139,7 @@ PSE#98	Cf (PSE#98) Californium | Uran-Metalle (Aktiniden) | actinides | actinida
 PSE#99	Es, E (PSE#99) Einsteinium | Uran-Metalle (Aktiniden) | actinides | actinida
 PSK	phase shift keying
 PSK	pre-shared key
+PSP0	[Oracle] Process Spawner Process
 PSTN	public switched telephone network
 PSU	power supply unit
 PSW	program status word (flags register)
@@ -4095,6 +4180,7 @@ PY	[Kfz] Paraguay
 PZ	[Kfz:D] Landkreis Prenzlau
 Q	[Kfz] Katar
 Q'N'D	quick and dirty
+Q000	[Oracle] AQ Server Class Process
 Q1	[Schule DE] Qualifikationsphase 1 (11. Klasse Gymnasium nach G8)
 Q2	[Schule DE] Qualifikationsphase 2 (12. Klasse Gymnasium nach G8)
 Q2140	ITU-T Recommendation Q.2140 (B-ISDN ATM adaptation layer)
@@ -4109,6 +4195,8 @@ QED	quod erat demonstrandum
 QFT	quoted for truth
 QFT	[Kfz:D] Landkreis Querfurt
 QLB	[Kfz:D] Landkreis Quedlinburg
+QM00	[Oracle] AQ Master Class Process
+QMNC	[Oracle] Non-sharded queue master process
 QND	quick and dirty
 QOS	quality of service
 QOTD	quote of the day
@@ -4121,6 +4209,7 @@ R	[Kfz] Rumänien (veraltet)
 R	[Kfz] Rußland (veraltet)
 R/O	read-only
 R/W	read-write
+R000	[Oracle] ASM Block Remap Slave Process
 RA	Ra (PSE#88) Radium | Erdalkalimetalle | alkaline earth metals | metalla alcalica terrena
 RA	receiver address
 RA	remote assistance
@@ -4129,6 +4218,8 @@ RA	resource affinity
 RA	router advertisement
 RA	[Kfz:D] Landkreis Rastatt
 RA	[Kfz] Argentinien
+RAC	remote access console
+RAC	[Oracle] real application clusters
 RAD	rapid application development
 RADIUS	Remote Authentication Dial In User Service
 RAID	redundant array of {independent,inexpensive} disks
@@ -4138,6 +4229,7 @@ RAR	Roshal Archive (traditional archive compressor)
 RAS	remote access service
 RAS	restartable atomic sequence
 RAS	row address strobe
+RAT	[Oracle] Real Application Testing
 RATIBIBUGLE	french-specific version of ROTOTILL
 RATP	Rentre Avec Tes Pieds (Come back home by walking)
 RATP	Régie Autonome des Transports Parisiens
@@ -4146,6 +4238,7 @@ RB	Regionalbahn
 RB	[Kfz] Bolivien (veraltet)
 RB	[Kfz] Botswana
 RBAC	Role Based Access Control
+RBAL	[Oracle] ASM Rebalance Master Process
 RBF	radial basis function
 RBT	red-black tree
 RC	release candidate
@@ -4156,6 +4249,7 @@ RC	[Kfz] China (Volksrepublik) (jetzt eigentlich Taiwan, aber in der VR China no
 RC	[Kfz] Republik China (Taiwan)
 RCA	[Kfz] Zentralafrikanische Republik
 RCB	[Kfz] Republik Kongo
+RCBG	[Oracle] Result Cache Background Process
 RCE	remote code execution
 RCH	[Kfz] Chile
 RCL	rotate left through carry
@@ -4181,6 +4275,7 @@ RE	Regional-Expreß
 RE	regular expression - https://www.mirbsd.org/man7/re_format
 RE	[ccTLD] Réunion
 RE	[Kfz:D] Kreis Recklinghausen
+RECO	[Oracle] (distributed transactions) Recoverer Process
 REG	[Kfz:D] Landkreis Regen
 REGEN	regenerate
 REH	[Kfz:D] Landkreis Rehau
@@ -4250,11 +4345,14 @@ RM	read miss
 RM	[Kfz:D] Landkreis Röbel/Müritz
 RM	[Kfz] Madagaskar
 RM	[Kfz] Rumänien (veraltet)
+RM	[Oracle] RAT Masking Slave Process
 RMI	remote method invocation
 RMM	[Kfz] Mali
+RMON	[Oracle] Rolling Migration Monitor Process
 RMPM	rapid memory power management
 RMS	Richard Matthew Stallman
 RMS	root mean square
+RMS0	[Oracle] Oracle RAC Management Process
 RMW	read, modify, write
 RN	Rn (PSE#86) Radon | Edelgase | noble gases | gasia nobilia
 RN	[Kfz:D] Landkreis Rathenow
@@ -4299,6 +4397,7 @@ RP	responsible person
 RP	Rheinland-Pfalz
 RP	[Kfz:D] Rhein-Pfalz-Kreis
 RP	[Kfz] Philippinen
+RP00	[Oracle] Capture Processing Worker Process
 RPC	remote procedure call
 RPG	Rocket Propelled Grenade
 RPG	role-playing game
@@ -4306,6 +4405,7 @@ RPL	requested privilege level
 RPL	[Kfz:D] Rheinland-Pfalz, Landesregierung und Landtag
 RPM	revolutions per minute
 RPN	reverse Polish notation
+RPOP	[Oracle] Instant Recovery Repopulation Daemon
 RR	railroad
 RR	random replacement
 RR	round robin
@@ -4320,6 +4420,8 @@ RSI	repetitive strain injury
 RSIP	Realm Specific IP
 RSL	[Kfz:D] Landkreis Roßlau
 RSM	[Kfz] San Marino
+RSM0	[Oracle] Data Guard Broker (Resource Guard) Worker Process
+RSMN	[Oracle] Remote Slave Monitor Process
 RSN	real soon now
 RSR	[Kfz] Simbabwe (veraltet)
 RSR	[Kfz] Südrhodesien (veraltet)
@@ -4363,6 +4465,7 @@ RTSL	read the source, Luke (open source programming)
 RTSL	real-time shading language (Stanford University)
 RTSL	real-time systems laboratory
 RTT	round trip time
+RTTD	[Oracle] Redo Transport Test Driver
 RU	Ru (PSE#44) Ruthenium | Übergangsmetalle | transition metals | metalla transitionis
 RU	[ccTLD] Rußland
 RU	[Kfz:D] Landkreis Rudolstadt
@@ -4373,6 +4476,7 @@ RUMP	Runnable Userspace Meta Programs
 RUP	rational unified process
 RUS	[Kfz] Rußland
 RV	[Kfz:D] Landkreis Ravensburg
+RVWR	[Oracle] Recovery Writer Process
 RW	read-write
 RW	[ccTLD] Ruanda
 RW	[Kfz:D] Landkreis Rottweil
@@ -4395,6 +4499,7 @@ S/MIME	Secure/Multipurpose Internet Mail Extensions
 S/PDIF	Sony/Philips Digital Interface Format
 S/T	self titled
 S/W	schwarzweiß
+S000	[Oracle] Shared Server Process
 S1	[Schule DE] Sekundarstufe 1 (Erprobungs- und Mittelstufe)
 S2	[Schule DE] Sekundarstufe 2 (Oberstufe)
 SA	security advisory
@@ -4404,6 +4509,7 @@ SA	structured analysis
 SA	[ccTLD] Saudi-Arabien
 SA	[Kfz] Saargebiet (veraltet)
 SA	[Kfz] Saarland (veraltet)
+SA00	[Oracle] SGA Allocator
 SAAS	shit as a service
 SAAS	software as a service
 SAB	[Kfz:D] Landkreis Saarburg
@@ -4498,6 +4604,7 @@ SCC	second-class citizen
 SCC	single chip cloud
 SCC	source code control
 SCC	strongly connected component
+SCC0	[Oracle] ASM Disk Scrubbing Slave Check Process
 SCCP	Signalling Connection Control Part
 SCCS	Source Code Control System
 SCG	[Kfz] Montenegro (veraltet)
@@ -4512,12 +4619,16 @@ SCM	Scheme (programming language)
 SCM	software configuration management
 SCM	source code management
 SCM	storage-class memory
+SCN	[Oracle] system change number (redo log buffer ID)
 SCNR	schulljung, connte nit rückhalten
 SCNR	sorry, could not resist
 SCP	secure copy
+SCR0	[Oracle] ASM Disk Scrubbing Slave Repair Process
+SCRB	[Oracle] ASM Disk Scrubbing Master Process
 SCSI	Small Computer System Interface
 SCSU	Standard Compression Scheme for Unicode
 SCTP	Stream Control Transmission Protocol
+SCV0	[Oracle] ASM Disk Scrubbing Slave Verify Process
 SCZ	[Kfz:D] Landkreis Schleiz
 SD	[ccTLD] Sudan
 SD	[Kfz] Swasiland
@@ -4573,6 +4684,7 @@ SFW	Sun freeware
 SG	Sg (PSE#106) Seaborgium | Übergangsmetalle | transition metals | metalla transitionis
 SG	[ccTLD] Singapur
 SG	[Kfz:D] kreisfreie Stadt Solingen
+SGA	[Oracle] system global area (shared, 65%)
 SGCI	Single Graphic Character Introducer (U+0099)
 SGH	[Kfz:D] Landkreis Sangerhausen
 SGML	Standard Generalised Markup Language
@@ -4704,6 +4816,7 @@ SMB	Server Message Block
 SMBFS	Server Message Block File System (see CIFS)
 SMBIOS	System Management BIOS
 SMC	system management controller
+SMCO	[Oracle] Space Management Coordinator Process
 SME	[Kfz] Suriname
 SMH	shaking my head
 SMI	structure of management information
@@ -4714,6 +4827,7 @@ SMIME	(see S/MIME)
 SMLSFB	so many losers, so few bullets
 SMM	system management mode
 SMOM	[Kfz] Malteserorden (nicht offiziell)
+SMON	[Oracle] System Monitor Process (kill -9 me :)
 SMOP	simple matter of programming
 SMP	symmetric multiprocessing
 SMSCB	Short Message Service Cell Broadcast
@@ -5025,6 +5139,7 @@ TCB	trace capture buffer
 TCB	trusted computing base
 TCC	thermal control circuit
 TCL	tool command language
+TCL	transaction control language
 TCO	taken care of
 TCO	total cost of ownership
 TCP	Transmission Control Protocol
@@ -5052,6 +5167,7 @@ TEL	(I’m on the) telephone
 TEL	[sTLD] telecommunication (Kontaktdaten als NAPTR und TXT RR im DNS)
 TELE	(I’m on the) telephone
 TELE	Ich telephoniere!
+TEM0	[Oracle] ASM disk Test Error Emulation Process
 TERRATHREE	3 (International Radiotelephony Spelling Alphabet)
 TESB	[SW] Episode V: The Empire Strikes Back
 TET	[Kfz:D] Landkreis Teterow
@@ -5145,6 +5261,7 @@ TMJ	temporomandibular joint
 TMK	to my knowledge
 TMN	[Kfz] Turkmenistan (veraltet)
 TMO	timeout
+TMON	[Oracle] Transport Monitor
 TMTOWTDI	there's more than one way to do it
 TN	[ccTLD] Tunesien
 TN	[Kfz] Tunesien
@@ -5153,7 +5270,7 @@ TNF	Tinnef (german dialect)
 TNG	[ST] The Next Generation
 TNLN	[gc] took nothing, left nothing (also: N/T)
 TNLNSL	[gc] took nothing, left nothing, signed log (also: N/T)
-TNS	Transparent Network Substrate
+TNS	[Oracle] transparent network substrate
 TNX	thanks
 TO	[ccTLD] Tonga
 TO	[Kfz:D] Landkreis Torgau-Oschatz
@@ -5193,6 +5310,7 @@ TPS	transmission parameters signaling
 TPS	[gc] TerraCaching Point System
 TPTB	the person to bug
 TPTB	the powers that be
+TPZ0	[Oracle] Test Process
 TR	table row (in HTML)
 TR	task register
 TR	token ring
@@ -5201,6 +5319,7 @@ TR	[Kfz:D] kreisfreie Stadt Trier und Landkreis Trier-Saarburg
 TR	[Kfz] Türkei
 TRAU	Transcoding Rate and Adaption Unit
 TRAVEL	[sTLD] travel (Reiseindustrie)
+TRC	trace
 TRI	three-
 TRL	timing recovery loop
 TRNG	true random number generator
@@ -5222,11 +5341,14 @@ TSP	Tunnel Setup Protocol
 TSR	terminate and stay resident
 TSS	task state segment
 TSS	Time-Sharing System
+TT	terrible twos
+TT	teuflische Triade
 TT	Thirtytwo-Thirtytwo (Atari)
 TT	[ccTLD] Trinidad und Tobago
 TT	[Kfz:D] Landkreis Tettnang
 TT	[Kfz] Togo (veraltet)
 TT	[Kfz] Trinidad und Tobago
+TT00	[Oracle] Redo Transport Slave Process
 TTBOMK	to the best of my knowledge
 TTF	[gc] third to find
 TTFN	ta ta for now
@@ -5265,6 +5387,7 @@ TWKMHNNOARN	those who know me have no need of a real name
 TWKMHNNOMRN	those who know me have no need of my real name
 TX	transmit out
 TX	transmitter
+TXN	transaction
 TY	thank you
 TYS	told you so
 TYVM	thank you very much
@@ -5400,6 +5523,7 @@ VAX	virtual address extension
 VB	Visual Basic
 VB	[Kfz:D] Vogelsbergkreis
 VBEG	very big evil grin
+VBG0	[Oracle] Volume Background Process
 VC	Volkov Commander (see MC, NC)
 VC	[ccTLD] St. Vincent und die Grenadinen
 VCA	variable-gain amplifier
@@ -5412,6 +5536,7 @@ VCM	virtual channel memory
 VCO	voltage-controlled oscillator
 VCR	video cassette recorder
 VCS	version control system
+VDBG	[Oracle] Volume Driver Process
 VDFDC	[gc] Vielen Dank für den Cache (TFTC)
 VDFDD	[gc] Vielen Dank für die Dose (TFTC)
 VE	[ccTLD] Venezuela
@@ -5448,6 +5573,8 @@ VISDP	V.i.S.d.P.: Verantwortlich im Sinne des Pressegesetzes
 VIT	[Kfz:D] Landkreis Viechtach
 VIVT	virtually indexed, virtually tagged
 VK	[Kfz:D] Stadt Völklingen im Regionalverband Saarbrücken
+VKRM	[Oracle] Virtual Scheduler for Resource Manager Process
+VKTM	[Oracle] Virtual Keeper of Time Process
 VL	[Kfz:D] Landkreis Villingen
 VLAN	virtual local area network
 VLIW	very long instruction word
@@ -5455,6 +5582,7 @@ VLSI	very large scale integration
 VLSM	variable length subnet mask
 VM	virtual machine
 VM	virtual memory
+VMB0	[Oracle] Volume Membership Process
 VME	virtual mode extension
 VML	Vector Markup Language
 VMS	Very Much Strange
@@ -5487,6 +5615,7 @@ VTS	U+008A LINE TABULATION SET
 VTS	Vertical Tabulation Set (U+008A)
 VU	[ccTLD] Vanuatu
 VUB	Vrije Universiteit Brussel (*not* where FOSDEM is!)
+VUBG	[Oracle] Volume driver Umbilical Background
 VVG	Verbesserungsvorschlag
 VVV	veni, vidi, vici
 VVV	veni, vidi, vodka (Ich kam, sah und soff.)
@@ -5501,6 +5630,7 @@ W	[Kfz:D] kreisfreie Stadt Wuppertal
 W-CDMA	Wideband Code Division Multiple Access
 W/	with
 W/O	without
+W000	[Oracle] Space Management Slave Process
 W00T	(exclamation of excitement or happiness)
 W3C	World Wide Web Consortium
 W8	wait
@@ -5515,6 +5645,7 @@ WAG	wild-ass guess
 WAG	[Kfz] Gambia
 WAK	[Kfz:D] Wartburgkreis
 WAL	[Kfz] Sierra Leone
+WAL	[Postgres] Write-Ahead Logging
 WAMP	Windows Apache MySQL {Perl,PHP,Python}
 WAMPP	Windows Apache MySQL {Perl,PHP,Python}
 WAN	we are noobs (newbies)
@@ -5707,12 +5838,15 @@ WÜ	[Kfz:D] kreisfreie Stadt und Landkreis Würzburg
 WÜM	[Kfz:D] Landkreis Waldmünchen
 X	[Kfz:D] Dienstfahrzeuge der internationalen Hauptquartiere (NATO)
 X-RAY	X (International Radiotelephony Spelling Alphabet)
+X000	[Oracle] ASM Disk Expel Slave Process
 XACML	Extensible Access Control Markup Language
 XANTHIPPE	X (deutsches Funkalphabet)
 XBAR	crossbar
 XBM	X Bitmap
 XD	(spanish emoticon: smile)
 XDMCP	X Display Manager control protocol
+XDMG	[Oracle] Exadata Automation Manager (initiate)
+XDWK	[Oracle] Exadata Automation Manager (perform)
 XE	Xe (PSE#54) Xenon | Edelgase | noble gases | gasia nobilia
 XEP	XMPP Extension Protocol
 XER	XML encoding rules
