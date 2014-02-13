@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.341 2014/02/12 21:14:11 tg Exp $
+$MirOS: wtf/acronyms,v 1.342 2014/02/13 16:04:26 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.221 2013/09/28 17:58:53 dholland Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -292,6 +292,7 @@ ASL	American Sign Language
 ASL	[Kfz:D] Landkreis Aschersleben-Staßfurt
 ASLR	address space layout randomisation
 ASM	Anti-Structures Missile
+ASM	assembler
 ASM	[Oracle] automatic storage management
 ASMB	[Oracle] ASM Background Process
 ASN	autonomous system number
@@ -1617,6 +1618,10 @@ F9	fine
 FACK	forward ACKnowledgement (TCP)
 FACK	Full ACK!
 FAL	[Kfz:D] Landkreis Soltau-Fallingbostel
+FAN	fanatic
+FAN	Ventilator
+FAN	[Oracle] failover announcement
+FAN	[Oracle] fast application notification
 FAQ	frequently asked question
 FAT	file allocation table
 FB	[Kfz:D] Landkreis Friedberg in Hessen
@@ -1629,6 +1634,7 @@ FC	fan control
 FC	favourably considered
 FC	fibre channel
 FC	frame control
+FCF	[Oracle] Fast Connection Failover
 FCFS	first come first served
 FCL	fiber channel loop
 FCOL	for crying out loud
@@ -3282,6 +3288,7 @@ MTP-2	Message Transfer Part Level 2
 MTP-3	Message Transfer Part Level 3
 MTRR	memory type range register
 MTTF	mean time to failure
+MTTR	mean time to recovery
 MTU	maximum transmission unit
 MU	[ccTLD] Mauritius
 MUA	mail user agent
@@ -3643,6 +3650,7 @@ ONFI	open nand flash interface
 ONNA	oh no, not again
 ONNTA	oh no, not this again
 ONO	Ostnordost, east-north-east
+ONS	Oracle Notification System
 OO	object oriented
 OO	OpenOffice
 OOB	out of band
@@ -5101,6 +5109,7 @@ TA	test assertion
 TA	thanks (pre-net slang, pronounced tar)
 TA	transmitter address
 TAC	(Cisco) Technical Assistance Center
+TAF	[Oracle] Transparent Application Failover
 TAI	international atomic time
 TAN	Tangēns
 TANGO	enemy
