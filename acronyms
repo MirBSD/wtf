@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.342 2014/02/13 16:04:26 tg Exp $
+$MirOS: wtf/acronyms,v 1.343 2014/02/14 20:21:18 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.221 2013/09/28 17:58:53 dholland Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -3575,6 +3575,7 @@ NÖ	[Kfz:D] Landkreis Nördlingen
 O	O (PSE#8) Oxygenium, Sauerstoff, Oxygen | Chalkogene | chalcogens
 O	Osten, east
 O I C	oh, I see
+O-TON	Originalton
 O000	[Oracle] ASM Connection Pool Process
 O2W	off to work
 OA	[Kfz:D] Landkreis Oberallgäu
@@ -3621,6 +3622,7 @@ OG	[Kfz:D] Ortenaukreis
 OGF	Open Grid Forum
 OGG	(container format, similar to RIFF)
 OH	other half
+OH	overheard
 OH	[Kfz:D] Kreis Ostholstein
 OHA	[Kfz:D] Landkreis Osterode am Harz
 OHV	[Kfz:D] Landkreis Oberhavel
@@ -3706,7 +3708,9 @@ OSTD	[Schule DE] Oberstudiendirektor
 OSTR	[Schule DE] Oberstudienrat
 OSVW	operating system visible workarounds
 OT	off topic
+OT	offene Tür
 OT	ohne Themenbezug
+OT	Originalton
 OTL	out to lunch
 OTOH	on the other hand
 OTP	one time password
@@ -5353,6 +5357,7 @@ TSS	Time-Sharing System
 TT	terrible twos
 TT	teuflische Triade
 TT	Thirtytwo-Thirtytwo (Atari)
+TT	trouble ticket
 TT	[ccTLD] Trinidad und Tobago
 TT	[Kfz:D] Landkreis Tettnang
 TT	[Kfz] Togo (veraltet)
@@ -5362,6 +5367,7 @@ TTBOMK	to the best of my knowledge
 TTF	[gc] third to find
 TTFN	ta ta for now
 TTFSMIF	Thank The Flying Spaghetti Monster It's Friday
+TTID	trouble ticket ID#
 TTL	time to live
 TTL	transistor-transistor logic
 TTM	Atari 19″ 1280x960 Monochrome Monitor
