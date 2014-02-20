@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.344 2014/02/19 16:28:57 tg Exp $
+$MirOS: wtf/acronyms,v 1.345 2014/02/20 21:41:46 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.221 2013/09/28 17:58:53 dholland Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -4498,6 +4498,7 @@ RWM	read-write memory
 RX	receive
 RX	receiver
 RY	[Kfz:D] kreisfreie Stadt Rheydt
+RYT	are you there?
 RZ	Rechenzentrum (cf. DC)
 RZ	[Kfz:D] Kreis Herzogtum Lauenburg
 RÜD	[Kfz:D] Rheingau-Taunus-Kreis, Zulassungsstelle in Bad Schwalbach und Rüdesheim
