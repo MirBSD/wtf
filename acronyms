@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.346 2014/02/22 20:15:30 tg Exp $
+$MirOS: wtf/acronyms,v 1.347 2014/02/26 20:26:12 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.221 2013/09/28 17:58:53 dholland Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -338,6 +338,7 @@ AUB	please (dutch: alstublieft / als het u belieft)
 AUR	[Kfz:D] Landkreis Aurich (Ostfriesland)
 AUS	[Kfz] Australien
 AUT	[Kfz] Palästinensische Autonomiegebiete/Gazastreifen (nicht offiziell)
+AUX	auxilliary (unterstützend, zusätzlich)
 AV	anti virus
 AVD	Arsch vom Dienst
 AVI	Audio/Video (RIFF)
@@ -593,6 +594,7 @@ BPS	bits per second
 BPSK	binary phase shift keying
 BQ	[ccTLD] Saba
 BQS	Berkeley quality software
+BQS	Bundesgeschäftsstelle Qualitätssicherung gGmbH
 BR	Bayerischer Rundfunk
 BR	Br (PSE#35) Bromum, Brom | Halogene | halogens | halogenia
 BR	branch
@@ -754,7 +756,6 @@ CC	Creative Commons
 CC	credit card
 CC	Cur Cenntnisnahme
 CC	[ccTLD] Kokosinseln
-CC	[gc] confirmation code
 CC	[gc] confirmation code (TC)
 CCAR	Cisco Certified Architect
 CCC	Chaos Computer Club
@@ -1055,6 +1056,7 @@ DBR	[Kfz:D] Altkreis Bad Doberan im Landkreis Rostock
 DBRM	[Oracle] Database Resource Manager Process
 DBS	database server
 DBW0	[Oracle] Database Writer Process
+DBWR	(see DBW0)
 DC	data centre
 DC	device control
 DC	direct current
@@ -2260,6 +2262,8 @@ HVL	[Kfz:D] Landkreis Havelland
 HVM	hardware virtual machine
 HW	[Kfz:D] Kreis Halle (Westfalen)
 HWI	[Kfz:D] Hansestadt Wismar im Landkreis Nordwestmecklenburg
+HWM	high-water mark
+HWM	Hochwassermarke
 HWRNG	hardware random number generator
 HX	[Kfz:D] Kreis Höxter
 HY	[Kfz:D] Hoyerswerda im Landkreis Bautzen
@@ -2947,6 +2951,7 @@ LVM	logical volume management
 LVT	local vector table
 LW	Lw (PSE#103) Lawrencium | Uran-Metalle (Aktiniden) | actinides | actinida
 LWL	[Kfz:D] Altkreis Ludwigslust im Landkreis Ludwigslust-Parchim
+LWM	low-water mark
 LWN	Linux Weekly News
 LWP	light-weight process
 LWYL	laugh with you later
@@ -4360,6 +4365,7 @@ RM	[Kfz:D] Landkreis Röbel/Müritz
 RM	[Kfz] Madagaskar
 RM	[Kfz] Rumänien (veraltet)
 RM	[Oracle] RAT Masking Slave Process
+RMAN	recovery manager
 RMI	remote method invocation
 RMM	[Kfz] Mali
 RMON	[Oracle] Rolling Migration Monitor Process
