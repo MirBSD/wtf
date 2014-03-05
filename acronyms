@@ -1,6 +1,6 @@
-$MirOS: wtf/acronyms,v 1.348 2014/02/28 22:04:01 tg Exp $
+$MirOS: wtf/acronyms,v 1.349 2014/03/05 19:20:35 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
-$NetBSD: acronyms,v 1.221 2013/09/28 17:58:53 dholland Exp $
+$NetBSD: acronyms,v 1.222 2014/03/05 03:51:25 ginsbach Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
 $NetBSD: airport,v 1.51 2013/04/25 13:34:10 mbalmer Exp $
 $OpenBSD: airport,v 1.13 2003/10/20 06:06:31 jmc Exp $
@@ -946,6 +946,8 @@ BBF	[IATA] Burlington Municipal Airport, MA, USA
 BBG	[IATA] Butaritari, Kiribati
 BBG	[Kfz:D] Landkreis Bernburg
 BBH	[IATA] Barth, Germany
+BBI	Berufsbildung (DTAG)
+BBI	big bad Internet
 BBI	[IATA] Bhubaneswar, India
 BBIAB	be back in a bit
 BBIAF	be back in a few
@@ -2362,6 +2364,7 @@ CPC	cost per click
 CPC	[IATA] San Martin de los Andes (Chapelco), Argentina
 CPD	[IATA] Coober Pedy, South Australia, Australia
 CPE	common phase error
+CPE	customer premises equipment
 CPE	[IATA] Campeche (Alberto Acuna Ongay), Mexico
 CPF	[IATA] Cepu, Indonesia
 CPG	clock pulse generator
@@ -2774,7 +2777,7 @@ DCT	[IATA] Duncan Town, Bahamas
 DCU	data cache unit
 DCU	[IATA] Decatur (Pryor Field), AL, USA
 DCY	[IATA] Washington (Daviess County Airport), IN, USA
-DD	Debian developer
+DD	Debian Developer
 DD	[ccTLD] Deutsche Demokratische Republik
 DD	[Kfz:D] Landkreis Dresden
 DDC	display data channel
@@ -2956,7 +2959,10 @@ DLS	[IATA] The Dalles Municipal Airport, OR, USA
 DLV	[IATA] Delissaville, Northern Territory, Australia
 DLY	[IATA] Dillons Bay, Vanuatu
 DLZ	[IATA] Delaware Municipal Airport, OH, USA
+DM	Debian Maintainer
 DM	Deutsche Mark
+DM	direct message
+DM	Drogeriemarkt
 DM	dungeon master
 DM	[ccTLD] Dominica
 DM	[Kfz:D] Landkreis Demmin
@@ -3137,6 +3143,7 @@ DSV	[IATA] Dansville Municipal Airport, NY, USA
 DT	[Kfz:D] Kreis Detmold
 DT	[Kfz:D] Kreis Lippe
 DTA	[IATA] Delta Municipal Airport, UT, USA
+DTAG	Deutsche Telekom AG
 DTD	document type definition
 DTD	[IATA] Datadawai, Indonesia
 DTE	data terminal equipment
@@ -9540,6 +9547,7 @@ P2P	peer to peer
 PA	Pa (PSE#91) Protactinium | Uran-Metalle (Aktiniden) | actinides | actinida
 PA	phase accumulator
 PA	physical address
+PA	public announcement (Lautsprecherdurchsagensystem)
 PA	[ccTLD] Panama
 PA	[Kfz:D] kreisfreie Stadt und Landkreis Passau
 PA	[Kfz] Panama
@@ -14711,6 +14719,7 @@ YET	[IATA] Edson, AB, Canada
 YEU	[IATA] Eureka, NT, Canada
 YEV	[IATA] Inuvik, Northwest Territories, Canada
 YEY	[IATA] Amos, QC), Canada
+YF	you fail
 YFA	[IATA] Fort Albany, ON, Canada
 YFB	[IATA] Iqaluit, Northwest Territories, Canada
 YFC	[IATA] Fredericton, New Brunswick, Canada
