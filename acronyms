@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.349 2014/03/05 19:20:35 tg Exp $
+$MirOS: wtf/acronyms,v 1.350 2014/03/06 12:02:38 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.222 2014/03/05 03:51:25 ginsbach Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -5793,6 +5793,7 @@ ISG	[IATA] Ishigaki, Japan
 ISH	[IATA] Ischia, Italy
 ISI	inter-symbol interference
 ISI	[IATA] Isisford, Queensland, Australia
+ISIN	International Securities Identification Number
 ISJ	[IATA] Isla Mujers, Mexico
 ISK	[IATA] Nasik, India
 ISL	[IATA] Isabel Pass, AK, USA
