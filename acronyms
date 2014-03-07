@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.351 2014/03/06 20:24:52 tg Exp $
+$MirOS: wtf/acronyms,v 1.352 2014/03/07 22:49:48 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.222 2014/03/05 03:51:25 ginsbach Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -14,6 +14,7 @@ $OpenBSD: airport,v 1.13 2003/10/20 06:06:31 jmc Exp $
 2	two, to
 224	today, tomorrow, forever
 2IC	second in charge
+2MORROW	tomorrow
 31337	elite ("eleet")
 3GPP	3rd generation partnership project
 3LD	third-level domain
@@ -13238,6 +13239,7 @@ TTT	thought that too
 TTT	[IATA] Taitung, Taiwan
 TTU	[IATA] Tetouan (Sania Ramel), Morocco
 TTV	[IATA] Barat, Yemen
+TTY	talk to you
 TTY	teletype [terminal]
 TTYL	talk to you later
 TTYL8ER	tty (read) you later [usenet]
