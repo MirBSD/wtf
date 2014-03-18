@@ -1,6 +1,6 @@
-$MirOS: wtf/acronyms,v 1.353 2014/03/12 19:03:24 tg Exp $
+$MirOS: wtf/acronyms,v 1.354 2014/03/18 21:56:22 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
-$NetBSD: acronyms,v 1.222 2014/03/05 03:51:25 ginsbach Exp $
+$NetBSD: acronyms,v 1.223 2014/03/10 17:56:21 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
 $NetBSD: airport,v 1.51 2013/04/25 13:34:10 mbalmer Exp $
 $OpenBSD: airport,v 1.13 2003/10/20 06:06:31 jmc Exp $
@@ -1976,6 +1976,7 @@ CDN	[Kfz] Kanada
 CDO	[IATA] Cradock, South Africa
 CDP	[IATA] Cuddapah, India
 CDQ	[IATA] Croydon, Queensland, Australia
+CDR	Commander
 CDR	Corel Draw
 CDR	[IATA] Chadron Municipal Airport, NE, USA
 CDRAM	cache dynamic random access memory
@@ -2304,6 +2305,7 @@ CNX	[IATA] Chiang Mai [Chiang Mai International Airport], Thailand
 CNY	[IATA] Moab (Canyonlands Field), UT, USA
 CNZ	[IATA] Cangamba, Angola
 CO	Co (PSE#27) Cobaltum, Kobalt, Cobalt | Übergangsmetalle | transition metals | metalla transitionis
+CO	commanding officer
 CO	[ccTLD] Kolumbien
 CO	[gc] cache owner
 CO	[Kfz:D] kreisfreie Stadt und Landkreis Coburg
@@ -4754,6 +4756,7 @@ GSG	[IATA] Glasgow Industrial Airport, MT, USA
 GSH	[IATA] Goshen Municipal Airport, IN), USA
 GSI	global system interrupt
 GSI	[IATA] Guadalcanal, Solomon Islands
+GSM	Garrison Sgt Maj
 GSM	Global System for Mobile Communications
 GSM	GPRS Session Management
 GSM	Groupe Spécial Mobile
@@ -4907,6 +4910,7 @@ HARQ	Hybrid Automatic Request
 HAS	[IATA] Hail, Saudi Arabia
 HAS	[Kfz:D] Landkreis Haßberge
 HAS	[Kfz:D] Landkreis Haßfurt
+HAS	[Oracle] HA service
 HAT	hashed array tree
 HAT	[IATA] Heathlands, Queensland, Australia
 HAU	[IATA] Haugesund (Karmoy), Norway
@@ -6398,6 +6402,7 @@ KHZ	kHz: Kilohertz (1'000 Hz)
 KI	Künstliche Intelligenz (AI)
 KI	[ccTLD] Kiribati
 KI	[Kfz:D] kreisfreie Stadt Kiel
+KIA	killed in action
 KIA	[IATA] Kaiapit, Papua New Guinea
 KIB	[IATA] Ivanof Bay Seaplane Base, AK, USA
 KIB	[Kfz:D] Donnersbergkreis
@@ -7348,6 +7353,7 @@ LSX	[IATA] Lhok Sukon, Indonesia
 LSY	[IATA] Lismore, Queensland, Australia
 LSZ	[IATA] Losinj, Croatia
 LSZ	[Kfz:D] Landkreis Langensalza
+LT	Lieutenant
 LT	[ccTLD] Litauen
 LT	[Kfz] Litauen
 LT	[Kfz] Tripolitanien (veraltet)
@@ -7517,6 +7523,7 @@ MAG	[IATA] Madang, Papua New Guinea
 MAH	[IATA] Mahon (Menorca), Balearic Islands, Spain
 MAI	[IATA] Mangochi, Malawi
 MAI	[Kfz:D] Landkreis Mainburg
+MAJ	Major
 MAJ	[IATA] Majuro (International Airport), Marshall Islands
 MAK	[IATA] Malakal, Sudan
 MAK	[Kfz:D] kreisfreie Stadt Marktredwitz
@@ -8609,6 +8616,7 @@ NCI	[IATA] Necocli, Colombia
 NCL	[IATA] Newcastle, England, UK
 NCL	[Kfz] Neukaledonien
 NCN	[IATA] New Chenega, AK, USA
+NCO	non-commissioned officer
 NCO	numerically-controlled oscillator
 NCO	[IATA] North Kingstown (Quonset Point), RI, USA
 NCP	Network Control Protocol
@@ -9763,6 +9771,7 @@ PF	[ccTLD] Französisch-Polynesien
 PF	[Kfz:D] Stadtkreis Pforzheim und Enzkreis
 PFA	[IATA] Paf Warren, AK, USA
 PFB	[IATA] Passo Fundo, RS, Brazil
+PFC	Private First Class
 PFC	[IATA] Pacific City (State Airport), OR, USA
 PFD	[IATA] Fort Frederick, AK, USA
 PFI	pay for inclusion
@@ -9960,6 +9969,8 @@ PM	phase modulation
 PM	Pm (PSE#61) Promethium | Metalle der seltenen Erden (Lanthaniden) | lanthanides | lanthanida
 PM	post meridiem
 PM	power management
+PM	press release
+PM	Pressemitteilung
 PM	Prime Minister
 PM	private message
 PM	pulse modulation
@@ -10143,6 +10154,7 @@ PQN	[IATA] Pipestone Municipal Airport, MN, USA
 PQQ	[IATA] Port Macquarie, New South Wales, Australia
 PQS	[IATA] Pilot Station Airport, AK, USA
 PR	Pr (PSE#59) Praesodymium, Praseodym | Metalle der seltenen Erden (Lanthaniden) | lanthanides | lanthanida
+PR	press release
 PR	public relations
 PR	[ccTLD] Puerto Rico
 PR	[Kfz:D] Landkreis Prignitz
@@ -11195,6 +11207,7 @@ RSJ	[IATA] Rosario (Seaplane Base), WA, USA
 RSK	[IATA] Ransiki, Indonesia
 RSL	[IATA] Russell Municipal Airport, KS, USA
 RSL	[Kfz:D] Landkreis Roßlau
+RSM	Regimental Sgt Maj
 RSM	[Kfz] San Marino
 RSM0	[Oracle] Data Guard Broker (Resource Guard) Worker Process
 RSMN	[Oracle] Remote Slave Monitor Process
@@ -11646,6 +11659,7 @@ SFAICT	so far as I can tell
 SFB	[IATA] Sanford (Central Florida), FL, USA
 SFB	[Kfz:D] Landkreis Senftenberg
 SFC	sequential function chart
+SFC	Sergeant First Class
 SFC	[IATA] Saint Francois, Guadeloupe
 SFD	[IATA] San Fernando de Apu, Venezuela
 SFE	[IATA] San Fernando, Philippines
@@ -11707,6 +11721,7 @@ SGQ	[IATA] Sanggata, Indonesia
 SGR	[IATA] Sugar Land (Hull Field), TX, USA
 SGRAM	synchronous graphics random access memory
 SGS	[IATA] Sanga Sanga, Philippines
+SGT	Sergeant
 SGT	[IATA] Stuttgart Municipal Airport, AR, USA
 SGU	[IATA] St. George Municipal Airport, UT, USA
 SGV	[IATA] Sierra Grande, Argentina
@@ -12027,6 +12042,7 @@ SNB	[Kfz] Nordborneo (veraltet)
 SNC	[IATA] Salinas (General Ulpiano Paez), Ecuador
 SNCB	Société Nationale des Chemins de fer Belges
 SNCF	Société Nationale des Chemins de fer français
+SNCO	senior non-commissioned officer
 SND	[IATA] Seno, Laos
 SNDCP	Sub-Network Dependant Convergence Protocol
 SNE	[IATA] Sao Nicolau, Sao Nicolau, Cape Verde
@@ -12184,6 +12200,7 @@ SQJ	[IATA] Shehdi, Ethiopia
 SQL	Structured Query Language
 SQL	[IATA] San Carlos Municipal, California, USA
 SQM	[IATA] Sao Miguel de Aragao, Brazil
+SQMS	Squadron Quarter Master Sgt
 SQN	[IATA] Sanana, Indonesia
 SQO	[IATA] Storuman, Sweden
 SQP	[IATA] Starcke, Queensland, Australia
@@ -12267,6 +12284,7 @@ SSJ	[IATA] Sandnessjoen (Stokka), Norway
 SSK	[IATA] Sturt Creek, Western Australia, Australia
 SSL	secure sockets layer
 SSL	[IATA] Santa Rosalia, Venezuela
+SSM	Squadron Sgt Major
 SSM	[IATA] Sault Ste. Marie (Sanderson Field), MI, USA
 SSN	[IATA] Seoul (Air Base), South Korea
 SSO	Südsüdost, south-south-east
@@ -12337,6 +12355,8 @@ STMT	statement
 STN	[IATA] London (Stansted), UK
 STO	[IATA] All Airports around Stockholm, Sweden
 STO	[Kfz:D] Landkreis Stockach
+STOMITH	shoot the other member/machine in the head
+STONITH	shoot the other/offending node in the head
 STOP	(full stop, period) . (International Radiotelephony Spelling Alphabet)
 STP	shielded twisted pair
 STP	Spanning Tree Protocol
@@ -14533,6 +14553,7 @@ XNO	[IATA] North (Air Force Auxiliary Airport), SC, USA
 XNSL	[gc] exchanged nothing, signed log (cf. TNLNSL, N/T)
 XNT	[IATA] Xingtai, China
 XNU	[IATA] Nounae, Burkina Faso
+XO	executive officer
 XOK	[IATA] Oakville / Via Rail Service, Ontario, Canada
 XOR	exclusive or
 XP	extreme programming
@@ -15381,4 +15402,3 @@ ZZV	[IATA] Zanesville Municipal Airport, OH, USA
 香港	[ccTLD] Hongkong
 한국	[ccTLD] Südkorea
 ﻢﻠﻴﺴﻳﺍ	[ccTLD] Malaysia
-KIA	killed in action
