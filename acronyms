@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.354 2014/03/18 21:56:22 tg Exp $
+$MirOS: wtf/acronyms,v 1.355 2014/03/19 22:57:42 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.223 2014/03/10 17:56:21 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -1700,6 +1700,8 @@ BVE	[IATA] Brive-La-Gaillarde, France
 BVERFG	Bundesverfassungsgericht
 BVERWG	Bundesverwaltungsgericht
 BVF	[IATA] Bua, Fiji
+BVG	Berliner Verbrechergemeinschaft
+BVG	Berliner Verkehrsbetriebe
 BVG	[IATA] Berlevag, Norway
 BVH	[IATA] Vilhena, RO, Brazil
 BVI	[IATA] Birdsville, Queensland, Australia
@@ -3189,6 +3191,8 @@ DUS	[IATA] Dusseldorf, Germany
 DUT	device under test
 DUT	[IATA] Dutch Harbor (Unalaska Airport), AK, USA
 DUX	[IATA] Dumas Municipal Airport, TX, USA
+DV	Datenverarbeitung
+DV	[Oracle] database vault
 DVA	[IATA] Deva, Romania
 DVB	digital video broadcasting
 DVB-C	digital video broadcasting over cable
@@ -4760,6 +4764,7 @@ GSM	Garrison Sgt Maj
 GSM	Global System for Mobile Communications
 GSM	GPRS Session Management
 GSM	Groupe Spécial Mobile
+GSM	[Oracle] global service manager
 GSN	[IATA] Mount Gunson, South Australia, Australia
 GSO	[IATA] Greensboro-High Pt.-Winston Salem Regional, North Carolina, USA
 GSP	[IATA] Greer (Greenville-Spartanburg), SC, USA
@@ -5275,6 +5280,7 @@ HRY	[IATA] Henbury, Northern Territory, Australia
 HRZ	Hochschul-Rechenzentrum (cf. RZ)
 HS	Hs (PSE#108) Hassium | Übergangsmetalle | transition metals | metalla transitionis
 HS	[Kfz:D] Kreis Heinsberg
+HS	[Oracle] heterogenous services
 HSB	[IATA] Harrisburg-Raleigh Airport, IL, USA
 HSC	[IATA] Shaoguan, China
 HSCSD	High Speed Circuit Switched Data
