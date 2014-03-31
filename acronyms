@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.356 2014/03/20 19:50:46 tg Exp $
+$MirOS: wtf/acronyms,v 1.357 2014/03/31 18:50:59 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.223 2014/03/10 17:56:21 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -9058,6 +9058,7 @@ NVS	[IATA] Neveras, France
 NVT	[IATA] Navegantes, Brazil
 NVY	[IATA] Neyveli, India
 NW	no way
+NW	no worries
 NW	Nordrhein-Westfalen
 NW	Nordwest, north-west
 NW	not write-through
