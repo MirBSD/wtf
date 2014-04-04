@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.357 2014/03/31 18:50:59 tg Exp $
+$MirOS: wtf/acronyms,v 1.358 2014/04/04 21:50:12 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.223 2014/03/10 17:56:21 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -9002,6 +9002,7 @@ NTB	[IATA] Notodden, Norway
 NTC	[IATA] Santa Carolina, Mozambique
 NTD	[IATA] Point Mugu (NAWS Airport), CA, USA
 NTE	[IATA] Nantes (Chateau Bougon), France
+NTEU	non-technical end user
 NTG	[IATA] Nantong, China
 NTI	[IATA] Bintuni, Indonesia
 NTJ	[IATA] Manti-Ephraim Airport, UT, USA
