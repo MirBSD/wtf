@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.358 2014/04/04 21:50:12 tg Exp $
+$MirOS: wtf/acronyms,v 1.359 2014/04/07 09:22:45 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.223 2014/03/10 17:56:21 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -376,6 +376,8 @@ AKT	[IATA] Akrotiri, Cyprus
 AKU	[IATA] Aksu, China
 AKUEFI	Abkürzungsfimmel
 AKV	[IATA] Akulivik, QC, Canada
+AKW	Abkürzungsweg
+AKW	Atomkraftwerk
 AKX	[IATA] Aqtobe (Aktyubinsk), Kazakhstan
 AKY	[IATA] Sittwe (Akyab), Myanmar
 AKÜFI	Abkürzungsfimmel
@@ -3084,6 +3086,7 @@ DPL	descriptor privilege level
 DPL	[IATA] Dipolog, Philippines
 DPN	Debian Project News
 DPO	[IATA] Devonport, Tasmania, Australia
+DPS	damage per second
 DPS	Display PostScript
 DPS	[IATA] Denpasar (Ngurah Rai), Bali, Indonesia
 DPST	display power savings technology
@@ -6249,6 +6252,7 @@ KAT	[Kfz] Katanga (veraltet)
 KAU	[IATA] Kauhava, Fiji
 KAUFMANN	K (deutsches Funkalphabet)
 KAV	[IATA] Kavanayen, Venezuela
+KAW	[GC] Kunst am Wegesrand
 KAW	[IATA] Kawthaung, Myanmar
 KAX	[IATA] Kalbarri, Western Australia, Australia
 KAY	[IATA] Wakaya Island, Fiji
@@ -8050,6 +8054,7 @@ MMN	[IATA] Stow (Minute Man Airfield), MA, USA
 MMNL	[Oracle] Manageability Monitor Lite Process
 MMO	[IATA] Maio, Cape Verde
 MMON	[Oracle] Manageability Monitor Process
+MMORPG	massive multi-player online RPG
 MMP	[IATA] Mompus, Colombia
 MMQ	[IATA] M'Bala, Central African Republic
 MMR	[IATA] Austin (Camp Maybry), TX, USA
