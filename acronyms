@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.359 2014/04/07 09:22:45 tg Exp $
+$MirOS: wtf/acronyms,v 1.360 2014/04/10 20:53:04 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.223 2014/03/10 17:56:21 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -12009,6 +12009,7 @@ SMCO	[Oracle] Space Management Coordinator Process
 SMD	[IATA] Fort Wayne (Smith Field), IN, USA
 SME	[IATA] Somerset (Pulaski County), KY, USA
 SME	[Kfz] Suriname
+SMEP	supervisor mode execution protection
 SMF	[IATA] Sacramento Metro, California, USA
 SMG	[IATA] Santa Maria, Peru
 SMH	shaking my head
