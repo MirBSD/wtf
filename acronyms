@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.361 2014/04/14 19:29:31 tg Exp $
+$MirOS: wtf/acronyms,v 1.362 2014/04/16 20:09:58 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.223 2014/03/10 17:56:21 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -1960,6 +1960,7 @@ CCZ	[IATA] Chub Cay, Berry, Bahamas
 CD	cache disable
 CD	Cd (PSE#48) Cadmium | Übergangsmetalle | transition metals | metalla transitionis
 CD	compact disc
+CD	corporate design
 CD	[ccTLD] Demokratische Republik Kongo
 CD	[Kfz] Demokratische Republik Kongo (Verwechslungsgefahr!) (veraltet)
 CDA	[IATA] Cooinda, Northern Territory, Australia
@@ -2120,8 +2121,10 @@ CHZ	[IATA] Chiloquin State Airport, OR, USA
 CI	common interface
 CI	component interface
 CI	continuous integration
+CI	corporate identity
 CI	[ccTLD] Elfenbeinküste
 CI	[Kfz] Elfenbeinküste
+CI/CD	corporate identity/design
 CIA	Central Intelligence Agency (USA)
 CIA	Instant Version Control Informant bots
 CIA	[IATA] Rome (Ciampino), Italy
