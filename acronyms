@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.362 2014/04/16 20:09:58 tg Exp $
+$MirOS: wtf/acronyms,v 1.363 2014/04/17 18:33:36 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.223 2014/03/10 17:56:21 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -1827,6 +1827,7 @@ C	[Kfz:D] Landkreis Chemnitz
 C	[Kfz] Kuba
 C++	CFrustFrust
 C.P.	ceteris paribus
+C/P	copy/paste
 C4	(some kind of explosive)
 C4	CCC Cologne
 CA	Ca (PSE#20) Calcium | Erdalkalimetalle | alkaline earth metals | metalla alcalica terrena
@@ -2367,6 +2368,8 @@ COY	[IATA] Coolawanyah, Western Australia, Australia
 COZ	[IATA] Constanza, Dominican Republic
 CP	ceteris paribus
 CP	continuous pilot
+CP	copy
+CP	copy/paste
 CP	corporal punishment
 CP00	[Oracle] Database Capture Process
 CPA	[IATA] Cape Palmas, Liberia
