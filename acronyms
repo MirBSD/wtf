@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.364 2014/04/18 22:20:32 tg Exp $
+$MirOS: wtf/acronyms,v 1.365 2014/04/22 01:02:46 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.223 2014/03/10 17:56:21 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -4436,6 +4436,7 @@ GCA	[Kfz] Guatemala
 GCC	gcc can't compile
 GCC	generate crashing code
 GCC	GNU C Compiler (old)
+GCC	GNU Chagrin Collection
 GCC	GNU Compiler Collection
 GCC	Group Call Control
 GCC	[IATA] Gillette-Campbell County Airport, WY, USA
@@ -8464,6 +8465,7 @@ MV	[ccTLD] Malediven
 MV	[Kfz] Malediven (nicht offiziell)
 MVA	[IATA] Myvatn (Reykjahlidh), Iceland
 MVB	[IATA] Franceville (M'Vengue), Gabon
+MVC	model view controller (pattern)
 MVC	[IATA] Monroeville (Monroe County Airport), AL, USA
 MVCC	multiversion concurrency control
 MVD	[IATA] Montevideo (Carrasco), Uruguay
@@ -14857,6 +14859,7 @@ YDR	[IATA] Broadview, SK, Canada
 YDS	[IATA] Desolation Sound, BC, Canada
 YDT	[IATA] Vancouver (Boundary Bay), BC, Canada
 YDV	[IATA] Bloodvein River, MB, Canada
+YDWTK	you don’t want to know
 YDX	[IATA] Doc Creek, Canada
 YDY	[IATA] Valdepenas, Spain
 YE	[ccTLD] Jemen
