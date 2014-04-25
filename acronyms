@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.365 2014/04/22 01:02:46 tg Exp $
+$MirOS: wtf/acronyms,v 1.366 2014/04/25 20:45:25 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.223 2014/03/10 17:56:21 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -4109,8 +4109,10 @@ FM	fucking magic
 FM	[ccTLD] Mikronesien
 FM	[GC] Flashmob
 FM	[Kfz] Malaysia (veraltet)
+FMA	fused multiply-add
 FMA	[IATA] Formosa, Argentina
 FMA	[manga] Fullmetal Alchemise, Hagane no Renkinjutsushi, 鋼の錬金術師
+FMAC	fused multiply-accumulate
 FMC	[IATA] Five Mile Airport, AK, USA
 FME	[IATA] Fort Meade (Odenton), MD, USA
 FMH	[IATA] Falmouth (Otis National Guard), MA, USA
@@ -5594,6 +5596,7 @@ IDS	intrusion detection system
 IDT	interrupt descriptor table
 IDTS	I don't think so
 IDTT	I drink to that
+IDWTK	I don’t want to know
 IDY	[IATA] Ile d'Yeu, France
 IE	id est (it is, that is)
 IE	Microsoft Internet Explorer
@@ -5651,6 +5654,7 @@ IIN	[IATA] Nishinoomote, Japan
 IINM	if I'm not mistaken
 IIRC	if I recall correctly
 IIRC	if I remember correctly
+IIS	(Microsoft) Internet Information Server
 IIS	[IATA] Nissan Island, Papua New Guinea
 IIUC	if I understand correctly
 IIY	[IATA] Washington-Wilkes County Airport, GA, USA
@@ -7594,6 +7598,7 @@ MAC	mandatory access control
 MAC	medium access control
 MAC	message authentication check
 MAC	message authentication code
+MAC	multiplier–accumulator (cf. FMA)
 MAC	[IATA] Macon (Herbert Smart Downtown Airport), GA, USA
 MAD	mutually assured destruction
 MAD	[IATA] Madrid, Spain
@@ -7616,6 +7621,7 @@ MAN	[IATA] Manchester, UK
 MAO	[IATA] Manaus (Eduardo Gomes), AM, Brazil
 MAP	Mobile Application Part
 MAP	[IATA] Mamai, Papua New Guinea
+MAPI	(Microsoft) Messaging API
 MAQ	[IATA] Mae Sot, Thailand
 MAR	[IATA] Maracaibo (La Chinita), Venezuela
 MAR	[Kfz:D] Landkreis Marktheidenfeld
@@ -7990,6 +7996,7 @@ MIME	Multipurpose Internet Mail Extensions
 MIMO	multiple input multiple output
 MIN	[IATA] Minnipa, South Australia, Australia
 MINT	http://freemint.de/en/
+MINT	Mathematik, Informatik, Naturwissenschaft und Technik
 MINT	MiNT is Now TOS
 MIO	[IATA] Miami (Municipal Airport), OK, USA
 MIP	[IATA] Mitspeh Ramona, Israel
@@ -9108,6 +9115,7 @@ NTM	[IATA] Miracema do Norte, GO, Brazil
 NTN	no thanks needed
 NTN	[IATA] Normanton, Queensland, Australia
 NTO	[IATA] Santo Antao, Cape Verde
+NTOP	Windows NT 4.0 Option Pack
 NTP	Network Time Protocol
 NTR	[IATA] Monterrey (Aeropuerto del Norte), Mexico
 NTSC	Never Twice Same Color
@@ -9975,7 +9983,7 @@ PIH	[IATA] Pocatello Municipal Airport, ID, USA
 PII	[IATA] Fairbanks (Phillips Airport), AK, USA
 PIK	[IATA] Prestwick, Scotland, UK
 PIL	[IATA] Pilar, Paraguay
-PIM	personal information manager
+PIM	Personal Information Management
 PIM	platform-independent model
 PIM	[IATA] Pine Mountain (Harris County Airport), GA, USA
 PIN	personal identification number
@@ -10192,6 +10200,7 @@ POLS	principle of least surprise
 POM	[IATA] Port Moresby, Papua New Guinea
 PON	[IATA] Poptun, Guatemala
 POO	[IATA] Pocos de Caldas, MG, Brazil
+POOM	Pocket Outlook Object Model
 POP	cf. TOFU/POP
 POP	point of presence
 POP	Post Office Protocol
@@ -10586,6 +10595,7 @@ PWP	Plot? What Plot?
 PWP	porn without plot
 PWQ	[IATA] Pavlodar, Kazakhstan
 PWR	[IATA] Port Walter (Seaplane Base), AK, USA
+PWS	(Microsoft) Personal Web Server
 PWT	[IATA] Bremerton National Airport, WA, USA
 PXA	[IATA] Parana, GO, Brazil
 PXE	preboot execution environment
@@ -11313,6 +11323,7 @@ RS	[Kfz:D] kreisfreie Stadt Remscheid
 RS	[Kfz] Bosnisch-Serbische Republik (nicht offiziell)
 RSA	Rivest, Shamir and Adleman
 RSA	[IATA] Santa Rosa, Argentina
+RSAT	Remote Server Administration Tools (Microsoft Windows)
 RSB	[IATA] Roseberth, Queensland, Australia
 RSC	[IATA] Riga (Skulte), Latvia
 RSD	[IATA] Rock Sound, Eleuthera, Bahamas
@@ -12452,6 +12463,7 @@ STD	[Kfz:D] Landkreis Stade
 STD	[Schule DE] Studiendirektor
 STE	[IATA] Stevens Point Municipal Airport, WI, USA
 STE	[Kfz:D] Landkreis Staffelstein
+STEM	Science, Technology, Engineering and Math
 STF	[gc] second to find
 STF	[IATA] Stephen Island, Queensland, Australia
 STFA	search the fscking archives
@@ -12961,6 +12973,7 @@ THG	[IATA] Thangool/Biloela, Queensland, Australia
 THGTTG	the hitchhiker's guide to the galaxy
 THH	[IATA] Taharoa, New Zealand
 THI	[IATA] Tichitt, Mauritania
+THIMC	to whom it may concern
 THK	[IATA] Thakhek, Laos
 THL	[IATA] Tachilek, Myanmar
 THL	[Kfz:D] Thüringen, Landesregierung und Landtag
@@ -13614,6 +13627,8 @@ ULK	[IATA] Ul Kmars, Kuwait
 ULL	[IATA] Mull, United Kingdom
 ULM	[IATA] New Ulm Municipal Airport, MN, USA
 ULN	[IATA] Ulan Bator, Mongolia
+ULP	unit in the last place
+ULP	unit of least precision
 ULP	[IATA] Quilpie, Queensland, Australia
 ULQ	[IATA] Tulua, Colombia
 ULRICH	U (deutsches Funkalphabet)
