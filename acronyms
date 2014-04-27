@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.366 2014/04/25 20:45:25 tg Exp $
+$MirOS: wtf/acronyms,v 1.367 2014/04/27 22:10:07 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.223 2014/03/10 17:56:21 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -8792,6 +8792,7 @@ NF	[ccTLD] Norfolkinsel
 NF	[Kfz:D] Kreis Nordfriesland
 NF	[Kfz] Neufundland (veraltet)
 NFA	no flaming allowed
+NFA	no further action
 NFA	nondeterministic finite automaton
 NFB	[IATA] Mount Clemens (Detroit Naval Facility), MI, USA
 NFC	near-field communication
@@ -12069,6 +12070,7 @@ SLE	[IATA] Salem (McNary Field), OR, USA
 SLE	[Kfz:D] Kreis Schleiden
 SLE	[Kfz] Sierra Leone (nicht offiziell)
 SLED	single large expensive disk
+SLES	SuSE Linux Enterprise Server
 SLF	[IATA] Sulayel, Saudi Arabia
 SLF	[Kfz:D] Landkreis Saalfeld-Rudolstadt
 SLG	[IATA] Siloam Springs (Smith Field), AR, USA
