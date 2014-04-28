@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.367 2014/04/27 22:10:07 tg Exp $
+$MirOS: wtf/acronyms,v 1.368 2014/04/28 21:10:28 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.223 2014/03/10 17:56:21 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -104,6 +104,7 @@ ABM	[IATA] Cape York (Bamaga), Queensland, Australia
 ABM	[IATA] Northern Peninsula, Queensland, Australia
 ABMR	[Oracle] Auto BMR Background Process
 ABN	[IATA] Albina, Suriname
+ABNF	Abstract Backus-Naur form
 ABO	abonnement
 ABO	[IATA] Aboisso, Ivory Coast
 ABP	[IATA] Atkamba, Papua New Guinea
@@ -256,6 +257,7 @@ AFO	[IATA] Afton Municipal Airport, WY, USA
 AFR	[IATA] Afore, Papua New Guinea
 AFS	Andrew File System
 AFU	all fucked up
+AFW	Allianz freier Wähler
 AFW	away from window
 AFW	[IATA] Fort Worth Alliance Airport, TX, USA
 AFY	[IATA] Afyon, Turkey
@@ -683,8 +685,10 @@ ASM	assembler
 ASM	[IATA] Asmara (Yohannes IV), Eritrea
 ASM	[Oracle] automatic storage management
 ASMB	[Oracle] ASM Background Process
+ASN	Abstract Syntax Notation
 ASN	autonomous system number
 ASN	[IATA] Talladega Municipal Airport, AL, USA
+ASN.1	Abstract Syntax Notation One
 ASO	[IATA] Asosa, Ethiopia
 ASP	[IATA] Alice Springs, Northern Territory, Australia
 ASPM	active state power management
@@ -1100,7 +1104,7 @@ BENELUX	Belgium, Netherlands, Luxembourg
 BEO	[IATA] Newcastle (Belmont Airport), NSW, Australia
 BEP	[IATA] Bellary, India
 BEQ	[IATA] Bury St. Edmunds, England, UK
-BER	basic encoding rules
+BER	ASN.1 basic encoding rules
 BER	bit error rate/ratio
 BER	[IATA] All Airports around Berlin, Germany
 BER	[IATA] Berlin/Brandenburg, Berlin, Germany
@@ -1161,6 +1165,7 @@ BG	[Kfz:D] Dienstfahrzeuge des Bundesgrenzschutzes
 BG	[Kfz] Bulgarien
 BGA	ball grid array
 BGA	[IATA] Palonegro, Bucaramanga, Colombia
+BGB	Bauern-, Gewerbe- und Bürgerpartei
 BGB	[IATA] Boque, Gabon
 BGC	[IATA] Braganca, Portugal
 BGD	[IATA] Borger (Hutchinson County Airport), TX, USA
@@ -1489,6 +1494,7 @@ BOX	[IATA] Borroloola, Northern Territory, Australia
 BOY	[IATA] Bobo Dioulasso, Burkina Faso
 BOZ	[IATA] Bozoum, Central African Republic
 BP	base pointer
+BP	Bauernpartei
 BP	boot processor
 BP	[Kfz:D] Dienstfahrzeuge der Bundespolizei
 BP	[Kfz:D] Dienstfahrzeuge der Bundespost
@@ -2027,6 +2033,7 @@ CDR	Corel Draw
 CDR	[IATA] Chadron Municipal Airport, NE, USA
 CDRAM	cache dynamic random access memory
 CDS	[IATA] Childress Municipal Airport, TX, USA
+CDU	Christlich-Demokratische Union
 CDU	[IATA] Camden, New South Wales, Australia
 CDV	[IATA] Cordova, AK, USA
 CDW	[IATA] Caldwell (Essex County Airport), NJ, USA
@@ -2053,7 +2060,7 @@ CEO	[IATA] Waco Kungo, Angola
 CEP	[IATA] Concepcion, Bolivia
 CEPT	Conférence Européenne des Administrations des Postes et des Télécommunications
 CEQ	[IATA] Cannes (Mandelieu), France
-CER	canonical encoding rules
+CER	ASN.1 canonical encoding rules
 CER	[IATA] Cherbourg (Maupertus), France
 CES	[IATA] Cessnock, New South Wales, Australia
 CET	[IATA] Cholet, France
@@ -2362,6 +2369,7 @@ CO	[USA] Colorado
 COA	[IATA] Columbia Airport, CA, USA
 COB	close of business [day]
 COB	[IATA] Coolibah, Northern Territory, Australia
+COBOL	common business-oriented language
 COC	[IATA] Concordia (Comodoro Pierres), Argentina
 COC	[Kfz:D] Landkreis Cochem-Zell
 COD	complement d'objet direct
@@ -2525,6 +2533,7 @@ CSMA	carrier sense multiple access
 CSMA/CA	carrier sense multiple access with collision avoidance
 CSMA/CD	carrier sense multiple access with collision detection
 CSN	[IATA] Carson City Airport, NV, USA
+CSP	Christlichsoziale Partei
 CSP	[IATA] Cape Spencer Coast Guard Heliport, AK, USA
 CSPRNG	continuously seeded PRNG
 CSPRNG	cryptographically secure PRNG
@@ -2538,6 +2547,7 @@ CSS	cascading style sheets
 CSS	Content Scrambling System
 CSS	[IATA] Cassilandia, MG, Brazil
 CST	[IATA] Castaway, Fiji
+CSU	Christlich-Soziale Union
 CSV	comma-separated values
 CSV	[IATA] Crossville Memorial Airport, TN, USA
 CSX	[IATA] Changsha, China
@@ -2629,6 +2639,7 @@ CVL	[IATA] Cape Vogel, Papua New Guinea
 CVM	[IATA] Ciudad Victoria, Mexico
 CVN	[IATA] Clovis Municipal Airport, NM, USA
 CVO	[IATA] Corvallis Municipal Airport, OR, USA
+CVP	Christlichdemokratische Volkspartei
 CVQ	[IATA] Carnarvon, Western Australia, Australia
 CVR	[IATA] Culver City, CA, USA
 CVS	Concurrent Versions System
@@ -2884,7 +2895,7 @@ DEM	[IATA] Dembidollo, Ethiopia
 DEN	[IATA] Denver International, Colorado, USA
 DEO	[IATA] Dearborn Helistop, MI, USA
 DEP	data execution prevention
-DER	distinguished encoding rules
+DER	ASN.1 distinguished encoding rules
 DER	[IATA] Derim, Papua New Guinea
 DERP	Debian Emergency Response Person
 DES	Data Encryption Standard
@@ -2987,6 +2998,7 @@ DKDC	don't know, don't care
 DKI	[IATA] Dunk Island, Queensland, Australia
 DKIM	DomainKeys Identified Mail
 DKK	[IATA] Dunkirk Airport, NY, USA
+DKP	Deutsche Kommunistische Partei
 DKR	[IATA] Dakar (Yoff), Senegal
 DKX	[IATA] Knoxville Downtown Island Airport, TN, USA
 DL	diode logic
@@ -3118,6 +3130,7 @@ DOV	[IATA] Dover Air Force Base, DE, USA
 DOX	[IATA] Dongara, Western Australia, Australia
 DOY	[IATA] Deboyne, Papua New Guinea
 DOZ	[IATA] Dorra, Djibouti
+DP	Demokratische Partei
 DP	DisplayPort
 DPA	[IATA] Chicago (Dupage Airport), IL, USA
 DPC	deferred procedure call
@@ -3264,6 +3277,7 @@ DVP	[IATA] Davenport Downs, Queensland, Australia
 DVR	digital video recorder
 DVR	[IATA] Daly River, Northern Territory, Australia
 DVT	[IATA] Phoenix-Deer Valley Municipal Airport, AZ, USA
+DVU	Deutsche Volksunion
 DVX	[IATA] Dover/Cheswold (Delaware Airpark), DE, USA
 DW	[Kfz:D] Landkreis Dippoldiswalde
 DW	[Kfz:D] Weißeritzkreis
@@ -3389,6 +3403,7 @@ ECL	emitter-coupled logic
 ECLIPSE	Eight Cores? Look, it performs slow everywhere!
 ECLIPSE	Java's answer to EMACS
 ECM	electronic countermeasures (often: jammer)
+ECN	ASN.1 Encoding Control Notation
 ECN	explicit congestion notification
 ECN	[IATA] Ercan, Cyprus
 ECO	[IATA] El Encanto, Colombia
@@ -3566,6 +3581,7 @@ ELW	[IATA] Ellamar Seaplane Base, AK, USA
 ELWMS	Eierlegende Wollmilchsau
 ELY	[IATA] Ely Airport (Yelland Field), NV, USA
 ELZ	[IATA] Wellsville (Municipal Airport), NY, USA
+EM	Europameisterschaft
 EM	U+0019 ␙ END OF MEDIUM
 EM	[Kfz:D] Landkreis Emmendingen
 EMA	[IATA] East Midlands (Derby), England, UK
@@ -3842,6 +3858,7 @@ EVH	[IATA] Evans Head, New South Wales, Australia
 EVL	[IATA] Jevlach, Naxcivan, Azerbaijan
 EVM	[IATA] Eveleth-Virginia Municipal Airport, MN, USA
 EVN	[IATA] Yerevan (Zapadny), Armenia
+EVP	Evangelische Volkspartei der Schweiz
 EVU	[IATA] Maryville Memorial Airport, MO, USA
 EVV	[IATA] Evansville Regional Airport, IN, USA
 EVW	[IATA] Evanston-Uinta County Burns Field, WY, USA
@@ -3913,6 +3930,7 @@ FAT	file allocation table
 FAT	[IATA] Fresno Air Terminal, California, USA
 FAV	[IATA] Fakarava, Society Islands, French Polynesia
 FAY	[IATA] Fayetteville Regional Airport, NC, USA
+FAZ	Frankfurter Allgemeine Zeitung
 FB	[Kfz:D] Landkreis Friedberg in Hessen
 FB	[Kfz:D] Wetteraukreis
 FBD	[IATA] Faizabad, Afghanistan
@@ -3964,6 +3982,8 @@ FDI	FdI -- http://altlasten.lutz.donnerhacke.de/mitarb/lutz/usenet/Fachbegriffe.
 FDIK	Fick' Dich ins Knie
 FDIK	Volker Birk (VB)
 FDK	[IATA] Frederick Municipal Airport, MD, USA
+FDP	Freie Demokratische Partei
+FDP	Freisinnig-Demokratische Partei
 FDP	[IATA] Fariopur, Bangladesh
 FDR	[IATA] Frederick Municipal Airport, OK, USA
 FDS	[Kfz:D] Landkreis Freudenstadt
@@ -4177,6 +4197,7 @@ FOU	[IATA] Fougamou, Gabon
 FOX	[IATA] Fox, AK, USA
 FOXTROT	F (International Radiotelephony Spelling Alphabet)
 FOY	[IATA] Foya, Liberia
+FP	Freisinnige Partei
 FPGA	field programmable gate array
 FPM	fast page mode
 FPO	[IATA] Freeport Int'l Airport, Grand Bahama, Bahamas
@@ -4192,6 +4213,7 @@ FPS	first person shooter
 FPS	frames per second
 FPU	Floating Point Unit
 FPY	[IATA] Perry-Foley Airport, FL, USA
+FPÖ	Freiheitliche Partei Österreichs
 FQDN	fully qualified domain name
 FQT	[IATA] Merville/Calonne, France
 FR	Fr (PSE#87) Francium | Alkalimetalle | alkali metals | metalla alcalica
@@ -4645,6 +4667,7 @@ GLM	[IATA] Glenormiston, Australia
 GLN	[IATA] Goulimime, Morocco
 GLO	[IATA] Gloucester, England, UK
 GLONASS	Global National Satellite System
+GLP	Grünliberale Partei
 GLP	[IATA] Gulgubip, Papua New Guinea
 GLQ	[IATA] Glennallen (Brenwicks Airport), AK, USA
 GLR	[IATA] Gaylord (Otsego County Airport), MI, USA
@@ -4739,6 +4762,7 @@ GOW	[IATA] Garrow Lake, Canada
 GOWI	get on with it
 GOY	[IATA] Gal Oya, Sri Lanka
 GOZ	[IATA] Gorna (Orechovis), Bulgaria
+GP	Grüne Partei
 GP	[ccTLD] Guadeloupe
 GP	[Kfz:D] Landkreis Göppingen
 GPA	[IATA] Araxos, Patras, Greece
@@ -6238,6 +6262,7 @@ JSP	[IATA] Cheju (Sogwipo), South Korea
 JSR	jump to subroutine
 JSR	[IATA] Jessore, Bangladesh
 JSS	[IATA] Spetsai Island, Greenland
+JSSE	Java Secure Socket Extension
 JST	[IATA] Johnstown (Cambria County), PA, USA
 JSU	[IATA] Sukkertoppen, Greenland
 JSV	[IATA] Sunnyvale Airport, CA, USA
@@ -6694,6 +6719,7 @@ KPS	[IATA] Kempsey, New South Wales, Australia
 KPT	[IATA] Jackpot Airport (Hayden Field), NV, USA
 KPV	[IATA] Perryville Airport, AK, USA
 KPY	[IATA] Port Bailey Seaplane Base, AK, USA
+KPÖ	Kommunistische Partei Österreichs
 KQA	[IATA] Akutan Seaplane Base, AK, USA
 KQB	[IATA] Koonibba, South Australia, Australia
 KQL	[IATA] Kol, Papua New Guinea
@@ -6820,6 +6846,7 @@ KVL	[IATA] Kivalina Airport, AK, USA
 KVM	kernel virtual machine (virtualisation module for Linux)
 KVM	kernel virtual memory
 KVM	keyboard, video and mouse (switch)
+KVP	Katholische Volkspartei
 KVU	[IATA] Korolevu, Fiji
 KVX	[IATA] Kirov (Lyangasodv), Russia
 KW	[ccTLD] Kuwait
@@ -7029,6 +7056,7 @@ LDR	light-dependent resistor
 LDR	[IATA] Lodar, Yemen
 LDS	[Kfz:D] Landkreis Dahme-Spreewald
 LDT	local descriptor table
+LDU	Landesring der Unabhängigen
 LDU	[IATA] Lahad Datu, Sabah, Malaysia
 LDVM	Lies das verdammte Manual
 LDW	[IATA] Lansdowne Station, W. Australia, Australia
@@ -7081,7 +7109,7 @@ LFO	low-frequency oscillation
 LFO	[IATA] Kelafo, Ethiopia
 LFP	[IATA] Lakefield, Queensland, Australia
 LFR	[IATA] La Fria, Venezuela
-LFS	Large File Support
+LFS	Large File Summit
 LFS	Linux from Scratch
 LFS	Live for Speed (online racing simulator)
 LFS	log-structured file system
@@ -7144,6 +7172,7 @@ LIB	[IATA] Limbunya, Northern Territory, Australia
 LIB	[Kfz:D] Landkreis Bad Liebenwerda
 LIC	[IATA] Limon Municipal Airport, CO, USA
 LIE	[IATA] Libenge, Zaire
+LIF	Liberales Forum
 LIF	[IATA] Lifou, Loyalty Islands, New Caledonia
 LIF	[Kfz:D] Landkreis Lichtenfels
 LIFO	last in, first out
@@ -7328,6 +7357,7 @@ LOY	[IATA] Lolyangalani, Kenya
 LOZ	[IATA] London-Corbin Airport (Magee Field), KY, USA
 LP	Langspielplatte (Schallplatte)
 LP	Launchpad(.net)
+LP	Liberale Partei
 LP	long playing (record)
 LP	[gc] Leitplanke
 LP	[gc] Lost Place
@@ -9020,6 +9050,7 @@ NP	[Kfz:D] Landkreis Neuruppin
 NPA	[IATA] Pensacola (Forrest Sherman Field), FL, USA
 NPB	[IATA] Nuiatoputapu, Tonga
 NPC	non-player character
+NPD	Nationaldemokratische Partei Deutschlands
 NPE	NULL pointer exception
 NPE	[IATA] Napier/Hastings, New Zealand
 NPG	[IATA] Nipa, Papua New Guinea
@@ -9345,6 +9376,7 @@ OHV	[Kfz:D] Landkreis Oberhavel
 OHZ	[Kfz:D] Landkreis Osterholz
 OIC	oh, I see
 OIC	[IATA] Norwich (Lt. Warren Eaton Airport), NY, USA
+OID	Object identifier
 OID	of iets dergelijks (or so, or something like that)
 OIL	[IATA] Oil City (Splane Memorial Airport), PA, USA
 OIM	[IATA] Oshima Island, Japan
@@ -9541,6 +9573,7 @@ OSB	[IATA] Osage Beach (Linn Creek), MO, USA
 OSC	U+009D OPERATING SYSTEM COMMAND
 OSC	[IATA] Oscoda-Wurtsmith Airport, MI, USA
 OSCAR	O (International Radiotelephony Spelling Alphabet)
+OSCE	Organization for Security and Co-operation in Europe (OSZE)
 OSD	open source definition
 OSD	[IATA] Ostersund (Froson Air Base), Sweden
 OSE	[IATA] Omora, Papua New Guinea
@@ -9574,6 +9607,7 @@ OSW	[IATA] Orsk, Orenburg, Russia
 OSX	[IATA] Kosciusko-Attala County Airport, MS, USA
 OSY	[IATA] Namsos, Norway
 OSZ	[IATA] Koszalin, Poland
+OSZE	Organisation für Sicherheit und Zusammenarbeit in Europa (OSCE)
 OT	off topic
 OT	offene Tür
 OT	ohne Themenbezug
@@ -9838,6 +9872,7 @@ PDP	Policy Decision Point
 PDP	[IATA] Punta del Este (El Jacuel), Uruguay
 PDQ	pretty darn quick
 PDR	[IATA] Presidente Dutra, Brazil
+PDS	Partei des Demokratischen Sozialismus (jetzt Linkspartei, mit WASG)
 PDS	please don't shout
 PDS	Policy Decision Service
 PDS	product data sheet
@@ -9878,7 +9913,7 @@ PEP	protocol extension protocol
 PEP	Python Enhancement Proposal
 PEP	[IATA] Peppimenarti, Northern Territory, Australia
 PEQ	[IATA] Pecos Municipal Airport, TX, USA
-PER	packed encoding rules
+PER	ASN.1 packed encoding rules
 PER	[IATA] Perth, Western Australia, Australia
 PER	[Kfz:D] Landkreis Perleberg
 PERL	Pathologically Eclectic Rubbish Lister
@@ -11032,6 +11067,7 @@ REL	[IATA] Trelew (Almirante Zar), Argentina
 REMF	rear echelon motherfucker
 REN	[IATA] Orenburg, Russia
 REO	[IATA] Rome (State Airport), OR, USA
+REP	die REPublikaner
 REP	[IATA] Siem Reap (Angkor), Cambodia
 REPL	read-eval-print loop
 REQ	[IATA] Requena, Spain
@@ -11305,6 +11341,7 @@ RPX	[IATA] Roundup Airport, MT, USA
 RR	railroad
 RR	random replacement
 RR	round robin
+RRC	UMTS Radio Resource Control
 RRE	[IATA] Marree, South Australia, Australia
 RRG	[IATA] Rodrigues Island, Mauritius
 RRI	[IATA] Barora, Solomon Islands
@@ -11698,6 +11735,7 @@ SCX	[IATA] Salina Cruz, Mexico
 SCY	[IATA] San Francisco, Peru
 SCZ	[IATA] Santa Cruz, Solomon Islands
 SCZ	[Kfz:D] Landkreis Schleiz
+SD	Schweizer Demokraten
 SD	[ccTLD] Sudan
 SD	[Kfz] Swasiland
 SD	[USA] South Dakota
@@ -11722,6 +11760,7 @@ SDL	[Kfz:D] Landkreis Stendal
 SDM	[IATA] San Diego (Brown Field Municipal), CA, USA
 SDN	[IATA] Sandane (Anda), Norway
 SDO	[IATA] Ryotsu, Sado Island, Japan
+SDP	(Blåtand) Service Discovery Protocol
 SDP	[IATA] Sand Point Airport, AK, USA
 SDQ	[IATA] Santo Domingo), Dominican Republic
 SDR	software defined radio
@@ -12091,6 +12130,7 @@ SLO	[IATA] Salem-Leckrone Airport, IL, USA
 SLO	[Kfz] Slowenien
 SLOB	source BLOB
 SLOC	source lines of code
+SLP	Sozialistische LinksPartei
 SLP	[IATA] San Luis Potosi, Mexico
 SLQ	[IATA] Sleetmute Airport, AK, USA
 SLR	single-lens reflex camera
@@ -12267,6 +12307,7 @@ SOX	[IATA] Sogamoso, Colombia
 SOXISIX	6 (International Radiotelephony Spelling Alphabet)
 SOY	[IATA] Stronsay, United Kingdom
 SP	service pack
+SP	Sozialdemokratische Partei (der Schweiz)
 SP	spelling
 SP	stack pointer
 SP	U+0020 ␠ SPACE
@@ -12283,6 +12324,7 @@ SPB	[Kfz:D] Landkreis Spremberg
 SPC	[IATA] Santa Cruz de la Palma, Spain
 SPD	security policy database
 SPD	serial presence detect
+SPD	Sozialdemokratische Partei Deutschlands
 SPD	[IATA] Said Pur, Bangladesh
 SPDIF	cf. S/PDIF
 SPE	signal processing engine (powerpcspe)
@@ -12321,6 +12363,7 @@ SPW	[IATA] Spencer Municipal Airport, IA, USA
 SPX	[IATA] Houston (Spaceland), TX, USA
 SPY	[IATA] San Pedro, Ivory Coast
 SPZ	[IATA] Springdale Municipal Airport, AR, USA
+SPÖ	Sozialdemokratische Partei Österreichs
 SQ	[Kfz] Slowakei (veraltet)
 SQA	software quality assurance
 SQA	[IATA] Santa Inez, CA, USA
@@ -12578,6 +12621,7 @@ SVM	[IATA] St. Paul's Mission, Queensland, Australia
 SVN	[IATA] Savannah (Hunter Army Air Field), GA, USA
 SVO	[IATA] Moscow (Sheremetyevo 2), Russia
 SVP	please (french: s'il vous plaît)
+SVP	Schweizerische Volkspartei
 SVP	[IATA] Kuito, Angola
 SVQ	[IATA] Sevilla (San Pablo), Spain
 SVR	System V Release
@@ -13114,6 +13158,7 @@ TLS	[IATA] Toulouse (Blagnac), France
 TLT	[IATA] Tuluksak Airport, AK, USA
 TLT	[Kfz] Freies Territorium Triest (veraltet)
 TLU	[IATA] Tolu, Colombia
+TLV	Type-Length-Value
 TLV	[IATA] Tel Aviv, Israel
 TLW	[IATA] Talasea, Papua New Guinea
 TLX	[IATA] Talca, Chile
@@ -14157,6 +14202,7 @@ WAR	[IATA] Waris, Indonesia
 WAR	[Kfz:D] Landkreis, ab 1969 Kreis Warburg
 WARUM	darum (cf. WHY)
 WAS	[IATA] All Airports around Washington, District of Columbia, USA
+WASG	Wahlalternative Arbeit und Soziale Gerechtigkeit (jetzt Linkspartei, mit PDF)
 WAT	[IATA] Waterford, Ireland
 WAT	[Kfz:D] kreisfreie Stadt Wattenscheid
 WAU	[IATA] Wauchope, New South Wales, Australia
@@ -14340,6 +14386,7 @@ WLO	[IATA] Waterloo, Northern Territory, Australia
 WLR	[IATA] Loring (Seaplane Base), AK, USA
 WLS	[IATA] Wallis Island (Hihifo), Wallis and Futuna Islands
 WLW	[IATA] Willows (Glenn County), CA, USA
+WM	Weltmeisterschaft
 WM	write miss
 WM	[Kfz:D] Landkreis Weilheim in Oberbayern
 WM	[Kfz:D] Landkreis Weilheim-Schongau
@@ -14518,6 +14565,7 @@ WTS	waiting to sell
 WTS	want to sell
 WTS	willing to sell
 WTS	[IATA] Tsiroanomandidy, Madagascar
+WTSA	World Telecommunication Standardisation Assembly
 WTT	waiting to trade
 WTT	want to trade
 WTT	willing to trade
@@ -14631,7 +14679,7 @@ XEL	[IATA] New Carlisle / Via Rail Service, Quebec, Canada
 XEM	[IATA] New Richmond / Via Rail Service, Quebec, Canada
 XEN	[IATA] Xingcheng, China
 XEP	XMPP Extension Protocol
-XER	XML encoding rules
+XER	ASN.1 XML encoding rules
 XES	[IATA] Lake Geneva (Aire Estates Airport), WI, USA
 XEY	[IATA] Newcastle / Via Rail Service, New Brunswick, Canada
 XFD	[IATA] Stratford, Ontario, Canada
@@ -14729,6 +14777,7 @@ XRR	[IATA] Ross River, YT, Canada
 XRY	[IATA] Jerez de la Frontera, Spain
 XSB	[IATA] St. Malo, France
 XSC	[IATA] South Caicos Is., Turks & Caicos
+XSD	XML Schema Definition
 XSE	[IATA] Sebba, Burkina Faso
 XSI	[IATA] South Indian Lake, MB, Canada
 XSL	extensible stylesheet language
@@ -15509,6 +15558,7 @@ ZZV	[IATA] Zanesville Municipal Airport, OH, USA
 ÖHR	[Kfz:D] Landkreis Öhringen
 ÖKONOM	Ö (deutsches Funkalphabet)
 ÖPNV	Öffentlicher Personennahverkehr (public transport)
+ÖVP	Österreichische Volkspartei
 ÜB	[Kfz:D] Landkreis Überlingen
 ÜBERMUT	Ü (deutsches Funkalphabet)
 СРБ	[ccTLD] Serbien
