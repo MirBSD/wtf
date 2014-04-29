@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.368 2014/04/28 21:10:28 tg Exp $
+$MirOS: wtf/acronyms,v 1.369 2014/04/29 19:48:45 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.223 2014/03/10 17:56:21 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -2405,6 +2405,7 @@ COS	Kosinus
 COS	[HP] Chamber of Secrets
 COS	[IATA] Peterson, Colorado Springs, USA
 COT	[IATA] Cotulla-La Salle County Airport, TX, USA
+COTD	[GC] Cache of the Day
 COTS	commercial off-the-shelf
 COU	[IATA] Columbia Regional Airport, MO, USA
 COV	[IATA] Covilha, Portugal
