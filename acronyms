@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.369 2014/04/29 19:48:45 tg Exp $
+$MirOS: wtf/acronyms,v 1.370 2014/04/30 20:26:34 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.223 2014/03/10 17:56:21 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -553,6 +553,7 @@ APC	U+009F APPLICATION PROGRAM COMMAND
 APC	[IATA] Napa County Airport, CA, USA
 APD	[Kfz:D] Landkreis Apolda
 APE	[IATA] San Juan Aposento, Peru
+APEX	[Oracle] APplication EXpress
 APF	[IATA] Naples Municipal Airport, FL, USA
 APG	[IATA] Aberdeen Proving Ground, MD, USA
 APH	[IATA] Bowling Green/Fort A. P. Hill, VA, USA
@@ -1935,6 +1936,7 @@ CBB	[IATA] Cochabamba (Jorge Wilsterman), Bolivia
 CBC	cipher block chaining
 CBC	[IATA] Cherrabun, Western Australia, Australia
 CBD	[IATA] Car Nicobar, India
+CBDO	Chief Business Development Officer
 CBE	[IATA] Cumberland Airport, MD, USA
 CBF	[IATA] Council Bluffs Municipal Airport, IA, USA
 CBG	[IATA] Cambridge, England, UK
@@ -2395,6 +2397,7 @@ COM	[Kfz] Komoren
 COM	[uTLD] commercial (Firmen)
 COMA	cache-only memory architecture
 CON	[IATA] Concord Municipal Airport, NH, USA
+COO	Chief Operating Officer
 COO	[IATA] Cotonou (Cadjehoun), Benin
 COOP	[sTLD] cooperatives (Gesellschaften)
 COQ	[IATA] Conquista, MG, Brazil
@@ -7687,6 +7690,7 @@ MBL	[IATA] Manistee County-Blacker Airport, MI, USA
 MBM	[IATA] Mkambati, South Africa
 MBN	[IATA] Mount Barnett, Western Australia, Australia
 MBO	[IATA] Mamburao, Philippines
+MBP	MacBook Pro
 MBP	[IATA] Moyobamba, Peru
 MBQ	[IATA] Mbarara, Uganda
 MBR	master boot record
@@ -10161,6 +10165,7 @@ PMM	[IATA] Phanom Sarakham, Thailand
 PMMU	Paged Memory Management Unit
 PMMU	programmable MMU
 PMN	[IATA] Pumani, Papua New Guinea
+PMO	project management office
 PMO	[gc] premium member only (restricted cache listing on GC.com)
 PMO	[IATA] Palermo (Punta Raisi), Sicily, Italy
 PMON	[Oracle] Process Monitor
@@ -14096,6 +14101,7 @@ VRE	[IATA] Vredendal, South Africa
 VRK	[IATA] Varkaus, Finland
 VRL	[IATA] Vila Real, Portugal
 VRM	voltage regulator module
+VRML	Virtual Reality Modeling Language
 VRN	[IATA] Verona (Villafranca), Italy
 VRRP	Virtual Router Redundancy Protocol
 VRS	[IATA] Versailles, France
