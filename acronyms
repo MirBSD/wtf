@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.370 2014/04/30 20:26:34 tg Exp $
+$MirOS: wtf/acronyms,v 1.371 2014/05/01 20:24:33 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.223 2014/03/10 17:56:21 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -325,6 +325,7 @@ AIB	[Kfz:D] Landkreis Bad Aibling
 AIC	[IATA] Airok, Marshall Islands
 AIC	[Kfz:D] Landkreis Aichach-Friedberg
 AID	[IATA] Anderson Municipal Airport, IN, USA
+AIDA	attention, interest, desire, action
 AIE	[IATA] Aiome, Papua New Guinea
 AIF	[IATA] Assis, SP, Brazil
 AIG	[IATA] Yalinga, Central African Republic
@@ -6536,7 +6537,10 @@ KIQ	[IATA] Kira, Papua New Guinea
 KIR	[IATA] Killarney, County Kerry, Ireland
 KIR	[Kfz] Kiribati
 KIS	[IATA] Kisumu, Kenya
+KISS	keep it safe and simple
+KISS	keep it safe and sound
 KISS	keep it short and simple
+KISS	keep it simple and safe
 KISS	keep it simple and smart
 KISS	keep it simple and straightforward
 KISS	keep it simple and stupid
@@ -6832,6 +6836,7 @@ KUQ	[IATA] Kuri, Papua New Guinea
 KUR	[IATA] Kuran, Afghanistan
 KUS	[IATA] Kulusuk Island, Greenland
 KUS	[Kfz:D] Landkreis Kusel
+KUSS	kurz und simpel siegt
 KUT	[IATA] Kutaisi, Georgia
 KUU	[IATA] Kulu, India
 KUV	[IATA] Kunsan, South Korea
@@ -7669,6 +7674,7 @@ MAV	[IATA] Maloelap Airport, Marshall Islands
 MAW	[IATA] Malden (Municipal Airport), MO, USA
 MAX	[IATA] Matam, Senegal
 MAY	[IATA] Mangrove Cay, Bahamas
+MAYA	most advanced yet acceptable
 MAZ	[IATA] Mayaguez (Eugenio Maria de Hostos), Puerto Rico
 MB	megabyte
 MB	[CDN] Manitoba
@@ -9903,6 +9909,7 @@ PEBCAK	reverse'ism for PEBKAC
 PEBKAC	problem exists between keyboard and chair
 PEC	[IATA] Pelican (Seaplane Base), AK, USA
 PECI	platform environment control interface
+PEE	point, evidence, explain
 PEE	[IATA] Perm (Bolshesavino), Russia
 PEG	[IATA] Perugia (S. Egidio), Italy
 PEG	[Kfz:D] Landkreis Pegnitz
