@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.371 2014/05/01 20:24:33 tg Exp $
+$MirOS: wtf/acronyms,v 1.372 2014/05/02 22:24:13 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.223 2014/03/10 17:56:21 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -2174,8 +2174,9 @@ CI	corporate identity
 CI	[ccTLD] Elfenbeinküste
 CI	[Kfz] Elfenbeinküste
 CI/CD	corporate identity/design
+CIA	(Information Security basic attributes) Confidentiality, Integrity, Availability
 CIA	Central Intelligence Agency (USA)
-CIA	Instant Version Control Informant bots
+CIA	Instant Version Control Informant bots (now KGB)
 CIA	[IATA] Rome (Ciampino), Italy
 CIB	[IATA] Avalon Bay Seaplane Base, CA, USA
 CIC	[IATA] Chico Municipal Airport, CA, USA
@@ -3198,6 +3199,7 @@ DSC	[IATA] Dschang, Cameroon
 DSD	[IATA] La Desirade, Guadeloupe
 DSDT	differentiated system descriptor table
 DSE	[IATA] Dessie, Ethiopia
+DSFC	Defence Sixth Form College
 DSI	[IATA] Destin-Fort Walton Beach Airport, FL, USA
 DSK	[IATA] Dera Ismail Khan, Pakistan
 DSKM	[Oracle] Slave Diskmon Process
@@ -3421,6 +3423,7 @@ ECR	[IATA] El Charco, Colombia
 ECS	enhanced chip set
 ECS	extended configuration space
 ECS	[IATA] Newcastle (Mondell Field), WY, USA
+ECSC	European Coal and Steel Community (EGKS)
 ECSD	HSCSD over EDGE
 ECTS	European Credit Transfer System
 ED	edition
@@ -3490,6 +3493,8 @@ EGC	[IATA] Bergerac, France
 EGE	[IATA] Vail (Eagle County Regional Airport), CO, USA
 EGI	[IATA] Valparaiso (Eglin Air Forcet), FL, USA
 EGID	effective group ID
+EGKS	Europese Gemeenschap voor Kolen en Staal
+EGKS	Europäische Gemeinschaft für Kohle und Stahl (Montanunion)
 EGL	[IATA] Neghelli, Ethiopia
 EGM	[IATA] Sege, Solomon Islands
 EGN	[IATA] El Geneina, Sudan
@@ -3874,6 +3879,7 @@ EWAG	experienced wild-ass guess
 EWB	[IATA] New Bedford Municipal Airport, MA, USA
 EWE	Epilogue? What Epilogue? (usually in HP context)
 EWE	[IATA] Ewer, Indonesia
+EWG	Europäische Wirtschaftsgemeinschaft
 EWI	[IATA] Enarotali, Indonesia
 EWK	[IATA] Newton-City (County Airport), KS, USA
 EWN	[IATA] New Bern (Craven County), NC, USA
@@ -4295,6 +4301,7 @@ FTA	fault tree analysis
 FTA	[IATA] Futuna Island, Wallis and Futuna Islands
 FTBFS	fails to build from source
 FTBFS	failure to build from source
+FTCBFS	fails to cross-build from source
 FTE	[IATA] Comandante Armando Tola International, El Calafate, Argentina
 FTF	[gc] first to find
 FTFA	from the fucking article
@@ -5600,6 +5607,7 @@ IDB	[IATA] Idre, Sweden
 IDC	I don't care
 IDCMP	Intuition direct communication message port
 IDD	inderdaad (dutch; indeed)
+IDD	International Direct Dialling
 IDE	integrated development environment
 IDE	integrated drive electronics
 IDEA	International Data Encryption Algorithm
@@ -5901,6 +5909,7 @@ ISAGN	I see a great need
 ISB	[IATA] Islamabad, Pakistan
 ISBN	International Standard Book Number
 ISC	[IATA] Scilly Isles (St. Mary's Airport), England, UK
+ISD	international subscriber dialing (now IDD)
 ISD	[IATA] Iscuande, Colombia
 ISDN	integrated services digital network
 ISG	[IATA] Ishigaki, Japan
@@ -6467,6 +6476,7 @@ KFZ	Kraftfahrzeug (autonomously powered vehicle)
 KG	[ccTLD] Kirgisistan
 KG	[Kfz:D] Landkreis Bad Kissingen
 KGA	[IATA] Kananga, Zaire
+KGB	Instant Version Control Informant bots
 KGB	[IATA] Konge, Papua New Guinea
 KGC	[IATA] Kingscote (Kangaroo Island), Sth Australia
 KGD	[IATA] Kaliningrad, Russia
@@ -8541,6 +8551,8 @@ MVW	[IATA] Mount Vernon (Barker Airport), WA, USA
 MVX	[IATA] Minvoul, Gabon
 MVY	[IATA] Martha's Vineyard (Vineyard Haven), MA, USA
 MVZ	[IATA] Masvingo, Zimbabwe
+MW	medium-wave
+MW	Mittelwelle
 MW	U+0095 MESSAGE WAITING
 MW	[ccTLD] Malawi
 MW	[Kfz:D] Landkreis Mittweida
@@ -9613,6 +9625,7 @@ OST	[IATA] Ostend, Belgium
 OSTD	[Schule DE] Oberstudiendirektor
 OSTR	[Schule DE] Oberstudienrat
 OSU	[IATA] Columbus (Ohio State University), OH, USA
+OSV	operating system vendor
 OSVW	operating system visible workarounds
 OSW	[IATA] Orsk, Orenburg, Russia
 OSX	[IATA] Kosciusko-Attala County Airport, MS, USA
@@ -11672,6 +11685,7 @@ SBP	[IATA] San Luis Obispo County Airport, CA, USA
 SBQ	[IATA] Sibi, Pakistan
 SBR	[IATA] Saibai Island, Queensland, Australia
 SBS	[IATA] Steamboat Springs, CO, USA
+SBSA	Server Base System Architecture
 SBT	[IATA] San Bernardino (County Heliport), CA, USA
 SBU	standard build unit
 SBU	[IATA] Springbok, South Africa
@@ -12522,6 +12536,7 @@ STD	[Schule DE] Studiendirektor
 STE	[IATA] Stevens Point Municipal Airport, WI, USA
 STE	[Kfz:D] Landkreis Staffelstein
 STEM	Science, Technology, Engineering and Math
+STF	[gc] second time find
 STF	[gc] second to find
 STF	[IATA] Stephen Island, Queensland, Australia
 STFA	search the fscking archives
@@ -12788,6 +12803,7 @@ T W	[Kfz:D] temporäres Kennzeichen der US-Streitkräfte Wiesbaden
 T&S	Tasks and Skills
 T4T$	thanks for the cash (see also: TFTC)
 T4TC	[gc] thanks for the cache
+T4TE	[gc] thanks for the event cache
 TA	Ta (PSE#73) Tantalum, Tantal | Übergangsmetalle | transition metals | metalla transitionis
 TA	teaching assistant
 TA	test assertion
@@ -12989,6 +13005,7 @@ TFSMIF	Thank the Flying Spaghetti Monster It's Friday
 TFT	thin film transistor
 TFT	[IATA] Taftan, Pakistan
 TFTC	[gc] thanks for the cache
+TFTE	[gc] thanks for the event cache
 TFTH	[gc] thanks for the hunt
 TFTP	Trivial File Transfer Protocol
 TFY	[IATA] Tarfaya, Morocco
@@ -13600,6 +13617,7 @@ UBUNTU	I am too stupid to configure Debian.
 UBX	[IATA] Cuba Municipal Airport, MO, USA
 UC	uncacheable
 UCA	[IATA] Utica/Oneida County, New York, USA
+UCAS	Universities & Colleges Admissions Service
 UCC	Underhanded C Contest
 UCC	[IATA] Yucca Flats, NV, USA
 UCE	[IATA] Eunice Airport, LA, USA
@@ -13623,6 +13641,7 @@ UDP	User Datagram Protocol
 UDR	[IATA] Udaipur, India
 UE	[Kfz:D] Landkreis Uelzen
 UEE	[IATA] Queenstown, Tasmania, Australia
+UEFI	unified extensible firmware interface
 UEL	[IATA] Quelimane, Mozambique
 UEM	[Kfz:D] Landkreis Ueckermünde
 UEO	[IATA] Kume Jima, Japan
@@ -13643,6 +13662,7 @@ UGO	[IATA] Uige, Angola
 UGT	Universal Greeting Time -- http://thinkmoult.com/ugt.html
 UH	[Kfz:D] Unstrut-Hainich-Kreis
 UHE	[IATA] Uherske Hradiste, Slovakia
+UHF	ultra high frequency
 UHF	[IATA] Upper Heyford (RAF Station), England, UK
 UI	unit interval
 UI	user interface
@@ -13983,6 +14003,7 @@ VH	very helpful (lilo lingo, from IRC)
 VHC	[IATA] Saurimo, Angola
 VHDCI	very high density cable interconnect
 VHDL	VHSIC Hardware Description Language
+VHF	very high frequency
 VHM	[IATA] Vilhelmina, Sweden
 VHN	[IATA] Van Horn (Culberson County Airport), TX, USA
 VHSIC	Very High Speed Integrated Circuit
