@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.372 2014/05/02 22:24:13 tg Exp $
+$MirOS: wtf/acronyms,v 1.373 2014/05/04 00:37:42 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.223 2014/03/10 17:56:21 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -666,6 +666,7 @@ ASD	[IATA] Andros Town International, Bahamas
 ASD	[Kfz:D] Landkreis Aschendorf-Hümmling
 ASE	advanced software environment
 ASE	[IATA] Pitkin County/Sardy Field, Aspen, CO, USA
+ASEAN	Association of Southeast Asian Nations
 ASF	The Apache™ Foundation
 ASF	[IATA] Astrakhan, Russia
 ASG	[IATA] Ashburton, New Zealand
