@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.373 2014/05/04 00:37:42 tg Exp $
+$MirOS: wtf/acronyms,v 1.374 2014/05/04 19:25:10 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.223 2014/03/10 17:56:21 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -3943,6 +3943,8 @@ FAT	[IATA] Fresno Air Terminal, California, USA
 FAV	[IATA] Fakarava, Society Islands, French Polynesia
 FAY	[IATA] Fayetteville Regional Airport, NC, USA
 FAZ	Frankfurter Allgemeine Zeitung
+FB	Facebook
+FB	Frozen-Bubble
 FB	[Kfz:D] Landkreis Friedberg in Hessen
 FB	[Kfz:D] Wetteraukreis
 FBD	[IATA] Faizabad, Afghanistan
@@ -15264,7 +15266,7 @@ YSW	[IATA] Snowdrift, NT, Canada
 YSX	[IATA] Halifax (Shearwater Airport), NS, Canada
 YSY	[IATA] Sachs Harbour, NT, Canada
 YSZ	[IATA] Ste-Anne-des-Monts, QC, Canada
-YT	youtube
+YT	Youtube
 YT	[ccTLD] Mayotte (Frankreich) (auch .fr)
 YT	[CDN] Yukon
 YTA	[IATA] Pembroke, ON, Canada
