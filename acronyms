@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.374 2014/05/04 19:25:10 tg Exp $
+$MirOS: wtf/acronyms,v 1.375 2014/05/05 18:42:20 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.223 2014/03/10 17:56:21 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -13603,8 +13603,11 @@ UAM	[IATA] Andersen Island (Andersen Air Force Base), Guam
 UAP	[IATA] Ua Pu, Marquesas Islands, French Polynesia
 UAQ	[IATA] San Juan, Argentina
 UART	universal asynchronous receiver/transmitter
+UAS	unmanned aircraft system
 UAS	[IATA] Samburu, Kenya
 UAT	user acceptance testing
+UAV	unmanned aerial vehicle
+UAVS	unmanned aerial vehicle system
 UAX	[IATA] Uaxactun, Guatemala
 UB	Undefined Behaviour
 UBA	[IATA] Uberaba, MG, Brazil
