@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.375 2014/05/05 18:42:20 tg Exp $
+$MirOS: wtf/acronyms,v 1.376 2014/05/08 20:25:17 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.223 2014/03/10 17:56:21 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -2313,6 +2313,7 @@ CMK	[IATA] Makokola, Malawi
 CML	[IATA] Camooweal, Queensland, Australia
 CMM	[IATA] Carmelita, Guatemala
 CMN	[IATA] Casablanca (Mohamed V), [155]Morocco
+CMO	Chief Marketing Officer
 CMO	[IATA] Obbia, Somalia
 CMOS	complementary metal-oxide-semiconductor
 CMP	chip multi-processing
@@ -4324,6 +4325,7 @@ FTL	[Kfz:D] Landkreis Freital
 FTMFW	for the motherfucking win
 FTP	File Transfer Protocol (needs to die)
 FTPS	File Transfer Protocol, SSL secured
+FTR	for the record
 FTS	fuck that shit
 FTT	[IATA] Fulton, MO, USA
 FTTT	from time to time
@@ -10957,6 +10959,7 @@ RAG	[IATA] Ragland, New Zealand
 RAH	[IATA] Rafha, Saudi Arabia
 RAI	[IATA] Praia, Sao Tiago, Cape Verde
 RAID	redundant array of {independent,inexpensive} disks
+RAIP	redundant array of insincere promises
 RAJ	[IATA] Rajkot, India
 RAK	[IATA] Marrakech (Menara), Morocco
 RAL	[IATA] Riverside Municipal Airport, CA, USA
