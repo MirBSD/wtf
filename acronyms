@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.376 2014/05/08 20:25:17 tg Exp $
+$MirOS: wtf/acronyms,v 1.377 2014/05/11 17:23:21 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.223 2014/03/10 17:56:21 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -94,6 +94,7 @@ ABG	[IATA] Abingoon, Queensland, Australia
 ABG	[Kfz:D] Landkreis Altenburger Land
 ABH	[IATA] Alpha, Queensland, Australia
 ABI	application binary interface
+ABI	Codice ABI, Associazione bancaria italiana
 ABI	[IATA] Abilene Regional Airport, TX, USA
 ABI	[Kfz:D] Landkreis Anhalt-Bitterfeld
 ABJ	[IATA] Abidjan (Port-Bouet), Ivory Coast
@@ -178,6 +179,7 @@ ADB	[IATA] Izmir (Adnan Menderes), Turkey
 ADC	analog [to] digital converter
 ADC	[IATA] Altenburg Nobitz, Germany
 ADD	acronym driven development
+ADD	addition
 ADD	attention deficit disorder
 ADD	[IATA] Addis Ababa (Bole), Ethiopia
 ADE	[IATA] Aden (International), Yemen
@@ -962,6 +964,7 @@ BB	Brandenburg
 BB	[ccTLD] Barbados
 BB	[Kfz:D] Landkreis Böblingen
 BBA	[IATA] Balmaceda, Chile
+BBAN	Basic Bank Account Number
 BBB	[IATA] Benson Municipal Airport, MN, USA
 BBC	British Broadcasting Company
 BBC	[IATA] Bay City Municipal Airport, TX, USA
@@ -1374,6 +1377,7 @@ BLV	[IATA] Belleville (Scott Air Force Base), IL, USA
 BLW	[IATA] Waimanalo, HI, USA
 BLX	[IATA] Belluno, Italy
 BLY	[IATA] Belmullet, Ireland
+BLZ	Bankleitzahl (now BIC)
 BLZ	[IATA] Blantyre (Chileka), Malawi
 BLZ	[IATA] Chileka International, Blantyre, Malawi
 BM	Bereifter Mörder
@@ -1882,6 +1886,7 @@ CA	[ccTLD] Kanada
 CA	[Kfz:D] Landkreis Calau
 CA	[USA] California
 CAA	[IATA] Catacamas, Honduras
+CAB	Codice d'Avviamento Bancario
 CAB	[IATA] Cabinda, Angola
 CABAL	http://www.lucianobello.com.ar/post/there-is-no-cabal-but-whats-a-cabal/
 CABAL	TINC
@@ -2196,7 +2201,9 @@ CIK	[IATA] Chalkyitsik Airport, AK, USA
 CIL	common intermediate language
 CIL	[IATA] Council Airport, AK, USA
 CIM	[IATA] Cimitarra, Colombia
+CIN	Control Internal number
 CIN	[IATA] Carroll (Arthur N. Neu Airport), IA, USA
+CIO	Chief Infrastructure Officer
 CIP	[IATA] Chipata, Zambia
 CIQ	[IATA] Chiquimula, Guatemala
 CIR	carrier-to-interference ratio
@@ -2979,6 +2986,7 @@ DIQ	[IATA] Divinopolis, MG, Brazil
 DIR	[IATA] Dire Dawa (Aba Tenna D. Yilma), Ethiopia
 DIRT	design in real time
 DIS	[IATA] Dolisie, Congo
+DIV	division
 DIW	[IATA] Diwan of Royal Court, Oman
 DIY	do it yourself
 DIY	[IATA] Diyarbakir, Turkey
@@ -3708,6 +3716,7 @@ EOWNERDEAD	(#97) Previous owner died
 EOZ	[IATA] Elorza, Venezuela
 EPA	End of Protected Area (U+0097)
 EPA	U+0097 END OF GUARDED AREA
+EPC	European Payments Council
 EPERM	(#1) Operation not permitted
 EPFNOSUPPORT	(#46) Protocol family not supported
 EPG	[IATA] Weeping Water (Browns Airport), NE, USA
@@ -4025,6 +4034,7 @@ FET	[IATA] Fremont Municipal Airport, NE, USA
 FEU	[Kfz:D] Landkreis Feuchtwangen
 FEW	[IATA] Francis E. Warren Air Force Base, WY, USA
 FEZ	[IATA] Fes (Saiss), Morocco
+FF	Final Fantasy
 FF	Form Feed (U+000C)
 FF	[gc] first finder’s code (TC)
 FF	[Kfz:D] kreisfreie Stadt Frankfurt (Oder)
@@ -6819,6 +6829,7 @@ KTK	[IATA] Kanua, Papua New Guinea
 KTL	[IATA] Kitale, Kenya
 KTM	[IATA] Kathmandu (Tribhuvan), Nepal
 KTN	[IATA] Ketchikan International Airport, AK, USA
+KTO	Konto
 KTO	[IATA] Kato, Guyana
 KTP	[IATA] Kingston (Tinson), Jamaica
 KTR	[IATA] Katherine, Northern Territory, Australia
@@ -8253,6 +8264,7 @@ MOB	[IATA] Mobile Municipal/Bates Field, Alabama, USA
 MOBI	[sTLD] mobile (Dienste, die die Nutzung durch mobile Endgeräte explizit unterstützen)
 MOC	[IATA] Montes Claros, MG, Brazil
 MOC	[Kfz] Mosambik
+MOD	modulo
 MOD	[IATA] Modesto City (Harry Sham Field), CA, USA
 MOD	[Kfz:D] Landkreis Marktoberdorf
 MOD	[Kfz:D] Landkreis Ostallgäu
@@ -8504,6 +8516,7 @@ MUH	[IATA] Marsa Matrum (Mersa Matruh), Egypt
 MUI	[IATA] Indiantown (Muir Army Air Field), PA, USA
 MUJ	[IATA] Mui, Ethiopia
 MUK	[IATA] Mauke, Cook Islands
+MUL	multiplication
 MUL	[IATA] Moultrie (Spence Airport), GA, USA
 MULTICS	Multiplexed Information and Computing Service
 MUM	[IATA] Mumias, Kenya
@@ -8825,6 +8838,7 @@ NEA	[Kfz:D] Landkreis Neustadt an der Aisch-Bad Windsheim
 NEB	[Kfz:D] Landkreis Nebra
 NEC	[IATA] Necochea, Argentina
 NEC	[Kfz:D] kreisfreie Stadt Neustadt bei Coburg
+NEG	negation
 NEG	[IATA] Negril, Jamaica
 NEJ	[IATA] Nova Lamego, Guinea Bissau
 NEK	[IATA] Nekemete, Ethiopia
@@ -10152,6 +10166,7 @@ PLW	[IATA] Palu (Mutiara), Indonesia
 PLX	[IATA] Semey (Semipalatinsk), Kazakhstan
 PLY	[IATA] Kentland, IN, USA
 PLZ	please
+PLZ	Postleitzahl
 PLZ	[IATA] Port Elizabeth, South Africa
 PLÖ	[Kfz:D] Kreis Plön
 PM	phase modulation
@@ -11096,6 +11111,9 @@ REI	[Kfz:D] Stadt Bad Reichenhall im Landkreis Berchtesgadener Land
 REI	[Kfz:D] Teilkreis Laufen im Landkreis Berchtesgadener Land
 REK	[IATA] Reykjavik, Iceland
 REL	[IATA] Trelew (Almirante Zar), Argentina
+REM	comment
+REM	remainder
+REM	remark
 REMF	rear echelon motherfucker
 REN	[IATA] Orenburg, Russia
 REO	[IATA] Rome (State Airport), OR, USA
@@ -11176,6 +11194,7 @@ RI	[Kfz] Indonesien
 RI	[USA] Rhode Island
 RIA	rich internet application
 RIA	[IATA] Santa Maria, RS, Brazil
+RIB	Clé RIB, Relevé d'identité bancaire
 RIB	routing information base
 RIB	[IATA] Riberalta, Bolivia
 RIC	[IATA] Richmond International/Byrd Field, Virginia, USA
@@ -12599,6 +12618,7 @@ SU	[ccTLD] die ehemalige Sowjetunion (heute von Rußland weiterverwendet)
 SU	[Kfz:D] Rhein-Sieg-Kreis (in Siegburg)
 SU	[Kfz] Sowjetunion (veraltet)
 SUA	[IATA] Stuart (Witham Field), FL, USA
+SUB	subtraction
 SUB	U+001A ␚ SUBSTITUTE
 SUB	[IATA] Surabaya (Juanda), Indonesia
 SUC	[IATA] Sundance (Schloredt Airport), WY, USA
@@ -13591,6 +13611,7 @@ U	U (PSE#92) Uranium, Uran | Uran-Metalle (Aktiniden) | actinides | actinida
 U	u, you
 U	[Kfz] Uruguay (veraltet)
 U/L	upload
+U2	you, too
 UA	[ccTLD] Ukraine
 UA	[Kfz] Ukraine
 UAC	user access control
@@ -13748,10 +13769,12 @@ UMTS	Universal Mobile Telecommunications System
 UMU	[IATA] Umuarama, PR, Brazil
 UMY	[IATA] Sumy, Ukraine
 UN	[Kfz:D] Kreis Unna
+UN/CEFACT	UN Centre for Trade Facilitation and E-business
 UNAONE	1 (International Radiotelephony Spelling Alphabet)
 UNC	[IATA] Unguia, Colombia
 UND	[IATA] Kunduz, Afghanistan
 UNE	[IATA] Oachas Neck, Lesotho
+UNECE	United Nations Economic Commission for Europe
 UNG	[IATA] Kiunga, Papua New Guinea
 UNI	one-
 UNI	[IATA] Union Island, St. Vincent and the Grenadines
