@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.378 2014/05/13 16:26:06 tg Exp $
+$MirOS: wtf/acronyms,v 1.379 2014/05/13 22:30:51 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.223 2014/03/10 17:56:21 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -2075,6 +2075,8 @@ CEPT	Conférence Européenne des Administrations des Postes et des Télécommuni
 CEQ	[IATA] Cannes (Mandelieu), France
 CER	ASN.1 canonical encoding rules
 CER	[IATA] Cherbourg (Maupertus), France
+CERN	Conseil Européen pour la Recherche Nucléaire
+CERN	European Council for Nuclear Research
 CES	[IATA] Cessnock, New South Wales, Australia
 CET	[IATA] Cholet, France
 CEU	[IATA] Clemson-Oconee County Airport, SC, USA
@@ -7196,6 +7198,7 @@ LH	[Kfz:D] Kreis Lüdinghausen
 LHA	LHarc archive (traditional archive compressor)
 LHA	[IATA] Lahr, Germany
 LHB	[IATA] Lost Harbor, AK, USA
+LHC	large hadron collider
 LHC	[IATA] Caballococha, Peru
 LHD	[IATA] Anchorage (Lake Hood Seaplane), AK, USA
 LHE	[IATA] Lahore, Pakistan
