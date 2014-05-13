@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.377 2014/05/11 17:23:21 tg Exp $
+$MirOS: wtf/acronyms,v 1.378 2014/05/13 16:26:06 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.223 2014/03/10 17:56:21 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -77,6 +77,7 @@ AAU	[IATA] Asau, Western Samoa
 AAV	[IATA] Alah, Philippines
 AAX	[IATA] Araxa, MG, Brazil
 AAY	[IATA] Al Ghaydah, Yemen
+AB	Anrufbeantworter
 AB	[CDN] Alberta
 AB	[Kfz:D] kreisfreie Stadt und Landkreis Aschaffenburg
 ABA	[IATA] Abakan, Khakassia, Russia
@@ -409,6 +410,7 @@ ALF	[IATA] Alta, Norway
 ALF	[Kfz:D] Landkreis Alfeld
 ALFA	A (International Radiotelephony Spelling Alphabet)
 ALG	[IATA] Algiers (Houari Boumediene), Algeria
+ALGOL	algorithmic language
 ALH	[IATA] Albany, WA, Australia
 ALI	[IATA] Alice International Airport, TX, USA
 ALJ	[IATA] Alexander Bay, South Africa
@@ -547,6 +549,7 @@ AOU	[IATA] Attopeu, Laos
 AOV	[IATA] Ava Bill Martin Memorial Airport, MO, USA
 AOW	[IATA] Hanalei, HI, USA
 AP	access point
+AP	Ansprechpartner
 AP	application processor
 AP	[Kfz:D] Landkreis Weimarer Land
 AP00	[Oracle] Database Apply Process Coordinator Process
@@ -1081,6 +1084,7 @@ BDW	[IATA] Bedford Downs, Western Australia, Australia
 BDX	[IATA] Broadus Airport, MT, USA
 BDY	[IATA] Bandon State Airport, OR, USA
 BDZ	[IATA] Baindoung, Papua New Guinea
+BE	Backend
 BE	Be (PSE#4) Beryllium | Erdalkalimetalle | alkaline earth metals | metalla alcalica terrena
 BE	Berlin
 BE	Broteinheit
@@ -2831,6 +2835,7 @@ DBWR	(see DBW0)
 DBY	[IATA] Dalby, Queensland, Australia
 DC	data centre
 DC	device control
+DC	digital camera
 DC	direct current
 DC	disconnect
 DC	[USA] District of Columbia
@@ -2922,6 +2927,7 @@ DF	don't fragment
 DFA	deterministic finite automaton
 DFA	[IATA] Abu Dhabi (Al Dhafra Military Airport), UAE
 DFB	[IATA] Driftwood Bay, AK, USA
+DFBSD	DragonFly BSD
 DFC	data flow control
 DFDC	[gc] Danke für den Cache (TFTC)
 DFDD	[gc] Danke für die Dose (TFTC)
@@ -3569,6 +3575,7 @@ EKO	[IATA] Elko Municipal Airport, NV, USA
 EKQ	[IATA] Monticello (Wayne County Airport), KY, USA
 EKT	[IATA] Eskilstuna, Sweden
 EKX	[IATA] Elizabethtown (Addington Field), KY, USA
+EKZ	Einkaufszentrum
 EL	[Kfz:D] Landkreis Emsland
 ELA	[IATA] Eagle Lake Airport, TX, USA
 ELAST	(#99) (must be equal to largest errno)
@@ -3968,6 +3975,7 @@ FBM	[IATA] Lubumbashi (Luano), Zaire
 FBOW	for better or worse
 FBR	[IATA] Fort Bridger Airport, WY, USA
 FBRAM	frame buffer random access memory
+FBSD	FreeBSD®
 FBU	[IATA] Oslo (Fornebu), Norway
 FBY	[IATA] Fairbury Municipal Airport, NE, USA
 FC	fan control
@@ -4015,6 +4023,8 @@ FDU	[IATA] Bandundu, Zaire
 FDW	[IATA] Winnsboro (Fairfield County Airport), SC, USA
 FDY	[IATA] Findlay Airport, OH, USA
 FE	Fe ♂ (PSE#26) Ferrum, Eisen, Iron | Übergangsmetalle | transition metals | metalla transitionis
+FE	Feierabend
+FE	Frontend
 FEA	finite element analysis
 FEA	[IATA] Fetlar Island, United Kingdom
 FEAR	false evidence appearing real
@@ -4211,6 +4221,7 @@ FOR	[Kfz:D] Landkreis Forst
 FORD	er fuhr ford und kam nie wieder
 FORD	fix or repair daily
 FORD	für Ossis reicht det
+FORTRAN	formula translator
 FOS	full of shit
 FOS	[IATA] Forrest, Western Australia, Australia
 FOSDEM	Free and open source software developers’ European meeting
@@ -7693,6 +7704,7 @@ MAR	[Kfz:D] Landkreis Marktheidenfeld
 MARC	mailing list archives -- http://marc.theaimsgroup.com/
 MARK	[Oracle] Mark AU (ASM allocation units) for Resynchronization Coordinator Process
 MARTHA	M (deutsches Funkalphabet)
+MAS	master
 MAS	[IATA] Manus Island (Lorengau), Papua New Guinea
 MAT	[IATA] Matadi, Zaire
 MAU	[IATA] Maupiti, Society Islands, French Polynesia
@@ -7729,6 +7741,8 @@ MBR	master boot record
 MBR	[IATA] Mbout, Mauritania
 MBS	megabits per second
 MBS	[IATA] Saginaw Tri-City, Michigan, USA
+MBSD	MirBSD
+MBSD	MirOS BSD
 MBT	[IATA] Masbate, Philippines
 MBU	[IATA] Mbambanakira, Solomon Islands
 MBV	[IATA] Masa, Papua New Guinea
@@ -8225,6 +8239,7 @@ MN	[Kfz] Montenegro (veraltet)
 MN	[USA] Minnesota
 MNA	[IATA] Melangguane, Indonesia
 MNB	[IATA] Moanda, Zaire
+MNBSD	MidnightBSD
 MNC	[IATA] Nacala, Mozambique
 MND	[IATA] Medina, CA, USA
 MNE	[IATA] Mungeranie, South Australia, Australia
@@ -8768,6 +8783,7 @@ NBJ	[IATA] Barin Field (Naval Facility), AL, USA
 NBL	[IATA] San Blas, Panama
 NBO	[IATA] Nairobi (Jomo Kenyatta), Kenya
 NBR	[IATA] Nambour, Queensland, Australia
+NBSD	NetBSD®
 NBSP	U+00A0 NO-BREAK SPACE
 NBU	[IATA] Glenview (Naval Air Station), IL, USA
 NBV	[IATA] Cana Brava, PA, Brazil
@@ -9316,6 +9332,7 @@ OBO	[IATA] Obihiro, Japan
 OBOE	off by one error
 OBS	OpenSuSE Buildservice
 OBS	[IATA] Aubenas, France
+OBSD	OpenBSD
 OBT	[IATA] Oakland (Coliseum Street), CA, USA
 OBU	[IATA] Kobuk Airport, AK, USA
 OBX	[IATA] Obo, Papua New Guinea
@@ -9950,6 +9967,7 @@ PEI	[IATA] Pereira (Matecana), Colombia
 PEK	[IATA] Beijing (Capital), China
 PEL	[IATA] Pelaneng, Lesotho
 PEM	[IATA] Puerto Maldonado (Padre Aldamiz), Peru
+PEN	IANA Private Enterprise Number
 PEN	[IATA] Penang International, Peninsular Malaysia
 PENTA	five-
 PEP	Policy Enforcement Point
@@ -11862,6 +11880,8 @@ SEP	someone else's problem
 SEP	[IATA] Stephenville (Clark Field), TX, USA
 SEPA	Single Euro Payments Area
 SEQ	[IATA] Sungal Pakning, Indonesia
+SER	server
+SER	service
 SER	[IATA] Seymour (Freeman Municipal Airport), IN, USA
 SERP	search engine results page
 SES	[IATA] Selma (Craig Field), AL, USA
@@ -12149,6 +12169,7 @@ SL	[gc] signed log
 SL	[Kfz:D] Kreis Schleswig-Flensburg
 SL	[Kfz] Syrien und Libanon (veraltet)
 SLA	Service Level Agreement
+SLA	slave
 SLA	[IATA] Salta, Argentina
 SLAAC	statless address autoconfiguration
 SLB	[IATA] Storm Lake Municipal Airport, IA, USA
@@ -12654,9 +12675,13 @@ SUX	[IATA] Sioux City International, Iowa, USA
 SUX2BU	sucks to be you
 SUY	[IATA] Sudureyri, Iceland
 SUZ	[IATA] Suria, Papua New Guinea
+SV	server
+SV	service
+SV	slave
 SV	[ccTLD] El Salvador
 SVA	[IATA] Savoonga Airport, AK, USA
 SVB	[IATA] Sambava, Madagascar
+SVC	service
 SVC	[IATA] Silver City (Grant County Airport), NM, USA
 SVD	[IATA] Saint Vincent, VC
 SVE	[IATA] Susanville Municipal Airport, CA, USA
@@ -13247,6 +13272,7 @@ TML	[IATA] Tamale, Ghana
 TMM	[IATA] Tamatave, Madagascar
 TMN	[IATA] Tamana, Kiribati
 TMN	[Kfz] Turkmenistan (veraltet)
+TMNT	Teenage Mutant Ninja Turtles
 TMO	timeout
 TMO	[IATA] Tumeremo, Venezuela
 TMON	[Oracle] Transport Monitor
@@ -13953,9 +13979,11 @@ VAX	virtual address extension
 VAZ	[IATA] Val d'Isere, France
 VB	Visual Basic
 VB	[Kfz:D] Vogelsbergkreis
+VBA	Visual Basic for Applications
 VBEG	very big evil grin
 VBG	[IATA] Lompoc (Vandenberg Air Force Base), CA, USA
 VBG0	[Oracle] Volume Background Process
+VBS	VBscript (cf. VBA, VB)
 VBV	[IATA] Vanuabalavu, Fiji
 VBW	[IATA] Bridgewater Air Park, VA, USA
 VBY	[IATA] Visby, Sweden
