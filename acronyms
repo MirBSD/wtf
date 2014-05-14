@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.379 2014/05/13 22:30:51 tg Exp $
+$MirOS: wtf/acronyms,v 1.380 2014/05/14 22:25:59 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.223 2014/03/10 17:56:21 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -13,6 +13,8 @@ $OpenBSD: airport,v 1.13 2003/10/20 06:06:31 jmc Exp $
 1337	elite ("leet")
 2	two, to
 224	today, tomorrow, forever
+2A0	1189×1682 mm (46¾×66¼ in)
+2B0	1414×2000 mm (55.6692×78.7401 in)
 2IC	second in charge
 2MORROW	tomorrow
 31337	elite ("eleet")
@@ -20,6 +22,7 @@ $OpenBSD: airport,v 1.13 2003/10/20 06:06:31 jmc Exp $
 3LD	third-level domain
 3WHS	three-way handshake
 4	four, for
+4A0	1682×2378 mm (66¼×93⅝ in)
 4TF	[gc] fourth to find
 4TW	for the win
 720P	1280x720px
@@ -47,6 +50,17 @@ A-C	apt-cache
 A-G	apt-get
 A/N	author's note
 A/S/L	age, sex, location?
+A0	841×1189 mm (33×46¾ in) Vierfachbogen
+A1	594×841 mm (23⅜×33 in) Doppelbogen
+A10	26×37 mm (1×1½ in)
+A2	420×594 mm (16½×23⅜ in) Bogen
+A3	297×420 mm (11¾×16½ in) Halbbogen
+A4	210×297 mm (8¼×11¾ in) Viertelbogen (envelopes: C4 unfolded, C5 once, C6 twice)
+A5	148×210 mm (5⅞×8¼ in) Blatt, Achtelbogen; notepads
+A6	105×148 mm (4⅛×5⅞ in) Halbblatt; postcards
+A7	74×105 mm (2⅞×4⅛ in) Viertelblatt
+A8	52×74 mm (2×2⅞ in) Achtelblatt
+A9	37×52 mm (1½×2 in)
 AA	anti-aliasing
 AA	Attribute Authority
 AA	[Kfz:D] Landkreis Aalen
@@ -909,8 +923,19 @@ B/S	bullshit
 B/W	bandwidth
 B/W	between
 B/W	black and white
+B0	1000×1414 mm (39⅜×55¾ in)
 B000	[Oracle] ASM Blocking Slave Process for GMON
+B1	707×1000 mm (27¾×39⅜ in)
+B10	31×44 mm (1¼×1¾ in)
+B2	500×707 mm (19¾×27¾ in)
+B3	353×500 mm (13⅞×19¾ in)
+B4	250×353 mm (9⅞×13⅞ in) envelope for C4
 B4	before
+B5	176×250 mm (7×9⅞ in) envelope for C5
+B6	125×176 mm (4⅞×7 in) envelope for C6
+B7	88×125 mm (3½×4⅞ in)
+B8	62×88 mm (2½×3½ in)
+B9	44×62 mm (1¾×2½ in)
 BA	Ba (PSE#56) Barium | Erdalkalimetalle | alkaline earth metals | metalla alcalica terrena
 BA	Baccalaureus Artium
 BA	byte align
@@ -1882,8 +1907,20 @@ C	[Kfz] Kuba
 C++	CFrustFrust
 C.P.	ceteris paribus
 C/P	copy/paste
+C0	917×1297 mm (36×51 in)
+C1	648×917 mm (25½×36 in)
+C10	28×40 mm (1⅛×1⅝ in)
+C2	458×648 mm (18×25½ in)
+C3	324×458 mm (12¾×18 in)
 C4	(some kind of explosive)
+C4	229×324 mm (9×12¾ in) envelope for unfolded A4
 C4	CCC Cologne
+C5	162×229 mm (6⅜×9 in) envelope for A4 folded once (A5, ½ DIN A4)
+C6	114×162 mm (4½×6⅜ in) envelope for A4 folded twice (A6, ¼ DIN A4)
+C6/C5	114×229 mm (4.4881×9.0157 in) [bit larger than DL, fits more sheets] (short side of C6 with long side of C5)
+C7	81×114 mm (3 3/16×4½ in)
+C8	57×81 mm (2¼×3 3/16 in)
+C9	40×57 mm (1⅝×2¼ in)
 CA	Ca (PSE#20) Calcium | Erdalkalimetalle | alkaline earth metals | metalla alcalica terrena
 CA	certificate authority
 CA	[ccTLD] Kanada
@@ -2480,6 +2517,7 @@ CQS	[IATA] Costa Marques, RO, Brazil
 CQT	[IATA] Caquetania, Colombia
 CQX	[IATA] Chatham Municipal Airport, MA, USA
 CQZ	[IATA] Cherokee Sound, Bahamas
+CR	change request
 CR	Cr (PSE#24) Chromium, Chrom | Übergangsmetalle | transition metals | metalla transitionis
 CR	U+000D ␍ CARRIAGE RETURN
 CR	[ccTLD] Costa Rica
@@ -2756,7 +2794,15 @@ D&R	duck and run
 D/B/A	doing business as
 D/L	download
 D/W	don't worry
+D0	771×1091 mm (30.3543×42.9527 in)
 D000	[Oracle] Dispatcher Process
+D1	545×771 mm (21.4566×30.3543 in)
+D2	385×545 mm (15.1574×21.4566 in)
+D3	272×385 mm (10.7086×15.1574 in)
+D4	192×272 mm (7.5590×10.7086 in)
+D5	136×192 mm (5.3543×7.5590 in)
+D6	96×136 mm (3.7795×5.3543 in)
+D7	68×96 mm (2.6771×3.7795 in)
 DA	destination address
 DA	[Kfz:D] kreisfreie Stadt Darmstadt und Landkreis Darmstadt-Dieburg
 DA	[Kfz] Freie Stadt Danzig (veraltet)
@@ -2987,6 +3033,7 @@ DIK	[IATA] Dickinson Municipal Airport, ND, USA
 DIL	[IATA] Dili (Komoro), East Timor
 DIL	[Kfz:D] Dillkreis
 DIMM	dual inline memory module
+DIN	Deutsches Institut für Normung e.V.
 DIN	[Kfz:D] Kreis Dinslaken
 DIO	[IATA] Little Diomede Island, AK, USA
 DIP	[IATA] Diapaga, Burkina Faso
@@ -3025,6 +3072,7 @@ DKK	[IATA] Dunkirk Airport, NY, USA
 DKP	Deutsche Kommunistische Partei
 DKR	[IATA] Dakar (Yoff), Senegal
 DKX	[IATA] Knoxville Downtown Island Airport, TN, USA
+DL	110×220 mm (4.3307×8.6614 in) DIN lang (cf. ⅓A4); envelope for A4 folded twice (⅓ DIN A4)
 DL	diode logic
 DL	discrete logarithm
 DL	download
@@ -3353,6 +3401,7 @@ E-XER	extended XML encoding rules
 E.G.	exempli gratia (for example)
 E000	[Oracle] EMON Slave Process
 E2BIG	(#7) Argument list too long
+E4	280×400 mm (11.0236×15.7480 in) envelope for B4
 EA	[Kfz:D] kreisfreie Stadt Eisenach
 EA	[Kfz] Britisch-Ostafrika (veraltet)
 EAA	[IATA] Eagle Airport, AK, USA
@@ -5628,6 +5677,9 @@ ID	identification (passport)
 ID	identifier
 ID	[ccTLD] Indonesien
 ID	[USA] Idaho
+ID-1	86×54 mm (3.3858×2.1259 in) ISO 7810 Scheckkarten, Telefonwertkarten, Visitenkarten
+ID-2	105×74 mm (4.1338×2.9133 in) same as DIN A7
+ID-3	125×88 mm (4.9212×3.4645 in) same as DIN B7
 IDA	I (deutsches Funkalphabet)
 IDA	Intel dynamic acceleration
 IDA	[IATA] Idaho Falls (Fanning Field), ID, USA
@@ -6372,6 +6424,7 @@ KAH	[IATA] Melbourne Heliport, Victoria, Australia
 KAI	[IATA] Kaieteur, Guyana
 KAJ	[IATA] Kajaani, Finland
 KAL	[IATA] Kaltag Airport, AK, USA
+KAM	Key Account Manager
 KAM	[IATA] Kamaran Island, Yemen
 KAN	[IATA] Kano, Nigeria
 KAN	[Kfz] St. Kitts und Nevis (nicht offiziell)
@@ -7119,6 +7172,7 @@ LED	[IATA] St. Petersburg (Pulkowo-2), Russia
 LEE	[IATA] Leesburg Municipal Airport, FL, USA
 LEF	[IATA] Lebakeng, Lesotho
 LEG	[IATA] Aleg, Mauritania
+LEGAL	216×356 mm (8.5×14 in) USA only
 LEH	[IATA] Le Havre (Octeville), France
 LEI	[IATA] Almeria, Spain
 LEJ	[IATA] Leipzig (Schkeuditz), Germany
@@ -7136,6 +7190,7 @@ LER	[IATA] Leinster, Western Australia, Australia
 LER	[Kfz:D] Landkreis Leer
 LES	[IATA] Lesobeng, Lesotho
 LET	[IATA] Leticia (Vasquez Cobo), Colombia
+LETTER	216×279 mm (8.5×11 in) USA only (ANSI A, CAN P4)
 LEU	[IATA] Seo de Urgel, Spain
 LEV	[IATA] Bureta, Fiji
 LEV	[Kfz:D] kreisfreie Stadt Leverkusen
@@ -9692,6 +9747,7 @@ OTP	one true pairing
 OTP	open telecom platform
 OTP	[IATA] Bucharest (Otopeni), Romania
 OTR	[IATA] Coto 47, Costa Rica
+OTRS	Online Ticket Request System
 OTS	off the shelf
 OTS	[IATA] Anacortes Airport, WA, USA
 OTT	over the top
@@ -9781,6 +9837,17 @@ PA	[ccTLD] Panama
 PA	[Kfz:D] kreisfreie Stadt und Landkreis Passau
 PA	[Kfz] Panama
 PA	[USA] Pennsylvania
+PA0	840×1120 mm (33.0708×44.0944 in)
+PA1	560×840 mm (22.0472×33.0708 in)
+PA10	26×35 mm (1.0236×1.3779 in)
+PA2	420×560 mm (16.5354×22.0472 in)
+PA3	280×420 mm (11.0236×16.5354 in)
+PA4	210×280 mm (8.2677×11.0236 in) fits on both DIN A4 and Letter, is 3:4 ratio
+PA5	140×210 mm (5.5118×8.2677 in)
+PA6	105×140 mm (4.1338×5.5118 in)
+PA7	70×105 mm (2.7559×4.1338 in)
+PA8	52×70 mm (2.0472×2.7559 in)
+PA9	35×52 mm (1.3779×2.0472 in)
 PAA	personal analog assistant
 PAA	[IATA] Pa An, Myanmar
 PAAS	platform as a service
@@ -10279,6 +10346,7 @@ PNU	[IATA] Panguitch Municipal Airport, UT, USA
 PNX	[IATA] Sherman/Denison (Grayson County), TX, USA
 PNZ	[IATA] Petrolina, PE, Brazil
 PO	Po (PSE#84) Polonium | Chalkogene | chalcogens
+PO	Product Owner
 POA	[HP] Prisoner of Azkaban
 POA	[IATA] Porto Alegre (Salgado Filho), RS, Brazil
 POB	[IATA] Fayetteville (Pope Air Force Base), NC, USA
@@ -10981,6 +11049,11 @@ RA	resource affinity
 RA	router advertisement
 RA	[Kfz:D] Landkreis Rastatt
 RA	[Kfz] Argentinien
+RA0	860×1220 mm (33.8582×48.0314 in)
+RA1	610×860 mm (24.0157×33.8582 in)
+RA2	430×610 mm (16.9291×24.0157 in)
+RA3	305×430 mm (12.0078×16.9291 in)
+RA4	215×305 mm (8.4645×12.0078 in)
 RAA	[IATA] Rakanda, Papua New Guinea
 RAB	[IATA] Rabaul, Papua New Guinea
 RAC	remote access console
@@ -11398,6 +11471,7 @@ RP00	[Oracle] Capture Processing Worker Process
 RPA	[IATA] Rolpa, Nepal
 RPB	[IATA] Roper Bar, Australia
 RPC	remote procedure call
+RPC	role playing convention
 RPG	Rocket Propelled Grenade
 RPG	role-playing game
 RPL	requested privilege level
@@ -11467,6 +11541,7 @@ RSVP	please reply (french: respondez s'il vous plait)
 RSW	[IATA] Ft. Meyers Southwest Florida Regional, Florida, USA
 RSX	[IATA] Rouses Point (Seaplane Base), NY, USA
 RT	real time
+RT	Request Tracker
 RT	[Kfz:D] Landkreis Reutlingen
 RT	[Kfz] Togo
 RTA	[IATA] Rotuma, Fiji
@@ -11780,6 +11855,7 @@ SCJ	[IATA] Smith Cove, AK, USA
 SCK	[IATA] Stockton Metropolitan Airport, CA, USA
 SCL	[IATA] Santiago, Chile
 SCM	Scheme (programming language)
+SCM	Scrum Master
 SCM	software configuration management
 SCM	source code management
 SCM	storage-class memory
@@ -12087,6 +12163,7 @@ SIM	[Kfz:D] Landkreis Simmern
 SIM	[Kfz:D] Rhein-Hunsrück-Kreis
 SIMCA	sitting in my chair amused
 SIMD	single instruction, multiple data
+SIMKO	sichere mobile Kommunikation
 SIMM	single inline memory module
 SIN	Sinus
 SIN	[IATA] Singapore
@@ -12467,6 +12544,11 @@ SR	[ccTLD] Suriname
 SR	[Kfz:D] kreisfreie Stadt Straubing und Landkreis Straubing-Bogen
 SR	[Kfz] Südrhodesien (veraltet)
 SRA	[IATA] Santa Rosa, RS, Brazil
+SRA0	900×1280 mm (35.4330×50.3937 in)
+SRA1	640×900 mm (25.1968×35.4330 in)
+SRA2	450×640 mm (17.7165×25.1968 in)
+SRA3	320×450 mm (12.5984×17.7165 in)
+SRA4	225×320 mm (8.8582×12.5984 in)
 SRAM	static random access memory
 SRB	[IATA] Santa Rosa, Bolivia
 SRB	[Kfz:D] Landkreis Strausberg
@@ -13459,6 +13541,7 @@ TSE	[IATA] Aqmola (Tselinograd), Kazakhstan
 TSF	[IATA] Treviso (S. Angelo), Italy
 TSG	[IATA] Tanacross Airport, AK, USA
 TSH	[IATA] Tshikapa, Zaire
+TSI	T-Systems
 TSI	[IATA] Tsili Tsili, Papua New Guinea
 TSJ	[IATA] Tsushima, Japan
 TSK	[IATA] Taskul, Papua New Guinea
@@ -15651,6 +15734,8 @@ ZZU	[IATA] Mzuzu, Malawi
 ZZV	[IATA] Zanesville Municipal Airport, OH, USA
 ^^	(emoticon: bemusement)
 ^_^	(emoticon: bemusement)
+¼A3	105×297 mm (4.1338×11.6929 in)
+¼A4	74×210 mm (2.9133×8.2677 in)
 ÄRGER	Ä (deutsches Funkalphabet)
 ÖBB	Österreichische Bundesbahnen
 ÖHR	[Kfz:D] Landkreis Öhringen
@@ -15697,6 +15782,12 @@ ZZV	[IATA] Zanesville Municipal Airport, OH, USA
 భాారత్్	[ccTLD] Indien (Telugu)
 ලංකා	[ccTLD] Sri Lanka (Sinhala)
 ไทย	[ccTLD] Thailand
+⅓A4	99×210 mm (3.8976×8.2677 in)
+⅓A5	70×148 mm (2.7559×5.8267 in)
+⅔A4	198×210 mm (7.7952×8.2677 in) (cf. ⅙DIN)
+⅙DIN	198×210 mm (7.7952×8.2677 in) (norm; really ⅔A4)
+⅙DIN	200×210 mm (7.8740×8.2677 in) (reality)
+⅛A4	37×210 mm (1.4566×8.2677 in)
 中国	[ccTLD] Zhōngguó, China (VR)
 中國	[ccTLD] Zhōngguó, China (VR)
 台湾	[ccTLD] Republik China / Taiwan
