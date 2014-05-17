@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.380 2014/05/14 22:25:59 tg Exp $
+$MirOS: wtf/acronyms,v 1.381 2014/05/17 21:16:07 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.223 2014/03/10 17:56:21 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -2836,6 +2836,7 @@ DAO	disk at once
 DAP	Directory Access Protocol
 DAP	[IATA] Darchula, Nepal
 DAR	[IATA] Dar es Salaam, Tanzania
+DARC	Deutscher Amateur Radio Club
 DASH	(hyphen) - (International Radiotelephony Spelling Alphabet)
 DAT	digital audio tape
 DAT	dynamic acceleration technology
@@ -9937,6 +9938,7 @@ PBZ	[IATA] Plettenberg Bay, South Africa
 PC	personal computer
 PC	player character
 PC	politically correct
+PC	precious cargo
 PC	program counter
 PCA	[IATA] Portage Creek Airport, AK, USA
 PCB	polychlorinated biphenyl(s)
@@ -13942,6 +13944,7 @@ URR	[IATA] Urrao, Colombia
 URS	[IATA] Kursk, Russia
 URT	[IATA] Surat Thani, Thailand
 URY	[IATA] Gurayat, Saudi Arabia
+URZ	Universitätsrechenzentrum
 URZ	[IATA] Uruzgan, Afghanistan
 US	U+001F ␟ INFORMATION SEPARATOR ONE
 US	Unit Separator (U+001F)
