@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.381 2014/05/17 21:16:07 tg Exp $
+$MirOS: wtf/acronyms,v 1.382 2014/05/20 08:45:19 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.223 2014/03/10 17:56:21 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -7408,6 +7408,7 @@ LMY	[IATA] Lake Murray, Papua New Guinea
 LMZ	[IATA] Palma, Mozambique
 LN	[Kfz:D] Landkreis Lübben
 LNA	[IATA] West Palm Beach (Palm Beach County), FL, USA
+LNB	low noise block
 LNB	[IATA] Lamen Bay, Vanuatu
 LNC	[IATA] Lengbati, Papua New Guinea
 LND	[IATA] Lander (Hunt Field), WY, USA
@@ -10313,6 +10314,7 @@ PMU	power management unit
 PMU	[IATA] Paimiut, AK, USA
 PMV	[IATA] Margerita (Porlamarar), Venezuela
 PMW	[IATA] Palmas, PR, Brazil
+PMX	Primärmultiplexanschluß
 PMX	[IATA] Palmer (Metropolitan Airport), MA, USA
 PMY	[IATA] El Tehuelche, Puerto Madryn, Argentina
 PMZ	[IATA] Palmar, Costa Rica
@@ -11716,6 +11718,7 @@ SAML	Security Assertion Markup Language
 SAMU	service d'aide medicale urgente
 SAMUEL	S (deutsches Funkalphabet)
 SAN	storage area network
+SAN	X.509v3 subjectAltName
 SAN	[IATA] San Diego International/Lindbergh Field, California, USA
 SAN	[Kfz:D] Landkreis Stadtsteinach
 SAO	[IATA] All Airports around Sao Paulo, SP, Brazil
