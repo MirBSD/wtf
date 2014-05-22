@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.384 2014/05/20 09:40:08 tg Exp $
+$MirOS: wtf/acronyms,v 1.385 2014/05/22 17:22:06 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.223 2014/03/10 17:56:21 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -5975,6 +5975,8 @@ IRQ	interrupt request
 IRQ	[Kfz] Irak
 IRQL	interrupt request level
 IRR	interrupt request register
+IRS	input record separator
+IRS	Internal Revenue Service
 IRS	[IATA] Sturgis (Kirsch Municipal Airport), MI, USA
 IRT	in real time
 IRT	in regards to
