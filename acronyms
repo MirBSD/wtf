@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.385 2014/05/22 17:22:06 tg Exp $
+$MirOS: wtf/acronyms,v 1.386 2014/05/23 10:00:18 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.223 2014/03/10 17:56:21 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -5481,6 +5481,7 @@ HSS	[IATA] Hissar, India
 HST	[IATA] Homestead (Air Force Base), FL, USA
 HST	[Kfz:D] Hansestadt Stralsund im Landkreis Vorpommern-Rügen
 HST	[Kfz:D] Landkreis Stralsund
+HSTS	HTTP Strict Transport Security
 HSUPA	High-Speed Uplink Packet Access
 HSV	[IATA] Huntsville International (Jones Field), AL, USA
 HT	Horizontal Tabulator (U+0009)
