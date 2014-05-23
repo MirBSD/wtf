@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.386 2014/05/23 10:00:18 tg Exp $
+$MirOS: wtf/acronyms,v 1.387 2014/05/23 14:57:40 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.223 2014/03/10 17:56:21 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -2458,6 +2458,7 @@ COQ	[IATA] Conquista, MG, Brazil
 COR	[IATA] Cordoba (Pajas Blancas), Argentina
 CORBA	common object request broker architecture
 CORDIC	COordinate Rotation DIgital Computer algorithm
+CORS	cross-origin resource sharing
 COS	Kosinus
 COS	[HP] Chamber of Secrets
 COS	[IATA] Peterson, Colorado Springs, USA
@@ -2593,6 +2594,7 @@ CSMA/CA	carrier sense multiple access with collision avoidance
 CSMA/CD	carrier sense multiple access with collision detection
 CSN	[IATA] Carson City Airport, NV, USA
 CSP	Christlichsoziale Partei
+CSP	Content Security Policy
 CSP	[IATA] Cape Spencer Coast Guard Heliport, AK, USA
 CSPRNG	continuously seeded PRNG
 CSPRNG	cryptographically secure PRNG
@@ -2604,6 +2606,7 @@ CSRF	cross-site request forgery
 CSRG	Computer Systems Research Group
 CSS	cascading style sheets
 CSS	Content Scrambling System
+CSS	cross-site scripting (normally XSS)
 CSS	[IATA] Cassilandia, MG, Brazil
 CST	[IATA] Castaway, Fiji
 CSU	Christlich-Soziale Union
@@ -6150,6 +6153,9 @@ JAT	[IATA] Jabat, Marshall Islands
 JAU	[IATA] Jauja, Peru
 JAV	[IATA] Jakobshavn (Ilulissat), Greenland
 JAX	[IATA] Jacksonville International, Florida, USA
+JAXB	Java Architecture for XML binding
+JAXB	jet[sic!] another XML binding
+JAXWS	Java Architecture for Web Services
 JB	[Kfz:D] Landkreis Jüterbog
 JBC	[IATA] Boston (City Heliport), MA, USA
 JBD	journalling block device
@@ -6355,6 +6361,7 @@ JSM	[IATA] Jose de San Martin, Argentina
 JSN	[IATA] Los Angeles (Sherman Oaks Heliport), CA, USA
 JSO	[IATA] Sodertalje (Heliport), Sweden
 JSON	JavaScript Object Notation
+JSONP	JSON with padding
 JSP	Java™ Server Pages
 JSP	[IATA] Cheju (Sogwipo), South Korea
 JSR	jump to subroutine
@@ -9794,6 +9801,7 @@ OVL	[Kfz:D] Obervogtland (Landkreise Klingenthal und Oelsnitz)
 OVN	[IATA] Ouven, Australia
 OVO	[IATA] North Vernon Airport, IN, USA
 OVP	[Kfz:D] Landkreis Ostvorpommern
+OWA	Outlook Web Access
 OWA	[IATA] Owatonna Municipal Airport, MN, USA
 OWB	[IATA] Owensboro-Daviess County Airport, KY, USA
 OWD	[IATA] Norwood Memorial Airport, MA, USA
@@ -12639,6 +12647,7 @@ SSP	stack smashing protection
 SSP	[IATA] Silver Plains, Queensland, Australia
 SSQ	[IATA] La Sarre Aerodrome, QC, Canada
 SSR	[IATA] Sara, Vanuatu
+SSRF	server-side request forgery
 SSS	[IATA] Siassi, Papua New Guinea
 SST	[IATA] Santa Teresita, Argentina
 SSTO	single stage to orbit
@@ -14895,6 +14904,7 @@ XGN	[IATA] Xangongo, Angola
 XGR	[IATA] Kangiqsualujjuaq, QC, Canada
 XGY	[IATA] Grimsby / Via Rail Service, Ontario, Canada
 XHM	[IATA] Georgetown / Via Rail Service, Ontario, Canada
+XHR	XMLHttpRequest
 XHS	[IATA] Chemainus / Via Rail Service, British Columbia, Canada
 XHTML	Extensible Hyper-Text Markup Language
 XIA	[IATA] Guelph / Via Rail Service, Ontario, Canada
@@ -14995,6 +15005,7 @@ XWP	[IATA] Al Kharj Air Base, Saudi Arabia
 XWQ	[IATA] Iwakuni, Honshu Is., Japan
 XWY	[IATA] Wyoming / Via Rail Service, Ontario, Canada
 XXB	[IATA] Manchester (Woodford), England, United Kingdom
+XXE	XML eXternal Entity (attack)
 XXX	[sTLD] for sexual purposes
 XXX	[sTLD] sex (erotische Inhalte)
 XYA	[IATA] Yandina, Russel Is., Solomon Islands
