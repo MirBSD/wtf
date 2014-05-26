@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.387 2014/05/23 14:57:40 tg Exp $
+$MirOS: wtf/acronyms,v 1.388 2014/05/26 18:47:08 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.223 2014/03/10 17:56:21 mbalmer Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -225,6 +225,8 @@ ADSL	asymmetric digital subscriber line
 ADT	abstract data type
 ADT	[IATA] Ada Municipal Airport, OK, USA
 ADU	[IATA] Audubon County Airport, IA, USA
+ADV	advanced
+ADV	auxilliary data vector
 ADV	[IATA] Andover, England, UK
 ADW	[IATA] Andrews Air Force Base, MD, USA
 ADX	[IATA] St. Andrews, Scotland, UK
@@ -9568,6 +9570,7 @@ OLU	[IATA] Columbus Municipal Airport, NE, USA
 OLV	[IATA] Olive Branch Airport, MS, USA
 OLY	[IATA] Olney-Noble Airport, IL, USA
 OLZ	[IATA] Oelwein Municipal Airport, IA, USA
+OM	old man
 OM	[ccTLD] Oman
 OM	[Kfz] Oman
 OMA	[IATA] Omaha Eppley Airfield, Nebraska, USA
