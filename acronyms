@@ -1,9 +1,9 @@
-$MirOS: wtf/acronyms,v 1.389 2014/05/29 01:00:17 tg Exp $
+$MirOS: wtf/acronyms,v 1.390 2014/05/31 18:48:27 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.224 2014/05/25 21:49:29 dholland Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
 $NetBSD: airport,v 1.52 2014/03/28 10:16:28 apb Exp $
-$OpenBSD: airport,v 1.13 2003/10/20 06:06:31 jmc Exp $
+$OpenBSD: airport,v 1.26 2012/04/04 11:50:01 jasper Exp $
 0	[Kfz:D] Diplomatenkennzeichen oder Politiker
 1	one, on
 1080I	1920x540px (interlaced)
@@ -11947,6 +11947,7 @@ SDY	[IATA] Sidney-Richland Municipal Airport, MT, USA
 SDZ	[IATA] Shetland Islands, Acotland, UK
 SE	Se (PSE#34) Selenium, Selen | Chalkogene | chalcogens
 SE	Software Engineer
+SE	StackExchange
 SE	Support Engineer
 SE	Südost, south-east
 SE	[ccTLD] Schweden
@@ -12424,6 +12425,7 @@ SNY	[IATA] Sidney Municipal Airport, NE, USA
 SNZ	[IATA] Santa Cruz, Brazil
 SO	shared object file (cf. DLL)
 SO	significant other
+SO	StackOverflow
 SO	Südost, south-east
 SO	U+000E ␎ SHIFT OUT
 SO	[ccTLD] Somalia
@@ -12622,6 +12624,7 @@ SSA	[IATA] Salvador (Dois de Julho), BA, Brazil
 SSB	single-sideband modulation
 SSB	[IATA] Christiansted, St. Croix, U.S. Virgin Islands
 SSC	[IATA] Sumter (Shaw Air Force Base), SC, USA
+SSCCE	short, self-contained, correct example
 SSD	solid state drive
 SSD	[IATA] San Felipe, Colombia
 SSD	[Kfz] Südsudan
@@ -12741,6 +12744,7 @@ STY	[IATA] Aeropuerto Departamental de Salto, Uruguay
 STZ	[IATA] Santa Terezinha, Brazil
 SU	Sau unterwegs
 SU	Suche Unfall
+SU	SuperUser
 SU	[ccTLD] die ehemalige Sowjetunion (heute von Rußland weiterverwendet)
 SU	[Kfz:D] Rhein-Sieg-Kreis (in Siegburg)
 SU	[Kfz] Sowjetunion (veraltet)

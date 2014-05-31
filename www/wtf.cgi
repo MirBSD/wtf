@@ -1,7 +1,7 @@
 #!/usr/bin/perl -T
-my $rcsid = '$MirOS: wtf/www/wtf.cgi,v 1.8 2012/08/18 04:48:47 tg Exp $';
+my $rcsid = '$MirOS: wtf/www/wtf.cgi,v 1.9 2014/05/31 18:48:31 tg Exp $';
 #-
-# Copyright © 2012
+# Copyright © 2012, 2014
 #	Thorsten Glaser <tg@mirbsd.org>
 #
 # Provided that these terms and disclaimer and all copyright notices
@@ -74,13 +74,14 @@ sub tohtml {
 	s/&/&#38;/g;
 	s/</&#60;/g;
 	s/>/&#62;/g;
+	s/\"/&#34;/g;
+
 	return $_;
 }
 
 if ($query ne "") {
 	my $enc = tohtml($query);
 
-	$enc =~ s/\"/&#34;/g;
 	$query = uc($query);
 	$query =~ y/äöü/ÄÖÜ/;
 
@@ -101,6 +102,9 @@ if ($query ne "") {
 		$output = "<h2>No results</h2>\n<p>Gee… I don’t know what “" .
 		    tohtml($query) . "” means…</p>\n";
 	}
+
+	$output .= "<p>\n <a href=\"man.cgi?" . $enc .
+	    "\">Manual page lookup for: " . $enc . "</a>\n</p>\n";
 
 	$output .= "<p>\n <input type=\"hidden\" name=\"q\" value=\"" . $enc .
 	    " acronym\" /><input type=\"submit\" value=\"Web lookup for: " .
