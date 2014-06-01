@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.390 2014/05/31 18:48:27 tg Exp $
+$MirOS: wtf/acronyms,v 1.391 2014/06/01 21:54:37 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.224 2014/05/25 21:49:29 dholland Exp $
 $NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
@@ -4101,6 +4101,7 @@ FET	[IATA] Fremont Municipal Airport, NE, USA
 FEU	[Kfz:D] Landkreis Feuchtwangen
 FEW	[IATA] Francis E. Warren Air Force Base, WY, USA
 FEZ	[IATA] Fes (Saiss), Morocco
+FF	fanfiction
 FF	Final Fantasy
 FF	Form Feed (U+000C)
 FF	[gc] first finder’s code (TC)
@@ -14328,6 +14329,7 @@ VTF	[IATA] Vatulele, Fiji
 VTI	[IATA] Vinton Veterans Memorial Airpark, IA, USA
 VTL	[IATA] Vittel, France
 VTN	[IATA] Valentine (Miller Field), NE, USA
+VTR	video-tape recorder
 VTS	U+008A LINE TABULATION SET
 VTS	Vertical Tabulation Set (U+008A)
 VTU	[IATA] Las Tunas, Cuba
