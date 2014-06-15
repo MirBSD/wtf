@@ -1,7 +1,7 @@
-$MirOS: wtf/acronyms,v 1.391 2014/06/01 21:54:37 tg Exp $
+$MirOS: wtf/acronyms,v 1.392 2014/06/15 21:14:12 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.224 2014/05/25 21:49:29 dholland Exp $
-$NetBSD: acronyms.comp,v 1.141 2013/09/28 18:01:49 dholland Exp $
+$NetBSD: acronyms.comp,v 1.142 2014/06/14 02:05:38 jnemeth Exp $
 $NetBSD: airport,v 1.52 2014/03/28 10:16:28 apb Exp $
 $OpenBSD: airport,v 1.26 2012/04/04 11:50:01 jasper Exp $
 0	[Kfz:D] Diplomatenkennzeichen oder Politiker
@@ -3889,6 +3889,7 @@ ESW	[Kfz:D] Landkreis Eschwege
 ESW	[Kfz:D] Werra-Meißner-Kreis
 ESZETT	ß (deutsches Funkalphabet)
 ET	[ccTLD] Äthiopien
+ET	[gc] Ehrentafel (FoF)
 ET	[Kfz] Ägypten
 ETA	edited to add
 ETA	estimated time of arrival (usually infinite)
@@ -4269,6 +4270,7 @@ FOC	free of charge
 FOC	[IATA] Fuzhou, China
 FOD	[IATA] Fort Dodge Regional Airport, IA, USA
 FOE	[IATA] Topeka Forbes Field, Kansas, USA
+FOF	[gc] Field of Fame
 FOG	[IATA] Foggia (Gino Lisa), Italy
 FOK	[IATA] Westhampton Beach, NY, USA
 FOM	[IATA] Foumban, Cameroon
@@ -14991,6 +14993,7 @@ XSB	[IATA] St. Malo, France
 XSC	[IATA] South Caicos Is., Turks & Caicos
 XSD	XML Schema Definition
 XSE	[IATA] Sebba, Burkina Faso
+XSI	X/Open System Interface
 XSI	[IATA] South Indian Lake, MB, Canada
 XSL	extensible stylesheet language
 XSM	[IATA] St. Mary's, MD, USA
