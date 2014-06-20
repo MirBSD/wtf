@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.392 2014/06/15 21:14:12 tg Exp $
+$MirOS: wtf/acronyms,v 1.393 2014/06/20 23:51:03 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.224 2014/05/25 21:49:29 dholland Exp $
 $NetBSD: acronyms.comp,v 1.142 2014/06/14 02:05:38 jnemeth Exp $
@@ -1451,6 +1451,7 @@ BMX	[IATA] Big Mountain Airport, AK, USA
 BMY	[IATA] Belep, Belep Islands, New Caledonia
 BMZ	Brandmeldezentrale
 BMZ	[IATA] Bamu, Papua New Guinea
+BN	bekiffter Nerd
 BN	boundary neutral
 BN	[ccTLD] Brunei
 BN	[Kfz:D] kreisfreie Stadt Bonn
@@ -3914,6 +3915,7 @@ ETSI	European Telecommunications Standards Institute
 ETX	U+0003 ␃ END OF TEXT
 ETXTBSY	(#26) Text file busy
 ETZ	[IATA] Metz/Nancy (Lorraine), France
+EU	Erfahrener Unfallverursacher
 EU	Eu (PSE#63) Europium | Metalle der seltenen Erden (Lanthaniden) | lanthanides | lanthanida
 EU	European Union
 EU	execution unit
@@ -12774,6 +12776,7 @@ SUO	[IATA] Sun River, United Kingdom
 SUP	[IATA] Sumenep, Indonesia
 SUQ	[IATA] Sucua, Ecuador
 SUR	[IATA] Summer Beaver, Canada
+SUS	Schülerinnen und Schüler
 SUS	Single UNIX® Specification
 SUS	stupid user syndrome
 SUS	[IATA] St. Louis (Spirit of St. Louis Airport), MO, USA
@@ -12782,6 +12785,7 @@ SUT	system under test
 SUT	[IATA] Sumbawanga, Tanzania
 SUU	[IATA] Fairfield (Travis Air Force Base), CA, USA
 SUV	[IATA] Suva (Nausori International), Fiji
+SUW	Service und Wartung
 SUW	[IATA] Superior (Richard I. Bong Airport), WI, USA
 SUX	sucks
 SUX	[IATA] Sioux City International, Iowa, USA
