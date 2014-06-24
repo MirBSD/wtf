@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.393 2014/06/20 23:51:03 tg Exp $
+$MirOS: wtf/acronyms,v 1.394 2014/06/24 18:29:42 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.224 2014/05/25 21:49:29 dholland Exp $
 $NetBSD: acronyms.comp,v 1.142 2014/06/14 02:05:38 jnemeth Exp $
@@ -2555,6 +2555,7 @@ CRQ	[IATA] Caravelas, BA, Brazil
 CRR	[IATA] Ceres, Argentina
 CRS	[IATA] Corsicana Municipal Airport, TX, USA
 CRT	cathode ray tube
+CRT	Chinese remainder theorem
 CRT	[IATA] Crossett (Z. M. Jack Stell Field), AR, USA
 CRU	[IATA] Carriacou, Grenada
 CRV	[IATA] Crotone, Italy
