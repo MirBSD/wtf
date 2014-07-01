@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.394 2014/06/24 18:29:42 tg Exp $
+$MirOS: wtf/acronyms,v 1.395 2014/07/01 21:05:24 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.224 2014/05/25 21:49:29 dholland Exp $
 $NetBSD: acronyms.comp,v 1.142 2014/06/14 02:05:38 jnemeth Exp $
@@ -235,6 +235,7 @@ ADZ	[IATA] Gustavo Rojas Pinilla International, San Andres Island, Colombia
 AE	[ccTLD] Vereinigte Arabische Emirate
 AE	[Kfz:D] Landkreis Auerbach
 AEA	[IATA] Abemama Atoll, Kiribati
+AEAD	Authenticated Encryption with Associated Data (block cipher mode)
 AEAP	as early as possible
 AEG	[IATA] Aek Godang, Indonesia
 AEH	[IATA] Abeche, Chad
@@ -243,6 +244,7 @@ AEL	[IATA] Albert Lea Municipal Airport, MN, USA
 AEO	[IATA] Aioun el Atrouss, Mauritania
 AEP	[IATA] Buenos Aires (Jorge Newbery), Argentina
 AER	[IATA] Adler/Sochi, Krasnodar, Russia
+AERO	Authenticated Encryption with Replay prOtection (block cipher mode)
 AERO	[sTLD] aeronautics (in der Luftfahrt tätige Organisationen)
 AES	Advanced Encryption Standard
 AES	application environment services (for GEM)
@@ -4341,6 +4343,9 @@ FRL	[IATA] Forli, Italy
 FRM	[IATA] Fairmont Municipal Airport, MN, USA
 FRN	[IATA] Fort Richardson (Anchorage), AK, USA
 FRO	[IATA] Floro, Norway
+FROB	freight remaining on board
+FROB	frobnicate (manipulate something, adjust or tweak or flip a two-state item)
+FROB	frobnitz (a protruding arm or trunnion, any random small thing)
 FRP	[IATA] Fresh Water Bay, AK, USA
 FRQ	[IATA] Feramin, Papua New Guinea
 FRR	false rejection rate
@@ -6430,6 +6435,7 @@ JÜL	[Kfz:D] Kreis Jülich
 K	K (PSE#19) Kalium, Potassium | Alkalimetalle | alkali metals | metalla alcalica
 K	[Kfz:D] Kreis Köln
 K	[Kfz] Kambodscha
+K&R	Kernighan and Ritchie (The C Programming Language)
 KA	kA = keine Ahnung (no idea)
 KA	[Kfz:D] Stadt- und Landkreis Karlsruhe
 KAA	[IATA] Kasama, Zambia
@@ -8434,6 +8440,7 @@ MPS	memory pool system
 MPS	multiprocessor specification
 MPS	[IATA] Mount Pleasant Municipal Airport, TX, USA
 MPT	[IATA] Maliana, Indonesia
+MPU	microprocessor unit
 MPU	[IATA] Mapua, Papua New Guinea
 MPV	[IATA] Barre/Montpelier (Edward F. Knapp), VT, USA
 MPW	[IATA] Mariupol (Zhdanov), Donets'k, Ukraine
@@ -14146,6 +14153,7 @@ VDP	[IATA] Valle de Pascua, Venezuela
 VDPAU	Video Decode and Presentation API for Unix
 VDR	[IATA] Villa Dolores, Argentina
 VDS	[IATA] Vadso, Norway
+VDU	video display
 VDU	[IATA] Refugio (Tom O'Conner Airport), TX, USA
 VDZ	[IATA] Valdez Airport, AK, USA
 VE	[ccTLD] Venezuela
