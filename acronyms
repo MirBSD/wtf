@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.395 2014/07/01 21:05:24 tg Exp $
+$MirOS: wtf/acronyms,v 1.396 2014/07/04 19:15:32 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.224 2014/05/25 21:49:29 dholland Exp $
 $NetBSD: acronyms.comp,v 1.142 2014/06/14 02:05:38 jnemeth Exp $
@@ -2611,6 +2611,7 @@ CSR	[IATA] Casuarito, Colombia
 CSRF	cross-site request forgery
 CSRG	Computer Systems Research Group
 CSS	cascading style sheets
+CSS	Central Security Service (NSA)
 CSS	Content Scrambling System
 CSS	cross-site scripting (normally XSS)
 CSS	[IATA] Cassilandia, MG, Brazil
@@ -14379,6 +14380,7 @@ W	Westen, west
 W	[Kfz:D] kreisfreie Stadt Wuppertal
 W-CDMA	Wideband Code Division Multiple Access
 W/	with
+W/E	whatever
 W/O	without
 W000	[Oracle] Space Management Slave Process
 W00T	(exclamation of excitement or happiness)
