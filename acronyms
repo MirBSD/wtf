@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.396 2014/07/04 19:15:32 tg Exp $
+$MirOS: wtf/acronyms,v 1.397 2014/07/04 20:46:26 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.224 2014/05/25 21:49:29 dholland Exp $
 $NetBSD: acronyms.comp,v 1.142 2014/06/14 02:05:38 jnemeth Exp $
@@ -882,6 +882,7 @@ AYB	all your base are belong to us
 AYBABTU	all your base are belong to us
 AYC	[IATA] Ayacucho, Colombia
 AYD	[IATA] Alroy Downs, Northern Territory, Australia
+AYE	yes (Scotland, Ireland, northern England)
 AYE	[IATA] Ayer/Fort Devens (Army Air Field), MA, USA
 AYF	all your fault
 AYG	[IATA] Yaguara, Colombia
@@ -9169,6 +9170,7 @@ NOO	[IATA] Naoro, Papua New Guinea
 NOOB	newbie
 NOP	no operation
 NOP	[IATA] Lapu-Lapu, Mactan Island, Philippines
+NOPE	no (informal)
 NOR	[IATA] Nordfjordur, Iceland
 NOR	[Kfz:D] Landkreis Norden
 NORDPOL	N (deutsches Funkalphabet)
@@ -15161,6 +15163,7 @@ YDX	[IATA] Doc Creek, Canada
 YDY	[IATA] Valdepenas, Spain
 YE	[ccTLD] Jemen
 YEA	[IATA] All Airports around Edmonton, Alberta, Canada
+YEAH	yes (informal)
 YEC	[IATA] Yechon, South Korea
 YED	[IATA] Edmonton (Namao Field), AB, Canada
 YEE	[IATA] Midland (Huronia Airport), ON, Canada
@@ -15502,6 +15505,7 @@ YUL	[IATA] Dorval International, Montreal, Quebec, Canada
 YUM	Yellowdog Updater Modified
 YUM	[IATA] Yuma (Marine Corps Air Station), AZ, USA
 YUN	[IATA] Johnson Point, NT, Canada
+YUP	yes (informal)
 YUQ	[IATA] Jenny Lind Island, NT, Canada
 YUR	[IATA] Gladman Point, NT, Canada
 YUS	[IATA] Sheperd Bay, NT, Canada
