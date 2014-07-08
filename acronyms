@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.397 2014/07/04 20:46:26 tg Exp $
+$MirOS: wtf/acronyms,v 1.398 2014/07/08 20:14:14 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.224 2014/05/25 21:49:29 dholland Exp $
 $NetBSD: acronyms.comp,v 1.142 2014/06/14 02:05:38 jnemeth Exp $
@@ -11073,6 +11073,10 @@ R	r, are
 R	[Kfz:D] kreisfreie Stadt und Landkreis Regensburg
 R	[Kfz] Rumänien (veraltet)
 R	[Kfz] Rußland (veraltet)
+R&R	read and review
+R&R	rest and recuperation
+R&R	Rock and Roll
+R&R	rules and regulations
 R/O	read-only
 R/W	read-write
 R000	[Oracle] ASM Block Remap Slave Process
