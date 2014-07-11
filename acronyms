@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.398 2014/07/08 20:14:14 tg Exp $
+$MirOS: wtf/acronyms,v 1.399 2014/07/11 18:41:04 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.224 2014/05/25 21:49:29 dholland Exp $
 $NetBSD: acronyms.comp,v 1.142 2014/06/14 02:05:38 jnemeth Exp $
@@ -139,6 +139,7 @@ ABZ	[IATA] Dyce, Aberdeen, Scotland, United Kingdom
 AC	Ac (PSE#89) Actinium | Übergangsmetalle | transition metals | metalla transitionis
 AC	air conditioning
 AC	alternating current
+AC	anonymous coward
 AC	Attribute Certificate
 AC	audible chuckle
 AC	[ccTLD] Ascension
@@ -252,6 +253,7 @@ AES	[IATA] Aalesund (Vigra), Norway
 AET	[IATA] Allakaket Airport, AK, USA
 AEX	[IATA] Alexandria International Airport, LA, USA
 AEY	[IATA] Akureyri, Iceland
+AF	anonymous finder
 AF	[ccTLD] Afghanistan
 AFA	[IATA] San Rafael, Argentina
 AFAIAC	as far as I am concerned
@@ -1057,6 +1059,7 @@ BCG	[IATA] Bemichi, Guyana
 BCH	[IATA] Baucau, Indonesia
 BCH	[Kfz:D] Landkreis Buchen
 BCI	[IATA] Barcaldine, Queensland, Australia
+BCID	BookCrossing ID
 BCJ	[IATA] Baca Grande, CO, USA
 BCK	[IATA] Bolwarra, Queensland, Australia
 BCL	[IATA] Barra Colorado, Costa Rica
@@ -1705,6 +1708,7 @@ BTC	bit test [and] complement
 BTC	[IATA] Batticalca, Sri Lanka
 BTD	[IATA] Brunette Downs, Northern Territory, Australia
 BTDB	been there, done both
+BTDNDT	been there, did not do that
 BTDT	been there, done that
 BTE	[IATA] Bonthe, Sierra Leone
 BTF	[IATA] Bountiful (Skypark), UT, USA
@@ -9406,6 +9410,7 @@ OB	[Kfz:D] kreisfreie Stadt Oberhausen
 OBA	[IATA] Oban, Queensland, Australia
 OBB	[Kfz:D] Landkreis Obernburg am Main
 OBC	[IATA] Obock, Djibouti
+OBCZ	Official BookCrossing Zone
 OBD	[IATA] Obano, Indonesia
 OBE	[IATA] Okeechobee County Airport, FL, USA
 OBF	[IATA] Oberpfaffenhofen (Dornier/DLR), Germany
@@ -11095,6 +11100,7 @@ RA3	305×430 mm (12.0078×16.9291 in)
 RA4	215×305 mm (8.4645×12.0078 in)
 RAA	[IATA] Rakanda, Papua New Guinea
 RAB	[IATA] Rabaul, Papua New Guinea
+RABCK	Random Act of BookCrossing Kindness
 RAC	remote access console
 RAC	[IATA] Racine (John H. Batten Field), WI, USA
 RAC	[Oracle] real application clusters
