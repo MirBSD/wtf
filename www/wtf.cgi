@@ -1,5 +1,5 @@
 #!/usr/bin/perl -T
-my $rcsid = '$MirOS: wtf/www/wtf.cgi,v 1.11 2014/07/01 21:14:54 tg Exp $';
+my $rcsid = '$MirOS: wtf/www/wtf.cgi,v 1.12 2014/07/15 20:52:09 tg Exp $';
 #-
 # Copyright © 2012, 2014
 #	Thorsten Glaser <tg@mirbsd.org>
@@ -67,6 +67,10 @@ if (defined($ENV{QUERY_STRING})) {
 		$query = $p;
 	}
 }
+
+# ltrim and rtrim
+$query =~ s/^\s+//;
+$query =~ s/\s+$//;
 
 sub tohtml {
 	local ($_) = @_;

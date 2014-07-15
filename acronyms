@@ -1,9 +1,9 @@
-$MirOS: wtf/acronyms,v 1.399 2014/07/11 18:41:04 tg Exp $
+$MirOS: wtf/acronyms,v 1.400 2014/07/15 20:52:05 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.224 2014/05/25 21:49:29 dholland Exp $
 $NetBSD: acronyms.comp,v 1.142 2014/06/14 02:05:38 jnemeth Exp $
-$NetBSD: airport,v 1.52 2014/03/28 10:16:28 apb Exp $
-$OpenBSD: airport,v 1.26 2012/04/04 11:50:01 jasper Exp $
+$NetBSD: airport,v 1.56 2014/07/13 18:08:33 asau Exp $
+$OpenBSD: airport,v 1.27 2014/07/08 11:46:14 kettenis Exp $
 0	[Kfz:D] Diplomatenkennzeichen oder Politiker
 1	one, on
 1080I	1920x540px (interlaced)
@@ -4844,6 +4844,7 @@ GOA	[Kfz:D] Landkreis Sankt Goar
 GOB	[IATA] Goba, Ethiopia
 GOC	[IATA] Gora, China
 GOE	[IATA] Gonaila, Papua New Guinea
+GOF	Gang of Four (Design patterns)
 GOF	[HP] Goblet of Fire
 GOF	[IATA] San Angelo (Goodfellow AFB), TX, USA
 GOH	[IATA] Godthab, Nuuk, Greenland
@@ -5162,6 +5163,7 @@ HCF	halt and catch fire
 HCH	[Kfz:D] Landkreis Hechingen
 HCI	host controller interface
 HCI	human-computer interaction
+HCJ	[IATA] Hechi Jinchengjiang Airport, China
 HCL	hardware compatibility list
 HCM	[IATA] Ell, Somalia
 HCQ	[IATA] Halls Creek, Western Australia, Australia
@@ -5639,9 +5641,11 @@ IAH	[IATA] Houston Intercontinental, Texas, USA
 IAL	[IATA] Ialibu, Papua New Guinea
 IAM	[IATA] Zerzaltine (In Amenas), Algeria
 IAN	[IATA] Kiana (Bob Baker Memorial Airport), AK, USA
+IANA	I am not a …
 IANA	Internet Assigned Numbers Authority
 IANADD	I am not a Debian Developer
 IANAL	I am not a lawyer
+IANARTM	I am not a Release Team member (Debian)
 IAQ	[IATA] Bahregan, Iran
 IAS	[IATA] Iasi, Romania
 IATA	International Air Transport Association (airport codes)
@@ -6615,6 +6619,7 @@ KGZ	[IATA] Glacier Creek Airport, AK, USA
 KH	[ccTLD] Kambodscha
 KH	[Kfz:D] Landkreis Bad Kreuznach
 KHA	[IATA] Khaneh, Iran
+KHC	[IATA] Kerch, Krym (Crimea), Russia
 KHC	[IATA] Kerch, Krym (Crimea), Ukraine
 KHE	[IATA] Kherson, Mykolayiv, Ukraine
 KHG	[IATA] Kashi, China
@@ -8551,7 +8556,7 @@ MSR	[IATA] Munster (Greven), Germany
 MSS	maximum segment size
 MSS	maybe (dutch: misschien)
 MSS	[IATA] Massena (Richards Field), NY, USA
-MST	[IATA] Maastricht (Zuid-Limburg), Netherlands
+MST	[IATA] Maastricht Aachen (Zuid-Limburg), Netherlands
 MST	[Kfz:D] Altkreis Mecklenburg-Strelitz im Landkreis Mecklenburgische Seenplatte
 MSU	[IATA] Maseru (Moshoeshoe I International), Lesotho
 MSV	[IATA] Monticello (Sullivan County), NY, USA
@@ -12217,6 +12222,7 @@ SIN	[IATA] Singapore
 SIO	[IATA] Smithton, Tasmania, Australia
 SIP	Session Initiation Protocol
 SIP	[IATA] Simferopol, Adygea, Ukraine
+SIP	[IATA] Simferopol, Krym (Crimea), Russia
 SIQ	[IATA] Singkep (Dabo Airport), Indonesia
 SIR	signal-to-interference ratio
 SIR	slow infrared
@@ -12786,7 +12792,7 @@ SUE	[IATA] Sturgeon Bay (Door County), WI, USA
 SUF	[IATA] Lamezia Terme, Italy
 SUG	[IATA] Surigao, Philippines
 SUH	[IATA] Sur, Oman
-SUI	[IATA] Sokhumi, Abkhazia, Georgia
+SUI	[IATA] Sokhumi/Sukhum, Abkhazia, Georgia
 SUJ	[IATA] Satu Mare, Romania
 SUK	[IATA] Samchok, South Korea
 SUL	[IATA] Sui, Pakistan
@@ -14230,7 +14236,7 @@ VIK	[IATA] Kavik, AK, USA
 VIKTOR	V (deutsches Funkalphabet)
 VIL	[IATA] Dakhla (Villa Cisneros), Western Sahara
 VIM	it’s e̲d̲itor, *not* v̲i̲itor! (and vim’s worse.) don’t use it!
-VIN	[IATA] Vinnytsya, Russia
+VIN	[IATA] Vinnytsya, Ukraine
 VIP	very important person
 VIPT	virtually indexed, physically tagged
 VIQ	[IATA] Viqueque, Indonesia
