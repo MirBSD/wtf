@@ -1,8 +1,8 @@
-$MirOS: wtf/acronyms,v 1.400 2014/07/15 20:52:05 tg Exp $
+$MirOS: wtf/acronyms,v 1.401 2014/07/20 21:26:01 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.224 2014/05/25 21:49:29 dholland Exp $
 $NetBSD: acronyms.comp,v 1.142 2014/06/14 02:05:38 jnemeth Exp $
-$NetBSD: airport,v 1.56 2014/07/13 18:08:33 asau Exp $
+$NetBSD: airport,v 1.57 2014/07/20 19:19:49 mbalmer Exp $
 $OpenBSD: airport,v 1.27 2014/07/08 11:46:14 kettenis Exp $
 0	[Kfz:D] Diplomatenkennzeichen oder Politiker
 1	one, on
@@ -2021,6 +2021,7 @@ CC	credit card
 CC	Cur Cenntnisnahme
 CC	[ccTLD] Kokosinseln
 CC	[gc] confirmation code (TC)
+CC	[gc] cyber cache (some sort of LC, in TC3)
 CCA	[IATA] Chaffee Army Air Field, AR, USA
 CCAR	Cisco Certified Architect
 CCB	[IATA] Upland (Cable Airport), CA, USA
@@ -6619,8 +6620,7 @@ KGZ	[IATA] Glacier Creek Airport, AK, USA
 KH	[ccTLD] Kambodscha
 KH	[Kfz:D] Landkreis Bad Kreuznach
 KHA	[IATA] Khaneh, Iran
-KHC	[IATA] Kerch, Krym (Crimea), Russia
-KHC	[IATA] Kerch, Krym (Crimea), Ukraine
+KHC	[IATA] Kerch, Krym (Crimea), Ukraine / Russia
 KHE	[IATA] Kherson, Mykolayiv, Ukraine
 KHG	[IATA] Kashi, China
 KHH	[IATA] Kaohsiung International, Taiwan
@@ -12221,8 +12221,7 @@ SIN	Sinus
 SIN	[IATA] Singapore
 SIO	[IATA] Smithton, Tasmania, Australia
 SIP	Session Initiation Protocol
-SIP	[IATA] Simferopol, Adygea, Ukraine
-SIP	[IATA] Simferopol, Krym (Crimea), Russia
+SIP	[IATA] Simferopol, Krym (Crimea), Ukraine / Russia
 SIQ	[IATA] Singkep (Dabo Airport), Indonesia
 SIR	signal-to-interference ratio
 SIR	slow infrared
@@ -13087,6 +13086,8 @@ TC	Tc (PSE#43) Technetium | Übergangsmetalle | transition metals | metalla tran
 TC	[ccTLD] Turks- und Caicosinseln
 TC	[gc] Terracache
 TC	[Kfz] Kamerun (veraltet)
+TC1	[gc] Terracaching 1, phpBB-based
+TC3	[gc] Terracaching 3, opened in 2014
 TCA	[IATA] Tennant Creek, Northern Territory, Australia
 TCAP	Transaction Capabilities Application Part
 TCB	taking care of business
