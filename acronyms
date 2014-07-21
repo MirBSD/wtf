@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.401 2014/07/20 21:26:01 tg Exp $
+$MirOS: wtf/acronyms,v 1.402 2014/07/21 20:17:37 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.224 2014/05/25 21:49:29 dholland Exp $
 $NetBSD: acronyms.comp,v 1.142 2014/06/14 02:05:38 jnemeth Exp $
@@ -3818,6 +3818,7 @@ EPT	[IATA] Eliptamin, Papua New Guinea
 EQ	[Kfz] Ecuador (veraltet)
 EQS	[IATA] Esquel, Argentina
 EQY	[IATA] Monroe Airport, NC, USA
+ER	Emergency Room
 ER	Er (PSE#68) Erbium | Metalle der seltenen Erden (Lanthaniden) | lanthanides | lanthanida
 ER	[ccTLD] Eritrea
 ER	[Kfz:D] Landkreis Erlangen-Höchstadt
@@ -5677,6 +5678,7 @@ ICA	independent computer architecture
 ICA	[IATA] Icabaru, Venezuela
 ICANN	(also jokingly: ICAN't)
 ICANN	Internet Corporation for Assigned Names and Numbers
+ICAO	International Civil Aviation Organisation
 ICB	Internet Citizen's Band
 ICBA	I can’t be arsed
 ICBW	I could be wrong
