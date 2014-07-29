@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.402 2014/07/21 20:17:37 tg Exp $
+$MirOS: wtf/acronyms,v 1.403 2014/07/29 07:29:51 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.224 2014/05/25 21:49:29 dholland Exp $
 $NetBSD: acronyms.comp,v 1.142 2014/06/14 02:05:38 jnemeth Exp $
@@ -14526,6 +14526,9 @@ WER	[Kfz:D] Landkreis Wertingen
 WES	[IATA] Weasua, Liberia
 WES	[Kfz:D] Kreis Rees
 WES	[Kfz:D] Kreis Wesel
+WET	(DRY violation)
+WET	we enjoy typing
+WET	write everything twice
 WET	[IATA] Wagethe, Indonesia
 WEW	[IATA] Wee Waa, New South Wales, Australia
 WEX	[IATA] Wexford, Ireland
