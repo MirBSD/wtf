@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.403 2014/07/29 07:29:51 tg Exp $
+$MirOS: wtf/acronyms,v 1.404 2014/07/30 21:18:13 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.224 2014/05/25 21:49:29 dholland Exp $
 $NetBSD: acronyms.comp,v 1.142 2014/06/14 02:05:38 jnemeth Exp $
@@ -829,6 +829,7 @@ AVG	[IATA] Auvergne, Northern Territory, Australia
 AVI	Audio/Video (RIFF)
 AVI	[IATA] Ciego de Avila, Cuba
 AVL	Adelson-Velsky-Landis
+AVL	[BookCrossing] available
 AVL	[IATA] Asheville Regional, North Carolina, USA
 AVN	[IATA] Caumont, Avignon, France
 AVO	[IATA] Avon Park Municipal Airport, FL, USA
@@ -6037,6 +6038,7 @@ ISM	industrial, scientific and medical
 ISM	[IATA] Kissimmee (Orlando Municipal Airport), FL, USA
 ISN	initial serial number
 ISN	[IATA] Williston (Sloulin Field International), ND, USA
+ISO	in search of
 ISO	International Standards Organisation
 ISO	[IATA] Kinston Jetport (Stallings Field), NC, USA
 ISOC	Internet Society
@@ -9983,6 +9985,7 @@ PC	player character
 PC	politically correct
 PC	precious cargo
 PC	program counter
+PC	[BookCrossing] permanent collection
 PCA	[IATA] Portage Creek Airport, AK, USA
 PCB	polychlorinated biphenyl(s)
 PCB	printed circuit board
@@ -11268,6 +11271,7 @@ REP	[IATA] Siem Reap (Angkor), Cambodia
 REPL	read-eval-print loop
 REQ	[IATA] Requena, Spain
 RER	Réseau Express Régional
+RES	[BookCrossing] reserved
 RES	[IATA] Resistencia, Argentina
 REST	representational state transfer
 RET	[IATA] Rost (Stollport), Norway
@@ -13077,6 +13081,7 @@ TBN	[IATA] Fort Leonard Wood (Forney AAF), MO, USA
 TBO	[IATA] Tabora, Tanzania
 TBOMK	the best of my knowledge
 TBP	[IATA] Tumbes, Peru
+TBR	[BookCrossing] to be read
 TBR	[IATA] Statesboro Municipal Airport, GA, USA
 TBS	[IATA] Tbilisi (Novoalexeyevka), Abkhazia, Georgia
 TBSC	[GC] total blöder Statistik-Cache
@@ -13558,6 +13563,7 @@ TR	[Kfz:D] kreisfreie Stadt Trier und Landkreis Trier-Saarburg
 TR	[Kfz] Türkei
 TRA	[IATA] Taramajima, Japan
 TRAU	Transcoding Rate and Adaption Unit
+TRAV	[BookCrossing] travelling
 TRAVEL	[sTLD] travel (Reiseindustrie)
 TRB	[IATA] Turbo, Colombia
 TRC	trace
