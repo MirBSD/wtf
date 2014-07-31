@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.404 2014/07/30 21:18:13 tg Exp $
+$MirOS: wtf/acronyms,v 1.405 2014/07/31 21:04:29 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.224 2014/05/25 21:49:29 dholland Exp $
 $NetBSD: acronyms.comp,v 1.142 2014/06/14 02:05:38 jnemeth Exp $
@@ -5937,6 +5937,7 @@ IOP	[IATA] Ioma, Papua New Guinea
 IOPS	I/O Operations per Second
 IOR	[IATA] Inishmore, Ireland
 IOS	[IATA] Ilheus, BA, Brazil
+IOT	Internet of Things
 IOU	I owe you (debt)
 IOU	[IATA] Ile Quen, New Caledonia
 IOW	in other words
