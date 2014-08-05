@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.405 2014/07/31 21:04:29 tg Exp $
+$MirOS: wtf/acronyms,v 1.406 2014/08/05 21:52:15 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.224 2014/05/25 21:49:29 dholland Exp $
 $NetBSD: acronyms.comp,v 1.142 2014/06/14 02:05:38 jnemeth Exp $
@@ -4743,6 +4743,7 @@ GJN	[IATA] Jounieh, Lebanon
 GJR	[IATA] Reykjarnes (Gjogur), Iceland
 GJT	[IATA] Grand Junction (Walker Field), CO, USA
 GK	Gauß-Krüger coordinate system (Potsdam-Datum, Bessel(BRD)/Krassowski(DDR)-Ellipsoid)
+GK	[gc] GeoKrety (like TB)
 GK	[Kfz:D] Selfkantkreis Geilenkirchen-Heinsberg
 GK	[Schule DE] Grundkurs
 GKA	[IATA] Goroka, Papua New Guinea
@@ -4953,7 +4954,7 @@ GRZ	[Kfz:D] Landkreis Greiz
 GS	Group Separator (U+001D)
 GS	U+001D ␝ INFORMATION SEPARATOR THREE
 GS	[ccTLD] Südgeorgien und die Südlichen Sandwichinseln
-GS	[gc] Groundspeak (TC)
+GS	[gc] Groundspeak
 GS	[Kfz:D] Landkreis Goslar
 GSA	[IATA] Long Paisa, Sabah, Malaysia
 GSB	[IATA] Goldsboro (Seymour Johnson AFB), NC, USA
@@ -10122,6 +10123,7 @@ PFO	please fuck off
 PFO	[IATA] Paphos (International), Cyprus
 PFR	[IATA] Ilebo, Zaire
 PFS	perfect forward secrecy
+PFX	[gc] Letterboxes Planted, Found and eXchanges made with other Letterboxers
 PFY	pimply faced youth
 PG	[ccTLD] Papua-Neuguinea
 PGA	[IATA] Page Municipal Airport, AZ, USA
