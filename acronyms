@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.406 2014/08/05 21:52:15 tg Exp $
+$MirOS: wtf/acronyms,v 1.407 2014/08/11 20:43:39 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.224 2014/05/25 21:49:29 dholland Exp $
 $NetBSD: acronyms.comp,v 1.142 2014/06/14 02:05:38 jnemeth Exp $
@@ -1811,6 +1811,7 @@ BVZ	[IATA] Beverley Springs, Western Australia, Australia
 BW	Baden-Württemberg
 BW	bandwidth
 BW	black and white
+BW	Bundeswehr
 BW	[ccTLD] Botswana
 BW	[Kfz:D] Dienstfahrzeuge der Bundes-Wasser- und -schifffahrtsverwaltung
 BW	[Kfz] Botswana (nicht offiziell)
@@ -3924,6 +3925,7 @@ ETR	early to rise
 ETRS89	European Terrestrial Reference System of 1989 (GRS80 reference ellipsoid)
 ETS	[IATA] Enterprise Municipal Airport, AL, USA
 ETSI	European Telecommunications Standards Institute
+ETW	Eigentumswohnung
 ETX	U+0003 ␃ END OF TEXT
 ETXTBSY	(#26) Text file busy
 ETZ	[IATA] Metz/Nancy (Lorraine), France
@@ -4514,6 +4516,7 @@ GAJ	[IATA] Yamagata, Honshu, Japan
 GAK	[IATA] Gakona, AK, USA
 GAL	generic array logic
 GAL	get a life
+GAL	global address list
 GAL	[IATA] Galena Airport, AK, USA
 GAM	[IATA] Gambell Airport, AK, USA
 GAN	[IATA] Gan Island, Maldives
@@ -4895,6 +4898,7 @@ GPN	[IATA] Garden Point, Northern Territory, Australia
 GPO	[IATA] General Pico, Argentina
 GPR	general purpose register
 GPRS	general packet radio service
+GPS	GC1JY47 Rainbow's End: Grand Prismatic Spring
 GPS	generalised processor sharing
 GPS	global positioning system
 GPS	[IATA] Galapagos Islands, Ecuador
@@ -7580,6 +7584,8 @@ LSB	least significant byte
 LSB	linux standards base
 LSB	[IATA] Lordsburg Municipal Airport, NM, USA
 LSC	[IATA] La Serena, Chile
+LSD	lysergic acid diethylamide
+LSD	Lysergsäurediäthylamid
 LSD	[IATA] Lexington (Creech Army Air Field), KY, USA
 LSE	[IATA] La Crosse Municipal Airport), WI, USA
 LSF	langue des signes française
@@ -8453,6 +8459,7 @@ MPP	massively parallel processor
 MPP	[IATA] Malatupo, Panama
 MPQ	[IATA] Maan, Jordan
 MPR	[IATA] McPherson Airport, KS, USA
+MPREG	male pregnancy
 MPS	memory pool system
 MPS	multiprocessor specification
 MPS	[IATA] Mount Pleasant Municipal Airport, TX, USA
