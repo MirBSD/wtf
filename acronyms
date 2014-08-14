@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.407 2014/08/11 20:43:39 tg Exp $
+$MirOS: wtf/acronyms,v 1.408 2014/08/14 17:22:17 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.224 2014/05/25 21:49:29 dholland Exp $
 $NetBSD: acronyms.comp,v 1.142 2014/06/14 02:05:38 jnemeth Exp $
@@ -486,6 +486,7 @@ AMN	[IATA] Alma (Gratiot Community Airport), MI, USA
 AMO	[IATA] Mao, Chad
 AMOL	a mountain of love
 AMP	[IATA] Ampanihy, Madagascar
+AMPEL	Aktive MittagsPausen Event Listing
 AMQ	[IATA] Ambon (Pattimura), Indonesia
 AMQP	Advanced Message Queuing Protocol
 AMR	[IATA] Arno, Marshall Islands
@@ -1944,6 +1945,7 @@ CAB	[IATA] Cabinda, Angola
 CABAL	http://www.lucianobello.com.ar/post/there-is-no-cabal-but-whats-a-cabal/
 CABAL	TINC
 CAC	[IATA] Cascavel, PR, Brazil
+CACHE	Cohährente Anhänger Creativer Hoheitlicher Einheit
 CAD	computer-aided design
 CAD	[IATA] Cadillac (Wexford County Airport), MI, USA
 CAE	[IATA] Columbia Metropolitan, South Carolina, USA
@@ -3046,6 +3048,7 @@ DIB	device-independent bitmap
 DIB	[IATA] Dibrugarh, India
 DIC	[IATA] Dili, Dem. Rep. of Congo
 DIE	[IATA] Antsiranana (Arrachart), Madagascar
+DIFFICULTY	Die Inkompetenten Forderer und Förderer Immaterieller Clubs Und Langsam Trottender Yetis
 DIFS	distributed inter-frame space
 DIJ	[IATA] Dijon (Longvic), France
 DIK	[IATA] Dickinson Municipal Airport, ND, USA
@@ -4900,6 +4903,7 @@ GPR	general purpose register
 GPRS	general packet radio service
 GPS	GC1JY47 Rainbow's End: Grand Prismatic Spring
 GPS	generalised processor sharing
+GPS	Geographische Partei Saputziens
 GPS	global positioning system
 GPS	[IATA] Galapagos Islands, Ecuador
 GPSR	GPSr = GPS receiver
@@ -5772,6 +5776,7 @@ IFF	Interchange File Format
 IFF	[IATA] Iffley, Queensland, Australia
 IFJ	[IATA] Isafjordur, Iceland
 IFL	[IATA] Innisfail, Queensland, Australia
+IFMEODSS	Initiative für mehr Events op d’r schäl Sick
 IFN	[IATA] Isfahan, Iran
 IFO	[IATA] Ivano Frankovsk, Ukraine
 IFP	[IATA] Bullhead City, AZ, USA
@@ -7484,6 +7489,7 @@ LOD	[IATA] Longana, Vanuatu
 LOE	[IATA] Loei, Thailand
 LOF	[IATA] Loen, Norway
 LOG	log file
+LOG	Loge Organisierter Geographen
 LOG	[IATA] Longview, WA, USA
 LOH	[IATA] Loja, Ecuador
 LOH	[Kfz:D] Landkreis Lohr am Main
@@ -10428,6 +10434,7 @@ POL	[IATA] Pemba (Porto Amelia), Mozambique
 POLA	principle of least astonishment
 POLS	principle of least surprise
 POM	[IATA] Port Moresby, Papua New Guinea
+POMIPA	Poppelsdorfer Mittagspause – Mittagessen auf der (Fr)Essmeile Poppelsdorfs
 PON	[IATA] Poptun, Guatemala
 POO	[IATA] Pocos de Caldas, MG, Brazil
 POOM	Pocket Outlook Object Model
@@ -11256,6 +11263,7 @@ RE	regular expression - https://www.mirbsd.org/man7/re_format
 RE	[ccTLD] Réunion
 RE	[Kfz:D] Kreis Recklinghausen
 REA	[IATA] Read, French Polynesia
+REALTEK	richtig eingebaut, läuft trotzdem echt komisch
 REC	[IATA] Recife (Guararapes), PE, Brazil
 RECO	[Oracle] (distributed transactions) Recoverer Process
 RED	[IATA] Reedsville (Mifflin County Airport), PA, USA
@@ -12725,6 +12733,7 @@ ST:TOS	[ST] The Original Series
 ST:VOY	[ST] Voyager
 STA	[IATA] Stuttgart, Germany
 STA	[Kfz:D] Landkreis Starnberg
+STASH	Soziale Träger Angenehmer Sybillinischer Halbwahrheiten
 STB	[IATA] Santa Barbara, Venezuela
 STB	[Kfz:D] Landkreis Sternberg
 STC	software thermal control
@@ -13189,6 +13198,7 @@ TEM0	[Oracle] ASM disk Test Error Emulation Process
 TEO	[IATA] Terapo, Papua New Guinea
 TEP	[IATA] Teptep, Papua New Guinea
 TER	[IATA] Terceira (Aeroporto das Lajes), Azores, Portugal
+TERRAIN	Total Engagierte Radikale Raudis Aus Innerem Nichtwissen
 TERRATHREE	3 (International Radiotelephony Spelling Alphabet)
 TES	[IATA] Tessenei, Ethiopia
 TESB	[SW] Episode V: The Empire Strikes Back
@@ -13575,6 +13585,7 @@ TRA	[IATA] Taramajima, Japan
 TRAU	Transcoding Rate and Adaption Unit
 TRAV	[BookCrossing] travelling
 TRAVEL	[sTLD] travel (Reiseindustrie)
+TRAVELBUG	Temporäre Radikale Assoziation Veritabler Engstirniger Lokaler Bedenkenträger Und Geldvernichter
 TRB	[IATA] Turbo, Colombia
 TRC	trace
 TRC	[IATA] Torreon, Mexico
@@ -14617,6 +14628,8 @@ WIT	[IATA] Wittendom Gorge, Western Australia, Australia
 WIT	[Kfz:D] kreisfreie Stadt Witten
 WIU	[IATA] Witu, Papua New Guinea
 WIX	[IATA] Tuxpan, Mexico
+WIZ	Thomas Klausner
+WIZ	Wissenschaftszentrum
 WIZ	[Kfz:D] Landkreis Witzenhausen
 WJA	[IATA] Woja, Marshall Islands
 WJF	[IATA] Lancaster/Palmdale, CA, USA
