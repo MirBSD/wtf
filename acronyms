@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.413 2014/09/01 21:49:00 tg Exp $
+$MirOS: wtf/acronyms,v 1.414 2014/09/03 19:55:41 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.224 2014/05/25 21:49:29 dholland Exp $
 $NetBSD: acronyms.comp,v 1.143 2014/08/20 16:05:03 ginsbach Exp $
@@ -4485,6 +4485,11 @@ FTA	[IATA] Futuna Island, Wallis and Futuna Islands
 FTBFS	fails to build from source
 FTBFS	failure to build from source
 FTCBFS	fails to cross-build from source
+FTE	full-time equivalent
+FTE	Manntag(e), Personentag(e)
+FTE	Vollkraft
+FTE	Vollzeit-Arbeitskraft
+FTE	Vollzeitmitarbeiter
 FTE	[IATA] Comandante Armando Tola International, El Calafate, Argentina
 FTF	[gc] first to find
 FTFA	from the fucking article
@@ -5885,6 +5890,7 @@ IFMEODSS	Initiative für mehr Events op d’r schäl Sick
 IFN	[IATA] Isfahan, Iran
 IFO	[IATA] Ivano Frankovsk, Ukraine
 IFP	[IATA] Bullhead City, AZ, USA
+IFS	internal field separator
 IGA	[IATA] Inagua (Matthew Town), Great Inagua, Bahamas
 IGB	[IATA] Ingeniero Jacobacci, Argentina
 IGB	[Kfz:D] Stadt St. Ingbert im Saar-Pfalz-Kreis
@@ -7297,6 +7303,7 @@ LCD	[IATA] Louis Trichardt, South Africa
 LCE	[IATA] La Ceiba (Goloson), Honduras
 LCF	[IATA] Hull (Leconfeld Airport), England, UK
 LCG	LHC Computing Grid (CE)
+LCG	linear congruential generator
 LCG	[IATA] La Coruña, Spain
 LCH	[IATA] Lake Charles, Louisiana, USA
 LCI	[IATA] Laconia Municipal Airport, NH, USA
@@ -7445,6 +7452,7 @@ LHN	[IATA] Lishan, Taiwan
 LHP	loop heat pipe
 LHP	[IATA] Lehu, Papua New Guinea
 LHR	[IATA] Heathrow, London, UK
+LHS	left-hand side
 LHS	[IATA] Las Heras, Argentina
 LHU	[IATA] Lake Havasu City, AZ, USA
 LHV	[IATA] Lock Haven (William T. Piper), PA, USA
@@ -7940,6 +7948,7 @@ MAI	[IATA] Mangochi, Malawi
 MAI	[Kfz:D] Landkreis Mainburg
 MAJ	Major
 MAJ	[IATA] Majuro (International Airport), Marshall Islands
+MAK	Mitarbeiterkapazität(en) (cf. FTE)
 MAK	[IATA] Malakal, Sudan
 MAK	[Kfz:D] kreisfreie Stadt Marktredwitz
 MAL	[IATA] Mangole, Indonesia
@@ -8978,6 +8987,7 @@ MZV	[IATA] Mulu, Malaysia
 MZX	[IATA] Mena, Ethiopia
 MZY	[IATA] Mossel Bay, South Africa
 MZZ	[IATA] Marion Municipal Airport, IN, USA
+MÄ	Mitarbeiteräquivalent (cf. FTE)
 MÜ	[Kfz:D] Landkreis Mühldorf am Inn
 MÜB	[Kfz:D] Landkreis Münchberg
 MÜL	[Kfz:D] Landkreis Müllheim
@@ -11547,6 +11557,7 @@ RHL	Red Hat Linux (now either RHEL or Fedora)
 RHL	[IATA] Roy Hill, Australia
 RHO	[IATA] Rhodes (Diagoras/Maritsa), Greece
 RHP	[IATA] Ramechhap, Nepal
+RHS	right-hand side
 RHV	[IATA] San Jose (Santa Clara County), CA, USA
 RHV	[Kfz] Burkina Faso (veraltet)
 RI	Reference Implementation
@@ -14401,6 +14412,7 @@ VAZ	[IATA] Val d'Isere, France
 VB	Visual Basic
 VB	[Kfz:D] Vogelsbergkreis
 VBA	Visual Basic for Applications
+VBE	Vollbeschäftigteneinheit (cf. FTE)
 VBEG	very big evil grin
 VBG	[IATA] Lompoc (Vandenberg Air Force Base), CA, USA
 VBG0	[Oracle] Volume Background Process
@@ -14670,6 +14682,7 @@ VXO	[IATA] Vaxjo, Sweden
 VXX	[IATA] Mexico City (Sertel), Mexico
 VYD	[IATA] Vryheid, South Africa
 VYS	[IATA] Peru (Illinois Valley Regional Airport), IL, USA
+VZÄ	Vollzeitäquivalent (cf. FTE)
 W	W (PSE#74) Wolframium, Wolfram, Tungsten | Übergangsmetalle | transition metals | metalla transitionis
 W	wahr (boolean 1)
 W	Watt
