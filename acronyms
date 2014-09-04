@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.414 2014/09/03 19:55:41 tg Exp $
+$MirOS: wtf/acronyms,v 1.415 2014/09/04 23:06:56 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.224 2014/05/25 21:49:29 dholland Exp $
 $NetBSD: acronyms.comp,v 1.143 2014/08/20 16:05:03 ginsbach Exp $
@@ -206,6 +206,7 @@ ADH	[IATA] Aldan, Yakutia-Sakha, Russia
 ADHD	attention deficit (and) hyperactivity disorder
 ADHS	Aufmerksamkeitsdefizitsyndrom in Komorbidität mit Hyperaktivität (cf. ADHD)
 ADJ	[IATA] Civil, Amman (Marka), Jordan
+ADK	appliance development kit
 ADK	[IATA] Adak Island Naval Air Station, AK, USA
 ADL	[IATA] Adelaide, South Australia, Australia
 ADM	[IATA] Ardmore Municipal Airport, OK, USA
@@ -3735,6 +3736,8 @@ ELK	[IATA] Elk City Municipal Airport, OK, USA
 ELL	[IATA] Ellisras, South Africa
 ELM	[IATA] Elmira/Corning Regional Airport, NY, USA
 ELN	[IATA] Ellensburg (Bowers Field), WA, USA
+ELO	(chess rating system created by Arpad Elo)
+ELO	effective labour output (cf. FTE)
 ELO	[IATA] Eldorado, Argentina
 ELOOP	(#62) Too many levels of symbolic links
 ELP	[IATA] El Paso International, El Paso, Texas, USA
@@ -3888,6 +3891,8 @@ EPROTOTYPE	(#41) Protocol wrong type for socket
 EPS	Encapsulated Postscript
 EPT	[IATA] Eliptamin, Papua New Guinea
 EQ	[Kfz] Ecuador (veraltet)
+EQL	eqivalent labour (cf. FTE)
+EQM	equivalent manpower (cf. FTE)
 EQS	[IATA] Esquel, Argentina
 EQY	[IATA] Monroe Airport, NC, USA
 ER	Emergency Room
@@ -14825,6 +14830,7 @@ WF	[ccTLD] Wallis und Futuna (auch .fr)
 WF	[ISO 3166] Wallis & Futuna
 WF	[Kfz:D] Landkreis Wolfenbüttel
 WFB	[IATA] Ketchikan (Seaplane Base), AK, USA
+WFE	workforce equivalent (cf. FTE)
 WFH	working from home
 WFI	wait for interrupt
 WFI	[IATA] Fianarantsoa, Madagascar
