@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.417 2014/09/07 19:21:56 tg Exp $
+$MirOS: wtf/acronyms,v 1.418 2014/09/08 18:55:45 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.224 2014/05/25 21:49:29 dholland Exp $
 $NetBSD: acronyms.comp,v 1.143 2014/08/20 16:05:03 ginsbach Exp $
@@ -609,6 +609,7 @@ APO	[IATA] Apartado, Colombia
 APOGOST	[Schule DE] Allgemeine Prüfungsordnung der Gymnasialen Oberstufe
 APP	[IATA] Asapa, Papua New Guinea
 APR	[IATA] April River, Papua New Guinea
+APRS	automated position reporting system
 APS	[IATA] Anapolis, GO, Brazil
 APT	Advanced Packaging Tool
 APT	[IATA] Jasper (Marion County Airport), TN, USA
@@ -1949,7 +1950,9 @@ BZV	[IATA] Brazzaville (Maya Maya), Congo
 BZY	[IATA] Beltsy, Moldova
 BZZ	[IATA] Brize Norton (Oxford), England, UK
 BÖ	[Kfz:D] Bördekreis
+BÜ	Bahnübergang
 BÜD	[Kfz:D] Landkreis Büdingen
+BÜDG	Bahnübergang des Grauens
 BÜR	[Kfz:D] Kreis Büren
 BÜS	[Kfz:D] Gemeinde Büsingen am Hochrhein im Landkreis Konstanz
 BÜZ	[Kfz:D] Landkreis Bützow
@@ -5632,6 +5635,7 @@ HST	[Kfz:D] Landkreis Stralsund
 HSTS	HTTP Strict Transport Security
 HSUPA	High-Speed Uplink Packet Access
 HSV	[IATA] Huntsville International (Jones Field), AL, USA
+HT	handheld transceiver
 HT	Horizontal Tabulator (U+0009)
 HT	hyper-threading
 HT	U+0009 ␉ CHARACTER TABULATION
@@ -11958,6 +11962,7 @@ S	S (PSE#16) Sulphur, Schwefel, Sulfur | Chalkogene | chalcogens
 S	Süden, south
 S	[Kfz:D] Stadtkreis Stuttgart
 S	[Kfz] Schweden
+S&R	search and rescue
 S.M.O.M.	[Kfz] Malteserorden (nicht offiziell)
 S/MIME	Secure/Multipurpose Internet Mail Extensions
 S/PDIF	Sony/Philips Digital Interface Format
@@ -11971,6 +11976,7 @@ SA	security association
 SA	source address
 SA	structured analysis
 SA	[ccTLD] Saudi-Arabien
+SA	[GPS] selective availability
 SA	[ISO 3166] Saudi Arabia
 SA	[Kfz] Saargebiet (veraltet)
 SA	[Kfz] Saarland (veraltet)
@@ -12870,6 +12876,7 @@ SRG	[IATA] Semarang (Achmadyani), Indonesia
 SRGG	secure random number generator
 SRH	[IATA] Sarh, Chad
 SRI	[IATA] Samarinda, Indonesia
+SRID	Spatial Reference System Identifier
 SRJ	[IATA] San Borja, Bolivia
 SRK	[IATA] Sierra Leone, Sierra Leone
 SRL	[IATA] Santa Rosalia, Mexico
