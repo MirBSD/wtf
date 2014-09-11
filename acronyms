@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.418 2014/09/08 18:55:45 tg Exp $
+$MirOS: wtf/acronyms,v 1.419 2014/09/11 19:10:15 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.224 2014/05/25 21:49:29 dholland Exp $
 $NetBSD: acronyms.comp,v 1.143 2014/08/20 16:05:03 ginsbach Exp $
@@ -9177,6 +9177,7 @@ NEU	[Kfz:D] Landkreis Hochschwarzwald
 NEV	[IATA] Nevis (Newcastle), St. Kitts and Nevis
 NEW	[IATA] New Orleans (Lakefront Airport), LA, USA
 NEW	[Kfz:D] Landkreis Neustadt an der Waldnaab
+NEWT	Nastily Exhausting Wizarding Test
 NF	[ccTLD] Norfolkinsel
 NF	[ISO 3166] Norfolk Island
 NF	[Kfz:D] Kreis Nordfriesland
@@ -10054,6 +10055,7 @@ OWD	[IATA] Norwood Memorial Airport, MA, USA
 OWE	[IATA] Owendo, Gabon
 OWI	[IATA] Ottawa Municipal Airport, KS, USA
 OWK	[IATA] Norridgewock (Central Maine), ME, USA
+OWL	Ordinary Wizarding Level
 OWL	Web Ontology Language
 OWTTE	or words to that effect
 OWX	[IATA] Ottawa (Putnam County), OH, USA
