@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.420 2014/09/20 16:37:15 tg Exp $
+$MirOS: wtf/acronyms,v 1.421 2014/09/24 12:06:32 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.224 2014/05/25 21:49:29 dholland Exp $
 $NetBSD: acronyms.comp,v 1.143 2014/08/20 16:05:03 ginsbach Exp $
@@ -12519,6 +12519,7 @@ SJS	[IATA] San Jose, Bolivia
 SJT	[IATA] San Angelo (Mathis Field), TX, USA
 SJU	[IATA] San Juan (Luis Munoz Marin), Puerto Rico
 SJV	[IATA] San Javier, Bolivia
+SJW	social justice warrior
 SJW	[IATA] Shijiazhuang, China
 SJX	[IATA] Sartaneja, Belize
 SJY	[IATA] Seinajoki, Finland
