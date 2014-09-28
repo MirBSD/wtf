@@ -1,8 +1,8 @@
-$MirOS: wtf/acronyms,v 1.421 2014/09/24 12:06:32 tg Exp $
+$MirOS: wtf/acronyms,v 1.422 2014/09/28 19:49:52 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.224 2014/05/25 21:49:29 dholland Exp $
 $NetBSD: acronyms.comp,v 1.143 2014/08/20 16:05:03 ginsbach Exp $
-$NetBSD: airport,v 1.57 2014/07/20 19:19:49 mbalmer Exp $
+$NetBSD: airport,v 1.58 2014/09/21 08:38:03 mbalmer Exp $
 $OpenBSD: airport,v 1.27 2014/07/08 11:46:14 kettenis Exp $
 0	[Kfz:D] Diplomatenkennzeichen oder Politiker
 1	one, on
@@ -321,6 +321,7 @@ AGQ	[IATA] Agrinion, Greece
 AGR	[IATA] Agra, India
 AGS	[IATA] Augusta Regional/Bush Field, Augusta, GA, USA
 AGT	[IATA] Ciudad del Este, Paraguay
+AGU	address generation unit
 AGU	[IATA] Aguascalientes, Mexico
 AGV	[IATA] Acarigua, Venezuela
 AGW	[IATA] Agnew, Queensland, Australia
@@ -1630,6 +1631,7 @@ BR	[ccTLD] Brasilien
 BR	[ISO 3166] Brazil
 BR	[Kfz:D] Landkreis Bruchsal
 BR	[Kfz] Brasilien
+BRA	branch (jump)
 BRA	[IATA] Barreiras, BA, Brazil
 BRA	[Kfz:D] Landkreis Wesermarsch
 BRAVO	B (International Radiotelephony Spelling Alphabet)
@@ -1719,6 +1721,7 @@ BSP	bug-squashing party
 BSP	[IATA] Bensbach, Papua New Guinea
 BSQ	[IATA] Bisbee Municipal Airport, AZ, USA
 BSR	bit scan reverse
+BSR	branch to subroutine (call)
 BSR	[IATA] Basra International, Iraq
 BSS	basic service set
 BSS	block started by symbol
@@ -2101,6 +2104,7 @@ CCNP	Cisco Certified Network Professional
 CCO	[IATA] Carimagua, Colombia
 CCP	[IATA] Concepcion (Carriel Sur), Chile
 CCQ	[IATA] Cachoeira, BA, Brazil
+CCR	condition code register
 CCR	[IATA] Concord (Buchanan Field), CA, USA
 CCS	[IATA] Caracas (Aeropuerto Internacional), Venezuela
 CCT	[IATA] Colonia Catriel, Argentina
@@ -2394,6 +2398,7 @@ CLOUD	Can't Locate Our Users' Data
 CLP	[IATA] Clarks Point Airport, AK, USA
 CLP	[Kfz:D] Landkreis Cloppenburg
 CLQ	[IATA] Colima, Mexico
+CLR	clear
 CLR	common language runtime
 CLR	[IATA] Calipatria Municipal Airport, CA, USA
 CLS	[IATA] Chehalis-Centralia Airport, WA, USA
@@ -2435,6 +2440,7 @@ CMO	[IATA] Obbia, Somalia
 CMOS	complementary metal-oxide-semiconductor
 CMP	chip multi-processing
 CMP	[IATA] Campo do Arag, Brazil
+CMPXCHG	compare and exchange
 CMQ	[IATA] Clermont, Queensland, Australia
 CMR	[IATA] Colmar, France
 CMS	colour management system
@@ -2934,6 +2940,7 @@ DAY	[IATA] Dayton James M. Cox International, Ohio, USA
 DAZ	[IATA] Darwaz, Afghanistan
 DB	database
 DB	Db (PSE#105) Dubnium | Übergangsmetalle | transition metals | metalla transitionis
+DB	define byte (8 bit)
 DB	Deutsche Bahn
 DB	[Kfz:D] Dienstfahrzeuge der Deutschen Bundesbahn
 DBA	database administrator
@@ -2996,6 +3003,7 @@ DCU	data cache unit
 DCU	[IATA] Decatur (Pryor Field), AL, USA
 DCY	[IATA] Washington (Daviess County Airport), IN, USA
 DD	Debian Developer
+DD	define dword (32 bit, double word)
 DD	[ccTLD] Deutsche Demokratische Republik
 DD	[Kfz:D] Landkreis Dresden
 DDC	display data channel
@@ -3121,6 +3129,7 @@ DIMM	dual inline memory module
 DIN	Deutsches Institut für Normung e.V.
 DIN	[Kfz:D] Kreis Dinslaken
 DIO	[IATA] Little Diomede Island, AK, USA
+DIP	dual in-line package
 DIP	[IATA] Diapaga, Burkina Faso
 DIQ	[IATA] Divinopolis, MG, Brazil
 DIR	[IATA] Dire Dawa (Aba Tenna D. Yilma), Ethiopia
@@ -3315,6 +3324,7 @@ DPS	Display PostScript
 DPS	[IATA] Denpasar (Ngurah Rai), Bali, Indonesia
 DPST	display power savings technology
 DPU	[IATA] Dumpu, Papua New Guinea
+DQ	define quad (64 bit)
 DQH	[IATA] Douglas Municipal Airport, GA, USA
 DRA	[IATA] Mercury (Desert Rock Airport), NV, USA
 DRAM	dynamic random access memory
@@ -3442,6 +3452,8 @@ DVR	[IATA] Daly River, Northern Territory, Australia
 DVT	[IATA] Phoenix-Deer Valley Municipal Airport, AZ, USA
 DVU	Deutsche Volksunion
 DVX	[IATA] Dover/Cheswold (Delaware Airpark), DE, USA
+DW	define word (16 bit)
+DW	don’t worry
 DW	[Kfz:D] Landkreis Dippoldiswalde
 DW	[Kfz:D] Weißeritzkreis
 DW00	[Oracle] Data Pump Worker Process
@@ -4397,6 +4409,7 @@ FOU	[IATA] Fougamou, Gabon
 FOX	[IATA] Fox, AK, USA
 FOXTROT	F (International Radiotelephony Spelling Alphabet)
 FOY	[IATA] Foya, Liberia
+FP	frame pointer
 FP	Freisinnige Partei
 FPGA	field programmable gate array
 FPM	fast page mode
@@ -6053,6 +6066,7 @@ INRIA	National Institute for Research in Computer Science and Control
 INS	[IATA] Indian Springs (Air Force Auxiliary), NV, USA
 INSN	instruction
 INSV	[Oracle] Data Guard Broker Instance Slave Process
+INT	interrupt
 INT	[IATA] Winston-Salem Smith Reynolds, North Carolina, USA
 INT	[sTLD] international (multinationale Organisationen)
 INU	[IATA] Nauru International, Nauru
@@ -6132,6 +6146,7 @@ IRC	[IATA] Circle City Airport, AK, USA
 IRD	[IATA] Ishhurdi, Bangladesh
 IRDA	infrared data association
 IRE	[IATA] Irece, BA, Brazil
+IRET	return from interrupt
 IRG	[IATA] Lockhart Rivers, Queensland, Australia
 IRI	[IATA] Iringa, Tanzania
 IRILL	Initiative pour la Recherche et l'Innovation sur le Logiciel Libre
@@ -6335,6 +6350,7 @@ JBOD	just a bunch of disks
 JBP	[IATA] Los Angeles (Commerce Heliport), CA, USA
 JBR	[IATA] Jonesboro (Municipal Airport), AR, USA
 JBS	[IATA] Pleasanton (Camp Parks Heliport), CA, USA
+JBSR	jump or branch to subroutine (call)
 JBT	[IATA] Bethel (Seaplane Base), AK USA
 JCA	J2EE Connector Architecture
 JCA	[IATA] Croisette (Heliport), France
@@ -7239,6 +7255,7 @@ LAH	[IATA] Labuha, Indonesia
 LAI	[IATA] Lannion, France
 LAJ	[IATA] Lages, SC, Brazil
 LAK	[IATA] Aklavik Airport, NT, Canada
+LAKU	[IATA] Shaikh Zayed International Airport, Kukes, Albania
 LAL	[IATA] Lakeland Regional Airport, FL, USA
 LAM	[IATA] Los Alamos Airport, NM, USA
 LAMP	Linux Apache MySQL {Perl,PHP,Python}
@@ -7366,6 +7383,7 @@ LDX	[IATA] St. Laurent du Maroni, French Guyana
 LDY	[IATA] Londonderry (Eglinton Airport), N. Ireland
 LE	logical extent
 LE	[Kfz:D] Landkreis Lemgo
+LEA	load effective address
 LEA	[IATA] Learmouth (Exmouth), W. Australia, Australia
 LEB	[IATA] Lebanon Municipal Airport, NH, USA
 LED	light emitting diode
@@ -7425,6 +7443,7 @@ LG	[Kfz:D] Landkreis Lüneburg
 LG00	[Oracle] Log Writer Worker
 LGA	[IATA] New York La Guardia, New York, USA
 LGB	[IATA] Long Beach Daugherty Field, California, USA
+LGBT	lesbian, gay, bisexual, and transgender
 LGC	[IATA] La Grange (Callaway Airport), GA, USA
 LGD	[IATA] La Grande (Union County), OR, USA
 LGF	[IATA] Yuma (Laguna Army Air Field), AZ, USA
@@ -8601,6 +8620,7 @@ MOTOS	member of the opposite sex
 MOTSS	member of the same sex
 MOTU	masters of the universe (Developer of the Debian derivate from Canonical that cannot be named)
 MOU	[IATA] Mountain Village Airport, AK, USA
+MOV	move
 MOV	[IATA] Moranbah, Queensland, Australia
 MOW	mehr oder weniger
 MOW	[IATA] All Airports around Moskva, Russia
@@ -9919,6 +9939,7 @@ ORC	[IATA] Orocue, Colombia
 ORD	[IATA] Chicago-O'Hare International, Illinois, USA
 ORE	[IATA] Orange Municipal Airport, MA, USA
 ORF	[IATA] Norfolk International, Virginia, USA
+ORG	origin
 ORG	[IATA] Paramaribo (Zorg en Hoop), Suriname
 ORG	[uTLD] organisation (nichtkommerzielle Organisationen)
 ORH	[IATA] Worcester Municipal Airport, MA, USA
@@ -10287,6 +10308,7 @@ PE	[CDN] Prince Edward Island
 PE	[ISO 3166] Peru
 PE	[Kfz:D] Landkreis Peine
 PE	[Kfz] Peru
+PEA	push effective address
 PEA	[IATA] Penneshaw, South Australia, Australia
 PEAP	Protected EAP
 PEB	[IATA] Pebane, Mozambique
@@ -10344,6 +10366,7 @@ PFX	[gc] Letterboxes Planted, Found and eXchanges made with other Letterboxers
 PFY	pimply faced youth
 PG	[ccTLD] Papua-Neuguinea
 PG	[ISO 3166] Papua New Guinea
+PGA	pin grid array
 PGA	[IATA] Page Municipal Airport, AZ, USA
 PGA	[Oracle] program global area (private, 35%; 50% bei DWH)
 PGAS	partitioned global address space
@@ -11148,6 +11171,7 @@ QEZ	[IATA] Pomezia, Italy
 QFB	[IATA] Freiburg, Germany
 QFE	[IATA] Fort Benning (Columbus), GA, USA
 QFH	[IATA] Frederikshavn (Ottestrup/Saeby), Denmark
+QFP	quad flat package
 QFR	[IATA] Frosinone, Italy
 QFS	[IATA] Sao Francisco do Sul, SC, Brazil
 QFT	quoted for truth
@@ -11511,6 +11535,7 @@ RER	Réseau Express Régional
 RES	[BookCrossing] reserved
 RES	[IATA] Resistencia, Argentina
 REST	representational state transfer
+RET	return
 RET	[IATA] Rost (Stollport), Norway
 REU	[IATA] Reus, Spain
 REW	[IATA] Rewa, India
@@ -11880,6 +11905,7 @@ RTP	real-time transport protocol
 RTP	[IATA] Rutland Plains, Australia
 RTS	ready to send
 RTS	request to send
+RTS	return from subroutine
 RTS	[IATA] Rottnest Island, Western Australia, Australia
 RTSL	read the source, Luke (open source programming)
 RTSL	real-time shading language (Stanford University)
@@ -13156,6 +13182,7 @@ SWF	[IATA] Newburgh (Stewart Int'l Airport), NY, USA
 SWFG	search with fucking Google
 SWG	[IATA] Statwag, Papua New Guinea
 SWH	[IATA] Swan Hill, Victoria, Australia
+SWI	software interrupt
 SWI	[IATA] Swindon, United Kingdom
 SWIFT	Society for Worldwide Interbank Financial Telecommunication
 SWIG	simplified wrapper [and] interface generator
@@ -13913,6 +13940,7 @@ TSR	[IATA] Timisoara (Giarmata), Romania
 TSS	task state segment
 TSS	Time-Sharing System
 TSS	[IATA] New York (E 34th St Heliport), NY, USA
+TST	test
 TST	[IATA] Trang, Thailand
 TSU	[IATA] Tabiteuea South, Kiribati
 TSV	[IATA] Townsville, Queensland, Australia
@@ -14254,6 +14282,7 @@ UNIX	(bootloader for games written by Ken Thompson et al.)
 UNIX	(Uniplexed Information and Computing System, pun on MULTICS)
 UNK	[IATA] Unalakleet Airport, AK, USA
 UNL	[IATA] Unalaska, AK, USA
+UNLK	unlink
 UNO	[IATA] West Plains Municipal Airport, MO, USA
 UNS	[IATA] Umnak Island, AK, USA
 UNT	[IATA] Unst, Shetland Islands, Scotland, UK
@@ -15222,6 +15251,7 @@ XBO	[IATA] Boulsa, Burkina Faso
 XBR	[IATA] Brockville, ON, Canada
 XBW	[IATA] Killiniq (Killinek) Island, NT, Canada
 XCH	[IATA] Christmas Island, Australia
+XCHG	exchange
 XCI	[IATA] Chambord / Via Rail Service, Quebec, Canada
 XCL	[IATA] Cluff Lake, SK, Canada
 XCM	[IATA] Chatham, ON, Canada
@@ -15291,6 +15321,7 @@ XKH	[IATA] Xieng Khouang, Laos
 XKS	[IATA] Kasabonika, ON, Canada
 XKY	[IATA] Kaya, Burkina Faso
 XLA	[IATA] Little America, UT, USA
+XLAT	translate
 XLB	[IATA] Lac Brochet, MB, Canada
 XLK	[IATA] Lakenheath, United Kingdom
 XLO	[IATA] Long Xuyen, Vietnam
