@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.422 2014/09/28 19:49:52 tg Exp $
+$MirOS: wtf/acronyms,v 1.423 2014/10/02 14:15:06 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.224 2014/05/25 21:49:29 dholland Exp $
 $NetBSD: acronyms.comp,v 1.143 2014/08/20 16:05:03 ginsbach Exp $
@@ -611,6 +611,8 @@ APOGOST	[Schule DE] Allgemeine Prüfungsordnung der Gymnasialen Oberstufe
 APP	[IATA] Asapa, Papua New Guinea
 APR	[IATA] April River, Papua New Guinea
 APRS	automated position reporting system
+APRS	Automatic Packet Reporting System
+APRS-IS	Automatic Packet Reporting System - Internet Service
 APS	[IATA] Anapolis, GO, Brazil
 APT	Advanced Packaging Tool
 APT	[IATA] Jasper (Marion County Airport), TN, USA
@@ -1477,6 +1479,7 @@ BMM	[IATA] Bitam, Gabon
 BMN	[IATA] Bamerny, Iran
 BMO	[IATA] Bhamo, Myanmar
 BMP	bitmap
+BMP	Unicode Basic Multilingual Plane
 BMP	[IATA] Brampton Island, Queensland, Australia
 BMQ	[IATA] Bamburi, Kenya
 BMR	[IATA] Baltrum, Germany
@@ -2689,6 +2692,7 @@ CSS	cross-site scripting (normally XSS)
 CSS	[IATA] Cassilandia, MG, Brazil
 CST	[IATA] Castaway, Fiji
 CSU	Christlich-Soziale Union
+CSUR	ConScript Unicode Registry -- http://www.evertype.com/standards/csur/
 CSV	comma-separated values
 CSV	[IATA] Crossville Memorial Airport, TN, USA
 CSX	[IATA] Changsha, China
@@ -8044,6 +8048,7 @@ MBX	[IATA] Maribor, Slovenia
 MBY	[IATA] Moberly (Omar N. Bradley Airport), MO, USA
 MBZ	must be zero
 MBZ	[IATA] Maves, Brazil
+MC	main character
 MC	memory controller
 MC	Midnight Commander (see NC, VC)
 MC	[ccTLD] Monaco
@@ -11005,6 +11010,7 @@ PU	processing unit
 PU	Pu (PSE#94) Plutonium | Uran-Metalle (Aktiniden) | actinides | actinida
 PU1	U+0091 PRIVATE USE ONE
 PU2	U+0092 PRIVATE USE TWO
+PUA	Unicode Private Use Area
 PUA	[IATA] Puas, Papua New Guinea
 PUB	[IATA] Pueblo Memorial Airport, CO, USA
 PUC	[IATA] Price (Carbon County Airport), UT, USA
@@ -11654,6 +11660,7 @@ RKM	ROM Kernel Manual
 RKO	[IATA] Sipora, Indonesia
 RKP	[IATA] Rockport (Aransas County Airport), TX, USA
 RKR	[IATA] Poteau, OK (Robert S. Kerr Airport), USA
+RKREÜAÜG	RkReÜAÜG M-V: Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz Mecklenburg-Vorpommern
 RKS	[IATA] Rock Springs (Sweetwater County), WY, USA
 RKS	[Kfz] Kosovo
 RKT	[IATA] Ras al Khaymah, United Arab Emirates
@@ -12505,6 +12512,7 @@ SIN	Sinus
 SIN	[IATA] Singapore
 SIO	[IATA] Smithton, Tasmania, Australia
 SIP	Session Initiation Protocol
+SIP	Unicode Supplementary Ideographic Plane
 SIP	[IATA] Simferopol, Krym (Crimea), Ukraine / Russia
 SIQ	[IATA] Singkep (Dabo Airport), Indonesia
 SIR	signal-to-interference ratio
@@ -12684,6 +12692,7 @@ SMOM	[Kfz] Malteserorden (nicht offiziell)
 SMON	[Oracle] System Monitor Process (kill -9 me :)
 SMOP	simple matter of programming
 SMP	symmetric multiprocessing
+SMP	Unicode Supplementary Multilingual Plane
 SMP	[IATA] Stockholm, Papua New Guinea
 SMQ	[IATA] Sampit, Borneo, Indonesia
 SMR	[IATA] Santa Marta (Simon Bolivar), Colombia
@@ -12975,6 +12984,7 @@ SSN	[IATA] Seoul (Air Base), South Korea
 SSO	Südsüdost, south-south-east
 SSO	[IATA] Sao Lourenco, Brazil
 SSP	stack smashing protection
+SSP	Unicode Supplementary Special-Purpose Plane
 SSP	[IATA] Silver Plains, Queensland, Australia
 SSQ	[IATA] La Sarre Aerodrome, QC, Canada
 SSR	[IATA] Sara, Vanuatu
@@ -13394,6 +13404,7 @@ TC3	[gc] Terracaching 3, opened in 2014
 TCA	[IATA] Tennant Creek, Northern Territory, Australia
 TCAP	Transaction Capabilities Application Part
 TCB	taking care of business
+TCB	thread control block
 TCB	trace capture buffer
 TCB	trusted computing base
 TCB	[IATA] Treasure Cay, Abaco, Bahamas
@@ -13751,6 +13762,7 @@ TN	[Kfz] Tunesien
 TN	[USA] Tennessee
 TNA	[IATA] Jinan, China
 TNB	[IATA] Tanah Grogot, Indonesia
+TNC	terminal node controller
 TNC	[IATA] Tin City (LRRS), AK, USA
 TND	[IATA] Trinidad, Cuba
 TNE	[IATA] Tanegashima, Japan
