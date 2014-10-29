@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.429 2014/10/29 20:01:11 tg Exp $
+$MirOS: wtf/acronyms,v 1.430 2014/10/29 20:56:07 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.224 2014/05/25 21:49:29 dholland Exp $
 $NetBSD: acronyms.comp,v 1.143 2014/08/20 16:05:03 ginsbach Exp $
@@ -2408,6 +2408,7 @@ CLR	clear
 CLR	common language runtime
 CLR	[IATA] Calipatria Municipal Airport, CA, USA
 CLS	[IATA] Chehalis-Centralia Airport, WA, USA
+CLT	Chemnitzer Linux-Tage
 CLT	[IATA] Charlotte/Douglas International, North Carolina, USA
 CLTT	closed loop thermal throttling
 CLU	[IATA] Columbus Municipal Airport, IN, USA
@@ -3513,6 +3514,8 @@ E-XER	extended XML encoding rules
 E.G.	exempli gratia (for example)
 E000	[Oracle] EMON Slave Process
 E2BIG	(#7) Argument list too long
+E2E	end-to-end
+E2E	end-to-end encryption (Gajim)
 E4	280×400 mm (11.0236×15.7480 in) envelope for B4
 EA	[Kfz:D] kreisfreie Stadt Eisenach
 EA	[Kfz] Britisch-Ostafrika (veraltet)
@@ -4471,6 +4474,7 @@ FRO	[IATA] Floro, Norway
 FROB	freight remaining on board
 FROB	frobnicate (manipulate something, adjust or tweak or flip a two-state item)
 FROB	frobnitz (a protruding arm or trunnion, any random small thing)
+FROSCON	Free and Open Source Software Conference
 FRP	[IATA] Fresh Water Bay, AK, USA
 FRQ	[IATA] Feramin, Papua New Guinea
 FRR	false rejection rate
@@ -9966,6 +9970,7 @@ ORN	[IATA] Oran (Es Senia), Algeria
 ORO	[IATA] Yoro, Honduras
 ORP	[IATA] Orapa, Botswana
 ORQ	[IATA] Norwalk, CT, USA
+ORR	OpenRheinRuhr
 ORR	[IATA] Yorketown, South Australia, Australia
 ORS	[IATA] Orpheus Island Resort, Queensland, Australia
 ORT	[IATA] Northway Airport, AK, USA
@@ -14362,6 +14367,7 @@ US	[Kfz] Vereinigte Staaten von Amerika (veraltet)
 USA	[Kfz] Vereinigte Staaten von Amerika
 USART	universal synchronous/asynchronous receiver/transmitter
 USB	universal serial bus
+USBV	Unbekannte Spreng- und Brandvorrichtung
 USE	[IATA] Wauseon (Fulton County Airport), OH, USA
 USH	[IATA] Ushuaia, Argentina
 USI	[IATA] Mabaruma, Guyana
