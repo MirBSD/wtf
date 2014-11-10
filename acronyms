@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.432 2014/11/07 12:42:05 tg Exp $
+$MirOS: wtf/acronyms,v 1.433 2014/11/10 22:11:10 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.224 2014/05/25 21:49:29 dholland Exp $
 $NetBSD: acronyms.comp,v 1.143 2014/08/20 16:05:03 ginsbach Exp $
@@ -635,6 +635,7 @@ AQI	[IATA] Qaisumah, Saudi Arabia
 AQJ	[IATA] King Hussain International, Aqaba, Jordan
 AQM	active queue management
 AQM	[IATA] Ariquemes, RO, Brazil
+AQNAY	answered questions nobody asked yet
 AQP	[IATA] Arequipa (Rodriguez Ballon), Peru
 AQPC	[Oracle] AQ Process Coordinator
 AQS	[IATA] Saqani, Fiji
@@ -1016,6 +1017,7 @@ BAR	base address register
 BAR	[IATA] Baker Island, Baker & Howland Islands
 BAR	[Kfz:D] Landkreis Barnim
 BAS	[IATA] Balalae, Solomon Islands
+BASE	Basic Availability, Soft State and Eventual Consistency
 BASH	GNU Bourne-Again Shell
 BASIC	beginners' all-purpose symbolic instruction code (_the_ programming language per se)
 BAT	Baby-AT (Formfaktor, like ATX)
@@ -2147,6 +2149,7 @@ CDE	[IATA] Caledonia, Panama
 CDF	[IATA] Cortina d'Ampezzo, Italy
 CDG	[IATA] Charles de Gaulle, Paris, France
 CDH	[IATA] Camden (Harrell Field), AR, USA
+CDHO	Chief Dental Hygiene Officer
 CDI	[IATA] Cedros Island, Mexico
 CDJ	[IATA] Conceicao, PB, Brazil
 CDK	[IATA] Cedar Key (George T. Lewis Airport), FL, USA
@@ -4007,6 +4010,7 @@ ESH	[IATA] Shoreham, United Kingdom
 ESHUTDOWN	(#58) Can't send after socket shutdown
 ESI	[IATA] Espinosa, MG, Brazil
 ESK	[IATA] Eskisehir, Turkey
+ESL	extended shelf life (milk)
 ESL	[IATA] Elista, Kalmykia, Russia
 ESM	[IATA] Esmeraldas (General Rivadeneira), Ecuador
 ESN	[IATA] Easton Municipal Airport, MD, USA
@@ -4770,6 +4774,8 @@ GDH	[IATA] Golden Horn Lodge Seaplane Base, AK, USA
 GDI	[IATA] Gordil, Central African Republic
 GDJ	[IATA] Gandajika, Zaire
 GDL	Gammlervereinigung Deutscher Logistikterroristen
+GDL	Geh doch laufen
+GDL	Generalversammlung deutscher Logistikterroristen
 GDL	Gewerkschaft Deutscher Lokomotivführer
 GDL	Gewerkschaft diabolischer Lokführer
 GDL	[IATA] Guadalajara, Mex
@@ -6612,6 +6618,8 @@ JSA	[IATA] Jaisalmer, India
 JSB	Jetzt sehr bald
 JSD	[IATA] Startford (Sikorsky Heliport), CT, USA
 JSE	[IATA] Juneau Harbor Seaplane Base, AK, USA
+JSF	JavaServer Faces
+JSF	jupp syntax file
 JSH	[IATA] Sitia, Crete, Greece
 JSI	[IATA] Skiathos, Greece
 JSK	[IATA] St. Cloud (Hospital Heliport), MN, USA
@@ -13570,6 +13578,7 @@ TEL	[IATA] Telupid, Malaysia
 TEL	[sTLD] telecommunication (Kontaktdaten als NAPTR und TXT RR im DNS)
 TELE	(I’m on the) telephone
 TELE	Ich telephoniere!
+TELKO	Telephonkonferenz
 TEM	[IATA] Temora, New South Wales, Australia
 TEM0	[Oracle] ASM disk Test Error Emulation Process
 TEO	[IATA] Terapo, Papua New Guinea
