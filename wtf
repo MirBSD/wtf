@@ -1,5 +1,5 @@
 #!/bin/mksh
-# $MirOS: wtf/wtf,v 1.21 2014/02/10 00:36:13 tg Exp $
+# $MirOS: wtf/wtf,v 1.22 2014/11/12 20:06:52 tg Exp $
 # $NetBSD: wtf,v 1.7 2000/11/21 00:18:52 soren Exp $
 #-
 # Copyright © 2002, 2003, 2004, 2006, 2007, 2008, 2010, 2011,
@@ -51,7 +51,7 @@ while getopts "adf:Ppt:w" ch; do
 done
 shift $((OPTIND - 1))
 
-[[ $1 = is || $1 = ist ]] && shift
+(( $# > 1 )) && [[ $1 = is || $1 = ist ]] && shift
 (( $# < 1 )) && usage
 
 if (( use_ports )); then
