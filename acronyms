@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.434 2014/11/12 20:06:53 tg Exp $
+$MirOS: wtf/acronyms,v 1.435 2014/11/17 22:28:43 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.224 2014/05/25 21:49:29 dholland Exp $
 $NetBSD: acronyms.comp,v 1.143 2014/08/20 16:05:03 ginsbach Exp $
@@ -181,6 +181,7 @@ ACR	[IATA] Araracuara, Colombia
 ACS	access control set
 ACS	[IATA] Anacortes, WA, USA
 ACT	[IATA] Waco Regional Airport, TX, USA
+ACTA	Anti-Counterfeiting Trade Agreement
 ACU	automatic calling unit
 ACU	[IATA] Achutupo, Panama
 ACV	[IATA] Arcata Airport (Eureka), CA, USA
@@ -2200,6 +2201,7 @@ CERN	Conseil Européen pour la Recherche Nucléaire
 CERN	European Council for Nuclear Research
 CES	[IATA] Cessnock, New South Wales, Australia
 CET	[IATA] Cholet, France
+CETA	Comprehensive Economic and Trade Agreement
 CEU	[IATA] Clemson-Oconee County Airport, SC, USA
 CEV	[IATA] Connersville (Mettel Field), IN, USA
 CEW	[IATA] Crestview (Bob Sikes Airport), FL, USA
@@ -4306,6 +4308,7 @@ FID	frequency identifier
 FID	[IATA] Fishers Island (Elizabeth Field), NY, USA
 FIE	[IATA] Fair Isle, United Kingdom
 FIF	[Kfz] Französisch-Indien (veraltet)
+FIFA	Fédération Internationale de Football Association
 FIFO	first in, first out
 FIG	[IATA] Fria, Guinea
 FIGJAM	fuck I'm good, just ask me
@@ -4549,6 +4552,7 @@ FSVO	for some value of
 FT	[Kfz:D] Landkreis Frankenthal (Pfalz)
 FTA	fault tree analysis
 FTA	[IATA] Futuna Island, Wallis and Futuna Islands
+FTAOD	for the avoidance of doubt
 FTBFS	fails to build from source
 FTBFS	failure to build from source
 FTCBFS	fails to cross-build from source
@@ -4997,6 +5001,7 @@ GMM	GPRS Mobility Management
 GMM	[IATA] Gamboma, Congo
 GMN	[IATA] Greymouth, New Zealand
 GMN	[Kfz:D] Landkreis Grimmen
+GMO	genetically modified organism
 GMON	[Oracle] ASM Disk Group Monitor Process
 GMR	[IATA] Mangareva, Gambier Islands, French Polynesia
 GMS	[IATA] Guimaraes, MA, Brazil
@@ -6254,6 +6259,7 @@ ISC	[IATA] Scilly Isles (St. Mary's Airport), England, UK
 ISD	international subscriber dialing (now IDD)
 ISD	[IATA] Iscuande, Colombia
 ISDN	integrated services digital network
+ISDS	Investor-Staat-Schiedsverfahren
 ISG	[IATA] Ishigaki, Japan
 ISH	[IATA] Ischia, Italy
 ISI	inter-symbol interference
@@ -11538,6 +11544,7 @@ RBY	[IATA] Ruby Airport, AK, USA
 RC	release candidate
 RC	release-critical
 RC	remote control
+RC	restless cow
 RC	[Kfz:D] Landkreis Reichenbach
 RC	[Kfz] China (Volksrepublik) (jetzt eigentlich Taiwan, aber in der VR China noch offiziell)
 RC	[Kfz] Republik China (Taiwan)
@@ -12367,6 +12374,7 @@ SE	[Kfz] Irland (veraltet)
 SEA	[IATA] Seattle-Tacoma International, Washington, USA
 SEB	[IATA] Sebha, Libya
 SEB	[Kfz:D] Landkreis Sebnitz
+SEBI	selbstorganisierte Europäische Bürgerinitiative
 SEC	[IATA] Serre Chevalier, France
 SECAM	Something Essentialy Contrary to the American Method
 SED	smoke emitting diode
@@ -13418,6 +13426,7 @@ TAD	[IATA] Trinidad (Perry Stokes Airport), CO, USA
 TAE	[IATA] Taegu, South Korea
 TAF	[IATA] Tafarovi, Algeria
 TAF	[Oracle] Transparent Application Failover
+TAFTA	Transatlantic Free Trade Area
 TAG	[IATA] Tagbilaran, Philippines
 TAH	[IATA] Tanna Island, Vanuatu
 TAI	international atomic time
@@ -13719,6 +13728,7 @@ TIQ	[IATA] Tinian (Peipeinimaru), Mariana Islands
 TIR	[IATA] Tirupati, India
 TIR	[Kfz:D] Landkreis Tirschenreuth
 TIS	[IATA] Thursday Island, Queensland, Australia
+TISA	Trade in Service Agreement
 TITS	try it to see
 TIU	[IATA] Timaru, New Zealand
 TIV	[IATA] Tivat, Yugoslavia
@@ -14081,6 +14091,7 @@ TTG	[IATA] Tartagal (General Enrique Mosc), Argentina
 TTH	[IATA] Thumrait, Oman
 TTI	[IATA] Tetiaroa Island, French Polynesia
 TTID	trouble ticket ID#
+TTIP	Transatlantic Trade and Investment Partnership
 TTJ	[IATA] Tottori, Japan
 TTL	time to live
 TTL	transistor-transistor logic
@@ -14279,6 +14290,7 @@ UDP	User Datagram Protocol
 UDR	[IATA] Udaipur, India
 UE	[Kfz:D] Landkreis Uelzen
 UEE	[IATA] Queenstown, Tasmania, Australia
+UEFA	Union of European Football Associations
 UEFI	unified extensible firmware interface
 UEL	[IATA] Quelimane, Mozambique
 UEM	[Kfz:D] Landkreis Ueckermünde
