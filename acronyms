@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.435 2014/11/17 22:28:43 tg Exp $
+$MirOS: wtf/acronyms,v 1.436 2014/11/23 19:47:57 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.224 2014/05/25 21:49:29 dholland Exp $
 $NetBSD: acronyms.comp,v 1.143 2014/08/20 16:05:03 ginsbach Exp $
@@ -4523,6 +4523,7 @@ FS	U+001C ␜ INFORMATION SEPARATOR FOUR
 FS	[Kfz:D] Landkreis Freising
 FS	[Kfz:D] Stadt Moosburg an der Isar im Landkreis Freising
 FSB	front side bus
+FSB	Федеральная служба безопасности Российской Федерации (Federal Security Service of the Russian Federation), successor of КГБ/KGB
 FSC	[IATA] Figari, Corsica, France
 FSCK	file system check
 FSCK	fuck
@@ -5071,6 +5072,7 @@ GOW	[IATA] Garrow Lake, Canada
 GOWI	get on with it
 GOY	[IATA] Gal Oya, Sri Lanka
 GOZ	[IATA] Gorna (Orechovis), Bulgaria
+GP	general practicioner (doctor)
 GP	Grüne Partei
 GP	[ccTLD] Guadeloupe
 GP	[ISO 3166] Guadeloupe
@@ -5873,6 +5875,7 @@ IAW	in another window
 IAWTC	I agree with this comment
 IAY	I adore you
 IB	I'm back
+IB	implementation-defined behaviour
 IBA	[IATA] Ibadan, Nigeria
 IBAN	International Bank Account Number
 IBC	iterated block cipher
@@ -6847,6 +6850,7 @@ KG	[Kfz:D] Landkreis Bad Kissingen
 KGA	[IATA] Kananga, Zaire
 KGB	Instant Version Control Informant bots
 KGB	[IATA] Konge, Papua New Guinea
+KGB	Комитет государственной безопасности (Committee for State Security of the Soviet Union), now ФСБ/FSB
 KGC	[IATA] Kingscote (Kangaroo Island), Sth Australia
 KGD	[IATA] Kaliningrad, Russia
 KGF	[IATA] Waraghandy (Karaganda), Kazakhstan
@@ -15440,6 +15444,7 @@ XIE	[IATA] Xienglom, Laos
 XIG	[IATA] Xinguara, Brazil
 XIL	[IATA] Xilinhot, China
 XIN	[IATA] Xingning, China
+XING	crossing
 XIO	[IATA] St Marys / Via Rail Service, Ontario, Canada
 XIP	execute in place
 XIY	[IATA] Xian Xianyang, China
@@ -16300,8 +16305,10 @@ ZZV	[IATA] Zanesville Municipal Airport, OH, USA
 ÖVP	Österreichische Volkspartei
 ÜB	[Kfz:D] Landkreis Überlingen
 ÜBERMUT	Ü (deutsches Funkalphabet)
+КГБ	Комитет государственной безопасности (Committee for State Security of the Soviet Union), now ФСБ/FSB
 МОН	[ccTLD] Mongolia
 СРБ	[ccTLD] Serbien
+ФСБ	Федеральная служба безопасности Российской Федерации (Federal Security Service of the Russian Federation), successor of КГБ/KGB
 бг	[ccTLD] Bulgarien
 мкд	[ccTLD] Macedonia
 онлайн	[sTLD] kyrillisch: online
