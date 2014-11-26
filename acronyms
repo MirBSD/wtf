@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.436 2014/11/23 19:47:57 tg Exp $
+$MirOS: wtf/acronyms,v 1.437 2014/11/26 23:25:14 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.224 2014/05/25 21:49:29 dholland Exp $
 $NetBSD: acronyms.comp,v 1.143 2014/08/20 16:05:03 ginsbach Exp $
@@ -221,6 +221,7 @@ ADOS	attention deficit ... oh, shiny!
 ADP	automatic data processing
 ADP	[IATA] Anuradhapura, Sri Lanka
 ADPCM	adaptive differential pulse code modulation
+ADPLL	all digital phase-locked loop
 ADQ	[IATA] Kodiak Airport, AK, USA
 ADR	[IATA] Andrews Municipal Airport, SC, USA
 ADS	alternate data stream
@@ -611,6 +612,7 @@ APJ	[IATA] Appian Line, Italy
 APK	Android Application Package (similar to JAR)
 APK	[IATA] Apataki, French Polynesia
 APL	[IATA] Nampula, Mozambique
+APLL	analog or linear phase-locked loop
 APN	[IATA] Alpena County Regional Airport, MI, USA
 APO	[IATA] Apartado, Colombia
 APOGOST	[Schule DE] Allgemeine Prüfungsordnung der Gymnasialen Oberstufe
@@ -1354,6 +1356,8 @@ BIO	[IATA] Sondica, Bilbao, Spain
 BIOS	Basic Input/Output System
 BIOS	built-in operating system
 BIP	[IATA] Bulimba, Queensland, Australia
+BIPM	Bureau International des Poids et Mesures
+BIPM	International Bureau of Weights and Measures
 BIQ	[IATA] Parme, Biarritz-Anglet-Bayonne, Biarritz, France
 BIR	[IATA] Biratnagar, Nepal
 BIR	[Kfz:D] Landkreis Birkenfeld, Stadt Idar-Oberstein
@@ -2262,6 +2266,8 @@ CGO	[IATA] Zhengzhou, China
 CGO	[Kfz] Demokratische Republik Kongo
 CGO	[Kfz] Kongo-Kinshasa (veraltet)
 CGP	[IATA] Chittagong (Patenga), Bangladesh
+CGPM	Conférence générale des poids et mesures
+CGPM	General Conference on Weights and Measures
 CGQ	[IATA] Changchun, China
 CGR	[IATA] Campo Grande, MS, Brazil
 CGS	[IATA] College Park Airport, MD, USA
@@ -2339,6 +2345,8 @@ CIN	Control Internal number
 CIN	[IATA] Carroll (Arthur N. Neu Airport), IA, USA
 CIO	Chief Infrastructure Officer
 CIP	[IATA] Chipata, Zambia
+CIPM	Comité International des Poids et Mesures
+CIPM	International Committee for Weights and Measures
 CIQ	[IATA] Chiquimula, Guatemala
 CIR	carrier-to-interference ratio
 CIR	[IATA] Cairo Airport, IL, USA
@@ -3020,6 +3028,7 @@ DCE	distributed computing environment
 DCF	[IATA] Dominica Cane Field, Dominica
 DCK	[IATA] Dahl Creek Airport, AK, USA
 DCL	data control language
+DCM	Digital Clock Manager
 DCM	[IATA] Castres, France
 DCOM	distributed component object model
 DCOP	Desktop COmmunication Protocol
@@ -3054,6 +3063,7 @@ DDR	Debian Developer's Reference
 DDR	double data rate
 DDR	[Kfz] Deutsche Demokratische Republik (veraltet)
 DDS	direct digital sound
+DDS	direct digital synthesis
 DDS	Doctor of Dental Surgery
 DDTT	don't do that then
 DDU	[IATA] Dadu, Pakistan
@@ -3105,6 +3115,7 @@ DFG	Deutsche Forschungsgemeinschaft
 DFI	[IATA] Defiance Memorial Airport, OH, USA
 DFP	[IATA] Drumduff, Queensland, Australia
 DFS	depth first search
+DFS	direct frequency synthesis
 DFS	distributed file system
 DFSG	Debian Free Software Guidelines
 DFT	diagnostic function test
@@ -3216,6 +3227,7 @@ DLG	[Kfz:D] Landkreis Dillingen an der Donau
 DLH	[IATA] Duluth International Airport, MN, USA
 DLI	[IATA] Da Lat, Vietnam
 DLK	[IATA] Dulkaninna, South Australia, Australia
+DLL	delay-locked loop
 DLL	dynamic link library (shared object)
 DLL	[IATA] Dillon County Airport, SC, USA
 DLM	[IATA] Dalaman, Turkey
@@ -3349,6 +3361,7 @@ DPKG	Debian Package Manager
 DPL	Debian Project Leader
 DPL	descriptor privilege level
 DPL	[IATA] Dipolog, Philippines
+DPLL	digital phase-locked loop
 DPN	Debian Project News
 DPO	[IATA] Devonport, Tasmania, Australia
 DPS	damage per second
@@ -4196,6 +4209,7 @@ FC	fibre channel
 FC	frame control
 FCA	[IATA] Kalispell (Glacier Park International), MT, USA
 FCB	[IATA] Ficksburg, South Africa
+FCC	Federal Communications Commission
 FCF	[Oracle] Fast Connection Failover
 FCFS	first come first served
 FCH	[IATA] Fresno-Chandler Downtown Airport, CA, USA
@@ -4359,6 +4373,7 @@ FLG	[IATA] Flagstaff Pulliam Airport, AZ, USA
 FLH	[IATA] Flotta Isle, United Kingdom
 FLI	[IATA] Flateyri (Holt), Iceland
 FLJ	[IATA] Falls Bay, AK, USA
+FLL	frequency-locked loop
 FLL	[IATA] Ft. Lauderdale-Hollywood International, Florida, USA
 FLM	[IATA] Filadelfia, Paraguay
 FLN	[IATA] Florianopolis, SC, Brazil
@@ -5029,6 +5044,7 @@ GNO	[IATA] Pointe Saline, Grenada
 GNOME	some kind of small earthen animal
 GNR	[IATA] General Roca, Argentina
 GNS	[IATA] Gunungsitoli, Indonesia
+GNSS	Global Navigation Satellite System (GPS, GLONASS, Galileo, Beidou)
 GNT	[IATA] Grants-Milan Municipal Airport, NM, USA
 GNT	[Kfz:D] Landkreis Genthin
 GNU	GNU's Not UNIX®
@@ -7797,6 +7813,7 @@ LPIC	Linux Professional Institute Certification
 LPJ	[IATA] Pijiguaos, Venezuela
 LPK	[IATA] Lipetsk, Russia
 LPL	[IATA] Liverpool (Speke Airport), England, UK
+LPLL	analog or linear phase-locked loop
 LPM	[IATA] Lamap, Vanuatu
 LPO	[IATA] La Porte Municipal Airport, IN, USA
 LPP	[IATA] Lappeenranta, Finland
@@ -9537,6 +9554,7 @@ NPE	[IATA] Napier/Hastings, New Zealand
 NPG	[IATA] Nipa, Papua New Guinea
 NPH	[IATA] Nephi Municipal Airport, UT, USA
 NPL	[IATA] New Plymouth, New Zealand
+NPLL	neuronal phase-locked loop
 NPO	[IATA] Nangapinoh, Indonesia
 NPOASR	never part of a stable release
 NPP	[IATA] Napperby, Northern Territory, Australia
@@ -10629,7 +10647,7 @@ PLH	[IATA] Plymouth (Roborough Airport), England, UK
 PLI	[IATA] Palm Island, St. Vincent and the Grenadines
 PLIP	Parallelport IP
 PLK	[IATA] Point Lookout, MO, USA
-PLL	phase locked loop
+PLL	phase-locked loop
 PLL	[IATA] Palmia, Mexico
 PLM	[IATA] Palembang (Mahmud Badaruddin II), Indonesia
 PLN	[IATA] Pellston (Emmet County), MI, USA
@@ -12953,6 +12971,7 @@ SPIT	spam over internet telephony
 SPJ	[IATA] Sparta, Greece
 SPK	[IATA] Saporro (Chitose), Japan
 SPL	[IATA] Amsterdam (Schiphol), Netherlands
+SPLL	software phase-locked loop
 SPM	[IATA] Spangdahlem Air Base, Germany
 SPMD	single process, multiple data
 SPN	[IATA] Saipan International Airport, Mariana Islands
@@ -14614,6 +14633,7 @@ VCFE	Vintage Computing Festival Europe (VCFe)
 VCH	[IATA] Vichadero, Uruguay
 VCM	virtual channel memory
 VCO	voltage-controlled oscillator
+VCO	voltage-controlled oscillator
 VCP	[IATA] Sao Paulo/Campinas (Viracopos), SP, Brazil
 VCR	video cassette recorder
 VCR	[IATA] Carora, Venezuela
@@ -14656,6 +14676,7 @@ VEV	[IATA] Barakoma, Solomon Islands
 VEX	[IATA] Tioga Municipal Airport, ND, USA
 VEY	[IATA] Vestmannaeyjar, Iceland
 VFA	[IATA] Victoria Falls, Zimbabwe
+VFO	variable frequency oscillator
 VFO	variable-frequency oscillator
 VFS	Viafiers federalas svizras (SBB)
 VFS	Virtual File System
