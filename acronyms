@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.441 2014/12/03 02:06:30 tg Exp $
+$MirOS: wtf/acronyms,v 1.442 2014/12/03 19:30:07 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.224 2014/05/25 21:49:29 dholland Exp $
 $NetBSD: acronyms.comp,v 1.143 2014/08/20 16:05:03 ginsbach Exp $
@@ -4695,6 +4695,8 @@ FTA	[IATA] Futuna Island, Wallis and Futuna Islands
 FTAOD	for the avoidance of doubt
 FTBFS	fails to build from source
 FTBFS	failure to build from source
+FTC	Federal Trade Commission
+FTC	first to capture (Munzee FTF)
 FTCBFS	fails to cross-build from source
 FTE	full-time equivalent
 FTE	Manntag(e), Personentag(e)
@@ -9444,6 +9446,7 @@ NBH	[IATA] Nambucca Heads, NSW, Australia
 NBJ	[IATA] Barin Field (Naval Facility), AL, USA
 NBL	[IATA] San Blas, Panama
 NBO	[IATA] Nairobi (Jomo Kenyatta), Kenya
+NBP	network boot program
 NBR	[IATA] Nambour, Queensland, Australia
 NBSD	NetBSD®
 NBSP	U+00A0 NO-BREAK SPACE
