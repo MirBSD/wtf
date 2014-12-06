@@ -1,9 +1,9 @@
-$MirOS: wtf/acronyms,v 1.442 2014/12/03 19:30:07 tg Exp $
+$MirOS: wtf/acronyms,v 1.443 2014/12/06 23:56:02 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.224 2014/05/25 21:49:29 dholland Exp $
 $NetBSD: acronyms.comp,v 1.143 2014/08/20 16:05:03 ginsbach Exp $
 $NetBSD: airport,v 1.58 2014/09/21 08:38:03 mbalmer Exp $
-$OpenBSD: airport,v 1.27 2014/07/08 11:46:14 kettenis Exp $
+$OpenBSD: airport,v 1.37 2014/12/06 22:23:41 naddy Exp $
 0	[Kfz:D] Diplomatenkennzeichen oder Politiker
 1	one, on
 1080I	1920x540px (interlaced)
@@ -1427,6 +1427,7 @@ BJP	[IATA] Begamganj, Bangladesh
 BJR	[IATA] Bahar Dar, Ethiopia
 BJS	[IATA] Beijing Metropolitan Airport, China
 BJU	[IATA] Bajura, Nepal
+BJV	[IATA] Bodrum, Turkey
 BJW	[IATA] Bajawa, Indonesia
 BJX	[IATA] Del Bajio International, Leon/Guanajuato, Guanajuato, Mexico
 BJY	[IATA] Belgrade, Yugoslavia
@@ -2329,7 +2330,7 @@ CGJ	[IATA] Chingola, Zambia
 CGK	[IATA] Jakarta (Soekarno-Hatta Int'l), Indonesia
 CGM	[IATA] Camiguin, Philippines
 CGN	Carrier-Grade NAT
-CGN	[IATA] Koeln/Bonn, Cologne, Germany
+CGN	[IATA] Konrad Adenauer, Cologne/Bonn, Germany
 CGO	[IATA] Zhengzhou, China
 CGO	[Kfz] Demokratische Republik Kongo
 CGO	[Kfz] Kongo-Kinshasa (veraltet)
@@ -3569,6 +3570,7 @@ DUP	Data User Part
 DUP	duplicate
 DUQ	[IATA] Duncan (Quamichan Lake), BC, Canada
 DUR	[IATA] Durban (Louis Botha), South Africa
+DUR	[IATA] King Shaka International, Durban, South Africa
 DUS	[IATA] Dusseldorf, Germany
 DUT	device under test
 DUT	[IATA] Dutch Harbor (Unalaska Airport), AK, USA
@@ -4196,7 +4198,7 @@ ETSI	European Telecommunications Standards Institute
 ETW	Eigentumswohnung
 ETX	U+0003 ␃ END OF TEXT
 ETXTBSY	(#26) Text file busy
-ETZ	[IATA] Metz/Nancy (Lorraine), France
+ETZ	[IATA] Frescaty, Metz/Nancy (Lorraine), France
 EU	Erfahrener Unfallverursacher
 EU	Eu (PSE#63) Europium | Metalle der seltenen Erden (Lanthaniden) | lanthanides | lanthanida
 EU	European Union
@@ -5622,7 +5624,7 @@ HHH	[IATA] Hilton Head Island, SC, USA
 HHI	[IATA] Wahiawa (Wheeler AAF), HI, USA
 HHIS	hanging head in shame
 HHM	[Kfz:D] Landkreis Hohenmölsen
-HHN	[IATA] Hahn, Germany
+HHN	[IATA] Frankfurt-Hahn, Kirchberg, Germany
 HHOS	ha ha, only serious
 HHP	[IATA] Hong Kong Heliport, Hong Kong
 HHQ	[IATA] Hua Hin, Thailand
@@ -6192,6 +6194,7 @@ IJK	[IATA] Izhevsk, Udmurtia, Russia
 IJU	[IATA] Ijui, RS, Brazil
 IJX	[IATA] Jacksonville Municipal Airport, IL, USA
 IK	[Kfz:D] Ilm-Kreis
+IKA	[IATA] Imam Khomeini International Airport, Tehran, Iran
 IKB	[IATA] Wilkesboro (Wilkes County Airport), NC, USA
 IKE	internet key exchange
 IKI	[IATA] Iki, Japan
@@ -7376,7 +7379,7 @@ KUI	[IATA] Kawau Island, New Zealand
 KUJ	[IATA] Kushimoto, Japan
 KUK	[IATA] Kasigluk Airport, AK, USA
 KUL	[IATA] Kuala Lumpur (Subang), Peninsular Malaysia
-KUM	[IATA] Yaku Shima, Japan
+KUM	[IATA] Yakushima, Japan
 KUN	[IATA] Kaunas, Lithuania
 KUNDE	kann ungestraft nerven, da Einnahmequelle
 KUO	[IATA] Kuopio, Finland
@@ -8187,7 +8190,7 @@ LYN	[IATA] Lyon (Bron), France
 LYO	[IATA] Lyons-Rice County Municipal Airport, KS, USA
 LYP	[IATA] Faisalabad, Pakistan
 LYR	[IATA] Svalbard (Longyearbyen), Norway
-LYS	[IATA] Lyon (Satolas), France
+LYS	[IATA] Lyon Saint-Exupery (Satolas), France
 LYT	[IATA] Lady Elliott Island, Australia
 LYU	[IATA] Ely Municipal Airport, MN, USA
 LYX	[IATA] Lydd, United Kingdom
@@ -9048,7 +9051,7 @@ MRS	[IATA] Marseille (Marignane-Provence), France
 MRT	[IATA] Mordak, Australia
 MRTD	machine-readable travel documents
 MRU	most recently used
-MRU	[IATA] Mauritius (Sir Seewoosagur Ramgoolam), Mauritius
+MRU	[IATA] Plaisance, Mauritius (Sir Seewoosagur Ramgoolam), Mauritius
 MRV	[IATA] Mineralniye Vody, Stavropol, Russia
 MRW	[IATA] Morioka, Japan
 MRX	[IATA] Margarita Island, Venezuela
@@ -9428,6 +9431,7 @@ NAU	[IATA] Napuka, French Polynesia
 NAU	[Kfz:D] Landkreis Nauen
 NAU	[Kfz] Nauru
 NAV	network allocation vector
+NAV	[IATA] Nevsehir Kapadokya Airport, Nevsehir, Turkey
 NAW	[IATA] Narathiwat, Thailand
 NAX	[IATA] Ewa (Barbers Point Naval Air Station), HI, USA
 NAY	[IATA] Beijing (Nan Yuan Air Base), China
@@ -11099,7 +11103,8 @@ PPPOW	PPP over WLAN
 PPQ	[IATA] Paraparaumu, New Zealand
 PPR	[IATA] Pasir Pangarayan, Indonesia
 PPS	[IATA] Puerto Princesa International, Philippines
-PPT	[IATA] Papeete (Faaa), Tahiti, French Polynesia
+PPT	Powerpoint
+PPT	[IATA] Pape'ete (Faaa), Tahiti, French Polynesia
 PPU	physics processing unit
 PPU	[IATA] Papun, Myanmar
 PPV	[IATA] Port Protection (Seaplane Base), AK, USA
@@ -11384,7 +11389,7 @@ PUB	[IATA] Pueblo Memorial Airport, CO, USA
 PUC	[IATA] Price (Carbon County Airport), UT, USA
 PUD	[IATA] Puerto Deseado, Argentina
 PUE	[IATA] Puerto Obaldia, Panama
-PUF	[IATA] Pau (Pont Long Uzein), France
+PUF	[IATA] Pau Pyrenees (Pont Long Uzein), France
 PUG	[IATA] Port Augusta, South Australia, Australia
 PUH	[IATA] Pochutla, Mexico
 PUJ	[IATA] Punta Cana, Dominican Republic
@@ -12308,6 +12313,7 @@ RUK	[IATA] Rukumkot, Nepal
 RUM	[IATA] Rumjartar, Nepal
 RUM	[Kfz] Rumänien (nicht offiziell)
 RUMP	Runnable Userspace Meta Programs
+RUN	[IATA] Roland Garros Airport, Reunion Island, France
 RUN	[IATA] Saint Denis de la Réunion (Gillot), Reunion
 RUP	rational unified process
 RUP	[IATA] Rupsi, India
@@ -12480,6 +12486,7 @@ SAU	[Kfz] Republik Südafrika (veraltet)
 SAU	[Kfz] Südafrika (veraltet)
 SAV	[IATA] Savannah International, Georgia, USA
 SAW	[IATA] Gwinn/Marquette (Sawyer AFB), MI, USA
+SAW	[IATA] Sabiha Gokcen International, Istanbul, Turkey
 SAW	[Kfz:D] Altmarkkreis Salzwedel
 SAX	[IATA] Sambu, Panama
 SAY	[IATA] Siena, Italy
@@ -12669,7 +12676,7 @@ SEK	[IATA] Ksar Es Souk, Morocco
 SEL	[IATA] Seoul, South Korea
 SEL	[Kfz:D] kreisfreie Stadt Selb
 SEM	[IATA] Selma (Craig Field), AL, USA
-SEN	[IATA] Southend, Essex, England, UK
+SEN	[IATA] Southend, Essex/London, England, UK
 SEO	search engine optimisation
 SEO	[IATA] Seguela, Ivory Coast
 SEP	someone else's problem
@@ -12704,7 +12711,7 @@ SFC	[IATA] Saint Francois, Guadeloupe
 SFD	[IATA] San Fernando de Apu, Venezuela
 SFE	[IATA] San Fernando, Philippines
 SFF	[IATA] Spokane (Felts Field), WA, USA
-SFG	[IATA] Saint Martin (Esperance), Guadeloupe
+SFG	[IATA] Saint Martin (Esperance), Guadeloupe, Netherlands/French Antilles
 SFH	[IATA] San Felipe, Mexico
 SFI	simple firmware interface
 SFI	software fault isolation
@@ -13663,7 +13670,7 @@ SZN	[IATA] Santa Barbara (Santa Cruz Island), CA, USA
 SZP	[IATA] Santa Paula Airport, CA, USA
 SZQ	[IATA] Saenz Pena, Argentina
 SZR	[IATA] Stara Zagora, Bulgaria
-SZS	[IATA] Stewart Island, New Zealand
+SZS	[IATA] Ryan's Creek, Stewart Island, New Zealand
 SZU	[IATA] Segou, Mali
 SZV	[IATA] Suzhou, China
 SZX	[IATA] Shenzhen, China
@@ -14143,7 +14150,7 @@ TMON	[Oracle] Transport Monitor
 TMP	[IATA] Tampere (Pirkkala), Finland
 TMQ	[IATA] Tambao, Burkina Faso
 TMR	[IATA] Tamanrasset, Algeria
-TMS	[IATA] Sao Tome, Sao Tome & Principe
+TMS	[IATA] Sao Tome International, Sao Tome & Principe
 TMT	[IATA] Porto Trombetas, PA, Brazil
 TMTOWTDI	there's more than one way to do it
 TMU	[IATA] Tambor, Costa Rica
@@ -15829,6 +15836,7 @@ XXX	[sTLD] for sexual purposes
 XXX	[sTLD] sex (erotische Inhalte)
 XYA	[IATA] Yandina, Russel Is., Solomon Islands
 XYE	[IATA] Ye, Myanmar
+XYT	[IATA] Montaudran, Toulouse, France
 XZA	[IATA] Zabre, Burkina Faso
 XZB	[IATA] Casselman / Via Rail Service, Ontario, Canada
 XZC	[IATA] Glencoe / Via Rail Service, Ontario, Canada
@@ -15897,6 +15905,7 @@ YBT	[IATA] Brochet, MB, Canada
 YBU	[IATA] Nipawin, SK, Canada
 YBV	[IATA] Berens River, MB, Canada
 YBW	[IATA] Bedwell Harbour, BC, Canada
+YBW	[IATA] Springbank Airport, Calgary, Alberta, Canada
 YBX	[IATA] Blanc Sablon, QC, Canada
 YBY	[IATA] Bonnyville, AB, Canada
 YBZ	[IATA] Toronto (Downtown Heliport), ON, Canada
