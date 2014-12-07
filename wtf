@@ -1,5 +1,5 @@
 #!/bin/mksh
-# $MirOS: wtf/wtf,v 1.23 2014/12/07 14:15:13 tg Exp $
+# $MirOS: wtf/wtf,v 1.24 2014/12/07 14:20:26 tg Exp $
 # $NetBSD: wtf,v 1.7 2000/11/21 00:18:52 soren Exp $
 #-
 # Copyright © 2002, 2003, 2004, 2006, 2007, 2008, 2010, 2011,
@@ -28,28 +28,41 @@ function usage {
 	exit 1
 }
 
-use_acronyms=1
-use_dict=0
-use_ports=0
-use_whatis=0
-while getopts "adf:Ppt:w" ch; do
+use_acronyms=-1
+use_dict=-1
+use_ports=-1
+use_whatis=-1
+hasopt=0
+while getopts "adf:hPpt:w" ch; do
 	case $ch {
-	(+a)	use_acronyms=0 ;;
-	(a)	use_acronyms=1 ;;
-	(+d)	use_dict=0 ;;
-	(d)	use_dict=1 ;;
+	(+a)	hasopt=1 use_acronyms=0 ;;
+	(a)	hasopt=1 use_acronyms=1 ;;
+	(+d)	hasopt=1 use_dict=0 ;;
+	(d)	hasopt=1 use_dict=1 ;;
 	(f)	acronyms=$OPTARG ;;
-	(+P)	use_ports=0 ;;
-	(P)	use_ports=2 ;;
-	(+p)	use_ports=0 ;;
-	(p)	use_ports=1 ;;
+	(+P)	hasopt=1 use_ports=0 ;;
+	(P)	hasopt=1 use_ports=2 ;;
+	(+p)	hasopt=1 use_ports=0 ;;
+	(p)	hasopt=1 use_ports=1 ;;
 	(t)	;;
-	(+w)	use_whatis=0 ;;
-	(w)	use_whatis=1 ;;
+	(+w)	hasopt=1 use_whatis=0 ;;
+	(w)	hasopt=1 use_whatis=1 ;;
 	(*)	usage ;;
 	}
 done
 shift $((OPTIND - 1))
+
+if (( hasopt )); then
+	(( use_acronyms = (use_acronyms == -1) ? 0 : use_acronyms ))
+	(( use_dict = (use_dict == -1) ? 0 : use_dict ))
+	(( use_ports = (use_ports == -1) ? 0 : use_ports ))
+	(( use_whatis = (use_whatis == -1) ? 0 : use_whatis ))
+else
+	use_acronyms=1
+	use_dict=0
+	use_ports=0
+	use_whatis=0
+fi
 
 (( $# > 1 )) && [[ $1 = is || $1 = ist ]] && shift
 (( $# < 1 )) && usage
