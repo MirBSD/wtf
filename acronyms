@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.444 2014/12/13 00:09:23 tg Exp $
+$MirOS: wtf/acronyms,v 1.445 2014/12/20 16:42:43 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.224 2014/05/25 21:49:29 dholland Exp $
 $NetBSD: acronyms.comp,v 1.143 2014/08/20 16:05:03 ginsbach Exp $
@@ -150,6 +150,10 @@ ACB	[IATA] Bellaire (Antrim County Airport), MI, USA
 ACC	Accountancy
 ACC	[IATA] Kotoka International, Accra, Ghana
 ACD	[IATA] Acandi, Colombia
+ACDT	[TZif] Australia/Adelaide (DST)
+ACDT	[TZif] Australia/Broken_Hill (DST)
+ACDT	[TZif] Australia/South (DST)
+ACDT	[TZif] Australia/Yancowinna (DST)
 ACE	[IATA] Arrecife (Lanzarote), Canary Islands, Spain
 ACFS	[Oracle] ASM Cluster File System CSS Process
 ACH	[IATA] Altenrhein (Rorshach), Switzerland
@@ -181,7 +185,15 @@ ACQ	[IATA] Waseca Municipal Airport, MN, USA
 ACR	[IATA] Araracuara, Colombia
 ACS	access control set
 ACS	[IATA] Anacortes, WA, USA
+ACST	[TZif] Australia/Adelaide
+ACST	[TZif] Australia/Broken_Hill
+ACST	[TZif] Australia/South
+ACST	[TZif] Australia/Yancowinna
 ACT	[IATA] Waco Regional Airport, TX, USA
+ACT	[TZif] America/Eirunepe
+ACT	[TZif] America/Porto_Acre
+ACT	[TZif] America/Rio_Branco
+ACT	[TZif] Brazil/Acre
 ACTA	Anti-Counterfeiting Trade Agreement
 ACU	automatic calling unit
 ACU	[IATA] Achutupo, Panama
@@ -231,6 +243,13 @@ ADS	[IATA] Dallas (Addison Airport), TX, USA
 ADSL	asymmetric digital subscriber line
 ADT	abstract data type
 ADT	[IATA] Ada Municipal Airport, OK, USA
+ADT	[TZif] America/Glace_Bay (DST)
+ADT	[TZif] America/Goose_Bay (DST)
+ADT	[TZif] America/Halifax (DST)
+ADT	[TZif] America/Moncton (DST)
+ADT	[TZif] America/Thule (DST)
+ADT	[TZif] Atlantic/Bermuda (DST)
+ADT	[TZif] Canada/Atlantic (DST)
 ADU	[IATA] Audubon County Airport, IA, USA
 ADV	advanced
 ADV	auxilliary data vector
@@ -246,6 +265,15 @@ AEA	[IATA] Abemama Atoll, Kiribati
 AEAD	Authenticated Encryption with Associated Data (block cipher mode)
 AEAP	as early as possible
 AED	automatischer externer Defibrillator
+AEDT	[TZif] Australia/ACT (DST)
+AEDT	[TZif] Australia/Canberra (DST)
+AEDT	[TZif] Australia/Currie (DST)
+AEDT	[TZif] Australia/Hobart (DST)
+AEDT	[TZif] Australia/Melbourne (DST)
+AEDT	[TZif] Australia/NSW (DST)
+AEDT	[TZif] Australia/Sydney (DST)
+AEDT	[TZif] Australia/Tasmania (DST)
+AEDT	[TZif] Australia/Victoria (DST)
 AEG	[IATA] Aek Godang, Indonesia
 AEH	[IATA] Abeche, Chad
 AEK	[IATA] Aseki, Papua New Guinea
@@ -258,6 +286,15 @@ AERO	[sTLD] aeronautics (in der Luftfahrt tätige Organisationen)
 AES	Advanced Encryption Standard
 AES	application environment services (for GEM)
 AES	[IATA] Aalesund (Vigra), Norway
+AEST	[TZif] Australia/ACT
+AEST	[TZif] Australia/Canberra
+AEST	[TZif] Australia/Currie
+AEST	[TZif] Australia/Hobart
+AEST	[TZif] Australia/Melbourne
+AEST	[TZif] Australia/NSW
+AEST	[TZif] Australia/Sydney
+AEST	[TZif] Australia/Tasmania
+AEST	[TZif] Australia/Victoria
 AET	[IATA] Allakaket Airport, AK, USA
 AEX	[IATA] Alexandria International Airport, LA, USA
 AEY	[IATA] Akureyri, Iceland
@@ -403,6 +440,12 @@ AKA	also known as
 AKA	[IATA] Ankang, China
 AKB	[IATA] Atka Airport, AK, USA
 AKD	[IATA] Akola, India
+AKDT	[TZif] America/Anchorage (DST)
+AKDT	[TZif] America/Juneau (DST)
+AKDT	[TZif] America/Nome (DST)
+AKDT	[TZif] America/Sitka (DST)
+AKDT	[TZif] America/Yakutat (DST)
+AKDT	[TZif] US/Alaska (DST)
 AKE	[IATA] Akieni, Gabon
 AKF	[IATA] Kufrah, Libya
 AKG	[IATA] Anguganak, Papua New Guinea
@@ -417,6 +460,12 @@ AKP	[IATA] Anaktuvuk Pass Airport Pass, AK, USA
 AKQ	[IATA] Astraksetra, Indonesia
 AKR	[IATA] Akure, Nigeria
 AKS	[IATA] Auki, Solomon Islands
+AKST	[TZif] America/Anchorage
+AKST	[TZif] America/Juneau
+AKST	[TZif] America/Nome
+AKST	[TZif] America/Sitka
+AKST	[TZif] America/Yakutat
+AKST	[TZif] US/Alaska
 AKT	[IATA] Akrotiri, Cyprus
 AKU	[IATA] Aksu, China
 AKUEFI	Abkürzungsfimmel
@@ -508,8 +557,16 @@ AMQ	[IATA] Ambon (Pattimura), Indonesia
 AMQP	Advanced Message Queuing Protocol
 AMR	[IATA] Arno, Marshall Islands
 AMS	[IATA] Schiphol, Amsterdam, Netherlands
+AMST	[TZif] America/Campo_Grande (DST)
+AMST	[TZif] America/Cuiaba (DST)
 AMT	active management technology
 AMT	[IATA] Amata, Northern Territory, Australia
+AMT	[TZif] America/Campo_Grande
+AMT	[TZif] America/Cuiaba
+AMT	[TZif] America/Eirunepe
+AMT	[TZif] America/Porto_Acre
+AMT	[TZif] America/Rio_Branco
+AMT	[TZif] Brazil/Acre
 AMU	[IATA] Amanab, Papua New Guinea
 AMV	[IATA] Amderma, Arkhangelsk, Russia
 AMW	[IATA] Ames Municipal Airport, IA, USA
@@ -763,6 +820,14 @@ AST	Anruf-Sammel-Taxi
 AST	asynchronous trap
 AST	AT&T Software Technology (ast-ksh package) from AT&T Labs Research
 AST	[IATA] Port of Astoria Airport, OR, USA
+AST	[TZif] America/Glace_Bay
+AST	[TZif] America/Goose_Bay
+AST	[TZif] America/Grand_Turk
+AST	[TZif] America/Halifax
+AST	[TZif] America/Moncton
+AST	[TZif] America/Thule
+AST	[TZif] Atlantic/Bermuda
+AST	[TZif] Canada/Atlantic
 ASU	Abgassonderuntersuchung (now: AU)
 ASU	[IATA] Asuncion (Presidente Stroessner), Paraguay
 ASV	[IATA] Amboseli, Kenya
@@ -959,8 +1024,12 @@ AZG	[IATA] Apatzingan, Mexico
 AZI	[IATA] Abu Dhabi (Bettina), United Arab Emirates
 AZN	[IATA] Andizhan, Uzbekhistan
 AZO	[IATA] Kalamazoo/Battle Creek International, Kalamazoo, MI, USA
+AZOST	[TZif] Atlantic/Azores (DST)
+AZOT	[TZif] Atlantic/Azores
 AZR	[IATA] Adrar (Touat), Algeria
+AZST	[TZif] Asia/Baku (DST)
 AZT	[IATA] Zapatoca, Colombia
+AZT	[TZif] Asia/Baku
 AÖ	[Kfz:D] Landkreis Altötting
 B	B (PSE#5) Borium, Bor, Boron | Erdmetalle (Borgruppe) | boron group
 B	[Kfz:D] Berlin
@@ -1734,8 +1803,14 @@ BRP	[IATA] Biaru, Papua New Guinea
 BRQ	[IATA] Brno, Czech Republic
 BRR	[IATA] Barra, Scotland, UK
 BRS	[IATA] Bristol International (Lulsgate), Bristol, England, United Kingdom
+BRST	[TZif] America/Araguaina (DST)
+BRST	[TZif] America/Sao_Paulo (DST)
+BRST	[TZif] Brazil/East (DST)
 BRT	[I'll] be right there
 BRT	[IATA] Bathurst Island, Northern Territory, Australia
+BRT	[TZif] America/Araguaina
+BRT	[TZif] America/Sao_Paulo
+BRT	[TZif] Brazil/East
 BRU	[IATA] Zaventem, Brussels, Belgium
 BRU	[Kfz] Brunei
 BRV	[IATA] Bremerhaven, Germany
@@ -1808,6 +1883,14 @@ BSSAP+	BSS Application Part Plus
 BSSGP	Base Station System GPRS Protocol
 BSSID	basic service set identifier
 BST	[IATA] Bost, Afghanistan
+BST	[TZif] Europe/Belfast (DST)
+BST	[TZif] Europe/Guernsey (DST)
+BST	[TZif] Europe/Isle_of_Man (DST)
+BST	[TZif] Europe/Jersey (DST)
+BST	[TZif] Europe/London (DST)
+BST	[TZif] GB (DST)
+BST	[TZif] GB-Eire (DST)
+BST	[TZif] Pacific/Bougainville
 BSU	[IATA] Basankusu, Zaire
 BSV	[IATA] Bosset, Papua New Guinea
 BSW	Bachelor of Social Work
@@ -2241,6 +2324,31 @@ CDR	Corel Draw
 CDR	[IATA] Chadron Municipal Airport, NE, USA
 CDRAM	cache dynamic random access memory
 CDS	[IATA] Childress Municipal Airport, TX, USA
+CDT	[TZif] America/Bahia_Banderas (DST)
+CDT	[TZif] America/Cancun (DST)
+CDT	[TZif] America/Chicago (DST)
+CDT	[TZif] America/Havana (DST)
+CDT	[TZif] America/Indiana/Knox (DST)
+CDT	[TZif] America/Indiana/Tell_City (DST)
+CDT	[TZif] America/Knox_IN (DST)
+CDT	[TZif] America/Matamoros (DST)
+CDT	[TZif] America/Menominee (DST)
+CDT	[TZif] America/Merida (DST)
+CDT	[TZif] America/Mexico_City (DST)
+CDT	[TZif] America/Monterrey (DST)
+CDT	[TZif] America/North_Dakota/Beulah (DST)
+CDT	[TZif] America/North_Dakota/Center (DST)
+CDT	[TZif] America/North_Dakota/New_Salem (DST)
+CDT	[TZif] America/Rainy_River (DST)
+CDT	[TZif] America/Rankin_Inlet (DST)
+CDT	[TZif] America/Resolute (DST)
+CDT	[TZif] America/Winnipeg (DST)
+CDT	[TZif] Canada/Central (DST)
+CDT	[TZif] CST6CDT (DST)
+CDT	[TZif] Cuba (DST)
+CDT	[TZif] Mexico/General (DST)
+CDT	[TZif] US/Central (DST)
+CDT	[TZif] US/Indiana-Starke (DST)
 CDU	Christlich-Demokratische Union
 CDU	[IATA] Camden, New South Wales, Australia
 CDV	[IATA] Cordova, AK, USA
@@ -2275,7 +2383,83 @@ CER	[IATA] Cherbourg (Maupertus), France
 CERN	Conseil Européen pour la Recherche Nucléaire
 CERN	European Council for Nuclear Research
 CES	[IATA] Cessnock, New South Wales, Australia
+CEST	[TZif] Africa/Ceuta (DST)
+CEST	[TZif] Africa/Tripoli (DST)
+CEST	[TZif] Antarctica/Troll (DST)
+CEST	[TZif] Arctic/Longyearbyen (DST)
+CEST	[TZif] Atlantic/Jan_Mayen (DST)
+CEST	[TZif] CET (DST)
+CEST	[TZif] Europe/Amsterdam (DST)
+CEST	[TZif] Europe/Andorra (DST)
+CEST	[TZif] Europe/Belgrade (DST)
+CEST	[TZif] Europe/Berlin (DST)
+CEST	[TZif] Europe/Bratislava (DST)
+CEST	[TZif] Europe/Brussels (DST)
+CEST	[TZif] Europe/Budapest (DST)
+CEST	[TZif] Europe/Busingen (DST)
+CEST	[TZif] Europe/Copenhagen (DST)
+CEST	[TZif] Europe/Gibraltar (DST)
+CEST	[TZif] Europe/Ljubljana (DST)
+CEST	[TZif] Europe/Luxembourg (DST)
+CEST	[TZif] Europe/Madrid (DST)
+CEST	[TZif] Europe/Malta (DST)
+CEST	[TZif] Europe/Monaco (DST)
+CEST	[TZif] Europe/Oslo (DST)
+CEST	[TZif] Europe/Paris (DST)
+CEST	[TZif] Europe/Podgorica (DST)
+CEST	[TZif] Europe/Prague (DST)
+CEST	[TZif] Europe/Rome (DST)
+CEST	[TZif] Europe/San_Marino (DST)
+CEST	[TZif] Europe/Sarajevo (DST)
+CEST	[TZif] Europe/Skopje (DST)
+CEST	[TZif] Europe/Stockholm (DST)
+CEST	[TZif] Europe/Tirane (DST)
+CEST	[TZif] Europe/Vaduz (DST)
+CEST	[TZif] Europe/Vatican (DST)
+CEST	[TZif] Europe/Vienna (DST)
+CEST	[TZif] Europe/Warsaw (DST)
+CEST	[TZif] Europe/Zagreb (DST)
+CEST	[TZif] Europe/Zurich (DST)
+CEST	[TZif] Libya (DST)
+CEST	[TZif] Poland (DST)
 CET	[IATA] Cholet, France
+CET	[TZif] Africa/Ceuta
+CET	[TZif] Africa/Tripoli
+CET	[TZif] Arctic/Longyearbyen
+CET	[TZif] Atlantic/Jan_Mayen
+CET	[TZif] Europe/Amsterdam
+CET	[TZif] Europe/Andorra
+CET	[TZif] Europe/Belgrade
+CET	[TZif] Europe/Berlin
+CET	[TZif] Europe/Bratislava
+CET	[TZif] Europe/Brussels
+CET	[TZif] Europe/Budapest
+CET	[TZif] Europe/Busingen
+CET	[TZif] Europe/Copenhagen
+CET	[TZif] Europe/Gibraltar
+CET	[TZif] Europe/Ljubljana
+CET	[TZif] Europe/Luxembourg
+CET	[TZif] Europe/Madrid
+CET	[TZif] Europe/Malta
+CET	[TZif] Europe/Monaco
+CET	[TZif] Europe/Oslo
+CET	[TZif] Europe/Paris
+CET	[TZif] Europe/Podgorica
+CET	[TZif] Europe/Prague
+CET	[TZif] Europe/Rome
+CET	[TZif] Europe/San_Marino
+CET	[TZif] Europe/Sarajevo
+CET	[TZif] Europe/Skopje
+CET	[TZif] Europe/Stockholm
+CET	[TZif] Europe/Tirane
+CET	[TZif] Europe/Vaduz
+CET	[TZif] Europe/Vatican
+CET	[TZif] Europe/Vienna
+CET	[TZif] Europe/Warsaw
+CET	[TZif] Europe/Zagreb
+CET	[TZif] Europe/Zurich
+CET	[TZif] Libya
+CET	[TZif] Poland
 CETA	Comprehensive Economic and Trade Agreement
 CEU	[IATA] Clemson-Oconee County Airport, SC, USA
 CEV	[IATA] Connersville (Mettel Field), IN, USA
@@ -2354,8 +2538,12 @@ CH	[ISO 3166] Switzerland
 CH	[Kfz] Schweiz
 CHA	[IATA] Chattanooga (Lovell Field), TN, USA
 CHA	[Kfz:D] Landkreis Cham
+CHADT	[TZif] NZ-CHAT (DST)
+CHADT	[TZif] Pacific/Chatham (DST)
 CHAP	Challenge-Handshake Authentication Protocol
 CHARLIE	C (International Radiotelephony Spelling Alphabet)
+CHAST	[TZif] NZ-CHAT
+CHAST	[TZif] Pacific/Chatham
 CHB	Bachelor of Surgery
 CHB	Channelbank
 CHB	[IATA] Chilas, Pakistan
@@ -2508,8 +2696,14 @@ CLR	clear
 CLR	common language runtime
 CLR	[IATA] Calipatria Municipal Airport, CA, USA
 CLS	[IATA] Chehalis-Centralia Airport, WA, USA
+CLST	[TZif] America/Santiago (DST)
+CLST	[TZif] Antarctica/Palmer (DST)
+CLST	[TZif] Chile/Continental (DST)
 CLT	Chemnitzer Linux-Tage
 CLT	[IATA] Charlotte/Douglas International, North Carolina, USA
+CLT	[TZif] America/Santiago
+CLT	[TZif] Antarctica/Palmer
+CLT	[TZif] Chile/Continental
 CLTT	closed loop thermal throttling
 CLU	[IATA] Columbus Municipal Airport, IN, USA
 CLUT	color look-up table
@@ -2801,6 +2995,30 @@ CSS	Content Scrambling System
 CSS	cross-site scripting (normally XSS)
 CSS	[IATA] Cassilandia, MG, Brazil
 CST	[IATA] Castaway, Fiji
+CST	[TZif] America/Bahia_Banderas
+CST	[TZif] America/Cancun
+CST	[TZif] America/Chicago
+CST	[TZif] America/Havana
+CST	[TZif] America/Indiana/Knox
+CST	[TZif] America/Indiana/Tell_City
+CST	[TZif] America/Knox_IN
+CST	[TZif] America/Matamoros
+CST	[TZif] America/Menominee
+CST	[TZif] America/Merida
+CST	[TZif] America/Mexico_City
+CST	[TZif] America/Monterrey
+CST	[TZif] America/North_Dakota/Beulah
+CST	[TZif] America/North_Dakota/Center
+CST	[TZif] America/North_Dakota/New_Salem
+CST	[TZif] America/Rainy_River
+CST	[TZif] America/Rankin_Inlet
+CST	[TZif] America/Resolute
+CST	[TZif] America/Winnipeg
+CST	[TZif] Canada/Central
+CST	[TZif] Cuba
+CST	[TZif] Mexico/General
+CST	[TZif] US/Central
+CST	[TZif] US/Indiana-Starke
 CSU	Christlich-Soziale Union
 CSUR	ConScript Unicode Registry -- http://www.evertype.com/standards/csur/
 CSV	comma-separated values
@@ -3680,6 +3898,10 @@ EAP	[IATA] EuroAirport Basel-Mulhouse-Freiburg, Switzerland/France
 EAR	Java™ Enterprise Archive (collection of JAR, WAR, RAR files and EJBs)
 EAR	[IATA] Kearney Municipal Airport, NE, USA
 EAS	[IATA] San Sebastian, Spain
+EASST	[TZif] Chile/EasterIsland (DST)
+EASST	[TZif] Pacific/Easter (DST)
+EAST	[TZif] Chile/EasterIsland
+EAST	[TZif] Pacific/Easter
 EAT	[IATA] Wenatchee (Pangborn Memorial), WA, USA
 EAT	[Kfz] Tansania
 EAU	[IATA] Eau Claire (Chippewa Valley), WI, USA
@@ -3785,6 +4007,33 @@ EDR	[IATA] Edward River, Queensland, Australia
 EDS	Education Specialist
 EDS	electronical data sheet
 EDS	eternal downward spiral
+EDT	[TZif] America/Detroit (DST)
+EDT	[TZif] America/Fort_Wayne (DST)
+EDT	[TZif] America/Grand_Turk (DST)
+EDT	[TZif] America/Indiana/Indianapolis (DST)
+EDT	[TZif] America/Indiana/Marengo (DST)
+EDT	[TZif] America/Indiana/Petersburg (DST)
+EDT	[TZif] America/Indiana/Vevay (DST)
+EDT	[TZif] America/Indiana/Vincennes (DST)
+EDT	[TZif] America/Indiana/Winamac (DST)
+EDT	[TZif] America/Indianapolis (DST)
+EDT	[TZif] America/Iqaluit (DST)
+EDT	[TZif] America/Kentucky/Louisville (DST)
+EDT	[TZif] America/Kentucky/Monticello (DST)
+EDT	[TZif] America/Louisville (DST)
+EDT	[TZif] America/Montreal (DST)
+EDT	[TZif] America/Nassau (DST)
+EDT	[TZif] America/New_York (DST)
+EDT	[TZif] America/Nipigon (DST)
+EDT	[TZif] America/Pangnirtung (DST)
+EDT	[TZif] America/Port-au-Prince (DST)
+EDT	[TZif] America/Thunder_Bay (DST)
+EDT	[TZif] America/Toronto (DST)
+EDT	[TZif] Canada/Eastern (DST)
+EDT	[TZif] EST5EDT (DST)
+EDT	[TZif] US/East-Indiana (DST)
+EDT	[TZif] US/Eastern (DST)
+EDT	[TZif] US/Michigan (DST)
 EDU	[sTLD] educational (Bildungseinrichtungen)
 EDV	Elektronische Datenverarbeitung
 EDW	[IATA] Edwards (Air Force Base), CA, USA
@@ -3799,6 +4048,62 @@ EEK	[IATA] Eek Airport, AK, USA
 EEN	[IATA] Keene (Dillant-Hopkins Airport), NH, USA
 EEPROM	electrically erasable programmable read only memory
 EES	Execution Environment Service
+EEST	[TZif] Africa/Cairo (DST)
+EEST	[TZif] Asia/Amman (DST)
+EEST	[TZif] Asia/Beirut (DST)
+EEST	[TZif] Asia/Damascus (DST)
+EEST	[TZif] Asia/Gaza (DST)
+EEST	[TZif] Asia/Hebron (DST)
+EEST	[TZif] Asia/Istanbul (DST)
+EEST	[TZif] Asia/Nicosia (DST)
+EEST	[TZif] EET (DST)
+EEST	[TZif] Egypt (DST)
+EEST	[TZif] Europe/Athens (DST)
+EEST	[TZif] Europe/Bucharest (DST)
+EEST	[TZif] Europe/Chisinau (DST)
+EEST	[TZif] Europe/Helsinki (DST)
+EEST	[TZif] Europe/Istanbul (DST)
+EEST	[TZif] Europe/Kiev (DST)
+EEST	[TZif] Europe/Mariehamn (DST)
+EEST	[TZif] Europe/Nicosia (DST)
+EEST	[TZif] Europe/Riga (DST)
+EEST	[TZif] Europe/Simferopol (DST)
+EEST	[TZif] Europe/Sofia (DST)
+EEST	[TZif] Europe/Tallinn (DST)
+EEST	[TZif] Europe/Tiraspol (DST)
+EEST	[TZif] Europe/Uzhgorod (DST)
+EEST	[TZif] Europe/Vilnius (DST)
+EEST	[TZif] Europe/Zaporozhye (DST)
+EEST	[TZif] Turkey (DST)
+EET	[TZif] Africa/Cairo
+EET	[TZif] Africa/Tripoli
+EET	[TZif] Asia/Amman
+EET	[TZif] Asia/Beirut
+EET	[TZif] Asia/Damascus
+EET	[TZif] Asia/Gaza
+EET	[TZif] Asia/Hebron
+EET	[TZif] Asia/Istanbul
+EET	[TZif] Asia/Nicosia
+EET	[TZif] Egypt
+EET	[TZif] Europe/Athens
+EET	[TZif] Europe/Bucharest
+EET	[TZif] Europe/Chisinau
+EET	[TZif] Europe/Helsinki
+EET	[TZif] Europe/Istanbul
+EET	[TZif] Europe/Kaliningrad
+EET	[TZif] Europe/Kiev
+EET	[TZif] Europe/Mariehamn
+EET	[TZif] Europe/Nicosia
+EET	[TZif] Europe/Riga
+EET	[TZif] Europe/Simferopol
+EET	[TZif] Europe/Sofia
+EET	[TZif] Europe/Tallinn
+EET	[TZif] Europe/Tiraspol
+EET	[TZif] Europe/Uzhgorod
+EET	[TZif] Europe/Vilnius
+EET	[TZif] Europe/Zaporozhye
+EET	[TZif] Libya
+EET	[TZif] Turkey
 EEXIST	(#17) File exists
 EF	[Kfz:D] Landkreis Erfurt
 EF	[Schule DE] Einführungsphase (10. Klasse Gymnasium nach G8)
@@ -3840,7 +4145,9 @@ EGP	[IATA] Eagle Pass Municipal Airport, TX, USA
 EGPRS	Enhanced GPRS (GPRS over EDGE)
 EGQ	[IATA] Emmetsburg Municipal Airport, IA, USA
 EGS	[IATA] Egilsstadir, Iceland
+EGST	[TZif] America/Scoresbysund (DST)
 EGT	[IATA] Wellington Municipal Airport, KS, USA
+EGT	[TZif] America/Scoresbysund
 EGV	[IATA] Eagle River Union Airport, WI, USA
 EGX	[IATA] Egegik Airport, AK, USA
 EH	extension header
@@ -4165,6 +4472,32 @@ ESSID	extended service set identifier
 EST	enhanced speedstep
 EST	[IATA] Estherville Municipal Airport, IA, USA
 EST	[Kfz] Estland
+EST	[TZif] America/Detroit
+EST	[TZif] America/Fort_Wayne
+EST	[TZif] America/Grand_Turk
+EST	[TZif] America/Indiana/Indianapolis
+EST	[TZif] America/Indiana/Marengo
+EST	[TZif] America/Indiana/Petersburg
+EST	[TZif] America/Indiana/Vevay
+EST	[TZif] America/Indiana/Vincennes
+EST	[TZif] America/Indiana/Winamac
+EST	[TZif] America/Indianapolis
+EST	[TZif] America/Iqaluit
+EST	[TZif] America/Kentucky/Louisville
+EST	[TZif] America/Kentucky/Monticello
+EST	[TZif] America/Louisville
+EST	[TZif] America/Montreal
+EST	[TZif] America/Nassau
+EST	[TZif] America/New_York
+EST	[TZif] America/Nipigon
+EST	[TZif] America/Pangnirtung
+EST	[TZif] America/Port-au-Prince
+EST	[TZif] America/Thunder_Bay
+EST	[TZif] America/Toronto
+EST	[TZif] Canada/Eastern
+EST	[TZif] US/East-Indiana
+EST	[TZif] US/Eastern
+EST	[TZif] US/Michigan
 ESTALE	(#70) Stale NFS file handle
 ESTEC	European Space Research and Technology Centre
 ESW	[IATA] Easton State Airport, WA, USA
@@ -4393,6 +4726,8 @@ FER	[IATA] Fergusons Gulf, Kenya
 FES	[IATA] Festus Memorial Airport, MO, USA
 FET	field-effect transistor
 FET	[IATA] Fremont Municipal Airport, NE, USA
+FET	[TZif] Europe/Kaliningrad
+FET	[TZif] Europe/Minsk
 FEU	[Kfz:D] Landkreis Feuchtwangen
 FEW	[IATA] Francis E. Warren Air Force Base, WY, USA
 FEZ	[IATA] Fes (Saiss), Morocco
@@ -4472,6 +4807,8 @@ FJ	[ccTLD] Fidschi
 FJ	[ISO 3166] Fiji
 FJI	[Kfz] Fidschi
 FJR	[IATA] Fujairah International Airport, [93]United Arab Emirates
+FJST	[TZif] Pacific/Fiji (DST)
+FJT	[TZif] Pacific/Fiji
 FK	[ccTLD] Falklandinseln
 FK	[ISO 3166] Falkland Islands
 FK	[Schule DE] Fachkonferenz
@@ -5154,6 +5491,15 @@ GMON	[Oracle] ASM Disk Group Monitor Process
 GMR	[IATA] Mangareva, Gambier Islands, French Polynesia
 GMS	[IATA] Guimaraes, MA, Brazil
 GMT	[IATA] Granite Mountain, AK, USA
+GMT	[TZif] Eire
+GMT	[TZif] Europe/Belfast
+GMT	[TZif] Europe/Dublin
+GMT	[TZif] Europe/Guernsey
+GMT	[TZif] Europe/Isle_of_Man
+GMT	[TZif] Europe/Jersey
+GMT	[TZif] Europe/London
+GMT	[TZif] GB
+GMT	[TZif] GB-Eire
 GMTA	great minds think alike
 GMU	[IATA] Greenville Downtown Airport, SC, USA
 GMY	[IATA] Rheindahlen, Germany
@@ -5453,6 +5799,9 @@ HAB	[IATA] Hamilton (Marion County Airport), AL, USA
 HAB	[Kfz:D] Landkreis Hammelburg
 HAC	[IATA] Hachijo Jima Island, Japan
 HAD	[IATA] Halmstad Air Base, Sweden
+HADT	[TZif] America/Adak (DST)
+HADT	[TZif] America/Atka (DST)
+HADT	[TZif] US/Aleutian (DST)
 HAE	[IATA] Havasupai, AZ, USA
 HAF	[IATA] Half Moon Bay Airport, CA, USA
 HAG	[IATA] Den Haag (Hilversum), Holland
@@ -5476,6 +5825,9 @@ HAS	[IATA] Hail, Saudi Arabia
 HAS	[Kfz:D] Landkreis Haßberge
 HAS	[Kfz:D] Landkreis Haßfurt
 HAS	[Oracle] HA service
+HAST	[TZif] America/Adak
+HAST	[TZif] America/Atka
+HAST	[TZif] US/Aleutian
 HAT	hashed array tree
 HAT	[IATA] Heathlands, Queensland, Australia
 HAU	[IATA] Haugesund (Karmoy), Norway
@@ -6126,6 +6478,9 @@ IDRC	I don't really care
 IDRP	inter-domain routing protocol
 IDS	intrusion detection system
 IDT	interrupt descriptor table
+IDT	[TZif] Asia/Jerusalem (DST)
+IDT	[TZif] Asia/Tel_Aviv (DST)
+IDT	[TZif] Israel (DST)
 IDTS	I don't think so
 IDTT	I drink to that
 IDWTK	I don’t want to know
@@ -6388,6 +6743,8 @@ IRC	Internet Relay Chat
 IRC	[IATA] Circle City Airport, AK, USA
 IRD	[IATA] Ishhurdi, Bangladesh
 IRDA	infrared data association
+IRDT	[TZif] Asia/Tehran (DST)
+IRDT	[TZif] Iran (DST)
 IRE	[IATA] Irece, BA, Brazil
 IRET	return from interrupt
 IRG	[IATA] Lockhart Rivers, Queensland, Australia
@@ -6395,6 +6752,8 @@ IRI	[IATA] Iringa, Tanzania
 IRILL	Initiative pour la Recherche et l'Innovation sur le Logiciel Libre
 IRJ	[IATA] La Rioja (Capitan Vicente Almando), Argentina
 IRK	[IATA] Kirksville Regional Airport, MO, USA
+IRKT	[TZif] Asia/Chita
+IRKT	[TZif] Asia/Irkutsk
 IRL	in real life
 IRL	[Kfz] Irland
 IRN	[IATA] Iriona, Honduras
@@ -6407,6 +6766,8 @@ IRR	interrupt request register
 IRS	input record separator
 IRS	Internal Revenue Service
 IRS	[IATA] Sturgis (Kirsch Municipal Airport), MI, USA
+IRST	[TZif] Asia/Tehran
+IRST	[TZif] Iran
 IRT	in real time
 IRT	in regards to
 IRTF	Internet Research Task Force
@@ -6457,6 +6818,11 @@ ISS	[IATA] Wiscasset Airport, ME, USA
 ISSN	international standard serial number
 IST	interrupt stack table
 IST	[IATA] Istanbul (Ataturk/Yesilkov International), Turkey
+IST	[TZif] Asia/Jerusalem
+IST	[TZif] Asia/Tel_Aviv
+IST	[TZif] Eire (DST)
+IST	[TZif] Europe/Dublin (DST)
+IST	[TZif] Israel
 ISTM	it seems to me
 ISTR	I seem to recall
 ISTR	I seem to remember
@@ -7292,6 +7658,8 @@ KR	[ccTLD] Südkorea
 KR	[ISO 3166] Korea (South)
 KR	[Kfz:D] kreisfreie Stadt Krefeld
 KRA	[IATA] Kerang, Victoria, Australia
+KRAT	[TZif] Asia/Krasnoyarsk
+KRAT	[TZif] Asia/Novokuznetsk
 KRB	[IATA] Karumba, Queensland, Australia
 KRC	[IATA] Kerinci, Samatra, Indonesia
 KRD	[IATA] Kurundi, Northern Territory, Australia
@@ -7734,6 +8102,8 @@ LHB	[IATA] Lost Harbor, AK, USA
 LHC	large hadron collider
 LHC	[IATA] Caballococha, Peru
 LHD	[IATA] Anchorage (Lake Hood Seaplane), AK, USA
+LHDT	[TZif] Australia/LHI (DST)
+LHDT	[TZif] Australia/Lord_Howe (DST)
 LHE	[IATA] Lahore, Pakistan
 LHG	[IATA] Lightning Ridge, New South Wales, Australia
 LHI	[IATA] Lereh, Indonesia
@@ -7743,6 +8113,8 @@ LHP	[IATA] Lehu, Papua New Guinea
 LHR	[IATA] Heathrow, London, UK
 LHS	left-hand side
 LHS	[IATA] Las Heras, Argentina
+LHST	[TZif] Australia/LHI
+LHST	[TZif] Australia/Lord_Howe
 LHU	[IATA] Lake Havasu City, AZ, USA
 LHV	[IATA] Lock Haven (William T. Piper), PA, USA
 LHW	[IATA] Lanzhou (Zhongchuan), China
@@ -8240,6 +8612,8 @@ MADT	multiple APIC descriptor table
 MAE	[IATA] Madera Municipal Airport, CA, USA
 MAF	[IATA] Midland International Airport, TX, USA
 MAG	[IATA] Madang, Papua New Guinea
+MAGT	[TZif] Asia/Magadan
+MAGT	[TZif] Asia/Srednekolymsk
 MAH	[IATA] Mahon (Menorca), Balearic Islands, Spain
 MAI	[IATA] Mangochi, Malawi
 MAI	[Kfz:D] Landkreis Mainburg
@@ -8482,6 +8856,21 @@ MDRAM	multibank dynamic random access memory
 MDRAMA	Master of Drama
 MDS	[IATA] Middle Caicos, Turks & Caicos
 MDT	[IATA] Harrisburg International, Pennsylvania, USA
+MDT	[TZif] America/Boise (DST)
+MDT	[TZif] America/Cambridge_Bay (DST)
+MDT	[TZif] America/Chihuahua (DST)
+MDT	[TZif] America/Denver (DST)
+MDT	[TZif] America/Edmonton (DST)
+MDT	[TZif] America/Inuvik (DST)
+MDT	[TZif] America/Mazatlan (DST)
+MDT	[TZif] America/Ojinaga (DST)
+MDT	[TZif] America/Shiprock (DST)
+MDT	[TZif] America/Yellowknife (DST)
+MDT	[TZif] Canada/Mountain (DST)
+MDT	[TZif] Mexico/BajaSur (DST)
+MDT	[TZif] MST7MDT (DST)
+MDT	[TZif] Navajo (DST)
+MDT	[TZif] US/Mountain (DST)
 MDU	[IATA] Mendi, Papua New Guinea
 MDV	[IATA] Medouneu, Gabon
 MDW	[IATA] Chicago Midway, Illinois, USA
@@ -8534,6 +8923,7 @@ MES	[Kfz:D] Hochsauerlandkreis
 MES	[Kfz:D] Kreis Meschede
 MESCI	Master of Earth Science
 MESI	modified, exclusive, shared, invalid
+MEST	[TZif] MET (DST)
 MET	[IATA] Moreton, Queensland, Australia
 MET	[Kfz:D] Landkreis Mellrichstadt
 MEU	[IATA] Monte Dourado, Brazil
@@ -9100,6 +9490,11 @@ MSIE	Microsoft Slaves' Incessant Exasperation
 MSIE	Microsoft® Internet Explorer
 MSJ	[IATA] Misawa, Japan
 MSK	[IATA] Mastic Point, Bahamas
+MSK	[TZif] Europe/Minsk
+MSK	[TZif] Europe/Moscow
+MSK	[TZif] Europe/Simferopol
+MSK	[TZif] Europe/Volgograd
+MSK	[TZif] W-SU
 MSL	[IATA] Muscle Shoals Regional Airport, AL, USA
 MSM	[IATA] Masi Manimba, Zaire
 MSN	[IATA] Madison Dane County Regional, Wisconsin, USA
@@ -9117,6 +9512,20 @@ MSSC	Master of Social Science
 MST	Master of Studies
 MST	[IATA] Maastricht Aachen (Zuid-Limburg), Netherlands
 MST	[Kfz:D] Altkreis Mecklenburg-Strelitz im Landkreis Mecklenburgische Seenplatte
+MST	[TZif] America/Boise
+MST	[TZif] America/Cambridge_Bay
+MST	[TZif] America/Chihuahua
+MST	[TZif] America/Denver
+MST	[TZif] America/Edmonton
+MST	[TZif] America/Inuvik
+MST	[TZif] America/Mazatlan
+MST	[TZif] America/Ojinaga
+MST	[TZif] America/Shiprock
+MST	[TZif] America/Yellowknife
+MST	[TZif] Canada/Mountain
+MST	[TZif] Mexico/BajaSur
+MST	[TZif] Navajo
+MST	[TZif] US/Mountain
 MSTAT	Master of Statistics
 MSU	[IATA] Maseru (Moshoeshoe I International), Lesotho
 MSV	[IATA] Monticello (Sullivan County), NY, USA
@@ -9514,6 +9923,8 @@ NDP	[IATA] Pensacola (Ellyson Naval Air Station), FL, USA
 NDPF	Nikhef Data Processing Facility
 NDR	[IATA] Nador, Morocco
 NDS	[IATA] Sandstone, Western Australia, Australia
+NDT	[TZif] America/St_Johns (DST)
+NDT	[TZif] Canada/Newfoundland (DST)
 NDU	[IATA] Rundu, Namibia
 NDV	[IATA] Washington (Anacostia Navy Heliport), DC, USA
 NDY	[IATA] Sanday, Orkney Islands, Scotland, UK
@@ -9780,6 +10191,8 @@ NOU	[IATA] Noumea (La Tontouta), New Caledonia
 NOV	[IATA] Huambo (Nova Lisboa), Angola
 NOVEMBER	N (International Radiotelephony Spelling Alphabet)
 NOVENINE	9 (International Radiotelephony Spelling Alphabet)
+NOVT	[TZif] Asia/Novokuznetsk
+NOVT	[TZif] Asia/Novosibirsk
 NOW	[IATA] Port Angeles (Coast Guard), WA, USA
 NOYB	none of your business
 NOYFB	none of your fucking business
@@ -9868,6 +10281,8 @@ NSO	[IATA] Scone, New South Wales, Australia
 NSP	[IATA] Sangley Point, Philippines
 NSS0	[Oracle] Network Server SYNC Process
 NST	[IATA] Nakhon Si Thammarat, Thailand
+NST	[TZif] America/St_Johns
+NST	[TZif] Canada/Newfoundland
 NSV	[IATA] Noosaville, Queensland, Australia
 NSV0	[Oracle] Data Guard Broker NetSlave Process
 NSX	[IATA] Virgin Gorda (Naval Station), British Virgin Islands
@@ -9980,9 +10395,17 @@ NZ	[Kfz:D] Landkreis Neustrelitz
 NZ	[Kfz] Neuseeland
 NZA	[IATA] Nazca, Peru
 NZC	[IATA] Jacksonville (Cecil Field), FL, USA
+NZDT	[TZif] Antarctica/McMurdo (DST)
+NZDT	[TZif] Antarctica/South_Pole (DST)
+NZDT	[TZif] NZ (DST)
+NZDT	[TZif] Pacific/Auckland (DST)
 NZE	[IATA] Nzerekore, Guinea
 NZJ	[IATA] Santa Ana (El Toro), CA, USA
 NZO	[IATA] Nzoia, Kenya
+NZST	[TZif] Antarctica/McMurdo
+NZST	[TZif] Antarctica/South_Pole
+NZST	[TZif] NZ
+NZST	[TZif] Pacific/Auckland
 NZW	[IATA] South Weymouth (Shea Field), MA, USA
 NZX	[IATA] Harold (Naval Outlying Field), FL, USA
 NZY	[IATA] San Diego (Halsey Field), CA, USA
@@ -10221,6 +10644,7 @@ OMN	[IATA] Osmanabad, India
 OMO	[IATA] Mostar, Bosnia-Herzegovina
 OMR	[IATA] Oradea, Romania
 OMS	[IATA] Omsk, Russia
+OMST	[TZif] Asia/Omsk
 OMTR	Optischer Multiplexer, Transmitter und Receiver
 OMW	on my way
 OMY	[IATA] Oddor Meanchey, Cambodia
@@ -10663,6 +11087,19 @@ PDS	Policy Decision Service
 PDS	product data sheet
 PDS	[IATA] Piedras Negras, Mexico
 PDT	[IATA] Pendleton Municipal Airport, OR, USA
+PDT	[TZif] America/Dawson (DST)
+PDT	[TZif] America/Ensenada (DST)
+PDT	[TZif] America/Los_Angeles (DST)
+PDT	[TZif] America/Santa_Isabel (DST)
+PDT	[TZif] America/Tijuana (DST)
+PDT	[TZif] America/Vancouver (DST)
+PDT	[TZif] America/Whitehorse (DST)
+PDT	[TZif] Canada/Pacific (DST)
+PDT	[TZif] Canada/Yukon (DST)
+PDT	[TZif] Mexico/BajaNorte (DST)
+PDT	[TZif] PST8PDT (DST)
+PDT	[TZif] US/Pacific (DST)
+PDT	[TZif] US/Pacific-New (DST)
 PDU	Professional Development Units
 PDU	protocol data unit
 PDU	[IATA] Paysandu, Uruguay
@@ -10760,6 +11197,7 @@ PGP	Pretty Good Privacy
 PGP	[IATA] Porto Alegre, Sao Tome & Principe
 PGR	[IATA] Paragould (Kirk Field), AR, USA
 PGS	[IATA] Peach Springs (Grand Canyon Caverns), AZ, USA
+PGT	[TZif] Pacific/Bougainville
 PGV	[IATA] Pitt-Greenville Airport, NC, USA
 PGX	[IATA] Perigueux (Bassillac), France
 PGZ	[IATA] Ponta Grossa, PR, Brazil
@@ -10945,6 +11383,7 @@ PMB	[IATA] Pembina Municipal Airport, ND, USA
 PMC	[IATA] Puerto Montt (El Tepual), Chile
 PMD	poor man's debugging (aka printf)
 PMD	[IATA] Palmdale (Air Force), CA, USA
+PMDT	[TZif] America/Miquelon (DST)
 PME	power management event
 PME	[IATA] Portsmouth, England, United Kingdom
 PMF	[IATA] Parma, Italy
@@ -10975,6 +11414,7 @@ PMS	post-menstruale Störungen/Stimmungsschwankungen
 PMS	prämenstruelles Syndrom
 PMS	[IATA] Palmyra, Syria
 PMSL	pissing myself laughing
+PMST	[TZif] America/Miquelon
 PMT	photo-multiplier tube
 PMT	[IATA] Paramakatoi, Guyana
 PMU	power management unit
@@ -11333,6 +11773,18 @@ PSQ	[IATA] Essington (Philadelphia Seaplane Base), PA, USA
 PSR	[IATA] Pescara, Italy
 PSS	[IATA] Posadas, Argentina
 PST	[IATA] Preston, Cuba
+PST	[TZif] America/Dawson
+PST	[TZif] America/Ensenada
+PST	[TZif] America/Los_Angeles
+PST	[TZif] America/Santa_Isabel
+PST	[TZif] America/Tijuana
+PST	[TZif] America/Vancouver
+PST	[TZif] America/Whitehorse
+PST	[TZif] Canada/Pacific
+PST	[TZif] Canada/Yukon
+PST	[TZif] Mexico/BajaNorte
+PST	[TZif] US/Pacific
+PST	[TZif] US/Pacific-New
 PSTN	public switched telephone network
 PSU	power supply unit
 PSU	[IATA] Putussibau, Borneo, Indonesia
@@ -11477,6 +11929,8 @@ PYM	[IATA] Plymouth Municipal Airport, MA, USA
 PYN	[IATA] Payan, Colombia
 PYO	[IATA] Putumayo, Ecuador
 PYR	[IATA] Pyrgos, Greece
+PYST	[TZif] America/Asuncion (DST)
+PYT	[TZif] America/Asuncion
 PYV	[IATA] Yaviza, Panama
 PYX	[IATA] Pattaya, Thailand
 PZ	[Kfz:D] Landkreis Prenzlau
@@ -12423,6 +12877,7 @@ SAJ	[IATA] Sirajganj, Bangladesh
 SAK	Secure Access Key
 SAK	System Attention Key
 SAK	[IATA] Saudarkrokur, Iceland
+SAKT	[TZif] Asia/Sakhalin
 SAL	shift arithmetically left (same as SHL)
 SAL	system abstraction layer
 SAL	[IATA] San Salvador (Internacional), El Salvador
@@ -13305,6 +13760,7 @@ SRC	sample rate conversion
 SRC	[IATA] Searcy Municipal Airport, AR, USA
 SRD	[IATA] San Ramon, Bolivia
 SRE	[IATA] Sucre (Juana Azurduy de Padilla), Bolivia
+SRET	[TZif] Asia/Srednekolymsk
 SRG	[IATA] Semarang (Achmadyani), Indonesia
 SRGG	secure random number generator
 SRH	[IATA] Sarh, Chad
@@ -14518,6 +14974,7 @@ TZ	time zone
 TZ	[ccTLD] Tansania
 TZ	[ISO 3166] Tanzania
 TZA	[IATA] Belize City (Municipal Airstrip), Belize
+TZIF	timezone information – tzfile(5)
 TZM	[IATA] Tizimin, Mexico
 TZN	[IATA] South Andros (Congo Town), Bahamas
 TZV	[IATA] Tompkinsville (Monroe County), KY, USA
@@ -14787,6 +15244,7 @@ UT	[USA] Utah
 UTA	[IATA] Mutare, Zimbabwe
 UTB	[IATA] Muttaburra, Queensland, Australia
 UTC	coordinated universal time
+UTC	[TZif] Antarctica/Troll
 UTD	[IATA] Nutwood Downs, Northern Territory, Australia
 UTE	[IATA] Butterworth, South Africa
 UTF	Unicode Translation Form
@@ -14842,6 +15300,8 @@ UY	[ISO 3166] Uruguay
 UYF	[IATA] London (Madison County Airport), OH, USA
 UYL	[IATA] Nyala, Sudan
 UYN	[IATA] Yulin, China
+UYST	[TZif] America/Montevideo (DST)
+UYT	[TZif] America/Montevideo
 UZ	[ccTLD] Usbekistan
 UZ	[ISO 3166] Uzbekistan
 UZ	[Kfz] Usbekistan
@@ -15030,6 +15490,8 @@ VKW	[IATA] West Kavi, AK, USA
 VL	[Kfz:D] Landkreis Villingen
 VLA	[IATA] Vandalia Municipal Airport, IL, USA
 VLAN	virtual local area network
+VLAT	[TZif] Asia/Ust-Nera
+VLAT	[TZif] Asia/Vladivostok
 VLC	[IATA] Valencia, Spain
 VLD	[IATA] Valdosta Regional Airport, GA, USA
 VLG	[IATA] Villa Gesell, Argentina
@@ -15221,8 +15683,10 @@ WAR	[Kfz:D] Landkreis, ab 1969 Kreis Warburg
 WARUM	darum (cf. WHY)
 WAS	[IATA] All Airports around Washington, District of Columbia, USA
 WASG	Wahlalternative Arbeit und Soziale Gerechtigkeit (jetzt Linkspartei, mit PDF)
+WAST	[TZif] Africa/Windhoek (DST)
 WAT	[IATA] Waterford, Ireland
 WAT	[Kfz:D] kreisfreie Stadt Wattenscheid
+WAT	[TZif] Africa/Windhoek
 WAU	[IATA] Wauchope, New South Wales, Australia
 WAV	Waveform (RIFF)
 WAV	[IATA] Wave Hill, Northern Territory, Australia
@@ -15295,10 +15759,27 @@ WER	[Kfz:D] Landkreis Wertingen
 WES	[IATA] Weasua, Liberia
 WES	[Kfz:D] Kreis Rees
 WES	[Kfz:D] Kreis Wesel
+WEST	[TZif] Africa/Casablanca (DST)
+WEST	[TZif] Africa/El_Aaiun (DST)
+WEST	[TZif] Atlantic/Canary (DST)
+WEST	[TZif] Atlantic/Faeroe (DST)
+WEST	[TZif] Atlantic/Faroe (DST)
+WEST	[TZif] Atlantic/Madeira (DST)
+WEST	[TZif] Europe/Lisbon (DST)
+WEST	[TZif] Portugal (DST)
+WEST	[TZif] WET (DST)
 WET	(DRY violation)
 WET	we enjoy typing
 WET	write everything twice
 WET	[IATA] Wagethe, Indonesia
+WET	[TZif] Africa/Casablanca
+WET	[TZif] Africa/El_Aaiun
+WET	[TZif] Atlantic/Canary
+WET	[TZif] Atlantic/Faeroe
+WET	[TZif] Atlantic/Faroe
+WET	[TZif] Atlantic/Madeira
+WET	[TZif] Europe/Lisbon
+WET	[TZif] Portugal
 WEW	[IATA] Wee Waa, New South Wales, Australia
 WEX	[IATA] Wexford, Ireland
 WF	[ccTLD] Wallis und Futuna (auch .fr)
@@ -15327,7 +15808,9 @@ WGO	[IATA] Winchester, VA, USA
 WGP	[IATA] Waingapu, Indonesia
 WGQ	[IATA] Metlakatla, AK, USA
 WGS84	World Geodetic System of 1984 (refined GRS80 reference ellipsoid) used by GPS
+WGST	[TZif] America/Godthab (DST)
 WGT	[IATA] Wangaratta, Victoria, Australia
+WGT	[TZif] America/Godthab
 WGY	[IATA] Wagny, Gabon
 WH	write hit
 WHA	[IATA] West Houston, TX, USA
@@ -15534,6 +16017,7 @@ WSA	[IATA] Wasua, Papua New Guinea
 WSA	[Kfz] Demokratische Arabische Republik Sahara (nicht offiziell)
 WSB	[IATA] Steamboat Bay (Seaplane), AK, USA
 WSD	[IATA] White Sands (Condron AAF), NM, USA
+WSDT	[TZif] Pacific/Apia (DST)
 WSE	[IATA] Santa Cecilia, Ecuador
 WSF	[IATA] Sarichef, AK, USA
 WSF	[Kfz:D] Landkreis Weißenfels
@@ -15549,6 +16033,7 @@ WSP	[IATA] Wespam, Nicaragua
 WSR	[dental] Wurzelspitzenresektion
 WSR	[IATA] Wasior, Indonesia
 WSS	[IATA] New York (Seaplane Dock), NY, USA
+WSST	[TZif] Pacific/Apia
 WST	[IATA] Westerly, RI, USA
 WST	[Kfz:D] Landkreis Ammerland
 WSU	[IATA] Wasu, Papua New Guinea
@@ -15866,6 +16351,9 @@ YAI	[IATA] Chillan, Chile
 YAIM	Yet Another Installation Method
 YAJ	[IATA] Lyall Harbour, BC, Canada
 YAK	[IATA] Yakutat, AK, USA
+YAKT	[TZif] Asia/Chita
+YAKT	[TZif] Asia/Khandyga
+YAKT	[TZif] Asia/Yakutsk
 YAL	[IATA] Alert Bay, BC, Canada
 YALIMO	you are lame, in my opinion
 YAM	[IATA] Sault Ste Marie, Ontario, Canada
@@ -15974,6 +16462,7 @@ YEE	[IATA] Midland (Huronia Airport), ON, Canada
 YEG	[IATA] Edmonton International, Alberta, Canada
 YEI	[IATA] Ennadai Lake, NT, Canada
 YEK	[IATA] Eskimo Point (Arviat Airport), NT, Canada
+YEKT	[TZif] Asia/Yekaterinburg
 YEL	[IATA] Elliot Lake, ON, Canada
 YEM	[IATA] Manitowaning, ON, Canada
 YEM	[Kfz] Jemen
