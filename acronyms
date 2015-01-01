@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.447 2014/12/24 23:35:21 tg Exp $
+$MirOS: wtf/acronyms,v 1.448 2015/01/01 22:36:34 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.224 2014/05/25 21:49:29 dholland Exp $
 $NetBSD: acronyms.comp,v 1.145 2014/12/12 23:48:45 riz Exp $
@@ -9867,6 +9867,7 @@ N8	(gute) Nacht
 NA	Na (PSE#11) Natrium, Sodium | Alkalimetalle | alkali metals | metalla alcalica
 NA	see N/A
 NA	[ccTLD] Namibia
+NA	[gc] should be archived (needs archived), preferred: SBA
 NA	[ISO 3166] Namibia
 NA	[Kfz] Niederländische Antillen
 NAA	[IATA] Narrabri, New South Wales, Australia
@@ -15828,6 +15829,8 @@ WBS	[Kfz:D] Landkreis Worbis
 WBU	[IATA] Boulder, Colorado, United States of America
 WBW	[IATA] Wilkes-Barre (Wyoming Valley), Pennsylvania, United States of America
 WBX	[IATA] Yaquara, Colombia
+WC	water closet
+WC	word count
 WCA	[IATA] Castro, Chile
 WCDMA	see W-CDMA
 WCH	[IATA] Chaiten, Chile
