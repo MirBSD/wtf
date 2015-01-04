@@ -1,9 +1,9 @@
-$MirOS: wtf/acronyms,v 1.448 2015/01/01 22:36:34 tg Exp $
+$MirOS: wtf/acronyms,v 1.449 2015/01/04 21:18:12 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.224 2014/05/25 21:49:29 dholland Exp $
 $NetBSD: acronyms.comp,v 1.145 2014/12/12 23:48:45 riz Exp $
 $NetBSD: airport,v 1.58 2014/09/21 08:38:03 mbalmer Exp $
-$OpenBSD: airport,v 1.44 2014/12/07 22:54:05 daniel Exp $
+$OpenBSD: airport,v 1.46 2015/01/04 13:19:50 reyk Exp $
 0	[Kfz:D] Diplomatenkennzeichen oder Politiker
 1	one, on
 1080I	1920x540px (interlaced)
@@ -2672,7 +2672,7 @@ CK	[ISO 3166] Cook Islands
 CKA	[IATA] Cherokee (Kegelman Air Force), Oklahoma, United States of America
 CKB	[IATA] Clarksburg (Benedum Airport), West Virginia, United States of America
 CKB	[IATA] North Central West Virginia, Bridgeport, West Virginia, United States of America
-CKC	[IATA] Cherkasy, Ukraine
+CKC	[IATA] Cherkasy International, Ukraine
 CKD	[IATA] Crooked Creek Airport, Alaska, United States of America
 CKE	[IATA] Clear Lake, Alaska, United States of America
 CKF	[IATA] Crisp County-Cordele Airport, Georgia, United States of America
@@ -3157,7 +3157,7 @@ CW	[ISO 3166] Curacao
 CW	[Kfz:D] Landkreis Calw
 CWA	[IATA] Wausau (Central Wisconsin Airport), Wisconsin, United States of America
 CWB	[IATA] Curitiba (Afonso Pena), Paraná, Brazil
-CWC	[IATA] Chernivtsi (Chernovtsy), Ukraine
+CWC	[IATA] Chernivtsi International, Chernovtsy, Ukraine
 CWF	[IATA] Lake Charles (Chennault Airpark), Louisiana, United States of America
 CWG	[IATA] Callaway Gardens-Harris County, Georgia, United States of America
 CWI	[IATA] Clinton Municipal Airport, Iowa, United States of America
@@ -3669,7 +3669,7 @@ DOG	[IATA] Dongola, Sudan
 DOH	[IATA] Doha, Qatar
 DOI	[IATA] Doini, Papua New Guinea
 DOJ	[USA] Department of Justice
-DOK	[IATA] Donetsk, Ukraine
+DOK	[IATA] Donets'k Sergey Prokofiev International, Donets'k, Ukraine
 DOL	[IATA] Deauville (Saint Gatien), France
 DOM	document object model
 DOM	[IATA] Dominica (Melville Hall), Dominica
@@ -6235,7 +6235,7 @@ HRB	[IATA] Harbin, China
 HRE	[IATA] Harare, Zimbabwe
 HRG	[IATA] Hurghada, Egypt
 HRJ	[IATA] Mareeba, Queensland, Australia
-HRK	[IATA] Kharkiv (Kharkov),  Ukraine
+HRK	[IATA] Kharkiv International, Kharkov,  Ukraine
 HRL	[IATA] Harlingen, Texas, United States of America
 HRM	Human Resources Management
 HRM	[IATA] Hassi Rmel, Algeria
@@ -6538,7 +6538,7 @@ IEN	[IATA] Now Shahr, Iran
 IERS	International Earth Rotation and Reference Systems Service
 IESG	Internet Engineering Steering Group
 IETF	Internet Engineering Task Force
-IEV	[IATA] Kiev (Zhulyany), Ukraine
+IEV	[IATA] Kyiv Zhulyany International, Kiev, Ukraine
 IF	interface
 IF	intermediate frequency
 IFA	[IATA] Iowa Falls Municipal Airport, Iowa, United States of America
@@ -6549,7 +6549,7 @@ IFJ	[IATA] Isafjordur, Iceland
 IFL	[IATA] Innisfail, Queensland, Australia
 IFMEODSS	Initiative für mehr Events op d’r schäl Sick
 IFN	[IATA] Isfahan, Iran
-IFO	[IATA] Ivano Frankovsk, Ukraine
+IFO	[IATA] Ivano-Frankivs'k International, Ivano Frankovsk, Ukraine
 IFP	[IATA] Bullhead City, Arizona, United States of America
 IFS	internal field separator
 IGA	[IATA] Inagua (Matthew Town), Great Inagua, Bahamas
@@ -7332,7 +7332,7 @@ KBL	[IATA] Kabul, Afghanistan
 KBM	[IATA] Kabwum, Papua New Guinea
 KBN	[IATA] Kabinda, Zaire
 KBO	[IATA] Kabalo, Zaire
-KBP	[IATA] Kiev (Borispol), Ukraine
+KBP	[IATA] Kyiv Borispil International, Kiev, Ukraine
 KBQ	[IATA] Kasungu, Malawi
 KBR	[IATA] Kota Bharu, Malaysia
 KBS	[IATA] Bo, Sierra Leone
@@ -7452,7 +7452,7 @@ KH	[ISO 3166] Cambodia
 KH	[Kfz:D] Landkreis Bad Kreuznach
 KHA	[IATA] Khaneh, Iran
 KHC	[IATA] Kerch, Krym (Crimea), Ukraine / Russia
-KHE	[IATA] Kherson, Mykolayiv, Ukraine
+KHE	[IATA] Kherson International, Mykolayiv, Ukraine
 KHG	[IATA] Kashi, China
 KHH	[IATA] Kaohsiung International, Taiwan
 KHI	[IATA] Karachi, Pakistan
@@ -7835,7 +7835,7 @@ KWA	[IATA] Kwajalein (Bucholz AAF), Marshall Islands
 KWD	[IATA] Kawadjia, Central African Republic
 KWE	[IATA] Guiyang, China
 KWF	[IATA] Waterfall Seaplane Base, Alaska, United States of America
-KWG	[IATA] Krivoy Rog, Dnipropetrovs'k, Ukraine
+KWG	[IATA] Kryvyi Rih International (Krivoy Rog), Dnipropetrovs'k, Ukraine
 KWH	[IATA] Khwahan, Afghanistan
 KWI	[IATA] Kuwait International airport, Kuwait
 KWIM	know what I mean?
@@ -8587,7 +8587,7 @@ LWM	low-water mark
 LWM	[IATA] Lawrence Municipal Airport, Massachusetts, United States of America
 LWN	Linux Weekly News
 LWN	[IATA] Gyumri (Leninakan), Armenia
-LWO	[IATA] Lviv, Ukraine
+LWO	[IATA] Lviv Danylo Halytskyi International (Snilow), Lviv, Ukraine
 LWP	light-weight process
 LWR	[IATA] Leeuwarden, Netherlands
 LWS	[IATA] Lewiston-Nez Perce County Airport, Idaho, United States of America
@@ -9448,7 +9448,7 @@ MPT	[IATA] Maliana, Indonesia
 MPU	microprocessor unit
 MPU	[IATA] Mapua, Papua New Guinea
 MPV	[IATA] Barre/Montpelier (Edward F. Knapp), Vermont, United States of America
-MPW	[IATA] Mariupol (Zhdanov), Donets'k, Ukraine
+MPW	[IATA] Mariupol International (Zhdanov), Donets'k, Ukraine
 MPX	[IATA] Miyanmin, Papua New Guinea
 MPY	[IATA] Maripasoula, Suriname
 MPZ	[IATA] Mount Pleasant Municipal Airport, Iowa, United States of America
@@ -10179,7 +10179,7 @@ NLO	[IATA] Kinshasa (N'Dolo), Zaire
 NLP	[IATA] Nelspruit, South Africa
 NLS	native language support
 NLS	[IATA] Nicholson, Western Australia, Australia
-NLV	[IATA] Mykolayiv (Nikolayev), Ukraine
+NLV	[IATA] Mykolayiv International, Nikolayev, Ukraine
 NM	never mind
 NM	New Maintainer
 NM	[gc] needs maintenance
@@ -10566,7 +10566,7 @@ ODL	[IATA] Cordillo Downs, South Australia, Australia
 ODM	[IATA] Oakland (Garrett County Airport), Maryland, United States of America
 ODN	[IATA] Long Seridan, Sarawak, Malaysia
 ODR	[IATA] Ord River, Western Australia, Australia
-ODS	[IATA] Odessa (Tsentrainy), Ukraine
+ODS	[IATA] Odessa (Tsentrainy) International, Ukraine
 ODT	on-die termination
 ODW	[IATA] Oak Harbor Air Park, Washington, United States of America
 ODX	[IATA] Ord (Evelyn Sharp Field), Nebraska, United States of America
@@ -10971,7 +10971,7 @@ OYS	[IATA] Yosemite Park, California, United States of America
 OZ	[Kfz:D] Landkreis Oschatz
 OZA	[IATA] Ozona Municipal Airport, Texas, United States of America
 OZC	[IATA] Ozamis City, Philippines
-OZH	[IATA] Zaporizhzhya, Ukraine
+OZH	[IATA] Zaporizhya International, Zaporizhya, Ukraine
 OZP	[IATA] Moron de la Frontera (Air Base), Spain
 OZR	[IATA] Fort Rucker (Ozark), Alabama, United States of America
 OZZ	[IATA] Ouarzazate, Morocco
@@ -11668,7 +11668,7 @@ PRC	[IATA] Prescott (Ernest Love Field), Arizona, United States of America
 PRD	[IATA] Pardoo, Western Australia, Australia
 PRE	[IATA] Pore, Colombia
 PRF	[IATA] Port Johnson, Alaska, United States of America
-PRG	[IATA] Prague [Ruzyne] (Vaclav Havel airport Prague), Czech Republic
+PRG	[IATA] Vaclav Havel Airport (Ruzyne), Prague, Czech Republic
 PRH	[IATA] Phrae, Thailand
 PRI	[IATA] Praslin Island, Seychelles
 PRI	[Kfz] Puerto Rico
@@ -12900,7 +12900,7 @@ RWI	[IATA] Rocky Mount-Wilson Airport, North Carolina, United States of America
 RWL	[IATA] Rawlins Municipal Airport, Wyoming, United States of America
 RWL	[Kfz:D] Nordrhein-Westfalen, Landesregierung und Landtag
 RWM	read-write memory
-RWN	[IATA] Rovirio, Rivne, Ukraine
+RWN	[IATA] Rivne International, Rovirio, Ukraine
 RWP	[IATA] Rawalpindi, Pakistan
 RX	receive
 RX	receiver
@@ -14712,7 +14712,7 @@ TMNT	Teenage Mutant Ninja Turtles
 TMO	timeout
 TMO	[IATA] Tumeremo, Venezuela
 TMON	[Oracle] Transport Monitor
-TMP	[IATA] Tampere (Pirkkala), Finland
+TMP	[IATA] Tampere-Pirkkala Airport, Tampere, Finland
 TMQ	[IATA] Tambao, Burkina Faso
 TMR	[IATA] Tamanrasset, Algeria
 TMS	[IATA] Sao Tome International, Sao Tome & Principe
@@ -14742,7 +14742,7 @@ TNH	[IATA] Tonghua, China
 TNI	[IATA] Satna, India
 TNJ	[IATA] Tanjung Pinang (Kijang), Indonesia
 TNK	[IATA] Tununak Airport, Alaska, United States of America
-TNL	[IATA] Ternopol, Ukraine
+TNL	[IATA] Ternopil International, Ternopol, Ukraine
 TNLN	[gc] took nothing, left nothing (also: N/T)
 TNLNSL	[gc] took nothing, left nothing, signed log (also: N/T)
 TNN	[IATA] Tainan, Taiwan
@@ -15148,7 +15148,7 @@ UDD	[IATA] Palm Springs (Bermuda Dunes), California, United States of America
 UDDI	Universal Description, Discovery, and Integration protocol
 UDI	unilateral declaration of independence
 UDI	[IATA] Uberlandia, Minas Gerais, Brazil
-UDJ	[IATA] Uzhgorod (Transcarpathia), Ukraine
+UDJ	[IATA] Uzhgorod International, Zakarpattia (Transcarpathia), Ukraine
 UDMA	Ultra-DMA
 UDN	[IATA] Udine (Rivolto), Italy
 UDO	ultra density optical (storage)
@@ -15577,7 +15577,7 @@ VIK	[IATA] Kavik, Alaska, United States of America
 VIKTOR	V (deutsches Funkalphabet)
 VIL	[IATA] Dakhla (Villa Cisneros), Western Sahara
 VIM	it’s e̲d̲itor, *not* v̲i̲itor! (and vim’s worse.) don’t use it!
-VIN	[IATA] Vinnytsya, Ukraine
+VIN	[IATA] Vinnytsia Havryshivka International, Vinnytsia, Ukraine
 VIP	very important person
 VIPT	virtually indexed, physically tagged
 VIQ	[IATA] Viqueque, Indonesia
@@ -15694,7 +15694,7 @@ VS	[Kfz:D] Landkreis Villingen-Schwenningen
 VSA	[IATA] Villahermosa (Carlos Rovirosa), Mexico
 VSE	[IATA] Viseu, Portugal
 VSF	[IATA] Springfield (Hartness State Airport), Vermont, United States of America
-VSG	[IATA] Luhansk, Ukraine
+VSG	[IATA] Luhans'k International, Luhans'k, Ukraine
 VSO	[IATA] Phuoclong, Vietnam
 VSRE	very short reply expected
 VST	Vermittlungsstelle
