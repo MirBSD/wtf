@@ -1,9 +1,9 @@
-$MirOS: wtf/acronyms,v 1.449 2015/01/04 21:18:12 tg Exp $
+$MirOS: wtf/acronyms,v 1.450 2015/01/09 23:22:42 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.224 2014/05/25 21:49:29 dholland Exp $
 $NetBSD: acronyms.comp,v 1.145 2014/12/12 23:48:45 riz Exp $
 $NetBSD: airport,v 1.58 2014/09/21 08:38:03 mbalmer Exp $
-$OpenBSD: airport,v 1.46 2015/01/04 13:19:50 reyk Exp $
+$OpenBSD: airport,v 1.47 2015/01/07 16:08:50 naddy Exp $
 0	[Kfz:D] Diplomatenkennzeichen oder Politiker
 1	one, on
 1080I	1920x540px (interlaced)
@@ -1286,7 +1286,7 @@ BED	[Kfz:D] Landkreis Brand-Erbisdorf
 BEDO	burst extended data output
 BEE	[IATA] Beagle Bay, Western Australia, Australia
 BEF	[IATA] Bluefields, Nicaragua
-BEG	[IATA] Belgrade International Airport, Serbia
+BEG	[IATA] Belgrade International Airport (Nikola Tesla), Belgrade, Serbia
 BEH	[IATA] Ross Field, Benton Harbor, Michigan, United States of America
 BEH	[IATA] Southwest Michigan Regional, Benton Harbor, Michigan, United States of America
 BEI	[IATA] Beica, Ethiopia
@@ -3373,6 +3373,7 @@ DCU	[IATA] Decatur (Pryor Field), Alabama, United States of America
 DCY	[IATA] Washington (Daviess County Airport), Indiana, United States of America
 DD	Debian Developer
 DD	define dword (32 bit, double word)
+DD	delta debugging
 DD	Doctor of Divinity
 DD	[ccTLD] Deutsche Demokratische Republik
 DD	[Kfz:D] Landkreis Dresden
@@ -6691,7 +6692,7 @@ INFO	[uTLD] information
 ING	[altTLD] ?
 ING	[IATA] Ago, Argentina
 INH	[IATA] Inhambane, Mozambique
-INI	[IATA] Nis, Yugoslavia
+INI	[IATA] Constantine the Great, Nis, Serbia, Yugoslavia
 INJ	[IATA] Injune, Queensland, Australia
 INK	[IATA] Wink (Winkler County Airport), Texas, United States of America
 INL	[IATA] Falls International Airport, Minnesota, United States of America
@@ -14491,7 +14492,7 @@ TG	[Kfz] Togo (nicht offiziell)
 TGA	Truevision TGA (TARGA) bitmap
 TGA	[IATA] Tengah (RAF Station), Singapore
 TGC	[IATA] Trenton (Gibson County Airport), Tennessee, United States of America
-TGD	[IATA] Pogdorica (Titograd), Yugoslavia
+TGD	[IATA] Pogdorica (Titograd, Golubovci), Montenegro, Yugoslavia
 TGE	[IATA] Tuskegee (Moton Field), Alabama, United States of America
 TGF	[IATA] Tignes, France
 TGG	[IATA] Kuala Terengganu, Malaysia
@@ -14588,7 +14589,7 @@ TIS	[IATA] Thursday Island, Queensland, Australia
 TISA	Trade in Service Agreement
 TITS	try it to see
 TIU	[IATA] Timaru, New Zealand
-TIV	[IATA] Tivat, Yugoslavia
+TIV	[IATA] Tivat, Montenegro, Yugoslavia
 TIW	[IATA] Tacoma (Narrows Airport), Washington, United States of America
 TIX	[IATA] Titusville (Space Center), Florida, United States of America
 TIY	[IATA] Tidjikja, Mauritania
