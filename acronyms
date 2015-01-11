@@ -1,9 +1,9 @@
-$MirOS: wtf/acronyms,v 1.450 2015/01/09 23:22:42 tg Exp $
+$MirOS: wtf/acronyms,v 1.451 2015/01/11 22:51:38 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.224 2014/05/25 21:49:29 dholland Exp $
 $NetBSD: acronyms.comp,v 1.145 2014/12/12 23:48:45 riz Exp $
 $NetBSD: airport,v 1.58 2014/09/21 08:38:03 mbalmer Exp $
-$OpenBSD: airport,v 1.47 2015/01/07 16:08:50 naddy Exp $
+$OpenBSD: airport,v 1.48 2015/01/11 12:17:44 kirby Exp $
 0	[Kfz:D] Diplomatenkennzeichen oder Politiker
 1	one, on
 1080I	1920x540px (interlaced)
@@ -83,7 +83,7 @@ AAN	[IATA] Al Ain, United Arab Emirates
 AAO	am angegebenen Orte (cf. ibid.)
 AAO	[IATA] Anaco, Venezuela
 AAP	[IATA] Houston (Andrau Airpark), Texas, United States of America
-AAQ	[IATA] Anapa, Russia
+AAQ	[IATA] Vityazevo, Anapa, Russia
 AAR	[IATA] Tirstrup, Aarhus, Denmark
 AAS	[IATA] Apalapsili, New Guinea, Indonesia
 AAT	average access time
@@ -3940,6 +3940,7 @@ EAU	[IATA] Eau Claire (Chippewa Valley), Wisconsin, United States of America
 EAU	[Kfz] Uganda
 EAUTH	(#80) Authentication error
 EAZ	[Kfz] Sansibar (veraltet)
+EB	eastbound
 EB	[Kfz:D] Landkreis Eilenburg
 EBA	[IATA] Elba Island, Italy
 EBADF	(#9) Bad file descriptor
@@ -5027,7 +5028,7 @@ FRR	false rejection rate
 FRR	[IATA] Front Royal (Warren County), Virginia, United States of America
 FRS	[IATA] Flores, Guatemala
 FRU	field replaceable unit
-FRU	[IATA] Bishkek (Frunze), Chuy, Kyrgyzstan
+FRU	[IATA] Manas, Bishkek (Frunze), Chuy, Kyrgyzstan
 FRW	[IATA] Francistown, Botswana
 FRW	[Kfz:D] Landkreis Bad Freienwalde
 FRY	[IATA] Fryeburg (Eastern Slopes), Maine, United States of America
@@ -7427,7 +7428,7 @@ KGB	Instant Version Control Informant bots
 KGB	[IATA] Konge, Papua New Guinea
 KGB	Комитет государственной безопасности (Committee for State Security of the Soviet Union), now ФСБ/FSB
 KGC	[IATA] Kingscote (Kangaroo Island), Sth Australia
-KGD	[IATA] Kaliningrad, Russia
+KGD	[IATA] Khrabrovo, Kaliningrad, Russia
 KGF	[IATA] Waraghandy (Karaganda), Kazakhstan
 KGG	[IATA] Kedougou, Senegal
 KGH	[IATA] Yongai, Papua New Guinea
@@ -7438,6 +7439,7 @@ KGL	[IATA] Kigali (Kanombe), Rwanda
 KGM	[IATA] Kumgim, Papua New Guinea
 KGN	[IATA] Kasongo Lunda, Zaire
 KGO	[IATA] Kirovograd, Ukraine
+KGP	[IATA] Kogalym, Russia
 KGR	[IATA] Kulgera, Northern Territory, Australia
 KGS	[IATA] Kos, Greece
 KGT	[IATA] Kangamba, Angola
@@ -7516,7 +7518,7 @@ KIW	[IATA] Kitwe, Zambia
 KIX	[IATA] Osaka, Japan
 KIY	[IATA] Kilwa, Tanzania
 KIZ	[IATA] Kikinonda, Papua New Guinea
-KJA	[IATA] Krasnoyarsk, Russia
+KJA	[IATA] Yemelyanovo, Krasnoyarsk, Russia
 KJK	[IATA] Kortrijk-Wevelgem, Belgium
 KJP	Kinder- und Jugendpsychatrie
 KJP	[IATA] Kerama, Japan
@@ -7789,7 +7791,7 @@ KUB	[IATA] Kuala Belait, Brunei
 KUC	[IATA] Kuria, Kiribati
 KUD	[IATA] Kudat, Sabah, Malaysia
 KUE	[IATA] Kukundu, Solomon Islands
-KUF	[IATA] Samara (Kurumoch), Russia
+KUF	[IATA] Khurba (Samara, Kurumoch), Komsomolsk-on-Amur, Russia
 KUG	[IATA] Kubin Island, Australia
 KUH	[IATA] Kushiro, Japan
 KUI	[IATA] Kawau Island, New Zealand
@@ -7859,7 +7861,7 @@ KWZ	[IATA] Kolwezi, Zaire
 KXA	[IATA] Kasaan Seaplane Base, Alaska, United States of America
 KXE	[IATA] Klerksdorp, South Africa
 KXF	[IATA] Koro, Fiji
-KXK	[IATA] Komsomolsk Na Amure, Khabarovsk, Russia
+KXK	[IATA] Khurba, Komsomolsk-on-Amur (Komsomolsk Na Amure), Khabarovsk, Russia
 KXR	[IATA] Karoola, Papua New Guinea
 KY	[ccTLD] Kaimaninseln
 KY	[ISO 3166] Cayman Islands
@@ -8867,7 +8869,7 @@ MCT	[IATA] Muscat (Seeb), Oman
 MCU	[IATA] Montlucon, France
 MCV	[IATA] McArthur River, Northern Territory, Australia
 MCW	[IATA] Mason City Municipal Airport, Iowa, United States of America
-MCX	[IATA] Makhachkala, Dagestan, Russia
+MCX	[IATA] Uytash, Makhachkala, Dagestan, Russia
 MCY	[IATA] Maroochydore, Queensland, Australia
 MCZ	[IATA] Maceio, Alagoas, Brazil
 MD	Doctor of Medicine
@@ -9510,7 +9512,7 @@ MRT	[IATA] Mordak, Australia
 MRTD	machine-readable travel documents
 MRU	most recently used
 MRU	[IATA] Plaisance, Mauritius (Sir Seewoosagur Ramgoolam), Mauritius
-MRV	[IATA] Mineralniye Vody, Stavropol, Russia
+MRV	[IATA] Mineralnye Vody, Stavropol, Russia
 MRW	[IATA] Morioka, Japan
 MRX	[IATA] Margarita Island, Venezuela
 MRY	[IATA] Monterey, California, United States of America
@@ -9917,6 +9919,10 @@ NAW	[IATA] Narathiwat, Thailand
 NAX	[IATA] Ewa (Barbers Point Naval Air Station), Hawaii, United States of America
 NAY	[IATA] Beijing (Nan Yuan Air Base), China
 NB	Nb (PSE#41) Niobium, Niob | Übergangsmetalle | transition metals | metalla transitionis
+NB	Nebenbemerkung
+NB	northbound
+NB	not bad
+NB	nota bene
 NB	[CDN] New Brunswick
 NB	[Kfz:D] Landkreis Neubrandenburg
 NBB	[IATA] Barrancominas, Colombia
@@ -10018,7 +10024,7 @@ NEL	[IATA] Lakehurst (Maxfield Field), New Jersey, United States of America
 NEN	[IATA] Jacksonville (Whitehouse Naval Field), Florida, United States of America
 NEN	[Kfz:D] Landkreis Neunburg vorm Wald
 NEP	[Kfz] Nepal (nicht offiziell)
-NER	[IATA] Neryungri, Yakutia-Sakha, Russia
+NER	[IATA] Chulman, Neryungri, Yakutia-Sakha, Russia
 NERD	non emotionally responding dude
 NES	[IATA] New York (Skyports Seaplane Base), New York, United States of America
 NES	[Kfz:D] Landkreis Bad Neustadt an der Saale
@@ -12714,7 +12720,7 @@ ROTS	[SW] Episode III: Revenge of the Sith
 ROTW	rest of the world
 ROU	[IATA] Ruse, Bulgaria
 ROU	[Kfz] Uruguay
-ROV	[IATA] Rostov-na-Donu, Russia
+ROV	[IATA] Rostov-on-Don (Rostov-na-Donu), Russia
 ROW	[IATA] Roswell (Industrial Air Center), New Mexico, United States of America
 ROW	[Kfz:D] Landkreis Rotenburg (Wümme)
 ROX	[IATA] Roseau Municipal Airport, Minnesota, United States of America
@@ -13051,6 +13057,7 @@ SAY	[IATA] Siena, Italy
 SAZ	[IATA] Sasstown, Liberia
 SB	Sb ♁ (PSE#51) Stibium, Antimon, Antimony | Stickstoff/Phosphor-Gruppe | pnictogens
 SB	sound blaster
+SB	southbound
 SB	[ccTLD] Salomonen
 SB	[ISO 3166] Solomon Islands
 SB	[Kfz:D] Regionalverband Saarbrücken ohne die Stadt Völklingen
@@ -14117,7 +14124,7 @@ SVU	[IATA] Savusavu, Fiji
 SVV	[IATA] San Salvador, Venezuela
 SVW	[IATA] Sparrevohn LRRS, Alaska, United States of America
 SVWS-NRW	[Schule DE] Obligatorische Schulverwaltungssoftware des Landes Nordrhein-Westfalen
-SVX	[IATA] Ekaterinburg, Sverdlovsk, Russia
+SVX	[IATA] Koltsovo, Ekaterinburg, Sverdlovsk, Russia
 SVY	[IATA] Savo, Solomon Islands
 SVZ	[IATA] San Antonio, Venezuela
 SW	schwarzweiß
@@ -14602,7 +14609,7 @@ TJB	[IATA] Tanjung (Balai), Indonesia
 TJG	[IATA] Tanjung, Indonesia
 TJI	[IATA] Trujillo, Honduras
 TJM	that's just me
-TJM	[IATA] Tyumen (Plekhanova), Russia
+TJM	[IATA] Roshchino, Tyumen (Plekhanova), Russia
 TJQ	[IATA] Tanjung Pandan (Buluh Tumbang), Indonesia
 TJS	[IATA] Tanjung Selor, Borneo, Indonesia
 TJV	[IATA] Thanjavur, India
@@ -14900,6 +14907,7 @@ TSC	[IATA] Taisha, Ecuador
 TSD	time stamp disable
 TSD	[IATA] Tshipise, South Africa
 TSE	[IATA] Aqmola (Tselinograd), Kazakhstan
+TSE	[IATA] Astana, Kazakhstan
 TSF	[IATA] Treviso (S. Angelo), Italy
 TSG	[IATA] Tanacross Airport, Alaska, United States of America
 TSH	[IATA] Tshikapa, Zaire
@@ -15726,7 +15734,7 @@ VVC	[IATA] Villavicencio (La Vanguardia), Colombia
 VVG	Verbesserungsvorschlag
 VVI	[IATA] Santa Cruz (Viru Viru International), Bolivia
 VVK	[IATA] Vastervik, Sweden
-VVO	[IATA] Vladivostok, Primor'ye, Russia
+VVO	[IATA] Knevichi, Vladivostok, Primor'ye, Russia
 VVV	veni, vidi, vici
 VVV	veni, vidi, vodka (Ich kam, sah und soff.)
 VVV	Voilà, Vivement Vendredi
@@ -15813,6 +15821,7 @@ WAX	[IATA] Warroad (Swede Carlson Field), Minnesota, United States of America
 WAY	[IATA] Waynesburg (Greene County), Pennsylvania, United States of America
 WAZ	[IATA] Warwick, Queensland, Australia
 WB	welcome back
+WB	westbound
 WB	[Kfz:D] Landkreis Wittenberg
 WB	[Kfz] Westjordanland (nicht offiziell)
 WBA	[IATA] Warraber Island, Queensland, Australia
