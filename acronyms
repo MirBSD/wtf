@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.451 2015/01/11 22:51:38 tg Exp $
+$MirOS: wtf/acronyms,v 1.452 2015/01/23 19:18:41 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.224 2014/05/25 21:49:29 dholland Exp $
 $NetBSD: acronyms.comp,v 1.145 2014/12/12 23:48:45 riz Exp $
@@ -369,6 +369,7 @@ AGQ	[IATA] Agrinion, Greece
 AGR	[IATA] Agra, India
 AGS	[IATA] Augusta Regional/Bush Field, Augusta, Georgia, United States of America
 AGT	[IATA] Ciudad del Este, Paraguay
+AGTCTTWW	all good things come to those who wait
 AGU	address generation unit
 AGU	[IATA] Aguascalientes, Mexico
 AGV	[IATA] Acarigua, Venezuela
@@ -590,6 +591,7 @@ AN	[ccTLD] Niederländische Antillen (2010 aufgelöst, die Inseln erhalten eigen
 AN	[Kfz:D] kreisfreie Stadt und Landkreis Ansbach
 ANA	[IATA] Anaheim/Disneyland, California, United States of America
 ANA	[Kfz:D] Landkreis Annaberg
+ANAIS	architecture not allowed in source
 ANB	[IATA] Anniston Metropolitan Airport, Alabama, United States of America
 ANBU	[Naruto] Ansatsu Senjutsu Tokushu Butai (暗殺戦術特殊部隊, Special Assassination and Tactical Squad)
 ANC	[IATA] Ted Stevens Anchorage International, Alaska, United States of America
@@ -3278,6 +3280,7 @@ DAH	[IATA] Dathina, Yemen
 DAH	[Kfz:D] Landkreis Dachau
 DAI	[IATA] Darjeeling, India
 DAJ	[IATA] Dauan Island, Queensland, Australia
+DAK	Debian Archive Kit
 DAL	[IATA] Dallas Love Field, Texas, United States of America
 DAM	Debian Account Managers
 DAM	[IATA] Damascus, Syria
@@ -6879,6 +6882,7 @@ ITA	Intent to Adopt
 ITA	[IATA] Itacoiatiara, Amazonas, Brazil
 ITB	Intel Turbo Boost
 ITB	[IATA] Itaituba, Pará, Brazil
+ITCS	Intermodales Transport- und Steuerungssystem
 ITE	[IATA] Itubera, Bahia, Brazil
 ITH	[IATA] Ithaca Tompkins County, New York, United States of America
 ITI	[IATA] Itambacuri, Minas Gerais, Brazil
@@ -9939,6 +9943,7 @@ NBL	[IATA] San Blas, Panama
 NBO	[IATA] Nairobi (Jomo Kenyatta), Kenya
 NBP	network boot program
 NBR	[IATA] Nambour, Queensland, Australia
+NBS	not built by source
 NBSD	NetBSD®
 NBSP	U+00A0 NO-BREAK SPACE
 NBU	[IATA] Glenview (Naval Air Station), Illinois, United States of America
@@ -10529,6 +10534,7 @@ OBN	[IATA] Oban, United Kingdom
 OBO	off by one
 OBO	[IATA] Obihiro, Japan
 OBOE	off by one error
+OBS	obsolete
 OBS	OpenSuSE Buildservice
 OBS	[IATA] Aubenas, France
 OBSD	OpenBSD
@@ -12614,6 +12620,7 @@ RLT	[IATA] Arlit, Niger
 RLU	[IATA] Bornite, Alaska, United States of America
 RM	read miss
 RM	Release Managers
+RM	removal request
 RM	[Kfz:D] Landkreis Röbel/Müritz
 RM	[Kfz] Madagaskar
 RM	[Kfz] Rumänien (veraltet)
@@ -12701,6 +12708,7 @@ ROM	[IATA] All Airports around Roma, Italy
 ROMEO	R (International Radiotelephony Spelling Alphabet)
 RON	[IATA] Rondon, Colombia
 ROO	[IATA] Rondonopolis, Mato Grosso, Brazil
+ROP	Request by Porters
 ROP	return-oriented programming
 ROP	[IATA] Rota International Airport, Mariana Islands
 ROQA	Request of QA
@@ -12708,6 +12716,8 @@ ROR	rotate right
 ROR	[IATA] Koror (Airai), Palau
 ROS	[IATA] Rosario, Argentina
 ROS	[Kfz:D] Landkreis Rostock
+ROSRM	Request of Stable Release Manager
+ROST	Request of Security Team
 ROT	[IATA] Rotorua, New Zealand
 ROT	[Kfz:D] Landkreis Rothenburg ob der Tauber
 ROTFL	Respekt, Originalposting tatsächlich fein lustig
