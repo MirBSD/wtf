@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.452 2015/01/23 19:18:41 tg Exp $
+$MirOS: wtf/acronyms,v 1.453 2015/01/25 15:23:45 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.224 2014/05/25 21:49:29 dholland Exp $
 $NetBSD: acronyms.comp,v 1.145 2014/12/12 23:48:45 riz Exp $
@@ -8643,6 +8643,7 @@ LÜN	[Kfz:D] kreisfreie Stadt Lünen
 M	[Kfz:D] kreisfreie Stadt und Landkreis München
 M	[Kfz] Israel (veraltet)
 M	[Kfz] Malta
+M-A	Multi-Arch (Debian)
 M000	[Oracle] MMON Slave Process
 M8	mate
 MA	Magister Artium
