@@ -1,5 +1,5 @@
 #!/bin/mksh
-# $MirOS: wtf/wtf,v 1.24 2014/12/07 14:20:26 tg Exp $
+# $MirOS: wtf/wtf,v 1.25 2015/01/29 16:15:29 tg Exp $
 # $NetBSD: wtf,v 1.7 2000/11/21 00:18:52 soren Exp $
 #-
 # Copyright © 2002, 2003, 2004, 2006, 2007, 2008, 2010, 2011,
@@ -23,7 +23,7 @@
 
 acronyms=${ACRONYMDB:-/usr/share/misc/acronyms}
 
-function usage {
+usage() {
 	print -u2 "usage: ${0##*/} [±adPpw] [-f dbfile] [is[t]] <acronym> [...]"
 	exit 1
 }
