@@ -1,7 +1,7 @@
-$MirOS: wtf/acronyms,v 1.453 2015/01/25 15:23:45 tg Exp $
+$MirOS: wtf/acronyms,v 1.454 2015/01/29 18:42:08 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.224 2014/05/25 21:49:29 dholland Exp $
-$NetBSD: acronyms.comp,v 1.145 2014/12/12 23:48:45 riz Exp $
+$NetBSD: acronyms.comp,v 1.146 2015/01/29 06:53:28 plunky Exp $
 $NetBSD: airport,v 1.58 2014/09/21 08:38:03 mbalmer Exp $
 $OpenBSD: airport,v 1.48 2015/01/11 12:17:44 kirby Exp $
 0	[Kfz:D] Diplomatenkennzeichen oder Politiker
@@ -193,6 +193,7 @@ ACST	[TZif] Australia/Adelaide
 ACST	[TZif] Australia/Broken_Hill
 ACST	[TZif] Australia/South
 ACST	[TZif] Australia/Yancowinna
+ACT	Aktivitätsdiagramm
 ACT	[AUS] Australian Capital Territory
 ACT	[IATA] Waco Regional Airport, Texas, United States of America
 ACT	[TZif] America/Eirunepe
@@ -328,6 +329,7 @@ AFK	auffem Klo
 AFK	away from keyboard
 AFL	[IATA] Alta Floresta, Brazil
 AFN	[IATA] Jaffrey Municipal Airport, New Hampshire, United States of America
+AFO	Anforderung
 AFO	[IATA] Afton Municipal Airport, Wyoming, United States of America
 AFR	[IATA] Afore, Papua New Guinea
 AFS	Andrew File System
@@ -2744,6 +2746,7 @@ CLX	[IATA] Clorinda, Argentina
 CLY	[IATA] Calvi (Sainte Catherine), Corsica, France
 CLZ	[IATA] Calabozo, Venezuela
 CLZ	[Kfz:D] Landkreis Zellerfeld
+CM	Client Module
 CM	Cm (PSE#96) Curium | Uran-Metalle (Aktiniden) | actinides | actinida
 CM	configuration management
 CM	[ccTLD] Kamerun
@@ -2857,6 +2860,7 @@ COM	[IATA] Coleman Municipal Airport, Texas, United States of America
 COM	[Kfz] Komoren
 COM	[uTLD] commercial (Firmen)
 COMA	cache-only memory architecture
+COMP	Komponentendiagramm
 CON	[IATA] Concord Municipal Airport, New Hampshire, United States of America
 COO	Chief Operating Officer
 COO	[IATA] Cotonou (Cadjehoun), Benin
@@ -3504,6 +3508,7 @@ DIC	[IATA] Dili, Dem. Rep. of Congo
 DIE	[IATA] Antsiranana (Arrachart), Madagascar
 DIFFICULTY	Die Inkompetenten Forderer und Förderer Immaterieller Clubs Und Langsam Trottender Yetis
 DIFS	distributed inter-frame space
+DIGS	digitale Signatur
 DIJ	[IATA] Dijon (Longvic), France
 DIK	[IATA] Dickinson Municipal Airport, North Dakota, United States of America
 DIL	[IATA] Dili (Komoro), East Timor
@@ -5883,6 +5888,7 @@ HAZ	[IATA] Hatzfeldthaven, Papua New Guinea
 HB	[D] Bremen
 HB	[Kfz:D] Hansestadt Bremen und kreisfreie Stadt Bremerhaven
 HB	[Kfz:D] Senat und Bürgerschaft der Hansestadt Bremen
+HBA	Heilberufsausweis
 HBA	host bus adapter
 HBA	[IATA] Hobart, Tasmania, [88]Australia
 HBB	[IATA] Hobbs Industrial Airpark, New Mexico, United States of America
@@ -7339,6 +7345,7 @@ KBM	[IATA] Kabwum, Papua New Guinea
 KBN	[IATA] Kabinda, Zaire
 KBO	[IATA] Kabalo, Zaire
 KBP	[IATA] Kyiv Borispil International, Kiev, Ukraine
+KBPS	Kilobyte pro Sekunde
 KBQ	[IATA] Kasungu, Malawi
 KBR	[IATA] Kota Bharu, Malaysia
 KBS	[IATA] Bo, Sierra Leone
@@ -7502,6 +7509,8 @@ KIP	[IATA] Wichita Falls (Kickapoo Airpark), Texas, United States of America
 KIQ	[IATA] Kira, Papua New Guinea
 KIR	[IATA] Killarney, County Kerry, Ireland
 KIR	[Kfz] Kiribati
+KIS	Krankenhausinformationssystem
+KIS	Kundeninformationssystem
 KIS	[IATA] Kisumu, Kenya
 KISS	keep it safe and simple
 KISS	keep it safe and sound
@@ -7661,6 +7670,8 @@ KOJ	[IATA] Kagoshima, Kyushu, Japan
 KOK	[IATA] Kokkola (Pietarsaari), Finland
 KOL	[IATA] Koumala, Central African Republic
 KOM	[IATA] Komo-Manda, Papua New Guinea
+KOM-LE	adressierte Kommunikation der Leistungserbringer
+KOM-LE CM	KOM-LE Clientmodul
 KON	[IATA] Kontum, Vietnam
 KOO	[IATA] Kongolo, Zaire
 KOP	[IATA] Nakhon Phanom, Thailand
@@ -8058,6 +8069,7 @@ LDVM	Lies das verdammte Manual
 LDW	[IATA] Lansdowne Station, W. Australia, Australia
 LDX	[IATA] St. Laurent du Maroni, French Guyana
 LDY	[IATA] Londonderry (Eglinton Airport), N. Ireland
+LE	Leistungserbringer
 LE	logical extent
 LE	[Kfz:D] Landkreis Lemgo
 LEA	load effective address
@@ -8148,6 +8160,7 @@ LGWR	[Oracle] (Redo) Log Writer Process
 LGX	[IATA] Lugh Ganane, Somalia
 LGY	[IATA] Lagunillas, Venezuela
 LGZ	[IATA] Leguizamo, Colombia
+LH	Lastenheft
 LH	[Kfz:D] Kreis Lüdinghausen
 LHA	LHarc archive (traditional archive compressor)
 LHA	[IATA] Lahr, Germany
@@ -11402,6 +11415,8 @@ PKG	[IATA] Pangkor Island, Malaysia
 PKH	[IATA] Porto-Kheli, Greece
 PKI	public key infrastructure
 PKI	[IATA] Pakotoa Island, New Zealand
+PKIX	public key infrastructure exchange
+PKIX	public key infrastructure for X.509 certificates
 PKK	[IATA] Pakokku, Myanmar
 PKL	[IATA] Pakatoa Island, New Zealand
 PKM	[IATA] Port Kaituma, Guyana
@@ -11589,6 +11604,7 @@ POP	point of presence
 POP	Post Office Protocol
 POP	power on password
 POP	[IATA] Puerto Plata, Dominican Republic
+POP3	Post Office Protocol, Version 3
 POQ	[IATA] Polk Inlet, Alaska, United States of America
 POR	[IATA] Pori, Finland
 POS	piece of shit
@@ -11716,6 +11732,7 @@ PRZ	[IATA] Prineville Airport, Oregon, United States of America
 PRÜ	[Kfz:D] Landkreis Prüm
 PS	post scriptum
 PS	Postscript
+PS	Primärsystem
 PS	[ccTLD] Palästinensische Autonomiegebiete
 PS	[HP] Philosopher's Stone
 PS	[ISO 3166] Palestine
@@ -11982,6 +11999,7 @@ PVK	[IATA] Preveza/Lefkas, Greece
 PVN	[IATA] Pleven, Bulgaria
 PVO	[IATA] Portoviejo, Ecuador
 PVR	[IATA] Puerto Vallarta (Lic. Gustavo D. Ordaz), Mexico
+PVS	Praxisverwaltungssystem
 PVS	[IATA] Provideniya, Magadan, Russia
 PVT	private
 PVU	[IATA] Provo Municipal Airport, Utah, United States of America
@@ -12104,6 +12122,7 @@ QDU	[IATA] Dusseldorf, Germany
 QDV	[IATA] All Airports around Denver, Colorado, United States of America
 QDW	[IATA] Diadema, São Paulo, Brazil
 QED	quod erat demonstrandum
+QES	qualifizierte elektronische Signatur
 QEZ	[IATA] Pomezia, Italy
 QFB	[IATA] Freiburg, Germany
 QFE	[IATA] Fort Benning (Columbus), Georgia, United States of America
@@ -13181,6 +13200,8 @@ SCY	[IATA] San Francisco, Peru
 SCZ	[IATA] Santa Cruz, Solomon Islands
 SCZ	[Kfz:D] Landkreis Schleiz
 SD	Schweizer Demokraten
+SD	Secure Digital
+SD	Sequenzdiagramm
 SD	[ccTLD] Sudan
 SD	[ISO 3166] Sudan
 SD	[Kfz] Swasiland
@@ -13194,6 +13215,7 @@ SDG	[IATA] Sanandaj, Iran
 SDH	Synchrone Digitale Hierarchie
 SDH	[IATA] Santa Rosa de Copan, Honduras
 SDH	[Kfz:D] Landkreis Sondershausen
+SDHC	Secure Digital High Capacity
 SDI	symbol deinterleave
 SDI	[IATA] Saidor, Papua New Guinea
 SDJ	[IATA] Sendai, Honshu, Japan
@@ -13625,8 +13647,10 @@ SMB	Server Message Block
 SMB	[IATA] Cerro Sombrero, Chile
 SMBFS	Server Message Block File System (see CIFS)
 SMBIOS	System Management BIOS
+SMC	Security Module Card
 SMC	system management controller
 SMC	[IATA] Santa Maria, Colombia
+SMC-B	Security Module Card Typ B, Institutionenkarte
 SMCO	[Oracle] Space Management Coordinator Process
 SMD	[IATA] Fort Wayne (Smith Field), Indiana, United States of America
 SME	[IATA] Somerset (Pulaski County), Kentucky, United States of America
@@ -14566,6 +14590,7 @@ THX	thanks
 THY	[IATA] Thohoyandou, Venda, South Africa
 THZ	[IATA] Tahoua, Niger
 TI	Technische Informatica
+TI	Telematikinfrastruktur
 TI	Ti (PSE#22) Titanium, Titan | Übergangsmetalle | transition metals | metalla transitionis
 TIA	thanks in advance
 TIA	[IATA] Tirana, Albania
@@ -14927,6 +14952,7 @@ TSI	[IATA] Tsili Tsili, Papua New Guinea
 TSJ	[IATA] Tsushima, Japan
 TSK	[IATA] Taskul, Papua New Guinea
 TSL	test, set, lock
+TSL	Trusted Service List
 TSL	[IATA] Tamuin, Mexico
 TSM	[IATA] Taos Municipal Airport, New Mexico, United States of America
 TSN	[IATA] Tianjin (Zhangguizhuang), China
@@ -15151,6 +15177,7 @@ UBU	[IATA] Kalumburu, Western Australia, Australia
 UBUNTU	I am too stupid to configure Debian.
 UBX	[IATA] Cuba Municipal Airport, Missouri, United States of America
 UC	uncacheable
+UC	use case
 UCA	[IATA] Utica/Oneida County, New York, United States of America
 UCAS	Universities & Colleges Admissions Service
 UCC	Underhanded C Contest
