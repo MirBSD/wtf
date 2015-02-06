@@ -1,9 +1,9 @@
-$MirOS: wtf/acronyms,v 1.454 2015/01/29 18:42:08 tg Exp $
+$MirOS: wtf/acronyms,v 1.455 2015/02/06 18:28:44 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
 $NetBSD: acronyms,v 1.224 2014/05/25 21:49:29 dholland Exp $
-$NetBSD: acronyms.comp,v 1.146 2015/01/29 06:53:28 plunky Exp $
+$NetBSD: acronyms.comp,v 1.148 2015/02/06 14:48:24 ginsbach Exp $
 $NetBSD: airport,v 1.58 2014/09/21 08:38:03 mbalmer Exp $
-$OpenBSD: airport,v 1.48 2015/01/11 12:17:44 kirby Exp $
+$OpenBSD: airport,v 1.49 2015/02/02 14:27:41 jca Exp $
 0	[Kfz:D] Diplomatenkennzeichen oder Politiker
 1	one, on
 1080I	1920x540px (interlaced)
@@ -948,7 +948,7 @@ AVI	[IATA] Ciego de Avila, Cuba
 AVL	Adelson-Velsky-Landis
 AVL	[BookCrossing] available
 AVL	[IATA] Asheville Regional, North Carolina, United States of America
-AVN	[IATA] Caumont, Avignon, France
+AVN	[IATA] Avignon-Provence, Caumont, Avignon, France
 AVO	[IATA] Avon Park Municipal Airport, Florida, United States of America
 AVP	[IATA] Wilkes-Barre/Scranton International Airport, Pennsylvania, United States of America
 AVU	[IATA] Avu Avu, Solomon Islands
@@ -3064,6 +3064,7 @@ CT	[USA] Connecticut
 CTA	[IATA] Catania (Fontanarossa), Sicily, Italy
 CTB	[IATA] Coritgo Blanco, United Kingdom
 CTC	[IATA] Catamarca, Argentina
+CTE	common table expression
 CTE	[IATA] Carti, Panama
 CTF	capture the flag
 CTF	[IATA] Contamana, Peru
@@ -8203,7 +8204,7 @@ LIH	[IATA] Lihue, Hawaii, United States of America
 LII	[IATA] Mulia, Indonesia
 LIJ	[IATA] Long Island, Alaska, United States of America
 LIK	[IATA] Likiep, Marshall Islands
-LIL	[IATA] Lille (Lesquin), France
+LIL	[IATA] Lille-Lesquin, Lille, France
 LILO	last in, last out
 LILO	LInux LOader
 LIM	Lotus-Intel-Microsoft
@@ -8271,6 +8272,7 @@ LLB	Bachelor of Laws
 LLC	logical link control
 LLD	Doctor of Laws
 LLD	[IATA] Loveland, Colorado, United States of America
+LLDP	link layer discovery protocol
 LLF	low level format
 LLG	[IATA] Chillagoe, Queensland, Australia
 LLH	[IATA] Las Limas, Honduras
@@ -10397,7 +10399,7 @@ NTBA	Network Terminal for ISDN Basic Rate Access
 NTBBA	Network Terminal for Broadband Access
 NTC	[IATA] Santa Carolina, Mozambique
 NTD	[IATA] Point Mugu (NAWS Airport), California, United States of America
-NTE	[IATA] Nantes (Chateau Bougon), France
+NTE	[IATA] Nantes-Atlantique (Chateau Bougon), France
 NTEU	non-technical end user
 NTG	[IATA] Nantong, China
 NTI	[IATA] Bintuni, Indonesia
@@ -11145,6 +11147,7 @@ PCM	[IATA] Playa del Carmen, Mexico
 PCMCIA	Personal Computer Memory Card International Association
 PCN	[IATA] Picton, New Zealand
 PCO	[IATA] Punta Colorada, Mexico
+PCP	port control protocol
 PCP	[IATA] Principe, Sao Tome & Principe
 PCR	[IATA] Puerto Carreno, Colombia
 PCRE	Perl compatible regular expression - https://www.mirbsd.org/man1/perlre
@@ -11291,7 +11294,7 @@ PGD	[IATA] Punta Gorda (Charlotte County), Florida, United States of America
 PGDIP	Postgraduate Diploma
 PGE	page global enable
 PGE	[IATA] Yegepa, Papua New Guinea
-PGF	[IATA] Perpignan (Rivesaltes), France
+PGF	[IATA] Perpignan-Rivesaltes (Llabanere), Perpignan, France
 PGG	[IATA] Progresso, Brazil
 PGH	[IATA] Pantnagar, India
 PGI	[IATA] Chitato (Dundo), Angola
@@ -16306,6 +16309,7 @@ WYN	[IATA] Wyndham, Western Australia, Australia
 WYS	[IATA] West Yellowstone, Montana, United States of America
 WYSIWYG	what you see is what you get
 WZ	[Kfz:D] Stadt Wetzlar im Lahn-Dill-Kreis
+WZE	Windows-Zeiteinheiten (those ETAs in progress bars/dialogues that seem to never go right, sometimes increase, or are ridiculously large)
 WZL	[Kfz:D] Landkreis Wanzleben
 WZY	[IATA] Nassau Seaplane Base, Bahamas
 W^X	either writable or executable, but not both (W xor X)
