@@ -1,9 +1,9 @@
-$MirOS: wtf/acronyms,v 1.455 2015/02/06 18:28:44 tg Exp $
-$miros: src/sys/sys/errno.h,v 1.10 2012/12/31 20:19:49 tg Exp $
+$MirOS: wtf/acronyms,v 1.456 2015/02/11 22:20:29 tg Exp $
+$miros: src/sys/sys/errno.h,v 1.11 2014/09/05 22:38:17 tg Exp $
 $NetBSD: acronyms,v 1.224 2014/05/25 21:49:29 dholland Exp $
 $NetBSD: acronyms.comp,v 1.148 2015/02/06 14:48:24 ginsbach Exp $
 $NetBSD: airport,v 1.58 2014/09/21 08:38:03 mbalmer Exp $
-$OpenBSD: airport,v 1.49 2015/02/02 14:27:41 jca Exp $
+$OpenBSD: airport,v 1.50 2015/02/10 09:30:37 sthen Exp $
 0	[Kfz:D] Diplomatenkennzeichen oder Politiker
 1	one, on
 1080I	1920x540px (interlaced)
@@ -139,7 +139,7 @@ ABW	[IATA] Abau, Papua New Guinea
 ABX	[IATA] Albury, New South Wales, Australia
 ABY	[IATA] Dougherty County, Albany, Georgia, United States of America
 ABY	[IATA] Southwest Georgia Regional, Albany, Georgia, United States of America
-ABZ	[IATA] Dyce, Aberdeen, Scotland, United Kingdom
+ABZ	[IATA] Dyce, Aberdeen, Scotland, United Kingdom of Great Britain and Northern Ireland
 AC	Ac (PSE#89) Actinium | Übergangsmetalle | transition metals | metalla transitionis
 AC	air conditioning
 AC	alternating current
@@ -1172,7 +1172,7 @@ BBR	[IATA] Basse-Terre, Guadeloupe
 BBS	be back soon
 BBS	bulletin board system
 BBS	[altTLD] Bulletin Board System
-BBS	[IATA] Blackbush, United Kingdom
+BBS	[IATA] Blackbush, United Kingdom of Great Britain and Northern Ireland
 BBT	be back tomorrow
 BBT	[IATA] Berberati, Central African Republic
 BBU	[IATA] Bucharest Aurel Vlaicu/Baneasa, Bucharest, Romania
@@ -1420,7 +1420,7 @@ BH	[Kfz] Britisch Honduras (veraltet)
 BHA	[IATA] Baia de Caraquez, Ecuador
 BHB	[IATA] Bar Harbor (Hancock County), Maine, United States of America
 BHC	[IATA] Bullhead City, Arizona, United States of America
-BHD	[IATA] George Best Belfast City, Belfast, Northern Ireland, United Kingdom
+BHD	[IATA] George Best Belfast City, Belfast, Northern Ireland, United Kingdom of Great Britain and Northern Ireland
 BHE	[IATA] Blenheim (Air Station), New Zealand
 BHF	[IATA] Bahia Cupica, Colombia
 BHG	[IATA] Brus Laguna, Honduras
@@ -1442,7 +1442,7 @@ BHT	[Kfz] Bhutan
 BHU	[IATA] Bhavnagar, India
 BHV	[IATA] Bahawalpur, Pakistan
 BHW	[IATA] Sargodha, Pakistan
-BHX	[IATA] Birmingham International, Birmingham, United Kingdom
+BHX	[IATA] Birmingham International, Birmingham, United Kingdom of Great Britain and Northern Ireland
 BHY	[IATA] Beihai, China
 BHZ	[IATA] All Airports around Belo Horizonte, Minas Gerais, Brazil
 BI	Bi ♆ (PSE#83) Bismuthum, Wismut, Bismuth | Stickstoff/Phosphor-Gruppe | pnictogens
@@ -1576,7 +1576,7 @@ BLH	[IATA] Blythe Airport, California, United States of America
 BLI	[IATA] Bellingham International Airport, Washington, United States of America
 BLITT	Bachelor of Literature
 BLJ	[IATA] Batna, Algeria
-BLK	[IATA] Blackpool (Squire's Gate Airport), England, United Kingdom
+BLK	[IATA] Blackpool (Squire's Gate Airport), England, United Kingdom of Great Britain and Northern Ireland
 BLK	[Kfz:D] Burgenlandkreis
 BLL	[IATA] Billund, Denmark
 BLM	[IATA] Belmar/Farmingdale (Allaire Airport), New Jersey, United States of America
@@ -1700,6 +1700,7 @@ BOCU	Binary Ordered Compression for Unicode
 BOD	[IATA] Bordeaux (Merignac), France
 BOE	[IATA] Boundji, Congo
 BOF	beginning of file
+BOF	birds of a feather (Gleichgesinnte)
 BOF	[IATA] Bolling Air Force Base, District of Columbia, United States of America
 BOFH	bastard operator from hell
 BOG	[IATA] El Dorado International, Bogota, Colombia
@@ -1809,7 +1810,7 @@ BRD	[IATA] Brainerd Lakes Regional, Brainerd, Minnesota, United States of Americ
 BRD	[IATA] Brainerd-Crow Wing, Minnesota, United States of America
 BRE	basic regular expression - https://www.mirbsd.org/man7/re_format
 BRE	[IATA] Bremen (Nieuenland), Germany
-BRF	[IATA] Bradford, England, United Kingdom
+BRF	[IATA] Bradford, England, United Kingdom of Great Britain and Northern Ireland
 BRG	[IATA] Whitesburg Municipal Airport, Kentucky, United States of America
 BRG	[Kfz:D] Landkreis Burg
 BRG	[Kfz] Britisch-Guayana (veraltet)
@@ -1828,7 +1829,7 @@ BRO	[IATA] South Padre Island International, Brownsville, Texas, United States o
 BRP	[IATA] Biaru, Papua New Guinea
 BRQ	[IATA] Brno, Czech Republic
 BRR	[IATA] Barra, Scotland, United Kingdom of Great Britain and Northern Ireland
-BRS	[IATA] Bristol International (Lulsgate), Bristol, England, United Kingdom
+BRS	[IATA] Bristol International (Lulsgate), Bristol, England, United Kingdom of Great Britain and Northern Ireland
 BRST	[TZif] America/Araguaina (DST)
 BRST	[TZif] America/Sao_Paulo (DST)
 BRST	[TZif] Brazil/East (DST)
@@ -2010,7 +2011,7 @@ BUR	[IATA] Burbank/Glendale/Pasadena, California, United States of America
 BUR	[Kfz] Birma (veraltet)
 BUR	[Kfz] Myanmar (veraltet)
 BUS	[IATA] Batumi, Abkhazia, Georgia
-BUT	[IATA] Burtonwood, United Kingdom
+BUT	[IATA] Burtonwood, United Kingdom of Great Britain and Northern Ireland
 BUU	[IATA] Buyo, Ivory Coast
 BUV	[IATA] Bella Union, Uruguay
 BUW	[IATA] Buton Babau, Indonesia
@@ -2064,7 +2065,7 @@ BWC	because we can
 BWC	[IATA] Brawley Municipal Airport, California, United States of America
 BWD	[IATA] Brownwood Municipal Airport, Texas, United States of America
 BWE	[IATA] Braunschweig, Germany
-BWF	[IATA] Barrow-in-Furness, United Kingdom
+BWF	[IATA] Barrow-in-Furness, United Kingdom of Great Britain and Northern Ireland
 BWG	[IATA] Bowling Green-Warren County, Kentucky, United States of America
 BWH	[IATA] Butterworth, Malaysia
 BWI	[IATA] Baltimore-Washington International, Maryland, United States of America
@@ -2202,7 +2203,7 @@ CAH	[IATA] Ca Mau, Vietnam
 CAI	[IATA] Cairo International Airport, Egypt
 CAJ	[IATA] Canaima, Venezuela
 CAK	[IATA] Akron/Canton Regional, Ohio, United States of America
-CAL	[IATA] Campbeltown, United Kingdom
+CAL	[IATA] Campbeltown, United Kingdom of Great Britain and Northern Ireland
 CAM	Categorical Abstract Machine
 CAM	computer-aided (or -assisted) manufacturing
 CAM	conditional access module
@@ -2395,7 +2396,7 @@ CEB	[IATA] Cebu, Philippines
 CEC	[IATA] Crescent City, California, United States of America
 CED	[IATA] Ceduna, South Australia, Australia
 CEF	[IATA] Springfield/Chicopee (Air Reserve), Massachusetts, United States of America
-CEG	[IATA] Chester, United Kingdom
+CEG	[IATA] Chester, United Kingdom of Great Britain and Northern Ireland
 CEH	[IATA] Chengteh, China
 CEI	[IATA] Chiang Rai [Chiang Rai International Airport], Thailand
 CEJ	[IATA] Chernihiv (Chernigov), Ukraine
@@ -2706,7 +2707,7 @@ CLC	[IATA] Clear Lake (Lavon North Airport), Texas, United States of America
 CLD	[IATA] Carlsbad (McClellan-Palomar Airport), California, United States of America
 CLE	[IATA] Cleveland-Hopkins International, Ohio, United States of America
 CLF	common log format
-CLF	[IATA] Coltishall, United Kingdom
+CLF	[IATA] Coltishall, United Kingdom of Great Britain and Northern Ireland
 CLG	[IATA] Coalinga Municipal Airport, California, United States of America
 CLH	[IATA] Coolah, New South Wales, Australia
 CLI	command line interface
@@ -2852,7 +2853,7 @@ COI	complement d'objet indirect
 COI	[IATA] Cocoa (Merritt Island Airport), Florida, United States of America
 COJ	[IATA] Coonabarabran, New South Wales, Australia
 COK	[IATA] Cochin, India
-COL	[IATA] Coll Island, United Kingdom
+COL	[IATA] Coll Island, United Kingdom of Great Britain and Northern Ireland
 COLP	Connected Line Identification Presentation (feature on caller side to see which phone number was actually connected)
 COLR	Connected Line Identification Restriction (feature on callee side to prevent caller to see the actually connected phone number)
 COM	component object model
@@ -2959,7 +2960,7 @@ CRL	[IATA] Charleroi (Gosselies), Belgium
 CRLF	carriage return / line feed
 CRM	customer relationship management
 CRM	[IATA] Charleston (WV) Yeager, South Carolina, United States of America
-CRN	[IATA] Cromarty, United Kingdom
+CRN	[IATA] Cromarty, United Kingdom of Great Britain and Northern Ireland
 CRO	[IATA] Corcoran Airport, California, United States of America
 CRO	[Kfz] Kroatien (veraltet)
 CRP	[IATA] Corpus Christi International, Texas, United States of America
@@ -3062,7 +3063,7 @@ CSY	[IATA] Cheboksary, Chuvashia, Russia
 CT	[AUS] Australian Capital Territory (old; new: ACT)
 CT	[USA] Connecticut
 CTA	[IATA] Catania (Fontanarossa), Sicily, Italy
-CTB	[IATA] Coritgo Blanco, United Kingdom
+CTB	[IATA] Coritgo Blanco, United Kingdom of Great Britain and Northern Ireland
 CTC	[IATA] Catamarca, Argentina
 CTE	common table expression
 CTE	[IATA] Carti, Panama
@@ -3667,7 +3668,7 @@ DO	[Kfz:D] kreisfreie Stadt Dortmund
 DOA	dead on arrival
 DOA	[IATA] Doany, Madagascar
 DOB	[IATA] Dobo, Aru Islands, Indonesia
-DOC	[IATA] Dornoch, United Kingdom
+DOC	[IATA] Dornoch, United Kingdom of Great Britain and Northern Ireland
 DOCH	German for "yes" answering "you don't ..., do you?"
 DOD	[IATA] Dodoma, Tanzania
 DOD	[USA] Department of Defence
@@ -4036,7 +4037,7 @@ EDGE	Enhanced Data rates for GSM Evolution
 EDGE	Enhanced GPRS (EGPRS)
 EDGE	explicit data graph execution
 EDGE	IMT Single Carrier (IMT-SC)
-EDI	[IATA] Edinburgh, Scotland, United Kingdom
+EDI	[IATA] Edinburgh, Scotland, United Kingdom of Great Britain and Northern Ireland
 EDID	extended display identification data
 EDK	[IATA] El Dorado (Captain Jack Thomas), Kansas, United States of America
 EDL	[IATA] Eldoret, Kenya
@@ -4150,7 +4151,7 @@ EEXIST	(#17) File exists
 EF	[Kfz:D] Landkreis Erfurt
 EF	[Schule DE] Einführungsphase (10. Klasse Gymnasium nach G8)
 EFAULT	(#14) Bad address
-EFB	[IATA] Eight Fathombight, United Kingdom
+EFB	[IATA] Eight Fathombight, United Kingdom of Great Britain and Northern Ireland
 EFBIG	(#27) File too large
 EFC	[IATA] Belle Fourche Municipal Airport, South Dakota, United States of America
 EFD	[IATA] Houston (Ellington Field), Texas, United States of America
@@ -4387,7 +4388,7 @@ EOD	[IATA] Fort Campbell (Clarksville), Tennessee, United States of America
 EOF	end of file
 EOH	[IATA] Medellin, Colombia
 EOI	end of interrupt
-EOI	[IATA] Eday, United Kingdom
+EOI	[IATA] Eday, United Kingdom of Great Britain and Northern Ireland
 EOK	[IATA] Keokuk Municipal Airport, Iowa, United States of America
 EOL	end of life
 EOL	end of line
@@ -4491,7 +4492,7 @@ ESE	Ostsüdost, east-south-east
 ESE	[IATA] Ensenada (El Cipres), Mexico
 ESF	[IATA] Alexandria Esler Regional Airport, Louisiana, United States of America
 ESG	[IATA] Mariscal Estigarribia, Paraguay
-ESH	[IATA] Shoreham, United Kingdom
+ESH	[IATA] Shoreham, United Kingdom of Great Britain and Northern Ireland
 ESHUTDOWN	(#58) Can't send after socket shutdown
 ESI	[IATA] Espinosa, Minas Gerais, Brazil
 ESK	[IATA] Eskisehir, Turkey
@@ -4655,7 +4656,7 @@ F	[Kfz:D] kreisfreie Stadt Frankfurt am Main
 F	[Kfz] Frankreich
 F9	fine
 FAA	[IATA] Faranah, Guinea
-FAB	[IATA] Farnborough, England, United Kingdom
+FAB	[IATA] Farnborough, England, United Kingdom of Great Britain and Northern Ireland
 FAC	[IATA] Faatte, French Polynesia
 FACK	forward ACKnowledgement (TCP)
 FACK	Full ACK!
@@ -4755,7 +4756,7 @@ FE	Fe ♂ (PSE#26) Ferrum, Eisen, Iron | Übergangsmetalle | transition metals |
 FE	Feierabend
 FE	Frontend
 FEA	finite element analysis
-FEA	[IATA] Fetlar Island, United Kingdom
+FEA	[IATA] Fetlar Island, United Kingdom of Great Britain and Northern Ireland
 FEAR	false evidence appearing real
 FEB	[IATA] Sanfebagar, Nepal
 FEC	forward error correction
@@ -4826,7 +4827,7 @@ FIC	[IATA] Fire Cove, Alaska, United States of America
 FICON	Fiber Connectivity
 FID	frequency identifier
 FID	[IATA] Fishers Island (Elizabeth Field), New York, United States of America
-FIE	[IATA] Fair Isle, United Kingdom
+FIE	[IATA] Fair Isle, United Kingdom of Great Britain and Northern Ireland
 FIF	[Kfz] Französisch-Indien (veraltet)
 FIFA	Fédération Internationale de Football Association
 FIFO	first in, first out
@@ -4879,7 +4880,7 @@ FLD	[IATA] Fond du Lac County Airport, Wisconsin, United States of America
 FLE	[IATA] Petersburg (Fort Lee Heliport), Virginia, United States of America
 FLF	[IATA] Flensburg, Germany
 FLG	[IATA] Flagstaff Pulliam Airport, Arizona, United States of America
-FLH	[IATA] Flotta Isle, United Kingdom
+FLH	[IATA] Flotta Isle, United Kingdom of Great Britain and Northern Ireland
 FLI	[IATA] Flateyri (Holt), Iceland
 FLJ	[IATA] Falls Bay, Alaska, United States of America
 FLL	frequency-locked loop
@@ -5070,7 +5071,7 @@ FSN	[IATA] Fort Sheridan, Illinois, United States of America
 FSO	[IATA] Highgate (Franklin County), Vermont, United States of America
 FSP	[IATA] St. Pierre, St. Pierre & Miquelon
 FSPO	Fachspezifischer Teil der Studien- und Prüfungsordnung
-FSS	[IATA] Forres, United Kingdom
+FSS	[IATA] Forres, United Kingdom of Great Britain and Northern Ireland
 FST	freenode Standard Time (just UTC)
 FST	[IATA] Fort Stockton (Pecos County), Texas, United States of America
 FSU	[IATA] Fort Sumner Municipal Airport, New Mexico, United States of America
@@ -5167,7 +5168,7 @@ FWIK	from what I know
 FWIR	from what I can recall/remember
 FWIW	for what it's worth
 FWL	[IATA] Farewell Airport, Alaska, United States of America
-FWM	[IATA] Fort William, United Kingdom
+FWM	[IATA] Fort William, United Kingdom of Great Britain and Northern Ireland
 FWS	folding white space
 FWS	[IATA] Fort Worth (Spinks Airport), Texas, United States of America
 FXE	[IATA] Fort Lauderdale Executive Airport, Florida, United States of America
@@ -5184,7 +5185,7 @@ FYV	[IATA] Fayetteville (Drake Field), Arkansas, United States of America
 FZ	[Kfz:D] Landkreis Fritzlar-Homberg
 FZG	[IATA] Fitzgerald Municipal Airport, Georgia, United States of America
 FZI	[IATA] Fostoria Metro Airport, Ohio, United States of America
-FZO	[IATA] Filton, United Kingdom
+FZO	[IATA] Filton, United Kingdom of Great Britain and Northern Ireland
 FÜ	[Kfz:D] kreisfreie Stadt und Landkreis Fürth
 FÜS	[Kfz:D] Landkreis Füssen
 G	grin
@@ -5976,7 +5977,7 @@ HEK	[IATA] Heihe, China
 HEL	[IATA] Helsinki, Finland
 HEL	[Kfz:D] Hessen, Landesregierung und Landtag
 HEM	[IATA] Helsinki (Malmi), Finland
-HEN	[IATA] Hendon, England, United Kingdom
+HEN	[IATA] Hendon, England, United Kingdom of Great Britain and Northern Ireland
 HEPTA	seven-
 HER	[IATA] Kazantzakis, Herakleion, Greece
 HER	[Kfz:D] kreisfreie Stadt Herne
@@ -6204,7 +6205,7 @@ HOU	[IATA] Houston William P. Hobby, Texas, United States of America
 HOV	[IATA] Oersta/Volda (Hovden), Norway
 HOW	[IATA] Fort Kobbe (Howard Air Force Base), Panama
 HOX	[IATA] Homalin, Myanmar
-HOY	[IATA] Hoy Island, United Kingdom
+HOY	[IATA] Hoy Island, United Kingdom of Great Britain and Northern Ireland
 HP	Harry Potter
 HP	Hewlett-Packard
 HP	homepage
@@ -6256,7 +6257,7 @@ HRO	[IATA] Harrison (Boone County Airport), Arkansas, United States of America
 HRO	[Kfz:D] Hansestadt Rostock
 HRR	[IATA] Herrera, Colombia
 HRS	[IATA] Harrismith, South Africa
-HRT	[IATA] Harrogate, United Kingdom
+HRT	[IATA] Harrogate, United Kingdom of Great Britain and Northern Ireland
 HRU	[IATA] Herington Municipal Airport, Kansas, United States of America
 HRX	[IATA] Hereford Municipal Airport, Texas, United States of America
 HRY	[IATA] Henbury, Northern Territory, Australia
@@ -6647,7 +6648,7 @@ ILR	[IATA] Ilorin, Nigeria
 ILU	I love you
 ILU	[IATA] Kilaguni, Tanzania
 ILY	I love you
-ILY	[IATA] Islay (Port Ellen Airport), United Kingdom
+ILY	[IATA] Islay (Port Ellen Airport), United Kingdom of Great Britain and Northern Ireland
 ILZ	[IATA] Zilina, Slovakia
 IM	instant messaging
 IM	[ccTLD] Isle of Man
@@ -7727,7 +7728,7 @@ KRD	[IATA] Kurundi, Northern Territory, Australia
 KRE	[IATA] Kirundo, Burundi
 KRF	[IATA] Kramfors, Sweden
 KRG	[IATA] Karasabai, Guyana
-KRH	[IATA] Redhill, England, United Kingdom
+KRH	[IATA] Redhill, England, United Kingdom of Great Britain and Northern Ireland
 KRI	[IATA] Kikori, Papua New Guinea
 KRJ	[IATA] Karawari, Papua New Guinea
 KRK	[IATA] Cracow (Kraków) [John Paul II/Balice International], Poland
@@ -8263,7 +8264,7 @@ LKU	[IATA] Lake Rudolf, Kenya
 LKV	[IATA] Lakeview (Lake County Airport), Oregon, United States of America
 LKW	[IATA] Larkana, Pakistan
 LKY	[IATA] Lake Manyara, Tanzania
-LKZ	[IATA] Brandon, United Kingdom
+LKZ	[IATA] Brandon, United Kingdom of Great Britain and Northern Ireland
 LL	load linked
 LL	[Kfz:D] Landkreis Landsberg am Lech
 LL/SC	load linked / store conditional
@@ -8375,7 +8376,7 @@ LOL	laughing out loud
 LOL	[IATA] Lovelock (Derby Field), Nevada, United States of America
 LOM	lights-out management
 LOM	[IATA] Lagos de Moreno, Mexico
-LON	[IATA] All Airports around London, United Kingdom
+LON	[IATA] All Airports around London, United Kingdom of Great Britain and Northern Ireland
 LOO	[IATA] Laghouat, Algeria
 LOQ	[IATA] Lobatze, Botswana
 LOR	[IATA] Fort Rucker (Lowe Army Heliport), Alabama, United States of America
@@ -8405,13 +8406,13 @@ LPD	[IATA] La Pedrera, Colombia
 LPE	[IATA] La Primavera, Colombia
 LPG	liquefied petroleum gas
 LPG	[IATA] La Plata (Aerodromo Tolosa), Argentina
-LPH	[IATA] Lochgilphead, United Kingdom
+LPH	[IATA] Lochgilphead, United Kingdom of Great Britain and Northern Ireland
 LPI	Linux Professional Institute
 LPI	[IATA] Linkoping, Sweden
 LPIC	Linux Professional Institute Certification
 LPJ	[IATA] Pijiguaos, Venezuela
 LPK	[IATA] Lipetsk, Russia
-LPL	[IATA] Liverpool (Speke Airport), England, United Kingdom of Great Britain and Northern Ireland
+LPL	[IATA] John Lennon, Liverpool (Speke Airport), England, United Kingdom of Great Britain and Northern Ireland
 LPLL	analog or linear phase-locked loop
 LPM	[IATA] Lamap, Vanuatu
 LPO	[IATA] La Porte Municipal Airport, Indiana, United States of America
@@ -8642,7 +8643,7 @@ LYR	[IATA] Svalbard (Longyearbyen), Norway
 LYS	[IATA] Lyon Saint-Exupery (Satolas), France
 LYT	[IATA] Lady Elliott Island, Australia
 LYU	[IATA] Ely Municipal Airport, Minnesota, United States of America
-LYX	[IATA] Lydd, United Kingdom
+LYX	[IATA] Lydd, United Kingdom of Great Britain and Northern Ireland
 LZA	[IATA] Luiza, Zaire
 LZC	[IATA] Lazaro Cardenas, Mexico
 LZH	[IATA] Liuzhou, China
@@ -9291,7 +9292,7 @@ MMB	message me back
 MMB	[IATA] Memanbetsu, Japan
 MMC	[IATA] Ciudad Mante, Mexico
 MMD	[IATA] Minami Daito Jima, Okinawa, Japan
-MME	[IATA] Tees Side, United Kingdom
+MME	[IATA] Tees Side, United Kingdom of Great Britain and Northern Ireland
 MMET	Master of Meteorology
 MMF	[IATA] Mamfe, Cameroon
 MMG	[IATA] Mount Magnet, Western Australia, Australia
@@ -10338,7 +10339,7 @@ NRFPT	not ready for prime time
 NRG	[IATA] Narrogin, Western Australia, Australia
 NRI	[IATA] Shangri La, Oklahoma, United States of America
 NRK	[IATA] Norrkoping (Kungsangen), Sweden
-NRL	[IATA] North Ronaldsway, United Kingdom
+NRL	[IATA] North Ronaldsway, United Kingdom of Great Britain and Northern Ireland
 NRM	[IATA] Nara, Mali
 NRN	no reply necessary
 NRN	not right now
@@ -10546,7 +10547,7 @@ OBI	[IATA] Obidos, Pará, Brazil
 OBK	[IATA] Northbrook (Plaza Heliport), Illinois, United States of America
 OBLG	Oberste Landesgerichte
 OBM	[IATA] Morobe, Papua New Guinea
-OBN	[IATA] Oban, United Kingdom
+OBN	[IATA] Oban, United Kingdom of Great Britain and Northern Ireland
 OBO	off by one
 OBO	[IATA] Obihiro, Japan
 OBOE	off by one error
@@ -10650,7 +10651,7 @@ OHA	[Kfz:D] Landkreis Osterode am Harz
 OHC	[IATA] Northeast Cape, Alaska, United States of America
 OHD	[IATA] Ohrid, Macedonia
 OHI	[IATA] Oshakati, Namibia
-OHP	[IATA] Oban Heliport, United Kingdom
+OHP	[IATA] Oban Heliport, United Kingdom of Great Britain and Northern Ireland
 OHR	[IATA] Wyk auf Foehr, Germany
 OHT	[IATA] Kohat, Pakistan
 OHV	[Kfz:D] Landkreis Oberhavel
@@ -11499,7 +11500,7 @@ PMD	poor man's debugging (aka printf)
 PMD	[IATA] Palmdale (Air Force), California, United States of America
 PMDT	[TZif] America/Miquelon (DST)
 PME	power management event
-PME	[IATA] Portsmouth, England, United Kingdom
+PME	[IATA] Portsmouth, England, United Kingdom of Great Britain and Northern Ireland
 PMF	[IATA] Parma, Italy
 PMFI	problem magically fixed itself
 PMFJI	pardon me for jumping in
@@ -11670,7 +11671,7 @@ PPT	[IATA] Pape'ete (Faaa), Tahiti, French Polynesia
 PPU	physics processing unit
 PPU	[IATA] Papun, Myanmar
 PPV	[IATA] Port Protection (Seaplane Base), Alaska, United States of America
-PPW	[IATA] Papa Westray, United Kingdom
+PPW	[IATA] Papa Westray, United Kingdom of Great Britain and Northern Ireland
 PPX	[IATA] Paran, Papua New Guinea
 PPY	[IATA] Pouso Alegre, Minas Gerais, Brazil
 PPZ	[IATA] Puerto Paez, Venezuela
@@ -12370,7 +12371,7 @@ RAU	[IATA] Rangpur, Bangladesh
 RAV	[IATA] Cravo Norte, Colombia
 RAW	[IATA] Arawa, Ethiopia
 RAX	[IATA] Oram, Papua New Guinea
-RAY	[IATA] Rothesay, United Kingdom
+RAY	[IATA] Rothesay, United Kingdom of Great Britain and Northern Ireland
 RAZ	[IATA] Rawala Kot, Pakistan
 RB	Rb (PSE#37) Rubidium | Alkalimetalle | alkali metals | metalla alcalica
 RB	Regionalbahn
@@ -12430,7 +12431,7 @@ RCQ	[IATA] Reconquista, Argentina
 RCR	rotate right through carry
 RCR	[IATA] Rochester (Fulton County Airport), Indiana, United States of America
 RCS	Revision Control System
-RCS	[IATA] Rochester, United Kingdom
+RCS	[IATA] Rochester, United Kingdom of Great Britain and Northern Ireland
 RCT	[dental] root canal treatment
 RCT	[dental] Wurzelkanalbehandlung (vulg. "Wurzelfüllung")
 RCT	[IATA] Reed City (Nartron Field), Michigan, United States of America
@@ -13562,7 +13563,7 @@ SKH	[IATA] Sirkhet, Nepal
 SKI	[IATA] Skikda, Algeria
 SKJ	[IATA] Sitkinak, Alaska, United States of America
 SKK	[IATA] Shaktoolik Airport, Alaska, United States of America
-SKL	[IATA] Isle of Skye, United Kingdom
+SKL	[IATA] Isle of Skye, United Kingdom of Great Britain and Northern Ireland
 SKM	[IATA] Skeldon, Guyana
 SKN	[IATA] Stokmarknes (Skagen), Norway
 SKO	[IATA] Sokoto, Nigeria
@@ -13801,7 +13802,7 @@ SOV	[IATA] Seldovia Airport, Alaska, United States of America
 SOW	[IATA] Show Low Municipal Airport, Arizona, United States of America
 SOX	[IATA] Sogamoso, Colombia
 SOXISIX	6 (International Radiotelephony Spelling Alphabet)
-SOY	[IATA] Stronsay, United Kingdom
+SOY	[IATA] Stronsay, United Kingdom of Great Britain and Northern Ireland
 SP	service pack
 SP	Sozialdemokratische Partei (der Schweiz)
 SP	spelling
@@ -14102,7 +14103,7 @@ SUL	[IATA] Sui, Pakistan
 SUL	[Kfz:D] Landkreis Sulzbach-Rosenberg
 SUM	[IATA] Sumter Municipal Airport, South Carolina, United States of America
 SUN	[IATA] Sun Valley (Hailey), Idaho, United States of America
-SUO	[IATA] Sun River, United Kingdom
+SUO	[IATA] Sun River, United Kingdom of Great Britain and Northern Ireland
 SUP	[IATA] Sumenep, Indonesia
 SUQ	[IATA] Sucua, Ecuador
 SUR	[IATA] Summer Beaver, Canada
@@ -14157,7 +14158,7 @@ SVR2	System V Release 2
 SVR3	System V Release 3
 SVR4	System V Release 4
 SVS	[IATA] Stevens Village Airport, Alaska, United States of America
-SVT	[IATA] Staverton, England, United Kingdom
+SVT	[IATA] Staverton, England, United Kingdom of Great Britain and Northern Ireland
 SVU	[IATA] Savusavu, Fiji
 SVV	[IATA] San Salvador, Venezuela
 SVW	[IATA] Sparrevohn LRRS, Alaska, United States of America
@@ -14194,7 +14195,7 @@ SWG	[IATA] Statwag, Papua New Guinea
 SWH	Schleswig-Holstein
 SWH	[IATA] Swan Hill, Victoria, Australia
 SWI	software interrupt
-SWI	[IATA] Swindon, United Kingdom
+SWI	[IATA] Swindon, United Kingdom of Great Britain and Northern Ireland
 SWIFT	Society for Worldwide Interbank Financial Telecommunication
 SWIG	simplified wrapper [and] interface generator
 SWJ	[IATA] South West Bay, Vanuatu
@@ -14206,7 +14207,7 @@ SWN	[IATA] Sahiwal, Pakistan
 SWO	[IATA] Stillwater Municipal Airport, Oklahoma, United States of America
 SWP	[IATA] Swakopmund, Namibia
 SWQ	[IATA] Sumbawa Besar, Sumbawa, Indonesia
-SWS	[IATA] Swansea, Wales, United Kingdom
+SWS	[IATA] Swansea, Wales, United Kingdom of Great Britain and Northern Ireland
 SWT	[IATA] Strzhewoi, Russia
 SWU	[IATA] Su Won City, South Korea
 SWW	[IATA] Sweetwater (Avenger Field), Texas, United States of America
@@ -14262,7 +14263,7 @@ SYT	[IATA] Saint-Yan, France
 SYU	[IATA] Sue Island, Queensland, Australia
 SYV	[IATA] Sylvester Airport, Georgia, United States of America
 SYX	[IATA] Sanya, China
-SYY	[IATA] Stornway, United Kingdom
+SYY	[IATA] Stornway, United Kingdom of Great Britain and Northern Ireland
 SYZ	[IATA] Shiraz, Iran
 SZ	[ccTLD] Swasiland
 SZ	[ISO 3166] Swaziland
@@ -14907,7 +14908,7 @@ TRB	[IATA] Turbo, Colombia
 TRC	trace
 TRC	[IATA] Torreon, Mexico
 TRD	[IATA] Trondheim (Vaernes), Norway
-TRE	[IATA] Tiree Island, United Kingdom
+TRE	[IATA] Tiree Island, United Kingdom of Great Britain and Northern Ireland
 TRF	[IATA] Torp, Sandefjord, Norway
 TRG	[IATA] Tauranga, New Zealand
 TRH	[IATA] Trona Airport, California, United States of America
@@ -14960,7 +14961,7 @@ TSL	[IATA] Tamuin, Mexico
 TSM	[IATA] Taos Municipal Airport, New Mexico, United States of America
 TSN	[IATA] Tianjin (Zhangguizhuang), China
 TSO	time sharing option
-TSO	[IATA] Scilly Tresco, United Kingdom
+TSO	[IATA] Scilly Tresco, United Kingdom of Great Britain and Northern Ireland
 TSP	time synchronisation protocol
 TSP	Time-Stamp Protocol
 TSP	traveling salesman problem
@@ -15078,8 +15079,9 @@ TVL	[IATA] Lake Tahoe (South Lake Tahoe), California, United States of America
 TVU	[IATA] Taveuni, Fiji
 TVY	[IATA] Tavoy, Myanmar
 TW	Technische Wiskunde
-TW	Tolle Wurst
+TW	tolle Wurst
 TW	Torwartwechsel
+TW	träum’ weiter!
 TW	[ccTLD] Republik China
 TW	[ISO 3166] Taiwan
 TWA	[IATA] Twin Hills Airport, Alaska, United States of America
@@ -15120,7 +15122,7 @@ TYL	[IATA] Talara (Capitan Montes), Peru
 TYM	[IATA] Staniel Cay, Bahamas
 TYN	[IATA] Taiyuan (Wuau), China
 TYO	[IATA] All Airports around Tokyo, Japan
-TYP	[IATA] Tobermory, United Kingdom
+TYP	[IATA] Tobermory, United Kingdom of Great Britain and Northern Ireland
 TYR	[IATA] Tyler (Pounds Field), Texas, United States of America
 TYS	told you so
 TYS	[IATA] Knoxville McGhee Tyson, Tennessee, United States of America
@@ -15274,7 +15276,7 @@ ULD	[IATA] Ulundi, South Africa
 ULE	[IATA] Sule, Papua New Guinea
 ULI	[IATA] Ulithi Island (Ulithi Airport), Micronesia
 ULK	[IATA] Ul Kmars, Kuwait
-ULL	[IATA] Mull, United Kingdom
+ULL	[IATA] Mull, United Kingdom of Great Britain and Northern Ireland
 ULM	[IATA] New Ulm Municipal Airport, Minnesota, United States of America
 ULN	[IATA] Ulan Bator, Mongolia
 ULP	unit in the last place
@@ -15376,8 +15378,8 @@ URZ	Universitätsrechenzentrum
 URZ	[IATA] Uruzgan, Afghanistan
 US	U+001F ␟ INFORMATION SEPARATOR ONE
 US	Unit Separator (U+001F)
-US	[ccTLD] Vereinigte Staaten
-US	[ISO 3166] United States
+US	[ccTLD] Vereinigte Staaten von Amerika
+US	[ISO 3166] United States of America
 US	[Kfz] Vereinigte Staaten von Amerika (veraltet)
 USA	United States of America
 USA	[Kfz] Vereinigte Staaten von Amerika
@@ -15836,7 +15838,7 @@ WAMPP	Windows Apache MySQL {Perl,PHP,Python}
 WAN	we are noobs (newbies)
 WAN	wide area network
 WAN	Wondering about Networking
-WAN	[IATA] Waverney, United Kingdom
+WAN	[IATA] Waverney, United Kingdom of Great Britain and Northern Ireland
 WAN	[Kfz:D] kreisfreie Stadt Wanne-Eickel
 WAN	[Kfz] Nigeria (veraltet)
 WAO	[IATA] Wabo, Papua New Guinea
@@ -15920,7 +15922,7 @@ WEI	[IATA] Weipa, Queensland, Australia
 WEL	[IATA] Welkom, South Africa
 WEL	[Kfz:D] Oberlahnkreis
 WELC	working effectively with legacy code
-WEM	[IATA] West Malling, England, United Kingdom
+WEM	[IATA] West Malling, England, United Kingdom of Great Britain and Northern Ireland
 WEM	[Kfz:D] Landkreis Wesermünde
 WEN	[Kfz:D] kreisfreie Stadt Weiden in der Oberpfalz
 WEP	Wired Equivalent Privacy (yikes! it's as insecure as hell)
@@ -15994,7 +15996,7 @@ WHM	[IATA] Wickham, Australia
 WHO	[IATA] Franz Josef, New Zealand
 WHP	[IATA] Los Angeles (Whiteman Airport), California, United States of America
 WHR	[IATA] Vail (Junction Heliport), Colorado, United States of America
-WHS	[IATA] Whalsay, United Kingdom
+WHS	[IATA] Whalsay, United Kingdom of Great Britain and Northern Ireland
 WHT	[IATA] Wharton, Texas, United States of America
 WHU	[IATA] Wuhu, China
 WHV	[Kfz:D] kreisfreie Stadt Wilhelmshaven
@@ -16002,7 +16004,7 @@ WHY	because.
 WI	[Kfz:D] kreisfreie Stadt Wiesbaden
 WI	[USA] Wisconsin
 WIBNI	wouldn't it be nice if
-WIC	[IATA] Wick, United Kingdom
+WIC	[IATA] Wick, United Kingdom of Great Britain and Northern Ireland
 WID	[IATA] Wildenrath, Germany
 WIE	[IATA] Wiesbaden Air Base, Germany
 WIFI	wireless fidelity
@@ -16176,7 +16178,7 @@ WRO	[IATA] Wroclaw [Starachowice], Poland
 WRR	[IATA] Werur, Indonesia
 WRT	with respect to
 WRW	[IATA] Warranagine, Western Australia, Australia
-WRY	[IATA] Westray, United Kingdom
+WRY	[IATA] Westray, United Kingdom of Great Britain and Northern Ireland
 WS	web services
 WS	WordStar
 WS	[ccTLD] Samoa
@@ -16413,7 +16415,7 @@ XKY	[IATA] Kaya, Burkina Faso
 XLA	[IATA] Little America, Utah, United States of America
 XLAT	translate
 XLB	[IATA] Lac Brochet, Manitoba, Canada
-XLK	[IATA] Lakenheath, United Kingdom
+XLK	[IATA] Lakenheath, United Kingdom of Great Britain and Northern Ireland
 XLO	[IATA] Long Xuyen, Vietnam
 XLS	[IATA] Saint Louis, Senegal
 XLU	[IATA] Leo, Burkina Faso
@@ -16492,7 +16494,7 @@ XWM	[IATA] Riyadh, Saudi Arabia
 XWP	[IATA] Al Kharj Air Base, Saudi Arabia
 XWQ	[IATA] Iwakuni, Honshu Is., Japan
 XWY	[IATA] Wyoming / Via Rail Service, Ontario, Canada
-XXB	[IATA] Manchester (Woodford), England, United Kingdom
+XXB	[IATA] Manchester (Woodford), England, United Kingdom of Great Britain and Northern Ireland
 XXE	XML eXternal Entity (attack)
 XXX	[sTLD] for sexual purposes
 XXX	[sTLD] sex (erotische Inhalte)
@@ -16638,7 +16640,7 @@ YEL	[IATA] Elliot Lake, Ontario, Canada
 YEM	[IATA] Manitowaning, Ontario, Canada
 YEM	[Kfz] Jemen
 YEN	[IATA] Estevan, Saskatchewan, Canada
-YEO	[IATA] Yeovilton, United Kingdom
+YEO	[IATA] Yeovilton, United Kingdom of Great Britain and Northern Ireland
 YEP	[IATA] Estevan Point, British Columbia, Canada
 YEQ	[IATA] Yenkis, Papua New Guinea
 YER	[IATA] Fort Severn, Ontario, Canada
