@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.456 2015/02/11 22:20:29 tg Exp $
+$MirOS: wtf/acronyms,v 1.457 2015/02/12 21:23:58 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.11 2014/09/05 22:38:17 tg Exp $
 $NetBSD: acronyms,v 1.224 2014/05/25 21:49:29 dholland Exp $
 $NetBSD: acronyms.comp,v 1.148 2015/02/06 14:48:24 ginsbach Exp $
@@ -10610,6 +10610,7 @@ OEL	[IATA] Oakley Municipal Airport, Kansas, United States of America
 OEM	original equipment manufacturer
 OEM	[IATA] Paloemeu, Suriname
 OEO	[IATA] Osceola (Municipal Airport), Wisconsin, United States of America
+OER	Open Educational Resources (freies Unterrichtsmaterial)
 OER	[IATA] Ornskoldsvik, Sweden
 OES	[IATA] San Antonio Oeste, Argentina
 OF	[Kfz:D] kreisfreie Stadt Offenbach am Main und Landkreis Offenbach
@@ -11632,6 +11633,8 @@ POZ	[IATA] Poznan [Lawica], Poland
 PP	apiece
 PP	pair programming
 PP	per person
+PP	Pickel piddeling
+PP	Pinkelpause
 PPA	[IATA] Pampa (Perry Lefors Field), Texas, United States of America
 PPB	PCI [to] PCI bridge
 PPB	[IATA] Presidente Prudente, São Paulo, Brazil
@@ -11657,6 +11660,7 @@ PPM	portable pixmap
 PPM	[IATA] Pompano Beach Airpark, Florida, United States of America
 PPN	[IATA] Popayan, Colombia
 PPO	[IATA] Powell Point, Bahamas
+PPP	pay per Plastik
 PPP	petty pet peeve
 PPP	Point-to-Point Protocol
 PPP	[IATA] Proserpine, Queensland, Australia
