@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.457 2015/02/12 21:23:58 tg Exp $
+$MirOS: wtf/acronyms,v 1.458 2015/02/13 22:08:48 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.11 2014/09/05 22:38:17 tg Exp $
 $NetBSD: acronyms,v 1.224 2014/05/25 21:49:29 dholland Exp $
 $NetBSD: acronyms.comp,v 1.148 2015/02/06 14:48:24 ginsbach Exp $
@@ -4028,6 +4028,7 @@ EDB	[IATA] El Debba, Sudan
 EDCHPSYCHD	Doctor of Educational and Child Psychology
 EDD	Doctor of Education
 EDD	[IATA] Erldunda, Northern Territory, Australia
+EDDF	[gc] Eeste Dä Dat Fingk (FTF)
 EDE	[IATA] Edenton Municipal Airport, North Carolina, United States of America
 EDEADLK	(#11) Resource deadlock avoided
 EDESTADDRREQ	(#39) Destination address required
@@ -4723,6 +4724,7 @@ FCS	[IATA] Colorado Springs (Fort Carson), Colorado, United States of America
 FCT	[IATA] Yakima Firing Center Army Air Field, Washington, United States of America
 FCY	[IATA] Forrest City Municipal Airport, Arkansas, United States of America
 FD	file descriptor
+FD	fire department
 FD	floppy disc
 FD	[Kfz:D] Landkreis Fulda
 FDA	Federal Drug Administration
@@ -10876,6 +10878,7 @@ OSD	[IATA] Ostersund (Froson Air Base), Sweden
 OSE	[IATA] Omora, Papua New Guinea
 OSF	open software foundation
 OSGB	Ordnance Survey National Grid of Great Britain (OSGB36)
+OSGI	Open Service Gateway initiative
 OSH	[IATA] Oshkosh (Wittman Regional Airport), Wisconsin, United States of America
 OSI	Open Source Initiative
 OSI	open systems interconnection
@@ -16198,6 +16201,7 @@ WSE	[IATA] Santa Cecilia, Ecuador
 WSF	[IATA] Sarichef, Alaska, United States of America
 WSF	[Kfz:D] Landkreis Weißenfels
 WSG	[IATA] Washington County, Pennsylvania, United States of America
+WSGI	Web Server Gateway Interface
 WSH	[IATA] Shirley (Brookhaven Airport), New York, United States of America
 WSJ	[IATA] San Juan (Uganik), Alaska, United States of America
 WSK	[IATA] Arlington, Texas, United States of America
