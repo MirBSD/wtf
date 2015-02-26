@@ -1,4 +1,4 @@
-$MirOS: wtf/acronyms,v 1.458 2015/02/13 22:08:48 tg Exp $
+$MirOS: wtf/acronyms,v 1.459 2015/02/26 21:29:09 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.11 2014/09/05 22:38:17 tg Exp $
 $NetBSD: acronyms,v 1.224 2014/05/25 21:49:29 dholland Exp $
 $NetBSD: acronyms.comp,v 1.148 2015/02/06 14:48:24 ginsbach Exp $
@@ -6414,6 +6414,7 @@ I.D.R.	in der Regel
 I.E.	id est (it is, that is)
 I/O	input / output
 I000	[Oracle] Disk and Tape I/O Slave Process
+I18N	internationalisation
 I2O	intelligent input/output
 IA	information assurance
 IA	[USA] Iowa
@@ -7923,6 +7924,7 @@ L	[Kfz:D] kreisfreie Stadt Leipzig und Landkreis Leipziger Land
 L	[Kfz:D] Lahn-Dill-Kreis, Zulassungsstelle in Wetzlar, Nebenstelle in Dillenburg
 L	[Kfz] Luxemburg
 L000	[Oracle] Pooled Server Process
+L10N	localisation
 L8	late
 L8ER	later
 L8R	later
