@@ -1,7 +1,9 @@
-# $MirOS: wtf/Makefile,v 1.2 2005/03/13 18:34:07 tg Exp $
+# $MirOS: wtf/Makefile,v 1.3 2015/03/13 21:18:21 tg Exp $
 
 SCRIPTS=	wtf
 MAN=		wtf.1
+
+NROFF=		nrcon -u ${MACROS} ${PAGES}
 
 realinstall:
 	cd ${.CURDIR}; install -c -o ${BINOWN} -g ${BINGRP} -m ${BINMODE} \

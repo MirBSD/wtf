@@ -1,8 +1,8 @@
-.\" $MirOS: wtf/wtf.1,v 1.12 2014/12/07 14:20:26 tg Exp $
+.\" $MirOS: wtf/wtf.1,v 1.13 2015/03/13 21:18:22 tg Exp $
 .\" $NetBSD: wtf.6,v 1.4 2001/04/02 22:42:40 wiz Exp $
 .\"-
-.\" Copyright © 2002, 2003, 2006, 2010, 2011, 2012, 2014
-.\"	Thorsten Glaser <tg@mirbsd.org>
+.\" Copyright © 2002, 2003, 2006, 2010, 2011, 2012, 2014, 2015
+.\"	Thorsten “mirabilos” Glaser <tg@mirbsd.org>
 .\"
 .\" Provided that these terms and disclaimer and all copyright notices
 .\" are retained or reproduced in an accompanying document, permission
@@ -73,7 +73,7 @@
 .\" with -mandoc, it might implement .Mx itself, but we want to
 .\" use our own definition. And .Dd must come *first*, always.
 .\"
-.Dd $Mdocdate: December 7 2014 $
+.Dd $Mdocdate: March 13 2015 $
 .\"
 .\" Check which macro package we use, and do other -mdoc setup.
 .\"
@@ -208,6 +208,12 @@ allowing the fairly natural
 and, for German users,
 .Sy wtf\ ist\ n8
 usage.
+.Pp
+The following non-ASCII characters are understood and translated
+to their upper-case equivalents or whose case does not matter;
+if your search contains any other Unicode characters above U+007E,
+you may need to upper-case the search term yourself.
+.Dl "ä ö ü ß"
 .Sh ENVIRONMENT
 .Bl -tag -width ACRONYMDB
 .It Ev ACRONYMDB
