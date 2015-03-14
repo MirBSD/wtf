@@ -1,33 +1,149 @@
-$MirOS: wtf/acronyms,v 1.460 2015/03/07 20:52:50 tg Exp $
+!	[MORSE] -.-.-- (KW digraph)
+"	[MORSE] .-..-.
+# ucase: Ä Ö Ü Ñ Á É Í Ó Ç È
+$	[MORSE] ...-..- (not ITU-R)
+$MirOS: wtf/acronyms,v 1.461 2015/03/14 01:09:16 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.11 2014/09/05 22:38:17 tg Exp $
 $NetBSD: acronyms,v 1.224 2014/05/25 21:49:29 dholland Exp $
 $NetBSD: acronyms.comp,v 1.148 2015/02/06 14:48:24 ginsbach Exp $
 $NetBSD: airport,v 1.58 2014/09/21 08:38:03 mbalmer Exp $
-$OpenBSD: airport,v 1.50 2015/02/10 09:30:37 sthen Exp $
+$OpenBSD: airport,v 1.51 2015/03/13 17:51:25 giovanni Exp $
+&	[MORSE] .-... (not ITU-R)
+'	[MORSE] .----.
+(	[MORSE] -.--.
+)	[MORSE] -.--.-
++	[MORSE] .-.-.
+,	[MORSE] --..--
+-	International Radiotelephony Spelling Alphabet: DASH (hyphen)
+-	[MORSE] -....-
+-	[MORSE] T
+--	[MORSE] M
+---	[MORSE] O
+----	[MORSE] CH, ch, Ĥ, ĥ, Š, š
+-----	[MORSE] 0
+----.	[MORSE] 9
+---.	[MORSE] Ó, ó, Ö, ö, Ø, ø, USA/Carribean antiquated for ’!’ (MN digraph)
+---..	[MORSE] 8
+---...	[MORSE] ‘:’
+--.	[MORSE] G
+--.-	[MORSE] Q
+--.--	[MORSE] Ñ, ñ, Ń, ń
+--.-.	[MORSE] Ĝ, ĝ
+--..	[MORSE] Z
+--..-	[MORSE] Ż, ż
+--..--	[MORSE] ‘,’
+--..-.	[MORSE] Ź, ź
+--...	[MORSE] 7
+-.	[MORSE] N
+-.-	[MORSE] K (prosign for invitation to transmit)
+-.--	[MORSE] Y
+-.--.	[MORSE] ‘(’ (KN digraph; prosign for go ahrad, named station)
+-.--.-	[MORSE] ‘)’
+-.--.-.	[MORSE] bsdgames wrong for ‘(’ and ‘)’
+-.-.	[MORSE] C
+-.-.-	[MORSE] (CT/KA digraph; prosign for starting signal; CT=attention, commencing transmission; KA=copy this)
+-.-.--	[MORSE] ‘!’ (KW digraph)
+-.-.-.	[MORSE] ‘;’
+-.-..	[MORSE] Ç, ç, Ć, ć, Ĉ, ĉ
+-.-..-..	[MORSE] (CL digraph; prosign for closing down; clear)
+-..	[MORSE] D
+-..-	[MORSE] X
+-..---	[MORSE] (DO digraph; prosign for shift to Wabun code)
+-..-.	[MORSE] ‘/’
+-...	[MORSE] B
+-...-	[MORSE] ‘=’ (BT digraph; prosign for new paragraph, two newlines)
+-...-.-	[MORSE] (BK digraph; prosign for break, back-to-you)
+-....	[MORSE] 6
+-....-	[MORSE] ‘-’
+.	International Radiotelephony Spelling Alphabet: DECIMAL, POINT (decimal point)
+.	International Radiotelephony Spelling Alphabet: STOP (full stop, period)
+.	[MORSE] .-.-.-
+.	[MORSE] E
+.-	[MORSE] A
+.--	[MORSE] W
+.---	[MORSE] J
+.----	[MORSE] 1
+.----.	[MORSE] ‘'’
+.---.	[MORSE] Ĵ, ĵ
+.--.	[MORSE] P
+.--.-	[MORSE] À, à, Å, å
+.--.-.	[MORSE] ‘@’ (AC digraph)
+.--..	[MORSE] Þ, þ
+.-.	[MORSE] R
+.-.-	[MORSE] Ä, ä, Æ, æ, Ą, ą (AA digraph; prosign for CR-LF)
+.-.-.	[MORSE] ‘+’ (AR digraph; prosign for EOM)
+.-.-.-	[MORSE] ‘.’
+.-..	[MORSE] L
+.-..-	[MORSE] È, è, Ł, ł
+.-..-.	[MORSE] ‘"’
+.-...	[MORSE] ‘&’ (not ITU-R; AS digraph; prosign for wait, number in minutes follows)
+..	[MORSE] I
+..-	[MORSE] U
+..--	[MORSE] Ü, ü, Ŭ, ŭ
+..---	[MORSE] 2
+..--.	[MORSE] Ð, ð
+..--.-	[MORSE] ‘_’ (not ITU-R)
+..--..	[MORSE] ‘?’
+..-.	[MORSE] F
+..-..	[MORSE] É, é, Đ, đ, Ę, ę
+...	[MORSE] S
+...-	[MORSE] V
+...--	[MORSE] 3
+...---...	[MORSE] (SOS digraph; prosign for serious distress message and request for urgent assistance)
+...-.	[MORSE] Ŝ, ŝ (SN/VE digraph; prosign for: SN=understood; VE=show enough)
+...-.-	[MORSE] bsdgames wrong for ‘@’ (SK/VA digraph; prosign for: SK=end of contact/work; VA=silent key)
+...-..-	[MORSE] ‘$’ (not ITU-R; SX digraph)
+...-...	[MORSE] Ś, ś
+....	[MORSE] H, USA antiquated for ‘&’ (ES digraph)
+....-	[MORSE] 4
+.....	[MORSE] 5
+........	[MORSE] (prosign for error)
+/	[MORSE] -..-.
+0	International Radiotelephony Spelling Alphabet: NADAZERO
 0	[Kfz:D] Diplomatenkennzeichen oder Politiker
+0	[MORSE] -----
+1	International Radiotelephony Spelling Alphabet: UNAONE
 1	one, on
+1	[MORSE] .----
 1080I	1920x540px (interlaced)
 1080P	1920x1080px
 10Q	thank you
 10X	tenx (thanks)
 1337	elite ("leet")
+2	International Radiotelephony Spelling Alphabet: BISSOTWO
 2	two, to
+2	[MORSE] ..---
 224	today, tomorrow, forever
 2A0	1189×1682 mm (46¾×66¼ in)
 2B0	1414×2000 mm (55.6692×78.7401 in)
 2IC	second in charge
 2MORROW	tomorrow
+3	International Radiotelephony Spelling Alphabet: TERRATHREE
+3	[MORSE] ...--
 31337	elite ("eleet")
 3GPP	3rd generation partnership project
 3LD	third-level domain
 3WHS	three-way handshake
 4	four, for
+4	International Radiotelephony Spelling Alphabet: KARTEFOUR
+4	[MORSE] ....-
 4A0	1682×2378 mm (66¼×93⅝ in)
 4TF	[gc] fourth to find
 4TW	for the win
+5	International Radiotelephony Spelling Alphabet: PANTAFIVE
+5	[MORSE] .....
+6	International Radiotelephony Spelling Alphabet: SOXISIX
+6	[MORSE] -....
+7	International Radiotelephony Spelling Alphabet: SETTESEVEN
+7	[MORSE] --...
 720P	1280x720px
 8	eight, ate
+8	International Radiotelephony Spelling Alphabet: OKTOEIGHT
+8	[MORSE] ---..
 8VSB	8-state vestigial side band modulation
+9	International Radiotelephony Spelling Alphabet: NOVENINE, NINER
+9	[MORSE] ----.
+:	[MORSE] ---...
 :'(	(emoticon: cry, with tears)
 :(	(emoticon: sad)
 :)	(emoticon: smile)
@@ -40,12 +156,27 @@ $OpenBSD: airport,v 1.50 2015/02/10 09:30:37 sthen Exp $
 :O	(emoticon: shocked)
 :O)	(emoticon: clown)
 :P	(emoticon: tongue)
+;	[MORSE] -.-.-.
 ;)	(emoticon: wink)
 ;-)	(emoticon: wink)
 </3	(emoticon: a broken heart)
 <3	(emoticon: a heart)
+=	[MORSE] -...-
+?	[MORSE] ..--..
+@	[MORSE] .--.-.
+A	British A/International Spelling Alphabet: AMSTERDAM
+A	British Forces 1952 Spelling Alphabet: ABEL
+A	deutsches Funkalphabet: ANTON
+A	French Spelling Alphabet: ANATOLE
+A	International Radiotelephony Spelling Alphabet: ALPHA, ALFA
+A	Italian Spelling Alphabet: ANCONA
+A	New York Police Spelling Alphabet: ADAM
+A	RAF 1942/1943 Spelling Alphabet: APPLE
+A	Spanish Spelling Alphabet: ANTONIO
+A	Telecom B Spelling Alphabet: ALFRED
 A	[Kfz:D] kreisfreie Stadt und Landkreis Augsburg
 A	[Kfz] Österreich
+A	[MORSE] .-
 A-C	apt-cache
 A-G	apt-get
 A/N	author's note
@@ -105,6 +236,7 @@ ABD	all but dissertation
 ABD	[IATA] Abadan, Iran
 ABE	[IATA] Allentown-Bethlehem-Easton International, Pennsylvania, United States of America
 ABE	[IATA] Lehigh Valley International, Pennsylvania, United States of America
+ABEL	A (British Forces 1952 Spelling Alphabet)
 ABF	[IATA] Abaiang, Kiribati
 ABG	[IATA] Abingoon, Queensland, Australia
 ABG	[Kfz:D] Landkreis Altenburger Land
@@ -212,6 +344,7 @@ AD	anno domini
 AD	[ccTLD] Andorra
 AD	[ISO 3166] Andorra
 ADA	[IATA] Adana (Incirlik Air Base), Turkey
+ADAM	A (New York Police Spelling Alphabet)
 ADB	Apple desktop bus
 ADB	[IATA] Izmir (Adnan Menderes), Turkey
 ADC	analog [to] digital converter
@@ -505,6 +638,7 @@ ALF	Außerirdische Lebensform
 ALF	[IATA] Alta, Norway
 ALF	[Kfz:D] Landkreis Alfeld
 ALFA	A (International Radiotelephony Spelling Alphabet)
+ALFRED	A (Telecom B Spelling Alphabet)
 ALG	[IATA] Algiers (Houari Boumediene), Algeria
 ALGOL	algorithmic language
 ALH	[IATA] Albany, Western Australia, Australia
@@ -572,6 +706,7 @@ AMR	[IATA] Arno, Marshall Islands
 AMS	[IATA] Schiphol, Amsterdam, Netherlands
 AMST	[TZif] America/Campo_Grande (DST)
 AMST	[TZif] America/Cuiaba (DST)
+AMSTERDAM	A (British A/International Spelling Alphabet)
 AMT	active management technology
 AMT	[IATA] Amata, Northern Territory, Australia
 AMT	[TZif] America/Campo_Grande
@@ -594,9 +729,11 @@ AN	[Kfz:D] kreisfreie Stadt und Landkreis Ansbach
 ANA	[IATA] Anaheim/Disneyland, California, United States of America
 ANA	[Kfz:D] Landkreis Annaberg
 ANAIS	architecture not allowed in source
+ANATOLE	A (French Spelling Alphabet)
 ANB	[IATA] Anniston Metropolitan Airport, Alabama, United States of America
 ANBU	[Naruto] Ansatsu Senjutsu Tokushu Butai (暗殺戦術特殊部隊, Special Assassination and Tactical Squad)
 ANC	[IATA] Ted Stevens Anchorage International, Alaska, United States of America
+ANCONA	A (Italian Spelling Alphabet)
 AND	[IATA] Anderson County Airport, South Carolina, United States of America
 AND	[Kfz] Andorra
 ANE	[IATA] Angers, France
@@ -623,6 +760,7 @@ ANR	[IATA] Antwerp (Deurne), Belgium
 ANS	[IATA] Andahuaylas, Peru
 ANSI	American National Standards Institute
 ANTON	A (deutsches Funkalphabet)
+ANTONIO	A (Spanish Spelling Alphabet)
 ANU	[IATA] Antigua, Leeward Islands
 ANU	[IATA] V.C. Bird International, Saint Johns / Antigua, Antigua and Barbuda
 ANV	[IATA] Anvik Airport, Alaska, United States of America
@@ -641,7 +779,7 @@ AOC	[IATA] Altenburg, Germany
 AOD	[IATA] Abou Deia, Chad
 AOG	[IATA] Anshan, China
 AOH	[IATA] Lima Allen County Airport, Ohio, United States of America
-AOI	[IATA] Ancona, Italy
+AOI	[IATA] Aeroporto delle Marche (Falconara), Ancona, Italy
 AOJ	[IATA] Aomori, Japan
 AOK	[IATA] Karpathos, Greece
 AOL	Alert-on-LAN
@@ -693,6 +831,7 @@ APO	Allgemeine Prüfungsordnung
 APO	[IATA] Apartado, Colombia
 APOGOST	[Schule DE] Allgemeine Prüfungsordnung der Gymnasialen Oberstufe
 APP	[IATA] Asapa, Papua New Guinea
+APPLE	A (RAF 1942/1943 Spelling Alphabet)
 APR	[IATA] April River, Papua New Guinea
 APRS	automated position reporting system
 APRS	Automatic Packet Reporting System
@@ -1048,9 +1187,20 @@ AZT	[IATA] Zapatoca, Colombia
 AZT	[TZif] Asia/Baku
 AÖ	[Kfz:D] Landkreis Altötting
 B	B (PSE#5) Borium, Bor, Boron | Erdmetalle (Borgruppe) | boron group
+B	British A/International Spelling Alphabet: BALTIMORE
+B	British Forces 1952 Spelling Alphabet: BAKER
+B	deutsches Funkalphabet: BERTA
+B	French Spelling Alphabet: BERTHE
+B	International Radiotelephony Spelling Alphabet: BRAVO
+B	Italian Spelling Alphabet: BOLOGNA
+B	New York Police Spelling Alphabet: BOY
+B	RAF 1942/1943 Spelling Alphabet: BEER
+B	Spanish Spelling Alphabet: BARCELONA
+B	Telecom B Spelling Alphabet: BENJAMIN
 B	[Kfz:D] Berlin
 B	[Kfz:D] Berlin, Senat und Abgeordnetenhaus
 B	[Kfz] Belgien
+B	[MORSE] -...
 B/C	because
 B/S	bullshit
 B/W	bandwidth
@@ -1098,10 +1248,12 @@ BAK	back at keyboard
 BAK	Backup
 BAK	Blutalkoholkonzentration
 BAK	[IATA] Heydar Aliyev (former Baku Bina International), Baku, Azerbaijan
+BAKER	B (British Forces 1952 Spelling Alphabet)
 BAL	basic assembly language
 BAL	[IATA] Batman Military Air Base, Turkey
 BAL	[IATA] Nearest Air Service Through Diyarbakir, Batman, Turkey
 BALGE	by and large good enough
+BALTIMORE	B (British A/International Spelling Alphabet)
 BAM	[IATA] Battle Mountain (Lander County), Nevada, United States of America
 BAMF	bad-ass motherfucker
 BAMP	BSD Apache MySQL {Perl,PHP,Python}
@@ -1114,6 +1266,7 @@ BAQ	[IATA] Ernesto Cortissoz International, Barranquilla, Colombia
 BAR	base address register
 BAR	[IATA] Baker Island, Baker & Howland Islands
 BAR	[Kfz:D] Landkreis Barnim
+BARCELONA	B (Spanish Spelling Alphabet)
 BARCH	Bachelor of Architecture
 BAS	[IATA] Balalae, Solomon Islands
 BASC	Bachelor of Arts and Science
@@ -1289,6 +1442,7 @@ BED	[IATA] Laurence G. Hanscom, Bedford, Massachusetts, United States of America
 BED	[Kfz:D] Landkreis Brand-Erbisdorf
 BEDO	burst extended data output
 BEE	[IATA] Beagle Bay, Western Australia, Australia
+BEER	B (RAF 1942/1943 Spelling Alphabet)
 BEF	[IATA] Bluefields, Nicaragua
 BEG	[IATA] Belgrade International Airport (Nikola Tesla), Belgrade, Serbia
 BEH	[IATA] Ross Field, Benton Harbor, Michigan, United States of America
@@ -1304,6 +1458,7 @@ BEM	[IATA] Bossembele, Central African Republic
 BEN	[IATA] Benghazi (Benina), Libya
 BENELUX	Belgium, Netherlands, Luxembourg
 BENG	Bachelor of Engineering
+BENJAMIN	B (Telecom B Spelling Alphabet)
 BEO	[IATA] Newcastle (Belmont Airport), New South Wales, Australia
 BEP	[IATA] Bellary, India
 BEQ	[IATA] Bury St. Edmunds, England, United Kingdom of Great Britain and Northern Ireland
@@ -1314,6 +1469,7 @@ BER	[IATA] Berlin/Brandenburg, Berlin, Germany
 BER	[IATA] Schoenefeld, Berlin, Germany
 BER	[Kfz:D] Landkreis Bernau
 BERTA	B (deutsches Funkalphabet)
+BERTHE	B (French Spelling Alphabet)
 BES	[IATA] Brest/Bretagne, Brest, France
 BES	[IATA] Guipavas, Brest, France
 BET	[IATA] Bethel Airport, Alaska, United States of America
@@ -1714,6 +1870,7 @@ BOJ	[IATA] Burgas, Bulgaria
 BOK	[IATA] Brookings State Airport, Oregon, United States of America
 BOL	[IATA] Ballykelly, Northern Ireland
 BOL	[Kfz] Bolivien
+BOLOGNA	B (Italian Spelling Alphabet)
 BOM	beginning of message
 BOM	Byte Order Mark (U+FEFF)
 BOM	U+FEFF ZERO WIDTH NO-BREAK SPACE
@@ -1733,6 +1890,7 @@ BOU	[IATA] Bourges, France
 BOV	[IATA] Boang, Papua New Guinea
 BOW	[IATA] Bartow Municipal Airport, Florida, United States of America
 BOX	[IATA] Borroloola, Northern Territory, Australia
+BOY	B (New York Police Spelling Alphabet)
 BOY	[IATA] Bobo Dioulasso, Burkina Faso
 BOZ	[IATA] Bozoum, Central African Republic
 BP	base pointer
@@ -2160,9 +2318,17 @@ BÜDG	Bahnübergang des Grauens
 BÜR	[Kfz:D] Kreis Büren
 BÜS	[Kfz:D] Gemeinde Büsingen am Hochrhein im Landkreis Konstanz
 BÜZ	[Kfz:D] Landkreis Bützow
+C	British A/International Spelling Alphabet: CASABLANCA
 C	C (PSE#6) Carbonium, Kohlenstoff, Carbon | Kohlenstoff/Silicium-Gruppe | carbon group
+C	deutsches Funkalphabet: CÄSAR
+C	French Spelling Alphabet: CÉLESTIN
+C	International Radiotelephony Spelling Alphabet; British Forces 1952 Spelling Alphabet; New York Police Spelling Alphabet; RAF 1942/1943 Spelling Alphabet: CHARLIE
+C	Italian Spelling Alphabet: COMO
+C	Spanish Spelling Alphabet: CARMEN
+C	Telecom B Spelling Alphabet: CHARLES
 C	[Kfz:D] Landkreis Chemnitz
 C	[Kfz] Kuba
+C	[MORSE] -.-.
 C++	CFrustFrust
 C.P.	ceteris paribus
 C/P	copy/paste
@@ -2181,7 +2347,7 @@ C7	81×114 mm (3 3/16×4½ in)
 C8	57×81 mm (2¼×3 3/16 in)
 C9	40×57 mm (1⅝×2¼ in)
 CA	Ca (PSE#20) Calcium | Erdalkalimetalle | alkaline earth metals | metalla alcalica terrena
-CA	certificate authority
+CA	certification authority
 CA	[ccTLD] Kanada
 CA	[ISO 3166] Canada
 CA	[Kfz:D] Landkreis Calau
@@ -2196,6 +2362,7 @@ CACHE	Cohährente Anhänger Creativer Hoheitlicher Einheit
 CAD	computer-aided design
 CAD	[IATA] Cadillac (Wexford County Airport), Michigan, United States of America
 CADD	Computer Aided Drafting and Design
+CADES	CMS Advanced Electronic Signature
 CAE	[IATA] Columbia Metropolitan, South Carolina, United States of America
 CAF	[IATA] Carauari, Amazonas, Brazil
 CAG	[IATA] Cagliari (Elmas), Sardinia, Italy
@@ -2219,6 +2386,7 @@ CAP	[IATA] Cap Haitien, Haiti
 CAPTCHA	Completely Automated Public Turing test to tell Computers and Humans Apart
 CAQ	[IATA] Caucasia, Colombia
 CAR	[IATA] Caribou Municipal Airport, Maine, United States of America
+CARMEN	C (Spanish Spelling Alphabet)
 CARP	Common Address Redundancy Protocol
 CAS	(atomic) compare and swap
 CAS	column address strobe
@@ -2226,6 +2394,7 @@ CAS	Community Authorisation Service
 CAS	computer algebra system
 CAS	[IATA] Casablanca (Metropolitan), Morocco
 CAS	[Kfz:D] kreisfreie Stadt Castrop-Rauxel
+CASABLANCA	C (British A/International Spelling Alphabet)
 CASE	computer aided software engineering
 CASEVAC	Casualty Evacuation
 CAT	[IATA] Cat Island, Bahamas
@@ -2398,12 +2567,15 @@ CED	[IATA] Ceduna, South Australia, Australia
 CEF	[IATA] Springfield/Chicopee (Air Reserve), Massachusetts, United States of America
 CEG	[IATA] Chester, United Kingdom of Great Britain and Northern Ireland
 CEH	[IATA] Chengteh, China
+CEI	Comitato Elettrotecnico Italiano
 CEI	[IATA] Chiang Rai [Chiang Rai International Airport], Thailand
 CEJ	[IATA] Chernihiv (Chernigov), Ukraine
 CEK	[IATA] Chelyabinsk, Russia
 CEL	[IATA] Cape Eleuthera, Bahamas
 CEM	[IATA] Central Airport, Alaska, United States of America
+CEN	Comité européen de normalisation
 CEN	[IATA] Ciudad Obregon, Mexico
+CENELEC	Comité européen de normalisation en électronique et en électrotechnique
 CEO	chief executive officer
 CEO	[IATA] Waco Kungo, Angola
 CEP	[IATA] Concepcion, Bolivia
@@ -2565,15 +2737,20 @@ CGX	[IATA] Chicago Merrill C. Meigs Field, Chicago, Illinois, United States of A
 CGY	[IATA] Cagayan de Oro, Philippines
 CGZ	[IATA] Casa Grande Municipal Airport, Arizona, United States of America
 CH	Context Handler
+CH	deutsches Funkalphabet: CHARLOTTE
+CH	Spanish Spelling Alphabet: CHOCOLATE
 CH	[ccTLD] Schweiz
 CH	[ISO 3166] Switzerland
 CH	[Kfz] Schweiz
+CH	[MORSE] ----
 CHA	[IATA] Chattanooga (Lovell Field), Tennessee, United States of America
 CHA	[Kfz:D] Landkreis Cham
 CHADT	[TZif] NZ-CHAT (DST)
 CHADT	[TZif] Pacific/Chatham (DST)
 CHAP	Challenge-Handshake Authentication Protocol
-CHARLIE	C (International Radiotelephony Spelling Alphabet)
+CHARLES	C (Telecom B Spelling Alphabet)
+CHARLIE	C (International Radiotelephony Spelling Alphabet; British Forces 1952 Spelling Alphabet; New York Police Spelling Alphabet; RAF 1942/1943 Spelling Alphabet)
+CHARLOTTE	CH (deutsches Funkalphabet)
 CHAST	[TZif] NZ-CHAT
 CHAST	[TZif] Pacific/Chatham
 CHB	Bachelor of Surgery
@@ -2592,6 +2769,7 @@ CHM	[IATA] Chimbote, Peru
 CHN	[IATA] Chonju, South Korea
 CHN	[Kfz] China (Volksrepublik) (nicht offiziell)
 CHO	[IATA] Charlottesville-Albemarle Airport, Virginia, United States of America
+CHOCOLATE	CH (Spanish Spelling Alphabet)
 CHP	[IATA] Circle Hot Springs Airport, Alaska, United States of America
 CHQ	[IATA] Chania, Souda, Greece
 CHR	[IATA] Chateauroux (Deols), France
@@ -2861,6 +3039,7 @@ COM	[IATA] Coleman Municipal Airport, Texas, United States of America
 COM	[Kfz] Komoren
 COM	[uTLD] commercial (Firmen)
 COMA	cache-only memory architecture
+COMO	C (Italian Spelling Alphabet)
 COMP	Komponentendiagramm
 CON	[IATA] Concord Municipal Airport, New Hampshire, United States of America
 COO	Chief Operating Officer
@@ -2940,6 +3119,7 @@ CR	[ccTLD] Costa Rica
 CR	[ISO 3166] Costa Rica
 CR	[Kfz:D] Landkreis Crailsheim
 CR	[Kfz] Costa Rica
+CR-LF	carriage return plus line feed (newline)
 CRA	[IATA] Craiova, Romania
 CRAM	challenge-response authentication method
 CRB	[IATA] Collarenebri, New South Wales, Australia
@@ -2963,6 +3143,7 @@ CRM	[IATA] Charleston (WV) Yeager, South Carolina, United States of America
 CRN	[IATA] Cromarty, United Kingdom of Great Britain and Northern Ireland
 CRO	[IATA] Corcoran Airport, California, United States of America
 CRO	[Kfz] Kroatien (veraltet)
+CROBIES	Cross-Border Interoperability of eSignature
 CRP	[IATA] Corpus Christi International, Texas, United States of America
 CRQ	[IATA] Caravelas, Bahia, Brazil
 CRR	[IATA] Ceres, Argentina
@@ -3013,6 +3194,7 @@ CSMA	carrier sense multiple access
 CSMA/CA	carrier sense multiple access with collision avoidance
 CSMA/CD	carrier sense multiple access with collision detection
 CSN	[IATA] Carson City Airport, Nevada, United States of America
+CSP	Certification Service Provider
 CSP	Christlichsoziale Partei
 CSP	Content Security Policy
 CSP	[IATA] Cape Spencer Coast Guard Heliport, Alaska, United States of America
@@ -3244,10 +3426,20 @@ CZY	[IATA] Cluny, Queensland, Australia
 CZZ	[IATA] Campo, California, United States of America
 C|N>K	coffee pipe nose to keyboard
 CÄSAR	C (deutsches Funkalphabet)
+CÉLESTIN	C (French Spelling Alphabet)
+D	British A/International Spelling Alphabet: DENMARK
+D	British Forces 1952 Spelling Alphabet; RAF 1942/1943 Spelling Alphabet: DOG
 D	D (PSE#1) Deuterium (special case)
+D	deutsches Funkalphabet: DORA
+D	French Spelling Alphabet: DÉSIRÉ
+D	International Radiotelephony Spelling Alphabet: DELTA
+D	Italian Spelling Alphabet: DOMODOSSOLA
+D	New York Police Spelling Alphabet; Telecom B Spelling Alphabet: DAVID
+D	Spanish Spelling Alphabet: DOLORES
 D	[Kfz:D] Kreis Düsseldorf-Mettmann
 D	[Kfz] Deutsche Demokratische Republik (veraltet)
 D	[Kfz] Deutschland
+D	[MORSE] -..
 D&R	duck and run
 D/B/A	doing business as
 D/L	download
@@ -3308,6 +3500,7 @@ DAU	[Kfz:D] Landkreis Daun
 DAU	[Kfz:D] Landkreis Vulkaneifel
 DAV	Distributed Authoring and Versioning
 DAV	[IATA] David (Aeropuerto Henrique Malek), Panama
+DAVID	D (New York Police Spelling Alphabet; Telecom B Spelling Alphabet)
 DAX	[IATA] Daxian, China
 DAY	[IATA] Dayton James M. Cox International, Ohio, United States of America
 DAZ	[IATA] Darwaz, Afghanistan
@@ -3436,6 +3629,7 @@ DEL	[Kfz:D] kreisfreie Stadt Delmenhorst
 DELTA	D (International Radiotelephony Spelling Alphabet)
 DEM	[IATA] Dembidollo, Ethiopia
 DEN	[IATA] Denver International, Colorado, United States of America
+DENMARK	D (British A/International Spelling Alphabet)
 DEO	[IATA] Dearborn Helistop, Michigan, United States of America
 DEP	data execution prevention
 DER	ASN.1 distinguished encoding rules
@@ -3526,6 +3720,7 @@ DIQ	[IATA] Divinopolis, Minas Gerais, Brazil
 DIR	[IATA] Dire Dawa (Aba Tenna D. Yilma), Ethiopia
 DIRT	design in real time
 DIS	[IATA] Dolisie, Congo
+DIT	Directory Information Tree
 DIV	division
 DIW	[IATA] Diwan of Royal Court, Oman
 DIY	do it yourself
@@ -3628,6 +3823,7 @@ DMUP	Debian Machine Usage Policy
 DMUS	Doctor of Music
 DMZ	demilitarised zone
 DN	Diploma of Nursing
+DN	Distinguished Name
 DN	[Kfz:D] Kreis Düren
 DNA	[IATA] Okinawa, (Kadena Air Force Base), Japan
 DNARD	Digital network appliance reference design
@@ -3676,15 +3872,18 @@ DOE	distributed object environment
 DOE	[IATA] Djoemoe, Suriname
 DOF	data over fibre
 DOF	[IATA] Dora Bay, Alaska, United States of America
+DOG	D (British Forces 1952 Spelling Alphabet; RAF 1942/1943 Spelling Alphabet)
 DOG	[IATA] Dongola, Sudan
 DOH	[IATA] Doha, Qatar
 DOI	[IATA] Doini, Papua New Guinea
 DOJ	[USA] Department of Justice
 DOK	[IATA] Donets'k Sergey Prokofiev International, Donets'k, Ukraine
 DOL	[IATA] Deauville (Saint Gatien), France
+DOLORES	D (Spanish Spelling Alphabet)
 DOM	document object model
 DOM	[IATA] Dominica (Melville Hall), Dominica
 DOM	[Kfz] Dominikanische Republik
+DOMODOSSOLA	D (Italian Spelling Alphabet)
 DON	[IATA] Dos Lagunas, Guatemala
 DON	[Kfz:D] Landkreis Donau-Ries
 DON	[Kfz:D] Landkreis Donauwörth
@@ -3903,12 +4102,22 @@ DZ	[Kfz:D] Landkreis Delitzsch
 DZ	[Kfz] Algerien
 DZA	[IATA] Dzaoudzi (Pamandzi), Mayotte
 DZI	[IATA] Codazzi, Colombia
+DÉSIRÉ	D (French Spelling Alphabet)
 DÜW	[Kfz:D] Landkreis Bad Dürkheim
 E	2.718281828459045235360287471352662497757…
+E	British A/International Spelling Alphabet: EDISON
+E	British Forces 1952 Spelling Alphabet: EASY
+E	deutsches Funkalphabet: EMIL
 E	E (PSE#99) Einsteinium (alt.)
+E	French Spelling Alphabet: EUGÈNE
+E	International Radiotelephony Spelling Alphabet: ECHO
+E	Italian Spelling Alphabet: EMPOLI
+E	New York Police Spelling Alphabet; RAF 1942/1943 Spelling Alphabet; Telecom B Spelling Alphabet: EDWARD
 E	Osten, east
+E	Spanish Spelling Alphabet: ENRIQUE
 E	[Kfz:D] kreisfreie Stadt Essen
 E	[Kfz] Spanien
+E	[MORSE] .
 E-XER	extended XML encoding rules
 E.G.	exempli gratia (for example)
 E000	[Oracle] EMON Slave Process
@@ -3944,6 +4153,7 @@ EASST	[TZif] Chile/EasterIsland (DST)
 EASST	[TZif] Pacific/Easter (DST)
 EAST	[TZif] Chile/EasterIsland
 EAST	[TZif] Pacific/Easter
+EASY	E (British Forces 1952 Spelling Alphabet)
 EAT	[IATA] Wenatchee (Pangborn Memorial), Washington, United States of America
 EAT	[Kfz] Tansania
 EAU	[IATA] Eau Claire (Chippewa Valley), Wisconsin, United States of America
@@ -4040,6 +4250,7 @@ EDGE	explicit data graph execution
 EDGE	IMT Single Carrier (IMT-SC)
 EDI	[IATA] Edinburgh, Scotland, United Kingdom of Great Britain and Northern Ireland
 EDID	extended display identification data
+EDISON	E (British A/International Spelling Alphabet)
 EDK	[IATA] El Dorado (Captain Jack Thomas), Kansas, United States of America
 EDL	[IATA] Eldoret, Kenya
 EDM	[IATA] La Roche, France
@@ -4081,6 +4292,7 @@ EDT	[TZif] US/Michigan (DST)
 EDU	[sTLD] educational (Bildungseinrichtungen)
 EDV	Elektronische Datenverarbeitung
 EDW	[IATA] Edwards (Air Force Base), California, United States of America
+EDWARD	E (New York Police Spelling Alphabet; RAF 1942/1943 Spelling Alphabet; Telecom B Spelling Alphabet)
 EE	electrical engineering
 EE	[ccTLD] Estland
 EE	[ISO 3166] Estonia
@@ -4164,6 +4376,7 @@ EFL	[IATA] Kefalonia, Greece
 EFM	eight to fourteen modulation
 EFO	[IATA] East Fork, Alaska, United States of America
 EFT	electronic funds transfer
+EFTA	European Free Trade Association
 EFTYPE	(#79) Inappropriate file type or format
 EFW	[IATA] Jefferson Municipal Airport, Iowa, United States of America
 EG	Europäische Gemeinschaft (now EU)
@@ -4312,6 +4525,7 @@ EMO	[IATA] Emo, Ontario, Canada
 EMON	[Oracle] event monitor
 EMP	electro-magnetic pulse
 EMP	[IATA] Emporia Municipal Airport, Kansas, United States of America
+EMPOLI	E (Italian Spelling Alphabet)
 EMR	electro-magnetic radiation
 EMS	Expanded Memory Specification (LIM EMS)
 EMS	[IATA] Embessa, Papua New Guinea
@@ -4374,6 +4588,7 @@ ENOTSOCK	(#38) Socket operation on non-socket
 ENOTSUP	(=EOPNOTSUPP) Operation not supported
 ENOTTY	(#25) Inappropriate ioctl for device
 ENQ	U+0005 ␅ ENQUIRY
+ENRIQUE	E (Spanish Spelling Alphabet)
 ENS	[IATA] Enschede, Netherlands
 ENT	Star Trek: Enterprise
 ENT	[IATA] Enitewok, Marshall Islands
@@ -4495,6 +4710,7 @@ ESF	[IATA] Alexandria Esler Regional Airport, Louisiana, United States of Americ
 ESG	[IATA] Mariscal Estigarribia, Paraguay
 ESH	[IATA] Shoreham, United Kingdom of Great Britain and Northern Ireland
 ESHUTDOWN	(#58) Can't send after socket shutdown
+ESI	ETSI Technical Committee: Electronic Signatures and Infrastructures
 ESI	[IATA] Espinosa, Minas Gerais, Brazil
 ESK	[IATA] Eskisehir, Turkey
 ESL	extended shelf life (milk)
@@ -4511,6 +4727,7 @@ ESR	Eric Steven Raymond -- http://www.catb.org/~esr/
 ESR	[IATA] El Salvador, Chile
 ESRCH	(#3) No such process
 ESS	electronic switching system
+ESS	Enhanced Security Services
 ESS	extended service set
 ESS	[IATA] Essen, Germany
 ESSID	extended service set identifier
@@ -4594,9 +4811,11 @@ EUF	[IATA] Eufaula (Weedon Field), Alabama, United States of America
 EUG	[IATA] Eugene (Mahlon Sweet Field), Oregon, United States of America
 EUGH	Europäischer Gerichtshof
 EUGRIDPMA	EUGridPMA, the European Grid Authentication Policy Management Authority in e-Science
+EUGÈNE	E (French Spelling Alphabet)
 EUID	effective user ID
 EULA	end user licence agreement
 EUM	[IATA] Neumuenster, Germany
+EUMS	European Union Member States
 EUN	[IATA] Laayoune, Morocco
 EUO	[IATA] Paratebueno, Colombia
 EUSERS	(#68) Too many users
@@ -4651,10 +4870,21 @@ EZI	[IATA] Kewanee Municipal Airport, Illinois, United States of America
 EZM	[IATA] Eastman-Dodge County Airport, Georgia, United States of America
 EZS	[IATA] Elazig, Turkey
 EZZ	[IATA] Cameron Memorial Airport, Missouri, United States of America
+F	British A/International Spelling Alphabet: FLORIDA
+F	British Forces 1952 Spelling Alphabet: FOX
+F	deutsches Funkalphabet: FRIEDRICH
 F	F (PSE#9) Fluorum, Fluor, Fluorine | Halogene | halogens | halogenia
 F	false (boolean 0)
+F	French Spelling Alphabet: FRANÇOIS
+F	International Radiotelephony Spelling Alphabet: FOXTROT
+F	Italian Spelling Alphabet: FIRENZE
+F	New York Police Spelling Alphabet: FRANK
+F	RAF 1942/1943 Spelling Alphabet: FREDDY
+F	Spanish Spelling Alphabet: FRANCIA
+F	Telecom B Spelling Alphabet: FREDERICK
 F	[Kfz:D] kreisfreie Stadt Frankfurt am Main
 F	[Kfz] Frankreich
+F	[MORSE] ..-.
 F9	fine
 FAA	[IATA] Faranah, Guinea
 FAB	[IATA] Farnborough, England, United Kingdom of Great Britain and Northern Ireland
@@ -4847,6 +5077,7 @@ FILO	first in, last out
 FIN	[IATA] Finschhafen, Papua New Guinea
 FIN	[Kfz] Finnland
 FIR	fast infrared
+FIRENZE	F (Italian Spelling Alphabet)
 FIT	[IATA] Fitchburg Municipal Airport, Massachusetts, United States of America
 FITB	fill in the blank
 FIV	[IATA] Five Fingers Coast Guard Heliport, Alaska, United States of America
@@ -4891,6 +5122,7 @@ FLM	[IATA] Filadelfia, Paraguay
 FLN	[IATA] Florianopolis, Santa Catarina, Brazil
 FLO	[IATA] Florence Regional Airport, South Carolina, United States of America
 FLOPS	floating [point] operations per second
+FLORIDA	F (British A/International Spelling Alphabet)
 FLOSS	(dental care product)
 FLOSS	free / libre / open source software (deprecated acronym, use OSS)
 FLP	[IATA] Flippin (Marion County), Arkansas, United States of America
@@ -4979,6 +5211,7 @@ FOT	[IATA] Forster, New South Wales, Australia
 FOTF	(FoTF) see: 4TF
 FOTW	fun of the week
 FOU	[IATA] Fougamou, Gabon
+FOX	F (British Forces 1952 Spelling Alphabet)
 FOX	[IATA] Fox, Alaska, United States of America
 FOXTROT	F (International Radiotelephony Spelling Alphabet)
 FOY	[IATA] Foya, Liberia
@@ -5008,10 +5241,15 @@ FR	[ISO 3166] France
 FR	[Kfz:D] Stadtkreis Freiburg im Breisgau und Landkreis Breisgau-Hochschwarzwald
 FR	[Kfz] Färöer (veraltet)
 FRA	[IATA] Frankfurt, Germany
+FRANCIA	F (Spanish Spelling Alphabet)
+FRANK	F (New York Police Spelling Alphabet)
+FRANÇOIS	F (French Spelling Alphabet)
 FRB	[IATA] Forbes, New South Wales, Australia
 FRC	[IATA] Franca, São Paulo, Brazil
 FRD	[IATA] Friday Harbor Airport, Washington, United States of America
 FRE	[IATA] Fera Island, Solomon Islands
+FREDDY	F (RAF 1942/1943 Spelling Alphabet)
+FREDERICK	F (Telecom B Spelling Alphabet)
 FREE	[altTLD] free (frei: strikt nichtkommerzielles Internet)
 FREEBSD	most 1337 open source operating system -- http://www.freebsd.org/
 FREEMINT	see MiNT
@@ -5190,10 +5428,18 @@ FZI	[IATA] Fostoria Metro Airport, Ohio, United States of America
 FZO	[IATA] Filton, United Kingdom of Great Britain and Northern Ireland
 FÜ	[Kfz:D] kreisfreie Stadt und Landkreis Fürth
 FÜS	[Kfz:D] Landkreis Füssen
+G	British A/International Spelling Alphabet: GALLIPOLI
+G	British Forces 1952 Spelling Alphabet; New York Police Spelling Alphabet; RAF 1942/1943 Spelling Alphabet; Telecom B Spelling Alphabet: GEORGE
+G	deutsches Funkalphabet: GUSTAV
+G	French Spelling Alphabet: GASTON
 G	grin
+G	International Radiotelephony Spelling Alphabet: GOLF
+G	Italian Spelling Alphabet: GENOVA
+G	Spanish Spelling Alphabet: GERONA
 G	[Kfz:D] Landkreis Gera
 G	[Kfz] Gabun
 G	[Kfz] Guatemala (veraltet)
+G	[MORSE] --.
 G/C	garbage collect
 G/C	garbage collection
 G2G	got to go
@@ -5221,6 +5467,7 @@ GAL	generic array logic
 GAL	get a life
 GAL	global address list
 GAL	[IATA] Galena Airport, Alaska, United States of America
+GALLIPOLI	G (British A/International Spelling Alphabet)
 GAM	[IATA] Gambell Airport, Alaska, United States of America
 GAN	[IATA] Gan Island, Maldives
 GAN	[Kfz:D] Landkreis Gandersheim
@@ -5231,6 +5478,7 @@ GAQ	[IATA] Gao, Mali
 GAR	[IATA] Garaina, Papua New Guinea
 GAS	generic address structure
 GAS	[IATA] Garissa, Kenya
+GASTON	G (French Spelling Alphabet)
 GAT	[IATA] Gap, France
 GAU	[IATA] Guwahati, India
 GAV	[IATA] Gag Island, Indonesia
@@ -5307,6 +5555,7 @@ GDB	[Kfz:D] Landkreis Gadebusch
 GDC	[IATA] Greenville (Donaldson Center), South Carolina, United States of America
 GDD	[IATA] Gordon Downs, Western Australia, Australia
 GDE	[IATA] Gode, Ethiopia
+GDF	libgd (bitmap) font – see bdfctool(1)
 GDH	[IATA] Golden Horn Lodge Seaplane Base, Alaska, United States of America
 GDI	[IATA] Gordil, Central African Republic
 GDJ	[IATA] Gandajika, Zaire
@@ -5354,11 +5603,14 @@ GEMA	Gesellschaft für musikalische Aufführungs- und mechanische Vervielfältig
 GEN	[IATA] Oslo (Gardermoen), Norway
 GEN0	[Oracle] General Task Execution Process
 GENA	general event notification architecture
+GENOVA	G (Italian Spelling Alphabet)
 GEO	[IATA] Georgetown (Timehri), Guyana
 GEO	[Kfz:D] Landkreis Gerolzhofen
 GEO	[Kfz] Georgien (veraltet)
+GEORGE	G (British Forces 1952 Spelling Alphabet; New York Police Spelling Alphabet; RAF 1942/1943 Spelling Alphabet; Telecom B Spelling Alphabet)
 GER	[IATA] Nueva Gerona, Cuba
 GER	[Kfz:D] Landkreis Germersheim
+GERONA	G (Spanish Spelling Alphabet)
 GES	[IATA] General Santos, Philippines
 GET	[IATA] Geraldton, Western Australia, Australia
 GEU	[IATA] Glendale Municipal Airport, Arizona, United States of America
@@ -5449,6 +5701,7 @@ GIM	[IATA] Miele Mimbale, Gabon
 GIO	[IATA] Geilo, Norway
 GIR	[IATA] Giradot, Colombia
 GIS	[IATA] Gisborne, New Zealand
+GISA	German IT Security Agency (Bundesamt für Sicherheit in der Informationstechnik, BSI)
 GIT	content addressable filesystem written by finnish study aborter
 GIT	stupid content tracker
 GIT	[IATA] Geita, Tanzania
@@ -5840,9 +6093,18 @@ GZS	[IATA] Pulaski (Abernathy Field), Tennessee, United States of America
 GZT	[IATA] Gaziantep, Turkey
 GÖ	[Kfz:D] Landkreis Göttingen
 GÜ	[Kfz:D] Altkreis Güstrow im Landkreis Rostock
+H	British A/International Spelling Alphabet: HAVANA
+H	British Forces 1952 Spelling Alphabet: HOW
+H	deutsches Funkalphabet: HEINRICH
+H	French Spelling Alphabet: HENRI
 H	H (PSE#1) Hydrogenium, Wasserstoff, Hydrogen | Alkalimetalle | alkali metals | metalla alcalica
+H	International Radiotelephony Spelling Alphabet; Italian Spelling Alphabet: HOTEL
+H	New York Police Spelling Alphabet: HENRY
+H	RAF 1942/1943 Spelling Alphabet; Telecom B Spelling Alphabet: HARRY
+H	Spanish Spelling Alphabet: HISTORIA
 H	[Kfz:D] Region Hannover
 H	[Kfz] Ungarn
+H	[MORSE] ....
 H8	hate
 HA	high availability
 HA	[Kfz:D] kreisfreie Stadt Hagen
@@ -5873,6 +6135,7 @@ HAO	[IATA] Hamilton-Fairfield Airport, Ohio, United States of America
 HAP	[IATA] Whitsunday Kontiki Resort, Australia
 HAR	[IATA] Harrisburg (Capital City Airport), Pennsylvania, United States of America
 HARQ	Hybrid Automatic Request
+HARRY	H (RAF 1942/1943 Spelling Alphabet; Telecom B Spelling Alphabet)
 HAS	[IATA] Hail, Saudi Arabia
 HAS	[Kfz:D] Landkreis Haßberge
 HAS	[Kfz:D] Landkreis Haßfurt
@@ -5885,6 +6148,7 @@ HAT	[IATA] Heathlands, Queensland, Australia
 HAU	[IATA] Haugesund (Karmoy), Norway
 HAUFEN	Hauptschüler auf unterstem frei erreichbarem Niveau
 HAV	[IATA] Jose Marti, Havana, Cuba
+HAVANA	H (British A/International Spelling Alphabet)
 HAW	[IATA] Haverfordwest Airport, Wales, United Kingdom of Great Britain and Northern Ireland
 HAX	[IATA] Muskogee (Hatbox Field), Oklahoma, United States of America
 HAY	[IATA] Haycock Airport, Alaska, United States of America
@@ -5980,6 +6244,8 @@ HEL	[IATA] Helsinki, Finland
 HEL	[Kfz:D] Hessen, Landesregierung und Landtag
 HEM	[IATA] Helsinki (Malmi), Finland
 HEN	[IATA] Hendon, England, United Kingdom of Great Britain and Northern Ireland
+HENRI	H (French Spelling Alphabet)
+HENRY	H (New York Police Spelling Alphabet)
 HEPTA	seven-
 HER	[IATA] Kazantzakis, Herakleion, Greece
 HER	[Kfz:D] kreisfreie Stadt Herne
@@ -6067,6 +6333,7 @@ HIPPO	highest paid person's opinion
 HIR	[IATA] Honiara, (Henderson), Solomon Islands
 HIRD	HURD of Interfaces Representing Depth
 HIS	[IATA] Hayman Island, Queensland, Australia
+HISTORIA	H (Spanish Spelling Alphabet)
 HIT	[IATA] Hivaro, Papua New Guinea
 HIU	[IATA] Higuerote, Venezuela
 HIV	Han isch vajesse
@@ -6202,9 +6469,10 @@ HOR	[Kfz:D] Landkreis Horb
 HORRACLE	Oracle
 HOT	[IATA] Hot Springs Memorial Field
 HOT	[Kfz:D] Landkreis Hohenstein-Ernstthal
-HOTEL	H (International Radiotelephony Spelling Alphabet)
+HOTEL	H (International Radiotelephony Spelling Alphabet; Italian Spelling Alphabet)
 HOU	[IATA] Houston William P. Hobby, Texas, United States of America
 HOV	[IATA] Oersta/Volda (Hovden), Norway
+HOW	H (British Forces 1952 Spelling Alphabet)
 HOW	[IATA] Fort Kobbe (Howard Air Force Base), Panama
 HOX	[IATA] Homalin, Myanmar
 HOY	[IATA] Hoy Island, United Kingdom of Great Britain and Northern Ireland
@@ -6407,9 +6675,20 @@ HZK	[IATA] Husavik, Iceland
 HZL	[IATA] Hazleton Municipal Airport, Pennsylvania, United States of America
 HÖS	[Kfz:D] Landkreis Höchstadt an der Aisch
 HÜN	[Kfz:D] Landkreis Hünfeld
+I	British A/International Spelling Alphabet: ITALIA
+I	British Forces 1952 Spelling Alphabet: ITEM
+I	deutsches Funkalphabet; New York Police Spelling Alphabet: IDA
+I	French Spelling Alphabet: IRMA
 I	I (PSE#53) Iodum, Jod, Iodine | Halogene | halogens | halogenia
+I	International Radiotelephony Spelling Alphabet: INDIA
+I	Italian Spelling Alphabet: IMOLA
+I	RAF 1942/1943 Spelling Alphabet: IN
+I	Spanish Spelling Alphabet: INÉS
+I	Telecom B Spelling Alphabet: ISAAC
 I	[Kfz] Italien
+I	[MORSE] ..
 I C	I see
+I LUNGA	J (Italian Spelling Alphabet)
 I.D.R.	in der Regel
 I.E.	id est (it is, that is)
 I/O	input / output
@@ -6486,6 +6765,7 @@ ICMP	Internet Control Message Protocol
 ICN	[IATA] Incheon, South Korea
 ICO	icon (bitmap file format)
 ICR	[IATA] Nicaro, Cuba
+ICS	X (Italian Spelling Alphabet)
 ICT	information and communications technology
 ICT	ivy-covered tree
 ICT	[IATA] Wichita Mid-Continent, Kansas, United States of America
@@ -6502,7 +6782,7 @@ ID	[USA] Idaho
 ID-1	86×54 mm (3.3858×2.1259 in) ISO 7810 Scheckkarten, Telefonwertkarten, Visitenkarten
 ID-2	105×74 mm (4.1338×2.9133 in) same as DIN A7
 ID-3	125×88 mm (4.9212×3.4645 in) same as DIN B7
-IDA	I (deutsches Funkalphabet)
+IDA	I (deutsches Funkalphabet; New York Police Spelling Alphabet)
 IDA	Intel dynamic acceleration
 IDA	[IATA] Idaho Falls (Fanning Field), Idaho, United States of America
 IDB	[IATA] Idre, Sweden
@@ -6679,12 +6959,14 @@ IMM	[IATA] Immokalee Airport, Florida, United States of America
 IMNSHO	in my not so humble opinion
 IMO	in my opinion
 IMO	[IATA] Zemid, Central African Republic
+IMOLA	I (Italian Spelling Alphabet)
 IMP	[IATA] Imperatriz, Maranhão, Brazil
 IMR	interrupt mask register
 IMS	information management system
 IMT	[IATA] Iron Mountain (Ford Airport), Michigan, United States of America
 IMT-SC	IMT Single Carrier = EDGE
 IMZ	[IATA] Nimroz, Afghanistan
+IN	I (RAF 1942/1943 Spelling Alphabet)
 IN	In (PSE#49) Indium | Erdmetalle (Borgruppe) | boron group
 IN	[ccTLD] Indien
 IN	[ISO 3166] India
@@ -6729,6 +7011,7 @@ INV	[IATA] Inverness, Scotland, United Kingdom of Great Britain and Northern Ire
 INW	[IATA] Winslow Municipal Airport, Arizona, United States of America
 INX	[IATA] Inanwatan, Indonesia
 INZ	[IATA] In Salah, Algeria
+INÉS	I (Spanish Spelling Alphabet)
 IO	input/output
 IO	[ccTLD] Britisches Territorium im Indischen Ozean
 IO	[ISO 3166] British Indian Ocean Territory
@@ -6771,6 +7054,7 @@ IPMI	{see http://fish2.com/ipmi/itrain.html for more}
 IPML	I pissed myself laughing
 IPN	[IATA] Ipatinga, Brazil
 IPNG	Internet Protocol, Next Generation
+IPR	Intellectual Property Rights
 IPS	in-plane switching
 IPS	intrusion prevention system
 IPSEC	Internet Protocol Security
@@ -6813,6 +7097,7 @@ IRKT	[TZif] Asia/Chita
 IRKT	[TZif] Asia/Irkutsk
 IRL	in real life
 IRL	[Kfz] Irland
+IRMA	I (French Spelling Alphabet)
 IRN	[IATA] Iriona, Honduras
 IRO	[IATA] Biraro, Central African Republic
 IRP	[IATA] Isiro (Matari), Zaire
@@ -6837,6 +7122,7 @@ IS	[Kfz] Island
 ISA	industry standard architecture
 ISA	instruction set architecture
 ISA	[IATA] Mount Isa, Queensland, Australia
+ISAAC	I (Telecom B Spelling Alphabet)
 ISAGN	I see a great need
 ISB	[IATA] Islamabad, Pakistan
 ISBN	International Standard Book Number
@@ -6852,8 +7138,10 @@ ISI	[IATA] Isisford, Queensland, Australia
 ISIG	Islamischer Staat im Irak und Groß-Syrien (IS)
 ISIL	Islamischer Staat im Irak und in der Levante (IS)
 ISIN	International Securities Identification Number
+ISIS	Industrial Signature Interoperability Standard
 ISIS	Integriertes System zur Bereitstellung von Netzinfrastruktur auf optischer Basis
 ISIS	Islamischer Staat im Irak und in (Groß-)Syrien (الدولة الإسلامية في العراق والشام)
+ISIS-MTT	(now renamed to Common PKI)
 ISJ	[IATA] Isla Mujers, Mexico
 ISK	[IATA] Nasik, India
 ISL	[IATA] Isabel Pass, Alaska, United States of America
@@ -6891,10 +7179,12 @@ IT	[ccTLD] Italien
 IT	[ISO 3166] Italy
 ITA	Intent to Adopt
 ITA	[IATA] Itacoiatiara, Amazonas, Brazil
+ITALIA	I (British A/International Spelling Alphabet)
 ITB	Intel Turbo Boost
 ITB	[IATA] Itaituba, Pará, Brazil
 ITCS	Intermodales Transport- und Steuerungssystem
 ITE	[IATA] Itubera, Bahia, Brazil
+ITEM	I (British Forces 1952 Spelling Alphabet)
 ITH	[IATA] Ithaca Tompkins County, New York, United States of America
 ITI	[IATA] Itambacuri, Minas Gerais, Brazil
 ITJ	[IATA] Itajai, Santa Catarina, Brazil
@@ -6975,9 +7265,20 @@ IZA	[IATA] Santa Ynez Airport, California, United States of America
 IZM	[IATA] Izmir (A. Menderes), Turkey
 IZO	[IATA] Izumo, Japan
 IZT	[IATA] Ixtepec, Mexico
+J	British A/International Spelling Alphabet: JERUSALEM
+J	British Forces 1952 Spelling Alphabet: JIG
+J	deutsches Funkalphabet: JULIUS
+J	French Spelling Alphabet: JOSEPH
+J	International Radiotelephony Spelling Alphabet: JULIET, JULIETT
+J	Italian Spelling Alphabet: I LUNGA
 J	J (PSE#53) Jod (alt.)
+J	New York Police Spelling Alphabet: JOHN
+J	RAF 1942/1943 Spelling Alphabet: JUG, JOHNNY
+J	Spanish Spelling Alphabet: JOSÉ
+J	Telecom B Spelling Alphabet: JACK
 J	[Kfz:D] Landkreis Jena
 J	[Kfz] Japan
+J	[MORSE] .---
 J/K	just kidding
 J000	[Oracle] Job Queue Slave Process
 J2EE	Java™ 2 Enterprise Edition
@@ -6986,6 +7287,7 @@ JA	[Kfz] Jamaika
 JAA	[IATA] Jalalabad, Afghanistan
 JAB	[IATA] Jabiru, Northern Territory, Australia
 JAC	[IATA] Jackson Hole Airport, Wyoming, United States of America
+JACK	J (Telecom B Spelling Alphabet)
 JAD	[IATA] Jandakot, Western Australia, Australia
 JAE	[IATA] Atlanta Technology Park, Georgia, United States of America
 JAF	[IATA] Jaffna, Sri Lanka
@@ -7068,6 +7370,7 @@ JEJ	[IATA] Jeh, Marshall Islands
 JEM	[IATA] Emeryville, California, United States of America
 JEQ	[IATA] Jequie, Bahia, Brazil
 JER	[IATA] Jersey, Channel Islands, United Kingdom of Great Britain and Northern Ireland
+JERUSALEM	J (British A/International Spelling Alphabet)
 JES	[IATA] Jesup-Wayne County Airport, Georgia, United States of America
 JEV	[Kfz:D] Landkreis Friesland
 JFDI	just fucking do it
@@ -7112,6 +7415,7 @@ JIA	[IATA] Juina, Minas Gerais, Brazil
 JIB	[IATA] Djibouti (Ambouli), Djibouti
 JIC	just in case
 JID	[IATA] Los Angeles (City of Industry), California, United States of America
+JIG	J (British Forces 1952 Spelling Alphabet)
 JIHBED	it is word arabic == TOP AND POWER INTELLIGENT</quote> (a TNF joke)
 JIJ	[IATA] Jijiga, Peru
 JIL	[IATA] Jilin, China
@@ -7179,6 +7483,8 @@ JOBS	[sTLD] jobs (Unternehmen mit Stellenangeboten)
 JOC	[IATA] Orange County (Centerport Heliport), California, United States of America
 JOE	[IATA] Joensuu, Finland
 JOG	[IATA] Yogyakarta (Adisucipto), Indonesia
+JOHN	J (New York Police Spelling Alphabet)
+JOHNNY	J (RAF 1942/1943 Spelling Alphabet)
 JOI	[IATA] Joinville, Santa Catarina, Brazil
 JOK	[IATA] Yoshkar Ola, Mari-El, Russia
 JOL	[IATA] Jolo, Philippines
@@ -7188,6 +7494,8 @@ JOP	[IATA] Josephstaal, Papua New Guinea
 JOR	[IATA] Orange (Choc Heliport), California, United States of America
 JOR	[Kfz] Jordanien
 JOS	[IATA] Jos, Nigeria
+JOSEPH	J (French Spelling Alphabet)
+JOSÉ	J (Spanish Spelling Alphabet)
 JOT	[IATA] Joliet Park District Airport, Illinois, United States of America
 JP	[ccTLD] Japan
 JP	[ISO 3166] Japan
@@ -7251,6 +7559,7 @@ JTY	[IATA] Astypalea Island, Greece
 JUA	[IATA] Juara, Brazil
 JUB	[IATA] Juba, Sudan
 JUC	[IATA] Los Angeles (Universal Studios), California, United States of America
+JUG	J (RAF 1942/1943 Spelling Alphabet)
 JUI	[IATA] Juist, Germany
 JUJ	[IATA] Jujuy, Argentina
 JUL	[IATA] Inca Manco Capac International, Juliaca, Peru
@@ -7287,9 +7596,16 @@ JYV	[IATA] Jyvaskyla, Finland
 JZI	[IATA] Charleston Executive Airport, South Carolina, United States of America
 JZP	[IATA] Jasper (Pickens County Airport), Georgia, United States of America
 JÜL	[Kfz:D] Kreis Jülich
+K	British A/International Spelling Alphabet: KILOGRAM
+K	British Forces 1952 Spelling Alphabet; New York Police Spelling Alphabet; RAF 1942/1943 Spelling Alphabet; Telecom B Spelling Alphabet: KING
+K	deutsches Funkalphabet: KAUFMANN
+K	French Spelling Alphabet: KLÉBER
+K	International Radiotelephony Spelling Alphabet; Spanish Spelling Alphabet: KILO
+K	Italian Spelling Alphabet: KURSAAL
 K	K (PSE#19) Kalium, Potassium | Alkalimetalle | alkali metals | metalla alcalica
 K	[Kfz:D] Kreis Köln
 K	[Kfz] Kambodscha
+K	[MORSE] -.-
 K&R	Kernighan and Ritchie (The C Programming Language)
 KA	kA = keine Ahnung (no idea)
 KA	[Kfz:D] Stadt- und Landkreis Karlsruhe
@@ -7506,9 +7822,11 @@ KII	[IATA] Kibris, Cyprus
 KIJ	[IATA] Niigata, Honshu, Japan
 KIK	[IATA] Kirkuk, Iraq
 KIL	[IATA] Kilwa, Zaire
-KILO	K (International Radiotelephony Spelling Alphabet)
+KILO	K (International Radiotelephony Spelling Alphabet; Spanish Spelling Alphabet)
+KILOGRAM	K (British A/International Spelling Alphabet)
 KIM	[IATA] Kimberley, South Africa
 KIN	[IATA] Kingston, Jamaica
+KING	K (British Forces 1952 Spelling Alphabet; New York Police Spelling Alphabet; RAF 1942/1943 Spelling Alphabet; Telecom B Spelling Alphabet)
 KIO	[IATA] Kili Island, Marshall Islands
 KIP	[IATA] Wichita Falls (Kickapoo Airpark), Texas, United States of America
 KIQ	[IATA] Kira, Papua New Guinea
@@ -7598,6 +7916,7 @@ KLX	[IATA] Kalamata, Greece
 KLY	[IATA] Kalima, Zaire
 KLZ	[IATA] Kleinzee, South Africa
 KLZ	[Kfz:D] Landkreis Klötze
+KLÉBER	K (French Spelling Alphabet)
 KM	[ccTLD] Komoren
 KM	[ISO 3166] Comoros
 KM	[Kfz:D] Landkreis Kamenz
@@ -7825,6 +8144,7 @@ KUO	[IATA] Kuopio, Finland
 KUP	[IATA] Kupiano, Papua New Guinea
 KUQ	[IATA] Kuri, Papua New Guinea
 KUR	[IATA] Kuran, Afghanistan
+KURSAAL	K (Italian Spelling Alphabet)
 KUS	[IATA] Kulusuk Island, Greenland
 KUS	[Kfz:D] Landkreis Kusel
 KUSS	kurz und simpel siegt
@@ -7919,10 +8239,20 @@ KÖT	[Kfz:D] Landkreis Köthen
 KÖZ	[Kfz:D] Landkreis Kötzting
 KÜN	[Kfz:D] Hohenlohekreis
 KÜN	[Kfz:D] Landkreis Künzelsau
+L	British A/International Spelling Alphabet: LIVERPOOL
+L	British Forces 1952 Spelling Alphabet; RAF 1942/1943 Spelling Alphabet: LOVE
+L	deutsches Funkalphabet: LUDWIG
+L	French Spelling Alphabet: LOUIS
+L	International Radiotelephony Spelling Alphabet: LIMA
+L	Italian Spelling Alphabet: LIVORNO
+L	New York Police Spelling Alphabet: LINCOLN
+L	Spanish Spelling Alphabet: LORENZO
+L	Telecom B Spelling Alphabet: LONDON
 L	[Kfz:D] kreisfreie Stadt Lahn
 L	[Kfz:D] kreisfreie Stadt Leipzig und Landkreis Leipziger Land
 L	[Kfz:D] Lahn-Dill-Kreis, Zulassungsstelle in Wetzlar, Nebenstelle in Dillenburg
 L	[Kfz] Luxemburg
+L	[MORSE] .-..
 L000	[Oracle] Pooled Server Process
 L10N	localisation
 L8	late
@@ -8217,6 +8547,7 @@ LIM	[IATA] Lima (Jorge Chavez Internacional), Peru
 LIMA	L (International Radiotelephony Spelling Alphabet)
 LIN	[IATA] Milan (Linate), Italy
 LIN	[Kfz:D] Landkreis Lingen
+LINCOLN	L (New York Police Spelling Alphabet)
 LINQ	.NET Language-Integrated Query
 LINT	local interrupt
 LINUX	free (as in GNU) operating system kernel -- http://www.kernel.org/
@@ -8233,6 +8564,8 @@ LIT	[IATA] Little Rock Regional, Arkansas, United States of America
 LITTB	Bachelor of Letters
 LITTD	Doctor of Letters
 LIV	[IATA] Livingood, Alaska, United States of America
+LIVERPOOL	L (British A/International Spelling Alphabet)
+LIVORNO	L (Italian Spelling Alphabet)
 LIW	[IATA] Loikaw, Myanmar
 LIX	[IATA] Likoma Island, Malawi
 LIY	[IATA] Hinesville (Liberty County Airport), Georgia, United States of America
@@ -8270,6 +8603,7 @@ LKW	[IATA] Larkana, Pakistan
 LKY	[IATA] Lake Manyara, Tanzania
 LKZ	[IATA] Brandon, United Kingdom of Great Britain and Northern Ireland
 LL	load linked
+LL	Spanish Spelling Alphabet: LLOBREGAT
 LL	[Kfz:D] Landkreis Landsberg am Lech
 LL/SC	load linked / store conditional
 LLA	[IATA] Lulea (Kallax), Sweden
@@ -8288,6 +8622,7 @@ LLM	Master of Laws
 LLM	[IATA] Long Lama, Malaysia
 LLMNR	link-local multicast name resolution
 LLN	[IATA] Kelila, Indonesia
+LLOBREGAT	LL (Spanish Spelling Alphabet)
 LLP	[IATA] Linda Downs, Australia
 LLS	[IATA] Las Lomitas, Argentina
 LLU	[IATA] Lamar Municipal Airport, Missouri, United States of America
@@ -8381,15 +8716,19 @@ LOL	[IATA] Lovelock (Derby Field), Nevada, United States of America
 LOM	lights-out management
 LOM	[IATA] Lagos de Moreno, Mexico
 LON	[IATA] All Airports around London, United Kingdom of Great Britain and Northern Ireland
+LONDON	L (Telecom B Spelling Alphabet)
 LOO	[IATA] Laghouat, Algeria
 LOQ	[IATA] Lobatze, Botswana
 LOR	[IATA] Fort Rucker (Lowe Army Heliport), Alabama, United States of America
+LORENZO	L (Spanish Spelling Alphabet)
 LOS	[IATA] Lagos (Murtala Muhammed), Nigeria
 LOS	[Kfz:D] Landkreis Oder-Spree
 LOT	[IATA] Lockport/Chicago/Romeoville, Illinois, United States of America
 LOTR	Lord of the Rings
 LOU	[IATA] Louisville (Bowman Field), Kentucky, United States of America
+LOUIS	L (French Spelling Alphabet)
 LOV	[IATA] Monclova, Mexico
+LOVE	L (British Forces 1952 Spelling Alphabet; RAF 1942/1943 Spelling Alphabet)
 LOW	[IATA] Louisa County Airport, Virginia, United States of America
 LOY	[IATA] Lolyangalani, Kenya
 LOZ	[IATA] London-Corbin Airport (Magee Field), Kentucky, United States of America
@@ -8660,9 +8999,18 @@ LÖ	[Kfz:D] Landkreis Lörrach
 LÖB	[Kfz:D] Landkreis Löbau
 LÜD	[Kfz:D] Kreis Lüdenscheid
 LÜN	[Kfz:D] kreisfreie Stadt Lünen
+M	British A/International Spelling Alphabet: MADAGASCAR
+M	deutsches Funkalphabet: MARTHA
+M	French Spelling Alphabet: MARCEL
+M	International Radiotelephony Spelling Alphabet; British Forces 1952 Spelling Alphabet: MIKE
+M	Italian Spelling Alphabet: MILANO
+M	New York Police Spelling Alphabet; Telecom B Spelling Alphabet: MARY
+M	RAF 1942/1943 Spelling Alphabet: MOTHER
+M	Spanish Spelling Alphabet: MADRID
 M	[Kfz:D] kreisfreie Stadt und Landkreis München
 M	[Kfz] Israel (veraltet)
 M	[Kfz] Malta
+M	[MORSE] --
 M-A	Multi-Arch (Debian)
 M000	[Oracle] MMON Slave Process
 M8	mate
@@ -8686,6 +9034,8 @@ MAC	[IATA] Macon (Herbert Smart Downtown Airport), Georgia, United States of Ame
 MACC	Master of Accountancy
 MAD	mutually assured destruction
 MAD	[IATA] Madrid, Spain
+MADAGASCAR	M (British A/International Spelling Alphabet)
+MADRID	M (Spanish Spelling Alphabet)
 MADT	multiple APIC descriptor table
 MAE	[IATA] Madera Municipal Airport, California, United States of America
 MAF	[IATA] Midland International Airport, Texas, United States of America
@@ -8713,10 +9063,12 @@ MAQ	[IATA] Mae Sot, Thailand
 MAR	[IATA] Maracaibo (La Chinita), Venezuela
 MAR	[Kfz:D] Landkreis Marktheidenfeld
 MARC	mailing list archives -- http://marc.theaimsgroup.com/
+MARCEL	M (French Spelling Alphabet)
 MARCH	Master of Architecture
 MARK	[Oracle] Mark AU (ASM allocation units) for Resynchronization Coordinator Process
 MART	Master in Arts
 MARTHA	M (deutsches Funkalphabet)
+MARY	M (New York Police Spelling Alphabet; Telecom B Spelling Alphabet)
 MAS	master
 MAS	[IATA] Manus Island (Lorengau), Papua New Guinea
 MAT	[IATA] Matadi, Zaire
@@ -9144,10 +9496,11 @@ MIH	[IATA] Mitchell Plateau, Australia
 MII	[IATA] Marilia, São Paulo, Brazil
 MIJ	[IATA] Mili Island (Mili Airport), Marshall Islands
 MIK	[IATA] Mikkeli, Finland
-MIKE	M (International Radiotelephony Spelling Alphabet)
+MIKE	M (International Radiotelephony Spelling Alphabet; British Forces 1952 Spelling Alphabet)
 MIL	[IATA] All Airports around Milano, Italy
 MIL	[Kfz:D] Landkreis Miltenberg
 MIL	[sTLD] military (militärische Einrichtungen der USA)
+MILANO	M (Italian Spelling Alphabet)
 MILF	mother i'd like to fuck
 MIM	man in the middle (really MITM)
 MIM	Master in Management
@@ -9418,6 +9771,7 @@ MOSFET	metal-oxide-semiconductor field-effect transistor
 MOSI	modified, owned, shared, invalid
 MOT	[IATA] Minot International Airport, North Dakota, United States of America
 MOTAS	member of the appropriate sex
+MOTHER	M (RAF 1942/1943 Spelling Alphabet)
 MOTOS	member of the opposite sex
 MOTSS	member of the same sex
 MOTU	masters of the universe (Developer of the Debian derivate from Canonical that cannot be named)
@@ -9664,6 +10018,7 @@ MTQ	[IATA] Mitchell, Queensland, Australia
 MTR	[IATA] Monteria, Colombia
 MTRR	memory type range register
 MTS	[IATA] Manzini (Matasapha), Swaziland
+MTT	MailTrusT
 MTT	[IATA] Minatitlan, Mexico
 MTTF	mean time to failure
 MTTR	mean time to recovery
@@ -9878,10 +10233,21 @@ MÜB	[Kfz:D] Landkreis Münchberg
 MÜL	[Kfz:D] Landkreis Müllheim
 MÜN	[Kfz:D] Landkreis Münsingen
 MÜR	[Kfz:D] Altkreis Müritz im Landkreis Mecklenburgische Seenplatte
+N	British A/International Spelling Alphabet: NEW YORK
+N	British Forces 1952 Spelling Alphabet: NAN
+N	deutsches Funkalphabet: NORDPOL
+N	French Spelling Alphabet: NICOLAS
+N	International Radiotelephony Spelling Alphabet: NOVEMBER
+N	Italian Spelling Alphabet: NAPOLI
 N	N (PSE#7) Nitrogenium, Stickstoff, Nitrogen | Stickstoff/Phosphor-Gruppe | pnictogens
+N	New York Police Spelling Alphabet: NORA
 N	Norden, north
+N	RAF 1942/1943 Spelling Alphabet: NUTS
+N	Spanish Spelling Alphabet: NAVARRA
+N	Telecom B Spelling Alphabet: NELLIE
 N	[Kfz:D] Landkreis Nürnberg
 N	[Kfz] Norwegen
+N	[MORSE] -.
 N/A	not applicable
 N/A	not available
 N/C	not connected
@@ -9919,10 +10285,12 @@ NAL	[IATA] Nalchik, Kabardino-Balkaria, Russia
 NAM	[IATA] Namlea, Indonesia
 NAM	[Kfz] Namibia
 NAME	[uTLD] name (natürliche Personen)
+NAN	N (British Forces 1952 Spelling Alphabet)
 NAN	not a number
 NAN	[IATA] Nadi, Fiji
 NAO	[IATA] Nanchong, China
 NAP	[IATA] Naples (Capodichino), Italy
+NAPOLI	N (Italian Spelling Alphabet)
 NAPT	Network Address and Port Translation
 NAQ	[IATA] Qanaq, Greenland
 NAR	[IATA] Nare, Colombia
@@ -9940,6 +10308,7 @@ NAU	[Kfz:D] Landkreis Nauen
 NAU	[Kfz] Nauru
 NAV	network allocation vector
 NAV	[IATA] Nevsehir Kapadokya Airport, Nevsehir, Turkey
+NAVARRA	N (Spanish Spelling Alphabet)
 NAW	[IATA] Narathiwat, Thailand
 NAX	[IATA] Ewa (Barbers Point Naval Air Station), Hawaii, United States of America
 NAY	[IATA] Beijing (Nan Yuan Air Base), China
@@ -9953,6 +10322,7 @@ NB	[Kfz:D] Landkreis Neubrandenburg
 NBB	[IATA] Barrancominas, Colombia
 NBC	National Broadcasting Company (USA)
 NBC	[IATA] Naberezhnyye Chelny, Tatarstan, Russia
+NBCA	National PKI Bridge CA
 NBD	network block device
 NBD	no big deal
 NBE	[IATA] Dallas (Naval Air Station), Texas, United States of America
@@ -10047,6 +10417,7 @@ NEJ	[IATA] Nova Lamego, Guinea Bissau
 NEK	[IATA] Nekemete, Ethiopia
 NEL	U+0085 NEXT LINE
 NEL	[IATA] Lakehurst (Maxfield Field), New Jersey, United States of America
+NELLIE	N (Telecom B Spelling Alphabet)
 NEN	[IATA] Jacksonville (Whitehouse Naval Field), Florida, United States of America
 NEN	[Kfz:D] Landkreis Neunburg vorm Wald
 NEP	[Kfz] Nepal (nicht offiziell)
@@ -10063,6 +10434,7 @@ NEU	[Kfz:D] Landkreis Hochschwarzwald
 NEV	[IATA] Nevis (Newcastle), St. Kitts and Nevis
 NEW	[IATA] New Orleans (Lakefront Airport), Louisiana, United States of America
 NEW	[Kfz:D] Landkreis Neustadt an der Waldnaab
+NEW YORK	N (British A/International Spelling Alphabet)
 NEWT	Nastily Exhausting Wizarding Test
 NF	[AUS] Norfolk Island (external)
 NF	[ccTLD] Norfolkinsel
@@ -10146,6 +10518,7 @@ NIC	network information centre
 NIC	network interface card
 NIC	[IATA] Nicosia, Cyprus
 NIC	[Kfz] Nicaragua
+NICOLAS	N (French Spelling Alphabet)
 NID	[IATA] China Lake (Armitage Field), California, United States of America
 NIDS	network intrusion detection system
 NIE	[IATA] Niblack, Alaska, United States of America
@@ -10283,6 +10656,7 @@ NOP	[IATA] Lapu-Lapu, Mactan Island, Philippines
 NOPE	no (informal)
 NOR	[IATA] Nordfjordur, Iceland
 NOR	[Kfz:D] Landkreis Norden
+NORA	N (New York Police Spelling Alphabet)
 NORDPOL	N (deutsches Funkalphabet)
 NOS	network operating system
 NOS	[IATA] Nossi-Be (Fascene), Madagascar
@@ -10448,6 +10822,7 @@ NUQ	[IATA] Mountain View (Moffett Field), California, United States of America
 NUR	[IATA] Nullarbor, South Australia, Australia
 NUS	[IATA] Norsup, Vanuatu
 NUT	[IATA] Nutuve, Papua New Guinea
+NUTS	N (RAF 1942/1943 Spelling Alphabet)
 NUU	[IATA] Nakuru, Kenya
 NUW	[IATA] Oak Harbor (Ault Field), Washington, United States of America
 NUX	[IATA] Novy Urengoy, Russia
@@ -10518,8 +10893,18 @@ NZY	[IATA] San Diego (Halsey Field), California, United States of America
 NÄHMLICH	Wer nämlich mit h schreibt, ist dämlich.
 NÄMLICH	Wer nämlich mit h schreibt, ist dämlich.
 NÖ	[Kfz:D] Landkreis Nördlingen
+O	British A/International Spelling Alphabet: OSLO
+O	British Forces 1952 Spelling Alphabet: OBOE
+O	deutsches Funkalphabet: OTTO
+O	International Radiotelephony Spelling Alphabet; French Spelling Alphabet: OSCAR
+O	Italian Spelling Alphabet: OTRANTO
+O	New York Police Spelling Alphabet: OCEAN
 O	O (PSE#8) Oxygenium, Sauerstoff, Oxygen | Chalkogene | chalcogens
 O	Osten, east
+O	RAF 1942/1943 Spelling Alphabet: ORANGE
+O	Spanish Spelling Alphabet: OVIEDO
+O	Telecom B Spelling Alphabet: OLIVER
+O	[MORSE] ---
 O I C	oh, I see
 O-TON	Originalton
 O000	[Oracle] ASM Connection Pool Process
@@ -10554,6 +10939,7 @@ OBM	[IATA] Morobe, Papua New Guinea
 OBN	[IATA] Oban, United Kingdom of Great Britain and Northern Ireland
 OBO	off by one
 OBO	[IATA] Obihiro, Japan
+OBOE	O (British Forces 1952 Spelling Alphabet)
 OBOE	off by one error
 OBS	obsolete
 OBS	OpenSuSE Buildservice
@@ -10572,6 +10958,7 @@ OCA	[IATA] Key Largo (Ocean Reef Club), Florida, United States of America
 OCAML	Objective Caml
 OCC	[IATA] Coca, Ecuador
 OCE	[IATA] Ocean City Municipal Airport, Maryland, United States of America
+OCEAN	O (New York Police Spelling Alphabet)
 OCF	[IATA] Ocala (Jim Taylor Field), Florida, United States of America
 OCF0	[Oracle] ASM CF Connection Pool Process
 OCH	[IATA] Nacogdoches, Texas, United States of America
@@ -10663,7 +11050,7 @@ OHV	[Kfz:D] Landkreis Oberhavel
 OHZ	[Kfz:D] Landkreis Osterholz
 OIC	oh, I see
 OIC	[IATA] Norwich (Lt. Warren Eaton Airport), New York, United States of America
-OID	Object identifier
+OID	object identifier
 OID	of iets dergelijks (or so, or something like that)
 OIL	[IATA] Oil City (Splane Memorial Airport), Pennsylvania, United States of America
 OIM	[IATA] Oshima Island, Japan
@@ -10717,6 +11104,7 @@ OLG	Oberlandesgericht und Kammergericht
 OLG	[IATA] Solon Springs Municipal Airport, Wisconsin, United States of America
 OLH	[IATA] Old Harbor Airport, Alaska, United States of America
 OLI	[IATA] Olafsvik, Iceland
+OLIVER	O (Telecom B Spelling Alphabet)
 OLJ	[IATA] Olpoi, Vanuatu
 OLM	[IATA] Olympia, Washington, United States of America
 OLN	[IATA] Colonia Sarmien, Argentina
@@ -10834,6 +11222,7 @@ ORA	[IATA] Oran, Argentina
 ORA	[Oracle] parameter file
 ORACLE	cf. Horracle
 ORACLE	one real a..h.le called Larry Ellison
+ORANGE	O (RAF 1942/1943 Spelling Alphabet)
 ORB	object request broker
 ORB	[IATA] Orebro, Sweden
 ORC	[IATA] Orocue, Colombia
@@ -10873,7 +11262,7 @@ OSA	[IATA] All Airports around Osaka, Japan
 OSB	[IATA] Osage Beach (Linn Creek), Missouri, United States of America
 OSC	U+009D OPERATING SYSTEM COMMAND
 OSC	[IATA] Oscoda-Wurtsmith Airport, Michigan, United States of America
-OSCAR	O (International Radiotelephony Spelling Alphabet)
+OSCAR	O (International Radiotelephony Spelling Alphabet; French Spelling Alphabet)
 OSCE	Organization for Security and Co-operation in Europe (OSZE)
 OSD	open source definition
 OSD	[IATA] Ostersund (Froson Air Base), Sweden
@@ -10888,6 +11277,7 @@ OSI	[IATA] Osijek, Croatia
 OSK	[IATA] Oskarshamn, Sweden
 OSL	[IATA] All Airports around Oslo, Norway
 OSL	[Kfz:D] Landkreis Oberspreewald-Lausitz
+OSLO	O (British A/International Spelling Alphabet)
 OSM	Open Street Map
 OSM	[IATA] Mosul, Iraq
 OSN	[IATA] Osan (Air Base), South Korea
@@ -10933,6 +11323,7 @@ OTP	one true pairing
 OTP	open telecom platform
 OTP	[IATA] Bucharest (Otopeni), Romania
 OTR	[IATA] Coto 47, Costa Rica
+OTRANTO	O (Italian Spelling Alphabet)
 OTRS	Online Ticket Request System
 OTS	off the shelf
 OTS	[IATA] Anacortes Airport, Washington, United States of America
@@ -10971,6 +11362,7 @@ OVD	[IATA] Oviedo/Aviles (Asturias), Spain
 OVE	[IATA] Oroville Municipal Airport, California, United States of America
 OVG	Oberverwaltungsgericht
 OVI	[Kfz:D] Landkreis Oberviechtach
+OVIEDO	O (Spanish Spelling Alphabet)
 OVL	[IATA] Ovalle, Chile
 OVL	[Kfz:D] Obervogtland (Landkreise Klingenthal und Oelsnitz)
 OVN	[IATA] Ouven, Australia
@@ -11011,9 +11403,17 @@ OZH	[IATA] Zaporizhya International, Zaporizhya, Ukraine
 OZP	[IATA] Moron de la Frontera (Air Base), Spain
 OZR	[IATA] Fort Rucker (Ozark), Alabama, United States of America
 OZZ	[IATA] Ouarzazate, Morocco
+P	British A/International Spelling Alphabet: PARIS
+P	British Forces 1952 Spelling Alphabet; New York Police Spelling Alphabet; RAF 1942/1943 Spelling Alphabet; Telecom B Spelling Alphabet: PETER
+P	deutsches Funkalphabet: PAULA
+P	French Spelling Alphabet: PIERRE
+P	International Radiotelephony Spelling Alphabet: PAPA
+P	Italian Spelling Alphabet: PADOVA
 P	P (PSE#15) Phosphorus, Phosphor | Stickstoff/Phosphor-Gruppe | pnictogens
+P	Spanish Spelling Alphabet: PARÍS
 P	[Kfz:D] Landkreis Potsdam
 P	[Kfz] Portugal
+P	[MORSE] .--.
 P&P	Philosophy and Procedures
 P000	[Oracle] Parallel Query Slave Process
 P2P	PCI to PCI
@@ -11047,6 +11447,8 @@ PAC	phase-amplitude converter
 PAC	[IATA] Panama City (Paitilla), Panama
 PAD	Padding Character (U+0080)
 PAD	[IATA] Paderborn/Lippstadt, Paderborn, Germany
+PADES	PDF Advanced Electronic Signature
+PADOVA	P (Italian Spelling Alphabet)
 PAE	physical address extension (like LIM EMS)
 PAE	[IATA] Everett (Paine Field), Washington, United States of America
 PAF	[gc] phone a friend (usually required for webcam caches)
@@ -11080,7 +11482,9 @@ PAPA	P (International Radiotelephony Spelling Alphabet)
 PAQ	[IATA] Palmer Municipal Airport, Alaska, United States of America
 PAR	[IATA] All Airports around Paris, France
 PAR	[Kfz:D] Landkreis Parsberg
+PARIS	P (British A/International Spelling Alphabet)
 PARODY	[altTLD] Parodie
+PARÍS	P (Spanish Spelling Alphabet)
 PAS	[IATA] Paros, Greece
 PAT	page attribute table
 PAT	port address translation
@@ -11142,6 +11546,7 @@ PCD	page-level cache disable
 PCD	[IATA] Prairie du Chien (Municipal Airport), Wisconsin, United States of America
 PCE	performance-monitor counter enable
 PCE	[IATA] Painter Creek, Alaska, United States of America
+PCF	Portable Compiled Format – see bdftopcf(1)
 PCG	[IATA] Paso Caballos, Guatemala
 PCH	[IATA] Palacios, Honduras
 PCH	[Kfz:D] Altkreis Parchim im Landkreis Ludwigslust-Parchim
@@ -11266,6 +11671,7 @@ PERL	Perl’s not an acronym, according to its manpage
 PERL	practical extraction [and] report language
 PES	[IATA] Petrozavodsk, Karelia, Russia
 PET	[IATA] Pelotas, Rio Grande do Sul, Brazil
+PETER	P (British Forces 1952 Spelling Alphabet; New York Police Spelling Alphabet; RAF 1942/1943 Spelling Alphabet; Telecom B Spelling Alphabet)
 PEU	[IATA] Puerto Lenpira, Honduras
 PEW	[IATA] Peshawar, Pakistan
 PEY	[IATA] Penong, South Australia, Australia
@@ -11367,6 +11773,7 @@ PID	process id
 PID	[IATA] Paradise Island, Bahamas
 PIE	position independent executable
 PIE	[IATA] St. Petersburg/Clearwater, Florida, United States of America
+PIERRE	P (French Spelling Alphabet)
 PIF	[IATA] Pinebelt, Mississippi, United States of America
 PIG	[IATA] Pitinga, Brazil
 PIH	[IATA] Pocatello Municipal Airport, Idaho, United States of America
@@ -11415,6 +11822,7 @@ PK	[Kfz:D] Landkreis Pritzwalk
 PK	[Kfz] Pakistan
 PKA	[IATA] Napaskiak Airport, Alaska, United States of America
 PKB	[IATA] Parkersburg (Wood County), West Virginia, United States of America
+PKC	Public Key Certificate
 PKC	[IATA] Petropavlovsk Kamchatskiy, Russia
 PKCS	public-key cryptography standards
 PKD	[IATA] Park Rapids Municipal Airport, Minnesota, United States of America
@@ -11731,6 +12139,7 @@ PROF	Professor
 PROJ	Project
 PROJ	Projection
 PROM	programmable read only memory
+PROSIGN	[MORSE] procedural sign, like control character
 PRP	[IATA] Propriano, France
 PRQ	[IATA] Presidencia Roque Saenz Pena, Argentina
 PRR	[IATA] Paruima, Guyana
@@ -12071,7 +12480,14 @@ PZO	[IATA] Puerto Ordaz (Guayana), Venezuela
 PZQ	[IATA] Rogers City (Presque Isle County), Michigan, United States of America
 PZU	[IATA] Port Sudan, Sudan
 PZY	[IATA] Piestany, Slovakia
+Q	British Forces 1952 Spelling Alphabet; New York Police Spelling Alphabet; RAF 1942/1943 Spelling Alphabet; Telecom B Spelling Alphabet: QUEEN
+Q	deutsches Funkalphabet: QUELLE
+Q	French Spelling Alphabet: QUINTAL
+Q	International Radiotelephony Spelling Alphabet; British A/International Spelling Alphabet: QUEBEC
+Q	Italian Spelling Alphabet: QUARTO
+Q	Spanish Spelling Alphabet: QUERIDO
 Q	[Kfz] Katar
+Q	[MORSE] --.-
 Q'N'D	quick and dirty
 Q000	[Oracle] AQ Server Class Process
 Q1	[Schule DE] Qualifikationsphase 1 (11. Klasse Gymnasium nach G8)
@@ -12102,6 +12518,7 @@ QBO	[IATA] Bochum, Germany
 QBS	[IATA] Brescia, Italy
 QBW	[IATA] Batemans Bay, New South Wales, Australia
 QBX	[IATA] Sobral, Ceará, Brazil
+QC	Qualified Certificate
 QC	quality control
 QC	[CDN] Quebec
 QCA	[IATA] Makkah, Morocco
@@ -12135,6 +12552,7 @@ QDU	[IATA] Dusseldorf, Germany
 QDV	[IATA] All Airports around Denver, Colorado, United States of America
 QDW	[IATA] Diadema, São Paulo, Brazil
 QED	quod erat demonstrandum
+QES	qualifizierte elektronische Signatur
 QES	qualifizierte elektronische Signatur
 QEZ	[IATA] Pomezia, Italy
 QFB	[IATA] Freiburg, Germany
@@ -12281,9 +12699,13 @@ QTV	[IATA] Treviso (Heliport), Italy
 QTW	[IATA] Taejon, South Korea
 QTZ	[IATA] Coatzacoalcos, Mexico
 QUA	[IATA] Puttgarden, Germany
-QUEBEC	Q (International Radiotelephony Spelling Alphabet)
+QUARTO	Q (Italian Spelling Alphabet)
+QUEBEC	Q (International Radiotelephony Spelling Alphabet; British A/International Spelling Alphabet)
+QUEEN	Q (British Forces 1952 Spelling Alphabet; New York Police Spelling Alphabet; RAF 1942/1943 Spelling Alphabet; Telecom B Spelling Alphabet)
 QUELLE	Q (deutsches Funkalphabet)
+QUERIDO	Q (Spanish Spelling Alphabet)
 QUI	[IATA] Ban Houei Sai, Laos
+QUINTAL	Q (French Spelling Alphabet)
 QUL	[IATA] Ulm, Germany
 QUN	[IATA] Kwang Yun, South Korea
 QUR	[IATA] Muriae, Minas Gerais, Brazil
@@ -12313,10 +12735,18 @@ QZA	[IATA] Zarka, Jordan
 QZC	[IATA] Smiggin Holes, New South Wales, Australia
 QZF	[IATA] Font Romeu, France
 QZG	[IATA] La Llagone, France
+R	British A/International Spelling Alphabet; Italian Spelling Alphabet: ROMA
+R	British Forces 1952 Spelling Alphabet; RAF 1942/1943 Spelling Alphabet: ROGER
+R	deutsches Funkalphabet: RICHARD
+R	French Spelling Alphabet: RAOUL
+R	International Radiotelephony Spelling Alphabet: ROMEO
+R	New York Police Spelling Alphabet; RAF 1942/1943 Spelling Alphabet; Telecom B Spelling Alphabet: ROBERT
 R	r, are
+R	Spanish Spelling Alphabet: RAMÓN
 R	[Kfz:D] kreisfreie Stadt und Landkreis Regensburg
 R	[Kfz] Rumänien (veraltet)
 R	[Kfz] Rußland (veraltet)
+R	[MORSE] .-.
 R&R	read and review
 R&R	rest and recuperation
 R&R	Rock and Roll
@@ -12327,6 +12757,7 @@ R000	[Oracle] ASM Block Remap Slave Process
 RA	Ra (PSE#88) Radium | Erdalkalimetalle | alkaline earth metals | metalla alcalica terrena
 RA	receiver address
 RA	Rechtsanwalt
+RA	Registration Authority
 RA	remote assistance
 RA	residential advisor
 RA	resource affinity
@@ -12359,8 +12790,10 @@ RAK	[IATA] Marrakech (Menara), Morocco
 RAL	[IATA] Riverside Municipal Airport, California, United States of America
 RAM	random access memory
 RAM	[IATA] Ramingining, Northern Territory, Australia
+RAMÓN	R (Spanish Spelling Alphabet)
 RAN	[IATA] Ravenna, Italy
 RAO	[IATA] Riberao Preto, São Paulo, Brazil
+RAOUL	R (French Spelling Alphabet)
 RAP	[IATA] Rapid City Regional Airport, South Dakota, United States of America
 RAQ	[IATA] Raha, Indonesia
 RAR	Java™ Resource Adapter Archive (collection of class, XML and other JCA), cf. JAR
@@ -12495,6 +12928,7 @@ REI	[Kfz:D] Teilkreis Laufen im Landkreis Berchtesgadener Land
 REK	[IATA] Reykjavik, Iceland
 REL	[IATA] Trelew (Almirante Zar), Argentina
 REM	comment
+REM	Registered Electronic Mail
 REM	remainder
 REM	remark
 REMF	rear echelon motherfucker
@@ -12553,6 +12987,7 @@ RGN	[IATA] Yangoon (Mingaladon), Myanmar
 RGP	[IATA] Rangpur, Bangladesh
 RGR	roger
 RGR	[IATA] Ranger Municipal Airport, Texas, United States of America
+RGS	Le Référentiel Général de Sécurité
 RGT	[IATA] Rengat, Indonesia
 RGV	[IATA] Rio Grande Valley, Texas, United States of America
 RH	read hit
@@ -12619,6 +13054,7 @@ RJB	[IATA] Rajbiraj, Nepal
 RJH	[IATA] Rajshani, Bangladesh
 RJI	[IATA] Rajouri, India
 RJK	[IATA] Rijeka, Croatia
+RKA	Root Key Authority
 RKD	[IATA] Rockland (Knox County), Maine, United States of America
 RKE	[IATA] Copenhagen (Roskilde), Denmark
 RKH	[IATA] Rock Hill (Bryant Field), South Carolina, United States of America
@@ -12715,6 +13151,7 @@ RO	[Kfz:D] kreisfreie Stadt und Landkreis Rosenheim
 RO	[Kfz] Rumänien
 ROA	[IATA] Roanoke Regional, Virginia, United States of America
 ROB	[IATA] Monrovia (Roberts Field), Liberia
+ROBERT	R (New York Police Spelling Alphabet; RAF 1942/1943 Spelling Alphabet; Telecom B Spelling Alphabet)
 ROC	[IATA] Rochester International, New York, United States of America
 ROCA	resource-oriented client architecture
 ROD	[Kfz:D] Landkreis Roding
@@ -12725,6 +13162,7 @@ ROFL	Respekt, Originalposting fein lustig
 ROFL	rolling on floor laughing
 ROFLMAO	rolling on floor laughing my arse off
 ROG	[IATA] Rogers (Carter Field), Arkansas, United States of America
+ROGER	R (British Forces 1952 Spelling Alphabet; RAF 1942/1943 Spelling Alphabet)
 ROH	[IATA] Robinhood, Queensland, Australia
 ROH	[Kfz:D] Landkreis Rotenburg (Hannover)
 ROI	return on investment
@@ -12738,6 +13176,7 @@ ROL	[Kfz:D] Landkreis Rottenburg an der Laaber
 ROM	read only memory
 ROM	Request of Maintainer
 ROM	[IATA] All Airports around Roma, Italy
+ROMA	R (British A/International Spelling Alphabet; Italian Spelling Alphabet)
 ROMEO	R (International Radiotelephony Spelling Alphabet)
 RON	[IATA] Rondon, Colombia
 ROO	[IATA] Rondonopolis, Mato Grosso, Brazil
@@ -12976,10 +13415,20 @@ RZY	[IATA] Rezayieh, Iran
 RZZ	[IATA] Roanoke Rapids (Halifax County), North Carolina, United States of America
 RÜD	[Kfz:D] Rheingau-Taunus-Kreis, Zulassungsstelle in Bad Schwalbach und Rüdesheim
 RÜG	[Kfz:D] Altkreis Rügen im Landkreis Vorpommern-Rügen
+S	British A/International Spelling Alphabet: SANTIAGO
+S	British Forces 1952 Spelling Alphabet: SUGAR
+S	deutsches Funkalphabet; Telecom B Spelling Alphabet: SAMUEL
+S	French Spelling Alphabet: SUZANNE
+S	International Radiotelephony Spelling Alphabet: SIERRA
+S	Italian Spelling Alphabet: SAVONA
+S	New York Police Spelling Alphabet: SAM
+S	RAF 1942/1943 Spelling Alphabet: SUGA
 S	S (PSE#16) Sulphur, Schwefel, Sulfur | Chalkogene | chalcogens
+S	Spanish Spelling Alphabet: SÁBADO
 S	Süden, south
 S	[Kfz:D] Stadtkreis Stuttgart
 S	[Kfz] Schweden
+S	[MORSE] ...
 S&R	search and rescue
 S.M.O.M.	[Kfz] Malteserorden (nicht offiziell)
 S/MIME	Secure/Multipurpose Internet Mail Extensions
@@ -13028,16 +13477,18 @@ SAL	shift arithmetically left (same as SHL)
 SAL	system abstraction layer
 SAL	[IATA] San Salvador (Internacional), El Salvador
 SAL	[Kfz:D] Saarland, Landesregierung und Landtag
+SAM	S (New York Police Spelling Alphabet)
 SAM	serial access memory
 SAM	sum addressed memory
 SAM	[IATA] Salamo, Papua New Guinea
 SAML	Security Assertion Markup Language
 SAMU	service d'aide medicale urgente
-SAMUEL	S (deutsches Funkalphabet)
+SAMUEL	S (deutsches Funkalphabet; Telecom B Spelling Alphabet)
 SAN	storage area network
 SAN	X.509v3 subjectAltName
 SAN	[IATA] San Diego International/Lindbergh Field, California, United States of America
 SAN	[Kfz:D] Landkreis Stadtsteinach
+SANTIAGO	S (British A/International Spelling Alphabet)
 SAO	[IATA] All Airports around Sao Paulo, São Paulo, Brazil
 SAP	ich sag's ja: SS, SA, SAP
 SAP	Salary Appreciation Program.
@@ -13092,6 +13543,7 @@ SAU	[IATA] Sawu, Indonesia
 SAU	[Kfz] Republik Südafrika (veraltet)
 SAU	[Kfz] Südafrika (veraltet)
 SAV	[IATA] Savannah International, Georgia, United States of America
+SAVONA	S (Italian Spelling Alphabet)
 SAW	[IATA] Gwinn/Marquette (Sawyer AFB), Michigan, United States of America
 SAW	[IATA] Sabiha Gokcen International, Istanbul, Turkey
 SAW	[Kfz:D] Altmarkkreis Salzwedel
@@ -13172,6 +13624,7 @@ SCG	[IATA] Spring Creek, Queensland, Australia
 SCG	[Kfz] Montenegro (veraltet)
 SCG	[Kfz] Serbien (veraltet)
 SCG	[Kfz] Serbien und Montenegro (veraltet)
+SCH	deutsches Funkalphabet: SCHULE
 SCH	[IATA] Schenectady County Airport, New York, United States of America
 SCHULE	SCH (deutsches Funkalphabet)
 SCI	scalable coherent interface
@@ -13466,6 +13919,7 @@ SIGCONT	(#19) Continued
 SIGEMT	(#7) EMT trap
 SIGFPE	(#8) Floating point exception
 SIGHUP	(#1) Hangup
+SIGI	Signature Interoperability Specification
 SIGILL	(#4) Illegal instruction
 SIGINFO	(#29) Information request
 SIGINT	(#2) Interrupt
@@ -13804,7 +14258,9 @@ SOP	standard operating procedure
 SOP	[IATA] Southern Pines (Moore County), North Carolina, United States of America
 SOQ	[IATA] Sorong (Jefman), Indonesia
 SOR	[IATA] Al Thaurah, Syria
+SOS	save our souls
 SOS	U+0098 START OF STRING
+SOS	[MORSE] ...---...
 SOT	[IATA] Sodankyla, Finland
 SOU	[IATA] Southampton (Eastleigh), England, United Kingdom of Great Britain and Northern Ireland
 SOV	[IATA] Seldovia Airport, Alaska, United States of America
@@ -13965,6 +14421,7 @@ SSB	single-sideband modulation
 SSB	[IATA] Christiansted, St. Croix, U.S. Virgin Islands
 SSC	[IATA] Sumter (Shaw Air Force Base), South Carolina, United States of America
 SSCCE	short, self-contained, correct example
+SSCD	Secure Signature Creation Device
 SSD	solid state drive
 SSD	[IATA] San Felipe, Colombia
 SSD	[Kfz] Südsudan
@@ -14104,6 +14561,8 @@ SUD	[Kfz] Südsudan (veraltet)
 SUE	[IATA] Sturgeon Bay (Door County), Wisconsin, United States of America
 SUF	[IATA] Lamezia Terme, Italy
 SUG	[IATA] Surigao, Philippines
+SUGA	S (RAF 1942/1943 Spelling Alphabet)
+SUGAR	S (British Forces 1952 Spelling Alphabet)
 SUH	[IATA] Sur, Oman
 SUI	[IATA] Sokhumi/Sukhum, Abkhazia, Georgia
 SUJ	[IATA] Satu Mare, Romania
@@ -14132,6 +14591,7 @@ SUX	[IATA] Sioux City International, Iowa, United States of America
 SUX2BU	sucks to be you
 SUY	[IATA] Sudureyri, Iceland
 SUZ	[IATA] Suria, Papua New Guinea
+SUZANNE	S (French Spelling Alphabet)
 SV	server
 SV	service
 SV	slave
@@ -14294,12 +14754,23 @@ SZV	[IATA] Suzhou, China
 SZX	[IATA] Shenzhen, China
 SZY	[IATA] Selmer (Robert Sibley Airport), Tennessee, United States of America
 SZZ	[IATA] Szczecin (Goleniow), Poland
+SÁBADO	S (Spanish Spelling Alphabet)
 SÄK	[Kfz:D] Landkreis Säckingen
 SÖM	[Kfz:D] Landkreis Sömmerda
 SÜW	[Kfz:D] Landkreis Südliche Weinstraße
+T	British A/International Spelling Alphabet: TRIPOLI
+T	British Forces 1952 Spelling Alphabet: TARE
+T	deutsches Funkalphabet: THEODOR
+T	French Spelling Alphabet: THÉRÈSE
+T	International Radiotelephony Spelling Alphabet: TANGO
+T	Italian Spelling Alphabet: TORINO
+T	New York Police Spelling Alphabet: TOM
+T	RAF 1942/1943 Spelling Alphabet; Telecom B Spelling Alphabet: TOMMY
+T	Spanish Spelling Alphabet: TARRAGONA
 T	T (PSE#1) Tritium (special case)
 T	true (boolean 1)
 T	[Kfz] Thailand
+T	[MORSE] -
 T A	[Kfz:D] temporäres Kennzeichen der US-Streitkräfte Augsburg
 T BA	[Kfz:D] temporäres Kennzeichen der US-Streitkräfte Bamberg
 T BH	[Kfz:D] temporäres Kennzeichen der US-Streitkräfte Baumholder
@@ -14326,6 +14797,7 @@ TA	test assertion
 TA	thanks (pre-net slang, pronounced tar)
 TA	transmitter address
 TAA	[IATA] Tarapaina, Solomon Islands
+TAB	(horizontal) Tabulator
 TAB	[IATA] Tobago
 TAC	(Cisco) Technical Assistance Center
 TAC	[IATA] Tacloban, Philippines
@@ -14356,7 +14828,9 @@ TAP	Test Anything Protocol
 TAP	[IATA] Tapachula, Mexico
 TAQ	[IATA] Tarcoola, South Australia, Australia
 TAR	[IATA] Taranto, Italy
+TARE	T (British Forces 1952 Spelling Alphabet)
 TARGA	Truevision Advanced Raster Graphics Adapter
+TARRAGONA	T (Spanish Spelling Alphabet)
 TAS	Star Trek: The Animated Series
 TAS	test and set
 TAS	[AUS] Tasmania
@@ -14472,6 +14946,7 @@ TDO	[Kfz:D] Landkreis Nordsachsen
 TDOA	time difference of arrival
 TDP	thermal design point
 TDP	thermal design power
+TDP	TSL Distribution Point
 TDR	Theo de Raadt -- http://theos.com/
 TDR	[IATA] Theodore, Queensland, Australia
 TDV	[IATA] Tanandava, Madagascar
@@ -14602,6 +15077,7 @@ THW	[Kfz:D] Dienstfahrzeuge der Bundesanstalt Technisches Hilfswerk
 THX	thanks
 THY	[IATA] Thohoyandou, Venda, South Africa
 THZ	[IATA] Tahoua, Niger
+THÉRÈSE	T (French Spelling Alphabet)
 TI	Technische Informatica
 TI	Telematikinfrastruktur
 TI	Ti (PSE#22) Titanium, Titan | Übergangsmetalle | transition metals | metalla transitionis
@@ -14695,6 +15171,7 @@ TKW	[IATA] Tekin, Papua New Guinea
 TKX	[IATA] Takaroa, French Polynesia
 TKY	[IATA] Turkey Creek, Western Australia, Australia
 TL	Tl (PSE#81) Thallium | Erdmetalle (Borgruppe) | boron group
+TL	Trusted List
 TL	[ccTLD] Osttimor (zuvor .tp)
 TL	[ISO 3166] East Timor
 TL	[Kfz] Osttimor
@@ -14819,6 +15296,7 @@ TO	[Kfz:D] Landkreis Torgau-Oschatz
 TOA	[IATA] Torrance Municipal Airport, California, United States of America
 TOB	[IATA] Tobruk, Libya
 TOC	table of contents
+TOC	Trans-Oceanic Consortium
 TOC	[IATA] Toccoa (R. G. Letourneau), Georgia, United States of America
 TOCTOU	time of check to time of use
 TOCTTOU	time of check to time of use
@@ -14842,20 +15320,24 @@ TOI	[IATA] Troy Municipal Airport, Alabama, United States of America
 TOJ	[IATA] Madrid (Torrejon Air Force Base), Spain
 TOK	[IATA] Torokina, Papua New Guinea
 TOL	[IATA] Toledo Express, Ohio, United States of America
+TOM	T (New York Police Spelling Alphabet)
 TOM	Tunnelling of Messages
 TOM	[IATA] Tombouctou, Mali
+TOMMY	T (RAF 1942/1943 Spelling Alphabet; Telecom B Spelling Alphabet)
 TON	[IATA] Tonu, Papua New Guinea
 TON	[Kfz] Tonga (nicht offiziell)
 TOP	Tagesordnungspunkt
 TOP	[IATA] Topeka (Philip Billard), Kansas, United States of America
 TOQ	[IATA] Tocopilla, Chile
 TOR	[IATA] Torrington Municipal Airport, Wyoming, United States of America
+TORINO	T (Italian Spelling Alphabet)
 TOS	Star Trek: The Original Series
 TOS	terms of service
 TOS	the (atari) operating system
 TOS	trusted operating system
 TOS	type of service
 TOS	[IATA] Tromso (Langnes), Norway
+TOSCH	TSL "of Schemes"
 TOT	[IATA] Totness, Suriname
 TOTT	tools of the trade
 TOU	[IATA] Touho, New Caledonia
@@ -14923,6 +15405,7 @@ TRG	[IATA] Tauranga, New Zealand
 TRH	[IATA] Trona Airport, California, United States of America
 TRI	three-
 TRI	[IATA] Tri-City Regional Airport, Tennessee, United States of America
+TRIPOLI	T (British A/International Spelling Alphabet)
 TRJ	[IATA] Tarakbits, Papua New Guinea
 TRK	[IATA] Tarakan, Borneo, Indonesia
 TRL	timing recovery loop
@@ -14935,6 +15418,7 @@ TRP	[IATA] Tree Point, Alaska, United States of America
 TRQ	[IATA] Tarauaca, Acre, Brazil
 TRR	[IATA] Trincomalee, Sri Lanka
 TRS	[IATA] Trieste (Ronchi dei Legionari), Italy
+TRST	Trust Service Token
 TRT	the right thing
 TRT	[IATA] Tremonton Municipal Airport, Utah, United States of America
 TRU	[IATA] Trujillo, Peru
@@ -14943,6 +15427,7 @@ TRW	[IATA] Tarawa (Bonriki), Kiribati
 TRX	[IATA] Trenton Municipal Airport, Missouri, United States of America
 TRY	[IATA] Tororo, Uganda
 TRZ	[IATA] Tiruchirapally, India
+TS	Technical Specification
 TS	terminal services
 TS	time series
 TS	time stamp
@@ -14965,6 +15450,7 @@ TSI	[IATA] Tsili Tsili, Papua New Guinea
 TSJ	[IATA] Tsushima, Japan
 TSK	[IATA] Taskul, Papua New Guinea
 TSL	test, set, lock
+TSL	trust-service status list
 TSL	Trusted Service List
 TSL	[IATA] Tamuin, Mexico
 TSM	[IATA] Taos Municipal Airport, New Mexico, United States of America
@@ -14974,6 +15460,7 @@ TSO	[IATA] Scilly Tresco, United Kingdom of Great Britain and Northern Ireland
 TSP	time synchronisation protocol
 TSP	Time-Stamp Protocol
 TSP	traveling salesman problem
+TSP	Trust Service Provider
 TSP	tunnel service provider
 TSP	Tunnel Setup Protocol
 TSP	[IATA] Tehachapi Municipal Airport, California, United States of America
@@ -14983,6 +15470,7 @@ TSS	task state segment
 TSS	Time-Sharing System
 TSS	[IATA] New York (E 34th St Heliport), New York, United States of America
 TST	test
+TST	Trust Service Token
 TST	[IATA] Trang, Thailand
 TSU	[IATA] Tabiteuea South, Kiribati
 TSV	Tierschutzverein
@@ -15150,9 +15638,18 @@ TZX	[IATA] Trabzon (Air Base), Turkey
 TÖL	[Kfz:D] Landkreis Bad Tölz-Wolfratshausen
 TÖN	[Kfz:D] Kreis Eiderstedt
 TÜ	[Kfz:D] Landkreis Tübingen
+U	British A/International Spelling Alphabet: UPPSALA
+U	British Forces 1952 Spelling Alphabet; RAF 1942/1943 Spelling Alphabet; Telecom B Spelling Alphabet: UNCLE
+U	deutsches Funkalphabet: ULRICH
+U	French Spelling Alphabet: URSULE
+U	International Radiotelephony Spelling Alphabet: UNIFORM
+U	Italian Spelling Alphabet: UDINE
+U	New York Police Spelling Alphabet: UNION
+U	Spanish Spelling Alphabet: ULISES
 U	U (PSE#92) Uranium, Uran | Uran-Metalle (Aktiniden) | actinides | actinida
 U	u, you
 U	[Kfz] Uruguay (veraltet)
+U	[MORSE] ..-
 U/L	upload
 U2	you, too
 UA	[ccTLD] Ukraine
@@ -15201,6 +15698,7 @@ UCK	[IATA] Luts'k, Volyn, Ukraine
 UCN	[IATA] Buchanan, Liberia
 UCR	[gc] User Contribution Rating (TC)
 UCS	uniform-cost search
+UCS	Universal Character Set (Unicode)
 UCT	[IATA] Ukhta (Ust-Ukhta), Komi, Russia
 UCY	[IATA] Union City (Everett-Stewart Airport), Tennessee, United States of America
 UCZ	[IATA] Uchiza, Peru
@@ -15209,6 +15707,7 @@ UDD	[IATA] Palm Springs (Bermuda Dunes), California, United States of America
 UDDI	Universal Description, Discovery, and Integration protocol
 UDI	unilateral declaration of independence
 UDI	[IATA] Uberlandia, Minas Gerais, Brazil
+UDINE	U (Italian Spelling Alphabet)
 UDJ	[IATA] Uzhgorod International, Zakarpattia (Transcarpathia), Ukraine
 UDMA	Ultra-DMA
 UDN	[IATA] Udine (Rivolto), Italy
@@ -15284,6 +15783,7 @@ ULC	[IATA] Santiago de Chile, Chile
 ULD	[IATA] Ulundi, South Africa
 ULE	[IATA] Sule, Papua New Guinea
 ULI	[IATA] Ulithi Island (Ulithi Airport), Micronesia
+ULISES	U (Spanish Spelling Alphabet)
 ULK	[IATA] Ul Kmars, Kuwait
 ULL	[IATA] Mull, United Kingdom of Great Britain and Northern Ireland
 ULM	[IATA] New Ulm Municipal Airport, Minnesota, United States of America
@@ -15324,13 +15824,17 @@ UN	[Kfz:D] Kreis Unna
 UN/CEFACT	UN Centre for Trade Facilitation and E-business
 UNAONE	1 (International Radiotelephony Spelling Alphabet)
 UNC	[IATA] Unguia, Colombia
+UNCLE	U (British Forces 1952 Spelling Alphabet; RAF 1942/1943 Spelling Alphabet; Telecom B Spelling Alphabet)
 UND	[IATA] Kunduz, Afghanistan
 UNE	[IATA] Oachas Neck, Lesotho
 UNECE	United Nations Economic Commission for Europe
 UNG	[IATA] Kiunga, Papua New Guinea
+UNI	Ente Nazionale Italiano di Unificazione
 UNI	one-
 UNI	[IATA] Union Island, St. Vincent and the Grenadines
 UNIFORM	U (International Radiotelephony Spelling Alphabet)
+UNINFO	Ente Federato all'UNI per Tecnologie Informatiche e loro applicazioni
+UNION	U (New York Police Spelling Alphabet)
 UNIX	(bootloader for games written by Ken Thompson et al.)
 UNIX	(Uniplexed Information and Computing System, pun on MULTICS)
 UNK	[IATA] Unalakleet Airport, Alaska, United States of America
@@ -15359,6 +15863,7 @@ UPLOAD	to create load on the server
 UPN	[IATA] Uruapan, Mexico
 UPNP	universal plug and play
 UPP	[IATA] Hawi (Upolu Airport), Hawaii, United States of America
+UPPSALA	U (British A/International Spelling Alphabet)
 UPR	[gc] unusual pile of rocks
 UPR	[IATA] Upiara, Papua New Guinea
 UPS	uninterruptible power supply
@@ -15381,6 +15886,7 @@ URN	[IATA] Urgoon, Afghanistan
 URO	[IATA] Rouen, France
 URR	[IATA] Urrao, Colombia
 URS	[IATA] Kursk, Russia
+URSULE	U (French Spelling Alphabet)
 URT	[IATA] Surat Thani, Thailand
 URY	[IATA] Gurayat, Saudi Arabia
 URZ	Universitätsrechenzentrum
@@ -15480,9 +15986,15 @@ UZ	[ISO 3166] Uzbekistan
 UZ	[Kfz] Usbekistan
 UZH	[IATA] Unayzah, Saudi Arabia
 UZU	[IATA] Curuzu Cuatia, Argentina
+V	British A/International Spelling Alphabet; Spanish Spelling Alphabet: VALENCIA
+V	deutsches Funkalphabet: VIKTOR
+V	International Radiotelephony Spelling Alphabet; British Forces 1952 Spelling Alphabet; French Spelling Alphabet; New York Police Spelling Alphabet; Telecom B Spelling Alphabet: VICTOR
+V	Italian Spelling Alphabet: VENEZIA
+V	RAF 1942/1943 Spelling Alphabet: VIC
 V	V (PSE#23) Vanadium | Übergangsmetalle | transition metals | metalla transitionis
 V	[Kfz:D] Vogtlandkreis
 V	[Kfz] Vatikanstaat
+V	[MORSE] ...-
 VA	vertical alignment
 VA	virtual address
 VA	volt-ampere
@@ -15501,6 +16013,7 @@ VAI	[IATA] Vanimo, Papua New Guinea
 VAI	[Kfz:D] Landkreis Vaihingen
 VAK	[IATA] Chevak Airport, Alaska, United States of America
 VAL	[IATA] Valenca, Bahia, Brazil
+VALENCIA	V (British A/International Spelling Alphabet; Spanish Spelling Alphabet)
 VAN	[IATA] Van, Turkey
 VAN	[Kfz] Vanuatu (nicht offiziell)
 VAO	[IATA] Suavanao, Solomon Islands
@@ -15577,6 +16090,7 @@ VEG	very evil grin
 VEG	[IATA] Maikwak, Guyana
 VEJ	[IATA] Vejle, Denmark
 VEL	[IATA] Vernal Airport, Utah, United States of America
+VENEZIA	V (Italian Spelling Alphabet)
 VER	[IATA] Veracruz (General Heriberto Jara), Mexico
 VER	[Kfz:D] Landkreis Verden
 VERFGH	Verfassungsgerichtshof
@@ -15624,9 +16138,10 @@ VI	[ISO 3166] Virgin Islands (US)
 VI	[USA] Virgin Islands
 VIB	[IATA] Villa Constitucion, Mexico
 VIB	[Kfz:D] Landkreis Vilsbiburg
+VIC	V (RAF 1942/1943 Spelling Alphabet)
 VIC	[AUS] Victoria
 VIC	[IATA] Vicenza (Trissino), Italy
-VICTOR	V (International Radiotelephony Spelling Alphabet)
+VICTOR	V (International Radiotelephony Spelling Alphabet; British Forces 1952 Spelling Alphabet; French Spelling Alphabet; New York Police Spelling Alphabet; Telecom B Spelling Alphabet)
 VID	voltage level identifier
 VID	[IATA] Vidin, Bulgaria
 VIE	[IATA] Wien (Vienna) [Schwechat], Wien, Austria
@@ -15801,11 +16316,16 @@ VXX	[IATA] Mexico City (Sertel), Mexico
 VYD	[IATA] Vryheid, South Africa
 VYS	[IATA] Peru (Illinois Valley Regional Airport), Illinois, United States of America
 VZÄ	Vollzeitäquivalent (cf. FTE)
+W	British A/International Spelling Alphabet; Italian Spelling Alphabet; Spanish Spelling Alphabet: WASHINGTON
+W	British Forces 1952 Spelling Alphabet; French Spelling Alphabet; New York Police Spelling Alphabet; RAF 1942/1943 Spelling Alphabet; Telecom B Spelling Alphabet: WILLIAM
+W	deutsches Funkalphabet: WILHELM
+W	International Radiotelephony Spelling Alphabet: WHISKY, WHISKEY
 W	W (PSE#74) Wolframium, Wolfram, Tungsten | Übergangsmetalle | transition metals | metalla transitionis
 W	wahr (boolean 1)
 W	Watt
 W	Westen, west
 W	[Kfz:D] kreisfreie Stadt Wuppertal
+W	[MORSE] .--
 W-CDMA	Wideband Code Division Multiple Access
 W/	with
 W/E	whatever
@@ -15861,6 +16381,7 @@ WAR	[Kfz:D] Landkreis, ab 1969 Kreis Warburg
 WARUM	darum (cf. WHY)
 WAS	[IATA] All Airports around Washington, District of Columbia, United States of America
 WASG	Wahlalternative Arbeit und Soziale Gerechtigkeit (jetzt Linkspartei, mit PDF)
+WASHINGTON	W (British A/International Spelling Alphabet; Italian Spelling Alphabet; Spanish Spelling Alphabet)
 WAST	[TZif] Africa/Windhoek (DST)
 WAT	[IATA] Waterford, Ireland
 WAT	[Kfz:D] kreisfreie Stadt Wattenscheid
@@ -15977,6 +16498,8 @@ WFM2	works for me, too
 WFQ	weighted fair queuing
 WFW	Windows® for Workgroups
 WFY	works for you
+WG	wegen (MS Outlook mis-translation)
+WG	weitergeleitet (MS Outlook mis-translation)
 WG	[Kfz:D] Landkreis Wangen
 WG	[Kfz] Grenada
 WGA	[IATA] Wagga Wagga, New South Wales, Australia
@@ -15999,6 +16522,7 @@ WHC	[IATA] Fassama, Liberia
 WHD	[IATA] Hyder (Seaplane Base), Alaska, United States of America
 WHF	[IATA] Wadi Halfa, Sudan
 WHISKEY	W (International Radiotelephony Spelling Alphabet)
+WHISKY	W (International Radiotelephony Spelling Alphabet)
 WHK	[IATA] Whakatane, New Zealand
 WHL	[IATA] Welshpool, Victoria, Australia
 WHM	[IATA] Wickham, Australia
@@ -16021,6 +16545,7 @@ WIK	[IATA] Surfdale, New Zealand
 WIL	[IATA] Nairobi (Wilson), Kenya
 WIL	[Kfz:D] Landkreis Bernkastel-Wittlich
 WILHELM	W (deutsches Funkalphabet)
+WILLIAM	W (British Forces 1952 Spelling Alphabet; French Spelling Alphabet; New York Police Spelling Alphabet; RAF 1942/1943 Spelling Alphabet; Telecom B Spelling Alphabet)
 WIN	[IATA] Winton, Queensland, Australia
 WINDOWS	Which Idiot Needs Definitly Obsolete (and) Worse Software
 WINDOWS	Will ich nicht doch ohne WINDOWS sein?
@@ -16327,16 +16852,26 @@ WZY	[IATA] Nassau Seaplane Base, Bahamas
 W^X	either writable or executable, but not both (W xor X)
 WÜ	[Kfz:D] kreisfreie Stadt und Landkreis Würzburg
 WÜM	[Kfz:D] Landkreis Waldmünchen
+X	British A/International Spelling Alphabet: XANTIPPE
+X	deutsches Funkalphabet: XANTHIPPE
+X	French Spelling Alphabet: XAVIER
+X	International Radiotelephony Spelling Alphabet; British Forces 1952 Spelling Alphabet; New York Police Spelling Alphabet; RAF 1942/1943 Spelling Alphabet; Telecom B Spelling Alphabet: X-RAY, XRAY
+X	Italian Spelling Alphabet: ICS
+X	Spanish Spelling Alphabet: XIQUENA
 X	[Kfz:D] Dienstfahrzeuge der internationalen Hauptquartiere (NATO)
-X-RAY	X (International Radiotelephony Spelling Alphabet)
+X	[MORSE] -..-
+X-RAY	X (International Radiotelephony Spelling Alphabet; British Forces 1952 Spelling Alphabet; New York Police Spelling Alphabet; RAF 1942/1943 Spelling Alphabet; Telecom B Spelling Alphabet)
 X000	[Oracle] ASM Disk Expel Slave Process
 XACML	Extensible Access Control Markup Language
+XADES	XML Advanced Electronic Signature
 XAL	[IATA] Alamos, Mexico
 XANTHIPPE	X (deutsches Funkalphabet)
+XANTIPPE	X (British A/International Spelling Alphabet)
 XAP	[IATA] Chapeco, Santa Catarina, Brazil
 XAR	[IATA] Aribinda, Burkina Faso
 XAS	[IATA] Brevoort, Northwest Territories, Canada
 XAU	[IATA] Saul, French Guyana
+XAVIER	X (French Spelling Alphabet)
 XAW	[IATA] Capreol / Via Rail Service, Ontario, Canada
 XAY	[IATA] Xayabury, Laos
 XAZ	[IATA] Cambellton, New Brunswick, Canada
@@ -16415,6 +16950,7 @@ XIN	[IATA] Xingning, China
 XING	crossing
 XIO	[IATA] St Marys / Via Rail Service, Ontario, Canada
 XIP	execute in place
+XIQUENA	X (Spanish Spelling Alphabet)
 XIY	[IATA] Xian Xianyang, China
 XJL	[IATA] Joliette / Via Rail Service, Quebec, Canada
 XJQ	[IATA] Jonquiere / Via Rail Service, Quebec, Canada
@@ -16515,10 +17051,21 @@ XZA	[IATA] Zabre, Burkina Faso
 XZB	[IATA] Casselman / Via Rail Service, Ontario, Canada
 XZC	[IATA] Glencoe / Via Rail Service, Ontario, Canada
 Y	and
+Y	British A/International Spelling Alphabet: YOKOHAMA
+Y	British Forces 1952 Spelling Alphabet; RAF 1942/1943 Spelling Alphabet: YOKE
+Y	deutsches Funkalphabet: YPSILON
+Y	French Spelling Alphabet: YVONNE
+Y	International Radiotelephony Spelling Alphabet: YANKEE
+Y	Italian Spelling Alphabet: YORK
+Y	New York Police Spelling Alphabet: YOUNG
+Y	RAF 1942/1943 Spelling Alphabet: YORKER
+Y	Spanish Spelling Alphabet: YEGUA
+Y	Telecom B Spelling Alphabet: YELLOW
 Y	why?
 Y	Y (PSE#39) Yttrium | Übergangsmetalle | transition metals | metalla transitionis
 Y	[Kfz:D] Dienstfahrzeuge der Bundeswehr
 Y	[Kfz] Jugoslawien (veraltet)
+Y	[MORSE] -.--
 YAA	[IATA] Anahim Lake, British Columbia, Canada
 YAB	[IATA] Arctic Bay, Northwest Territories, Canada
 YAC	[IATA] Cat Lake, Ontario, Canada
@@ -16643,10 +17190,12 @@ YEC	[IATA] Yechon, South Korea
 YED	[IATA] Edmonton (Namao Field), Alberta, Canada
 YEE	[IATA] Midland (Huronia Airport), Ontario, Canada
 YEG	[IATA] Edmonton International, Alberta, Canada
+YEGUA	Y (Spanish Spelling Alphabet)
 YEI	[IATA] Ennadai Lake, Northwest Territories, Canada
 YEK	[IATA] Eskimo Point (Arviat Airport), Northwest Territories, Canada
 YEKT	[TZif] Asia/Yekaterinburg
 YEL	[IATA] Elliot Lake, Ontario, Canada
+YELLOW	Y (Telecom B Spelling Alphabet)
 YEM	[IATA] Manitowaning, Ontario, Canada
 YEM	[Kfz] Jemen
 YEN	[IATA] Estevan, Saskatchewan, Canada
@@ -16835,11 +17384,16 @@ YOG	[IATA] Ogoki Post, Ontario, Canada
 YOH	[IATA] Oxford House, Manitoba, Canada
 YOJ	[IATA] High Level, Alberta, Canada
 YOK	[IATA] Yokohama, Japan
+YOKE	Y (British Forces 1952 Spelling Alphabet; RAF 1942/1943 Spelling Alphabet)
+YOKOHAMA	Y (British A/International Spelling Alphabet)
 YOL	[IATA] Yola, Nigeria
 YOLO	you only live once
 YOO	[IATA] Oshawa, Ontario, Canada
 YOP	[IATA] Rainbow Lake, Alberta, Canada
+YORK	Y (Italian Spelling Alphabet)
+YORKER	Y (RAF 1942/1943 Spelling Alphabet)
 YOS	[IATA] Owen Sound, Ontario, Canada
+YOUNG	Y (New York Police Spelling Alphabet)
 YOW	[IATA] Ottawa Macdonald-Cartier International Airport, Canada
 YOX	[IATA] Rea Point, Northwest Territories, Canada
 YP	Yellow Pages (aka NIS)
@@ -17004,6 +17558,7 @@ YVG	[IATA] Vermilion, Alberta, Canada
 YVM	[IATA] Broughton Island, Northwest Territories, Canada
 YVN	[IATA] Cape Dyer, Northwest Territories, Canada
 YVO	[IATA] Val-D'or, Quebec, Canada
+YVONNE	Y (French Spelling Alphabet)
 YVP	[IATA] Kuujjuaq (Fort Chimo), Quebec, Canada
 YVQ	[IATA] Norman Wells, Northwest Territories, Canada
 YVR	[IATA] Vancouver International, British Columbia, Canada
@@ -17086,8 +17641,16 @@ YZV	[IATA] Sept-Iles, Quebec, Canada
 YZW	[IATA] Teslin, Yukon, Canada
 YZX	[IATA] Greenwood, Nova Scotia, Canada
 YZY	[IATA] Mackenzie, British Columbia, Canada
+Z	British A/International Spelling Alphabet: ZÜRICH
+Z	British Forces 1952 Spelling Alphabet; New York Police Spelling Alphabet; RAF 1942/1943 Spelling Alphabet; Telecom B Spelling Alphabet: ZEBRA
+Z	deutsches Funkalphabet: ZACHARIAS, ZEPPELIN
+Z	French Spelling Alphabet: ZOÉ
+Z	International Radiotelephony Spelling Alphabet: ZULU
+Z	Italian Spelling Alphabet: ZARA
+Z	Spanish Spelling Alphabet: ZARAGOZA
 Z	[Kfz:D] Landkreis Zwickau
 Z	[Kfz] Sambia
+Z	[MORSE] --..
 Z.B.	zum Beispiel
 ZA	[ccTLD] Südafrika
 ZA	[ISO 3166] South Africa
@@ -17103,6 +17666,8 @@ ZAL	[IATA] Valdivia, Chile
 ZAM	[IATA] Zamboanga International, Philippines
 ZAO	[IATA] Cahors, France
 ZAR	[IATA] Zaria, Nigeria
+ZARA	Z (Italian Spelling Alphabet)
+ZARAGOZA	Z (Spanish Spelling Alphabet)
 ZAT	[IATA] Zhaotong, China
 ZAZ	[IATA] Zaragoza, Spain
 ZB	zum Beispiel
@@ -17127,6 +17692,7 @@ ZDF	Zweites Deutsches Fernsehen
 ZDJ	[IATA] Bern, Switzerland
 ZDT	[IATA] Chur, Switzerland
 ZE	[Kfz:D] Landkreis Zerbst
+ZEBRA	Z (British Forces 1952 Spelling Alphabet; New York Police Spelling Alphabet; RAF 1942/1943 Spelling Alphabet; Telecom B Spelling Alphabet)
 ZEC	[IATA] Seconda, South Africa
 ZEF	[IATA] Elkin Municipal Airport, North Carolina, United States of America
 ZEG	[IATA] Senggo, Indonesia
@@ -17134,6 +17700,7 @@ ZEI	[IATA] Garmisch-Partenkirchen, Germany
 ZEL	[IATA] Bella Bella (Denny Island), British Columbia, Canada
 ZEL	[Kfz:D] Landkreis Zell
 ZEM	[IATA] East Main River Airport, Quebec, Canada
+ZEPPELIN	Z (deutsches Funkalphabet)
 ZER	[IATA] Zero, India
 ZET	[IATA] Goslar, Germany
 ZFA	[IATA] Faro, Yukon, Canada
@@ -17199,6 +17766,7 @@ ZNU	[IATA] Namu, British Columbia, Canada
 ZNZ	[IATA] Zanzibar Island, Tanzania
 ZOF	[IATA] Ocean Falls, British Columbia, Canada
 ZOS	[IATA] Osorno, Chile
+ZOÉ	Z (French Spelling Alphabet)
 ZP	[Kfz:D] Landkreis Zschopau
 ZPB	[IATA] Sachigo Lake, Northwest Territories, Canada
 ZPC	[IATA] Pucon, Chile
@@ -17267,18 +17835,81 @@ ZYL	[IATA] Sylhet (Osmany), Bangladesh
 ZZ	[Kfz:D] Landkreis Zeitz
 ZZU	[IATA] Mzuzu, Malawi
 ZZV	[IATA] Zanesville Municipal Airport, Ohio, United States of America
+ZÜRICH	Z (British A/International Spelling Alphabet)
 ^^	(emoticon: bemusement)
 ^_^	(emoticon: bemusement)
+_	[MORSE] ..--.- (not ITU-R)
+`	[MORSE] .-..-. (normalises to ‘"’)
 ¼A3	105×297 mm (4.1338×11.6929 in)
 ¼A4	74×210 mm (2.9133×8.2677 in)
+À	[MORSE] .--.-
+Ä	deutsches Funkalphabet: ÄRGER
+Ä	[MORSE] .-.-
 ÄRGER	Ä (deutsches Funkalphabet)
+Å	[MORSE] .--.-
+Æ	[MORSE] .-.-
+Ç	[MORSE] -.-..
+È	[MORSE] .-..-
+É	French Spelling Alphabet: ÉMILE
+É	[MORSE] ..-..
+ÉMILE	É (French Spelling Alphabet)
+Ð	[MORSE] ..--.
+Ñ	Spanish Spelling Alphabet: ÑOÑO
+Ñ	[MORSE] --.--
+ÑOÑO	Ñ (Spanish Spelling Alphabet)
+Ó	[MORSE] ---.
+Ö	deutsches Funkalphabet: ÖKONOM
+Ö	[MORSE] ---.
 ÖBB	Österreichische Bundesbahnen
 ÖHR	[Kfz:D] Landkreis Öhringen
 ÖKONOM	Ö (deutsches Funkalphabet)
 ÖPNV	Öffentlicher Personennahverkehr (public transport)
 ÖVP	Österreichische Volkspartei
+Ø	[MORSE] ---.
+Ü	deutsches Funkalphabet: ÜBERMUT
+Ü	[MORSE] ..--
 ÜB	[Kfz:D] Landkreis Überlingen
 ÜBERMUT	Ü (deutsches Funkalphabet)
+Þ	[MORSE] .--..
+ß	deutsches Funkalphabet: ESZETT
+à	[MORSE] .--.-
+å	[MORSE] .--.-
+æ	[MORSE] .-.-
+ð	[MORSE] ..--.
+ø	[MORSE] ---.
+þ	[MORSE] .--..
+Ą	[MORSE] .-.-
+ą	[MORSE] .-.-
+Ć	[MORSE] -.-..
+ć	[MORSE] -.-..
+Ĉ	[MORSE] -.-..
+ĉ	[MORSE] -.-..
+Đ	[MORSE] ..-..
+đ	[MORSE] ..-..
+Ę	[MORSE] ..-..
+ę	[MORSE] ..-..
+Ĝ	[MORSE] --.-.
+ĝ	[MORSE] --.-.
+Ĥ	[MORSE] ----
+ĥ	[MORSE] ----
+Ĵ	[MORSE] .---.
+ĵ	[MORSE] .---.
+Ł	[MORSE] .-..-
+ł	[MORSE] .-..-
+Ń	[MORSE] --.--
+ń	[MORSE] --.--
+Ś	[MORSE] ...-...
+ś	[MORSE] ...-...
+Ŝ	[MORSE] ...-.
+ŝ	[MORSE] ...-.
+Š	[MORSE] ----
+š	[MORSE] ----
+Ŭ	[MORSE] ..--
+ŭ	[MORSE] ..--
+Ź	[MORSE] --..-.
+ź	[MORSE] --..-.
+Ż	[MORSE] --..-
+ż	[MORSE] --..-
 КГБ	Комитет государственной безопасности (Committee for State Security of the Soviet Union), now ФСБ/FSB
 МОН	[ccTLD] Mongolia
 СРБ	[ccTLD] Serbien
