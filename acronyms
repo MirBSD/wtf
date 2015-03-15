@@ -2,7 +2,7 @@
 "	[MORSE] .-..-.
 # ucase: Ä Ö Ü Ñ Á É Í Ó Ç È
 $	[MORSE] ...-..- (not ITU-R)
-$MirOS: wtf/acronyms,v 1.461 2015/03/14 01:09:16 tg Exp $
+$MirOS: wtf/acronyms,v 1.462 2015/03/15 01:55:21 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.11 2014/09/05 22:38:17 tg Exp $
 $NetBSD: acronyms,v 1.224 2014/05/25 21:49:29 dholland Exp $
 $NetBSD: acronyms.comp,v 1.148 2015/02/06 14:48:24 ginsbach Exp $
@@ -197,7 +197,7 @@ AA	anti-aliasing
 AA	Attribute Authority
 AA	[Kfz:D] Landkreis Aalen
 AA	[Kfz:D] Ostalbkreis
-AAA	authentication, authorisation and accounting
+AAA	authentication, authorisation, and accounting
 AAA	[IATA] Anaa, French Polynesia
 AAB	[IATA] Arrabury, Queensland, Australia
 AAC	[IATA] Al Arish, Egypt
@@ -215,6 +215,7 @@ AAO	am angegebenen Orte (cf. ibid.)
 AAO	[IATA] Anaco, Venezuela
 AAP	[IATA] Houston (Andrau Airpark), Texas, United States of America
 AAQ	[IATA] Vityazevo, Anapa, Russia
+AAR	after-action review
 AAR	[IATA] Tirstrup, Aarhus, Denmark
 AAS	[IATA] Apalapsili, New Guinea, Indonesia
 AAT	average access time
@@ -231,7 +232,7 @@ ABB	[IATA] Abingdon RAF Station, England, United Kingdom of Great Britain and No
 ABC	(latin Alphabet)
 ABC	American Broadcasting Company
 ABC	arbitrary bad-smelling cheese
-ABC	atomic, biological and chemical (weapons)
+ABC	atomic, biological, and chemical (weapons)
 ABD	all but dissertation
 ABD	[IATA] Abadan, Iran
 ABE	[IATA] Allentown-Bethlehem-Easton International, Pennsylvania, United States of America
@@ -1010,7 +1011,7 @@ ATD	[IATA] Atoifi, Solomon Islands
 ATE	[IATA] Antlers Municipal Airport, Oklahoma, United States of America
 ATEOTD	at the end of the day
 ATF	Automated Testing Framework
-ATF	Bureau of Alcohol, Tobacco, Firearms and Explosives (DoJ)
+ATF	Bureau of Alcohol, Tobacco, Firearms, and Explosives (DoJ)
 ATF	[IATA] Ambato, Ecuador
 ATG	[IATA] Atalaya, Peru
 ATH	[IATA] Athens Eleftherios Venizelos Internationa, Athens, Greece
@@ -1108,7 +1109,7 @@ AWD	[IATA] Aniwa, Vanuatu
 AWE	[IATA] Alowe, Gabon
 AWG	[IATA] Washington Municipal Airport, Iowa, United States of America
 AWH	[IATA] Awareh, Ethiopia
-AWK	Aho, Weinberger and Kernighan
+AWK	Aho, Weinberger, and Kernighan
 AWK	[IATA] Wake Island Airfield, Wake Island
 AWM	[IATA] West Memphis Municipal Airport, Arkansas, United States of America
 AWN	[IATA] Alton Downs, South Australia, Australia
@@ -1384,7 +1385,7 @@ BD	Bachelor of Divinity
 BD	baud
 BD	[ccTLD] Bangladesch
 BD	[ISO 3166] Bangladesh
-BD	[Kfz:D] Dienstfahrzeuge der Verfassungsorgane1
+BD	[Kfz:D] Dienstfahrzeuge der Verfassungsorgane
 BD	[Kfz] Bangladesch
 BDA	[IATA] Bermuda International, Ferry Reach, Bermuda
 BDA	[IATA] Kindley Airfield/Civil Air Terminal, Bermuda/Hamilton, Bermuda
@@ -2841,8 +2842,8 @@ CJE	[IATA] Chang Hua, Taiwan
 CJH	[IATA] Chilko Lake Aerodrome, British Columbia, Canada
 CJI	[IATA] Crafton Island, Alaska, United States of America
 CJJ	[IATA] Cresco (Ellen Church Field), Iowa, United States of America
-CJK	Chinese, Japanese and Korean
-CJKV	Chinese, Japanese, Korean and Vietnamese
+CJK	Chinese, Japanese, and Korean
+CJKV	Chinese, Japanese, Korean, and Vietnamese
 CJL	[IATA] Chitral, Pakistan
 CJN	[IATA] El Cajon, California, United States of America
 CJQ0	[Oracle] Job Queue Coordinator Process
@@ -5379,7 +5380,7 @@ FTY	[IATA] Atlanta (Brown Field), Georgia, United States of America
 FU	fuck you
 FUB	[IATA] Fulleborn, Papua New Guinea
 FUBAR	fucked up beyond all recognition
-FUD	fear, uncertainty and doubt
+FUD	fear, uncertainty, and doubt
 FUE	[IATA] Fuerteventura, Canary Islands, Spain
 FUG	[IATA] Fuyang, China
 FUJ	[IATA] Fukue, Japan
@@ -7145,7 +7146,7 @@ ISIS-MTT	(now renamed to Common PKI)
 ISJ	[IATA] Isla Mujers, Mexico
 ISK	[IATA] Nasik, India
 ISL	[IATA] Isabel Pass, Alaska, United States of America
-ISM	industrial, scientific and medical
+ISM	industrial, scientific, and medical
 ISM	[IATA] Kissimmee (Orlando Municipal Airport), Florida, United States of America
 ISN	initial serial number
 ISN	[IATA] Williston (Sloulin Field International), North Dakota, United States of America
@@ -8166,7 +8167,7 @@ KVG	[IATA] Kavieng, Papua New Guinea
 KVL	[IATA] Kivalina Airport, Alaska, United States of America
 KVM	kernel virtual machine (virtualisation module for Linux)
 KVM	kernel virtual memory
-KVM	keyboard, video and mouse (switch)
+KVM	keyboard, video, and mouse (switch)
 KVP	Katholische Volkspartei
 KVU	[IATA] Korolevu, Fiji
 KVX	[IATA] Kirov (Lyangasodv), Russia
@@ -9511,7 +9512,7 @@ MIMO	multiple input multiple output
 MIN	[IATA] Minnipa, South Australia, Australia
 MINF	Master of Informatics
 MINT	http://freemint.de/en/
-MINT	Mathematik, Informatik, Naturwissenschaft und Technik
+MINT	Mathematik, Informatik, Naturwissenschaft und Technik (STEM)
 MINT	MiNT is Now TOS
 MIO	[IATA] Miami (Municipal Airport), Oklahoma, United States of America
 MIP	[IATA] Mitspeh Ramona, Israel
@@ -9666,11 +9667,11 @@ MMNL	[Oracle] Manageability Monitor Lite Process
 MMO	[IATA] Maio, Cape Verde
 MMON	[Oracle] Manageability Monitor Process
 MMORPG	massive multi-player online RPG
-MMORSE	Master of Mathematics, Operational Research, Statistics and Economics
+MMORSE	Master of Mathematics, Operational Research, Statistics, and Economics
 MMP	[IATA] Mompus, Colombia
 MMQ	[IATA] M'Bala, Central African Republic
 MMR	[IATA] Austin (Camp Maybry), Texas, United States of America
-MMS	Master of Management Studies (New Zealand, Australia and UK; similar to an MBA)
+MMS	Master of Management Studies (New Zealand, Australia, and UK; similar to an MBA)
 MMS	[IATA] Marks (Selfs Airport), Mississippi, United States of America
 MMT	[IATA] Columbia (McEntire National Guard), South Carolina, United States of America
 MMU	memory management unit
@@ -12123,7 +12124,7 @@ PRG	[IATA] Vaclav Havel Airport (Ruzyne), Prague, Czech Republic
 PRH	[IATA] Phrae, Thailand
 PRI	[IATA] Praslin Island, Seychelles
 PRI	[Kfz] Puerto Rico
-PRIMA	Privilege Management, Authorisation and Enforcement in Grid Environments
+PRIMA	Privilege Management, Authorisation, and Enforcement in Grid Environments
 PRJ	Project
 PRJ	[IATA] Capri, Italy
 PRL	[IATA] Port Oceanic, Alaska, United States of America
@@ -12363,7 +12364,7 @@ PTP	[IATA] Guadeloupe Pôle Caraïbes Airport, Pointe-à-Pitre, Guadeloupe
 PTQ	[IATA] Porto de Mos, Pará, Brazil
 PTR	[IATA] Pleasant Harbor, Alaska, United States of America
 PTS	[IATA] Pittsburg (Atkinson Municipal Airport), Kansas, United States of America
-PTT	postal, telegraph and telephone service
+PTT	postal, telegraph, and telephone service
 PTT	[IATA] Pratt Industrial Airport, Kansas, United States of America
 PTU	[IATA] Platinum Airport, Alaska, United States of America
 PTV	parental tunnel vision
@@ -12796,7 +12797,7 @@ RAO	[IATA] Riberao Preto, São Paulo, Brazil
 RAOUL	R (French Spelling Alphabet)
 RAP	[IATA] Rapid City Regional Airport, South Dakota, United States of America
 RAQ	[IATA] Raha, Indonesia
-RAR	Java™ Resource Adapter Archive (collection of class, XML and other JCA), cf. JAR
+RAR	Java™ Resource Adapter Archive (collection of class, XML, and other JCA), cf. JAR
 RAR	Roshal Archive (traditional archive compressor)
 RAR	[IATA] Avarua (Rarotonga International), Cook Islands
 RAS	reliability, availability, and serviceability
@@ -13252,7 +13253,7 @@ RS	[ccTLD] Serbien
 RS	[ISO 3166] Serbia
 RS	[Kfz:D] kreisfreie Stadt Remscheid
 RS	[Kfz] Bosnisch-Serbische Republik (nicht offiziell)
-RSA	Rivest, Shamir and Adleman
+RSA	Rivest, Shamir, and Adleman
 RSA	[IATA] Santa Rosa, Argentina
 RSAT	Remote Server Administration Tools (Microsoft Windows)
 RSB	[IATA] Roseberth, Queensland, Australia
@@ -14109,7 +14110,7 @@ SMA	smart memory access
 SMA	[IATA] Santa Maria, Azores, Portugal
 SMAF	system management action field
 SMART	self-monitoring analysis and reporting technology
-SMART	specific, measurable, attainable, relevant and time-bound
+SMART	specific, measurable, attainable, relevant, and time-bound
 SMB	Server Message Block
 SMB	[IATA] Cerro Sombrero, Chile
 SMBFS	Server Message Block File System (see CIFS)
@@ -14491,7 +14492,7 @@ STD	[Kfz:D] Landkreis Stade
 STD	[Schule DE] Studiendirektor
 STE	[IATA] Stevens Point Municipal Airport, Wisconsin, United States of America
 STE	[Kfz:D] Landkreis Staffelstein
-STEM	Science, Technology, Engineering and Math
+STEM	Science, Technology, Engineering, and Math (MINT)
 STF	[gc] second time find
 STF	[gc] second to find
 STF	[IATA] Stephen Island, Queensland, Australia
@@ -16375,7 +16376,7 @@ WAP	Wireless Access Point
 WAP	Wireless Application Protocol
 WAP	[IATA] Alto Palena, Chile
 WAQ	[IATA] Antsalova, Madagascar
-WAR	Java™ Web Archive (collection of class, JSP and XML files), cf. JAR
+WAR	Java™ Web Archive (collection of class, JSP, and XML files), cf. JAR
 WAR	[IATA] Waris, Indonesia
 WAR	[Kfz:D] Landkreis, ab 1969 Kreis Warburg
 WARUM	darum (cf. WHY)
