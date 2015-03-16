@@ -2,7 +2,7 @@
 "	[MORSE] .-..-.
 # ucase: Ä Ö Ü Ñ Á É Í Ó Ç È
 $	[MORSE] ...-..- (not ITU-R)
-$MirOS: wtf/acronyms,v 1.462 2015/03/15 01:55:21 tg Exp $
+$MirOS: wtf/acronyms,v 1.463 2015/03/16 21:36:28 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.11 2014/09/05 22:38:17 tg Exp $
 $NetBSD: acronyms,v 1.224 2014/05/25 21:49:29 dholland Exp $
 $NetBSD: acronyms.comp,v 1.148 2015/02/06 14:48:24 ginsbach Exp $
@@ -16537,6 +16537,7 @@ WHV	[Kfz:D] kreisfreie Stadt Wilhelmshaven
 WHY	because.
 WI	[Kfz:D] kreisfreie Stadt Wiesbaden
 WI	[USA] Wisconsin
+WIA	wounded in action
 WIBNI	wouldn't it be nice if
 WIC	[IATA] Wick, United Kingdom of Great Britain and Northern Ireland
 WID	[IATA] Wildenrath, Germany
