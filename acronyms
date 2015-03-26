@@ -2,7 +2,7 @@
 "	[MORSE] .-..-.
 # ucase: Ä Ö Ü Ñ Á É Í Ó Ç È
 $	[MORSE] ...-..- (not ITU-R)
-$MirOS: wtf/acronyms,v 1.463 2015/03/16 21:36:28 tg Exp $
+$MirOS: wtf/acronyms,v 1.464 2015/03/26 18:05:40 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.11 2014/09/05 22:38:17 tg Exp $
 $NetBSD: acronyms,v 1.224 2014/05/25 21:49:29 dholland Exp $
 $NetBSD: acronyms.comp,v 1.148 2015/02/06 14:48:24 ginsbach Exp $
@@ -862,6 +862,7 @@ AQS	[IATA] Saqani, Fiji
 AQY	[IATA] Alyeska/Girdwood, Alaska, United States of America
 AR	Ar (PSE#18) Argon | Edelgase | noble gases | gasia nobilia
 AR	ar(1) archive – *.a
+AR	Aufsichtsrat
 AR	[ccTLD] Argentinien
 AR	[ISO 3166] Argentina
 AR	[Kfz:D] Kreis Arnsberg
@@ -1427,6 +1428,7 @@ BDZ	[IATA] Baindoung, Papua New Guinea
 BE	Bachelor of Engineering (BEng)
 BE	Backend
 BE	Be (PSE#4) Beryllium | Erdalkalimetalle | alkaline earth metals | metalla alcalica terrena
+BE	big endian
 BE	Broteinheit
 BE	[ccTLD] Belgien
 BE	[D] Berlin
@@ -3685,6 +3687,7 @@ DHA	[IATA] Dhahran, Saudi Arabia
 DHCP	Dynamic Host Configuration Protocol
 DHD	[IATA] Durham Downs, Queensland, Australia
 DHEALTHPSY	Doctor of Health Psychology
+DHH	Doppelhaushälfte
 DHI	[IATA] Dhangarhi, Nepal
 DHL	da haste Lauferei
 DHL	Dauert halt länger
@@ -3756,6 +3759,7 @@ DKP	Deutsche Kommunistische Partei
 DKR	[IATA] Dakar (Yoff), Senegal
 DKX	[IATA] Knoxville Downtown Island Airport, Tennessee, United States of America
 DL	110×220 mm (4.3307×8.6614 in) DIN lang (cf. ⅓A4); envelope for A4 folded twice (⅓ DIN A4)
+DL	Dienstleister
 DL	diode logic
 DL	discrete logarithm
 DL	download
@@ -3901,7 +3905,9 @@ DOX	[IATA] Dongara, Western Australia, Australia
 DOY	[IATA] Deboyne, Papua New Guinea
 DOZ	[IATA] Dorra, Djibouti
 DP	Demokratische Partei
+DP	Deutsche Post AG
 DP	DisplayPort
+DP DHL	Deutsche Post DHL (Paket, Expreß, Logistik)
 DPA	[IATA] Chicago (Dupage Airport), Illinois, United States of America
 DPC	deferred procedure call
 DPCM	differential pulse code modulation
@@ -4939,7 +4945,9 @@ FBY	[IATA] Fairbury Municipal Airport, Nebraska, United States of America
 FC	fan control
 FC	favourably considered
 FC	fibre channel
+FC	Forecast
 FC	frame control
+FC	Fußballclub
 FCA	[IATA] Kalispell (Glacier Park International), Montana, United States of America
 FCB	[IATA] Ficksburg, South Africa
 FCC	Federal Communications Commission
@@ -4976,6 +4984,7 @@ FDI	FdI -- http://altlasten.lutz.donnerhacke.de/mitarb/lutz/usenet/Fachbegriffe.
 FDIK	Fick' Dich ins Knie
 FDIK	Volker Birk (VB)
 FDK	[IATA] Frederick Municipal Airport, Maryland, United States of America
+FDO	feedback-directed optimisation
 FDP	Freie Demokratische Partei
 FDP	Freisinnig-Demokratische Partei
 FDP	[IATA] Fariopur, Bangladesh
@@ -6226,8 +6235,11 @@ HDO	[IATA] Hondo Municipal Airport, Texas, United States of America
 HDTV	high-definition television (720p, 1080i, 1080p)
 HDW	Heil den Wansen (=OMG)
 HDY	[IATA] Hat Yai (Hatyai) [Songkhia], Thailand
+HE	(using the host endianness, may be LE, BE, PDP-Endian, or something even worse)
 HE	He (PSE#2) Helium | Edelgase | noble gases | gasia nobilia
+HE	Host Europe
 HE	how embarrasing
+HE	Hurricane Electric
 HE	[D] Hessen
 HE	[Kfz:D] Landkreis Helmstedt
 HEA	[IATA] Herat, Afghanistan
@@ -7125,6 +7137,7 @@ ISA	instruction set architecture
 ISA	[IATA] Mount Isa, Queensland, Australia
 ISAAC	I (Telecom B Spelling Alphabet)
 ISAGN	I see a great need
+ISB	Investitions- und Strukturbank Rheinland-Pfalz
 ISB	[IATA] Islamabad, Pakistan
 ISBN	International Standard Book Number
 ISC	[IATA] Scilly Isles (St. Mary's Airport), England, United Kingdom of Great Britain and Northern Ireland
@@ -8240,6 +8253,7 @@ KÖT	[Kfz:D] Landkreis Köthen
 KÖZ	[Kfz:D] Landkreis Kötzting
 KÜN	[Kfz:D] Hohenlohekreis
 KÜN	[Kfz:D] Landkreis Künzelsau
+K€	Kilo-Euro (1000 €)
 L	British A/International Spelling Alphabet: LIVERPOOL
 L	British Forces 1952 Spelling Alphabet; RAF 1942/1943 Spelling Alphabet: LOVE
 L	deutsches Funkalphabet: LUDWIG
@@ -8260,6 +8274,7 @@ L8	late
 L8ER	later
 L8R	later
 LA	La (PSE#57) Lanthanum, Lanthan | Übergangsmetalle | transition metals | metalla transitionis
+LA	Lenkungsausschuß
 LA	[ccTLD] Laos
 LA	[ISO 3166] Laos
 LA	[Kfz:D] kreisfreie Stadt und Landkreis Landshut
@@ -8407,6 +8422,7 @@ LDW	[IATA] Lansdowne Station, W. Australia, Australia
 LDX	[IATA] St. Laurent du Maroni, French Guyana
 LDY	[IATA] Londonderry (Eglinton Airport), N. Ireland
 LE	Leistungserbringer
+LE	little endian
 LE	logical extent
 LE	[Kfz:D] Landkreis Lemgo
 LEA	load effective address
@@ -11592,6 +11608,7 @@ PDG	[IATA] Padang (Tabing), Indonesia
 PDH	Plesiochrone Digitale Hierarchie
 PDI	[IATA] Pindiu, Papua New Guinea
 PDK	[IATA] Atlanta (Dekalb-Peachtree Airport), Georgia, United States of America
+PDL	Personaldienstleistung(en)
 PDL	Policy Description Language
 PDL	[IATA] Ponta Delgada (Sao Miguel), Azores, Portugal
 PDM	pulse-duration modulation
@@ -11850,6 +11867,7 @@ PKU	[IATA] Pekanbaru (Simpang Tiga), Indonesia
 PKW	[IATA] Selibi Phikwe, Botswana
 PKY	[IATA] Palangkaraya (Cilik Riwut), Indonesia
 PKZ	[IATA] Pakse, Laos
+PL	Projektleiter
 PL	[ccTLD] Polen
 PL	[ISO 3166] Poland
 PL	[Kfz:D] Landkreis Plauen
@@ -14990,6 +15008,7 @@ TETRA	four-
 TETRA	Terrestrial Trunked Radio
 TETRA	Trans-European Trunked Radio (old)
 TEU	[IATA] Te Anau, New Zealand
+TEUR	tausend Euro (1000 €), normative: k€
 TEX	[IATA] Telluride Regional Airport, Colorado, United States of America
 TEY	[IATA] Thingeyri, Iceland
 TEZ	[IATA] Tezpur, India
@@ -15639,6 +15658,7 @@ TZX	[IATA] Trabzon (Air Base), Turkey
 TÖL	[Kfz:D] Landkreis Bad Tölz-Wolfratshausen
 TÖN	[Kfz:D] Kreis Eiderstedt
 TÜ	[Kfz:D] Landkreis Tübingen
+T€	tausend Euro (1000 €), normative: k€
 U	British A/International Spelling Alphabet: UPPSALA
 U	British Forces 1952 Spelling Alphabet; RAF 1942/1943 Spelling Alphabet; Telecom B Spelling Alphabet: UNCLE
 U	deutsches Funkalphabet: ULRICH
