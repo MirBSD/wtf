@@ -2,7 +2,7 @@
 "	[MORSE] .-..-.
 # ucase: Ä Ö Ü Ñ Á É Í Ó Ç È
 $	[MORSE] ...-..- (not ITU-R)
-$MirOS: wtf/acronyms,v 1.464 2015/03/26 18:05:40 tg Exp $
+$MirOS: wtf/acronyms,v 1.465 2015/03/30 22:32:27 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.11 2014/09/05 22:38:17 tg Exp $
 $NetBSD: acronyms,v 1.224 2014/05/25 21:49:29 dholland Exp $
 $NetBSD: acronyms.comp,v 1.148 2015/02/06 14:48:24 ginsbach Exp $
@@ -1116,6 +1116,7 @@ AWM	[IATA] West Memphis Municipal Airport, Arkansas, United States of America
 AWN	[IATA] Alton Downs, South Australia, Australia
 AWOL	absent without official leave
 AWOL	away without leave
+AWP	[gc] additional waypoint
 AWP	[IATA] Austral Downs, Northern Territory, Australia
 AWR	[IATA] Awar, Papua New Guinea
 AWZ	[IATA] Ahwaz, Iran
@@ -2357,6 +2358,8 @@ CA	[Kfz:D] Landkreis Calau
 CA	[USA] California
 CAA	[IATA] Catacamas, Honduras
 CAB	Codice d'Avviamento Bancario
+CAB	Cola and Beer
+CAB	[gc] Cacherautobahn
 CAB	[IATA] Cabinda, Angola
 CABAL	http://www.lucianobello.com.ar/post/there-is-no-cabal-but-whats-a-cabal/
 CABAL	TINC
@@ -9751,6 +9754,10 @@ MOB	(Mafia)
 MOB	manipulative old bastard
 MOB	[IATA] Mobile Municipal/Bates Field, Alabama, United States of America
 MOBI	[sTLD] mobile (Dienste, die die Nutzung durch mobile Endgeräte explizit unterstützen)
+MOC	meta object compiler
+MOC	Molestia Occulta • Die verborgene Bedrohung • Veiled Danger
+MOC	my own creation
+MOC	[gc] members-only cache
 MOC	[IATA] Montes Claros, Minas Gerais, Brazil
 MOC	[Kfz] Mosambik
 MOCEAN	Master of Oceanography
