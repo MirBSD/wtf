@@ -2,12 +2,12 @@
 "	[MORSE] .-..-.
 # ucase: Ä Ö Ü Ñ Á É Í Ó Ç È
 $	[MORSE] ...-..- (not ITU-R)
-$MirOS: wtf/acronyms,v 1.465 2015/03/30 22:32:27 tg Exp $
+$MirOS: wtf/acronyms,v 1.466 2015/04/04 16:59:17 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.11 2014/09/05 22:38:17 tg Exp $
 $NetBSD: acronyms,v 1.224 2014/05/25 21:49:29 dholland Exp $
 $NetBSD: acronyms.comp,v 1.148 2015/02/06 14:48:24 ginsbach Exp $
 $NetBSD: airport,v 1.58 2014/09/21 08:38:03 mbalmer Exp $
-$OpenBSD: airport,v 1.51 2015/03/13 17:51:25 giovanni Exp $
+$OpenBSD: airport,v 1.52 2015/03/30 21:40:20 kspillner Exp $
 &	[MORSE] .-... (not ITU-R)
 '	[MORSE] .----.
 (	[MORSE] -.--.
@@ -346,8 +346,10 @@ AD	[ccTLD] Andorra
 AD	[ISO 3166] Andorra
 ADA	[IATA] Adana (Incirlik Air Base), Turkey
 ADAM	A (New York Police Spelling Alphabet)
+ADB	a runtime debugger (Solaris)
+ADB	Android Debug Bridge
 ADB	Apple desktop bus
-ADB	[IATA] Izmir (Adnan Menderes), Turkey
+ADB	[IATA] Adnan Menderes, Izmir, Turkey
 ADC	analog [to] digital converter
 ADC	[IATA] Altenburg Nobitz, Germany
 ADD	acronym driven development
@@ -1681,7 +1683,7 @@ BJP	[IATA] Begamganj, Bangladesh
 BJR	[IATA] Bahar Dar, Ethiopia
 BJS	[IATA] Beijing Metropolitan Airport, China
 BJU	[IATA] Bajura, Nepal
-BJV	[IATA] Bodrum, Turkey
+BJV	[IATA] Milas-Bodrum, Bodrum, Turkey
 BJW	[IATA] Bajawa, Indonesia
 BJX	[IATA] Del Bajio International, Leon/Guanajuato, Guanajuato, Mexico
 BJY	[IATA] Belgrade, Yugoslavia
@@ -2184,6 +2186,9 @@ BV	bijvoorbeeld (for example, zum Beispiel)
 BV	[ccTLD] Bouvetinsel (auch .no)
 BV	[ISO 3166] Bouvet Island
 BVA	[IATA] Beauvais (Tille), France
+BVB	Ballspielverein Borussia
+BVB	Basler Verkehrs-Betriebe
+BVB	Blödmänner verfolgen den Ball
 BVB	[IATA] Boa Vista International, Boa Vista, Roraima, Brazil
 BVC	[IATA] Boavista, Cape Verde
 BVD	[IATA] Beaver Inlet, Alaska, United States of America
@@ -3334,6 +3339,7 @@ CVF	[IATA] Courcheval, France
 CVG	[IATA] Cincinnati International, Ohio, United States of America
 CVH	[IATA] Caviahue, Argentina
 CVI	[IATA] Caleta Olivia, Argentina
+CVJM	Christliche Vereinigung junger Menschen (YMCA)
 CVK	[IATA] Cherokee Village Airport, Arkansas, United States of America
 CVL	[IATA] Cape Vogel, Papua New Guinea
 CVM	[IATA] Ciudad Victoria, Mexico
@@ -13699,6 +13705,8 @@ SD	[ISO 3166] Sudan
 SD	[Kfz] Swasiland
 SD	[USA] South Dakota
 SDA	[IATA] Baghdad (Saddam International), Iraq
+SDB	support database
+SDB	symbolic debugger (UNIX/32V)
 SDC	[IATA] Sandcreek, Guyana
 SDD	[IATA] Lubango (Sa da Bandeira), Angola
 SDE	[IATA] Santiago del Estero, Argentina
@@ -17095,6 +17103,7 @@ Y	Y (PSE#39) Yttrium | Übergangsmetalle | transition metals | metalla transitio
 Y	[Kfz:D] Dienstfahrzeuge der Bundeswehr
 Y	[Kfz] Jugoslawien (veraltet)
 Y	[MORSE] -.--
+Y	“The Y”, short for YMCA
 YAA	[IATA] Anahim Lake, British Columbia, Canada
 YAB	[IATA] Arctic Bay, Northwest Territories, Canada
 YAC	[IATA] Cat Lake, Ontario, Canada
@@ -17365,6 +17374,7 @@ YMA	yo momma's arse
 YMA	[IATA] Mayo, Yukon, Canada
 YMB	[IATA] Merritt, British Columbia, Canada
 YMC	[IATA] Kangiqsujuaq (Maricourt), Quebec, Canada
+YMCA	Young Men’s Christian Association (CVJM)
 YMD	[IATA] Mould Bay, Northwest Territories, Canada
 YME	[IATA] Matane, Quebec, Canada
 YMF	[IATA] Montague Harbor, British Columbia, Canada
