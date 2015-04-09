@@ -2,7 +2,7 @@
 "	[MORSE] .-..-.
 # ucase: Ä Ö Ü Ñ Á É Í Ó Ç È
 $	[MORSE] ...-..- (not ITU-R)
-$MirOS: wtf/acronyms,v 1.466 2015/04/04 16:59:17 tg Exp $
+$MirOS: wtf/acronyms,v 1.467 2015/04/09 20:03:02 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.11 2014/09/05 22:38:17 tg Exp $
 $NetBSD: acronyms,v 1.224 2014/05/25 21:49:29 dholland Exp $
 $NetBSD: acronyms.comp,v 1.148 2015/02/06 14:48:24 ginsbach Exp $
@@ -12911,6 +12911,7 @@ RCT	[dental] Wurzelkanalbehandlung (vulg. "Wurzelfüllung")
 RCT	[IATA] Reed City (Nartron Field), Michigan, United States of America
 RCU	read-copy-update
 RCU	[IATA] Rio Cuarto (Area de Material), Argentina
+RCW	reconstruct-write (Linux RAID access mode, the other than RMW)
 RCX	[IATA] Ladysmith (Rusk County Airport), Wisconsin, United States of America
 RCY	[IATA] Rum Cay, Bahamas
 RD	[Kfz:D] Kreis Rendsburg-Eckernförde
