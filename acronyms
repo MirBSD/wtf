@@ -2,7 +2,7 @@
 "	[MORSE] .-..-.
 # ucase: Ä Ö Ü Ñ Á É Í Ó Ç È
 $	[MORSE] ...-..- (not ITU-R)
-$MirOS: wtf/acronyms,v 1.468 2015/04/14 18:15:30 tg Exp $
+$MirOS: wtf/acronyms,v 1.469 2015/04/15 21:43:44 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.11 2014/09/05 22:38:17 tg Exp $
 $NetBSD: acronyms,v 1.228 2015/04/14 12:19:48 rodent Exp $
 $NetBSD: acronyms.comp,v 1.149 2015/04/13 00:39:57 rodent Exp $
@@ -3989,6 +3989,7 @@ DSA	Debian Security Advisory
 DSA	Debian Systems Administration
 DSA	Digital Signature Algorithm
 DSB	Danske Statsbaner
+DSB	Datenschutzbeauftragter
 DSB	double-sideband modulation
 DSC	Doctor of Science
 DSC	[IATA] Dschang, Cameroon
@@ -8894,6 +8895,7 @@ LSP1	[Oracle] Logical Standby Dictionary Build Process
 LSP2	[Oracle] Logical Standby Set Guard Process
 LSQ	[IATA] Los Angeles, Chile
 LSR	label switch router
+LSR	Leistungsschutzrecht
 LSR	[IATA] Lost River, Alaska, United States of America
 LSS	[IATA] Les Saintes/Terre de Haut, Guadeloupe
 LST	[IATA] Launceston, Tasmania
@@ -16157,6 +16159,7 @@ VDM	[IATA] Viedma (Gobernador Castello), Argentina
 VDP	[IATA] Valle de Pascua, Venezuela
 VDPAU	Video Decode and Presentation API for Unix
 VDR	[IATA] Villa Dolores, Argentina
+VDS	Vorratsdatenspeicherung
 VDS	[IATA] Vadso, Norway
 VDSL	very-high-bit-rate digital subscriber line
 VDU	video display
