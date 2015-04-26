@@ -2,9 +2,10 @@
 "	[MORSE] .-..-.
 # ucase: Ä Ö Ü Ñ Á É Í Ó Ç È
 $	[MORSE] ...-..- (not ITU-R)
-$MirOS: wtf/acronyms,v 1.470 2015/04/18 22:31:44 tg Exp $
+$MirOS: wtf/acronyms,v 1.471 2015/04/26 16:58:41 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.11 2014/09/05 22:38:17 tg Exp $
-$NetBSD: acronyms,v 1.229 2015/04/16 01:07:24 rodent Exp $
+$NetBSD: acronyms,v 1.235 2015/04/24 18:03:38 riastradh Exp $
+$NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
 $NetBSD: acronyms.comp,v 1.149 2015/04/13 00:39:57 rodent Exp $
 $NetBSD: airport,v 1.58 2014/09/21 08:38:03 mbalmer Exp $
 $OpenBSD: airport,v 1.52 2015/03/30 21:40:20 kspillner Exp $
@@ -1293,6 +1294,7 @@ BAX	[IATA] Barnaul, Altay, Russia
 BAY	Bayern
 BAY	[IATA] Baia Mape, Romania
 BAZ	[IATA] Barcelos, Amazonas, Brazil
+BB	baby
 BB	big brother
 BB	[ccTLD] Barbados
 BB	[D] Brandenburg
@@ -1515,7 +1517,7 @@ BFI	[IATA] Seattle Kings County International/Boeing Field, Washington, United S
 BFIN	Bachelor of Finance
 BFJ	[IATA] Ba, Fiji
 BFK	[IATA] Buckley Army National Guard Base, Colorado, United States of America
-BFKL	big fscking kernel lock
+BFKL	big fucking kernel lock
 BFL	[IATA] Bakersfield (Meadows Field), California, United States of America
 BFM	[IATA] Mobile Downtown Airport, Alabama, United States of America
 BFN	[IATA] Bram Fischer International, Bloemfontein, South Africa
@@ -6943,6 +6945,7 @@ IKK	[IATA] Kankakee (Greater Kankakee Airport), Illinois, United States of Ameri
 IKL	[IATA] Ikela, Zaire
 IKO	[IATA] Nikolski, Alaska, United States of America
 IKP	[IATA] Inkerman, Queensland, Australia
+IKR	I know, right?
 IKS	[IATA] Tiksi, Yakutia-Sakha, Russia
 IKT	[IATA] Irkutsk, Russia
 IKWYM	I know what you mean
@@ -8692,6 +8695,7 @@ LM	[Kfz:D] Landkreis Limburg-Weilburg
 LMA	[IATA] Lake Minchumina, Alaska, United States of America
 LMAA	Leck’ mich am Arsch
 LMAO	laughing my arse off
+LMB	Lars Marowsky-Brée
 LMB	lick my balls
 LMB	[IATA] Salima, Malawi
 LMC	let me check
@@ -8765,6 +8769,7 @@ LOG	Loge Organisierter Geographen
 LOG	[IATA] Longview, Washington, United States of America
 LOH	[IATA] Loja, Ecuador
 LOH	[Kfz:D] Landkreis Lohr am Main
+LOIC	low orbit ion cannon
 LOK	[IATA] Lodwar, Kenya
 LOL	lachend, oba laut
 LOL	laughing out loud
@@ -10674,6 +10679,7 @@ NMS	[IATA] Namsang, Myanmar
 NMS	[Kfz:D] kreisfreie Stadt Neumünster
 NMT	[IATA] Namtu, Myanmar
 NMU	non-maintainer upload
+NMU	not much, you?
 NMU	[IATA] Namu, Marshall Islands
 NN	nighty-night
 NNA	[IATA] Kenitra, Morocco
@@ -10935,6 +10941,7 @@ NYL	[IATA] Yuma (Marine Corps Air Station), Arizona, United States of America
 NYM	[IATA] Nadym, Tyumen, Russia
 NYN	[IATA] Nyngan, New South Wales, Australia
 NYO	[IATA] Nykoping, Sweden
+NYPA	not your personal army
 NYU	[IATA] Nyaung-u, Myanmar
 NZ	[ccTLD] Neuseeland
 NZ	[ISO 3166] New Zealand
@@ -14578,7 +14585,6 @@ STEM	Science, Technology, Engineering, and Math (MINT)
 STF	[gc] second time find
 STF	[gc] second to find
 STF	[IATA] Stephen Island, Queensland, Australia
-STFA	search the fscking archives
 STFA	search the fucking archives
 STFU	search the fine usenet
 STFU	search the fucking usenet
@@ -16016,7 +16022,7 @@ UTC	[TZif] Antarctica/Troll
 UTD	[IATA] Nutwood Downs, Northern Territory, Australia
 UTE	[IATA] Butterworth, South Africa
 UTF	Unicode Translation Form
-UTFG	use the fscking google
+UTFG	use the fucking google
 UTFS	use the fine source
 UTFS	use the fucking source
 UTH	[IATA] Udon Thani, Thailand
