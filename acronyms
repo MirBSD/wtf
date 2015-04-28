@@ -2,7 +2,7 @@
 "	[MORSE] .-..-.
 # ucase: Ä Ö Ü Ñ Á É Í Ó Ç È
 $	[MORSE] ...-..- (not ITU-R)
-$MirOS: wtf/acronyms,v 1.471 2015/04/26 16:58:41 tg Exp $
+$MirOS: wtf/acronyms,v 1.472 2015/04/28 09:49:54 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.11 2014/09/05 22:38:17 tg Exp $
 $NetBSD: acronyms,v 1.235 2015/04/24 18:03:38 riastradh Exp $
 $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
@@ -5076,6 +5076,7 @@ FGD	[IATA] F'derik, Mauritania
 FGG	For the Greater Good
 FGI	[IATA] Apia (Fabali Si), Western Samoa
 FGL	[IATA] Fox Glacier, New Zealand
+FGT	faggot
 FGU	[IATA] Fangatau, French Polynesia
 FGX	[IATA] Flemingsburg (Fleming-Mason), Kentucky, United States of America
 FH	[Kfz:D] Main-Taunus-Kreis
@@ -7984,6 +7985,7 @@ KMC	[IATA] McCord, Alaska, United States of America
 KMD	[IATA] Mandji, Gabon
 KME	[IATA] Kamembe, Rwanda
 KMF	[IATA] Kamina, Papua New Guinea
+KMFR	{kill,killing} myself for real
 KMG	[IATA] Kunming (Wujlaba), China
 KMH	[IATA] Kuruman, South Africa
 KMI	[IATA] Miyazaki, Japan
@@ -10039,6 +10041,7 @@ MST	[TZif] Navajo
 MST	[TZif] US/Mountain
 MSTAT	Master of Statistics
 MSU	[IATA] Maseru (Moshoeshoe I International), Lesotho
+MSU	{make,making} shit up
 MSV	[IATA] Monticello (Sullivan County), New York, United States of America
 MSW	[IATA] Massawa, Eritrea
 MSX	[IATA] Massendjo, Congo
@@ -12834,6 +12837,7 @@ R&R	read and review
 R&R	rest and recuperation
 R&R	Rock and Roll
 R&R	rules and regulations
+R/C	remote control
 R/O	read-only
 R/W	read-write
 R000	[Oracle] ASM Block Remap Slave Process
@@ -14347,6 +14351,7 @@ SOP	standard operating procedure
 SOP	[IATA] Southern Pines (Moore County), North Carolina, United States of America
 SOQ	[IATA] Sorong (Jefman), Indonesia
 SOR	[IATA] Al Thaurah, Syria
+SOS	same old shit
 SOS	save our souls
 SOS	U+0098 START OF STRING
 SOS	[MORSE] ...---...
@@ -14515,6 +14520,7 @@ SSCD	Secure Signature Creation Device
 SSD	solid state drive
 SSD	[IATA] San Felipe, Colombia
 SSD	[Kfz] Südsudan
+SSDD	same shit, different day
 SSE	streaming SIMD extensions
 SSE	Südsüdost, south-south-east
 SSE	[IATA] Sholapur, India
