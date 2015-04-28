@@ -1,5 +1,5 @@
 #!/bin/mksh
-# $MirOS: wtf/wtf,v 1.26 2015/03/14 01:09:21 tg Exp $
+# $MirOS: wtf/wtf,v 1.27 2015/04/28 09:42:52 tg Exp $
 # $NetBSD: wtf,v 1.7 2000/11/21 00:18:52 soren Exp $
 #-
 # Copyright © 2002, 2003, 2004, 2006, 2007, 2008, 2010, 2011,
@@ -148,7 +148,12 @@ for target in "$@"; do
 	if (( use_acronyms )); then
 		found=0
 		while IFS= read -r line; do
-			[[ $line = "$tgsrch	"* ]] || continue
+			[[ $line = "$tgsrch	"* ]] || if (( found )); then
+				# assume the file is sorted
+				break
+			else
+				continue
+			fi
 			(( found++ )) || print -r "   $tgsrch:"
 			print -r -- "${line#*	}"
 		done <"$acronyms"
