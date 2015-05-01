@@ -2,7 +2,7 @@
 "	[MORSE] .-..-.
 # ucase: Ä Ö Ü Ñ Á É Í Ó Ç È
 $	[MORSE] ...-..- (not ITU-R)
-$MirOS: wtf/acronyms,v 1.472 2015/04/28 09:49:54 tg Exp $
+$MirOS: wtf/acronyms,v 1.473 2015/05/01 22:49:08 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.11 2014/09/05 22:38:17 tg Exp $
 $NetBSD: acronyms,v 1.235 2015/04/24 18:03:38 riastradh Exp $
 $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
@@ -9188,6 +9188,7 @@ MBY	[IATA] Moberly (Omar N. Bradley Airport), Missouri, United States of America
 MBZ	must be zero
 MBZ	[IATA] Maves, Brazil
 MC	main character
+MC	master of ceremony
 MC	memory controller
 MC	Midnight Commander (see NC, VC)
 MC	[ccTLD] Monaco
