@@ -2,7 +2,7 @@
 "	[MORSE] .-..-.
 # ucase: Ä Ö Ü Ñ Á É Í Ó Ç È
 $	[MORSE] ...-..- (not ITU-R)
-$MirOS: wtf/acronyms,v 1.473 2015/05/01 22:49:08 tg Exp $
+$MirOS: wtf/acronyms,v 1.474 2015/05/04 21:09:37 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.11 2014/09/05 22:38:17 tg Exp $
 $NetBSD: acronyms,v 1.235 2015/04/24 18:03:38 riastradh Exp $
 $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
@@ -2134,6 +2134,7 @@ BTP	[IATA] Butler County Airport, Pennsylvania, United States of America
 BTQ	[IATA] Butare, Rwanda
 BTR	bit test [and] reset
 BTR	[IATA] Baton Rouge Metropolitan/Ryan Field, Baton Rouge, Louisiana, United States of America
+BTS	base transceiver station
 BTS	bit test [and] set
 BTS	bits per second
 BTS	Bug Tracking System (debbugs)
@@ -2302,6 +2303,7 @@ BYT	[IATA] Bantry, Ireland
 BYU	[IATA] Bayreuth, Germany
 BYV	[IATA] Baiyer River, Papua New Guinea
 BYW	[IATA] Blakeley Island Airport, Washington, United States of America
+BZ	Bugzilla
 BZ	[ccTLD] Belize
 BZ	[ISO 3166] Belize
 BZ	[Kfz:D] Landkreis Bautzen
@@ -2814,6 +2816,7 @@ CIA	Central Intelligence Agency (USA)
 CIA	Instant Version Control Informant bots (now KGB)
 CIA	[IATA] Rome (Ciampino), Italy
 CIB	[IATA] Avalon Bay Seaplane Base, California, United States of America
+CIC	combat information centre
 CIC	[IATA] Chico Municipal Airport, California, United States of America
 CICS	Customer Information Control System
 CID	[IATA] Cedar Rapids/Iowa City, Iowa, United States of America
@@ -3124,6 +3127,7 @@ CPU	[IATA] Cururupu, Maranhão, Brazil
 CPV	[IATA] Campina Grande, Paraíba, Brazil
 CPX	[IATA] Culebra Airport, Puerto Rico
 CQA	[IATA] Celina (Lakefield Airport), Ohio, United States of America
+CQC	close quarters combat
 CQF	[IATA] Calais (Dunkerque), France
 CQM	[IATA] Cook Municipal Airport, Minnesota, United States of America
 CQP	[IATA] Cape Flattery, Australia
@@ -6572,6 +6576,8 @@ HRN	[IATA] Heron Island, Queensland, [140]Australia
 HRO	[IATA] Harrison (Boone County Airport), Arkansas, United States of America
 HRO	[Kfz:D] Hansestadt Rostock
 HRR	[IATA] Herrera, Colombia
+HRS	Hotel-Reservierungsservice
+HRS	hours
 HRS	[IATA] Harrismith, South Africa
 HRT	[IATA] Harrogate, United Kingdom of Great Britain and Northern Ireland
 HRU	[IATA] Herington Municipal Airport, Kansas, United States of America
@@ -9075,6 +9081,8 @@ M	[Kfz:D] kreisfreie Stadt und Landkreis München
 M	[Kfz] Israel (veraltet)
 M	[Kfz] Malta
 M	[MORSE] --
+M&C	maintenance and checkout
+M&C	manufacturing and construction
 M-A	Multi-Arch (Debian)
 M000	[Oracle] MMON Slave Process
 M8	mate
@@ -9344,6 +9352,7 @@ MDK	[IATA] Mbandaka, Zaire
 MDL	Mitglied des Landtages
 MDL	[IATA] Mandalay, Myanmar
 MDM	[IATA] Munduku, Papua New Guinea
+MDN	ASN.1 macro definition notation
 MDN	[IATA] Madison Municipal Airport, Indiana, United States of America
 MDO	[IATA] Middleton Island Airport, Alaska, United States of America
 MDP	[IATA] Mindiptana, Indonesia
@@ -11036,6 +11045,7 @@ OC	[Kfz:D] Landkreis Oschersleben
 OCA	[IATA] Key Largo (Ocean Reef Club), Florida, United States of America
 OCAML	Objective Caml
 OCC	[IATA] Coca, Ecuador
+OCD	obsessive-compulsive disorder
 OCE	[IATA] Ocean City Municipal Airport, Maryland, United States of America
 OCEAN	O (New York Police Spelling Alphabet)
 OCF	[IATA] Ocala (Jim Taylor Field), Florida, United States of America
@@ -12834,6 +12844,7 @@ R	[Kfz:D] kreisfreie Stadt und Landkreis Regensburg
 R	[Kfz] Rumänien (veraltet)
 R	[Kfz] Rußland (veraltet)
 R	[MORSE] .-.
+R&D	research and (technical) development
 R&R	read and review
 R&R	rest and recuperation
 R&R	Rock and Roll
@@ -13084,6 +13095,7 @@ RH	Rh (PSE#45) Rhodium | Übergangsmetalle | transition metals | metalla transit
 RH	[Kfz:D] Landkreis Roth
 RH	[Kfz] Haiti
 RHA	[IATA] Reykholar, Iceland
+RHBZ	RedHat bugzilla
 RHD	[IATA] Rio Hondo, Argentina
 RHE	[IATA] Reims (Champagne), France
 RHEL	Red Hat Enterprise Linux
@@ -13387,6 +13399,7 @@ RTBRFC	read the boring RFC
 RTC	real time clock
 RTC	real time computing
 RTC	[IATA] Ratnagiri, India
+RTD	research and (technical) development
 RTD	[IATA] Rotunda, California, United States of America
 RTE	[IATA] Marguerite Bay, Alaska, United States of America
 RTF	rich text format
@@ -14065,6 +14078,7 @@ SIS	[IATA] Sishen, South Africa
 SISD	single instruction, single data
 SIT	[IATA] Sitka Airport, Alaska, United States of America
 SITD	still in the dark
+SITREP	situation report
 SIU	[IATA] Siuna, Nicaragua
 SIV	[IATA] Sullivan County Airport, Indiana, United States of America
 SIW	[IATA] Sibisa, Indonesia
@@ -15815,6 +15829,7 @@ UDO	ultra density optical (storage)
 UDO	[IATA] Udomxay, Laos
 UDP	User Datagram Protocol
 UDR	[IATA] Udaipur, India
+UE	user equipment
 UE	[Kfz:D] Landkreis Uelzen
 UEE	[IATA] Queenstown, Tasmania, Australia
 UEFA	Union of European Football Associations
