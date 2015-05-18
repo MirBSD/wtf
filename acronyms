@@ -2,7 +2,7 @@
 "	[MORSE] .-..-.
 # ucase: Ä Ö Ü Ñ Á É Í Ó Ç È
 $	[MORSE] ...-..- (not ITU-R)
-$MirOS: wtf/acronyms,v 1.475 2015/05/14 09:10:51 tg Exp $
+$MirOS: wtf/acronyms,v 1.476 2015/05/18 21:03:06 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.11 2014/09/05 22:38:17 tg Exp $
 $NetBSD: acronyms,v 1.236 2015/05/09 18:18:32 dholland Exp $
 $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
@@ -10177,6 +10177,7 @@ MVL	[Kfz:D] Mecklenburg-Vorpommern, Landesregierung und Landtag
 MVM	[IATA] Kayenta Airport, Arizona, United States of America
 MVN	[IATA] Mount Vernon Airport, Illinois, United States of America
 MVO	[IATA] Mongo, Chad
+MVP	multi-thread virtual pipeline
 MVP	[IATA] Mitu, Colombia
 MVQ	[IATA] Mogilev, Mahiliow, Belarus
 MVR	[IATA] Maroua (Salak), Cameroon
@@ -15989,6 +15990,7 @@ UPS	uninterruptible power supply
 UPS	united parcel service
 UPS	Universal Polar Stereographic coordinate system (UTM zones A, B, Y, Z)
 UPS	[gc] unnatural pile of sticks
+UPU	unified processor unit (CPU+GPU)
 UPV	[IATA] Upavon, England, United Kingdom of Great Britain and Northern Ireland
 UQE	[IATA] Queens Airport, Alaska, United States of America
 UR	your
