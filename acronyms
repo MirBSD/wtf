@@ -2,7 +2,7 @@
 "	[MORSE] .-..-.
 # ucase: Ä Ö Ü Ñ Á É Í Ó Ç È
 $	[MORSE] ...-..- (not ITU-R)
-$MirOS: wtf/acronyms,v 1.476 2015/05/18 21:03:06 tg Exp $
+$MirOS: wtf/acronyms,v 1.477 2015/05/21 17:23:50 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.11 2014/09/05 22:38:17 tg Exp $
 $NetBSD: acronyms,v 1.236 2015/05/09 18:18:32 dholland Exp $
 $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
@@ -18053,6 +18053,7 @@ _	[MORSE] ..--.- (not ITU-R)
 укр	[ccTLD] Ukraine
 ҚАЗ	[ccTLD] Kasachstan
 қаз	[ccTLD] Kasachstan
+հայ	[ccTLD] Armenia
 الاردن	[ccTLD] al-urdunn, Jordanien
 الجزائر	[ccTLD] Algerien
 السعودية	[ccTLD] as-saʿūdīya, Saudi-Arabien
