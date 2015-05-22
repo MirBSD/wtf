@@ -2,9 +2,9 @@
 "	[MORSE] .-..-.
 # ucase: Ä Ö Ü Ñ Á É Í Ó Ç È
 $	[MORSE] ...-..- (not ITU-R)
-$MirOS: wtf/acronyms,v 1.477 2015/05/21 17:23:50 tg Exp $
+$MirOS: wtf/acronyms,v 1.478 2015/05/22 21:12:50 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.11 2014/09/05 22:38:17 tg Exp $
-$NetBSD: acronyms,v 1.236 2015/05/09 18:18:32 dholland Exp $
+$NetBSD: acronyms,v 1.237 2015/05/18 11:56:20 pooka Exp $
 $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
 $NetBSD: acronyms.comp,v 1.149 2015/04/13 00:39:57 rodent Exp $
 $NetBSD: airport,v 1.58 2014/09/21 08:38:03 mbalmer Exp $
@@ -11081,6 +11081,7 @@ ODN	[IATA] Long Seridan, Sarawak, Malaysia
 ODR	[IATA] Ord River, Western Australia, Australia
 ODS	[IATA] Odessa (Tsentrainy) International, Ukraine
 ODT	on-die termination
+ODTW	others do the work (cf. "otdw source")
 ODW	[IATA] Oak Harbor Air Park, Washington, United States of America
 ODX	[IATA] Ord (Evelyn Sharp Field), Nebraska, United States of America
 ODY	[IATA] Oudomxay, Laos
