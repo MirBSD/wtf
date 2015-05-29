@@ -2,7 +2,7 @@
 "	[MORSE] .-..-.
 # ucase: Ä Ö Ü Ñ Á É Í Ó Ç È
 $	[MORSE] ...-..- (not ITU-R)
-$MirOS: wtf/acronyms,v 1.479 2015/05/27 15:07:03 tg Exp $
+$MirOS: wtf/acronyms,v 1.480 2015/05/29 23:08:21 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.11 2014/09/05 22:38:17 tg Exp $
 $NetBSD: acronyms,v 1.237 2015/05/18 11:56:20 pooka Exp $
 $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
@@ -3319,6 +3319,7 @@ CT	[USA] Connecticut
 CTA	[IATA] Catania (Fontanarossa), Sicily, Italy
 CTB	[IATA] Coritgo Blanco, United Kingdom of Great Britain and Northern Ireland
 CTC	[IATA] Catamarca, Argentina
+CTE	committee
 CTE	common table expression
 CTE	[IATA] Carti, Panama
 CTF	capture the flag
@@ -15465,7 +15466,10 @@ TINSTA	there is no such thing as ...
 TINWIS	this is not what I said
 TIO	[IATA] Tilin, Myanmar
 TIOOWTDI	There is only one way to do it
+TIP	(English) de:Trinkgeld en:tip
+TIP	(German) de:Hinweis en:hint
 TIP	[IATA] Tripoli (Idris), Libya
+TIPP	(cf. TIP)
 TIQ	[IATA] Tinian (Peipeinimaru), Mariana Islands
 TIR	[IATA] Tirupati, India
 TIR	[Kfz:D] Landkreis Tirschenreuth
