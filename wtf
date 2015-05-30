@@ -1,5 +1,5 @@
 #!/bin/mksh
-# $MirOS: wtf/wtf,v 1.27 2015/04/28 09:42:52 tg Exp $
+# $MirOS: wtf/wtf,v 1.28 2015/05/30 20:24:40 tg Exp $
 # $NetBSD: wtf,v 1.7 2000/11/21 00:18:52 soren Exp $
 #-
 # Copyright © 2002, 2003, 2004, 2006, 2007, 2008, 2010, 2011,
@@ -136,6 +136,7 @@ for target in "$@"; do
 	tgsrch=${tgsrch//ó/Ó}
 	tgsrch=${tgsrch//ç/Ç}
 	tgsrch=${tgsrch//è/È}
+	tgsrc1=${tgsrch::1}
 
 	if (( use_ports )); then
 		p=$(ports_acquire "$target")
@@ -150,6 +151,8 @@ for target in "$@"; do
 		while IFS= read -r line; do
 			[[ $line = "$tgsrch	"* ]] || if (( found )); then
 				# assume the file is sorted
+				break
+			elif [[ ${line::1} > "$tgsrc1" ]]; then
 				break
 			else
 				continue
