@@ -2,7 +2,7 @@
 "	[MORSE] .-..-.
 # ucase: Ä Ö Ü Ñ Á É Í Ó Ç È
 $	[MORSE] ...-..- (not ITU-R)
-$MirOS: wtf/acronyms,v 1.481 2015/05/30 23:09:40 tg Exp $
+$MirOS: wtf/acronyms,v 1.482 2015/06/06 20:25:20 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.11 2014/09/05 22:38:17 tg Exp $
 $NetBSD: acronyms,v 1.237 2015/05/18 11:56:20 pooka Exp $
 $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
@@ -190,7 +190,7 @@ A-C	apt-cache
 A-G	apt-get
 A-J	Anti-Jamming
 A-S	Anti-Spoofing
-A/D	Analog-to-Digital
+A/D	analog to digital
 A/N	author’s note
 A/S/G	age, sex, graticule?
 A/S/L	age, sex, location?
@@ -1260,6 +1260,7 @@ B000	[Oracle] ASM Blocking Slave Process for GMON
 B1	707×1000 mm (27¾×39⅜ in)
 B10	31×44 mm (1¼×1¾ in)
 B2	500×707 mm (19¾×27¾ in)
+B2B	business to business
 B3	353×500 mm (13⅞×19¾ in)
 B4	250×353 mm (9⅞×13⅞ in) envelope for C4
 B4	before
@@ -1870,6 +1871,7 @@ BN	[Kfz:D] Landkreis Bonn
 BNA	[IATA] Nashville International, Nashville, Tennessee, United States of America
 BNA	[IATA] Nashville Metro, Tennessee, United States of America
 BNA	[Kfz:D] Landkreis Borna
+BNB	bed and breakfast
 BNB	[IATA] Boende, Zaire
 BNC	[IATA] Beni, Zaire
 BND	[IATA] Bandar Abbas, Iran
@@ -1972,7 +1974,7 @@ BPHYS	Bachelor of Physics
 BPI	bits per inch
 BPI	[IATA] Big Piney-Marbleton Airport, Wyoming, United States of America
 BPM	beats per minute
-BPM	business process modelling
+BPM	business process management
 BPN	[IATA] Balikpapan (Sepinggan), Indonesia
 BPP	bits per pixel
 BPR	[IATA] Great Aussie Hole, Australia
@@ -2403,6 +2405,7 @@ C0	917×1297 mm (36×51 in)
 C1	648×917 mm (25½×36 in)
 C10	28×40 mm (1⅛×1⅝ in)
 C2	458×648 mm (18×25½ in)
+C2S	client to server
 C3	324×458 mm (12¾×18 in)
 C4	(some kind of explosive)
 C4	229×324 mm (9×12¾ in) envelope for unfolded A4
@@ -2555,6 +2558,7 @@ CCP	[IATA] Concepcion (Carriel Sur), Chile
 CCQ	[IATA] Cachoeira, Bahia, Brazil
 CCR	condition code register
 CCR	[IATA] Concord (Buchanan Field), California, United States of America
+CCRM	customer-centric relationship management
 CCS	[IATA] Caracas (Aeropuerto Internacional), Venezuela
 CCT	[IATA] Colonia Catriel, Argentina
 CCTLD	country-code top-level domain
@@ -2900,7 +2904,7 @@ CIP	[IATA] Chipata, Zambia
 CIPM	Comité International des Poids et Mesures
 CIPM	International Committee for Weights and Measures
 CIQ	[IATA] Chiquimula, Guatemala
-CIR	carrier-to-interference ratio
+CIR	carrier to interference ratio
 CIR	[IATA] Cairo Airport, Illinois, United States of America
 CIS	Computer Information Systems
 CIS	contact image sensor
@@ -3078,7 +3082,7 @@ CNO	[IATA] Chino Airport, California, United States of America
 CNP	continued [in my] next post
 CNP	[IATA] East Greenland, Greenland
 CNQ	[IATA] Corrientes, Argentina
-CNR	carrier-to-noise ratio
+CNR	carrier to noise ratio
 CNR	[IATA] Chanaral, Chile
 CNS	[IATA] Cairns, Queensland, Australia
 CNT	[IATA] Charata, Argentina
@@ -3210,6 +3214,7 @@ CR	[ISO 3166] Costa Rica
 CR	[Kfz:D] Landkreis Crailsheim
 CR	[Kfz] Costa Rica
 CR-LF	carriage return plus line feed (newline)
+CRA	[fanfic] clan restoration act
 CRA	[IATA] Craiova, Romania
 CRAM	challenge-response authentication method
 CRB	[IATA] Collarenebri, New South Wales, Australia
@@ -3541,7 +3546,7 @@ D	[Kfz] Deutsche Demokratische Republik (veraltet)
 D	[Kfz] Deutschland
 D	[MORSE] -..
 D&R	duck and run
-D/A	Digital-to-Analog
+D/A	digital to analog
 D/B/A	doing business as
 D/L	download
 D/W	don’t worry
@@ -3656,7 +3661,7 @@ DC3	U+0013 ␓ DEVICE CONTROL THREE
 DC4	U+0014 ␔ DEVICE CONTROL FOUR
 DCA	[IATA] Washington National, District of Columbia, United States of America
 DCC	direct cable connect
-DCC	Direct Client-to-Client
+DCC	Direct client to client
 DCD	data carrier detect
 DCE	data control equipment
 DCE	distributed computing environment
@@ -4246,8 +4251,8 @@ E-XER	extended XML encoding rules
 E.G.	exempli gratia (for example)
 E000	[Oracle] EMON Slave Process
 E2BIG	(#7) Argument list too long
-E2E	end-to-end
-E2E	end-to-end encryption (Gajim)
+E2E	E2E encryption (Gajim)
+E2E	end to end
 E4	280×400 mm (11.0236×15.7480 in) envelope for B4
 EA	[Kfz:D] kreisfreie Stadt Eisenach
 EA	[Kfz] Britisch-Ostafrika (veraltet)
@@ -4263,6 +4268,7 @@ EAFNOSUPPORT	(#47) Address family not supported by protocol family
 EAG	[IATA] Eagle Grove Municipal Airport, Iowa, United States of America
 EAGAIN	(#35) Resource temporarily unavailable
 EAH	[IATA] El Arish, Egypt
+EAI	enterprise application integration
 EAK	[Kfz] Kenia
 EALREADY	(#37) Operation already in progress
 EAM	[IATA] Nejran, Saudi Arabia
@@ -4336,6 +4342,7 @@ ECL	emitter-coupled logic
 ECLIPSE	Eight Cores? Look, it performs slow everywhere!
 ECLIPSE	Java’s answer to EMACS
 ECM	electronic countermeasures (often: jammer)
+ECM	enterprise content management
 ECN	ASN.1 Encoding Control Notation
 ECN	explicit congestion notification
 ECN	[IATA] Ercan, Cyprus
@@ -4381,6 +4388,7 @@ EDISON	E (British A/International Spelling Alphabet)
 EDK	[IATA] El Dorado (Captain Jack Thomas), Kansas, United States of America
 EDL	[IATA] Eldoret, Kenya
 EDM	Electronic Business Measurement
+EDM	electronic document management
 EDM	[IATA] La Roche, France
 EDO	extended data out
 EDOM	(#33) Numerical argument out of domain
@@ -4587,6 +4595,7 @@ EKB	[IATA] Ekibastuz, Kazakhstan
 EKD	[IATA] Elkedra, Northern Territory, Australia
 EKE	[IATA] Ekereku, Guyana
 EKI	[IATA] Elkhart Municipal Airport, Indiana, United States of America
+EKMS	electronic knowledge management system
 EKN	[IATA] Elkins-Randolph Country, Elkins (Jennings Randolph Field), West Virginia, United States of America
 EKO	[IATA] Elko Municipal Airport, Nevada, United States of America
 EKQ	[IATA] Monticello (Wayne County Airport), Kentucky, United States of America
@@ -7519,7 +7528,7 @@ J	[Kfz:D] Landkreis Jena
 J	[Kfz] Japan
 J	[MORSE] .---
 J/K	just kidding
-J/S	Jamming-to-Signal
+J/S	jamming to signal
 J000	[Oracle] Job Queue Slave Process
 J2EE	Java™ 2 Enterprise Edition
 J4F	just for fun
@@ -11112,7 +11121,7 @@ NTBA	Network Terminal for ISDN Basic Rate Access
 NTBBA	Network Terminal for Broadband Access
 NTC	[IATA] Santa Carolina, Mozambique
 NTD	[IATA] Point Mugu (NAWS Airport), California, United States of America
-NTE	Not-to-Exceed
+NTE	not to exceed
 NTE	[IATA] Nantes-Atlantique (Chateau Bougon), France
 NTEU	non-technical end user
 NTG	[IATA] Nantong, China
@@ -13856,6 +13865,8 @@ S000	[Oracle] Shared Server Process
 S1	[Schule DE] Sekundarstufe 1 (Erprobungs- und Mittelstufe)
 S12	(Alcatel) System 12
 S2	[Schule DE] Sekundarstufe 2 (Oberstufe)
+S2C	server to client
+S2S	server to server
 S390	31-bit S/390 (Linux)
 S390	IBM ESA/390
 S390X	64-bit S/390 (Linux)
@@ -14122,7 +14133,7 @@ SDL	Simple Direct-media Layer
 SDL	[IATA] Sundsvall (Harnosand), Sweden
 SDL	[Kfz:D] Landkreis Stendal
 SDLC	synchronous data link control
-SDLLC	SDLC-to-LAN conversion
+SDLLC	SDLC to LAN conversion
 SDLLC	synchronous data logical link control
 SDM	[IATA] San Diego (Brown Field Municipal), California, United States of America
 SDN	[IATA] Sandane (Anda), Norway
@@ -14408,7 +14419,7 @@ SIP	Session Initiation Protocol
 SIP	Unicode Supplementary Ideographic Plane
 SIP	[IATA] Simferopol, Krym (Crimea), Ukraine / Russia
 SIQ	[IATA] Singkep (Dabo Airport), Indonesia
-SIR	signal-to-interference ratio
+SIR	signal to interference ratio
 SIR	slow infrared
 SIR	[IATA] Sion (Sitten), Switzerland
 SIS	Signal-In-Space
@@ -14648,7 +14659,7 @@ SNN	[IATA] Shannon (Limerick), Ireland
 SNO	[IATA] Sakon Nakhon, Thailand
 SNP	[IATA] St. Paul Island Airport, Alaska, United States of America
 SNQ	[IATA] San Quintin, Mexico
-SNR	signal-to-noise ratio
+SNR	signal to noise ratio
 SNR	[IATA] Saint-Nazaire (Montoir), France
 SNS	[IATA] Salinas Municipal Airport, California, United States of America
 SNT	[IATA] Sabana de Torres, Colombia
