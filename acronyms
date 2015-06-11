@@ -2,7 +2,7 @@
 "	[MORSE] .-..-.
 # ucase: Ä Ö Ü Ñ Á É Í Ó Ç È
 $	[MORSE] ...-..- (not ITU-R)
-$MirOS: wtf/acronyms,v 1.482 2015/06/06 20:25:20 tg Exp $
+$MirOS: wtf/acronyms,v 1.483 2015/06/11 19:35:28 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.11 2014/09/05 22:38:17 tg Exp $
 $NetBSD: acronyms,v 1.237 2015/05/18 11:56:20 pooka Exp $
 $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
@@ -4111,6 +4111,7 @@ DSM	[IATA] Des Moines International, Iowa, United States of America
 DSN	delivery status notification
 DSO	dynamic shared object
 DSP	digital signal processor
+DSS	decision support system
 DSSS	direct sequence spread spectrum
 DST	daylife sucking time
 DST	daylight saving time
