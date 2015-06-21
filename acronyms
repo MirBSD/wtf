@@ -2,7 +2,7 @@
 "	[MORSE] .-..-.
 # ucase: Ä Ö Ü Ñ Á É Í Ó Ç È
 $	[MORSE] ...-..- (not ITU-R)
-$MirOS: wtf/acronyms,v 1.483 2015/06/11 19:35:28 tg Exp $
+$MirOS: wtf/acronyms,v 1.484 2015/06/21 18:17:26 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.11 2014/09/05 22:38:17 tg Exp $
 $NetBSD: acronyms,v 1.237 2015/05/18 11:56:20 pooka Exp $
 $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
@@ -411,6 +411,7 @@ ADT	[TZif] Atlantic/Bermuda (DST)
 ADT	[TZif] Canada/Atlantic (DST)
 ADU	[IATA] Audubon County Airport, Iowa, United States of America
 ADV	advanced
+ADV	Arbeitsgemeinschaft der Vermessungsverwaltungen der Länder der Bundesrepublik Deutschland
 ADV	auxilliary data vector
 ADV	[IATA] Andover, England, United Kingdom of Great Britain and Northern Ireland
 ADW	[IATA] Andrews Air Force Base, Maryland, United States of America
@@ -514,6 +515,7 @@ AGC	automatic gain control
 AGC	[IATA] Pittsburgh/Allegheny County, Pennsylvania, United States of America
 AGD	[IATA] Anggi, Indonesia
 AGE	[IATA] Wangerooge, Germany
+AGEOBW	Amt für Geoinformationswesen der Bundeswehr (now: ZGeoBw)
 AGF	[IATA] Agen, France
 AGG	[IATA] Angoram, Papua New Guinea
 AGH	[IATA] Angelholm (Helsingborg), Sweden
@@ -726,6 +728,7 @@ AMG	[IATA] Ambolin, Papua New Guinea
 AMH	[IATA] Arba Mintch, Ethiopia
 AMI	alternate mark inversion
 AMI	[IATA] Mataram (Selaparang), Indonesia
+AMILGEO	Amt für Militärisches Geowesen (later AGeoBw)
 AMJ	[IATA] Almenara, Minas Gerais, Brazil
 AMK	[IATA] Durango (Animas Air Park), Colorado, United States of America
 AML	[IATA] Puerto Armuella, Panama
@@ -1152,6 +1155,7 @@ AWB	[IATA] Awaba, Papua New Guinea
 AWD	[IATA] Aniwa, Vanuatu
 AWE	[IATA] Alowe, Gabon
 AWG	[IATA] Washington Municipal Airport, Iowa, United States of America
+AWGEOPHYS	Amt für Wehrgeophysik (later AGeoBw)
 AWH	[IATA] Awareh, Ethiopia
 AWK	Aho, Weinberger, and Kernighan
 AWK	[IATA] Wake Island Airfield, Wake Island
@@ -1788,6 +1792,7 @@ BLF	[IATA] Bluefield (Mercer County Airport), West Virginia, United States of Am
 BLG	[IATA] Belaga, Sarawak, Malaysia
 BLH	[IATA] Blythe Airport, California, United States of America
 BLI	[IATA] Bellingham International Airport, Washington, United States of America
+BLIT	block image transfer
 BLITT	Bachelor of Literature
 BLJ	[IATA] Batna, Algeria
 BLK	[IATA] Blackpool (Squire's Gate Airport), England, United Kingdom of Great Britain and Northern Ireland
@@ -2097,6 +2102,7 @@ BSF	[IATA] Bradshaw Army Airfield, Hawaii, United States of America
 BSG	Bundesschiedsgericht
 BSG	Bundessozialgericht
 BSG	[IATA] Bata, Equatorial Guinea
+BSH	Bundesamt für Seeschifffahrt und Hydrographie
 BSH	[IATA] Brighton, England
 BSI	Bundesamt für Sicherheit in der Informationstechnik
 BSI	[IATA] Blairsville (Jim Shearer South Airport), Pennsylvania, United States of America
@@ -4013,6 +4019,7 @@ DOP	[IATA] Dolpa, Nepal
 DOR	[IATA] Dori, Burkina Faso
 DORA	D (deutsches Funkalphabet)
 DOS	denial of service
+DOS	deposit of substance
 DOS	Disc Operating System
 DOS	[IATA] Dios, Papua New Guinea
 DOT	Department of Transportation (DoT)
@@ -4115,6 +4122,7 @@ DSS	decision support system
 DSSS	direct sequence spread spectrum
 DST	daylife sucking time
 DST	daylight saving time
+DST	Dienststelle
 DSTM	don’t shoot the messenger
 DSV	[IATA] Dansville Municipal Airport, New York, United States of America
 DT	[Kfz:D] Kreis Detmold
@@ -4196,6 +4204,7 @@ DW	[Kfz:D] Landkreis Dippoldiswalde
 DW	[Kfz:D] Weißeritzkreis
 DW00	[Oracle] Data Pump Worker Process
 DWB	[IATA] Soalala, Madagascar
+DWD	Deutscher Wetterdienst
 DWDM	Dense Wavelength Division Multiplexing
 DWH	data warehouse
 DWH	[IATA] Houston (David Wayne Hooks), Texas, United States of America
@@ -5800,6 +5809,7 @@ GENOVA	G (Italian Spelling Alphabet)
 GEO	[IATA] Georgetown (Timehri), Guyana
 GEO	[Kfz:D] Landkreis Gerolzhofen
 GEO	[Kfz] Georgien (veraltet)
+GEOINFODBW	Geoinformationsdienst der Bundeswehr
 GEORGE	G (British Forces 1952 Spelling Alphabet; New York Police Spelling Alphabet; RAF 1942/1943 Spelling Alphabet; Telecom B Spelling Alphabet)
 GER	[IATA] Nueva Gerona, Cuba
 GER	[Kfz:D] Landkreis Germersheim
@@ -7962,7 +7972,9 @@ KDJ	[IATA] N'Djole, Gabon
 KDK	[IATA] Kodiak Municipal Airport, Alaska, United States of America
 KDL	[IATA] Kardla, Estonia
 KDN	[IATA] N'Dende, Gabon
+KDO	Kommando
 KDOP	Weighted Variation of Dilution of Precision
+KDOSTRATAUFKL	Kommando Strategische Aufklärung
 KDP	[IATA] Kandep, Papua New Guinea
 KDR	[IATA] Kandrian, Papua New Guinea
 KDS	[IATA] Kamaran Downs, Queensland, Australia
@@ -8331,6 +8343,7 @@ KRZ	[IATA] Kiri, Zaire
 KS	[Kfz:D] kreisfreie Stadt und Landkreis Kassel
 KS	[Kfz] Kirgisistan
 KS	[USA] Kansas
+KSA	Kommando Strategische Aufklärung
 KSA	[IATA] Kosrae Island, Micronesia
 KSA	[Kfz] Saudi-Arabien
 KSB	[IATA] Kasanombe, Papua New Guinea
@@ -9233,6 +9246,7 @@ LVO	[IATA] Laverton, Western Australia, Australia
 LVS	[IATA] Las Vegas Municipal Airport, New Mexico, United States of America
 LVT	local vector table
 LW	Lw (PSE#103) Lawrencium | Uran-Metalle (Aktiniden) | actinides | actinida
+LWA	Luftwaffenamt
 LWB	[IATA] Greenbrier (Lewisburg), West Virginia, United States of America
 LWC	[IATA] Lawrence Municipal Airport, Kansas, United States of America
 LWE	[IATA] Lewoleba, Indonesia
@@ -10369,6 +10383,7 @@ MUH	[IATA] Marsa Matrum (Mersa Matruh), Egypt
 MUI	[IATA] Indiantown (Muir Army Air Field), Pennsylvania, United States of America
 MUJ	[IATA] Mui, Ethiopia
 MUK	[IATA] Mauke, Cook Islands
+MUKDO	Marineunterstützungskommando
 MUL	multiplication
 MUL	[IATA] Moultrie (Spence Airport), Georgia, United States of America
 MULTICS	Multiplexed Information and Computing Service
@@ -14472,6 +14487,7 @@ SK	[Kfz:D] Saalekreis
 SK	[Kfz] Sarawak (veraltet)
 SK	[Kfz] Slowakei
 SKA	[IATA] Spokane (Fairchild Air Force Base), Washington, United States of America
+SKB	Streitkräftebasis
 SKB	[IATA] Saint Kitts, Leeward Islands
 SKC	[IATA] Suki, Papua New Guinea
 SKD	[IATA] Samarkand, Uzbekhistan
@@ -14951,6 +14967,7 @@ ST:TOS	[ST] The Original Series
 ST:VOY	[ST] Voyager
 STA	[IATA] Stuttgart, Germany
 STA	[Kfz:D] Landkreis Starnberg
+STAGN	Ständiger Ausschuß für geographische Namen
 STANAG	Standardisation Agreement
 STASH	Soziale Träger Angenehmer Sybillinischer Halbwahrheiten
 STAT	Statistics
@@ -15138,6 +15155,7 @@ SWF	Shockwave Flash
 SWF	[IATA] Newburgh (Stewart Int'l Airport), New York, United States of America
 SWFG	search with fucking Google
 SWG	[IATA] Statwag, Papua New Guinea
+SWGEOPHYS	Schule für Wehrgeophysik (later AGeoBw)
 SWH	Schleswig-Holstein
 SWH	[IATA] Swan Hill, Victoria, Australia
 SWI	software interrupt
@@ -15849,6 +15867,7 @@ TON	[IATA] Tonu, Papua New Guinea
 TON	[Kfz] Tonga (nicht offiziell)
 TOP	Tagesordnungspunkt
 TOP	[IATA] Topeka (Philip Billard), Kansas, United States of America
+TOPTR	Topographietruppe des Heeres (later AGeoBw)
 TOQ	[IATA] Tocopilla, Chile
 TOR	[IATA] Torrington Municipal Airport, Wyoming, United States of America
 TORINO	T (Italian Spelling Alphabet)
@@ -18271,6 +18290,7 @@ ZFM	[IATA] Fort McPherson, Northwest Territories, Canada
 ZFN	[IATA] Fort Norman, Northwest Territories, Canada
 ZFOD	zero-filled on demand
 ZGC	[IATA] Lanzhou (Zhongchuan), China
+ZGEOBW	Zentrum für Geoinformationswesen der Bundeswehr
 ZGF	[IATA] Grand Forks, British Columbia, Canada
 ZGI	[IATA] Gods River, Manitoba, Canada
 ZGL	[IATA] South Galway, Australia
