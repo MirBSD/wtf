@@ -2,7 +2,7 @@
 "	[MORSE] .-..-.
 # ucase: Ä Ö Ü Ñ Á É Í Ó Ç È
 $	[MORSE] ...-..- (not ITU-R)
-$MirOS: wtf/acronyms,v 1.484 2015/06/21 18:17:26 tg Exp $
+$MirOS: wtf/acronyms,v 1.485 2015/07/05 12:47:59 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.11 2014/09/05 22:38:17 tg Exp $
 $NetBSD: acronyms,v 1.237 2015/05/18 11:56:20 pooka Exp $
 $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
@@ -10073,6 +10073,7 @@ MOD	[Kfz:D] Landkreis Ostallgäu
 MODE	die teuerste Stoffwechselkrankheit
 MODE	Mann, opfere dein Erspartes!
 MOE	[IATA] Momeik, Myanmar
+MOE	[sTLD] 萌え – infatuation, fascination, crush (anime/manga term)
 MOESI	modified, owned, exclusive, shared, invalid
 MOF	maximum operating frequency
 MOF	[IATA] Maumere, Indonesia
@@ -13990,6 +13991,7 @@ SASL	simple authentication [and] security layer (neither simple nor secure)
 SAT	[IATA] San Antonio International, Texas, United States of America
 SATA	satan
 SATA	serial advanced technology attachment
+SATB	soprano, alto, tenor, bass
 SAU	[IATA] Sawu, Indonesia
 SAU	[Kfz] Republik Südafrika (veraltet)
 SAU	[Kfz] Südafrika (veraltet)
