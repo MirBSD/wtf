@@ -1,8 +1,8 @@
 #!/usr/bin/perl -T
-my $rcsid = '$MirOS: wtf/www/wtf.cgi,v 1.14 2015/03/14 01:09:22 tg Exp $';
+my $rcsid = '$MirOS: wtf/www/wtf.cgi,v 1.15 2015/07/19 11:15:15 tg Exp $';
 #-
 # Copyright © 2012, 2014, 2015
-#	Thorsten “mirabilos” Glaser <tg@mirbsd.org>
+#	mirabilos <tg@mirbsd.org>
 #
 # Provided that these terms and disclaimer and all copyright notices
 # are retained or reproduced in an accompanying document, permission
@@ -124,23 +124,21 @@ if ($query ne "") {
 	$output .= "<p>\n <a href=\"man.cgi?" . $enc .
 	    "\">Manual page lookup for: " . $enc . "</a>\n</p>\n";
 
-	$output .= "<p>\n <input type=\"hidden\" name=\"q\" value=\"" . $enc .
-	    " acronym\" /><input type=\"submit\" value=\"Web lookup for: " .
-	    $enc . "\" />";
+	$output .= "<form accept-charset=\"utf-8\" " .
+	    "action=\"https://duckduckgo.com/?kp=-1&#38;kl=wt-wt&#38;kb=t&#38;kh=1&#38;kj=g2&#38;km=l&#38;ka=monospace&#38;ku=1&#38;ko=s&#38;k1=-1&#38;kv=1&#38;t=debian\" " .
+	    "method=\"post\"><p>\n <input type=\"hidden\" name=\"q\" value=\"" .
+	    $enc . " acronym\" /><input type=\"submit\" value=\"Web search: " .
+	    $enc . "\" />\n</p></form>\n<p>DuckDuckGo is a search engine " .
+	    "with more privacy and lots of\n features. This search is " .
+	    "external content, not part of MirOS.</p>";
 }
 close(ACRONYMS);
 
 print "Content-Type: text/html; charset=utf-8\r\n\r\n";
-my $state = 0;
 foreach my $line (<TEMPLATE>) {
 	chomp($line);
-	if ($line eq '<!-- wtf-result begin -->') {
-		$state = 1 unless $query eq "";
-		next;
-	}
-	if ($line eq '<!-- wtf-result end -->') {
+	if ($line eq '<!-- wtf-result -->') {
 		$line = $output;
-		$state = 0;
 	}
 	if ($line =~ /rcsdiv.*rcsid/) {
 		$line =~ s!\Q</p>\E! by <span class=\"rcsid\">$rcsid</span>$&!;
@@ -148,7 +146,7 @@ foreach my $line (<TEMPLATE>) {
 			$line =~ s!\Q</p>\E! from <span class=\"rcsid\">$acrcsid</span>$&!;
 		}
 	}
-	print $line . "\n" unless $state;
+	print $line . "\n";
 }
 close(TEMPLATE);
 exit(0);

@@ -3,7 +3,7 @@
 
 mws_setname wtf "WTF acronym database"
 mws_setheadline "What the Fuck?"
-mws_putheader '$MirOS: wtf/www/wtf.hts,v 1.8 2015/04/28 09:49:59 tg Exp $'
+mws_putheader '$MirOS: wtf/www/wtf.hts,v 1.9 2015/07/19 11:15:16 tg Exp $'
 mws_content <<'EOF'
 <h2>Display all acronyms</h2>
 <p>The <a href="@@RELPATH@@acronyms" type="text/plain; charset=utf-8"
@@ -18,18 +18,7 @@ mws_content <<'EOF'
  <input type="submit" />
 </p></form>
 
-<form accept-charset="utf-8"
- action="https://duckduckgo.com/?kp=-1&#38;kl=wt-wt&#38;kb=t&#38;kh=1&#38;kj=g2&#38;km=l&#38;ka=monospace&#38;ku=1&#38;ko=s&#38;k1=-1&#38;kv=1&#38;t=debian"
- method="post">
-<!-- wtf-result begin -->
-<h2>Search the world-wide web instead</h2>
-<p>
- <input type="text" name="q" size="42" maxlength="255" />
- <input type="submit" value="Search the web" />
-<!-- wtf-result end -->
-</p></form>
-<p>DuckDuckGo is a search engine that protects privacy and has lots of
- features. This search is external content, not part of MirOS.</p>
+<!-- wtf-result -->
 EOF
 mws_putfooter
 exit 0
