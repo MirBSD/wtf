@@ -2,7 +2,7 @@
 "	[MORSE] .-..-.
 # ucase: Ä Ö Ü Ñ Á É Í Ó Ç È
 $	[MORSE] ...-..- (not ITU-R)
-$MirOS: wtf/acronyms,v 1.487 2015/07/18 23:00:13 tg Exp $
+$MirOS: wtf/acronyms,v 1.488 2015/07/21 21:12:57 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.11 2014/09/05 22:38:17 tg Exp $
 $NetBSD: acronyms,v 1.237 2015/05/18 11:56:20 pooka Exp $
 $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
@@ -121,6 +121,7 @@ $OpenBSD: airport,v 1.53 2015/05/25 14:50:10 deraadt Exp $
 2A0	1189×1682 mm (46¾×66¼ in)
 2B0	1414×2000 mm (55.6692×78.7401 in)
 2D	two-dimensional
+2FA	two-factor authentication
 2IC	second in charge
 2MORROW	tomorrow
 3	International Radiotelephony Spelling Alphabet: TERRATHREE
@@ -1068,7 +1069,6 @@ ATL	[IATA] Atlanta William B. Hartsfield International, Georgia, United States o
 ATM	asynchronous transfer mode
 ATM	at the moment
 ATM	automated teller machine
-ATM	automatic teller machine
 ATM	[IATA] Altamira, Pará, Brazil
 ATN	[IATA] Namatanai, Papua New Guinea
 ATO	[IATA] Athens (Ohio University Airport), Ohio, United States of America
@@ -1940,6 +1940,7 @@ BOM	Byte Order Mark (U+FEFF)
 BOM	U+FEFF ZERO WIDTH NO-BREAK SPACE
 BOM	[IATA] Chhatrapati Shivaji International, Bombay/Mumbai, India
 BON	[IATA] Flamingo Field, Bonaire, Netherlands Antilles
+BONN	Bundeshauptstadt ohne nennenswertes Nachtleben
 BOO	[IATA] Bodo, Norway
 BOP	bleeding on probing (dent.)
 BOP	[IATA] Bouar, Central African Republic
@@ -3450,6 +3451,7 @@ CVS	Concurrent Versions System
 CVS	[IATA] Clovis (Cannon Air Force Base), New Mexico, United States of America
 CVT	[IATA] Coventry (Baginton), England, United Kingdom of Great Britain and Northern Ireland
 CVU	[IATA] Corvo Island, Azores, Portugal
+CVV	card verification value
 CVX	[IATA] Charlevoix Municipal Airport, Michigan, United States of America
 CW	[ccTLD] Curaçao
 CW	[gc] CacheWolf
@@ -4165,6 +4167,7 @@ DUI	[IATA] Duisburg, Germany
 DUJ	[IATA] Du Bois-Jefferson County Airport, Pennsylvania, United States of America
 DUM	[IATA] Dumai, Indonesia
 DUN	[IATA] Dundas, Greenland
+DUNDER	[py] double underscore (“__”)
 DUNIV	Doctor of the University
 DUP	Data User Part
 DUP	duplicate
@@ -4762,6 +4765,7 @@ EOK	[IATA] Keokuk Municipal Airport, Iowa, United States of America
 EOL	end of life
 EOL	end of line
 EOM	end of message
+EOP	Elevation of Privilege
 EOPNOTSUPP	(#45) Operation not supported
 EOR	[IATA] El Dorado, Venezuela
 EOS	end of story
@@ -4935,8 +4939,10 @@ ETC	et cetera (and the rest, and so on)
 ETCS	European Train Control System
 ETD	[IATA] Etadunna, South Australia, Australia
 ETE	[IATA] Genda Wuha, Ethiopia
+ETH	Eidgenössische Technische Hochschule
 ETH	[IATA] Elat (Hozman), Israel
 ETH	[Kfz] Äthiopien
+ETHZ	ETH Zürich
 ETIME	(#99) STREAM ioctl timeout
 ETIMEDOUT	(#60) Operation timed out
 ETL	extract, transform, load
@@ -9044,6 +9050,7 @@ LPC	low pin count
 LPC	[gc] Lost Place Cache
 LPC	[IATA] Lompoc Airport, California, United States of America
 LPD	[IATA] La Pedrera, Colombia
+LPE	local privilege escalation
 LPE	[IATA] La Primavera, Colombia
 LPG	liquefied petroleum gas
 LPG	[IATA] La Plata (Aerodromo Tolosa), Argentina
@@ -9688,6 +9695,7 @@ MEY	[IATA] Meghauli, Nepal
 MEZ	[IATA] Messina, South Africa
 MF	[ISO 3166] St Martin (French part)
 MFA	Master of Fine Art
+MFA	multi-factor authentication
 MFA	[IATA] Mafia Island, Tanzania
 MFB	[IATA] Monfort, Colombia
 MFC	Men from Cathay
@@ -12879,9 +12887,12 @@ PXL	[IATA] Polacca Airport, Arizona, United States of America
 PXM	[IATA] Puerto Escondido, Mexico
 PXO	[IATA] Porto Santo, Madeira, Portugal
 PXU	[IATA] Pleiku, Vietnam
+PY	Python
+PY	Python 2.x
 PY	[ccTLD] Paraguay
 PY	[ISO 3166] Paraguay
 PY	[Kfz] Paraguay
+PY3K	Python 3.x
 PYA	[IATA] Puerto Boyaca, Colombia
 PYB	[IATA] Jeypore, India
 PYC	[IATA] Playon Chico, Panama
@@ -13892,6 +13903,7 @@ SA	security advisory
 SA	security association
 SA	source address
 SA	structured analysis
+SA	system administrator
 SA	[AUS] South Australia
 SA	[ccTLD] Saudi-Arabien
 SA	[GPS] selective availability
@@ -14860,6 +14872,7 @@ SRB	[Kfz] Serbien
 SRC	sample rate conversion
 SRC	[IATA] Searcy Municipal Airport, Arkansas, United States of America
 SRD	[IATA] San Ramon, Bolivia
+SRE	site reliability engineer
 SRE	[IATA] Sucre (Juana Azurduy de Padilla), Bolivia
 SRET	[TZif] Asia/Srednekolymsk
 SRG	[IATA] Semarang (Achmadyani), Indonesia
@@ -15154,6 +15167,7 @@ SWB	Stillstand wegen Bombe
 SWB	[IATA] Shaw River, Western Australia, Australia
 SWC	[IATA] Stawell, Victoria, Australia
 SWD	[IATA] Seward Airport, Alaska, United States of America
+SWE	software engineer
 SWE	[IATA] Siwea, Papua New Guinea
 SWF	Shockwave Flash
 SWF	[IATA] Newburgh (Stewart Int'l Airport), New York, United States of America
@@ -16198,6 +16212,7 @@ U	[Kfz] Uruguay (veraltet)
 U	[MORSE] ..-
 U/L	upload
 U2	you, too
+U2F	Universal 2nd Factor (2FA standard)
 UA	[ccTLD] Ukraine
 UA	[ISO 3166] Ukraine
 UA	[Kfz] Ukraine
