@@ -2,7 +2,7 @@
 "	[MORSE] .-..-.
 # ucase: Ä Ö Ü Ñ Á É Í Ó Ç È
 $	[MORSE] ...-..- (not ITU-R)
-$MirOS: wtf/acronyms,v 1.488 2015/07/21 21:12:57 tg Exp $
+$MirOS: wtf/acronyms,v 1.489 2015/07/27 20:59:51 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.11 2014/09/05 22:38:17 tg Exp $
 $NetBSD: acronyms,v 1.237 2015/05/18 11:56:20 pooka Exp $
 $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
@@ -5332,6 +5332,7 @@ FMA	[manga] Fullmetal Alchemise, Hagane no Renkinjutsushi, 鋼の錬金術師
 FMAC	fused multiply-accumulate
 FMC	[IATA] Five Mile Airport, Alaska, United States of America
 FME	[IATA] Fort Meade (Odenton), Maryland, United States of America
+FMEA	failure mode and effects analysis
 FMH	[IATA] Falmouth (Otis National Guard), Massachusetts, United States of America
 FMI	[IATA] Kalemie, Zaire
 FML	fuck my life
@@ -15187,6 +15188,7 @@ SWM	[IATA] Suia-Missu, Mato Grosso, Brazil
 SWMBO	she who must be obeyed
 SWN	[IATA] Sahiwal, Pakistan
 SWO	[IATA] Stillwater Municipal Airport, Oklahoma, United States of America
+SWOT	strengths, weaknesses, opportunities, and threats
 SWP	[IATA] Swakopmund, Namibia
 SWQ	[IATA] Sumbawa Besar, Sumbawa, Indonesia
 SWS	[IATA] Swansea, Wales, United Kingdom of Great Britain and Northern Ireland
