@@ -2,7 +2,7 @@
 "	[MORSE] .-..-.
 # ucase: Ä Ö Ü Ñ Á É Í Ó Ç È
 $	[MORSE] ...-..- (not ITU-R)
-$MirOS: wtf/acronyms,v 1.489 2015/07/27 20:59:51 tg Exp $
+$MirOS: wtf/acronyms,v 1.490 2015/07/28 19:59:57 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.11 2014/09/05 22:38:17 tg Exp $
 $NetBSD: acronyms,v 1.237 2015/05/18 11:56:20 pooka Exp $
 $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
@@ -208,6 +208,7 @@ A8	52×74 mm (2×2⅞ in) Achtelblatt
 A9	37×52 mm (1½×2 in)
 AA	anti-aliasing
 AA	Attribute Authority
+AA	Auswärtiges Amt
 AA	[Kfz:D] Landkreis Aalen
 AA	[Kfz:D] Ostalbkreis
 AAA	authentication, authorisation, and accounting
@@ -1826,21 +1827,29 @@ BM	[Kfz:D] Kreis Bergheim
 BM	[Kfz:D] Rhein-Erft-Kreis
 BM	[Kfz:D] Zulassungsstelle in Hürth
 BMA	[IATA] Stockholm (Bromma), Sweden
+BMAS	Bundesministerium für Arbeit und Soziales
 BMB	[IATA] Bumba, Zaire
+BMBF	Bundesministerium für Bildung und Forschung
 BMC	baseboard management controller
 BMC	[IATA] Brigham City Airport, Utah, United States of America
 BMD	[IATA] Belo, Madagascar
 BME	[IATA] Broome, Western Australia, Australia
 BMEDSC	Bachelor of Biomedical science
+BMELV	Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
+BMF	Bundesfinanzministerium
 BMF	[IATA] Bakouma, Central African Republic
+BMFSFJ	Bundesministerium für Familie, Senioren, Frauen und Jugend
+BMG	Bundesministerium für Gesundheit
 BMG	[IATA] Bloomington (Monroe County Airport), Indiana, United States of America
 BMH	[IATA] Bomai, Papua New Guinea
 BMI	body mass index
+BMI	Bundesministerium des Inneren
 BMI	[IATA] Bloomington/Normal Airport, Illinois, United States of America
 BMI	[IATA] Central Illinois Regional, Bloomington, Illinois, United States of America
 BMIC	bus master interface controller
 BMID	Bachelor of Midwifery
 BMIN	Bachelor of Ministry
+BMJ	Bundesministerium der Justiz
 BMJ	[IATA] Baramita, Guyana
 BMK	[IATA] Borkum, Germany
 BML	[IATA] Berlin Municipal Airport, New Hampshire, United States of America
@@ -1858,13 +1867,18 @@ BMS	[IATA] Brumado, Bahia, Brazil
 BMSC	Bachelor of Biomedical science
 BMSC	Bachelor of Medical Science
 BMT	[IATA] Beaumont Municipal Airport, Texas, United States of America
+BMU	Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit
 BMU	[IATA] Bima, Indonesia
 BMUS	Bachelor of Music
 BMV	[IATA] Ban Me Thout, Vietnam
+BMVBS	Bundesministerium für Verkehr, Bau und Stadtentwicklung
+BMVG	Bundesministerium der Verteidigung
 BMW	[IATA] Bordj Badji Mokhtar, Algeria
+BMWI	Bundesministerium für Wirtschaft und Technologie
 BMX	[IATA] Big Mountain Airport, Alaska, United States of America
 BMY	[IATA] Belep, Belep Islands, New Caledonia
 BMZ	Brandmeldezentrale
+BMZ	Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung
 BMZ	[IATA] Bamu, Papua New Guinea
 BN	Bachelor of Nursing
 BN	bekiffter Nerd
@@ -3732,7 +3746,7 @@ DEA	[IATA] Ed Dabba, Sudan
 DEB	[IATA] Debrecen, Hungary
 DEBILIAN	ancient GNU/Linux distribution, nearly forgotten
 DEBILLIAN	ancient GNU/Linux distribution, nearly forgotten
-DEC	
+DEC	Digital Equipment Corporation
 DEC	[IATA] Decatur Airport, Illinois, United States of America
 DECIMAL	(decimal point) . (International Radiotelephony Spelling Alphabet)
 DED	Doctor of Education
@@ -4101,6 +4115,7 @@ DSA	Digital Signature Algorithm
 DSB	Danske Statsbaner
 DSB	Datenschutzbeauftragter
 DSB	double-sideband modulation
+DSC	Debian source control
 DSC	Doctor of Science
 DSC	[IATA] Dschang, Cameroon
 DSD	[IATA] La Desirade, Guadeloupe
@@ -5395,6 +5410,7 @@ FOS	[IATA] Forrest, Western Australia, Australia
 FOSDEM	Free and open source software developers’ European meeting
 FOSS	free / open source software
 FOT	[IATA] Forster, New South Wales, Australia
+FOTA	firmware over the air
 FOTF	(FoTF) see: 4TF
 FOTW	fun of the week
 FOU	[IATA] Fougamou, Gabon
@@ -5486,7 +5502,9 @@ FSCK	fuck
 FSD	[IATA] Sioux Falls Regional, South Dakota, United States of America
 FSDO	for some definition of
 FSE	[IATA] Fosston Municipal Airport, Minnesota, United States of America
-FSF	Free Software Foundation -- http://www.fsf.org/ http://www.fsf-europe.org/
+FSF	Free Software Foundation
+FSFE	Free Software Foundation Europe
+FSFJ	Free Software Foundation Japan
 FSFP	[Oracle] Data Guard Broker Fast Start Failover Pinger Process
 FSI	[IATA] Fort Sill (Army Air Field), Oklahoma, United States of America
 FSK	Freiwillige Selbstkontrolle
@@ -8541,6 +8559,7 @@ L10	OSI Layer 10 (God)
 L10N	localisation
 L2	Link 2
 L2	OSI Layer 2 (data link)
+L2TP	Layer 2 tunneling protocol
 L3	OSI Layer 3 (network)
 L4	OSI Layer 4 (transport)
 L5	OSI Layer 5 (session)
@@ -11705,6 +11724,7 @@ OT	offene Tür
 OT	ohne Themenbezug
 OT	Originalton
 OT&E	Operational Test and Evaluation
+OTA	over the air
 OTA	[IATA] Kota, Ethiopia
 OTC	[IATA] Bol, Chad
 OTD	[IATA] Contadora, Panama
@@ -12514,6 +12534,7 @@ PPS	[IATA] Puerto Princesa International, Philippines
 PPS-SM	Precise Positioning Service Security Module
 PPT	Powerpoint
 PPT	[IATA] Pape'ete (Faaa), Tahiti, French Polynesia
+PPTP	point-to-point tunneling protocol (VÖN)
 PPU	physics processing unit
 PPU	[IATA] Papun, Myanmar
 PPV	[IATA] Port Protection (Seaplane Base), Alaska, United States of America
@@ -13670,6 +13691,7 @@ RPG	Rocket Propelled Grenade
 RPG	role-playing game
 RPL	requested privilege level
 RPL	[Kfz:D] Rheinland-Pfalz, Landesregierung und Landtag
+RPM	RedHat Package Manager
 RPM	revolutions per minute
 RPM	[IATA] Ngukurr, Northern Territory, Australia
 RPN	reverse Polish notation
@@ -16826,6 +16848,7 @@ VOZ	[IATA] Voronezh (Chertovitskoe), Russia
 VPC	[IATA] Cartersville Airport, Georgia, United States of America
 VPE	[IATA] Ondjiva (Ngiva), Angola
 VPN	virtual private network
+VPN	virtuelles privates Netzwerk
 VPN	[IATA] Vopnafjordur, Iceland
 VPS	[IATA] Fort Walton Beach (Valparaiso), Florida, United States of America
 VPZ	[IATA] Valparaiso (Porter County), Indiana, United States of America
@@ -16900,6 +16923,7 @@ VXX	[IATA] Mexico City (Sertel), Mexico
 VYD	[IATA] Vryheid, South Africa
 VYS	[IATA] Peru (Illinois Valley Regional Airport), Illinois, United States of America
 VZÄ	Vollzeitäquivalent (cf. FTE)
+VÖN	virtuell öffentliches Netzwerk (z.B. PPTP)
 W	British A/International Spelling Alphabet; Italian Spelling Alphabet; Spanish Spelling Alphabet: WASHINGTON
 W	British Forces 1952 Spelling Alphabet; French Spelling Alphabet; New York Police Spelling Alphabet; RAF 1942/1943 Spelling Alphabet; Telecom B Spelling Alphabet: WILLIAM
 W	deutsches Funkalphabet: WILHELM
