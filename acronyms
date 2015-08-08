@@ -2,7 +2,7 @@
 "	[MORSE] .-..-.
 # ucase: Ä Ö Ü Ñ Á É Í Ó Ç È
 $	[MORSE] ...-..- (not ITU-R)
-$MirOS: wtf/acronyms,v 1.491 2015/08/01 20:34:08 tg Exp $
+$MirOS: wtf/acronyms,v 1.492 2015/08/08 20:01:12 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.11 2014/09/05 22:38:17 tg Exp $
 $NetBSD: acronyms,v 1.237 2015/05/18 11:56:20 pooka Exp $
 $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
@@ -3752,6 +3752,7 @@ DECIMAL	(decimal point) . (International Radiotelephony Spelling Alphabet)
 DED	Doctor of Education
 DED	[IATA] Dehradun, India
 DEDCHPSY	Doctor of Educational and Child Psychology
+DEEZ	[HP] Death Eaters
 DEG	[Kfz:D] Landkreis Deggendorf
 DEH	[IATA] Decorah Municipal Airport, Iowa, United States of America
 DEI	[IATA] Dennis Island, Seychelles
@@ -7964,6 +7965,7 @@ KBW	[IATA] Chignik Bay Seaplane Base, Alaska, United States of America
 KBX	[IATA] Kambuaya, Indonesia
 KBY	[IATA] Streaky Bay, South Australia, Australia
 KBZ	[IATA] Kaikorua, New Zealand
+KC	King’s Counsel
 KC	[Kfz:D] Landkreis Kronach
 KCA	[IATA] Kuqa, China
 KCB	[IATA] Kasikasima, Suriname
@@ -10502,6 +10504,7 @@ MWM	[IATA] Windom Municipal Airport, Minnesota, United States of America
 MWN	[IATA] Mwadui, Tanzania
 MWO	[IATA] Middletown (Hook Field), Ohio, United States of America
 MWP	[IATA] Mountain, Nepal
+MWPP	[HP] Moony, Wormtail, Padfoot, and Prongs [era]
 MWQ	[IATA] Magwe, Myanmar
 MWS	[IATA] Mount Wilson, California, United States of America
 MWSG	Middleware Security Group
@@ -12981,6 +12984,7 @@ QBW	[IATA] Batemans Bay, New South Wales, Australia
 QBX	[IATA] Sobral, Ceará, Brazil
 QC	Qualified Certificate
 QC	quality control
+QC	Queen’s Counsel
 QC	[CDN] Quebec
 QCA	[IATA] Makkah, Morocco
 QCB	[IATA] Currais Novos, Rio Grande do Norte, Brazil
@@ -13375,6 +13379,7 @@ RE	Erdtaste
 RE	Re (PSE#75) Rhenium | Übergangsmetalle | transition metals | metalla transitionis
 RE	Regional-Expreß
 RE	regular expression - https://www.mirbsd.org/man7/re_format
+RE	Royal Engineers
 RE	[ccTLD] Réunion
 RE	[ISO 3166] Reunion
 RE	[Kfz:D] Kreis Recklinghausen
@@ -18320,6 +18325,7 @@ ZDT	[IATA] Chur, Switzerland
 ZE	[Kfz:D] Landkreis Zerbst
 ZEBRA	Z (British Forces 1952 Spelling Alphabet; New York Police Spelling Alphabet; RAF 1942/1943 Spelling Alphabet; Telecom B Spelling Alphabet)
 ZEC	[IATA] Seconda, South Africa
+ZEDAT	Zentraleinrichtung für Datenverarbeitung
 ZEF	[IATA] Elkin Municipal Airport, North Carolina, United States of America
 ZEG	[IATA] Senggo, Indonesia
 ZEI	[IATA] Garmisch-Partenkirchen, Germany
