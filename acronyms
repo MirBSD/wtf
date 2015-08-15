@@ -2,7 +2,7 @@
 "	[MORSE] .-..-.
 # ucase: Ä Ö Ü Ñ Á É Í Ó Ç È
 $	[MORSE] ...-..- (not ITU-R)
-$MirOS: wtf/acronyms,v 1.493 2015/08/13 21:42:36 tg Exp $
+$MirOS: wtf/acronyms,v 1.494 2015/08/15 20:44:05 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.11 2014/09/05 22:38:17 tg Exp $
 $NetBSD: acronyms,v 1.237 2015/05/18 11:56:20 pooka Exp $
 $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
@@ -3438,6 +3438,7 @@ CUW	[IATA] Cube Cove, Alaska, United States of America
 CUX	[IATA] Corpus Christi (Cuddihy Field), Texas, United States of America
 CUX	[Kfz:D] Landkreis Cuxhaven
 CUY	[IATA] Cue, Western Australia, Australia
+CUZ	because
 CUZ	[IATA] Tte Velazco Astete, Cuzco, Peru
 CV	control voltage
 CV	curriculum vitae
@@ -4571,6 +4572,7 @@ EGP	[IATA] Eagle Pass Municipal Airport, Texas, United States of America
 EGPRS	Enhanced GPRS (GPRS over EDGE)
 EGQ	[IATA] Emmetsburg Municipal Airport, Iowa, United States of America
 EGR	Embedded GPS Receiver
+EGRESS	outbound network traffic
 EGS	[IATA] Egilsstadir, Iceland
 EGST	[TZif] America/Scoresbysund (DST)
 EGT	[IATA] Wellington Municipal Airport, Kansas, United States of America
@@ -5534,7 +5536,7 @@ FTAOD	for the avoidance of doubt
 FTBFS	fails to build from source
 FTBFS	failure to build from source
 FTC	Federal Trade Commission
-FTC	first to capture (Munzee FTF)
+FTC	[Munzee] first to capture (FTF)
 FTCBFS	fails to cross-build from source
 FTE	full-time equivalent
 FTE	Manntag(e), Personentag(e)
@@ -5613,6 +5615,7 @@ FWA	[IATA] Ft. Wayne Allen County, Indiana, United States of America
 FWC	[IATA] Fairfield Municipal Airport, Illinois, United States of America
 FWH	firmware hub
 FWH	[IATA] Fort Worth (Carswell Air Force), Texas, United States of America
+FWIH	from what I’ve heard
 FWIHH	from what I have heard
 FWIK	from what I know
 FWIR	from what I can recall/remember
@@ -7257,6 +7260,7 @@ INF	[IATA] In Guezzam, Algeria
 INFO	[uTLD] information
 ING	[altTLD] ?
 ING	[IATA] Ago, Argentina
+INGRESS	inbound network traffic
 INGRESS	[GPS] (augmented reality and geolocation-based game)
 INH	[IATA] Inhambane, Mozambique
 INI	[IATA] Constantine the Great, Nis, Serbia, Yugoslavia
@@ -10423,7 +10427,7 @@ MULTICS	Multiplexed Information and Computing Service
 MUM	[IATA] Mumias, Kenya
 MUN	[IATA] Maturin, Venezuela
 MUNIV	Master of the University
-MUNZEE	[GPS] (QR code and geolocation-based game, based on German “Münze”)
+MUNZEE	[GPS] (QR code and geolocation-based game, word based on German “Münze”)
 MUO	[IATA] Mountain Home (Air Force Base), Idaho, United States of America
 MUP	[IATA] Mulga Park, Northern Territory, Australia
 MUQ	[IATA] Muccan, Western Australia, Australia
@@ -11098,6 +11102,7 @@ NR	[ccTLD] Nauru
 NR	[ISO 3166] Nauru
 NR	[Kfz:D] Landkreis Neuwied am Rhein
 NR	[Kfz] Nordrhodesien (veraltet)
+NR	[Munzee] needs repair (NM)
 NRA	[IATA] Narrandera, New South Wales, Australia
 NRB	[IATA] Mayport (Naval Air Station), Florida, United States of America
 NRC	[IATA] Crow's Landing, California, United States of America
@@ -16540,6 +16545,7 @@ UTH	[IATA] Udon Thani, Thailand
 UTI	[IATA] Kouvola (Kymi), Finland
 UTK	[IATA] Utirik Island Airport, Marshall Islands
 UTL	[IATA] Torremolinos, Spain
+UTL	[Munzee] unable to locate (DNF)
 UTLD	unsponsored top-level domain
 UTM	Universal Transverse Mercator (nowadays WGS84 or ETRS89 which Δ<1m; historically different)
 UTN	[IATA] Upington Airport, Upington, South Africa
