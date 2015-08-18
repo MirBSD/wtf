@@ -2,7 +2,7 @@
 "	[MORSE] .-..-.
 # ucase: Ä Ö Ü Ñ Á É Í Ó Ç È
 $	[MORSE] ...-..- (not ITU-R)
-$MirOS: wtf/acronyms,v 1.495 2015/08/17 21:52:43 tg Exp $
+$MirOS: wtf/acronyms,v 1.496 2015/08/18 19:04:22 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.11 2014/09/05 22:38:17 tg Exp $
 $NetBSD: acronyms,v 1.237 2015/05/18 11:56:20 pooka Exp $
 $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
@@ -3214,6 +3214,7 @@ CPP	C præprocessor
 CPP	[IATA] Calapan, Philippines
 CPQ	[IATA] Campinas, São Paulo, Brazil
 CPR	Cardiopulmonalen Reanimation (HLW)
+CPR	chakra point regeneration (rate)
 CPR	[IATA] Casper/Natrone County International, Wyoming, United States of America
 CPS	characters per second
 CPS	[IATA] Cahokia (St. Louis Downtown-Parks), Missouri, United States of America
@@ -4209,6 +4210,7 @@ DUT	device under test
 DUT	[IATA] Dutch Harbor (Unalaska Airport), Alaska, United States of America
 DUX	[IATA] Dumas Municipal Airport, Texas, United States of America
 DV	Datenverarbeitung
+DV	difficulty value
 DV	[Oracle] database vault
 DVA	[IATA] Deva, Romania
 DVB	digital video broadcasting
@@ -6775,6 +6777,7 @@ HPM	[IATA] Palmas del Mar, Puerto Rico
 HPN	[IATA] White Plains/Westchester County, New York, United States of America
 HPPA	Hewlett Packard Precision Architecture (HP/PA)
 HPPA	HP PA-RISC
+HPR	health point regeneration (rate)
 HPR	[IATA] Pretoria (Central Pretoria Airport), South Africa
 HPT	[IATA] Hampton Municipal Airport, Iowa, United States of America
 HPV	[IATA] Hanalei (Princeville Airport), Hawaii, United States of America
@@ -10219,6 +10222,7 @@ MPO	[IATA] Pocono Mountains Municipal Airport, Pennsylvania, United States of Am
 MPP	massively parallel processor
 MPP	[IATA] Malatupo, Panama
 MPQ	[IATA] Maan, Jordan
+MPR	mana point regeneration (rate)
 MPR	[IATA] McPherson Airport, Kansas, United States of America
 MPREG	male pregnancy
 MPROFST	Master of Professional Studies
