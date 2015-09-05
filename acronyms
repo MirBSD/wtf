@@ -2,13 +2,13 @@
 "	[MORSE] .-..-.
 # ucase: Ä Ö Ü Ñ Á É Í Ó Ç È
 $	[MORSE] ...-..- (not ITU-R)
-$MirOS: wtf/acronyms,v 1.496 2015/08/18 19:04:22 tg Exp $
+$MirOS: wtf/acronyms,v 1.497 2015/09/05 17:21:11 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.11 2014/09/05 22:38:17 tg Exp $
-$NetBSD: acronyms,v 1.237 2015/05/18 11:56:20 pooka Exp $
+$NetBSD: acronyms,v 1.239 2015/08/21 09:46:43 pgoyette Exp $
 $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
-$NetBSD: acronyms.comp,v 1.149 2015/04/13 00:39:57 rodent Exp $
+$NetBSD: acronyms.comp,v 1.150 2015/08/22 19:18:10 dholland Exp $
 $NetBSD: airport,v 1.58 2014/09/21 08:38:03 mbalmer Exp $
-$OpenBSD: airport,v 1.53 2015/05/25 14:50:10 deraadt Exp $
+$OpenBSD: airport,v 1.55 2015/08/29 22:13:56 deraadt Exp $
 &	[MORSE] .-... (not ITU-R)
 '	[MORSE] .----.
 (	[MORSE] -.--.
@@ -294,6 +294,7 @@ AC	acknowledged-connectionless
 AC	air conditioning
 AC	alternating current
 AC	anonymous coward
+AC	armour class
 AC	Attribute Certificate
 AC	audible chuckle
 AC	[BR] Acre
@@ -726,6 +727,7 @@ AMD	Advanced Micro Devices
 AMD	[IATA] Sardar Vallabhbhai Patel International, Ahmedabad, India
 AMD64	LP64 64-bit x86
 AME	[IATA] Alto Molocue, Mozambique
+AMERIME	(badly) dubbed anime
 AMEX	American Express
 AMF	[IATA] Ama, Papua New Guinea
 AMG	[IATA] Ambolin, Papua New Guinea
@@ -786,6 +788,7 @@ ANG	[Kfz] Angola
 ANH	[IATA] Anuha Island Resort, Solomon Islands
 ANH	[SW] Episode IV: A New Hope
 ANI	[IATA] Aniak Airport, Alaska, United States of America
+ANIME	animation (japanische Zeichentrickfilme)
 ANJ	[IATA] Zanaga, Congo
 ANK	[IATA] Ankara (Esenboga), Turkey
 ANK	[IATA] Etimesgut, Ankara, Turkey
@@ -871,6 +874,8 @@ APK	Android Application Package (similar to JAR)
 APK	[IATA] Apataki, French Polynesia
 APL	[IATA] Nampula, Mozambique
 APLL	analog or linear phase-locked loop
+APN	access point name
+APN	Australian Product Number
 APN	[IATA] Alpena County Regional Airport, Michigan, United States of America
 APO	Allgemeine Prüfungsordnung
 APO	[IATA] Apartado, Colombia
@@ -1478,6 +1483,7 @@ BDS	Branch Delay Slot
 BDS	[IATA] Brindisi (Casale), Italy
 BDS	[Kfz] Barbados
 BDT	[IATA] Gbadolite, Zaire
+BDU	battle dress uniform
 BDU	[IATA] Bardufoss, Norway
 BDUF	big design up front
 BDV	[IATA] Moba, Zaire
@@ -2141,6 +2147,7 @@ BSP	board support package
 BSP	bootstrap processor
 BSP	bug-squashing party
 BSP	[IATA] Bensbach, Papua New Guinea
+BSPW	beispielsweise
 BSQ	[IATA] Bisbee Municipal Airport, Arizona, United States of America
 BSR	bit scan reverse
 BSR	branch to subroutine (call)
@@ -2677,7 +2684,7 @@ CEJ	[IATA] Chernihiv (Chernigov), Ukraine
 CEK	[IATA] Chelyabinsk, Russia
 CEL	[IATA] Cape Eleuthera, Bahamas
 CEM	[IATA] Central Airport, Alaska, United States of America
-CEN	Comité européen de normalisation
+CEN	Comité Européen de Normalisation
 CEN	[IATA] Ciudad Obregon, Mexico
 CENELEC	Comité européen de normalisation en électronique et en électrotechnique
 CEO	chief executive officer
@@ -3135,6 +3142,7 @@ COC	[IATA] Concordia (Comodoro Pierres), Argentina
 COC	[Kfz:D] Landkreis Cochem-Zell
 COD	complement d’objet direct
 COD	[IATA] Cody (Yellowstone Regional Airport), Wyoming, United States of America
+CODA	child of deaf adult
 CODASYL	Committee on Data Systems Languages
 COE	[IATA] Coeur d'Alene Terminal, Idaho, United States of America
 COE	[Kfz:D] Kreis Coesfeld
@@ -3160,6 +3168,8 @@ COMO	C (Italian Spelling Alphabet)
 COMP	Komponentendiagramm
 COMSEC	Communications Security
 CON	[IATA] Concord Municipal Airport, New Hampshire, United States of America
+CONT	continue
+CONTD	continued
 COO	Chief Operating Officer
 COO	[IATA] Cotonou (Cadjehoun), Benin
 COOP	[sTLD] cooperatives (Gesellschaften)
@@ -3182,7 +3192,7 @@ COX	[IATA] Congo Town, Bahamas
 COY	[IATA] Coolawanyah, Western Australia, Australia
 COZ	[IATA] Constanza, Dominican Republic
 CP	ceteris paribus
-CP	chakra points
+CP	chakra pool
 CP	continuous pilot
 CP	copy
 CP	copy/paste
@@ -4317,6 +4327,7 @@ EAI	enterprise application integration
 EAK	[Kfz] Kenia
 EALREADY	(#37) Operation already in progress
 EAM	[IATA] Nejran, Saudi Arabia
+EAN	international article number
 EAN	[IATA] Wheatland (Phifer Airfield), Wyoming, United States of America
 EAN	[Kfz] Njassaland (veraltet)
 EAP	Extensible Authentication Protocol
@@ -6052,6 +6063,7 @@ GMO	genetically modified organism
 GMON	[Oracle] ASM Disk Group Monitor Process
 GMR	[IATA] Mangareva, Gambier Islands, French Polynesia
 GMS	[IATA] Guimaraes, Maranhão, Brazil
+GMT	Greenwich Mean Time
 GMT	[IATA] Granite Mountain, Alaska, United States of America
 GMT	[TZif] Eire
 GMT	[TZif] Europe/Belfast
@@ -6253,6 +6265,7 @@ GTG	got to go
 GTG	[IATA] Grantsburg Municipal Airport, Wisconsin, United States of America
 GTH	go to hell
 GTH	[Kfz:D] Landkreis Gotha
+GTIN	global trade item number
 GTK	[IATA] Sungei Takai, Malaysia
 GTLD	generic top-level domain
 GTN	[IATA] Mount Cook (Glentan), New Zealand
@@ -7249,6 +7262,7 @@ IME	meiner Erfahrung nach
 IMF	[IATA] Imphal, India
 IMG	[IATA] Inhaminga, Mozambique
 IMHO	in my humble opinion
+IMHO	Inhalation of a Multi-leafed Herbal Opiate
 IMI	[IATA] Ine Island (Ine Airport), Marshall Islands
 IMK	[IATA] Simikot, Nepal
 IML	[IATA] Imperial Municipal Airport, Nebraska, United States of America
@@ -10114,6 +10128,7 @@ MNU	[IATA] Maulmyine, Myanmar
 MNURSSC	Master of Nursing Science
 MNV	[IATA] Mountain Valley, Australia
 MNW	[IATA] MacDonald Downs, Australia
+MNWE	minimal not-working example
 MNX	[IATA] Manicore, Amazonas, Brazil
 MNY	[IATA] Mono, Solomon Islands
 MNZ	[IATA] Manassas Municipal Airport, Virginia, United States of America
@@ -10185,7 +10200,7 @@ MOW	[IATA] All Airports around Moskva, Russia
 MOX	[IATA] Morris, Minnesota (Morris Municipal Airport), United States of America
 MOY	[IATA] Monterrey, Colombia
 MOZ	[IATA] Moorea, Society Islands, French Polynesia
-MP	mana points
+MP	mana pool
 MP	multi-platform
 MP	multiplayer
 MP	multiprocessing
@@ -10535,6 +10550,7 @@ MWB	[IATA] Morawa, Western Australia, Australia
 MWC	[IATA] Milwaukee (Lawrence J. Timmerman), Wisconsin, United States of America
 MWD	[IATA] Mianwali, Pakistan
 MWDW	Mach’ was Du willst!
+MWE	minimal working example
 MWE	module width encoding
 MWE	[IATA] Merowe, Sudan
 MWF	[IATA] Maewo, Vanuatu
@@ -10976,6 +10992,7 @@ NJA	[IATA] Atsugi, Japan
 NJC	[IATA] Nizhevartovsk, Tyumen, Russia
 NJK	[IATA] El Centro (Naval Air Facility), California, United States of America
 NJM	[IATA] Swansboro (Bogue Field), North Carolina, United States of America
+NJP	non-judicial punishment
 NJP	[IATA] Warminster NADC Airport, Pennsylvania, United States of America
 NJW	[IATA] Moscow (Joe Williams Field), Mississippi, United States of America
 NK	[Kfz:D] Stadt Neunkirchen im Landkreis Ottweiler
@@ -13459,8 +13476,11 @@ REMF	rear echelon motherfucker
 REN	[IATA] Orenburg, Russia
 REO	[IATA] Rome (State Airport), Oregon, United States of America
 REP	die REPublikaner
+REP	repeat
+REP	reputation
 REP	[IATA] Siem Reap (Angkor), Cambodia
 REPL	read-eval-print loop
+REPS	repeats (e.g. of an exercise)
 REQ	[IATA] Requena, Spain
 RER	Réseau Express Régional
 RES	[BookCrossing] reserved
@@ -13805,6 +13825,7 @@ RSM0	[Oracle] Data Guard Broker (Resource Guard) Worker Process
 RSMN	[Oracle] Remote Slave Monitor Process
 RSN	real soon now
 RSN	[IATA] Ruston Municipal Airport, Louisiana, United States of America
+RSO	range safety officer
 RSP	[IATA] Raspberry Strait, Alaska, United States of America
 RSR	[Kfz] Simbabwe (veraltet)
 RSR	[Kfz] Südrhodesien (veraltet)
@@ -14438,6 +14459,7 @@ SHL	[Kfz:D] Landkreis Suhl
 SHM	[IATA] Nanki Shirahana, Japan
 SHMOO	eierlegende Wollmilchsau
 SHN	[IATA] Shelton (Sanderson Field), Washington, United States of America
+SHO	[IATA] King Mswati-III International Airport, Swaziland
 SHO	[IATA] Sokcho, South Korea
 SHOK	smashing head on keyboard
 SHP	[IATA] Qinhuangdao, China
@@ -14605,6 +14627,7 @@ SKQ	[IATA] Sekakes, Lesotho
 SKR	[IATA] Shakiso, Ethiopia
 SKS	[IATA] Skrydstrup (Vogens), Denmark
 SKT	[IATA] Sialkot, Pakistan
+SKU	stock keeping unit
 SKU	[IATA] Skiros, Greece
 SKV	[IATA] Santa Katarina, Egypt
 SKW	[IATA] Skwentna Airport, Alaska, United States of America
@@ -14897,6 +14920,7 @@ SPM	[IATA] Spangdahlem Air Base, Germany
 SPMD	single process, multiple data
 SPN	[IATA] Saipan International Airport, Mariana Islands
 SPN	[Kfz:D] Landkreis Spree-Neiße
+SPNV	Schienenpersonennahverkehr
 SPO	Studien- und Prüfungsordnung
 SPO	System Program Office
 SPO	[IATA] San Pablo, Spain
@@ -16669,6 +16693,8 @@ VA	[USA] Virginia
 VAA	[IATA] Vaasa, Finland
 VAB	[IATA] Yavarate, Colombia
 VAC	vacation
+VAC	vaccination
+VAC	vacuum
 VAC	[IATA] Varrelbusch, Germany
 VAD	[IATA] Valdosta (Moody Air Force Base), Georgia, United States of America
 VAE	[IATA] Valles, Mexico
@@ -17449,6 +17475,7 @@ WTF	was täte Fefe?
 WTF	what the fuck
 WTF	when the fuck
 WTF	where the fuck
+WTF	where’s the food
 WTF	who the fuck
 WTF	why the fuck
 WTFM	write the fucking manual (GRUB2...)
