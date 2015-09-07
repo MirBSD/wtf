@@ -2,7 +2,7 @@
 "	[MORSE] .-..-.
 # ucase: Ä Ö Ü Ñ Á É Í Ó Ç È
 $	[MORSE] ...-..- (not ITU-R)
-$MirOS: wtf/acronyms,v 1.497 2015/09/05 17:21:11 tg Exp $
+$MirOS: wtf/acronyms,v 1.498 2015/09/07 20:22:12 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.11 2014/09/05 22:38:17 tg Exp $
 $NetBSD: acronyms,v 1.239 2015/08/21 09:46:43 pgoyette Exp $
 $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
@@ -983,6 +983,8 @@ ASAIC	as soon as I can
 ASAP	as soon as possible
 ASB	[IATA] Ashkhabad, Turkmenistan
 ASC	advanced smart cache
+ASC	ascending
+ASC	ASCII
 ASC	[IATA] Ascension, Bolivia
 ASCII	American Standard Code for Information Interchange
 ASD	agile software development
@@ -3078,6 +3080,7 @@ CMP	[IATA] Campo do Arag, Brazil
 CMPXCHG	compare and exchange
 CMQ	[IATA] Clermont, Queensland, Australia
 CMR	[IATA] Colmar, France
+CMS	coffee-making system
 CMS	colour management system
 CMS	content management system
 CMS	Cryptographic Message Syntax
@@ -3407,6 +3410,7 @@ CTR	[IATA] Cattle Creek, Australia
 CTS	clear to send
 CTS	Conventional Terrestrial System
 CTS	[IATA] Chitose, Sapporo, Japan
+CTSS	Compatible Time-Sharing System
 CTT	[IATA] Le Castellet, France
 CTTE	committee
 CTTEE	committee
@@ -3792,6 +3796,8 @@ DER	[IATA] Derim, Papua New Guinea
 DERP	Debian Emergency Response Person
 DES	Data Encryption Standard
 DES	[IATA] Desroches, Seychelles
+DESC	descending
+DESC	description
 DET	[IATA] Detroit City, Michigan, United States of America
 DEV	Diodenerdwahlverfahren
 DEX	dexterity
@@ -4416,6 +4422,7 @@ ECS	[IATA] Newcastle (Mondell Field), Wyoming, United States of America
 ECSC	European Coal and Steel Community (EGKS)
 ECSD	HSCSD over EDGE
 ECTS	European Credit Transfer System
+ED	eating disorder
 ED	edition
 ED	editor
 ED	Encyclopædia Dramatica
@@ -5658,6 +5665,7 @@ FXM	[IATA] Flaxman, Alaska, United States of America
 FXO	[IATA] Cuamba (Nova Freixo), Mozambique
 FXY	[IATA] Forest City Municipal Airport, Iowa, United States of America
 FXZ	Fastboot XML ZIP
+FY	fiscal year
 FYEO	for your eyes only
 FYI	for your information
 FYIAD	fuck you, I’m a dragon!
@@ -8628,7 +8636,9 @@ LA	[Kfz:D] kreisfreie Stadt und Landkreis Landshut
 LA	[USA] Louisiana
 LAA	[IATA] Lamar Municipal Airport, Colorado, United States of America
 LAAFB	Los Angeles Air Force Base
+LAB	laboratorium
 LAB	[IATA] Lablab, Papua New Guinea
+LABS	laboratories
 LAC	[IATA] Lae (City Airport), Papua New Guinea
 LACP	Link Aggregation Control Protocol
 LAD	[IATA] Luanda (Aeroporto 4 de Fevereiro), Angola
@@ -8695,6 +8705,8 @@ LBH	[IATA] Sydney (Palm Beach), New South Wales, Australia
 LBI	[IATA] Albi, France
 LBJ	[IATA] Labuan Bajo, Indonesia
 LBK	[IATA] Liboi, Kenya
+LBL	label
+LBL	Lawrence Berkeley Labs
 LBL	[IATA] Liberal Municipal Airport, Kansas, United States of America
 LBM	[IATA] Luabo, Mozambique
 LBN	[IATA] Lake Baringo, Kenya
@@ -9320,6 +9332,7 @@ LVD	[IATA] Lime Village Airport, Alaska, United States of America
 LVG	Landesverfassungsgericht
 LVI	[IATA] Livingstone (Maramba), Zambia
 LVK	[IATA] Livermore Municipal Airport, California, United States of America
+LVL	level
 LVL	[IATA] Lawrenceville (Municipal Airport), Virginia, United States of America
 LVM	logical volume management
 LVM	[IATA] Livingston (Mission Field), Montana, United States of America
@@ -12187,6 +12200,7 @@ PFA	[IATA] Paf Warren, Alaska, United States of America
 PFB	[IATA] Passo Fundo, Rio Grande do Sul, Brazil
 PFC	Private First Class
 PFC	[IATA] Pacific City (State Airport), Oregon, United States of America
+PFD	Pranking Fiend Disorder
 PFD	[IATA] Fort Frederick, Alaska, United States of America
 PFI	pay for inclusion
 PFJ	[IATA] Patreksfjordur, Iceland
@@ -12867,6 +12881,7 @@ PTB	pays the bills <igli>
 PTB	Physikalisch-Technische Bundesanstalt
 PTB	powers that be
 PTB	[IATA] Petersburg Municipal Airport, Virginia, United States of America
+PTBS	posttraumatische Belastungsstörung (PTSD)
 PTC	[IATA] Port Alice (Seaplane Base), Alaska, United States of America
 PTD	[IATA] Port Alexander (Seaplane Base), Alaska, United States of America
 PTE	page table entry
@@ -12888,6 +12903,7 @@ PTP	[IATA] Guadeloupe Pôle Caraïbes Airport, Pointe-à-Pitre, Guadeloupe
 PTQ	[IATA] Porto de Mos, Pará, Brazil
 PTR	[IATA] Pleasant Harbor, Alaska, United States of America
 PTS	[IATA] Pittsburg (Atkinson Municipal Airport), Kansas, United States of America
+PTSD	posttraumatic stress disorder
 PTT	postal, telegraph, and telephone service
 PTT	[IATA] Pratt Industrial Airport, Kansas, United States of America
 PTTI	Precise Time and Time Interval
@@ -13384,10 +13400,15 @@ RBU	[IATA] Roebourne, Western Australia, Australia
 RBV	[IATA] Rancho Buena Vista, Mexico
 RBW	[IATA] Walterboro (Municipal Airport), South Carolina, United States of America
 RBY	[IATA] Ruby Airport, Alaska, United States of America
+RC	(the Plan 9 shell)
 RC	release candidate
 RC	release-critical
 RC	remote control
+RC	resource
 RC	restless cow
+RC	return code
+RC	runcom (MIT CTSS)
+RC	runlevel configuration
 RC	[Kfz:D] Landkreis Reichenbach
 RC	[Kfz] China (Volksrepublik) (jetzt eigentlich Taiwan, aber in der VR China noch offiziell)
 RC	[Kfz] Republik China (Taiwan)
@@ -14722,6 +14743,7 @@ SME	subject matter expert
 SME	[IATA] Somerset (Pulaski County), Kentucky, United States of America
 SME	[Kfz] Suriname
 SMEP	supervisor mode execution protection
+SMF	Solaris Service Management Facility
 SMF	[IATA] Sacramento Metro, California, United States of America
 SMG	[IATA] Santa Maria, Peru
 SMH	shaking my head
@@ -14980,6 +15002,7 @@ SRAM	static random access memory
 SRB	[IATA] Santa Rosa, Bolivia
 SRB	[Kfz:D] Landkreis Strausberg
 SRB	[Kfz] Serbien
+SRC	IBM System Resource Controller
 SRC	sample rate conversion
 SRC	[IATA] Searcy Municipal Airport, Arkansas, United States of America
 SRD	[IATA] San Ramon, Bolivia
@@ -15502,6 +15525,7 @@ TBN	[IATA] Fort Leonard Wood (Forney AAF), Missouri, United States of America
 TBO	[IATA] Tabora, Tanzania
 TBOMK	the best of my knowledge
 TBP	[IATA] Tumbes, Peru
+TBR	to be revealed
 TBR	[BookCrossing] to be read
 TBR	[IATA] Statesboro Municipal Airport, Georgia, United States of America
 TBS	[IATA] Tbilisi (Novoalexeyevka), Abkhazia, Georgia
