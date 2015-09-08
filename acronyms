@@ -2,7 +2,7 @@
 "	[MORSE] .-..-.
 # ucase: Ä Ö Ü Ñ Á É Í Ó Ç È
 $	[MORSE] ...-..- (not ITU-R)
-$MirOS: wtf/acronyms,v 1.498 2015/09/07 20:22:12 tg Exp $
+$MirOS: wtf/acronyms,v 1.499 2015/09/08 11:19:40 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.11 2014/09/05 22:38:17 tg Exp $
 $NetBSD: acronyms,v 1.239 2015/08/21 09:46:43 pgoyette Exp $
 $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
@@ -14266,6 +14266,7 @@ SD	[ccTLD] Sudan
 SD	[ISO 3166] Sudan
 SD	[Kfz] Swasiland
 SD	[USA] South Dakota
+SDA	Seventh-day Adventist
 SDA	[IATA] Baghdad (Saddam International), Iraq
 SDB	support database
 SDB	symbolic debugger (UNIX/32V)
@@ -14716,8 +14717,11 @@ SLZ	[IATA] Sao Luis, Maranhão, Brazil
 SLZ	[Kfz:D] Landkreis Bad Salzungen
 SLZ	[Schule DE] Selbstlernzentrum
 SLÜ	[Kfz:D] Landkreis Schlüchtern
+SM	sado/maso
 SM	Security Module
+SM	service mark
 SM	Sm (PSE#62) Samarium | Metalle der seltenen Erden (Lanthaniden) | lanthanides | lanthanida
+SM	state machine
 SM	[ccTLD] San Marino
 SM	[ISO 3166] San Marino
 SM	[Kfz:D] Landkreis Schmalkalden-Meiningen
@@ -18439,6 +18443,7 @@ ZBY	[IATA] Sayaboury, Laos
 ZCC	[IATA] Baden Baden (Railway Station), Germany
 ZCL	[IATA] Zacatecas (General Leobardo Ruiz), Mexico
 ZCO	[IATA] Temuco, Chile
+ZDF	Zuerst das Formular
 ZDF	Zweites Deutsches Fernsehen
 ZDJ	[IATA] Bern, Switzerland
 ZDT	[IATA] Chur, Switzerland
