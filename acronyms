@@ -2,7 +2,7 @@
 "	[MORSE] .-..-.
 # ucase: Ä Ö Ü Ñ Á É Í Ó Ç È
 $	[MORSE] ...-..- (not ITU-R)
-$MirOS: wtf/acronyms,v 1.499 2015/09/08 11:19:40 tg Exp $
+$MirOS: wtf/acronyms,v 1.500 2015/09/08 20:56:00 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.11 2014/09/05 22:38:17 tg Exp $
 $NetBSD: acronyms,v 1.239 2015/08/21 09:46:43 pgoyette Exp $
 $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
@@ -2007,6 +2007,7 @@ BPI	[IATA] Big Piney-Marbleton Airport, Wyoming, United States of America
 BPM	beats per minute
 BPM	business process management
 BPN	[IATA] Balikpapan (Sepinggan), Indonesia
+BPO	Debian Backports
 BPP	bits per pixel
 BPR	[IATA] Great Aussie Hole, Australia
 BPS	bits per second
@@ -4095,6 +4096,7 @@ DPL	descriptor privilege level
 DPL	[IATA] Dipolog, Philippines
 DPLL	digital phase-locked loop
 DPN	Debian Project News
+DPO	Debian-Ports
 DPO	[IATA] Devonport, Tasmania, Australia
 DPROF	Doctor of Professional Studies
 DPS	damage per second
@@ -5105,6 +5107,7 @@ F	Telecom B Spelling Alphabet: FREDERICK
 F	[Kfz:D] kreisfreie Stadt Frankfurt am Main
 F	[Kfz] Frankreich
 F	[MORSE] ..-.
+F/OSS	free / open source software
 F9	fine
 FAA	Federal Aviation Administration
 FAA	[IATA] Faranah, Guinea
@@ -5528,8 +5531,10 @@ FRW	[IATA] Francistown, Botswana
 FRW	[Kfz:D] Landkreis Bad Freienwalde
 FRY	[IATA] Fryeburg (Eastern Slopes), Maine, United States of America
 FRZ	[IATA] Fritzlar Air Base, Germany
+FS	Fahrschule
 FS	File Separator (U+001C)
 FS	file system
+FS	free software
 FS	U+001C ␜ INFORMATION SEPARATOR FOUR
 FS	[Kfz:D] Landkreis Freising
 FS	[Kfz:D] Stadt Moosburg an der Isar im Landkreis Freising
@@ -17444,6 +17449,7 @@ WRB	[IATA] Warner Robins (Air Force Base), Georgia, United States of America
 WRE	[IATA] Whangarei, New Zealand
 WRG	[IATA] Wrangell, Alaska, United States of America
 WRI	[IATA] Wrightstown (McGuire AFB), New Jersey, United States of America
+WRK	work(ing)
 WRK	[IATA] Dallas (White Rock Airport), Texas, United States of America
 WRL	DEC Western Research Laboratory
 WRL	[IATA] Worland, Wyoming, United States of America
