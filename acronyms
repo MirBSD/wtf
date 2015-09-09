@@ -2,7 +2,7 @@
 "	[MORSE] .-..-.
 # ucase: Ä Ö Ü Ñ Á É Í Ó Ç È
 $	[MORSE] ...-..- (not ITU-R)
-$MirOS: wtf/acronyms,v 1.500 2015/09/08 20:56:00 tg Exp $
+$MirOS: wtf/acronyms,v 1.501 2015/09/09 18:42:01 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.11 2014/09/05 22:38:17 tg Exp $
 $NetBSD: acronyms,v 1.239 2015/08/21 09:46:43 pgoyette Exp $
 $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
@@ -813,6 +813,7 @@ ANW	[IATA] Ainsworth Municipal Airport, Nebraska, United States of America
 ANX	[IATA] Andoya/Andenes Airport, Norway
 ANY	[IATA] Anthony Municipal Airport, Kansas, United States of America
 ANZ	[IATA] Angus Downs, Northern Territory, Australia
+ANÜ	Arbeitnehmerüberlassung
 AO	analog output
 AO	at work
 AO	[ccTLD] Angola
@@ -1904,6 +1905,7 @@ BNA	[Kfz:D] Landkreis Borna
 BNB	bed and breakfast
 BNB	[IATA] Boende, Zaire
 BNC	[IATA] Beni, Zaire
+BND	Bundesnachrichtendienst
 BND	[IATA] Bandar Abbas, Iran
 BNE	[IATA] Brisbane, Queensland, Australia
 BNF	Backus-Naur form
@@ -5406,6 +5408,7 @@ FNA	[IATA] Freetown (Lungi Airport), Sierra Leone
 FNB	[IATA] Falls City (Brenner Field), Nebraska, United States of America
 FNC	[IATA] Funchal, Madeira, Portugal
 FNE	[IATA] Fane, Papua New Guinea
+FNF	Freedom not Fear
 FNG	[IATA] Fada Ngourma, Burkina Faso
 FNH	[IATA] Fincha, Ethiopia
 FNI	[IATA] Nimes/Arles-Camargue (Garons), France
@@ -5538,6 +5541,7 @@ FS	free software
 FS	U+001C ␜ INFORMATION SEPARATOR FOUR
 FS	[Kfz:D] Landkreis Freising
 FS	[Kfz:D] Stadt Moosburg an der Isar im Landkreis Freising
+FSA	Freiheit statt Angst
 FSB	front side bus
 FSB	Федеральная служба безопасности Российской Федерации (Federal Security Service of the Russian Federation), successor of КГБ/KGB
 FSC	[IATA] Figari, Corsica, France
@@ -6250,6 +6254,9 @@ GSC	[IATA] Gascoyne Junction, W. Australia, Australia
 GSE	[IATA] Goteborg (Save), Sweden
 GSG	[IATA] Glasgow Industrial Airport, Montana, United States of America
 GSH	[IATA] Goshen Municipal Airport, Indiana, United States of America
+GSI	geological strength index
+GSI	Gewinnstabilitätsindex
+GSI	global slavery index
 GSI	global system interrupt
 GSI	[IATA] Guadalcanal, Solomon Islands
 GSM	Garrison Sgt Maj
@@ -9441,6 +9448,7 @@ MAC	message authentication code
 MAC	multiplier–accumulator (cf. FMA)
 MAC	[IATA] Macon (Herbert Smart Downtown Airport), Georgia, United States of America
 MACC	Master of Accountancy
+MAD	militärischer Abschirmdienst
 MAD	mutually assured destruction
 MAD	[IATA] Madrid, Spain
 MADAGASCAR	M (British A/International Spelling Alphabet)
@@ -10904,6 +10912,7 @@ NF	[CDN] Newfoundland and Labrador (old; new: NL)
 NF	[ISO 3166] Norfolk Island
 NF	[Kfz:D] Kreis Nordfriesland
 NF	[Kfz] Neufundland (veraltet)
+NFA	nichtfunktionale Anforderung
 NFA	no flaming allowed
 NFA	no further action
 NFA	nondeterministic finite automaton
@@ -12179,6 +12188,7 @@ PEM	[IATA] Puerto Maldonado (Padre Aldamiz), Peru
 PEN	IANA Private Enterprise Number
 PEN	[IATA] Penang International, Peninsular Malaysia
 PENTA	five-
+PEP	Personaleinsatzplanung
 PEP	Policy Enforcement Point
 PEP	protocol extension protocol
 PEP	Python Enhancement Proposal
@@ -12510,6 +12520,7 @@ PNP	plug and play
 PNP	plug and pray
 PNP	[IATA] Popondetta, Papua New Guinea
 PNQ	[IATA] Poona, India
+PNR	Passenger Name Record
 PNR	[IATA] Pointe Noire, Congo
 PNS	[IATA] Pensacola Regional Airport, Florida, United States of America
 PNT	[IATA] Teniente Julio Gallardo, Puerto Natales, Chile
@@ -13033,6 +13044,8 @@ PZO	[IATA] Puerto Ordaz (Guayana), Venezuela
 PZQ	[IATA] Rogers City (Presque Isle County), Michigan, United States of America
 PZU	[IATA] Port Sudan, Sudan
 PZY	[IATA] Piestany, Slovakia
+P≡P	pretty easy privacy
+P≡P	ziemlich einfache Verschlüsselung
 Q	British Forces 1952 Spelling Alphabet; New York Police Spelling Alphabet; RAF 1942/1943 Spelling Alphabet; Telecom B Spelling Alphabet: QUEEN
 Q	deutsches Funkalphabet: QUELLE
 Q	French Spelling Alphabet: QUINTAL
@@ -13533,6 +13546,7 @@ RFE	request for enhancements
 RFG	[IATA] Refugio (Rooke Field), Texas, United States of America
 RFH	request for help
 RFI	radio frequency interference
+RFID	radio-frequency identification
 RFK	[IATA] Anguilla/Rolling Fork (Rollang Field), Mississippi, United States of America
 RFN	[IATA] Raufarhofn, Iceland
 RFO	request for ownership
@@ -16131,6 +16145,7 @@ TRW	[IATA] Tarawa (Bonriki), Kiribati
 TRX	[IATA] Trenton Municipal Airport, Missouri, United States of America
 TRY	[IATA] Tororo, Uganda
 TRZ	[IATA] Tiruchirapally, India
+TS	Teamspeak
 TS	Technical Specification
 TS	terminal services
 TS	time series
@@ -17421,6 +17436,7 @@ WOW	words of wisdom
 WOW	World of Warcraft (clinically addictive online game)
 WOW	[IATA] Willow, Alaska, United States of America
 WP	Wikipedia
+WP	Wirtschaftsprüfer
 WP	word processor
 WP	WordPerfect
 WP	Wordpress
