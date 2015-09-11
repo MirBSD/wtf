@@ -2,7 +2,7 @@
 "	[MORSE] .-..-.
 # ucase: Ä Ö Ü Ñ Á É Í Ó Ç È
 $	[MORSE] ...-..- (not ITU-R)
-$MirOS: wtf/acronyms,v 1.502 2015/09/10 19:04:50 tg Exp $
+$MirOS: wtf/acronyms,v 1.503 2015/09/11 20:16:36 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.11 2014/09/05 22:38:17 tg Exp $
 $NetBSD: acronyms,v 1.239 2015/08/21 09:46:43 pgoyette Exp $
 $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
@@ -302,7 +302,10 @@ AC	[ccTLD] Ascension
 AC	[Kfz:D] Städteregion Aachen
 ACA	[IATA] General Juan N. Alvarez International, Acapulco, Guerrero, Mexico
 ACB	[IATA] Bellaire (Antrim County Airport), Michigan, United States of America
+ACC	accept
+ACC	access
 ACC	Accountancy
+ACC	Acetylcysteïn
 ACC	[IATA] Kotoka International, Accra, Ghana
 ACD	[IATA] Acandi, Colombia
 ACDT	[TZif] Australia/Adelaide (DST)
@@ -1026,6 +1029,7 @@ ASQ	automated software quality
 ASQ	[IATA] Austin, Nevada (Austin Airport), United States of America
 ASR	address space register
 ASR	[IATA] Kayseri, Turkey
+ASS	Acetylsalicylsäure („Aspirin“)
 ASS	After Sales Support
 ASS	dumbhead
 ASS	jackass, moke (zool.)
@@ -1042,6 +1046,7 @@ AST	[TZif] America/Moncton
 AST	[TZif] America/Thule
 AST	[TZif] Atlantic/Bermuda
 AST	[TZif] Canada/Atlantic
+ASU	(cf. АСУ)
 ASU	Abgassonderuntersuchung (now: AU)
 ASU	[IATA] Asuncion (Presidente Stroessner), Paraguay
 ASV	[IATA] Amboseli, Kenya
@@ -4115,6 +4120,7 @@ DPT	Doctor of Practical Theology
 DPU	[IATA] Dumpu, Papua New Guinea
 DQ	define quad (64 bit)
 DQH	[IATA] Douglas Municipal Airport, Georgia, United States of America
+DQUOTE	double quote (")
 DR	Digital Research
 DR	Doktor
 DRA	[IATA] Mercury (Desert Rock Airport), Nevada, United States of America
@@ -4413,6 +4419,7 @@ ECK	[Kfz:D] Landkreis Eckernförde
 ECL	emitter-coupled logic
 ECLIPSE	Eight Cores? Look, it performs slow everywhere!
 ECLIPSE	Java’s answer to EMACS
+ECLSS	Environmental Control and Life Support System
 ECM	electronic countermeasures (often: jammer)
 ECM	enterprise content management
 ECN	ASN.1 Encoding Control Notation
@@ -6565,6 +6572,7 @@ HET	[IATA] Hohhot, China
 HET	[Kfz:D] Landkreis Hettstedt
 HEX	[IATA] Santo Don Herrera, Dominican Republic
 HEXA	six-
+HEXDIG	hexadecimal digit (0‥9, A‥F)
 HEY	[IATA] Fort Rucker (Hanchey Army Heliport), Alabama, United States of America
 HEZ	[IATA] Natchez (Hardy-Anders Field), Mississippi, United States of America
 HF	hardware floating point (Debian/armhf)
@@ -6890,6 +6898,7 @@ HT	U+0009 ␉ CHARACTER TABULATION
 HT	[ccTLD] Haiti
 HT	[ISO 3166] Haiti
 HTA	[IATA] Chita (Kadala), Russia
+HTAB	horizontal tabulator
 HTB	[IATA] Terre de Bas, Guadeloupe
 HTC	hardware thermal control
 HTCC	high temperature co-fired ceramic
@@ -9375,6 +9384,7 @@ LWO	[IATA] Lviv Danylo Halytskyi International (Snilow), Lviv, Ukraine
 LWP	light-weight process
 LWR	[IATA] Leeuwarden, Netherlands
 LWS	[IATA] Lewiston-Nez Perce County Airport, Idaho, United States of America
+LWSP	linear whitespace
 LWT	[IATA] Lewistown, Montana (Lewistown Municipal Airport), United States of America
 LWV	[IATA] Lawrenceville-Vincennes Int'l Airport, Illinois, United States of America
 LWY	[IATA] Lawas, Sarawak, Malaysia
@@ -9538,6 +9548,7 @@ MBQ	[IATA] Mbarara, Uganda
 MBR	master boot record
 MBR	[IATA] Mbout, Mauritania
 MBS	megabits per second
+MBS	multibyte character string
 MBS	[IATA] Saginaw Tri-City, Michigan, United States of America
 MBSD	MirBSD
 MBSD	MirOS BSD
@@ -9960,7 +9971,9 @@ MIPS	Microprocessor without Interlocked Pipeline Stages
 MIPS	million instructions per second
 MIPSEL	little endian MIPS (Linux)
 MIQ	[IATA] Omaha (Millard Airport), Nebraska, United States of America
+MIR	mirabilos’
 MIR	[IATA] Monastir (Skanes), Tunisia
+MIR	Мир (peace, world), a space station
 MIRBSD	split of OpenBSD with a lot of improvements -- http://mirbsd.de/
 MIS	Management Information Systems
 MIS	[IATA] Misima, Papua New Guinea
@@ -13511,6 +13524,7 @@ REH	[Kfz:D] Landkreis Rehau
 REI	[IATA] Regina, French Guyana
 REI	[Kfz:D] Stadt Bad Reichenhall im Landkreis Berchtesgadener Land
 REI	[Kfz:D] Teilkreis Laufen im Landkreis Berchtesgadener Land
+REJ	reject
 REK	[IATA] Reykjavik, Iceland
 REL	[IATA] Trelew (Almirante Zar), Argentina
 REM	comment
@@ -13649,6 +13663,7 @@ RJH	[IATA] Rajshani, Bangladesh
 RJI	[IATA] Rajouri, India
 RJK	[IATA] Rijeka, Croatia
 RKA	Root Key Authority
+RKA	Russian Federal Space Agency
 RKD	[IATA] Rockland (Knox County), Maine, United States of America
 RKE	[IATA] Copenhagen (Roskilde), Denmark
 RKH	[IATA] Rock Hill (Bryant Field), South Carolina, United States of America
@@ -15014,6 +15029,7 @@ SQN	[IATA] Sanana, Indonesia
 SQO	[IATA] Storuman, Sweden
 SQP	[IATA] Starcke, Queensland, Australia
 SQR	[IATA] Soroako, Indonesia
+SQUOTE	single quote (')
 SQV	[IATA] Sequim (Grand View Int'l Airport), Washington, United States of America
 SQZ	[IATA] Scampton (RAF Station), England, United Kingdom of Great Britain and Northern Ireland
 SR	Sr (PSE#38) Strontium | Erdalkalimetalle | alkaline earth metals | metalla alcalica terrena
@@ -16802,6 +16818,7 @@ VCF	voltage-controlled filter
 VCF	[IATA] Valcheta, Argentina
 VCFE	Vintage Computing Festival Europe (VCFe)
 VCH	[IATA] Vichadero, Uruguay
+VCHAR	visible character
 VCM	virtual channel memory
 VCO	voltage-controlled oscillator
 VCP	[IATA] Sao Paulo/Campinas (Viracopos), São Paulo, Brazil
@@ -17036,6 +17053,7 @@ VT	Vertical Tabulator (U+000B)
 VT	Virtual Terminal
 VT	[USA] Vermont
 VTA	[IATA] Victoria, Honduras
+VTAB	vertical tabulator
 VTAM	Virtual Telecommunications Access Method (SNA)
 VTB	[IATA] Vitsyebsk (Vitebsk), Belarus
 VTE	[IATA] Vientiane (Wattay), Laos
@@ -17181,6 +17199,8 @@ WCJ	[IATA] Caleta Josefina, Chile
 WCO	[IATA] Coolullah, Australia
 WCPGW	what could possibly go wrong
 WCR	[IATA] Chandalar Lake, Alaska, United States of America
+WCS	waste collection system
+WCS	wide character string
 WCY	[IATA] Alcoota, Northern Territory, Australia
 WD	[Kfz:D] Kreis Wiedenbrück
 WD	[Kfz] Dominica
@@ -17504,6 +17524,8 @@ WSL	[IATA] North Dallas Heliport, Texas, United States of America
 WSM	[IATA] Wiseman, Alaska, United States of America
 WSN	[IATA] South Naknek (nr. 2 Airport), Alaska, United States of America
 WSO	[IATA] Washabo, Suriname
+WSP	web service protocol
+WSP	whitespace
 WSP	[IATA] Wespam, Nicaragua
 WSR	[dental] Wurzelspitzenresektion
 WSR	[IATA] Wasior, Indonesia
@@ -18696,6 +18718,7 @@ _	[MORSE] ..--.- (not ITU-R)
 ź	[MORSE] --..-.
 Ż	[MORSE] --..-
 ż	[MORSE] --..-
+АСУ	Ассенизационно-Санитарная Установка (waste management system)
 КГБ	Комитет государственной безопасности (Committee for State Security of the Soviet Union), now ФСБ/FSB
 МОН	[ccTLD] Mongolia
 СРБ	[ccTLD] Serbien
