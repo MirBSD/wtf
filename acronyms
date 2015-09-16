@@ -2,7 +2,7 @@
 "	[MORSE] .-..-.
 # ucase: Ä Ö Ü Ñ Á É Í Ó Ç È
 $	[MORSE] ...-..- (not ITU-R)
-$MirOS: wtf/acronyms,v 1.503 2015/09/11 20:16:36 tg Exp $
+$MirOS: wtf/acronyms,v 1.504 2015/09/16 19:34:09 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.11 2014/09/05 22:38:17 tg Exp $
 $NetBSD: acronyms,v 1.239 2015/08/21 09:46:43 pgoyette Exp $
 $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
@@ -513,6 +513,10 @@ AG	Arbeitgeber
 AG	Arbeitsgemeinschaft
 AG	Arbeitsgericht
 AG	[ccTLD] Antigua und Barbuda
+AG	[CH] de, de-CH: Aargau
+AG	[CH] de-CH: Aargou
+AG	[CH] fr: Argovie
+AG	[CH] it, rm: Argovia
 AG	[ISO 3166] Antigua & Barbuda
 AG	[Kfz] Antigua und Barbuda
 AG	[Schule DE] Arbeitsgemeinschaft
@@ -571,6 +575,11 @@ AI	Adobe Illustrator
 AI	analog input
 AI	artificial intelligence
 AI	[ccTLD] Anguilla
+AI	[CH] de-CH: Appezöll Innerode
+AI	[CH] de: Appenzell Innerrhoden
+AI	[CH] fr: Appenzell Rhodes-Intérieures
+AI	[CH] it: Appenzello Interno
+AI	[CH] rm: Appenzell Dadens
 AI	[ISO 3166] Anguilla
 AIA	[IATA] Alliance Municipal Airport, Nebraska, United States of America
 AIB	[IATA] Anita Bay, Alaska, United States of America
@@ -917,6 +926,11 @@ AR	Ar (PSE#18) Argon | Edelgase | noble gases | gasia nobilia
 AR	ar(1) archive – *.a
 AR	Aufsichtsrat
 AR	[ccTLD] Argentinien
+AR	[CH] de-CH: Appezäll Osserode
+AR	[CH] de: Appenzell Ausserrhoden
+AR	[CH] fr: Appenzell Rhodes-Extérieures
+AR	[CH] it: Appenzello Esterno
+AR	[CH] rm: Appenzell Dadora
 AR	[ISO 3166] Argentina
 AR	[Kfz:D] Kreis Arnsberg
 AR	[USA] Arkansas
@@ -1160,7 +1174,7 @@ AVV	[IATA] Avalon Airport, Victoria, Australia
 AVW	[IATA] Tucson (Avra Valley Airport), Arizona, United States of America
 AVX	advanced vector extensions
 AVX	[IATA] Avalon (Catalina Island), California, United States of America
-AW	Antwort (MS Outlook mis-translation)
+AW	Antwort (MS Outlook mis-translation, normally Re:)
 AW	Armer Winzer
 AW	Arschwalze
 AW	[ccTLD] Aruba
@@ -1505,6 +1519,10 @@ BE	Be (PSE#4) Beryllium | Erdalkalimetalle | alkaline earth metals | metalla alc
 BE	big endian
 BE	Broteinheit
 BE	[ccTLD] Belgien
+BE	[CH] de-CH: Bärn
+BE	[CH] de: Bern
+BE	[CH] fr: Berne
+BE	[CH] it, rm: Berna
 BE	[D] Berlin
 BE	[ISO 3166] Belgium
 BE	[Kfz:D] Kreis Beckum
@@ -1794,6 +1812,11 @@ BKX	[IATA] Brookings Municipal, South Dakota, United States of America
 BKY	[IATA] Bukavu (Kuvumu), Zaire
 BKZ	[IATA] Bukoba, Tanzania
 BL	Bundesland
+BL	[CH] de-CH: Baaselbiet
+BL	[CH] de: Basel-Land, Basel-Landschaft
+BL	[CH] fr: Bâle-Campagne
+BL	[CH] it: Basilea Campagna
+BL	[CH] rm: Basilea-Champagna
 BL	[ISO 3166] St Barthelemy
 BL	[Kfz:D] Landkreis Balingen
 BL	[Kfz:D] Zollernalbkreis
@@ -2110,6 +2133,11 @@ BS	binary sequence
 BS	bullshit
 BS	U+0008 ␈ BACKSPACE
 BS	[ccTLD] Bahamas
+BS	[CH] de-CH: Baaselstadt
+BS	[CH] de: Basel-Stadt
+BS	[CH] fr: Bâle-Ville
+BS	[CH] it: Basilea Città
+BS	[CH] rm: Basilea-Citad
 BS	[ISO 3166] Bahamas
 BS	[Kfz:D] Landkreis Braunschweig
 BS	[Kfz] Bahamas
@@ -2334,6 +2362,7 @@ BWF	[IATA] Barrow-in-Furness, United Kingdom of Great Britain and Northern Irela
 BWG	[IATA] Bowling Green-Warren County, Kentucky, United States of America
 BWH	[IATA] Butterworth, Malaysia
 BWI	[IATA] Baltimore-Washington International, Maryland, United States of America
+BWINF	Bundesweite Informatikwettbewerbe
 BWJ	[IATA] Bawan, Papua New Guinea
 BWK	[IATA] Bol, Croatia
 BWL	Betriebswirtschaftslehre
@@ -2859,10 +2888,18 @@ CGV	[IATA] Caiguma, Australia
 CGX	[IATA] Chicago Merrill C. Meigs Field, Chicago, Illinois, United States of America
 CGY	[IATA] Cagayan de Oro, Philippines
 CGZ	[IATA] Casa Grande Municipal Airport, Arizona, United States of America
+CH	confœderatio helvetica (Schweiz, Suisse, Svizzera, Svizra, Switzerland, Suiza, Svizrija)
 CH	Context Handler
 CH	deutsches Funkalphabet: CHARLOTTE
 CH	Spanish Spelling Alphabet: CHOCOLATE
 CH	[ccTLD] Schweiz
+CH	[CH] de-CH: Schwiizerischi Eidgnosseschaft (Schwiiz)
+CH	[CH] de: Schweizerische Eidgenossenschaft (Schweiz)
+CH	[CH] en: Swiss Confederation (Switzerland)
+CH	[CH] fr: Confédération Suisse (Suisse)
+CH	[CH] it: Confederazione Svizzera (Svizzera)
+CH	[CH] la: Confoederatio Helvetica (Helvetia)
+CH	[CH] rm: Confederaziun Svizra (Svizra)
 CH	[ISO 3166] Switzerland
 CH	[Kfz] Schweiz
 CH	[MORSE] ----
@@ -4856,6 +4893,8 @@ EPIPE	(#32) Broken pipe
 EPK	[IATA] Episkopi, Cyprus
 EPL	[IATA] Epinal, France
 EPN	[IATA] Epena, Congo
+EPO	European Patent Office
+EPO	europäïsches Patentamt
 EPP	enhanced parallel port
 EPR	[IATA] Esperance, Western Australia, Australia
 EPRML	extended partial response, maximum likelihood
@@ -5273,6 +5312,7 @@ FFM	[IATA] Fergus Falls Municipal Airport, Minnesota, United States of America
 FFN	FanFiction.Net
 FFO	[IATA] Dayton (Wright-Patterson Air Force), Ohio, United States of America
 FFS	Fast File System
+FFS	fast full scan
 FFS	Ferrovie federali svizzere (SBB)
 FFS	find first set (bit)
 FFS	for fuck’s sake
@@ -5499,6 +5539,11 @@ FQDN	fully qualified domain name
 FQT	[IATA] Merville/Calonne, France
 FR	Fr (PSE#87) Francium | Alkalimetalle | alkali metals | metalla alcalica
 FR	[ccTLD] Frankreich
+FR	[CH] de-CH: Frybùrg
+FR	[CH] de: Freiburg
+FR	[CH] fr: Fribourg
+FR	[CH] it: Friburgo
+FR	[CH] rm: Friburg
 FR	[ISO 3166] France
 FR	[Kfz:D] Stadtkreis Freiburg im Breisgau und Landkreis Breisgau-Hochschwarzwald
 FR	[Kfz] Färöer (veraltet)
@@ -5665,7 +5710,9 @@ FUSE	filesystem in userspace
 FUT	[IATA] Futuna, Wallis and Futuna Islands
 FUTHARK	(runic Alphabet)
 FVX	[IATA] Farmville Municipal Airport, Virginia, United States of America
+FW	firewall
 FW	firmware
+FW	forwarded eMail (normally Fwd:)
 FW	framework
 FW	IEEE 1394 Firewire
 FW	[Kfz:D] Landkreis Fürstenwalde
@@ -5874,6 +5921,12 @@ GDX	[IATA] Magadan, Russia
 GDY	[IATA] Grundy Municipal Airport, Virginia, United States of America
 GE	Ge (PSE#32) Germanium | Kohlenstoff/Silicium-Gruppe | carbon group
 GE	[ccTLD] Georgien
+GE	[CH] de-CH: Gämf
+GE	[CH] de-CH: Gänf
+GE	[CH] de: Genf
+GE	[CH] fr: Genève
+GE	[CH] it: Ginevra
+GE	[CH] rm: Genevra
 GE	[gc] geocaching.gpsgames.org
 GE	[ISO 3166] Georgia
 GE	[Kfz:D] kreisfreie Stadt Gelsenkirchen
@@ -5981,6 +6034,7 @@ GHN	[IATA] Guanghan, China
 GHT	[IATA] Ghat, Libya
 GHU	[IATA] Gualeguaychu, Argentina
 GHZ	GHz: Gigahertz (1'000'000'000 Hz)
+GI	Gesellschaft für Informatik
 GI	[ccTLD] Gibraltar
 GI	[ISO 3166] Gibraltar
 GI	[Kfz:D] Landkreis Gießen
@@ -6027,6 +6081,11 @@ GKO	[IATA] Kongoboumba, Gabon
 GKT	[IATA] Gatlinburg-Pigeon Forge Airport, Tennessee, United States of America
 GL	good luck (see GL HF, HF)
 GL	[ccTLD] Grönland
+GL	[CH] de-CH, fr: Glaris
+GL	[CH] de: Glarus
+GL	[CH] fr: Glaris
+GL	[CH] it: Glarona
+GL	[CH] rm: Glaruna
 GL	[gc] gc.com cache log (pseudo waypoint code)
 GL	[gc] GeoLutin, free trackable item (see also: TB)
 GL	[gc] Groundspeak cache Log
@@ -6209,6 +6268,12 @@ GQJ	[IATA] Machrihanish (RAF Station), Scotland, United Kingdom of Great Britain
 GQQ	[IATA] Galion Municipal Airport, Ohio, United States of America
 GR	golden ratio
 GR	[ccTLD] Griechenland
+GR	[CH] de-CH: Bündnerland
+GR	[CH] de-CH: Graubünda
+GR	[CH] de: Graubünden
+GR	[CH] fr: Grisons
+GR	[CH] it: Grigioni
+GR	[CH] rm: Grischuns, Grischun
 GR	[Debian] General Resolution
 GR	[ISO 3166] Greece
 GR	[Kfz:D] Landkreis Görlitz
@@ -7332,6 +7397,7 @@ INDY	[altTLD] Unabhängige Informationen, Medien und Kunst
 INE	[IATA] Chinde, Mozambique
 INF	Technische Informatica
 INF	[IATA] In Guezzam, Algeria
+INFAS	Institut für angewandte Sozialwissenschaft GmbH
 INFO	[uTLD] information
 ING	[altTLD] ?
 ING	[IATA] Ago, Argentina
@@ -7370,6 +7436,7 @@ IOA	[IATA] Ioannina, Greece
 IOC	Initial Operational Capability
 IOCCC	International Obfuscated C Code Contest
 IOCTL	input/output control
+IOI	Internationale Informatik-Olympiade
 IOK	[IATA] Iokea, Papua New Guinea
 IOM	[IATA] Isle of Man (Ronaldsway Airport), United Kingdom of Great Britain and Northern Ireland
 IOMMU	input/output memory management unit
@@ -7572,6 +7639,7 @@ ITYW	I’ll tell you what
 IUD	insert usual disclaimers
 IUE	[IATA] Niue Island, Niue Island
 IUGG	International Union of Geodesy and Geophysics
+IUK	Informations- und Kommunikationstechnologie
 IUL	[IATA] Ilu, New Guinea, Indonesia
 IUM	[IATA] Summit Lake, British Columbia, Canada
 IUS	[IATA] Inus, Solomon Islands
@@ -7926,6 +7994,8 @@ JTLYK	just to let you know
 JTO	[IATA] Thousand Oaks (Science Center), California, United States of America
 JTR	[IATA] Santorini, Thira, Greece
 JTY	[IATA] Astypalea Island, Greece
+JU	[CH] de, de-CH, fr: Jura
+JU	[CH] it, rm: Giura
 JUA	[IATA] Juara, Brazil
 JUB	[IATA] Juba, Sudan
 JUC	[IATA] Los Angeles (Universal Studios), California, United States of America
@@ -9075,6 +9145,7 @@ LMON	[Oracle] Global Enqueue Service Monitor Process
 LMP	[IATA] Lampedusa, Lampedusa Island, Italy
 LMQ	[IATA] Marsa Brega, Libya
 LMR	[IATA] Lime Acres, South Africa
+LMS	Lernmanagementsystem
 LMS	[IATA] Louisville-Winston County Airport, Mississippi, United States of America
 LMS0	[Oracle] Global Cache Service Process
 LMSO	laughing my socks off
@@ -9312,6 +9383,10 @@ LTW	[IATA] Leonardtown (St. Mary's County), Maryland, United States of America
 LU	logical unit
 LU	Lu (PSE#71) Lutetium | Metalle der seltenen Erden (Lanthaniden) | lanthanides | lanthanida
 LU	[ccTLD] Luxemburg
+LU	[CH] de-CH: Lozäärn
+LU	[CH] de: Luzern
+LU	[CH] fr: Lucerne
+LU	[CH] it, rm: Lucerna
 LU	[ISO 3166] Luxembourg
 LU	[Kfz:D] Landkreis Ludwigshafen
 LU	[Kfz:D] Rhein-Pfalz-Kreis
@@ -10890,6 +10965,10 @@ NE	Ne (PSE#10) Neon | Edelgase | noble gases | gasia nobilia
 NE	Nordost, north-east
 NE	numeric error
 NE	[ccTLD] Niger
+NE	[CH] de-CH: Nöieburg
+NE	[CH] de-CH: Nüüeburg
+NE	[CH] de: Neuenburg
+NE	[CH] fr, it, rm: Neuchâtel
 NE	[ISO 3166] Niger
 NE	[Kfz:D] Rhein-Kreis Neuß
 NE	[USA] Nebraska
@@ -11347,6 +11426,11 @@ NW	no way
 NW	no worries
 NW	Nordwest, north-west
 NW	not write-through
+NW	[CH] de-CH: Nidwaudä
+NW	[CH] de: Nidwalden
+NW	[CH] fr: Nidwald
+NW	[CH] it: Nidvaldo
+NW	[CH] rm: Sutsilvania
 NW	[D] Nordrhein-Westfalen
 NW	[Kfz:D] Landkreis Neustadt an der Weinstraße
 NW	[Kfz:D] Landkreis Neuwied
@@ -11905,6 +11989,11 @@ OVL	[Kfz:D] Obervogtland (Landkreise Klingenthal und Oelsnitz)
 OVN	[IATA] Ouven, Australia
 OVO	[IATA] North Vernon Airport, Indiana, United States of America
 OVP	[Kfz:D] Landkreis Ostvorpommern
+OW	[CH] de-CH: Obwaldä
+OW	[CH] de: Obwalden
+OW	[CH] fr: Obwald
+OW	[CH] it: Obvaldo
+OW	[CH] rm: Sursilvania
 OWA	Outlook Web Access
 OWA	[IATA] Owatonna Municipal Airport, Minnesota, United States of America
 OWB	[IATA] Owensboro-Daviess County Airport, Kentucky, United States of America
@@ -13443,7 +13532,7 @@ RC	release-critical
 RC	remote control
 RC	resource
 RC	restless cow
-RC	return code
+RC	return code (exit status)
 RC	runcom (MIT CTSS)
 RC	runlevel configuration
 RC	[Kfz:D] Landkreis Reichenbach
@@ -13505,6 +13594,7 @@ RE	Erdtaste
 RE	Re (PSE#75) Rhenium | Übergangsmetalle | transition metals | metalla transitionis
 RE	Regional-Expreß
 RE	regular expression - https://www.mirbsd.org/man7/re_format
+RE	reply to eMail (normally Re:)
 RE	Royal Engineers
 RE	[ccTLD] Réunion
 RE	[ISO 3166] Reunion
@@ -13983,6 +14073,7 @@ RUT	[IATA] Rutland State Airport, Vermont, United States of America
 RUU	ROM upgrade utility
 RUV	[IATA] Rubelsanto, Guatemala
 RUY	[IATA] Copan, Honduras
+RV	return value (exit status)
 RV	[Kfz:D] Landkreis Ravensburg
 RVA	[IATA] Farafangana, Madagascar
 RVC	[IATA] River Cess, Liberia
@@ -14451,6 +14542,11 @@ SFY	[IATA] Springfield, Massachusetts, United States of America
 SFZ	[IATA] Pawtucket/Smithfield, Rhode Island, United States of America
 SG	Sg (PSE#106) Seaborgium | Übergangsmetalle | transition metals | metalla transitionis
 SG	[ccTLD] Singapur
+SG	[CH] de-CH: Sanggale
+SG	[CH] de: St. Gallen
+SG	[CH] fr: Saint-Gall
+SG	[CH] it: San Gallo
+SG	[CH] rm: Son Gagl
 SG	[ISO 3166] Singapore
 SG	[Kfz:D] kreisfreie Stadt Solingen
 SGA	[IATA] Wheghnan, Afghanistan
@@ -14492,6 +14588,11 @@ SH	Hitachi/Renesas SuperH
 SH	POSIX Shell
 SH	Shell
 SH	[ccTLD] St. Helena
+SH	[CH] de-CH: Schafuuse
+SH	[CH] de: Schaffhausen
+SH	[CH] fr: Schaffhouse
+SH	[CH] it: Sciaffusa
+SH	[CH] rm: Schaffusa
 SH	[D] Schleswig-Holstein
 SH	[gc] shutterspot.gpsgames.org
 SH	[ISO 3166] St Helena
@@ -14538,6 +14639,7 @@ SHX	[IATA] Shageluk Airport, Alaska, United States of America
 SHY	U+00AD SOFT HYPHEN
 SHY	[IATA] Shinyanga, Tanzania
 SHZ	[IATA] Seshutes, Lesotho
+SI	Schweizer Informatik Gesellschaft
 SI	Si (PSE#14) Silicium, Silicon | Kohlenstoff/Silicium-Gruppe | carbon group
 SI	source index
 SI	Système International d’Unités
@@ -14880,6 +14982,11 @@ SO	StackOverflow
 SO	Südost, south-east
 SO	U+000E ␎ SHIFT OUT
 SO	[ccTLD] Somalia
+SO	[CH] de-CH: Soledùùrn
+SO	[CH] de: Solothurn
+SO	[CH] fr: Soleure
+SO	[CH] it: Soletta
+SO	[CH] rm: Soloturn
 SO	[ISO 3166] Somalia
 SO	[Kfz:D] Kreis Soest
 SO	[Kfz] Slowakei (veraltet)
@@ -15248,11 +15355,13 @@ SUD	[IATA] Stroud Municipal Airport, Oklahoma, United States of America
 SUD	[Kfz] Sudan (nicht offiziell)
 SUD	[Kfz] Südsudan (veraltet)
 SUE	[IATA] Sturgeon Bay (Door County), Wisconsin, United States of America
+SUEPO	Staff Union of the European Patent Office
 SUF	[IATA] Lamezia Terme, Italy
 SUG	[IATA] Surigao, Philippines
 SUGA	S (RAF 1942/1943 Spelling Alphabet)
 SUGAR	S (British Forces 1952 Spelling Alphabet)
 SUH	[IATA] Sur, Oman
+SUI	[CH] fr: Confédération Suisse (Suisse)
 SUI	[IATA] Sokhumi/Sukhum, Abkhazia, Georgia
 SUJ	[IATA] Satu Mare, Romania
 SUK	[IATA] Samchok, South Korea
@@ -15430,6 +15539,11 @@ SYX	[IATA] Sanya, China
 SYY	[IATA] Stornway, United Kingdom of Great Britain and Northern Ireland
 SYZ	[IATA] Shiraz, Iran
 SZ	[ccTLD] Swasiland
+SZ	[CH] de, de-CH: Schwyz
+SZ	[CH] de: Schweizerische Eidgenossenschaft (Schweiz)
+SZ	[CH] fr: Schwytz
+SZ	[CH] it: Svitto
+SZ	[CH] rm: Sviz
 SZ	[ISO 3166] Swaziland
 SZ	[Kfz:D] kreisfreie Stadt Salzgitter
 SZA	[IATA] Soyo, Angola
@@ -15718,6 +15832,11 @@ TFTH	[gc] thanks for the hunt
 TFTP	Trivial File Transfer Protocol
 TFY	[IATA] Tarfaya, Morocco
 TG	[ccTLD] Togo
+TG	[CH] de-CH: Tùùrgau
+TG	[CH] de-CH: Tùùrgi
+TG	[CH] de: Thurgau
+TG	[CH] fr: Thurgovie
+TG	[CH] it, rm: Turgovia
 TG	[ISO 3166] Togo
 TG	[Kfz:D] Landkreis Torgau-Oschatz
 TG	[Kfz] Togo (nicht offiziell)
@@ -15785,6 +15904,8 @@ TI	Technische Informatica
 TI	Telematikinfrastruktur
 TI	Texas Instruments
 TI	Ti (PSE#22) Titanium, Titan | Übergangsmetalle | transition metals | metalla transitionis
+TI	[CH] de, de-CH, fr, rm: Tessin
+TI	[CH] it: Ticino
 TIA	thanks in advance
 TIA	[IATA] Tirana, Albania
 TIAS	try it and see
@@ -16624,6 +16745,9 @@ UPU	unified processor unit (CPU+GPU)
 UPV	[IATA] Upavon, England, United Kingdom of Great Britain and Northern Ireland
 UQE	[IATA] Queens Airport, Alaska, United States of America
 UR	your
+UR	[CH] de, fr, it, rm: Uri
+UR	[CH] de-CH: Ürnerland
+UR	[CH] de-CH: Üüri
 UR	{you’re, you are}
 URA	User Range Accuracy
 URA	[IATA] Uralsk, Kazakhstan
@@ -16828,6 +16952,10 @@ VCS	version control system
 VCT	[IATA] Victoria Regional Airport, Texas, United States of America
 VCV	[IATA] Victorville (George Air Force Base), California, United States of America
 VCW	[IATA] Colonial Williamsburg, Virginia, United States of America
+VD	[CH] de-CH: Wadt
+VD	[CH] de: Waadt
+VD	[CH] fr, it: Vaud
+VD	[CH] rm: Vad
 VDA	[IATA] Ovda (Eilat/International), Israel
 VDB	[IATA] Fagernes (Leirin), Norway
 VDBG	[Oracle] Volume Driver Process
@@ -17038,6 +17166,10 @@ VRRP	Virtual Router Redundancy Protocol
 VRS	[IATA] Versailles, France
 VRU	[IATA] Vryburg, South Africa
 VRY	[IATA] Vaeroy, Norway
+VS	[CH] de, de-CH: Wallis
+VS	[CH] fr: Valais
+VS	[CH] it: Vallese
+VS	[CH] rm: Vallais
 VS	[Kfz:D] Landkreis Villingen-Schwenningen
 VSA	[IATA] Villahermosa (Carlos Rovirosa), Mexico
 VSE	[IATA] Viseu, Portugal
@@ -17279,7 +17411,7 @@ WFQ	weighted fair queuing
 WFW	Windows® for Workgroups
 WFY	works for you
 WG	wegen (MS Outlook mis-translation)
-WG	weitergeleitet (MS Outlook mis-translation)
+WG	weitergeleitet (MS Outlook mis-translation, normally Fwd:)
 WG	[Kfz:D] Landkreis Wangen
 WG	[Kfz] Grenada
 WGA	[IATA] Wagga Wagga, New South Wales, Australia
@@ -18517,6 +18649,10 @@ ZFL	[IATA] South Trout Lake, Ontario, Canada
 ZFM	[IATA] Fort McPherson, Northwest Territories, Canada
 ZFN	[IATA] Fort Norman, Northwest Territories, Canada
 ZFOD	zero-filled on demand
+ZG	[CH] de, rm: Zug
+ZG	[CH] de-CH: Zùùg
+ZG	[CH] fr: Zoug
+ZG	[CH] it: Zugo
 ZGC	[IATA] Lanzhou (Zhongchuan), China
 ZGEOBW	Zentrum für Geoinformationswesen der Bundeswehr
 ZGF	[IATA] Grand Forks, British Columbia, Canada
@@ -18526,6 +18662,11 @@ ZGM	[IATA] Ngoma, Zambia
 ZGP	[IATA] Sugapa, Indonesia
 ZGR	[IATA] Little Grand Rapids, Manitoba, Canada
 ZGS	[IATA] Gethsemani, Quebec, Canada
+ZH	[CH] de-CH: Züri
+ZH	[CH] de: Zürich
+ZH	[CH] fr: Zurich
+ZH	[CH] it: Zurigo
+ZH	[CH] rm: Turitg
 ZHA	[IATA] Zhanjiang, China
 ZHI	[IATA] Grenchen, Switzerland
 ZHM	[IATA] Shamshernagar, Bangladesh
