@@ -3,7 +3,7 @@
 # ucase: Ä Ö Ü Ñ Á É Í Ó Ç È
 $	[MORSE] ...-..- (not ITU-R)
 $github: othyro/wtfubar refs/tags/wtfubar-2.0.0 $
-$MirOS: wtf/acronyms,v 1.505 2015/09/21 20:59:33 tg Exp $
+$MirOS: wtf/acronyms,v 1.506 2015/09/23 19:13:13 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.11 2014/09/05 22:38:17 tg Exp $
 $NetBSD: acronyms,v 1.240 2015/09/18 13:40:10 wiz Exp $
 $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
@@ -865,6 +865,8 @@ AP	application processor
 AP	[BR] Amapá
 AP	[Kfz:D] Landkreis Weimarer Land
 AP00	[Oracle] Database Apply Process Coordinator Process
+APA	American Psychiatric Association
+APA	amerikanische psychiatrische Gesellschaft
 APA	[IATA] Denver (Centennial Airport), Colorado, United States of America
 APB	[IATA] Apolo, Bolivia
 APC	U+009F APPLICATION PROGRAM COMMAND
@@ -1007,6 +1009,7 @@ ASC	ASCII
 ASC	[IATA] Ascension, Bolivia
 ASCII	American Standard Code for Information Interchange
 ASD	agile software development
+ASD	Allgemeiner Sozialer Dienst
 ASD	[IATA] Andros Town International, Bahamas
 ASD	[Kfz:D] Landkreis Aschendorf-Hümmling
 ASE	advanced software environment
@@ -3382,6 +3385,7 @@ CSMA	carrier sense multiple access
 CSMA/CA	carrier sense multiple access with collision avoidance
 CSMA/CD	carrier sense multiple access with collision detection
 CSN	[IATA] Carson City Airport, Nevada, United States of America
+CSO	crime scene officer
 CSP	Certification Service Provider
 CSP	Christlichsoziale Partei
 CSP	Content Security Policy
@@ -3929,6 +3933,7 @@ DIJ	[IATA] Dijon (Longvic), France
 DIK	[IATA] Dickinson Municipal Airport, North Dakota, United States of America
 DIL	[IATA] Dili (Komoro), East Timor
 DIL	[Kfz:D] Dillkreis
+DIMDI	Deutsches Institut für Medizinische Dokumentation und Information
 DIMM	dual inline memory module
 DIN	Deutsches Institut für Normung e.V.
 DIN	[Kfz:D] Kreis Dinslaken
@@ -4172,6 +4177,8 @@ DRB	[IATA] Derby, Western Australia, Australia
 DRD	[IATA] Dorunda Station, Queensland, Australia
 DRE	[IATA] Drummond Island Airport, Michigan, United States of America
 DRF	[IATA] Kenai (Drift River), Alaska, United States of America
+DRG	diagnosebezogene Fallgruppe
+DRG	Diagnosis Related Group
 DRG	[IATA] Deering Airport, Alaska, United States of America
 DRI	direct rendering infrastructure
 DRI	[IATA] De Ridder (Beauregard Parish), Louisiana, United States of America
@@ -4220,6 +4227,8 @@ DSL	[IATA] Daru, Sierra Leone
 DSLAC	DSL Access Concentrator
 DSLAM	digital subscriber line access multiplexer
 DSLR	digital single-lens reflex camera
+DSM	Diagnostic and Statistical Manual of Mental Disorders
+DSM	diagnostischer und statistischer Leitfaden psychischer Störungen
 DSM	[IATA] Des Moines International, Iowa, United States of America
 DSN	delivery status notification
 DSO	dynamic shared object
@@ -4268,6 +4277,7 @@ DUD	[Kfz:D] Landkreis Duderstadt
 DUE	[IATA] Dundo, Angola
 DUF	[IATA] Duck, North Carolina, United States of America
 DUG	[IATA] Bisbee Douglas International Airport, Arizona, United States of America
+DUH	Deutsche Umwelthilfe e.V.
 DUI	[IATA] Duisburg, Germany
 DUJ	[IATA] Du Bois-Jefferson County Airport, Pennsylvania, United States of America
 DUM	[IATA] Dumai, Indonesia
@@ -5269,6 +5279,7 @@ FDIK	Fick’ Dich ins Knie
 FDIK	Volker Birk (VB)
 FDK	[IATA] Frederick Municipal Airport, Maryland, United States of America
 FDO	feedback-directed optimisation
+FDP	Factitious Disorder by proxy (MSBP)
 FDP	Freie Demokratische Partei
 FDP	Freisinnig-Demokratische Partei
 FDP	[IATA] Fariopur, Bangladesh
@@ -7168,7 +7179,8 @@ ICBW	I could be wrong
 ICBW	It could be worse
 ICCL	I couldn’t care less
 ICD	Interface Control Document
-ICD	International statistical Classification of Diseases and related health problems
+ICD	international statistical classification of diseases and related health problems
+ICD	internationale statistische Klassifikation der Krankheiten und verwandter Gesundheitsprobleme
 ICE	in-circuit emulator
 ICE	Intercity-Expreß
 ICE	internal compiler error
@@ -7180,6 +7192,8 @@ ICL	[IATA] Clarinda (Schenck Field), Iowa, United States of America
 ICMP	Internet Control Message Protocol
 ICN	[IATA] Incheon, South Korea
 ICO	icon (bitmap file format)
+ICPM	international classification of procedures in medicine
+ICPM	internationale Klassifikation der Behandlungsmethoden in der Medizin
 ICR	[IATA] Nicaro, Cuba
 ICS	Ice Cream Sandwich (Android 4.0)
 ICS	X (Italian Spelling Alphabet)
@@ -10471,6 +10485,8 @@ MSAS	Multi-functional Satellite Augmentation System
 MSB	most significant bit (leftmost)
 MSB	most significant byte
 MSB	[IATA] St. Maarten (Marigot), Netherlands Antilles
+MSBP	Münchhausen Syndrome by proxy
+MSBP	Münchhausen-Stellvertreter-Syndrom
 MSC	Magister Scientiæ
 MSC	Master of Natural Science (Cambridge University)
 MSC	[IATA] Mesa (Falcon Field), Arizona, United States of America
@@ -11833,6 +11849,7 @@ OPN	Open Projects Network (former Linpeople, now Freenode)
 OPO	[IATA] Porto (Pedras Rubras), Portugal
 OPP	other peoples’ {penis,property,pussy}
 OPR	[Kfz:D] Landkreis Ostprignitz-Ruppin
+OPS	Operationen- und Prozedurenschlüssel
 OPS	operations per second
 OPS	operator status
 OPS	operators
@@ -15255,6 +15272,7 @@ SSL	secure sockets layer
 SSL	[IATA] Santa Rosalia, Venezuela
 SSM	Squadron Sgt Major
 SSM	[IATA] Sault Ste. Marie (Sanderson Field), Michigan, United States of America
+SSN	social security number
 SSN	[IATA] Seoul (Air Base), South Korea
 SSO	Südsüdost, south-south-east
 SSO	[IATA] Sao Lourenco, Brazil
@@ -15413,6 +15431,7 @@ SUZANNE	S (French Spelling Alphabet)
 SV	server
 SV	service
 SV	slave
+SV	Sozialversicherung
 SV	Space Vehicle
 SV	[ccTLD] El Salvador
 SV	[ISO 3166] El Salvador
