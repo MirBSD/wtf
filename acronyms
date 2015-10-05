@@ -3,12 +3,12 @@
 # ucase: Ä Ö Ü Ñ Á É Í Ó Ç È
 $	[MORSE] ...-..- (not ITU-R)
 $github: othyro/wtfubar refs/tags/wtfubar-2.0.0 $
-$MirOS: wtf/acronyms,v 1.507 2015/09/29 21:34:21 tg Exp $
+$MirOS: wtf/acronyms,v 1.508 2015/10/05 15:00:02 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.11 2014/09/05 22:38:17 tg Exp $
 $NetBSD: acronyms,v 1.240 2015/09/18 13:40:10 wiz Exp $
 $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
 $NetBSD: acronyms.comp,v 1.150 2015/08/22 19:18:10 dholland Exp $
-$NetBSD: airport,v 1.59 2015/09/13 09:21:51 mbalmer Exp $
+$NetBSD: airport,v 1.60 2015/10/02 09:01:23 mbalmer Exp $
 $OpenBSD: airport,v 1.55 2015/08/29 22:13:56 deraadt Exp $
 &	[MORSE] .-... (not ITU-R)
 '	[MORSE] .----.
@@ -470,6 +470,7 @@ AEU	Antenna Electronic Unit
 AEX	[IATA] Alexandria International Airport, Louisiana, United States of America
 AEY	[IATA] Akureyri, Iceland
 AF	anonymous finder
+AF	Atemfrequenz
 AF	[ccTLD] Afghanistan
 AF	[ISO 3166] Afghanistan
 AFA	[IATA] San Rafael, Argentina
@@ -1911,6 +1912,7 @@ BMP	bitmap
 BMP	Unicode Basic Multilingual Plane
 BMP	[IATA] Brampton Island, Queensland, Australia
 BMQ	[IATA] Bamburi, Kenya
+BMR	base magic resistance
 BMR	[IATA] Baltrum, Germany
 BMR0	[Oracle] Automatic Block Media Recovery Slave Pool Process
 BMS	Bachelor of Management Studies
@@ -3680,6 +3682,7 @@ DACH	D-A-CH: Germany, Austria, Switzerland
 DAD	duplicate address detection
 DAD	father (USA English)
 DAD	[IATA] Da Nang, Vietnam
+DADA	[HP] Defence against the Dark Arts
 DAE	[IATA] Daparizo, India
 DAEMON	(that cuddly red BSD mascot)
 DAEMON	disk and execution monitor
@@ -3755,6 +3758,7 @@ DBW	(dBW) Decibels with respect to one Watt
 DBW0	[Oracle] Database Writer Process
 DBWR	(see DBW0)
 DBY	[IATA] Dalby, Queensland, Australia
+DC	damage class
 DC	data centre
 DC	device control
 DC	digital camera
@@ -3932,6 +3936,7 @@ DIAY	did I ask y̲o̲u̲?
 DIB	device-independent bitmap
 DIB	[IATA] Dibrugarh, India
 DIC	[IATA] Dili, Dem. Rep. of Congo
+DID	dissociative identity disorder (MPD)
 DIE	[IATA] Antsiranana (Arrachart), Madagascar
 DIFFICULTY	Die Inkompetenten Forderer und Förderer Immaterieller Clubs Und Langsam Trottender Yetis
 DIFS	distributed inter-frame space
@@ -4046,6 +4051,8 @@ DME	[IATA] Moscow (Domodemovo), Russia
 DMF	[IATA] Montgomery (National Guard), Alabama, United States of America
 DMFS	[dental] decayed/missing/filled surfaces (lowercase for first dentition)
 DMFT	[dental] decayed/missing/filled teeth (lowercase for first dentition)
+DMG	Apple Disk Image
+DMG	damage
 DMI	desktop management interface
 DMIN	Doctor of Ministry
 DMK	[IATA] Don Mueang International Airport, Bangkok, Thailand
@@ -4176,6 +4183,7 @@ DPU	[IATA] Dumpu, Papua New Guinea
 DQ	define quad (64 bit)
 DQH	[IATA] Douglas Municipal Airport, Georgia, United States of America
 DQUOTE	double quote (‘"’)
+DR	damage reduction/resistance
 DR	Digital Research
 DR	Doktor
 DRA	[IATA] Mercury (Desert Rock Airport), Nevada, United States of America
@@ -4579,6 +4587,7 @@ EE	[Kfz:D] Landkreis Elbe-Elster
 EECS	electrical engineering and computer science
 EED	[IATA] Needles Airport, California, United States of America
 EEE	Electrical and Electronics Engineering
+EEG	Elektroenzephalogramm
 EEK	[IATA] Eek Airport, Alaska, United States of America
 EEN	[IATA] Keene (Dillant-Hopkins Airport), New Hampshire, United States of America
 EEPROM	electrically erasable programmable read only memory
@@ -4738,6 +4747,7 @@ EKA	[IATA] Eureka (Murray Field), California, United States of America
 EKB	[IATA] Ekibastuz, Kazakhstan
 EKD	[IATA] Elkedra, Northern Territory, Australia
 EKE	[IATA] Ekereku, Guyana
+EKG	Elektrokardiogramm
 EKI	[IATA] Elkhart Municipal Airport, Indiana, United States of America
 EKMS	electronic knowledge management system
 EKN	[IATA] Elkins-Randolph Country, Elkins (Jennings Randolph Field), West Virginia, United States of America
@@ -5193,6 +5203,7 @@ F	[Kfz] Frankreich
 F	[MORSE] ..-.
 F/OSS	free / open source software
 F9	fine
+FA	Facharzt
 FAA	Federal Aviation Administration
 FAA	[IATA] Faranah, Guinea
 FAB	[IATA] Farnborough, England, United Kingdom of Great Britain and Northern Ireland
@@ -6517,6 +6528,7 @@ H	[Kfz:D] Region Hannover
 H	[Kfz] Ungarn
 H	[MORSE] ....
 H8	hate
+HA	Hausarzt
 HA	high availability
 HA	[Kfz:D] kreisfreie Stadt Hagen
 HAA	[IATA] Hasvik, Norway
@@ -6678,6 +6690,7 @@ HEY	[IATA] Fort Rucker (Hanchey Army Heliport), Alabama, United States of Americ
 HEZ	[IATA] Natchez (Hardy-Anders Field), Mississippi, United States of America
 HF	hardware floating point (Debian/armhf)
 HF	have fun (see also: GL, GL HF)
+HF	Herzfrequenz
 HF	Hf (PSE#72) Hafnium | Übergangsmetalle | transition metals | metalla transitionis
 HF	high frequency
 HF	hotfix
@@ -6990,6 +7003,7 @@ HSS	[IATA] Hissar, India
 HST	[IATA] Homestead (Air Force Base), Florida, United States of America
 HST	[Kfz:D] Hansestadt Stralsund im Landkreis Vorpommern-Rügen
 HST	[Kfz:D] Landkreis Stralsund
+HSTM	Hausstaubmilben(allergie)
 HSTS	HTTP Strict Transport Security
 HSUPA	High-Speed Uplink Packet Access
 HSV	[IATA] Huntsville International (Jones Field), Alabama, United States of America
@@ -7088,6 +7102,7 @@ HWO	[IATA] Hollywood (North Perry Airport), Florida, United States of America
 HWQ	[IATA] Harlowton (Wheatland County), Montana, United States of America
 HWRNG	hardware random number generator
 HWTF	he wants to fuck
+HWZ	Halbwertszeit
 HX	[Kfz:D] Kreis Höxter
 HXF	[IATA] Hartford Municipal Airport, Wisconsin, United States of America
 HXX	[IATA] Hay, New South Wales, Australia
@@ -9488,6 +9503,7 @@ LVL	level
 LVL	[IATA] Lawrenceville (Municipal Airport), Virginia, United States of America
 LVM	logical volume management
 LVM	[IATA] Livingston (Mission Field), Montana, United States of America
+LVMAX	maximum level
 LVO	[IATA] Laverton, Western Australia, Australia
 LVS	[IATA] Las Vegas Municipal Airport, New Mexico, United States of America
 LVT	local vector table
@@ -9597,6 +9613,7 @@ MADRID	M (Spanish Spelling Alphabet)
 MADT	multiple APIC descriptor table
 MAE	[IATA] Madera Municipal Airport, California, United States of America
 MAF	[IATA] Midland International Airport, Texas, United States of America
+MAG	magic
 MAG	[IATA] Madang, Papua New Guinea
 MAGR	Miniaturised Airborne GPS Receiver
 MAGT	[TZif] Asia/Magadan
@@ -10179,6 +10196,7 @@ ML	machine language
 ML	machine learning
 ML	mailing list
 ML	markup language
+ML	maximum level
 ML	maximum likelihood
 ML	[ccTLD] Mali
 ML	[ISO 3166] Mali
@@ -10372,6 +10390,7 @@ MOW	[IATA] All Airports around Moskva, Russia
 MOX	[IATA] Morris, Minnesota (Morris Municipal Airport), United States of America
 MOY	[IATA] Monterrey, Colombia
 MOZ	[IATA] Moorea, Society Islands, French Polynesia
+MP	mana points
 MP	mana pool
 MP	multi-platform
 MP	multiplayer
@@ -10383,7 +10402,10 @@ MP	[USA] Northern Mariana Islands
 MPA	Master of Public Administration
 MPA	[IATA] Mpacha, Namibia
 MPB	[IATA] Miami (Chalk Seaplane Base), Florida, United States of America
+MPC	music player daemon client (CLI)
 MPC	[IATA] Muko Muko, Indonesia
+MPD	multiple personality disorder (DID)
+MPD	music player daemon
 MPD	[IATA] Mirpur Khas, Pakistan
 MPE	[IATA] Madison (Griswold Airport), Connecticut, United States of America
 MPEG	moving picture experts group
@@ -10451,6 +10473,7 @@ MQV	[IATA] Maiquetia (Simon Bolivar), Venezuela
 MQW	[IATA] McRae (Telfair-Wheeler Airport), Georgia, United States of America
 MQX	[IATA] Makale, Ethiopia
 MQY	[IATA] Smyrna Airport, Tennessee, United States of America
+MR	magic resistance
 MR	magnetic resonance
 MR	Mister
 MR	modem ready
@@ -10698,8 +10721,13 @@ MVL	[Kfz:D] Mecklenburg-Vorpommern, Landesregierung und Landtag
 MVM	[IATA] Kayenta Airport, Arizona, United States of America
 MVN	[IATA] Mount Vernon Airport, Illinois, United States of America
 MVO	[IATA] Mongo, Chad
+MVP	market-value pay/pricing
+MVP	model view presenter (pattern)
+MVP	monster vs. player
 MVP	multi-thread virtual pipeline
 MVP	[IATA] Mitu, Colombia
+MVP	[Microsoft] most valuable professional
+MVP	[sports] most valuable player
 MVQ	[IATA] Mogilev, Mahiliow, Belarus
 MVR	[IATA] Maroua (Salak), Cameroon
 MVS	multiple virtual storage
@@ -10865,6 +10893,9 @@ N/T	no text (also: nt)
 N/T	[gc] no trade
 N000	[Oracle] Connection Broker Process
 N1	nice one
+N1	Normgröße Medikamentenpackung für Akuttherapie (10 Tage)
+N2	Normgröße Medikamentenpackung für Dauertherapie (30 Tage)
+N3	Normgröße Medikamentenpackung für Dauertherapie (100 Tage)
 N8	(good)neight
 N8	(gute) Nacht
 NA	Na (PSE#11) Natrium, Sodium | Alkalimetalle | alkali metals | metalla alcalica
@@ -10969,6 +11000,7 @@ NCH	[IATA] Nachingwea, Tanzania
 NCI	[IATA] Necocli, Colombia
 NCL	[IATA] Newcastle, England, United Kingdom of Great Britain and Northern Ireland
 NCL	[Kfz] Neukaledonien
+NCMPC	ncurses-based music player daemon client (CUI)
 NCN	[IATA] New Chenega, Alaska, United States of America
 NCO	non-commissioned officer
 NCO	numerically-controlled oscillator
@@ -12559,6 +12591,8 @@ PKU	[IATA] Pekanbaru (Simpang Tiga), Indonesia
 PKW	[IATA] Selibi Phikwe, Botswana
 PKY	[IATA] Palangkaraya (Cilik Riwut), Indonesia
 PKZ	[IATA] Pakse, Laos
+PL	perk level
+PL	player
 PL	Projektleiter
 PL	[ccTLD] Polen
 PL	[ISO 3166] Poland
@@ -12765,6 +12799,7 @@ POZ	[IATA] Poznan [Lawica], Poland
 PP	apiece
 PP	pair programming
 PP	per person
+PP	perk point
 PP	Pickel piddeling
 PP	Pinkelpause
 PPA	[IATA] Pampa (Perry Lefors Field), Texas, United States of America
@@ -13156,6 +13191,7 @@ PVI	[IATA] Paranavai, Paraná, Brazil
 PVK	[IATA] Preveza/Lefkas, Greece
 PVN	[IATA] Pleven, Bulgaria
 PVO	[IATA] Portoviejo, Ecuador
+PVP	player vs. player
 PVR	[IATA] Puerto Vallarta (Lic. Gustavo D. Ordaz), Mexico
 PVS	Praxisverwaltungssystem
 PVS	[IATA] Provideniya, Magadan, Russia
@@ -13181,6 +13217,7 @@ PWO	[IATA] Pweto, Zaire
 PWP	Plot? What Plot?
 PWP	porn without plot
 PWQ	[IATA] Pavlodar, Kazakhstan
+PWR	power
 PWR	[IATA] Port Walter (Seaplane Base), Alaska, United States of America
 PWS	(Microsoft) Personal Web Server
 PWT	[IATA] Bremerton National Airport, Washington, United States of America
@@ -14002,6 +14039,7 @@ RPOP	[Oracle] Instant Recovery Repopulation Daemon
 RPR	[IATA] Raipur, India
 RPV	[IATA] Roper Valley, Northern Territory, Australia
 RPX	[IATA] Roundup Airport, Montana, United States of America
+RR	Blutdruck
 RR	railroad
 RR	random replacement
 RR	round robin
@@ -14281,6 +14319,7 @@ SAN	[IATA] San Diego International/Lindbergh Field, California, United States of
 SAN	[Kfz:D] Landkreis Stadtsteinach
 SANTIAGO	S (British A/International Spelling Alphabet)
 SAO	[IATA] All Airports around Sao Paulo, São Paulo, Brazil
+SAO2	Sauerstoffsättigung
 SAP	ich sag’s ja: SS, SA, SAP
 SAP	Salary Appreciation Program.
 SAP	Sammelstelle Arbeitsloser Physiker
@@ -14872,6 +14911,7 @@ SKW	[IATA] Skwentna Airport, Alaska, United States of America
 SKX	[IATA] Saransk, Mordvinia, Russia
 SKY	[IATA] Griffing Sandusky Airport, Ohio, United States of America
 SKZ	[IATA] Sukkur, Pakistan
+SL	skill level
 SL	[ccTLD] Sierra Leone
 SL	[D] Saarland
 SL	[gc] signed log
@@ -15125,7 +15165,9 @@ SOY	[IATA] Stronsay, United Kingdom of Great Britain and Northern Ireland
 SP	service pack
 SP	Sozialdemokratische Partei (der Schweiz)
 SP	spelling
+SP	Spieler
 SP	stack pointer
+SP	stat point
 SP	U+0020 ␠ SPACE
 SP	[BR] São Paulo
 SP	[Kfz:D] Landkreis Speyer
@@ -15387,7 +15429,7 @@ STM	Synchronous Transport Module (SDH)
 STM	[IATA] Santarem, Pará, Brazil
 STMT	statement
 STN	[IATA] London (Stansted), United Kingdom of Great Britain and Northern Ireland
-STO	[IATA] All Airports around Stockholm, Sweden
+STO	[IATA] All airports around Stockholm, Sweden
 STO	[Kfz:D] Landkreis Stockach
 STOMITH	shoot the other member/machine in the head
 STONITH	shoot the other/offending node in the head
@@ -16476,6 +16518,7 @@ TU	Tu (PSE#69) Thulium (alt.)
 TU	[Kfz] Trengganu (veraltet)
 TUA	[IATA] Tulcan (El Rosal), Ecuador
 TUB	[IATA] Tubuai, Tubuai Islands, French Polynesia
+TUC	temps universel coordonné (UTC)
 TUC	[IATA] San Miguel Tucuman, Argentina
 TUD	[IATA] Tambacounda, Senegal
 TUE	[IATA] Tupile, Panama
@@ -16885,6 +16928,7 @@ UT	[USA] Utah
 UTA	[IATA] Mutare, Zimbabwe
 UTB	[IATA] Muttaburra, Queensland, Australia
 UTC	coordinated universal time
+UTC	temps universel coordonné
 UTC	[TZif] Antarctica/Troll
 UTD	[IATA] Nutwood Downs, Northern Territory, Australia
 UTE	[IATA] Butterworth, South Africa
@@ -17250,6 +17294,7 @@ VRRP	Virtual Router Redundancy Protocol
 VRS	[IATA] Versailles, France
 VRU	[IATA] Vryburg, South Africa
 VRY	[IATA] Vaeroy, Norway
+VS	versus (against, gegen)
 VS	[CH] de, de-CH: Wallis
 VS	[CH] fr: Valais
 VS	[CH] it: Vallese
@@ -17541,6 +17586,7 @@ WID	[IATA] Wildenrath, Germany
 WIE	[IATA] Wiesbaden Air Base, Germany
 WIFI	wireless fidelity
 WIK	[IATA] Surfdale, New Zealand
+WIL	will
 WIL	[IATA] Nairobi (Wilson), Kenya
 WIL	[Kfz:D] Landkreis Bernkastel-Wittlich
 WILHELM	W (deutsches Funkalphabet)
