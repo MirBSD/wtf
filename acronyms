@@ -3,7 +3,7 @@
 # ucase: Ä Ö Ü Ñ Á É Í Ó Ç È
 $	[MORSE] ...-..- (not ITU-R)
 $github: othyro/wtfubar refs/tags/wtfubar-2.0.0 $
-$MirOS: wtf/acronyms,v 1.508 2015/10/05 15:00:02 tg Exp $
+$MirOS: wtf/acronyms,v 1.509 2015/10/05 15:35:45 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.11 2014/09/05 22:38:17 tg Exp $
 $NetBSD: acronyms,v 1.240 2015/09/18 13:40:10 wiz Exp $
 $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
@@ -1005,6 +1005,7 @@ AS00	[Oracle] Database Apply Reader or Apply Server
 ASA	[IATA] Assab, Eritrea
 ASAIC	as soon as I can
 ASAP	as soon as possible
+ASB	Arbeitersamariterbund
 ASB	[IATA] Ashkhabad, Turkmenistan
 ASC	advanced smart cache
 ASC	ascending
