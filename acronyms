@@ -3,11 +3,11 @@
 # ucase: Ä Ö Ü Ñ Á É Í Ó Ç È
 $	[MORSE] ...-..- (not ITU-R)
 $github: othyro/wtfubar refs/tags/wtfubar-2.0.0 $
-$MirOS: wtf/acronyms,v 1.509 2015/10/05 15:35:45 tg Exp $
+$MirOS: wtf/acronyms,v 1.510 2015/10/12 17:37:34 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.11 2014/09/05 22:38:17 tg Exp $
-$NetBSD: acronyms,v 1.240 2015/09/18 13:40:10 wiz Exp $
+$NetBSD: acronyms,v 1.241 2015/10/10 22:51:05 dholland Exp $
 $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
-$NetBSD: acronyms.comp,v 1.150 2015/08/22 19:18:10 dholland Exp $
+$NetBSD: acronyms.comp,v 1.152 2015/10/11 10:02:15 mbalmer Exp $
 $NetBSD: airport,v 1.60 2015/10/02 09:01:23 mbalmer Exp $
 $OpenBSD: airport,v 1.55 2015/08/29 22:13:56 deraadt Exp $
 &	[MORSE] .-... (not ITU-R)
@@ -717,6 +717,7 @@ ALU	acronym lookup
 ALU	address lookup
 ALU	arithmetic and logical unit
 ALU	[IATA] Alula, Somalia
+ALUA	asymmetric logical unit access
 ALV	[IATA] Andorra la Vella, Andorra
 ALW	[IATA] Walla Walla Regional Airport, Washington, United States of America
 ALX	[IATA] Alexander City (Thomas C. Russell), Alabama, United States of America
@@ -2887,6 +2888,7 @@ CGJ	[IATA] Chingola, Zambia
 CGK	[IATA] Jakarta (Soekarno-Hatta International), Indonesia
 CGM	[IATA] Camiguin, Philippines
 CGN	Carrier-Grade NAT
+CGN	Köln (Cologne)
 CGN	[IATA] Konrad Adenauer, Cologne/Bonn, Germany
 CGO	[IATA] Zhengzhou, China
 CGO	[Kfz] Demokratische Republik Kongo
@@ -4191,6 +4193,7 @@ DRA	[IATA] Mercury (Desert Rock Airport), Nevada, United States of America
 DRAM	dynamic random access memory
 DRB	[IATA] Derby, Western Australia, Australia
 DRD	[IATA] Dorunda Station, Queensland, Australia
+DRE	digital rectal examination
 DRE	[IATA] Drummond Island Airport, Michigan, United States of America
 DRF	[IATA] Kenai (Drift River), Alaska, United States of America
 DRG	diagnosebezogene Fallgruppe
@@ -9456,6 +9459,7 @@ LU	[CH] it, rm: Lucerna
 LU	[ISO 3166] Luxembourg
 LU	[Kfz:D] Landkreis Ludwigshafen
 LU	[Kfz:D] Rhein-Pfalz-Kreis
+LUA	Lua Uppercase Accident
 LUA	[IATA] Lukla, Nepal
 LUB	[IATA] Lumid Pau, Guyana
 LUC	[IATA] Laucala Island, Fiji
@@ -14012,6 +14016,7 @@ ROTS	[SW] Episode III: Revenge of the Sith
 ROTW	rest of the world
 ROU	[IATA] Ruse, Bulgaria
 ROU	[Kfz] Uruguay
+ROUS	rats of unusual size
 ROV	[IATA] Rostov-on-Don (Rostov-na-Donu), Russia
 ROW	[IATA] Roswell (Industrial Air Center), New Mexico, United States of America
 ROW	[Kfz:D] Landkreis Rotenburg (Wümme)
@@ -14727,6 +14732,7 @@ SHID	slaps head in disgust
 SHIT	FSF - Shit happens -- http://www.fsf.org/fun/jokes/shit-happens.html
 SHIT	FSF - Shit part 2 -- http://www.fsf.org/fun/jokes/more-shit.html
 SHIT	FSF - Shit part 3 -- http://www.fsf.org/fun/jokes/religions.html
+SHIV	(any, often self-made, small cutting/stabbing weapon)
 SHJ	[IATA] Sharjah International Airport, [114]United Arab Emirates
 SHK	[IATA] Sehonghong, Lesotho
 SHK	[Kfz:D] Saale-Holzland-Kreis
@@ -16755,6 +16761,7 @@ UIZ	[IATA] Utica (Berz-Macomb Airport), Michigan, United States of America
 UJE	[IATA] Ujae Island, Marshall Islands
 UK	United Kingdom of Great Britain and Northern Ireland
 UK	[ccTLD] Vereinigtes Königreich
+UKB	Universitätsklinikum Bonn
 UKB	[IATA] Kobe, Japan
 UKF	[IATA] North Wilkesboro (Wilkes County), North Carolina, United States of America
 UKI	[IATA] Ukiah Municipal Airport, California, United States of America
