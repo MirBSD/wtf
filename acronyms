@@ -3,7 +3,7 @@
 # ucase: Ä Ö Ü Ñ Á É Í Ó Ç È
 $	[MORSE] ...-..- (not ITU-R)
 $github: othyro/wtfubar refs/tags/wtfubar-2.0.0 $
-$MirOS: wtf/acronyms,v 1.510 2015/10/12 17:37:34 tg Exp $
+$MirOS: wtf/acronyms,v 1.511 2015/10/14 18:27:01 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.11 2014/09/05 22:38:17 tg Exp $
 $NetBSD: acronyms,v 1.241 2015/10/10 22:51:05 dholland Exp $
 $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
@@ -3230,6 +3230,7 @@ COM	[IATA] Coleman Municipal Airport, Texas, United States of America
 COM	[Kfz] Komoren
 COM	[uTLD] commercial (Firmen)
 COMA	cache-only memory architecture
+COMC	[HP] Care of Magical Creatures
 COMO	C (Italian Spelling Alphabet)
 COMP	Komponentendiagramm
 COMSEC	Communications Security
@@ -3991,6 +3992,7 @@ DKDC	don’t know, don’t care
 DKI	[IATA] Dunk Island, Queensland, Australia
 DKIM	DomainKeys Identified Mail
 DKK	[IATA] Dunkirk Airport, New York, United States of America
+DKMS	Deutsche Knochenmarkspenderdatei
 DKMS	Dynamic Kernel Module Support Framework
 DKP	Deutsche Kommunistische Partei
 DKR	[IATA] Dakar (Yoff), Senegal
@@ -4060,11 +4062,13 @@ DMI	desktop management interface
 DMIN	Doctor of Ministry
 DMK	[IATA] Don Mueang International Airport, Bangkok, Thailand
 DML	data manipulation language
+DMLE	[HP] Department of Magical Law Enforcement
 DMN	[IATA] Deming Municipal Airport, New Mexico, United States of America
 DMO	[IATA] Sedalia Memorial Airport, Missouri, United States of America
 DMON	[Oracle] Data Guard Broker Monitor Process
 DMR	[IATA] Dhamar, Yemen
 DMS	document management system
+DMSG	Deutsche Multiple Sklerose Gesellschaft
 DMT	discrete multitone modulation
 DMT	[IATA] Diamantino, Mato Grosso, Brazil
 DMU	[IATA] Dimapur, India
@@ -4131,6 +4135,7 @@ DOK	[IATA] Donets’k Sergey Prokofiev International, Donets’k, Ukraine
 DOL	[IATA] Deauville (Saint Gatien), France
 DOLORES	D (Spanish Spelling Alphabet)
 DOM	document object model
+DOM	[HP] Department of Mysteries
 DOM	[IATA] Dominica (Melville Hall), Dominica
 DOM	[Kfz] Dominikanische Republik
 DOMODOSSOLA	D (Italian Spelling Alphabet)
@@ -4250,6 +4255,7 @@ DSM	Diagnostic and Statistical Manual of Mental Disorders
 DSM	diagnostischer und statistischer Leitfaden psychischer Störungen
 DSM	[IATA] Des Moines International, Iowa, United States of America
 DSN	delivery status notification
+DSO	Deutsche Stiftung Organtransplantation
 DSO	dynamic shared object
 DSP	digital signal processor
 DSS	decision support system
@@ -5885,6 +5891,7 @@ GBE	[IATA] Gaborone (Sir Seretse Khama), Botswana
 GBF	[IATA] Negarbo, Papua New Guinea
 GBG	[IATA] Galesburg Municipal Airport, Illinois, United States of America
 GBG	[Kfz] Guernsey
+GBH	Großbüllesheim
 GBH	[IATA] Galbraith Lake Airport, Alaska, United States of America
 GBI	[IATA] Grand Bahama Island, Bahamas
 GBJ	[IATA] Marie Galante, Guadeloupe
@@ -6265,6 +6272,7 @@ GOK	God only knows
 GOK	[IATA] Guthrie Municipal Airport, Oklahoma, United States of America
 GOL	[IATA] Gold Beach Municipal Airport, Oregon, United States of America
 GOLF	G (International Radiotelephony Spelling Alphabet)
+GOLF	gents only, ladies forbidden
 GOM	[IATA] Goma, Dem. Rep. of the Congo
 GON	[IATA] Groton (New London), Connecticut, United States of America
 GOO	[IATA] Goondiwindi, Queensland, Australia
@@ -7341,6 +7349,10 @@ IHBW	I have been wrong
 IHN	[IATA] Qishn, Yemen
 IHNFC	I have no fucking clue
 IHO	[IATA] Ihosy, Madagascar
+IHS	(cf. IHSV)
+IHS	Jesus
+IHS	Jesus hominum salvator (backronym)
+IHSV	in hōc signo vincēs
 IHU	[IATA] Ihu, Papua New Guinea
 IHV	independent hardware vendor
 IIA	[IATA] Inishmaan, Ireland
@@ -10522,6 +10534,7 @@ MS	Microsoft
 MS	Millisecond (ms)
 MS	Miss
 MS	Monitor Stations
+MS	Multiple Sklerose
 MS	[BR] Mato Grosso do Sul
 MS	[ccTLD] Montserrat
 MS	[ISO 3166] Montserrat
@@ -12502,12 +12515,12 @@ PHT	[IATA] Paris (Henry County Airport), Tennessee, United States of America
 PHU	[IATA] Phu Vinh, Vietnam
 PHW	[IATA] Phalaborwa, South Africa
 PHX	[IATA] Phoenix Sky Harbor International, Arizona, United States of America
-PI	3.141592653589793238462643383279502884197…
 PI	plaque index (dent.)
 PI	Private Investigator
 PI	[BR] Piauí
 PI	[Kfz:D] Kreis Pinneberg
 PI	[Kfz] Philippinen (veraltet)
+PI	π ≈ 3.141592653589793238462643383279502884197…
 PIA	[IATA] Greater Peoria Regional Airport, Illinois, United States of America
 PIB	[IATA] Laurel/Hattiesburg (Regional Airport), Mississippi, United States of America
 PIC	position independent code
@@ -15197,6 +15210,7 @@ SPDIF	cf. S/PDIF
 SPE	signal processing engine (powerpcspe)
 SPE	synergistic processing element (powerpc-spu AKA cell)
 SPE	[IATA] Sepulot, Malaysia
+SPEW	[HP] Society for the Promotion of Elfish Welfare
 SPF	Sender Permitted From
 SPF	Sender Policy Framework
 SPF	sun protection factor
@@ -16929,6 +16943,7 @@ USR	Unix Source Repository
 USR	Unix System Resources
 USSPACECOM	United States Space Command
 UST	[IATA] St. Augustine Airport, Florida, United States of America
+USV	unterbrechungsfreie Stromversorgung (UPS)
 USWC	uncacheable speculative write combining
 UT	unit test
 UT	universal time
@@ -17593,6 +17608,7 @@ WIC	[IATA] Wick, United Kingdom of Great Britain and Northern Ireland
 WID	[IATA] Wildenrath, Germany
 WIE	[IATA] Wiesbaden Air Base, Germany
 WIFI	wireless fidelity
+WIG	[gc] Wherigo
 WIK	[IATA] Surfdale, New Zealand
 WIL	will
 WIL	[IATA] Nairobi (Wilson), Kenya
