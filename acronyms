@@ -3,7 +3,7 @@
 # ucase: Ä Ö Ü Ñ Á É Í Ó Ç È
 $	[MORSE] ...-..- (not ITU-R)
 $github: othyro/wtfubar refs/tags/wtfubar-2.0.0 $
-$MirOS: wtf/acronyms,v 1.511 2015/10/14 18:27:01 tg Exp $
+$MirOS: wtf/acronyms,v 1.512 2015/10/18 18:30:28 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.11 2014/09/05 22:38:17 tg Exp $
 $NetBSD: acronyms,v 1.241 2015/10/10 22:51:05 dholland Exp $
 $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
@@ -755,6 +755,7 @@ AMJ	[IATA] Almenara, Minas Gerais, Brazil
 AMK	[IATA] Durango (Animas Air Park), Colorado, United States of America
 AML	[IATA] Puerto Armuella, Panama
 AMM	[IATA] Amman, Jordan
+AMMO	ammunition
 AMN	[IATA] Alma (Gratiot Community Airport), Michigan, United States of America
 AMO	[IATA] Mao, Chad
 AMOL	a mountain of love
@@ -1006,7 +1007,7 @@ AS00	[Oracle] Database Apply Reader or Apply Server
 ASA	[IATA] Assab, Eritrea
 ASAIC	as soon as I can
 ASAP	as soon as possible
-ASB	Arbeitersamariterbund
+ASB	Arbeiter-Samariter-Bund
 ASB	[IATA] Ashkhabad, Turkmenistan
 ASC	advanced smart cache
 ASC	ascending
@@ -1022,6 +1023,7 @@ ASE	[IATA] Pitkin County/Sardy Field, Aspen, Colorado, United States of America
 ASEAN	Association of Southeast Asian Nations
 ASF	The Apache™ Foundation
 ASF	[IATA] Astrakhan, Russia
+ASFINAG	Autobahnen- und Schnellstraßen-Finanzierungs-Aktiengesellschaft
 ASG	[IATA] Ashburton, New Zealand
 ASH	[IATA] Nashua (Boire Field), New Hampshire, United States of America
 ASI	[IATA] Ascension Island, St. Helena
@@ -1051,6 +1053,7 @@ ASPM	active state power management
 ASQ	automated software quality
 ASQ	[IATA] Austin, Nevada (Austin Airport), United States of America
 ASR	address space register
+ASR	automated speech recognition
 ASR	[IATA] Kayseri, Turkey
 ASS	Acetylsalicylsäure („Aspirin“)
 ASS	After Sales Support
@@ -1807,6 +1810,7 @@ BKF	[Oracle] backup file
 BKH	[IATA] Kekana, Kauai, Hawaii, United States of America
 BKI	[IATA] Kota Kinabalu International, Kota Kinabalu, Sabah, Malaysia
 BKJ	[IATA] Boke, Guinea
+BKK	Betriebskrankenkassen
 BKK	[IATA] Suvarnabhumi Airport, Bangkok, Thailand
 BKL	[IATA] Bruke Lakefront, Cleveland, Ohio, United States of America
 BKM	[IATA] Bakalalan, Sarawak, Malaysia
@@ -1924,6 +1928,7 @@ BMSC	Bachelor of Medical Science
 BMT	[IATA] Beaumont Municipal Airport, Texas, United States of America
 BMU	Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit
 BMU	[IATA] Bima, Indonesia
+BMUB	Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit
 BMUS	Bachelor of Music
 BMV	[IATA] Ban Me Thout, Vietnam
 BMVBS	Bundesministerium für Verkehr, Bau und Stadtentwicklung
@@ -2393,6 +2398,7 @@ BWQ	[IATA] Brewarrina, New South Wales, Australia
 BWS	[IATA] Blaine Municipal Airport, Washington, United States of America
 BWT	[IATA] Burnie (Wynyard), Tasmania, Australia
 BWU	[IATA] Bankstown, New South Wales, Australia
+BWV	Bach-Werke-Verzeichnis
 BWV	[IATA] Banmethuot, Vietnam
 BWX	byte/word extension
 BWY	[IATA] Bentwaters (Suffolk), England, United Kingdom of Great Britain and Northern Ireland
@@ -2542,6 +2548,8 @@ CAML	Collaborative Application Markup Language
 CAN	U+0018 ␘ CANCEL
 CAN	[IATA] Guangzhou (Baiyun), China
 CAO	[IATA] Clayton Municipal Airpark, New Mexico, United States of America
+CAP	capabilities
+CAP	capture
 CAP	[IATA] Cap Haitien, Haiti
 CAPTCHA	Completely Automated Public Turing test to tell Computers and Humans Apart
 CAQ	[IATA] Caucasia, Colombia
@@ -3198,6 +3206,7 @@ CO	[gc] cache owner
 CO	[ISO 3166] Colombia
 CO	[Kfz:D] kreisfreie Stadt und Landkreis Coburg
 CO	[Kfz] Kolumbien
+CO	[Munzee] captured-on
 CO	[USA] Colorado
 COA	[IATA] Columbia Airport, California, United States of America
 COB	close of business [day]
@@ -3240,6 +3249,7 @@ CONTD	continued
 COO	Chief Operating Officer
 COO	[IATA] Cotonou (Cadjehoun), Benin
 COOP	[sTLD] cooperatives (Gesellschaften)
+COPD	chronic obstructive pulmonary disease
 COQ	[IATA] Conquista, Minas Gerais, Brazil
 COR	[IATA] Cordoba (Pajas Blancas), Argentina
 CORBA	common object request broker architecture
@@ -3658,6 +3668,10 @@ D	[Kfz] Deutsche Demokratische Republik (veraltet)
 D	[Kfz] Deutschland
 D	[MORSE] -..
 D&R	duck and run
+D-D	debian-devel@lists.debian.org
+D-D-A	debian-devel-announce@lists.debian.org
+D-U	debian-user@lists.debian.org
+D.O	debian.org
 D/A	digital to analog
 D/B/A	doing business as
 D/L	download
@@ -3860,6 +3874,8 @@ DEN	[IATA] Denver International, Colorado, United States of America
 DENMARK	D (British A/International Spelling Alphabet)
 DEO	[IATA] Dearborn Helistop, Michigan, United States of America
 DEP	data execution prevention
+DEP	department
+DEP	deploy
 DER	ASN.1 distinguished encoding rules
 DER	[IATA] Derim, Papua New Guinea
 DERP	Debian Emergency Response Person
@@ -4860,6 +4876,8 @@ ENETRESET	(#52) Network dropped connection on reset
 ENETUNREACH	(#51) Network is unreachable
 ENF	[IATA] Enontekio, Finland
 ENFILE	(#23) Too many open files in system
+ENFJ	[Myers-Briggs personality type] Extraversion (relating to others) iNtuition (information taking) Feeling (decision making) Judging (life order)
+ENFP	[Myers-Briggs personality type] Extraversion (relating to others) iNtuition (information taking) Feeling (decision making) Perceiving (life order)
 ENG	enginerring
 ENG	English
 ENGD	Doctor of Engineering
@@ -4899,6 +4917,8 @@ ENRIQUE	E (Spanish Spelling Alphabet)
 ENS	[IATA] Enschede, Netherlands
 ENT	Star Trek: Enterprise
 ENT	[IATA] Enitewok, Marshall Islands
+ENTJ	[Myers-Briggs personality type] Extraversion (relating to others) iNtuition (information taking) Thinking (decision making) Judging (life order)
+ENTP	[Myers-Briggs personality type] Extraversion (relating to others) iNtuition (information taking) Thinking (decision making) Perceiving (life order)
 ENU	[IATA] Enugu, Nigeria
 ENV	[IATA] Wendover Airport, Utah, United States of America
 ENW	[IATA] Kenosha Municipal Airport, Wisconsin, United States of America
@@ -5022,6 +5042,8 @@ ESDRAM	enhanced synchronous dynamic random access memory
 ESE	Ostsüdost, east-south-east
 ESE	[IATA] Ensenada (El Cipres), Mexico
 ESF	[IATA] Alexandria Esler Regional Airport, Louisiana, United States of America
+ESFJ	[Myers-Briggs personality type] Extraversion (relating to others) Sensing (information taking) Feeling (decision making) Judging (life order)
+ESFP	[Myers-Briggs personality type] Extraversion (relating to others) Sensing (information taking) Feeling (decision making) Perceiving (life order)
 ESG	[IATA] Mariscal Estigarribia, Paraguay
 ESGN	Electrically Suspended Gyro Navigator
 ESH	[IATA] Shoreham, United Kingdom of Great Britain and Northern Ireland
@@ -5079,6 +5101,8 @@ EST	[TZif] US/Eastern
 EST	[TZif] US/Michigan
 ESTALE	(#70) Stale NFS file handle
 ESTEC	European Space Research and Technology Centre
+ESTJ	[Myers-Briggs personality type] Extraversion (relating to others) Sensing (information taking) Thinking (decision making) Judging (life order)
+ESTP	[Myers-Briggs personality type] Extraversion (relating to others) Sensing (information taking) Thinking (decision making) Perceiving (life order)
 ESW	[IATA] Easton State Airport, Washington, United States of America
 ESW	[Kfz:D] Landkreis Eschwege
 ESW	[Kfz:D] Werra-Meißner-Kreis
@@ -5237,6 +5261,7 @@ FAN	Ventilator
 FAN	[IATA] Farsund (Lista), Norway
 FAN	[Oracle] failover announcement
 FAN	[Oracle] fast application notification
+FANFIC	fanfiction
 FAO	[IATA] Faro, Portugal
 FAQ	frequently asked question
 FAQ	[IATA] Fitiuta Airport, American Samoa
@@ -5833,6 +5858,7 @@ G8	[Schule DE] Gymnasialer Bildungszweig in 8 Schuljahren (Turbo-Abitur)
 G9	[Schule DE] Gymnasialer Bildungszweig in 9 Schuljahren
 GA	Ga (PSE#31) Gallium | Erdmetalle (Borgruppe) | boron group
 GA	General-Abonnement
+GA	Gesamtausgabe
 GA	go ahead
 GA	Ground Antennas
 GA	[ccTLD] Gabun
@@ -7473,7 +7499,9 @@ INE	[IATA] Chinde, Mozambique
 INF	Technische Informatica
 INF	[IATA] In Guezzam, Algeria
 INFAS	Institut für angewandte Sozialwissenschaft GmbH
+INFJ	[Myers-Briggs personality type] Introversion (relating to others) iNtuition (information taking) Feeling (decision making) Judging (life order)
 INFO	[uTLD] information
+INFP	[Myers-Briggs personality type] Introversion (relating to others) iNtuition (information taking) Feeling (decision making) Perceiving (life order)
 ING	[altTLD] ?
 ING	[IATA] Ago, Argentina
 INGRESS	inbound network traffic
@@ -7498,6 +7526,8 @@ INT	intelligence
 INT	interrupt
 INT	[IATA] Winston-Salem Smith Reynolds, North Carolina, United States of America
 INT	[sTLD] international (multinationale Organisationen)
+INTJ	[Myers-Briggs personality type] Introversion (relating to others) iNtuition (information taking) Thinking (decision making) Judging (life order)
+INTP	[Myers-Briggs personality type] Introversion (relating to others) iNtuition (information taking) Thinking (decision making) Perceiving (life order)
 INU	[IATA] Nauru International, Nauru
 INV	[IATA] Inverness, Scotland, United Kingdom of Great Britain and Northern Ireland
 INVAL	input value
@@ -7637,6 +7667,8 @@ ISD	international subscriber dialing (now IDD)
 ISD	[IATA] Iscuande, Colombia
 ISDN	integrated services digital network
 ISDS	Investor-Staat-Schiedsverfahren
+ISFJ	[Myers-Briggs personality type] Introversion (relating to others) Sensing (information taking) Feeling (decision making) Judging (life order)
+ISFP	[Myers-Briggs personality type] Introversion (relating to others) Sensing (information taking) Feeling (decision making) Perceiving (life order)
 ISG	[IATA] Ishigaki, Japan
 ISH	[IATA] Ischia, Italy
 ISI	inter-symbol interference
@@ -7674,7 +7706,9 @@ IST	[TZif] Asia/Tel_Aviv
 IST	[TZif] Eire (DST)
 IST	[TZif] Europe/Dublin (DST)
 IST	[TZif] Israel
+ISTJ	[Myers-Briggs personality type] Introversion (relating to others) Sensing (information taking) Thinking (decision making) Judging (life order)
 ISTM	it seems to me
+ISTP	[Myers-Briggs personality type] Introversion (relating to others) Sensing (information taking) Thinking (decision making) Perceiving (life order)
 ISTR	I seem to recall
 ISTR	I seem to remember
 ISUP	ISDN User Part
@@ -8686,6 +8720,7 @@ KUW	[IATA] Kamusi, Papua New Guinea
 KUY	[IATA] Uyak Seaplane Base, Alaska, United States of America
 KUZ	[IATA] Kusan Air Base, South Korea
 KV	Kreisverband
+KV	Köchelverzeichnis (Mozart)
 KVA	kernel virtual address
 KVA	[IATA] Kavala (Meags Alexandros), Greece
 KVB	keine verläßliche Busverbindung
@@ -8786,6 +8821,7 @@ L	[Kfz:D] kreisfreie Stadt Leipzig und Landkreis Leipziger Land
 L	[Kfz:D] Lahn-Dill-Kreis, Zulassungsstelle in Wetzlar, Nebenstelle in Dillenburg
 L	[Kfz] Luxemburg
 L	[MORSE] .-..
+L.D.O	lists.debian.org
 L000	[Oracle] Pooled Server Process
 L1	Link 1
 L1	OSI Layer 1 (physical)
@@ -8900,6 +8936,7 @@ LBV	[IATA] Libreville (Leon M’Ba), Gabon
 LBW	[IATA] Longbawan, Indonesia
 LBY	[IATA] La Baule, France
 LBZ	[Kfz:D] Landkreis Lübz
+LC	lethale Konzentration
 LC	[ccTLD] St. Lucia
 LC	[gc] locationless cache (usually tracked at TC)
 LC	[ISO 3166] St Lucia
@@ -8934,10 +8971,12 @@ LCR	[IATA] La Chorrera, Colombia
 LCS	[IATA] Las Canas, Costa Rica
 LCV	[IATA] Lucca, Italy
 LCY	[IATA] London City, London, United Kingdom of Great Britain and Northern Ireland
+LD	lethale Dosis
 LD	Low-Dynamic
 LD	[Kfz:D] Landkreis Landau in der Pfalz
 LD	[Kfz:D] Landkreis Landau-Bad Bergzabern
 LD	[Kfz:D] Landkreis Südliche Weinstraße
+LD50	mittlere lethale Dosis
 LDA	local delivery agent
 LDA	[IATA] Malda, India
 LDAP	Lightweight Directory Access Protocol (not lightweight)
@@ -12120,7 +12159,7 @@ OWL	Ordinary Wizarding Level
 OWL	Web Ontology Language
 OWTTE	or words to that effect
 OWX	[IATA] Ottawa (Putnam County), Ohio, United States of America
-OX	[gc] www.opencaching.com (Garmin, *not* OC)
+OX	[gc] former Garmin cache site mistakenly named opencaching, but no relation to the OpenCaching network
 OXC	[IATA] Waterbury-Oxford Airport, Connecticut, United States of America
 OXD	[IATA] Oxford (Miami University Airport), Ohio, United States of America
 OXF	[IATA] Oxford, England, United Kingdom of Great Britain and Northern Ireland
@@ -12163,6 +12202,7 @@ P	[Kfz] Portugal
 P	[MORSE] .--.
 P&P	Philosophy and Procedures
 P-CODE	Precision Code
+P.D.O	planet.debian.org
 P000	[Oracle] Parallel Query Slave Process
 P2P	PCI to PCI
 P2P	peer to peer
@@ -16716,6 +16756,7 @@ UCZ	[IATA] Uchiza, Peru
 UDA	[IATA] Undarra, Australia
 UDD	[IATA] Palm Springs (Bermuda Dunes), California, United States of America
 UDDI	Universal Description, Discovery, and Integration protocol
+UDE	[fanfic] unauthorised death event
 UDI	unilateral declaration of independence
 UDI	[IATA] Uberlandia, Minas Gerais, Brazil
 UDINE	U (Italian Spelling Alphabet)
@@ -17682,6 +17723,7 @@ WMB	[IATA] Warrnambool, Victoria, Australia
 WMC	[IATA] Winnemucca, Nevada, United States of America
 WMD	weapons of mass destruction
 WMD	[IATA] Mandabe, Madagascar
+WME	Waze map editor
 WME	[IATA] Warramboor, Western Australia, Australia
 WMF	Wiedersehen macht Freude
 WMF	Windows Metafile
@@ -18133,6 +18175,7 @@ XXX	[sTLD] sex (erotische Inhalte)
 XYA	[IATA] Yandina, Russel Is., Solomon Islands
 XYE	[IATA] Ye, Myanmar
 XYT	[IATA] Montaudran, Toulouse, France
+XYZ	[sTLD] (used by spammers)
 XZA	[IATA] Zabre, Burkina Faso
 XZB	[IATA] Casselman / Via Rail Service, Ontario, Canada
 XZC	[IATA] Glencoe / Via Rail Service, Ontario, Canada
@@ -18188,6 +18231,7 @@ YAR	[Kfz] Nordjemen (veraltet)
 YAS	[IATA] Kangirsuk, Quebec, Canada
 YAST	Yet another Setup Tool
 YAT	[IATA] Attawapiskat, Ontario, Canada
+YATTFF	[fanfic] yet another time-travelling fan fiction
 YAU	[IATA] Liverpool, Nova Scotia, Canada
 YAV	[IATA] Miners Bay, British Columbia, Canada
 YAWPFAPR	you are welcome; please file a problem report
