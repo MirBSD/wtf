@@ -1,10 +1,10 @@
 #!/bin/mksh
-# $MirOS: wtf/wtf,v 1.28 2015/05/30 20:24:40 tg Exp $
+# $MirOS: wtf/wtf,v 1.29 2015/10/21 20:23:23 tg Exp $
 # $NetBSD: wtf,v 1.7 2000/11/21 00:18:52 soren Exp $
 #-
 # Copyright © 2002, 2003, 2004, 2006, 2007, 2008, 2010, 2011,
 #	      2012, 2014, 2015
-#	Thorsten “mirabilos” Glaser <tg@mirbsd.org>
+#	mirabilos <m@mirbsd.org>
 #
 # Provided that these terms and disclaimer and all copyright notices
 # are retained or reproduced in an accompanying document, permission
@@ -126,6 +126,7 @@ fi
 rv=0
 for target in "$@"; do
 	typeset -u tgsrch=$target
+	[[ $tgsrch = *[A-Z].* ]] && tgsrch=${tgsrch//.}
 	tgsrch=${tgsrch//ä/Ä}
 	tgsrch=${tgsrch//ö/Ö}
 	tgsrch=${tgsrch//ü/Ü}

@@ -1,8 +1,8 @@
 #!/usr/bin/perl -T
-my $rcsid = '$MirOS: wtf/www/wtf.cgi,v 1.15 2015/07/19 11:15:15 tg Exp $';
+my $rcsid = '$MirOS: wtf/www/wtf.cgi,v 1.16 2015/10/21 20:23:13 tg Exp $';
 #-
 # Copyright © 2012, 2014, 2015
-#	mirabilos <tg@mirbsd.org>
+#	mirabilos <m@mirbsd.org>
 #
 # Provided that these terms and disclaimer and all copyright notices
 # are retained or reproduced in an accompanying document, permission
@@ -89,6 +89,7 @@ if ($query ne "") {
 	my $enc = tohtml($query);
 
 	$query =~ y/a-z/A-Z/;
+	$query =~ y/.//d if $query =~ /[A-Z]\./;
 	$query =~ s/ä/Ä/g;
 	$query =~ s/ö/Ö/g;
 	$query =~ s/ü/Ü/g;

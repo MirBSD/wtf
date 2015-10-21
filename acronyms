@@ -3,7 +3,7 @@
 # ucase: Ä Ö Ü Ñ Á É Í Ó Ç È
 $	[MORSE] ...-..- (not ITU-R)
 $github: othyro/wtfubar refs/tags/wtfubar-2.0.0 $
-$MirOS: wtf/acronyms,v 1.513 2015/10/21 16:24:59 tg Exp $
+$MirOS: wtf/acronyms,v 1.514 2015/10/21 20:23:16 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.11 2014/09/05 22:38:17 tg Exp $
 $NetBSD: acronyms,v 1.241 2015/10/10 22:51:05 dholland Exp $
 $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
@@ -823,6 +823,7 @@ ANQ	[IATA] Angola (Tri-State Steuben County), Indiana, United States of America
 ANR	[IATA] Antwerp (Deurne), Belgium
 ANS	[IATA] Andahuaylas, Peru
 ANSI	American National Standards Institute
+ANTACID	stomach acid neutraliser
 ANTON	A (deutsches Funkalphabet)
 ANTONIO	A (Spanish Spelling Alphabet)
 ANU	[IATA] Antigua, Leeward Islands
@@ -1048,7 +1049,7 @@ ASMB	[Oracle] ASM Background Process
 ASN	Abstract Syntax Notation
 ASN	autonomous system number
 ASN	[IATA] Talladega Municipal Airport, Alabama, United States of America
-ASN.1	Abstract Syntax Notation One
+ASN1	Abstract Syntax Notation One
 ASO	[IATA] Asosa, Ethiopia
 ASP	[IATA] Alice Springs, Northern Territory, Australia
 ASPM	active state power management
@@ -1141,6 +1142,8 @@ AU	[Kfz:D] Landkreis Aue
 AU	[Kfz:D] Westerzgebirgskreis
 AUA	[IATA] Oranjestad (Queen Beatrix Int. Airport), Aruba
 AUB	please (dutch: alstublieft / als het u belieft)
+AUC	area under the curve
+AUC	area under the [plasma,serum concentration time] curve
 AUC	[IATA] Santiago Perez, Arauca, Colombia
 AUD	[IATA] Augustus Downs, Queensland, Australia
 AUE	[IATA] Aub Rudeis, Egypt
@@ -2494,7 +2497,6 @@ C	[Kfz:D] Landkreis Chemnitz
 C	[Kfz] Kuba
 C	[MORSE] -.-.
 C++	CFrustFrust
-C.P.	ceteris paribus
 C/A	Coarse Acquisition-code
 C/N	Carrier to Noise Ratio
 C/P	copy/paste
@@ -3677,7 +3679,6 @@ D&R	duck and run
 D-D	debian-devel@lists.debian.org
 D-D-A	debian-devel-announce@lists.debian.org
 D-U	debian-user@lists.debian.org
-D.O	debian.org
 D/A	digital to analog
 D/B/A	doing business as
 D/L	download
@@ -4431,7 +4432,6 @@ E	[Kfz:D] kreisfreie Stadt Essen
 E	[Kfz] Spanien
 E	[MORSE] .
 E-XER	extended XML encoding rules
-E.G.	exempli gratia (for example)
 E000	[Oracle] EMON Slave Process
 E2BIG	(#7) Argument list too long
 E2E	E2E encryption (Gajim)
@@ -4621,6 +4621,7 @@ EDV	Elektronische Datenverarbeitung
 EDW	[IATA] Edwards (Air Force Base), California, United States of America
 EDWARD	E (New York Police Spelling Alphabet; RAF 1942/1943 Spelling Alphabet; Telecom B Spelling Alphabet)
 EE	electrical engineering
+EE	erosive esophagitis
 EE	[ccTLD] Estland
 EE	[ISO 3166] Estonia
 EE	[Kfz:D] Landkreis Elbe-Elster
@@ -6054,6 +6055,7 @@ GEOINFODBW	Geoinformationsdienst der Bundeswehr
 GEORGE	G (British Forces 1952 Spelling Alphabet; New York Police Spelling Alphabet; RAF 1942/1943 Spelling Alphabet; Telecom B Spelling Alphabet)
 GER	[IATA] Nueva Gerona, Cuba
 GER	[Kfz:D] Landkreis Germersheim
+GERD	gastroesophageal reflux disease
 GERONA	G (Spanish Spelling Alphabet)
 GES	[IATA] General Santos, Philippines
 GET	[IATA] Geraldton, Western Australia, Australia
@@ -7195,8 +7197,6 @@ I	[Kfz] Italien
 I	[MORSE] ..
 I C	I see
 I LUNGA	J (Italian Spelling Alphabet)
-I.D.R.	in der Regel
-I.E.	id est (it is, that is)
 I/O	input / output
 I000	[Oracle] Disk and Tape I/O Slave Process
 I18N	internationalisation
@@ -8110,6 +8110,7 @@ JSR	jump to subroutine
 JSR	[IATA] Jessore, Bangladesh
 JSS	[IATA] Spetsai Island, Greenland
 JSSE	Java Secure Socket Extension
+JST	Japan Solderless Terminal Mfg. Co.
 JST	[IATA] Johnstown (Cambria County), Pennsylvania, United States of America
 JSU	[IATA] Sukkertoppen, Greenland
 JSV	[IATA] Sunnyvale Airport, California, United States of America
@@ -8836,7 +8837,6 @@ L	[Kfz:D] kreisfreie Stadt Leipzig und Landkreis Leipziger Land
 L	[Kfz:D] Lahn-Dill-Kreis, Zulassungsstelle in Wetzlar, Nebenstelle in Dillenburg
 L	[Kfz] Luxemburg
 L	[MORSE] .-..
-L.D.O	lists.debian.org
 L000	[Oracle] Pooled Server Process
 L1	Link 1
 L1	OSI Layer 1 (physical)
@@ -9007,6 +9007,7 @@ LDK	[IATA] Lidkoping, Sweden
 LDK	[Kfz:D] Lahn-Dill-Kreis
 LDM	[IATA] Ludington (Mason County), Michigan, United States of America
 LDN	[IATA] Lamidanda, Nepal
+LDO	lists.debian.org
 LDO	[IATA] Ladouanie, Suriname
 LDR	light-dependent resistor
 LDR	[IATA] Lodar, Yemen
@@ -9569,6 +9570,7 @@ LV	[Kfz] Lettland
 LVA	[IATA] Laval, France
 LVB	[IATA] Santana do Livramento, Rio Grande do Sul, Brazil
 LVD	[IATA] Lime Village Airport, Alaska, United States of America
+LVD	[SCSI] low voltage differential
 LVG	Landesverfassungsgericht
 LVI	[IATA] Livingstone (Maramba), Zambia
 LVK	[IATA] Livermore Municipal Airport, California, United States of America
@@ -10038,6 +10040,7 @@ MFC	[IATA] Mafeteng, South Africa
 MFD	[IATA] Mansfield Lahm Municipal Airport, Ohio, United States of America
 MFE	[IATA] Miller International Airport, Texas, United States of America
 MFF	[IATA] Moanda, Gabon
+MFG	manufacturing
 MFG	mit freundlichen Grüßen
 MFG	with friendly greetings
 MFG	[IATA] Muzaffarabad, Pakistan
@@ -11131,6 +11134,7 @@ NDV	[IATA] Washington (Anacostia Navy Heliport), District of Columbia, United St
 NDY	[IATA] Sanday, Orkney Islands, Scotland, United Kingdom of Great Britain and Northern Ireland
 NDZ	[IATA] Nordholz, Germany
 NE	Ne (PSE#10) Neon | Edelgase | noble gases | gasia nobilia
+NE	neuroendocrine
 NE	Nordost, north-east
 NE	numeric error
 NE	[ccTLD] Niger
@@ -12228,7 +12232,6 @@ P	[Kfz] Portugal
 P	[MORSE] .--.
 P&P	Philosophy and Procedures
 P-CODE	Precision Code
-P.D.O	planet.debian.org
 P000	[Oracle] Parallel Query Slave Process
 P2P	PCI to PCI
 P2P	peer to peer
@@ -12416,6 +12419,7 @@ PDL	[IATA] Ponta Delgada (Sao Miguel), Azores, Portugal
 PDM	pulse-duration modulation
 PDN	pull-down network
 PDN	[IATA] Parndana, South Australia, Australia
+PDO	planet.debian.org
 PDO	[IATA] Pendopo, Indonesia
 PDOP	Position Dilution of Precision
 PDP	page descriptor page
@@ -12900,6 +12904,7 @@ PPF	[IATA] Parsons (Tri-City Airport), Kansas, United States of America
 PPG	[IATA] Pago Pago, Tutuila Island, American Samoa
 PPH	[IATA] Peraitepuys, Venezuela
 PPI	pixels per inch
+PPI	proton pump inhibitor
 PPI	[IATA] Portpirie, South Australia, Australia
 PPJ	[IATA] Pulau (Langkawi), Malaysia
 PPK	[IATA] Petropavlovsk, Kamchatka, Russia
@@ -14339,7 +14344,6 @@ S	[Kfz:D] Stadtkreis Stuttgart
 S	[Kfz] Schweden
 S	[MORSE] ...
 S&R	search and rescue
-S.M.O.M.	[Kfz] Malteserorden (nicht offiziell)
 S/MIME	Secure/Multipurpose Internet Mail Extensions
 S/N	Signal to Noise Ratio
 S/PDIF	Sony/Philips Digital Interface Format
@@ -14530,6 +14534,7 @@ SC	[Kfz:D] Landkreis Schwabach
 SC	[USA] South Carolina
 SCA	source code analyzer
 SCA	[IATA] Santa Catalina, Colombia
+SCA	[SCSI] single connector attachment
 SCADA	supervisory control and data acquisition
 SCADC	Standard Central Air Data Computer
 SCAS	Site Central Authorisation Service
@@ -14657,6 +14662,7 @@ SE	[ccTLD] Schweden
 SE	[ISO 3166] Sweden
 SE	[Kfz:D] Kreis Segeberg
 SE	[Kfz] Irland (veraltet)
+SE	[SCSI] single-ended
 SEA	[IATA] Seattle-Tacoma International, Washington, United States of America
 SEB	[IATA] Sebha, Libya
 SEB	[Kfz:D] Landkreis Sebnitz
@@ -16807,6 +16813,7 @@ UDO	ultra density optical (storage)
 UDO	[IATA] Udomxay, Laos
 UDP	User Datagram Protocol
 UDR	[IATA] Udaipur, India
+UDS	unscheduled DNA synthesis
 UE	user equipment
 UE	[Kfz:D] Landkreis Uelzen
 UEE	UE Error
@@ -18829,7 +18836,6 @@ Z	Spanish Spelling Alphabet: ZARAGOZA
 Z	[Kfz:D] Landkreis Zwickau
 Z	[Kfz] Sambia
 Z	[MORSE] --..
-Z.B.	zum Beispiel
 ZA	[ccTLD] Südafrika
 ZA	[ISO 3166] South Africa
 ZA	[Kfz] Südafrika
