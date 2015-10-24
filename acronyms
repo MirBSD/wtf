@@ -3,7 +3,7 @@
 # ucase: Ä Ö Ü Ñ Á É Í Ó Ç È
 $	[MORSE] ...-..- (not ITU-R)
 $github: othyro/wtfubar refs/tags/wtfubar-2.0.0 $
-$MirOS: wtf/acronyms,v 1.514 2015/10/21 20:23:16 tg Exp $
+$MirOS: wtf/acronyms,v 1.515 2015/10/24 19:53:52 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.11 2014/09/05 22:38:17 tg Exp $
 $NetBSD: acronyms,v 1.241 2015/10/10 22:51:05 dholland Exp $
 $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
@@ -88,6 +88,7 @@ $OpenBSD: airport,v 1.55 2015/08/29 22:13:56 deraadt Exp $
 ..--..	[MORSE] ‘?’
 ..-.	[MORSE] F
 ..-..	[MORSE] É, é, Đ, đ, Ę, ę
+...	U+2026 … HORIZONTAL ELLIPSIS
 ...	[MORSE] S
 ...-	[MORSE] V
 ...--	[MORSE] 3
@@ -351,6 +352,7 @@ ACST	[TZif] Australia/South
 ACST	[TZif] Australia/Yancowinna
 ACT	active
 ACT	Aktivitätsdiagramm
+ACT	American college testing
 ACT	[AUS] Australian Capital Territory
 ACT	[IATA] Waco Regional Airport, Texas, United States of America
 ACT	[TZif] America/Eirunepe
@@ -1751,7 +1753,7 @@ BIN	[IATA] Bamiyan, Afghanistan
 BIN	[Kfz:D] Landkreis Bingen
 BIND	Berkeley Internet Name Daemon
 BIND	Buggy Internet Name Dæmon
-BINNMU	binNMU, binary non-maintainer upload from unchanged sources
+BINNMU	binNMU, binary non-maintainer upload (rebuild) from unchanged sources
 BIO	[IATA] Sondica, Bilbao, Spain
 BIOS	Basic Input/Output System
 BIOS	built-in operating system
@@ -4100,6 +4102,7 @@ DMT	[IATA] Diamantino, Mato Grosso, Brazil
 DMU	[IATA] Dimapur, India
 DMUP	Debian Machine Usage Policy
 DMUS	Doctor of Music
+DMV	Division of Motor Vehicles
 DMZ	demilitarised zone
 DN	Diploma of Nursing
 DN	Distinguished Name
@@ -5393,6 +5396,7 @@ FF	Final Fantasy
 FF	Form Feed (U+000C)
 FF	[gc] first finder’s code (TC)
 FF	[Kfz:D] kreisfreie Stadt Frankfurt (Oder)
+FFA	free for all
 FFA	[IATA] Kill Devil Hills (First Flight Airport), North Carolina, United States of America
 FFB	[Kfz:D] Landkreis Fürstenfeldbruck
 FFC	[IATA] Peachtree City Airport-Falcon Field, Georgia, United States of America
@@ -14461,6 +14465,7 @@ SAS	[IATA] Salton City (Sea Airport), California, United States of America
 SASD	structured analysis, structured design
 SASI	Shugart Associates System Interface (antecessor to SCSI)
 SASL	simple authentication [and] security layer (neither simple nor secure)
+SAT	scholastic aptitude test
 SAT	[IATA] San Antonio International, Texas, United States of America
 SATA	satan
 SATA	serial advanced technology attachment
@@ -16935,6 +16940,7 @@ UNECE	United Nations Economic Commission for Europe
 UNG	[IATA] Kiunga, Papua New Guinea
 UNI	Ente Nazionale Italiano di Unificazione
 UNI	one-
+UNI	Universität
 UNI	[IATA] Union Island, St. Vincent and the Grenadines
 UNIFORM	U (International Radiotelephony Spelling Alphabet)
 UNINFO	Ente Federato all’UNI per Tecnologie Informatiche e loro applicazioni
