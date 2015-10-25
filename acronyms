@@ -3,7 +3,7 @@
 # ucase: Ä Ö Ü Ñ Á É Í Ó Ç È
 $	[MORSE] ...-..- (not ITU-R)
 $github: othyro/wtfubar refs/tags/wtfubar-2.0.0 $
-$MirOS: wtf/acronyms,v 1.515 2015/10/24 19:53:52 tg Exp $
+$MirOS: wtf/acronyms,v 1.516 2015/10/25 20:34:02 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.11 2014/09/05 22:38:17 tg Exp $
 $NetBSD: acronyms,v 1.241 2015/10/10 22:51:05 dholland Exp $
 $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
@@ -1538,6 +1538,7 @@ BDY	[IATA] Bandon State Airport, Oregon, United States of America
 BDZ	[IATA] Baindoung, Papua New Guinea
 BE	Bachelor of Engineering (BEng)
 BE	Backend
+BE	Bahnersatzverkehr
 BE	Be (PSE#4) Beryllium | Erdalkalimetalle | alkaline earth metals | metalla alcalica terrena
 BE	big endian
 BE	Broteinheit
@@ -10569,6 +10570,7 @@ MR	[ISO 3166] Mauritania
 MR	[Kfz:D] Landkreis Marburg-Biedenkopf
 MR;DR	mentions Ruby; didn’t read
 MRA	[IATA] Misurata, Libya
+MRB	Mittelrheinbahn
 MRB	[IATA] Martinsburg (Shepherd Field), West Virginia, United States of America
 MRC	[IATA] Columbia (Maury County), Tennessee, United States of America
 MRD	[IATA] Merida, Venezuela
@@ -14342,6 +14344,7 @@ S	Italian Spelling Alphabet: SAVONA
 S	New York Police Spelling Alphabet: SAM
 S	RAF 1942/1943 Spelling Alphabet: SUGA
 S	S (PSE#16) Sulphur, Schwefel, Sulfur | Chalkogene | chalcogens
+S	S-Bahn
 S	Spanish Spelling Alphabet: SÁBADO
 S	Süden, south
 S	[Kfz:D] Stadtkreis Stuttgart
@@ -14481,7 +14484,9 @@ SAW	[Kfz:D] Altmarkkreis Salzwedel
 SAX	[IATA] Sambu, Panama
 SAY	[IATA] Siena, Italy
 SAZ	[IATA] Sasstown, Liberia
+SB	Sachbearbeiter
 SB	Sb ♁ (PSE#51) Stibium, Antimon, Antimony | Stickstoff/Phosphor-Gruppe | pnictogens
+SB	Schnellbus
 SB	sound blaster
 SB	southbound
 SB	[ccTLD] Salomonen
