@@ -3,11 +3,11 @@
 # ucase: Ä Ö Ü Ñ Á É Í Ó Ç È
 $	[MORSE] ...-..- (not ITU-R)
 $github: othyro/wtfubar refs/tags/wtfubar-2.0.0 $
-$MirOS: wtf/acronyms,v 1.516 2015/10/25 20:34:02 tg Exp $
+$MirOS: wtf/acronyms,v 1.517 2015/11/01 22:58:19 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.11 2014/09/05 22:38:17 tg Exp $
 $NetBSD: acronyms,v 1.241 2015/10/10 22:51:05 dholland Exp $
 $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
-$NetBSD: acronyms.comp,v 1.152 2015/10/11 10:02:15 mbalmer Exp $
+$NetBSD: acronyms.comp,v 1.154 2015/10/27 15:33:07 jakllsch Exp $
 $NetBSD: airport,v 1.60 2015/10/02 09:01:23 mbalmer Exp $
 $OpenBSD: airport,v 1.55 2015/08/29 22:13:56 deraadt Exp $
 &	[MORSE] .-... (not ITU-R)
@@ -2974,6 +2974,7 @@ CHQ	[IATA] Chania, Souda, Greece
 CHR	[IATA] Chateauroux (Deols), France
 CHS	cylinder/head/sector
 CHS	[IATA] Charleston International, South Carolina, United States of America
+CHT	Colon-Hydro-Therapie
 CHT	[IATA] Chatham Island, New Zealand
 CHU	[IATA] Chuathbaluk Airport, Alaska, United States of America
 CHV	[IATA] Chaves, Portugal
@@ -3038,6 +3039,8 @@ CIZ	[IATA] Coari, Amazonas, Brazil
 CJA	[IATA] Cajamarca, Peru
 CJB	[IATA] Coimbatore, India
 CJC	[IATA] Calama, Chile
+CJD	Christliches Jugenddorfwerk Deutschlands
+CJD	Creutzfeldt-Jakob disease
 CJD	[IATA] Candilejas, Colombia
 CJE	[IATA] Chang Hua, Taiwan
 CJH	[IATA] Chilko Lake Aerodrome, British Columbia, Canada
@@ -4760,7 +4763,7 @@ EHT	[IATA] East Hartford (Rentschler Airport), Connecticut, United States of Ame
 EI	[Kfz:D] Landkreis Eichstätt
 EIA	[IATA] Eia, Papua New Guinea
 EIC	[Kfz:D] Landkreis Eichsfeld
-EIDE	enchanced IDE
+EIDE	enhanced IDE
 EIDRM	(#88) Identifier removed
 EIE	enough is enough
 EIE	[IATA] Enisejsk, Russia
@@ -5634,6 +5637,7 @@ FPS	frames per second
 FPU	Floating Point Unit
 FPY	[IATA] Perry-Foley Airport, Florida, United States of America
 FPÖ	Freiheitliche Partei Österreichs
+FQA	frequently questioned answers
 FQDN	fully qualified domain name
 FQT	[IATA] Merville/Calonne, France
 FR	Fr (PSE#87) Francium | Alkalimetalle | alkali metals | metalla alcalica
@@ -11706,6 +11710,7 @@ OBD	[IATA] Obano, Indonesia
 OBE	[IATA] Okeechobee County Airport, Florida, United States of America
 OBF	[IATA] Oberpfaffenhofen (Dornier/DLR), Germany
 OBG	[Kfz:D] Landkreis Osterburg
+OBHWF	[fanfic] one big happy Weasley family
 OBI	[IATA] Obidos, Pará, Brazil
 OBK	[IATA] Northbrook (Plaza Heliport), Illinois, United States of America
 OBLG	Oberste Landesgerichte
@@ -11756,6 +11761,7 @@ OCTA	eight-
 OCUV	over-clock and under-volt
 OCV	[IATA] Ocana, Colombia
 OCW	[IATA] Washington (Warren Field), North Carolina, United States of America
+OD	Ortsdurchfahrt
 OD	[Kfz:D] Kreis Stormarn
 ODA	[IATA] Ouadda, Central African Republic
 ODB	[IATA] Cordoba (San Jeronimo), Spain
@@ -11986,6 +11992,8 @@ OOT	[IATA] Onotoa, Kiribati
 OOTB	out of the box
 OOTP	[HP] Order of the Phœnix
 OOXML	Office Open XML (ISO/IEC 29500)
+OP	Operation
+OP	Opus (Werk)
 OP	[gc] opencaching.pl (cf. OC)
 OP	[Kfz:D] Rhein-Wupper-Kreis
 OPA	[IATA] Kopasker, Iceland
