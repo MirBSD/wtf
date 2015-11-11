@@ -3,7 +3,7 @@
 # ucase: Ä Ö Ü Ñ Á É Í Ó Ç È
 $	[MORSE] ...-..- (not ITU-R)
 $github: othyro/wtfubar refs/tags/wtfubar-2.0.0 $
-$MirOS: wtf/acronyms,v 1.518 2015/11/04 20:18:22 tg Exp $
+$MirOS: wtf/acronyms,v 1.519 2015/11/11 21:41:52 tg Exp $
 $miros: src/sys/sys/errno.h,v 1.11 2014/09/05 22:38:17 tg Exp $
 $NetBSD: acronyms,v 1.241 2015/10/10 22:51:05 dholland Exp $
 $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
@@ -919,6 +919,8 @@ APT	[IATA] Jasper (Marion County Airport), Tennessee, United States of America
 APU	[IATA] Apucarana, Paraná, Brazil
 APV	[IATA] Apple Valley Airport, California, United States of America
 APW	[IATA] Faleolo International, Apia, Western Samoa
+APWBD	[HP] Albus Parcival Wolfram Bertus Perkamentus
+APWBD	[HP] Albus Percival Wulfric Brian Dumbledore
 APX	[IATA] Arapongas, Paraná, Brazil
 APY	[IATA] Alto do Parnaiba, Piauí, Brazil
 APZ	[IATA] Zapala, Argentina
@@ -1402,6 +1404,7 @@ BB	baby
 BB	big brother
 BB	[ccTLD] Barbados
 BB	[D] Brandenburg
+BB	[HP] Tales of Beedle the Bard
 BB	[ISO 3166] Barbados
 BB	[Kfz:D] Landkreis Böblingen
 BBA	Bachelor of Business Administration
@@ -5309,6 +5312,7 @@ FAZ	Frankfurter Allgemeine Zeitung
 FB	Facebook
 FB	Frozen-Bubble
 FB	fuck buddy
+FB	[HP] Fantastic Beasts and Where to Find Them
 FB	[Kfz:D] Landkreis Friedberg in Hessen
 FB	[Kfz:D] Wetteraukreis
 FBD	[IATA] Faizabad, Afghanistan
@@ -6409,6 +6413,7 @@ GR8	great
 GRA	[IATA] Gamarra, Colombia
 GRA	[Kfz:D] Landkreis Grafenau
 GRAM	GPS Receiver Applications Module
+GRASE	generally recognised as safe and effective
 GRB	[IATA] Green Bay (Austin Straubel), Wisconsin, United States of America
 GRC	[IATA] Grand Cess, Liberia
 GRD	[IATA] Greenwood County Airport, South Carolina, United States of America
@@ -7712,6 +7717,7 @@ ISC	[IATA] Scilly Isles (St. Mary’s Airport), England, United Kingdom of Great
 ISD	international subscriber dialing (now IDD)
 ISD	[IATA] Iscuande, Colombia
 ISDN	integrated services digital network
+ISDS	investor state dispute settlement
 ISDS	Investor-Staat-Schiedsverfahren
 ISFJ	[Myers-Briggs personality type] Introversion (relating to others) Sensing (information taking) Feeling (decision making) Judging (life order)
 ISFP	[Myers-Briggs personality type] Introversion (relating to others) Sensing (information taking) Feeling (decision making) Perceiving (life order)
@@ -8033,6 +8039,7 @@ JK	just kidding
 JKG	[IATA] Jonkoping, Sweden
 JKH	[IATA] Chios, Greece
 JKL	[IATA] Jackson (Julian Carroll Airport), Kentucky, United States of America
+JKR	[HP] J. K. Rowling (Joanne Rowling)
 JKR	[IATA] Janakpur, Nepal
 JKT	[IATA] All Airports around Jakarta, Indonesia
 JL	[Kfz:D] Landkreis Jerichower Land
@@ -9744,6 +9751,7 @@ MAL	[Kfz:D] Landkreis Mallersdorf
 MAL	[Kfz] Malaysia
 MAM	[IATA] Matamoros, Mexico
 MAN	[IATA] Manchester, United Kingdom of Great Britain and Northern Ireland
+MANEF	meddlers against nearly everything fun
 MAO	[IATA] Manaus (Eduardo Gomes), Amazonas, Brazil
 MAP	Military Assistance Program
 MAP	Mobile Application Part
@@ -10066,6 +10074,7 @@ MEX	[IATA] Mexico City, Mexico
 MEX	[Kfz] Mexiko
 MEY	[IATA] Meghauli, Nepal
 MEZ	[IATA] Messina, South Africa
+MF	motherfucker
 MF	[ISO 3166] St Martin (French part)
 MFA	Master of Fine Art
 MFA	multi-factor authentication
@@ -10472,6 +10481,7 @@ MOESI	modified, owned, exclusive, shared, invalid
 MOF	maximum operating frequency
 MOF	[IATA] Maumere, Indonesia
 MOG	[IATA] Monghsat, Myanmar
+MOGF	[HP] Manipulative Old Goat Fucker
 MOH	[IATA] Mohanbari, India
 MOI	[IATA] Mitiaro, Cook Islands
 MOL	[IATA] Molde (Aro), Norway
@@ -12013,6 +12023,7 @@ OOM	out of memory
 OOM	[IATA] Cooma, New South Wales, Australia
 OOO	OpenOffice.org
 OOP	object oriented programming
+OOP	[HP] Order of the Phœnix
 OOPS	object oriented programming systems
 OOR	[IATA] Mooraberrie, Queensland, Australia
 OOSE	object oriented software engineering
@@ -12341,6 +12352,7 @@ PAO	[IATA] Palo Alto Municipal, California, United States of America
 PAP	password authentication protocol
 PAP	Policy Administration Point
 PAP	positive airway pressure
+PAP	Programmablaufplan
 PAP	[IATA] Aeroport international Toussaint Louverture, Port-au-Prince, Haiti
 PAPA	P (International Radiotelephony Spelling Alphabet)
 PAQ	[IATA] Palmer Municipal Airport, Alaska, United States of America
@@ -13413,6 +13425,7 @@ Q2	[Schule DE] Qualifikationsphase 2 (12. Klasse Gymnasium nach G8)
 Q2140	ITU-T Recommendation Q.2140 (B-ISDN ATM adaptation layer)
 QA	quality assurance
 QA	[ccTLD] Katar
+QA	[HP] Quidditch through the Ages
 QA	[ISO 3166] Qatar
 QAA	[IATA] Nora, Alaska, United States of America
 QAB	[IATA] Brusque, Santa Catarina, Brazil
@@ -13615,6 +13628,7 @@ QTE	[IATA] Sao Goncalo do Amarante, Rio Grande do Norte, Brazil
 QTH	[IATA] Thredbo, New South Wales, Australia
 QTK	[IATA] Rothenburg, Germany
 QTO	[IATA] Toledo, Paraná, Brazil
+QTTA	[HP] Quidditch through the Ages
 QTV	[IATA] Treviso (Heliport), Italy
 QTW	[IATA] Taejon, South Korea
 QTZ	[IATA] Coatzacoalcos, Mexico
@@ -15470,6 +15484,7 @@ SS	self-snoop
 SS	SPARCstation
 SS	stack segment
 SS	[ccTLD] Südsudan
+SS	[HP] Philosopher’s Stone
 SS	[ISO 3166] South Sudan
 SS	[Kfz] Straits Settlements (veraltet)
 SS1	SPARCstation 1
