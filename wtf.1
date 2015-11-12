@@ -1,4 +1,4 @@
-.\" $MirOS: wtf/wtf.1,v 1.17 2015/10/21 20:23:24 tg Exp $
+.\" $MirOS: wtf/wtf.1,v 1.18 2015/11/12 11:33:25 tg Exp $
 .\" $NetBSD: wtf.6,v 1.4 2001/04/02 22:42:40 wiz Exp $
 .\"-
 .\" Copyright © 2002, 2003, 2006, 2010, 2011, 2012, 2014, 2015
@@ -73,7 +73,7 @@
 .\" with -mandoc, it might implement .Mx itself, but we want to
 .\" use our own definition. And .Dd must come *first*, always.
 .\"
-.Dd $Mdocdate: October 21 2015 $
+.Dd $Mdocdate: November 12 2015 $
 .\"
 .\" Check which macro package we use, and do other -mdoc setup.
 .\"
@@ -213,7 +213,7 @@ Besides the 26 latin letters [a\-z], the following nōn-ASCII characters
 are understood and translated to their upper-case equivalents for looking
 up the search term; if yours contains any other Unicode characters above
 U+007E, you may need to upper-case the search term yourself.
-.Dl "ä ö ü ß ñ á é í ó ç è"
+.Dl "ä ö ü ñ á é í ó ç è"
 Furthermore, if the search term contains any (ASCII, currently,
 i.e. [A\-Z], as there have been no acronyms with a nōn-ASCII letter using
 this scheme when this feature was introduced) letter followed by a dot
@@ -248,6 +248,9 @@ default ports index file on BSD.
 .Pp
 .Pa https://www.mirbsd.org/acronyms
 .No \*(en live updated acronym database
+.Pp
+.Pa https://github.com/Natureshadow/MirWTFApp
+.No \*(en Android implementation
 .Pp
 .Pa https://github.com/othyro/wtfubar
 .No \*(en another fork of
