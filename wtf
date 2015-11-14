@@ -1,5 +1,5 @@
 #!/bin/mksh
-# $MirOS: wtf/wtf,v 1.31 2015/11/14 20:09:31 tg Exp $
+# $MirOS: wtf/wtf,v 1.32 2015/11/14 21:12:30 tg Exp $
 # $NetBSD: wtf,v 1.7 2000/11/21 00:18:52 soren Exp $
 #-
 # Copyright © 2002, 2003, 2004, 2006, 2007, 2008, 2010, 2011,
@@ -127,6 +127,13 @@ if (( use_acronyms )); then
 	# read input file only once
 	exec <"$acronyms"
 
+	# read upper-casing code
+	if ! IFS= read -r line || [[ $line != '  '* ]]; then
+		print -ru2 "E: acronyms database ${acronyms@Q} too old"
+		exit 1
+	fi
+	set -A ucsrch -- $line
+
 	# create sorted input array, uppercased
 	s='set -sA stsrch --'
 	i=0
@@ -134,16 +141,9 @@ if (( use_acronyms )); then
 	for target in "$@"; do
 		typeset -u tgsrch=$target
 		[[ $tgsrch = *[A-Z].* ]] && tgsrch=${tgsrch//.}
-		tgsrch=${tgsrch//ä/Ä}
-		tgsrch=${tgsrch//ö/Ö}
-		tgsrch=${tgsrch//ü/Ü}
-		tgsrch=${tgsrch//ñ/Ñ}
-		tgsrch=${tgsrch//á/Á}
-		tgsrch=${tgsrch//é/É}
-		tgsrch=${tgsrch//í/Í}
-		tgsrch=${tgsrch//ó/Ó}
-		tgsrch=${tgsrch//ç/Ç}
-		tgsrch=${tgsrch//è/È}
+		for p in "${ucsrch[@]}"; do
+			eval 'tgsrch=${tgsrch//'"$p}"
+		done
 		s+=" ${tgsrch@Q}=$((++i))"
 	done
 	eval "$s"

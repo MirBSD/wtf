@@ -1,4 +1,4 @@
-.\" $MirOS: wtf/wtf.1,v 1.18 2015/11/12 11:33:25 tg Exp $
+.\" $MirOS: wtf/wtf.1,v 1.19 2015/11/14 21:12:30 tg Exp $
 .\" $NetBSD: wtf.6,v 1.4 2001/04/02 22:42:40 wiz Exp $
 .\"-
 .\" Copyright © 2002, 2003, 2006, 2010, 2011, 2012, 2014, 2015
@@ -73,7 +73,7 @@
 .\" with -mandoc, it might implement .Mx itself, but we want to
 .\" use our own definition. And .Dd must come *first*, always.
 .\"
-.Dd $Mdocdate: November 12 2015 $
+.Dd $Mdocdate: November 14 2015 $
 .\"
 .\" Check which macro package we use, and do other -mdoc setup.
 .\"
@@ -179,9 +179,9 @@ Search the package database or ports
 .Pa INDEX .
 Match in package name and description.
 .It Fl p
-Search the package database or ports
-.Pa INDEX .
-Match in package name only.
+Same as
+.Fl p ,
+except match in package name only.
 .It Fl t Ar arg
 Ignored
 .Pq for compatibility .
@@ -209,16 +209,12 @@ and, for German users,
 .Sy wtf\ ist\ n8
 usage.
 .Pp
-Besides the 26 latin letters [a\-z], the following nōn-ASCII characters
-are understood and translated to their upper-case equivalents for looking
-up the search term; if yours contains any other Unicode characters above
-U+007E, you may need to upper-case the search term yourself.
-.Dl "ä ö ü ñ á é í ó ç è"
-Furthermore, if the search term contains any (ASCII, currently,
-i.e. [A\-Z], as there have been no acronyms with a nōn-ASCII letter using
-this scheme when this feature was introduced) letter followed by a dot
-.Pq Sq .\& ,
-all dots will be stripped from the search term.
+The search term is translated to upper case for lookup, but besides the
+26 latin letters [a\-z], the only Unicode characters mapped are listed
+in the first line of the acronyms database.
+Furthermore, all dots will be stripped from the search term if it
+contains, after upper-casing, an ASCII letter [A\-Z] followed by a dot
+.Pq Sq .\& .
 .Sh ENVIRONMENT
 .Bl -tag -width ACRONYMDB
 .It Ev ACRONYMDB
@@ -246,11 +242,11 @@ default ports index file on BSD.
 .Pa https://www.mirbsd.org/wtf.htm
 .No \*(en online acronym database query
 .Pp
-.Pa https://www.mirbsd.org/acronyms
-.No \*(en live updated acronym database
-.Pp
 .Pa https://github.com/Natureshadow/MirWTFApp
 .No \*(en Android implementation
+.Pp
+.Pa https://www.mirbsd.org/acronyms
+.No \*(en live updated acronym database
 .Pp
 .Pa https://github.com/othyro/wtfubar
 .No \*(en another fork of
@@ -271,7 +267,10 @@ Option processing was added in
 .Sh CAVEATS
 The acronym database is a line-based file consisting of the upper-cased
 (see above) search term, an ASCII HT character, and the definition.
+All lines without a HT (tab) character are considered comment lines.
 The file must be sorted ASCIIbetically for the first column.
+The list of additional lower/upper-case pairs (separated by spaces) must
+be on the first line, with two leading spaces (so it sorts first).
 .Sh FEEDBACK
 .An mirabilos Aq m@mirbsd.org
 maintains

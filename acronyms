@@ -1,15 +1,15 @@
+  á/Á ä/Ä ç/Ç è/È é/É í/Í ñ/Ñ ó/Ó ö/Ö ü/Ü
+ @(#)$MirOS: wtf/acronyms,v 1.520 2015/11/14 21:12:23 tg Exp $
+ From $NetBSD: acronyms,v 1.241 2015/10/10 22:51:05 dholland Exp $
+ From $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
+ From $NetBSD: acronyms.comp,v 1.154 2015/10/27 15:33:07 jakllsch Exp $
+ From $NetBSD: airport,v 1.60 2015/10/02 09:01:23 mbalmer Exp $
+ From $OpenBSD: airport,v 1.55 2015/08/29 22:13:56 deraadt Exp $
+ From github: othyro/wtfubar refs/tags/wtfubar-2.0.0
+ From miros: src/sys/sys/errno.h,v 1.11 2014/09/05 22:38:17 tg Exp $
 !	[MORSE] -.-.-- (KW digraph)
 "	[MORSE] .-..-.
-# ucase: Ä Ö Ü Ñ Á É Í Ó Ç È
 $	[MORSE] ...-..- (not ITU-R)
-$github: othyro/wtfubar refs/tags/wtfubar-2.0.0 $
-$MirOS: wtf/acronyms,v 1.519 2015/11/11 21:41:52 tg Exp $
-$miros: src/sys/sys/errno.h,v 1.11 2014/09/05 22:38:17 tg Exp $
-$NetBSD: acronyms,v 1.241 2015/10/10 22:51:05 dholland Exp $
-$NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
-$NetBSD: acronyms.comp,v 1.154 2015/10/27 15:33:07 jakllsch Exp $
-$NetBSD: airport,v 1.60 2015/10/02 09:01:23 mbalmer Exp $
-$OpenBSD: airport,v 1.55 2015/08/29 22:13:56 deraadt Exp $
 &	[MORSE] .-... (not ITU-R)
 '	[MORSE] .----.
 (	[MORSE] -.--.
@@ -701,6 +701,7 @@ ALG	[IATA] Algiers (Houari Boumediene), Algeria
 ALGOL	algorithmic language
 ALH	[IATA] Albany, Western Australia, Australia
 ALI	[IATA] Alice International Airport, Texas, United States of America
+ALICE	(metasyntactic variable in crypto for the communications sender)
 ALJ	[IATA] Alexander Bay, South Africa
 ALK	[IATA] Asela, Ethiopia
 ALL	[IATA] Albenga, Italy
@@ -968,6 +969,7 @@ ARG	[IATA] Walnut Ridge Regional Airport, Arkansas, United States of America
 ARGE	Amt für Repression, Grundrechtsentzug und Existenzvernichtung
 ARH	[IATA] Talagi, Arkhangelsk, Russia
 ARI	[IATA] Chacalluta International, Arica, Chile
+ARITH	arithmetic(ally)
 ARJ	ARJ archive (traditional archive compressor)
 ARJ	[IATA] Arso, Indonesia
 ARK	[IATA] Arusha, Tanzania
@@ -1068,6 +1070,8 @@ ASS	Acetylsalicylsäure („Aspirin“)
 ASS	After Sales Support
 ASS	dumbhead
 ASS	jackass, moke (zool.)
+ASSOC	association
+ASSOC	associative
 AST	abstract syntax tree
 AST	Anruf-Sammel-Taxi
 AST	asynchronous trap
@@ -1104,6 +1108,7 @@ ATAN	Arkustangēns
 ATAPI	advanced technology attachment packet interface
 ATB	[IATA] Atbara, Sudan
 ATC	address translation cache
+ATC	Allocation Temporaire Complémentaire
 ATC	[IATA] Arthur’s Town, Cat Island, Bahamas
 ATD	[IATA] Atoifi, Solomon Islands
 ATE	[IATA] Antlers Municipal Airport, Oklahoma, United States of America
@@ -1129,6 +1134,7 @@ ATQ	[IATA] Amritsar, India
 ATR	Air Transport Racking
 ATR	[IATA] Atar, Mauritania
 ATS	[IATA] Artesia Municipal Airport, New Mexico, United States of America
+ATSEP	Air Traffic Safety Electronics Personals (cf. IESSA)
 ATT	[IATA] Atmautluak Airport, Alaska, United States of America
 ATU	[IATA] Attu Island (Coast Guard Station), Alaska, United States of America
 ATV	[IATA] Ati, Chad
@@ -1282,6 +1288,7 @@ AZB	[IATA] Amazon Bay, Papua New Guinea
 AZD	[IATA] Yazd, Iran
 AZE	[IATA] Hazlehurst Airport, Georgia, United States of America
 AZE	[Kfz:D] Landkreis Anhalt-Zerbst
+AZERTY	(french metasyntactic variable)
 AZG	[IATA] Apatzingan, Mexico
 AZI	[IATA] Abu Dhabi (Bettina), United Arab Emirates
 AZN	[IATA] Andizhan, Uzbekhistan
@@ -1375,6 +1382,7 @@ BAO	[IATA] Ban Mak Khaeng, Thailand
 BAP	[IATA] Baibara, Papua New Guinea
 BAPPSC	Bachelor of Applied Science
 BAQ	[IATA] Ernesto Cortissoz International, Barranquilla, Colombia
+BAR	(second metasyntactic variable)
 BAR	base address register
 BAR	[IATA] Baker Island, Baker & Howland Islands
 BAR	[Kfz:D] Landkreis Barnim
@@ -1399,6 +1407,7 @@ BAWÜ	Baden-Württemberg
 BAX	[IATA] Barnaul, Altay, Russia
 BAY	Bayern
 BAY	[IATA] Baia Mape, Romania
+BAZ	(third metasyntactic variable)
 BAZ	[IATA] Barcelos, Amazonas, Brazil
 BB	baby
 BB	big brother
@@ -1580,6 +1589,7 @@ BEK	[IATA] Rae Bareli, India
 BEL	U+0007 ␇ BELL
 BEL	[IATA] Val De Caes International, Belem, Para, Brazil
 BEL	[Kfz:D] Landkreis Belzig
+BELTRANO	(portuguese metasyntactic variable for people)
 BEM	[IATA] Bossembele, Central African Republic
 BEN	[IATA] Benghazi (Benina), Libya
 BENELUX	Belgium, Netherlands, Luxembourg
@@ -1640,6 +1650,7 @@ BFN	[IATA] Bram Fischer International, Bloemfontein, South Africa
 BFN	[IATA] Jbm Hertzog, Bloemfontein, South Africa
 BFO	[IATA] Buffalo Range (Chiredzi), Zimbabwe
 BFP	[IATA] Beaver Falls (Beaver County Airport), Pennsylvania, United States of America
+BFR	Bundesinstitut für Risikobewertung
 BFR	[IATA] Bedford (Municipal Airport), Indiana, United States of America
 BFS	breadth-first search
 BFS	[IATA] Belfast International Airport, Northern Ireland
@@ -1745,6 +1756,7 @@ BIC	[IATA] Big Creek, Alaska, United States of America
 BICC	Bearer Independent Call Control protoco
 BID	[IATA] Block Island State Airport, Rhode Island, United States of America
 BID	[Kfz:D] Landkreis Biedenkopf
+BIDULE	(french metasyntactic variable)
 BIE	[IATA] Beatrice Municipal Airport, Nebraska, United States of America
 BIF	[IATA] Biggs Army Air Field (El Paso), Texas, United States of America
 BIG	[IATA] Allen Army Air Field, Alaska, United States of America
@@ -1814,6 +1826,7 @@ BJX	[IATA] Del Bajio International, Leon/Guanajuato, Guanajuato, Mexico
 BJY	[IATA] Belgrade, Yugoslavia
 BJZ	[IATA] Badajoz (Talavera La Real), Spain
 BK	Bk (PSE#97) Berkelium | Uran-Metalle (Aktiniden) | actinides | actinida
+BK	black, IEC 62: 0
 BK	[Kfz:D] Landkreis Backnang
 BK	[Kfz:D] Landkreis Börde
 BKA	[IATA] Moscow (Bykovo), Russia
@@ -1846,6 +1859,7 @@ BKX	[IATA] Brookings Municipal, South Dakota, United States of America
 BKY	[IATA] Bukavu (Kuvumu), Zaire
 BKZ	[IATA] Bukoba, Tanzania
 BL	Bereichsleiter
+BL	blau (cf. BU), IEC 62: 6 / ±0.25%
 BL	Bundesland
 BL	[CH] de-CH: Baaselbiet
 BL	[CH] de: Basel-Land, Basel-Landschaft
@@ -1856,7 +1870,9 @@ BL	[ISO 3166] St Barthelemy
 BL	[Kfz:D] Landkreis Balingen
 BL	[Kfz:D] Zollernalbkreis
 BL	[Kfz] Basutoland (veraltet)
+BLA	(metasyntactic variable)
 BLA	[IATA] General Jose Antonio Anzoategui International, Barcelona, Venezuela
+BLABLA	(german metasyntactic variable)
 BLAS	basic linear algebra subprograms
 BLB	[IATA] Balboa, Panama
 BLB	[Kfz:D] Kreis Wittgenstein
@@ -1885,6 +1901,8 @@ BLS	Basic Life Support
 BLS	[IATA] Bollon, Queensland, Australia
 BLT	[IATA] Blackwater, Queensland, Australia
 BLU	[IATA] Blue Canyon-Nyack Airport, California, United States of America
+BLUB	(german metasyntactic variable)
+BLUBB	(german metasyntactic variable)
 BLV	[IATA] Belleville (Scott Air Force Base), Illinois, United States of America
 BLW	[IATA] Waimanalo, Hawaii, United States of America
 BLX	[IATA] Belluno, Italy
@@ -1961,6 +1979,7 @@ BMZ	[IATA] Bamu, Papua New Guinea
 BN	Bachelor of Nursing
 BN	bekiffter Nerd
 BN	boundary neutral
+BN	brown, IEC 62: 1 / ±1%
 BN	[ccTLD] Brunei
 BN	[ISO 3166] Brunei
 BN	[Kfz:D] kreisfreie Stadt Bonn
@@ -2008,6 +2027,8 @@ BO	[Kfz:D] kreisfreie Stadt Bochum
 BOA	[IATA] Boma, Zaire
 BOAT	bring out another thousand (hole in the water you throw money into)
 BOATILAS	bend over and take it like a slut
+BOB	(metasyntactic variable in crypto for the communications recipient)
+BOB	Robert
 BOB	[IATA] Bora Bora, Society Islands, French Polynesia
 BOC	but of course
 BOC	[IATA] Bocas del Toro, Panama
@@ -2111,6 +2132,7 @@ BQW	[IATA] Balgo Hills, Western Australia, Australia
 BR	Bayerischer Rundfunk
 BR	Br (PSE#35) Bromum, Brom | Halogene | halogens | halogenia
 BR	branch
+BR	braun (cf. BN), IEC 62: 1 / ±1%
 BR	break
 BR	[ccTLD] Brasilien
 BR	[ISO 3166] Brazil
@@ -2316,6 +2338,7 @@ BTX	Bildschirmtext (der Deutschen Bundespost Telekom)
 BTX	[IATA] Betoota, Queensland, Australia
 BTY	[IATA] Beatty Airport, Nevada, United States of America
 BTZ	[IATA] Bursa, Turkey
+BU	blue, IEC 62: 6 / ±0.25%
 BU	[Kfz:D] Landkreis Burgdorf
 BUA	[IATA] Buka, Papua New Guinea
 BUB	[IATA] Burwell (Cram Field), Nebraska, United States of America
@@ -2574,7 +2597,9 @@ CAP	[IATA] Cap Haitien, Haiti
 CAPTCHA	Completely Automated Public Turing test to tell Computers and Humans Apart
 CAQ	[IATA] Caucasia, Colombia
 CAR	[IATA] Caribou Municipal Airport, Maine, United States of America
+CARLOS	(metasyntactic variable in crypto for the third party in comms)
 CARMEN	C (Spanish Spelling Alphabet)
+CAROL	(metasyntactic variable in crypto for the third party in comms)
 CARP	Common Address Redundancy Protocol
 CAS	(atomic) compare and swap
 CAS	column address strobe
@@ -2717,6 +2742,7 @@ CDR	Corel Draw
 CDR	[IATA] Chadron Municipal Airport, Nebraska, United States of America
 CDRAM	cache dynamic random access memory
 CDS	[IATA] Childress Municipal Airport, Texas, United States of America
+CDT	cross-device tracking
 CDT	[TZif] America/Bahia_Banderas (DST)
 CDT	[TZif] America/Cancun (DST)
 CDT	[TZif] America/Chicago (DST)
@@ -2956,6 +2982,7 @@ CHAN	[IRC] channel
 CHANOPS	channel operator status
 CHAP	Challenge-Handshake Authentication Protocol
 CHARLES	C (Telecom B Spelling Alphabet)
+CHARLIE	(metasyntactic variable in crypto for the third party in comms)
 CHARLIE	C (International Radiotelephony Spelling Alphabet; British Forces 1952 Spelling Alphabet; New York Police Spelling Alphabet; RAF 1942/1943 Spelling Alphabet)
 CHARLOTTE	CH (deutsches Funkalphabet)
 CHAST	[TZif] NZ-CHAT
@@ -2987,6 +3014,8 @@ CHS	[IATA] Charleston International, South Carolina, United States of America
 CHT	Colon-Hydro-Therapie
 CHT	[IATA] Chatham Island, New Zealand
 CHU	[IATA] Chuathbaluk Airport, Alaska, United States of America
+CHUCK	(metasyntactic variable in crypto for a third party of malicious intent)
+CHUPCHICK	(hebrew metasyntactic variable)
 CHV	[IATA] Chaves, Portugal
 CHW	[IATA] Jinquan, China
 CHX	[IATA] Changuinola, Panama
@@ -3263,6 +3292,8 @@ COM	[Kfz] Komoren
 COM	[uTLD] commercial (Firmen)
 COMA	cache-only memory architecture
 COMC	[HP] Care of Magical Creatures
+COMM	communication
+COMMS	communication
 COMO	C (Italian Spelling Alphabet)
 COMP	Komponentendiagramm
 COMSEC	Communications Security
@@ -3277,6 +3308,7 @@ COQ	[IATA] Conquista, Minas Gerais, Brazil
 COR	[IATA] Cordoba (Pajas Blancas), Argentina
 CORBA	common object request broker architecture
 CORDIC	COordinate Rotation DIgital Computer algorithm
+CORGE	(english metasyntactic variable)
 CORS	cross-origin resource sharing
 COS	Kosinus
 COS	[HP] Chamber of Secrets
@@ -3355,6 +3387,7 @@ CR	[Kfz] Costa Rica
 CR-LF	carriage return plus line feed (newline)
 CRA	[fanfic] clan restoration act
 CRA	[IATA] Craiova, Romania
+CRAIG	(metasyntactic variable in crypto for a stored hashed/salted password cracker)
 CRAM	challenge-response authentication method
 CRB	[IATA] Collarenebri, New South Wales, Australia
 CRC	cyclic redundancy check
@@ -3682,6 +3715,7 @@ CÉLESTIN	C (French Spelling Alphabet)
 D	British A/International Spelling Alphabet: DENMARK
 D	British Forces 1952 Spelling Alphabet; RAF 1942/1943 Spelling Alphabet: DOG
 D	D (PSE#1) Deuterium (special case)
+D	dark (wiring color)
 D	day
 D	deutsches Funkalphabet: DORA
 D	French Spelling Alphabet: DÉSIRÉ
@@ -3741,6 +3775,8 @@ DAK	Debian Archive Kit
 DAL	[IATA] Dallas Love Field, Texas, United States of America
 DAM	Debian Account Managers
 DAM	[IATA] Damascus, Syria
+DAN	(metasyntactic variable in crypto for the fourth party in comms)
+DAN	Daniel
 DAN	[IATA] Danville Regional Airport, Virginia, United States of America
 DAN	[Kfz:D] Landkreis Lüchow-Dannenberg
 DAO	disk at once
@@ -3759,6 +3795,8 @@ DAU	[Kfz:D] Landkreis Daun
 DAU	[Kfz:D] Landkreis Vulkaneifel
 DAV	Distributed Authoring and Versioning
 DAV	[IATA] David (Aeropuerto Henrique Malek), Panama
+DAVE	(metasyntactic variable in crypto for the fourth party in comms)
+DAVE	David
 DAVID	D (New York Police Spelling Alphabet; Telecom B Spelling Alphabet)
 DAX	[IATA] Daxian, China
 DAY	[IATA] Dayton James M. Cox International, Ohio, United States of America
@@ -4654,6 +4692,7 @@ EEG	Elektroenzephalogramm
 EEK	[IATA] Eek Airport, Alaska, United States of America
 EEN	[IATA] Keene (Dillant-Hopkins Airport), New Hampshire, United States of America
 EEPROM	electrically erasable programmable read only memory
+EERD	extraesophagal reflux disease
 EES	Execution Environment Service
 EEST	[TZif] Africa/Cairo (DST)
 EEST	[TZif] Asia/Amman (DST)
@@ -4727,6 +4766,8 @@ EFL	emitter follower logic
 EFL	[IATA] Kefalonia, Greece
 EFM	eight to fourteen modulation
 EFO	[IATA] East Fork, Alaska, United States of America
+EFSA	EU-Behörde für Lebensmittelsicherheit
+EFSA	European Food Safety Authority
 EFT	electronic funds transfer
 EFTA	European Free Trade Association
 EFTYPE	(#79) Inappropriate file type or format
@@ -4741,6 +4782,7 @@ EGA	Enhanced Graphics Adapter
 EGA	[IATA] Engati, Papua New Guinea
 EGC	[IATA] Bergerac, France
 EGE	[IATA] Vail (Eagle County Regional Airport), Colorado, United States of America
+EGGS	(python metasyntactic variable)
 EGI	[IATA] Valparaiso (Eglin Air Forcet), Florida, United States of America
 EGID	effective group ID
 EGKS	Europese Gemeenschap voor Kolen en Staal
@@ -5065,6 +5107,7 @@ ES	[ISO 3166] Spain
 ES	[Kfz:D] Landkreis Eßlingen
 ES	[Kfz] El Salvador
 ESA	electronic suspension adjustment
+ESA	Electroniciens de la Sécurité Aérienne (now IESSA)
 ESA	European Space Agency
 ESA	U+0087 END OF SELECTED AREA
 ESA	[IATA] Esa Ala, Papua New Guinea
@@ -5208,6 +5251,8 @@ EV	extended VAX
 EVA	[IATA] Evadale Landing Strip, Texas, United States of America
 EVA	[Schule DE] Eigenverantwortliche Arbeit (auch Präsenz-EVA)
 EVD	[IATA] Eva Downs, Northern Territory, Australia
+EVE	(metasyntactic variable in crypto for the passive eavesdropper)
+EVE	evening
 EVE	[IATA] Evenes, Norway
 EVG	[IATA] Sveg, Sweden
 EVH	[IATA] Evans Head, New South Wales, Australia
@@ -5215,6 +5260,7 @@ EVL	[IATA] Jevlach, Naxcivan, Azerbaijan
 EVM	[IATA] Eveleth-Virginia Municipal Airport, Minnesota, United States of America
 EVN	[IATA] Yerevan (Zapadny), Armenia
 EVP	Evangelische Volkspartei der Schweiz
+EVS	Exploitation Vacation Sujétion
 EVU	[IATA] Maryville Memorial Airport, Missouri, United States of America
 EVV	[IATA] Evansville Regional Airport, Indiana, United States of America
 EVW	[IATA] Evanston-Uinta County Burns Field, Wyoming, United States of America
@@ -5292,6 +5338,7 @@ FAJ	[IATA] Fajardo (Diego Jimenez Torres), Puerto Rico
 FAK	[IATA] False Island Seaplane Base, Alaska, United States of America
 FAL	[IATA] Roma (Falcon State Park Airport), Texas, United States of America
 FAL	[Kfz:D] Landkreis Soltau-Fallingbostel
+FALAN	(turkish metasyntactic variable)
 FAM	[IATA] Farmington Regional Airport, Missouri, United States of America
 FAN	fanatic
 FAN	Ventilator
@@ -5308,6 +5355,7 @@ FAT	file allocation table
 FAT	[IATA] Fresno Air Terminal, California, United States of America
 FAV	[IATA] Fakarava, Society Islands, French Polynesia
 FAY	[IATA] Fayetteville Regional Airport, North Carolina, United States of America
+FAYTHE	(metasyntactic variable in crypto for a trusted advisor, courier or intermediary)
 FAZ	Frankfurter Allgemeine Zeitung
 FB	Facebook
 FB	Frozen-Bubble
@@ -5479,6 +5527,7 @@ FIIR	fuck/fucked if I recall
 FIIR	fuck/fucked if I remember
 FIK	[IATA] Finke, Northern Territory, Australia
 FIL	[IATA] Fillmore Airport, Utah, United States of America
+FILAN	(turkish metasyntactic variable)
 FILO	first in, last out
 FIN	[IATA] Finschhafen, Papua New Guinea
 FIN	[Kfz] Finnland
@@ -5615,7 +5664,9 @@ FOG	[IATA] Foggia (Gino Lisa), Italy
 FOK	[IATA] Westhampton Beach, New York, United States of America
 FOM	Figure of Merit
 FOM	[IATA] Foumban, Cameroon
+FOO	(first metasyntactic variable)
 FOO	[IATA] Numfoor, Indonesia
+FOOBAR	(metasyntactic variable)
 FOP	[IATA] Forest Park, Georgia, United States of America
 FOR	[IATA] Fortaleza, Ceará, Brazil
 FOR	[Kfz:D] Landkreis Forst
@@ -5677,6 +5728,7 @@ FRB	[IATA] Forbes, New South Wales, Australia
 FRC	[IATA] Franca, São Paulo, Brazil
 FRD	[IATA] Friday Harbor Airport, Washington, United States of America
 FRE	[IATA] Fera Island, Solomon Islands
+FRED	(english metasyntactic variable)
 FREDDY	F (RAF 1942/1943 Spelling Alphabet)
 FREDERICK	F (Telecom B Spelling Alphabet)
 FREE	[altTLD] free (frei: strikt nichtkommerzielles Internet)
@@ -5815,6 +5867,7 @@ FTX	[IATA] Fort Rousset, Congo
 FTY	[IATA] Atlanta (Brown Field), Georgia, United States of America
 FU	fuck you
 FUB	[IATA] Fulleborn, Papua New Guinea
+FUBAR	(metasyntactic variable, misspelling for FOOBAR)
 FUBAR	fucked up beyond all recognition
 FUD	fear, uncertainty, and doubt
 FUE	[IATA] Fuerteventura, Canary Islands, Spain
@@ -5822,6 +5875,7 @@ FUG	[IATA] Fuyang, China
 FUJ	[IATA] Fukue, Japan
 FUK	[IATA] Fukuoka (Air Force Base), Kyoshu, Japan
 FUL	[IATA] Fullerton Municipal Airport, California, United States of America
+FULANO	(portuguese/spanish metasyntactic variable for people)
 FUM	[IATA] Fuma, Papua New Guinea
 FUN	[IATA] Funafuti, Tuvalu
 FUO	[IATA] Fuoshan, China
@@ -5936,6 +5990,7 @@ GAP	[Kfz:D] Landkreis Garmisch-Partenkirchen
 GAPPS	Google applications
 GAQ	[IATA] Gao, Mali
 GAR	[IATA] Garaina, Papua New Guinea
+GARPLY	(english metasyntactic variable)
 GAS	generic address structure
 GAS	[IATA] Garissa, Kenya
 GASTON	G (French Spelling Alphabet)
@@ -6010,6 +6065,7 @@ GCRTNO	[gc] Groundspeak (TC)
 GCT	[IATA] Guthrie Center (Regional Airport), Iowa, United States of America
 GCY	[IATA] Greeneville Municipal Airport, Tennessee, United States of America
 GD	Gd (PSE#64) Gadolinium | Metalle der seltenen Erden (Lanthaniden) | lanthanides | lanthanida
+GD	gold, IEC 62: 10⁻¹ / ±5%
 GD	[ccTLD] Grenada
 GD	[gc] geodashing.gpsgames.org
 GD	[ISO 3166] Grenada
@@ -6044,6 +6100,7 @@ GDW	[IATA] Gladwin (Charles C. Zettel), Michigan, United States of America
 GDX	[IATA] Magadan, Russia
 GDY	[IATA] Grundy Municipal Airport, Virginia, United States of America
 GE	Ge (PSE#32) Germanium | Kohlenstoff/Silicium-Gruppe | carbon group
+GE	gelb (cf. YE), IEC 62: 4
 GE	[ccTLD] Georgien
 GE	[CH] de-CH: Gämf
 GE	[CH] de-CH: Gänf
@@ -6084,6 +6141,7 @@ GEORGE	G (British Forces 1952 Spelling Alphabet; New York Police Spelling Alphab
 GER	[IATA] Nueva Gerona, Cuba
 GER	[Kfz:D] Landkreis Germersheim
 GERD	gastroesophageal reflux disease
+GERD	gastroösophagale Refluxerkrankung
 GERONA	G (Spanish Spelling Alphabet)
 GES	[IATA] General Santos, Philippines
 GET	[IATA] Geraldton, Western Australia, Australia
@@ -6295,6 +6353,7 @@ GMT	[TZif] GB-Eire
 GMTA	great minds think alike
 GMU	[IATA] Greenville Downtown Airport, South Carolina, United States of America
 GMY	[IATA] Rheindahlen, Germany
+GN	grün/green, IEC 62: 5 / ±0.5%
 GN	[ccTLD] Guinea
 GN	[ISO 3166] Guinea
 GN	[Kfz:D] Landkreis Gelnhausen
@@ -6306,6 +6365,7 @@ GND	ground
 GND	[IATA] Maurice Bishop International Airport, St. George’s, Grenada
 GNE	[IATA] Ghent (St. Denijs-Westrem), Belgium
 GNG	[IATA] Gooding Municipal Airport, Idaho, United States of America
+GNGE	grün-gelb (cf. GNYE)
 GNI	[IATA] Green Island, Jamaica
 GNJ	[IATA] Genjem, Indonesia
 GNM	[IATA] Guanambi, Bahia, Brazil
@@ -6321,6 +6381,7 @@ GNU	GNU’s Not UNIX®
 GNU	[IATA] Goodnews Bay, Alaska, United States of America
 GNV	[IATA] Gainesville Regional Airport, Florida, United States of America
 GNY	[IATA] Granby (Grand County Airport), Colorado, United States of America
+GNYE	green/yellow
 GNZ	[IATA] Ghanzi, Botswana
 GO	General Overnight
 GO	start of movement
@@ -6397,6 +6458,7 @@ GQ	[Kfz] Äquatorialguinea (nicht offiziell)
 GQJ	[IATA] Machrihanish (RAF Station), Scotland, United Kingdom of Great Britain and Northern Ireland
 GQQ	[IATA] Galion Municipal Airport, Ohio, United States of America
 GR	golden ratio
+GR	grau (cf. GY), IEC 62: 8 / ±0.05%
 GR	[ccTLD] Griechenland
 GR	[CH] de-CH: Bündnerland
 GR	[CH] de-CH: Graubünda
@@ -6414,6 +6476,7 @@ GRA	[IATA] Gamarra, Colombia
 GRA	[Kfz:D] Landkreis Grafenau
 GRAM	GPS Receiver Applications Module
 GRASE	generally recognised as safe and effective
+GRAULT	(english metasyntactic variable)
 GRB	[IATA] Green Bay (Austin Straubel), Wisconsin, United States of America
 GRC	[IATA] Grand Cess, Liberia
 GRD	[IATA] Greenwood County Airport, South Carolina, United States of America
@@ -6581,6 +6644,7 @@ GXH	[IATA] Mildenhall (Naval Air Facility), England, United Kingdom of Great Bri
 GXQ	[IATA] Coyhaique, Chile
 GXX	[IATA] Yagoua, Cameroon
 GXY	[IATA] Greeley-Weld County Airport, Colorado, United States of America
+GY	grey, IEC 62: 8 / ±0.05%
 GY	[ccTLD] Guyana
 GY	[ISO 3166] Guyana
 GYA	[IATA] Guayaramerin, Bolivia
@@ -6639,6 +6703,7 @@ HAK	[IATA] Haikou, China
 HAL	hardware abstraction layer
 HAL	[IATA] Halali, South Africa
 HAL	[Kfz:D] kreisfreie Stadt Halle (Saale)
+HAM	(python metasyntactic variable)
 HAM	[IATA] Hamburg (Fuhlsbuttel), Germany
 HAM	[Kfz:D] kreisfreie Stadt Hamm
 HAN	[IATA] Hanoi (Noi-Bai), Vietnam
@@ -6751,7 +6816,9 @@ HE	[Kfz:D] Landkreis Helmstedt
 HEA	[IATA] Herat, Afghanistan
 HEB	[IATA] Henzada, Myanmar
 HEB	[Kfz:D] Landkreis Hersbruck
+HEBELE	(turkish metasyntactic variable)
 HED	[IATA] Herendeen Bay Airport, Alaska, United States of America
+HEDE	(turkish metasyntactic variable)
 HEE	[IATA] Helena (Thompson-Robbins Airport), Arkansas, United States of America
 HEF	[Kfz:D] Landkreis Hersfeld-Rotenburg
 HEH	[IATA] Heho, Myanmar
@@ -6971,6 +7038,7 @@ HOE	[IATA] Houeisay, Laos
 HOF	[IATA] Hofuf, Saudi Arabia
 HOG	[IATA] Holguin, Cuba
 HOG	[Kfz:D] Landkreis Hofgeismar
+HOGE	(japanese metasyntactic variable)
 HOH	[IATA] Hohenems, Austria
 HOH	[Kfz:D] Landkreis Hofheim in Unterfranken
 HOI	[IATA] Hao Island, French Polynesia
@@ -7215,7 +7283,9 @@ HZD	[IATA] Huntingdon (Carroll County Airport), Tennessee, United States of Amer
 HZG	[IATA] Hanzhong, China
 HZK	[IATA] Husavik, Iceland
 HZL	[IATA] Hazleton Municipal Airport, Pennsylvania, United States of America
+HÖDÖ	(turkish metasyntactic variable)
 HÖS	[Kfz:D] Landkreis Höchstadt an der Aisch
+HÜBELE	(turkish metasyntactic variable)
 HÜN	[Kfz:D] Landkreis Hünfeld
 I	British A/International Spelling Alphabet: ITALIA
 I	British Forces 1952 Spelling Alphabet: ITEM
@@ -7257,6 +7327,8 @@ IANADD	I am not a Debian Developer
 IANAL	I am not a lawyer
 IANARTM	I am not a Release Team member (Debian)
 IAQ	[IATA] Bahregan, Iran
+IARC	(Krebsforschungsagentur der WHO)
+IARC	International Agency for Research on Cancer
 IAS	[IATA] Iasi, Romania
 IATA	International Air Transport Association (airport codes) – http://www.mapping.com/airportcodes.shtml
 IAW	In Accordance With
@@ -7386,11 +7458,13 @@ IEJ	[IATA] Iejima, Japan
 IEN	[IATA] Now Shahr, Iran
 IERS	International Earth Rotation and Reference Systems Service
 IESG	Internet Engineering Steering Group
+IESSA	Ingénieur Électronicien des Systèmes de la Sécurité Aérienne
 IETF	Internet Engineering Task Force
 IEV	[IATA] Kyiv Zhulyany International, Kiev, Ukraine
 IF	interface
 IF	intermediate frequency
 IFA	[IATA] Iowa Falls Municipal Airport, Iowa, United States of America
+IFATSEA	International Federation of Air Traffic Safety Electronics Association
 IFCM	isochronous flow control mode
 IFF	Interchange File Format
 IFF	[IATA] Iffley, Queensland, Australia
@@ -7745,6 +7819,7 @@ ISO	[IATA] Kinston Jetport (Stallings Field), North Carolina, United States of A
 ISOC	Internet Society
 ISP	internet service provider
 ISP	[IATA] Islip (Long Island Mac Arthur Airport), New York, United States of America
+ISQ	Indemnité Spéciale de Qualification
 ISQ	[IATA] Manistique (Schoolcraft County), Michigan, United States of America
 ISR	in-service register
 ISR	interrupt service routine
@@ -7811,6 +7886,7 @@ IUS	[IATA] Inus, Solomon Islands
 IUSS	if you say so
 IV	initialisation vector
 IVA	[IATA] Ambanja, Madagascar
+IVAR	(metasyntactic variable for integers)
 IVC	[IATA] Invercargill, New Zealand
 IVF	in-vitro fertilisation
 IVG	[IATA] Ivangrad, Yugoslavia
@@ -8336,6 +8412,7 @@ KEA	[IATA] Keisah, Indonesia
 KEB	[IATA] English Bay Airport, Alaska, United States of America
 KEC	[IATA] Kasenga, Zaire
 KED	[IATA] Kaedi, Mauritania
+KEDHA	(arabic metasyntactic variable) (cf. كذا)
 KEE	[IATA] Kelle, Congo
 KEF	[IATA] Reykjavik (Keflavik), Iceland
 KEG	[IATA] Keglsugl, Papua New Guinea
@@ -8870,6 +8947,7 @@ L	deutsches Funkalphabet: LUDWIG
 L	French Spelling Alphabet: LOUIS
 L	International Radiotelephony Spelling Alphabet: LIMA
 L	Italian Spelling Alphabet: LIVORNO
+L	light (wiring colour)
 L	New York Police Spelling Alphabet: LINCOLN
 L	Spanish Spelling Alphabet: LORENZO
 L	Telecom B Spelling Alphabet: LONDON
@@ -9426,6 +9504,7 @@ LPM	[IATA] Lamap, Vanuatu
 LPO	[IATA] La Porte Municipal Airport, Indiana, United States of America
 LPP	[IATA] Lappeenranta, Finland
 LPQ	[IATA] Luang Prabang, Laos
+LPR	laryngopharyngeal reflux
 LPR	line printer
 LPS	local positioning system
 LPS	[IATA] Lopez Island Airport, Washington, United States of America
@@ -9724,6 +9803,7 @@ MAC	message authentication code
 MAC	multiplier–accumulator (cf. FMA)
 MAC	[IATA] Macon (Herbert Smart Downtown Airport), Georgia, United States of America
 MACC	Master of Accountancy
+MACHIN	(french metasyntactic variable)
 MAD	militärischer Abschirmdienst
 MAD	mutually assured destruction
 MAD	[IATA] Madrid, Spain
@@ -9749,6 +9829,8 @@ MAK	[Kfz:D] kreisfreie Stadt Marktredwitz
 MAL	[IATA] Mangole, Indonesia
 MAL	[Kfz:D] Landkreis Mallersdorf
 MAL	[Kfz] Malaysia
+MALLET	(metasyntactic variable in crypto for the active MitM attacker)
+MALLORY	(metasyntactic variable in crypto for the active MitM attacker)
 MAM	[IATA] Matamoros, Mexico
 MAN	[IATA] Manchester, United Kingdom of Great Britain and Northern Ireland
 MANEF	meddlers against nearly everything fun
@@ -10049,6 +10131,7 @@ MEL	[Kfz:D] Landkreis Melle
 MEM	[IATA] Memphis International, Tennessee, United States of America
 MEN	[IATA] Mende, France
 MENG	Master of Engineering
+MENGANO	(spanish metasyntactic variable for people)
 MENVSC	Master of Environmental Science
 MEO	[IATA] Manteo (Dare County), North Carolina, United States of America
 MEP	Member of the European Parliament
@@ -11106,6 +11189,7 @@ NBE	[IATA] Dallas (Naval Air Station), Texas, United States of America
 NBG	[IATA] New Orleans (Naval Air Station), Louisiana, United States of America
 NBH	U+0083 NO BREAK HERE
 NBH	[IATA] Nambucca Heads, New South Wales, Australia
+NBI	Nouvelle Bonification Indiciaire
 NBJ	[IATA] Barin Field (Naval Facility), Alabama, United States of America
 NBL	[IATA] San Blas, Panama
 NBO	[IATA] Nairobi (Jomo Kenyatta), Kenya
@@ -11456,6 +11540,7 @@ NOR	[IATA] Nordfjordur, Iceland
 NOR	[Kfz:D] Landkreis Norden
 NORA	N (New York Police Spelling Alphabet)
 NORDPOL	N (deutsches Funkalphabet)
+NORF	(GNU R metasyntactic variable)
 NORP	normal ordinary {respectable,responsible} person
 NOS	network operating system
 NOS	[IATA] Nossi-Be (Fascene), Madagascar
@@ -11780,6 +11865,7 @@ OC	[Kfz:D] Landkreis Oschersleben
 OCA	[IATA] Key Largo (Ocean Reef Club), Florida, United States of America
 OCAML	Objective Caml
 OCC	[IATA] Coca, Ecuador
+OCCA	Officiers Contrôleurs de la Circulation Aérienne (now ICNA)
 OCD	obsessive-compulsive disorder
 OCE	[IATA] Ocean City Municipal Airport, Maryland, United States of America
 OCEAN	O (New York Police Spelling Alphabet)
@@ -11847,6 +11933,7 @@ OFP	Operational Flight Program
 OFP	[IATA] Richmond/Ashland (Hanover County), Virginia, United States of America
 OFSD	[Oracle] Oracle File Server Background Process
 OFU	[IATA] Ofu Island, American Samoa
+OG	orange, IEC 62: 3
 OG	Ortsgruppe
 OG	[Kfz:D] Landkreis Offenburg
 OG	[Kfz:D] Ortenaukreis
@@ -12062,6 +12149,7 @@ OPW	[IATA] Opuwa, Namibia
 OQL	Object Query Language
 OQW	[IATA] Maquoketa Municipal Airport, Iowa, United States of America
 OR	Operational Release
+OR	orange (cf. OG), IEC 62: 3
 OR	[gc] opencaching.org.ru (cf. OC), possibly defunct
 OR	[gc] opencaching.ro (cf. OC), possibly defunct
 OR	[Kfz:D] Landkreis Oranienburg
@@ -12114,6 +12202,7 @@ OSA	[IATA] All Airports around Osaka, Japan
 OSB	[IATA] Osage Beach (Linn Creek), Missouri, United States of America
 OSC	U+009D OPERATING SYSTEM COMMAND
 OSC	[IATA] Oscoda-Wurtsmith Airport, Michigan, United States of America
+OSCAR	(metasyntactic variable in crypto for a (possibly white-hat) opponent)
 OSCAR	O (International Radiotelephony Spelling Alphabet; French Spelling Alphabet)
 OSCE	Organization for Security and Co-operation in Europe (OSZE)
 OSD	open source definition
@@ -12355,6 +12444,7 @@ PAP	positive airway pressure
 PAP	Programmablaufplan
 PAP	[IATA] Aeroport international Toussaint Louverture, Port-au-Prince, Haiti
 PAPA	P (International Radiotelephony Spelling Alphabet)
+PAPERINO	(italian metasyntactic variable)
 PAQ	[IATA] Palmer Municipal Airport, Alaska, United States of America
 PAR	[IATA] All Airports around Paris, France
 PAR	[Kfz:D] Landkreis Parsberg
@@ -12533,6 +12623,7 @@ PEE	point, evidence, explain
 PEE	[IATA] Perm (Bolshesavino), Russia
 PEG	[IATA] Perugia (S. Egidio), Italy
 PEG	[Kfz:D] Landkreis Pegnitz
+PEGGY	(metasyntactic variable in crypto for a prover)
 PEH	[IATA] Pehuajo (Comodoro Zanni), Argentina
 PEI	[IATA] Pereira (Matecana), Colombia
 PEK	[IATA] Beijing (Capital), China
@@ -12546,6 +12637,7 @@ PEP	Policy Enforcement Point
 PEP	protocol extension protocol
 PEP	Python Enhancement Proposal
 PEP	[IATA] Peppimenarti, Northern Territory, Australia
+PEQ	Prime d’Evolution des Qualifications
 PEQ	[IATA] Pecos Municipal Airport, Texas, United States of America
 PER	ASN.1 packed encoding rules
 PER	[IATA] Perth, Western Australia, Australia
@@ -12678,6 +12770,7 @@ PIO	programmed input/output
 PIO	[IATA] Pisco, Peru
 PIP	Policy Information Point
 PIP	[IATA] Pilot Point Airport, Alaska, United States of America
+PIPPO	(italian metasyntactic variable)
 PIPT	physically indexed, physically tagged
 PIQ	prefetch input queue
 PIQ	[IATA] Pipillipai, Guyana
@@ -12694,6 +12787,7 @@ PIU	[IATA] Piura, Peru
 PIV	personal identity verification
 PIW	[IATA] Ping Tung, Taiwan
 PIX	[IATA] Pico Island, Azores, Portugal
+PIYO	(japanese metasyntactic variable)
 PIZ	[IATA] Point Lay, Alaska, United States of America
 PJ	Project
 PJ	pyjamas
@@ -12704,6 +12798,7 @@ PJM	[IATA] Puerto Jimenez, Costa Rica
 PJS	[IATA] Port San Juan, Alaska, United States of America
 PJY	[IATA] Pinckneyville-Du Quoin Airport, Illinois, United States of America
 PJZ	[IATA] Puerto Juarez, Mexico
+PK	pink
 PK	[ccTLD] Pakistan
 PK	[DB] primary key
 PK	[DB] Primärschlüssel
@@ -12779,6 +12874,8 @@ PLU	Partial Line Up (U+008C)
 PLU	price look-up code
 PLU	U+008C PARTIAL LINE BACKWARD
 PLU	[IATA] Belo Horizonte, Minas Gerais, Brazil
+PLUGH	(english metasyntactic variable)
+PLUTO	(italian metasyntactic variable)
 PLV	[IATA] Poltava, Poltava, Ukraine
 PLW	[IATA] Palu (Mutiara), Indonesia
 PLX	[IATA] Semey (Semipalatinsk), Kazakhstan
@@ -13645,6 +13742,8 @@ QUN	[IATA] Kwang Yun, South Korea
 QUR	[IATA] Muriae, Minas Gerais, Brazil
 QUS	[IATA] Gusau, Nigeria
 QUT	[IATA] Utsunomiya, Japan
+QUUX	(english metasyntactic variable)
+QUX	(english metasyntactic variable)
 QUZ	[IATA] Quzhou, China
 QVB	[IATA] Uniao do Vitoria, Paraná, Brazil
 QVH	[IATA] Vila Velho, Espírito Santo, Brazil
@@ -13828,6 +13927,7 @@ RCU	[IATA] Rio Cuarto (Area de Material), Argentina
 RCW	reconstruct-write (Linux RAID access mode, the other than RMW)
 RCX	[IATA] Ladysmith (Rusk County Airport), Wisconsin, United States of America
 RCY	[IATA] Rum Cay, Bahamas
+RD	red, IEC 62: 2 / ±2%
 RD	[Kfz:D] Kreis Rendsburg-Eckernförde
 RDA	[IATA] Rockhampton Downs, N. Territory, Australia
 RDB	Rigid Disk Block
@@ -14217,6 +14317,7 @@ RRS	[IATA] Roros, Norway
 RRV	[IATA] Robinson River, Northern Territory, Australia
 RS	Record Separator (U+001E)
 RS	relay station
+RS	rosa (cf. PK)
 RS	U+001E ␞ INFORMATION SEPARATOR TWO
 RS	[BR] Rio Grande do Sul
 RS	[ccTLD] Serbien
@@ -14263,6 +14364,7 @@ RT	real time
 RT	Release Team (RM)
 RT	Remote Terminal
 RT	Request Tracker
+RT	rot (cf. RD), IEC 62: 2 / ±2%
 RT	[Kfz:D] Landkreis Reutlingen
 RT	[Kfz] Togo
 RTA	[IATA] Rotuma, Fiji
@@ -14352,6 +14454,7 @@ RVJ	[IATA] Reidsville Airport, Georgia, United States of America
 RVL	[IATA] Roseville (Fiddyment Field), California, United States of America
 RVN	[IATA] Rovaniemi, Finland
 RVO	[IATA] Reivilo, South Africa
+RVR	Runway Visual Range
 RVR	[IATA] Green River Municipal Airport, Utah, United States of America
 RVS	[IATA] Tulsa (Richard Lloyd Jones), Oklahoma, United States of America
 RVWR	[Oracle] Recovery Writer Process
@@ -14515,6 +14618,7 @@ SAP	Suffer and Pay
 SAP	Summe Aller Probleme
 SAP	Systeme, Anwendungen, Programme in der Datenverarbeitung
 SAP	[IATA] San Pedro Sula (La Mesa), Honduras
+SAPAC	Syndicat Autonome des Personnels de l’Aviation Civile
 SAPIC	streamlined advanced programmable interrupt controller
 SAQ	[IATA] San Andros (Nichols Town), Bahamas
 SAR	Java™ Service Archive (similar to EAR, plus service.xml)
@@ -14935,6 +15039,7 @@ SIA	[IATA] Xian (Xiguan Airport), China
 SIB	[IATA] Sibiti, Congo
 SIC	thus, such (in quotes: really written like that, including errors)
 SIC	[IATA] Sinop (Army Air Field), Turkey
+SICRANO	(portuguese metasyntactic variable for people)
 SID	[IATA] Sal (Amilcar Cabral), Cape Verde
 SIE	[IATA] Sines, Portugal
 SIEMENS	Schon Im Ersten Moment Eigenartiger Nichtfunktionierender Scheiß
@@ -15348,6 +15453,7 @@ SP	[Kfz] Somalia (veraltet)
 SPA	Start of Protected Area (U+0096)
 SPA	U+0096 START OF GUARDED AREA
 SPA	[IATA] Spartanburg (Downtown Airport), South Carolina, United States of America
+SPAM	(python metasyntactic variable)
 SPARC	Scalable Processor Architecture
 SPARK	annotated subset of Ada for formal verification
 SPARQL	SPARQL Protocol and RDF Query Language
@@ -15429,6 +15535,7 @@ SQR	[IATA] Soroako, Indonesia
 SQUOTE	single quote (‘'’)
 SQV	[IATA] Sequim (Grand View International Airport), Washington, United States of America
 SQZ	[IATA] Scampton (RAF Station), England, United Kingdom of Great Britain and Northern Ireland
+SR	silver, IEC 62: 10⁻² / ±10%
 SR	Sr (PSE#38) Strontium | Erdalkalimetalle | alkaline earth metals | metalla alcalica terrena
 SR	[ccTLD] Suriname
 SR	[ISO 3166] Suriname
@@ -15564,6 +15671,7 @@ ST:VOY	[ST] Voyager
 STA	[IATA] Stuttgart, Germany
 STA	[Kfz:D] Landkreis Starnberg
 STAGN	Ständiger Ausschuß für geographische Namen
+STAM	(hebrew metasyntactic variable)
 STANAG	Standardisation Agreement
 STAND	stand-alone
 STASH	Soziale Träger Angenehmer Sybillinischer Halbwahrheiten
@@ -15730,6 +15838,7 @@ SVWS-NRW	[Schule DE] Obligatorische Schulverwaltungssoftware des Landes Nordrhei
 SVX	[IATA] Koltsovo, Ekaterinburg, Sverdlovsk, Russia
 SVY	[IATA] Savo, Solomon Islands
 SVZ	[IATA] San Antonio, Venezuela
+SW	schwarz (cf. BK), IEC 62: 0
 SW	schwarzweiß
 SW	Social Work
 SW	Software
@@ -15811,6 +15920,7 @@ SY	[Kfz:D] Landkreis Grafschaft Hoya
 SY	[Kfz] Seychellen
 SYA	[IATA] Shemya Island (Air Force Base), Alaska, United States of America
 SYB	[IATA] Seal Bay, Alaska, United States of America
+SYBIL	(metasyntactic variable in crypto for an attacker with a lot of identities)
 SYD	[IATA] Sydney, New South Wales, Australia
 SYE	[IATA] Sadah, Yemen
 SYF	[IATA] St. Francis (Cheyenne County), Kansas, United States of America
@@ -15945,6 +16055,7 @@ TAS	test and set
 TAS	[AUS] Tasmania
 TAS	[IATA] Tashkent (Yuzhny), Uzbekhistan
 TAT	[IATA] Poprad (Tatry), Slovakia
+TATA	(french metasyntactic variable)
 TATMWTDI	there are too many ways to do it (in Perl)
 TAU	[IATA] Tauramena, Colombia
 TAV	[IATA] Tau Island (Seaplane Base), American Samoa
@@ -16195,6 +16306,7 @@ THR	[IATA] Theran (Qualeh Morgeh Airport), Iran
 THRB	thumb hits reset button
 THT	[IATA] Tamchakett, Mauritania
 THU	[IATA] Thule (Air Base), Greenland
+THUD	(english metasyntactic variable)
 THV	[IATA] York Airport, Pennsylvania, United States of America
 THW	[Kfz:D] Dienstfahrzeuge der Bundesanstalt Technisches Hilfswerk
 THX	thanks
@@ -16280,6 +16392,7 @@ TIR	[IATA] Tirupati, India
 TIR	[Kfz:D] Landkreis Tirschenreuth
 TIS	[IATA] Thursday Island, Queensland, Australia
 TISA	Trade in Service Agreement
+TITI	(french metasyntactic variable)
 TITS	try it to see
 TIU	[IATA] Timaru, New Zealand
 TIV	[IATA] Tivat, Montenegro, Yugoslavia
@@ -16303,6 +16416,7 @@ TK	Telekommunikation
 TK	Telephonkonferenz
 TK	temporal key
 TK	Tierklinik
+TK	türkis (cf. TQ)
 TK	[ccTLD] Tokelau
 TK	[ISO 3166] Tokelau
 TKA	[IATA] Talkeetna Airport, Alaska, United States of America
@@ -16448,6 +16562,7 @@ TNP	[IATA] Twentynine Palms Airport, California, United States of America
 TNR	[IATA] Antananarivo (Ivato), Madagascar
 TNS	[IATA] Tungsten (Catung Aerodrome), Northwest Territories, Canada
 TNS	[Oracle] transparent network substrate
+TNT	Trinitrotoluol
 TNT	[IATA] Miami (Dade-Collier), Florida, United States of America
 TNU	[IATA] Newton Municipal Airport, Iowa, United States of America
 TNX	thanks
@@ -16503,6 +16618,7 @@ TOS	type of service
 TOS	[IATA] Tromso (Langnes), Norway
 TOSCH	TSL “of Schemes”
 TOT	[IATA] Totness, Suriname
+TOTO	(french metasyntactic variable)
 TOTT	tools of the trade
 TOU	[IATA] Touho, New Caledonia
 TOV	[IATA] West End, Tortola, British Virgin Islands
@@ -16543,6 +16659,7 @@ TPTB	the person to bug
 TPTB	the powers that be
 TPU	[IATA] Tikapur, Nepal
 TPZ0	[Oracle] Test Process
+TQ	turquoise
 TQE	[IATA] Tekamah Municipal Airport, Nebraska, United States of America
 TQK	[IATA] Scott City Municipal Airport, Kansas, United States of America
 TQN	[IATA] Taluqan, Afghanistan
@@ -16564,6 +16681,7 @@ TRC	trace
 TRC	[IATA] Torreon, Mexico
 TRD	[IATA] Trondheim (Vaernes), Norway
 TRE	[IATA] Tiree Island, United Kingdom of Great Britain and Northern Ireland
+TRENT	(metasyntactic variable in crypto for a trusted arbitrator)
 TRF	[IATA] Torp, Sandefjord, Norway
 TRG	[IATA] Tauranga, New Zealand
 TRH	[IATA] Trona Airport, California, United States of America
@@ -16586,6 +16704,8 @@ TRST	Trust Service Token
 TRT	the right thing
 TRT	[IATA] Tremonton Municipal Airport, Utah, United States of America
 TRU	[IATA] Trujillo, Peru
+TRUC	(french metasyntactic variable)
+TRUDY	(metasyntactic variable in crypto for an intruder) (cf. MALLORY)
 TRV	[IATA] Trivandrum (International), India
 TRW	[IATA] Tarawa (Bonriki), Kiribati
 TRX	[IATA] Trenton Municipal Airport, Missouri, United States of America
@@ -16724,6 +16844,7 @@ TUR	[IATA] Tucurui, Pará, Brazil
 TUS	[IATA] Tucson International, Arizona, United States of America
 TUT	[IATA] Tauta, Papua New Guinea
 TUT	[Kfz:D] Landkreis Tuttlingen
+TUTU	(french metasyntactic variable)
 TUU	[IATA] Tabuk, Saudi Arabia
 TUV	[IATA] Tucupita, Venezuela
 TUV	[Kfz] Tuvalu
@@ -17023,6 +17144,7 @@ UNL	[IATA] Unalaska, Alaska, United States of America
 UNLK	unlink
 UNO	[IATA] West Plains Municipal Airport, Missouri, United States of America
 UNS	[IATA] Umnak Island, Alaska, United States of America
+UNSA	Union Nationale des Syndicats Autonomes
 UNT	[IATA] Unst, Shetland Islands, Scotland, United Kingdom of Great Britain and Northern Ireland
 UNU	[IATA] Juneau (Dodge County Airport), Wisconsin, United States of America
 UNV	[IATA] State College (University Park), Pennsylvania, United States of America
@@ -17276,6 +17398,7 @@ VDA	[IATA] Ovda (Eilat/International), Israel
 VDB	[IATA] Fagernes (Leirin), Norway
 VDBG	[Oracle] Volume Driver Process
 VDC	[IATA] Vitoria da Conquista, Bahia, Brazil
+VDE	Verband der Elektrotechnik, Elektronik und Informationstechnik e.V.
 VDE	[IATA] Valverde, Spain
 VDFDC	[gc] Vielen Dank für den Cache (TFTC)
 VDFDD	[gc] Vielen Dank für die Dose (TFTC)
@@ -17343,6 +17466,7 @@ VHSIC	Very High Speed Integrated Circuit
 VHY	[IATA] Vichy (Charmeil), France
 VHZ	[IATA] Vahitahi, French Polynesia
 VI	it’s e̲d̲itor, *not* v̲i̲itor! don’t use it!
+VI	violett (cf. VT), IEC 62: 7 / ±0.1%
 VI	[AUS] Victoria (old; new: VIC)
 VI	[ccTLD] Amerikanische Jungferninseln
 VI	[ISO 3166] Virgin Islands (US)
@@ -17352,6 +17476,7 @@ VIB	[Kfz:D] Landkreis Vilsbiburg
 VIC	V (RAF 1942/1943 Spelling Alphabet)
 VIC	[AUS] Victoria
 VIC	[IATA] Vicenza (Trissino), Italy
+VICTOR	(metasyntactic variable in crypto for a verifier)
 VICTOR	V (International Radiotelephony Spelling Alphabet; British Forces 1952 Spelling Alphabet; French Spelling Alphabet; New York Police Spelling Alphabet; Telecom B Spelling Alphabet)
 VID	voltage level identifier
 VID	[IATA] Vidin, Bulgaria
@@ -17500,6 +17625,7 @@ VST	[IATA] Vasteras (Hasslo), Sweden
 VSWR	Voltage Standing Wave Ratio
 VT	U+000B ␋ LINE TABULATION
 VT	Vertical Tabulator (U+000B)
+VT	violet, IEC 62: 7 / ±0.1%
 VT	Virtual Terminal
 VT	[USA] Vermont
 VTA	[IATA] Victoria, Honduras
@@ -17589,6 +17715,8 @@ WAK	[Kfz:D] Wartburgkreis
 WAL	[IATA] Chincoteague, Virginia, United States of America
 WAL	[Kfz] Sierra Leone
 WAL	[Postgres] Write-Ahead Logging
+WALDO	(english metasyntactic variable)
+WALTER	(metasyntactic variable in crypto for a warden/guard)
 WAM	[IATA] Ambatondrazaka, Madagascar
 WAMP	Windows Apache MySQL {Perl,PHP,Python}
 WAMPP	Windows Apache MySQL {Perl,PHP,Python}
@@ -17686,6 +17814,7 @@ WELC	working effectively with legacy code
 WEM	[IATA] West Malling, England, United Kingdom of Great Britain and Northern Ireland
 WEM	[Kfz:D] Landkreis Wesermünde
 WEN	[Kfz:D] kreisfreie Stadt Weiden in der Oberpfalz
+WENDY	(metasyntactic variable in crypto for a whistleblower)
 WEP	Wired Equivalent Privacy (yikes! it’s as insecure as hell)
 WEP	[IATA] Weam, Papua New Guinea
 WER	[Kfz:D] Landkreis Wertingen
@@ -17748,6 +17877,7 @@ WGST	[TZif] America/Godthab (DST)
 WGT	[IATA] Wangaratta, Victoria, Australia
 WGT	[TZif] America/Godthab
 WGY	[IATA] Wagny, Gabon
+WH	white, IEC 62: 9
 WH	write hit
 WHA	[IATA] West Houston, Texas, United States of America
 WHC	[IATA] Fassama, Liberia
@@ -17957,6 +18087,7 @@ WRW	[IATA] Warranagine, Western Australia, Australia
 WRY	[IATA] Westray, United Kingdom of Great Britain and Northern Ireland
 WS	web services
 WS	Webshop
+WS	weiß (cf. WH), IEC 62: 9
 WS	WordStar
 WS	[ccTLD] Samoa
 WS	[ISO 3166] Samoa (western)
@@ -18099,6 +18230,7 @@ WZY	[IATA] Nassau Seaplane Base, Bahamas
 W^X	either writable or executable, but not both (W xor X)
 WÜ	[Kfz:D] kreisfreie Stadt und Landkreis Würzburg
 WÜM	[Kfz:D] Landkreis Waldmünchen
+X	(spanish metasyntactic variable for generic objects)
 X	British A/International Spelling Alphabet: XANTIPPE
 X	deutsches Funkalphabet: XANTHIPPE
 X	French Spelling Alphabet: XAVIER
@@ -18260,6 +18392,8 @@ XPM	X Pixmap
 XPN	[IATA] Brampton / Via Rail Service, Ontario, Canada
 XPP	[IATA] Poplar River, Manitoba, Canada
 XPR	[IATA] Pine Ridge, South Dakota, United States of America
+XPTO	(portuguese metasyntactic variable for generic objects)
+XPTO	Χριστός (Christós)
 XPU	[IATA] West Kuparuk, Alaska, United States of America
 XQP	[IATA] Quepos, Costa Rica
 XQU	[IATA] Qualicum Beach, British Columbia, Canada
@@ -18303,9 +18437,12 @@ XYA	[IATA] Yandina, Russel Is., Solomon Islands
 XYE	[IATA] Ye, Myanmar
 XYT	[IATA] Montaudran, Toulouse, France
 XYZ	[sTLD] (used by spammers)
+XYZZY	(english metasyntactic variable)
+XYZZY	(old Minesweeper cheat code)
 XZA	[IATA] Zabre, Burkina Faso
 XZB	[IATA] Casselman / Via Rail Service, Ontario, Canada
 XZC	[IATA] Glencoe / Via Rail Service, Ontario, Canada
+Y	(spanish metasyntactic variable for generic objects)
 Y	and
 Y	British A/International Spelling Alphabet: YOKOHAMA
 Y	British Forces 1952 Spelling Alphabet; RAF 1942/1943 Spelling Alphabet: YOKE
@@ -18446,6 +18583,7 @@ YDX	[IATA] Doc Creek, Canada
 YDY	[IATA] Valdepenas, Spain
 YE	Jahresende
 YE	year’s end
+YE	yellow, IEC 62: 4
 YE	[ccTLD] Jemen
 YE	[ISO 3166] Yemen
 YEA	[IATA] All Airports around Edmonton, Alberta, Canada
@@ -18909,6 +19047,7 @@ YZV	[IATA] Sept-Iles, Quebec, Canada
 YZW	[IATA] Teslin, Yukon, Canada
 YZX	[IATA] Greenwood, Nova Scotia, Canada
 YZY	[IATA] Mackenzie, British Columbia, Canada
+Z	(spanish metasyntactic variable for generic objects)
 Z	British A/International Spelling Alphabet: ZÜRICH
 Z	British Forces 1952 Spelling Alphabet; New York Police Spelling Alphabet; RAF 1942/1943 Spelling Alphabet; Telecom B Spelling Alphabet: ZEBRA
 Z	deutsches Funkalphabet: ZACHARIAS, ZEPPELIN
@@ -19097,6 +19236,7 @@ ZUL	[IATA] Zilfi, Saudi Arabia
 ZULU	Z (International Radiotelephony Spelling Alphabet)
 ZUM	[IATA] Churchill Falls, Newfoundland and Labrador, Canada
 ZUN	[IATA] Zuni Pueblo (Black Rock), New Mexico, United States of America
+ZUTANO	(spanish metasyntactic variable for people)
 ZVA	[IATA] Miandrivazo, Madagascar
 ZVG	[IATA] Springvale, Western Australia, Australia
 ZVK	[IATA] Savannakhet, Laos
@@ -19224,6 +19364,7 @@ _	[MORSE] ..--.- (not ITU-R)
 عمان	[ccTLD] Oman
 فلسطين	[ccTLD] filasṭīn, Palästina
 قطر	[ccTLD] Katar
+كذا	(arabic metasyntactic variable) (cf. KEDHA)
 مصر	[ccTLD] maṣr, Ägypten
 भारत	[ccTLD] Indien (Hindi)
 ভারত	[ccTLD] Indien (Bengali)
