@@ -1,5 +1,5 @@
 #!/bin/mksh
-# $MirOS: wtf/wtf,v 1.30 2015/11/14 19:52:25 tg Exp $
+# $MirOS: wtf/wtf,v 1.31 2015/11/14 20:09:31 tg Exp $
 # $NetBSD: wtf,v 1.7 2000/11/21 00:18:52 soren Exp $
 #-
 # Copyright © 2002, 2003, 2004, 2006, 2007, 2008, 2010, 2011,
@@ -151,11 +151,21 @@ if (( use_acronyms )); then
 
 	# create output mapping, remove mapping number from stsrch
 	set -A omsrch
-	i=0
+	tgsrch=
+	i=0 n=-1
 	for s in "${stsrch[@]}"; do
-		stsrch[i]=${s%=*}
-		(( omsrch[${s##*=}] = i++ ))
+		p=${s%=*}
+		if [[ $p = $tgsrch ]]; then
+			# this is a repeat
+			unset stsrch[i++]
+		else
+			stsrch[i++]=$p
+			tgsrch=$p
+			let ++n
+		fi
+		(( omsrch[${s##*=}] = n ))
 	done
+	set -A stsrch -- "${stsrch[@]}"
 	# now: stsrch=(BAR BAZ FOO) omsrch[1]=2 omsrch[2]=0 omsrch[3]=1
 
 	# look up acronyms
