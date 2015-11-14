@@ -1,5 +1,5 @@
 #!/bin/mksh
-# $MirOS: wtf/wtf,v 1.29 2015/10/21 20:23:23 tg Exp $
+# $MirOS: wtf/wtf,v 1.30 2015/11/14 19:52:25 tg Exp $
 # $NetBSD: wtf,v 1.7 2000/11/21 00:18:52 soren Exp $
 #-
 # Copyright © 2002, 2003, 2004, 2006, 2007, 2008, 2010, 2011,
@@ -123,22 +123,62 @@ if (( use_ports )); then
 	}
 fi
 
+if (( use_acronyms )); then
+	# read input file only once
+	exec <"$acronyms"
+
+	# create sorted input array, uppercased
+	s='set -sA stsrch --'
+	i=0
+	# now: "$@"=("$0" foo bar baz)
+	for target in "$@"; do
+		typeset -u tgsrch=$target
+		[[ $tgsrch = *[A-Z].* ]] && tgsrch=${tgsrch//.}
+		tgsrch=${tgsrch//ä/Ä}
+		tgsrch=${tgsrch//ö/Ö}
+		tgsrch=${tgsrch//ü/Ü}
+		tgsrch=${tgsrch//ñ/Ñ}
+		tgsrch=${tgsrch//á/Á}
+		tgsrch=${tgsrch//é/É}
+		tgsrch=${tgsrch//í/Í}
+		tgsrch=${tgsrch//ó/Ó}
+		tgsrch=${tgsrch//ç/Ç}
+		tgsrch=${tgsrch//è/È}
+		s+=" ${tgsrch@Q}=$((++i))"
+	done
+	eval "$s"
+	# now: stsrch=(BAR=2 BAZ=3 FOO=1)
+
+	# create output mapping, remove mapping number from stsrch
+	set -A omsrch
+	i=0
+	for s in "${stsrch[@]}"; do
+		stsrch[i]=${s%=*}
+		(( omsrch[${s##*=}] = i++ ))
+	done
+	# now: stsrch=(BAR BAZ FOO) omsrch[1]=2 omsrch[2]=0 omsrch[3]=1
+
+	# look up acronyms
+	set -A acrout
+	i=-1
+	for s in "${stsrch[@]}"; do
+		let ++i
+		while :; do
+			if [[ $line = "$s	"* ]]; then
+				acrout[i]+=$'\n'${line#*	}
+			elif [[ $line > "$s	" ]]; then
+				continue 2
+			fi
+			IFS= read -r line || break 2
+		done
+	done
+
+	exec <&-
+	i=0
+fi
+
 rv=0
 for target in "$@"; do
-	typeset -u tgsrch=$target
-	[[ $tgsrch = *[A-Z].* ]] && tgsrch=${tgsrch//.}
-	tgsrch=${tgsrch//ä/Ä}
-	tgsrch=${tgsrch//ö/Ö}
-	tgsrch=${tgsrch//ü/Ü}
-	tgsrch=${tgsrch//ñ/Ñ}
-	tgsrch=${tgsrch//á/Á}
-	tgsrch=${tgsrch//é/É}
-	tgsrch=${tgsrch//í/Í}
-	tgsrch=${tgsrch//ó/Ó}
-	tgsrch=${tgsrch//ç/Ç}
-	tgsrch=${tgsrch//è/È}
-	tgsrc1=${tgsrch::1}
-
 	if (( use_ports )); then
 		p=$(ports_acquire "$target")
 		if [[ -n $p ]]; then
@@ -148,20 +188,12 @@ for target in "$@"; do
 	fi
 
 	if (( use_acronyms )); then
-		found=0
-		while IFS= read -r line; do
-			[[ $line = "$tgsrch	"* ]] || if (( found )); then
-				# assume the file is sorted
-				break
-			elif [[ ${line::1} > "$tgsrc1" ]]; then
-				break
-			else
-				continue
-			fi
-			(( found++ )) || print -r "   $tgsrch:"
-			print -r -- "${line#*	}"
-		done <"$acronyms"
-		if (( !found )); then
+		n=${omsrch[++i]}
+		s=${acrout[n]}
+		tgsrch=${stsrch[n]}
+		if [[ -n $s ]]; then
+			print -r -- "   $tgsrch:$s"
+		else
 			print -ru2 Gee… I don’t know what “"$tgsrch"” means…
 			(( rv |= 1 ))
 		fi
