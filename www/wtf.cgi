@@ -1,5 +1,5 @@
 #!/usr/bin/perl -T
-my $rcsid = '$MirOS: wtf/www/wtf.cgi,v 1.16 2015/10/21 20:23:13 tg Exp $';
+my $rcsid = '$MirOS: wtf/www/wtf.cgi,v 1.17 2015/11/14 21:08:25 tg Exp $';
 #-
 # Copyright © 2012, 2014, 2015
 #	mirabilos <m@mirbsd.org>
@@ -105,6 +105,9 @@ if ($query ne "") {
 		chomp($line);
 		if ($line =~ /^\$MirOS: /) {
 			$acrcsid = $line;
+		}
+		if ($line =~ /^\Q@(#)\E(.*)$/) {
+			$acrcsid = $1;
 		}
 		if ($line =~ /^\Q$query	\E(.*)$/) {
 			push(@results, $1);
