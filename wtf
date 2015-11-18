@@ -1,5 +1,5 @@
 #!/bin/mksh
-# $MirOS: wtf/wtf,v 1.32 2015/11/14 21:12:30 tg Exp $
+myver='$MirOS: wtf/wtf,v 1.33 2015/11/18 23:11:31 tg Exp $'
 # $NetBSD: wtf,v 1.7 2000/11/21 00:18:52 soren Exp $
 #-
 # Copyright © 2002, 2003, 2004, 2006, 2007, 2008, 2010, 2011,
@@ -33,7 +33,8 @@ use_dict=-1
 use_ports=-1
 use_whatis=-1
 hasopt=0
-while getopts "adf:hPpt:w" ch; do
+show_ver=0
+while getopts "adf:hPpt:Vw" ch; do
 	case $ch {
 	(+a)	hasopt=1 use_acronyms=0 ;;
 	(a)	hasopt=1 use_acronyms=1 ;;
@@ -45,6 +46,7 @@ while getopts "adf:hPpt:w" ch; do
 	(+p)	hasopt=1 use_ports=0 ;;
 	(p)	hasopt=1 use_ports=1 ;;
 	(t)	;;
+	(V)	show_ver=1 ;;
 	(+w)	hasopt=1 use_whatis=0 ;;
 	(w)	hasopt=1 use_whatis=1 ;;
 	(*)	usage ;;
@@ -62,6 +64,20 @@ else
 	use_dict=0
 	use_ports=0
 	use_whatis=0
+fi
+
+if (( show_ver )); then
+	print -ru2 -- "$myver"
+	if (( use_acronyms )); then
+		exec <"$acronyms"
+		if ! IFS= read -r line || [[ $line != '  '* ]] || \
+		    ! IFS= read -r line || [[ $line != ' @(#)'* ]]; then
+			print -ru2 "E: acronyms database ${acronyms@Q} too old"
+			exit 1
+		fi
+		print -ru2 -- "${line# ????}"
+	fi
+	exit 0
 fi
 
 (( $# > 1 )) && [[ $1 = is || $1 = ist ]] && shift
