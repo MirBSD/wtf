@@ -1,5 +1,5 @@
 #!/bin/mksh
-# $MirOS: wtf/chkdb,v 1.1 2015/11/14 21:12:30 tg Exp $
+# $MirOS: wtf/chkdb,v 1.2 2015/11/18 23:01:48 tg Exp $
 #-
 # Copyright © 2015
 #	mirabilos <m@mirbsd.org>
@@ -49,6 +49,7 @@ num=1
 while IFS= read -r line; do
 	(( ++num % 100 )) || print -n "$num...\r"
 	if [[ $line != *'	'* ]]; then
+		[[ $line = ' '* ]] || warn "does not begin with a space: $line"
 		[[ $line < $last ]] && warn "not sorted: $line"
 		last=$line
 		continue
