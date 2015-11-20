@@ -1,5 +1,5 @@
   á/Á ä/Ä ç/Ç è/È é/É í/Í ñ/Ñ ó/Ó ö/Ö ü/Ü
- @(#)$MirOS: wtf/acronyms,v 1.521 2015/11/18 23:01:49 tg Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.522 2015/11/20 23:10:47 tg Exp $
  From $NetBSD: acronyms,v 1.241 2015/10/10 22:51:05 dholland Exp $
  From $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
  From $NetBSD: acronyms.comp,v 1.154 2015/10/27 15:33:07 jakllsch Exp $
@@ -625,6 +625,8 @@ AIO	[IATA] Atlantic Municipal Airport, Iowa, United States of America
 AIP	[IATA] Ailinglapalap, Marshall Islands
 AIR	[IATA] Aripuana, Mato Grosso, Brazil
 AIS	[IATA] Arorae Island, Kiribati
+AISBL	association internationale sans but lucratif
+AISBL	Internationale Vereinigung ohne Gewinnerzielungsabsicht
 AISE	as I see it
 AIT	[IATA] Aitutaki, Cook Islands
 AIU	as I understand
@@ -823,6 +825,7 @@ AND	[FIFA] Andorra
 AND	[IATA] Anderson County Airport, South Carolina, United States of America
 AND	[Kfz] Andorra
 ANE	[IATA] Angers, France
+ANEC	European Association for the Co-ordination of Consumer Representation in Standardisation AISBL
 ANF	[IATA] Cerro Moreno International, Antofagasta, Chile
 ANG	Netherlands Antillean guilder (ISO 4217 code)
 ANG	[FIFA] Angola
@@ -1531,6 +1534,7 @@ BCC	[IATA] Bear Creek 3 Airport, Alaska, United States of America
 BCD	binary coded decimal
 BCD	[IATA] Bacolod (Wings Field), Philippines
 BCD	[IATA] New Bacolod-Silay, Bacolod, Philippines
+BCE	before common era
 BCE	[IATA] Bryce Canyon Airport, Utah, United States of America
 BCF	[IATA] Bouca, Central African Republic
 BCG	[IATA] Bemichi, Guyana
@@ -2907,6 +2911,7 @@ CE	Civil Engineering
 CE	common era
 CE	Compute Element (in a Grid)
 CE	Computer Engineering
+CE	Conformité Européenne
 CE	[BR] Ceará
 CE	[Kfz:D] Landkreis Celle
 CEA	[IATA] Wichita (Cessna Aircraft Field), Kansas, United States of America
@@ -2914,6 +2919,7 @@ CEB	[IATA] Cebu, Philippines
 CEC	[IATA] Crescent City, California, United States of America
 CED	[IATA] Ceduna, South Australia, Australia
 CEF	[IATA] Springfield/Chicopee (Air Reserve), Massachusetts, United States of America
+CEFTA	Central European Free Trade Agreement
 CEG	[IATA] Chester, United Kingdom of Great Britain and Northern Ireland
 CEH	[IATA] Chengteh, China
 CEI	Comitato Elettrotecnico Italiano
@@ -3206,6 +3212,7 @@ CIS	Conventional Inertial System
 CIS	[FIFA] Commonwealth of Independent States
 CIS	[IATA] Canton Island, Kiribati
 CISC	complex instruction set computing/computer
+CISPR	Comité International Spécial des Perturbations Radio
 CIT	[IATA] Shimkent, Kazakhstan
 CITO	[gc] cache in, trash out
 CIU	[IATA] Sault Ste. Marie, Michigan, United States of America
@@ -5208,6 +5215,7 @@ EE	erosive esophagitis
 EE	[ccTLD] Estland
 EE	[ISO 3166] Estonia
 EE	[Kfz:D] Landkreis Elbe-Elster
+EEA	European Economic Area
 EECS	electrical engineering and computer science
 EED	[IATA] Needles Airport, California, United States of America
 EEE	Electrical and Electronics Engineering
@@ -5436,6 +5444,7 @@ EMACS	Emacs Makes A Computer Slow
 EMACS	Escape Meta Alt Ctrl Shift
 EMACS	Eventually Munches All Computer Storage
 EMB	[IATA] San Francisco (Embarcadero), California, United States of America
+EMC	Electromagnetic compatibility
 EMCON	Emission Control
 EMD	[IATA] Emerald, Queensland, Australia
 EMD	[Kfz:D] kreisfreie Stadt Emden
@@ -15185,6 +15194,7 @@ RSN	real soon now
 RSN	[IATA] Ruston Municipal Airport, Louisiana, United States of America
 RSO	range safety officer
 RSP	[IATA] Raspberry Strait, Alaska, United States of America
+RSPCA	Royal Society for the Prevention of Cruelty to Animals
 RSR	[Kfz] Simbabwe (veraltet)
 RSR	[Kfz] Südrhodesien (veraltet)
 RSS	really simple syndication
