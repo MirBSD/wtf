@@ -1,5 +1,5 @@
 #!/bin/mksh
-myver='$MirOS: wtf/wtf,v 1.33 2015/11/18 23:11:31 tg Exp $'
+myver='$MirOS: wtf/wtf,v 1.34 2015/11/20 23:00:52 tg Exp $'
 # $NetBSD: wtf,v 1.7 2000/11/21 00:18:52 soren Exp $
 #-
 # Copyright © 2002, 2003, 2004, 2006, 2007, 2008, 2010, 2011,
@@ -76,6 +76,19 @@ if (( show_ver )); then
 			exit 1
 		fi
 		print -ru2 -- "${line# ????}"
+		print -nu2 'Counting, please be patient…'
+		last= nacr=0 nexp=0 lots=${EPOCHREALTIME%?????}
+		while IFS= read -r line; do
+			[[ $line = *'	'* ]] || continue
+			let ++nexp
+			line=${line%%	*}
+			[[ $line = "$last" ]] || let ++nacr
+			last=$line
+			[[ $lots = ${EPOCHREALTIME%?????} ]] && continue
+			print -nu2 \\rwtf knows at least $nacr acronyms with $nexp expansions
+			lots=${EPOCHREALTIME%?????}
+		done
+		print -u2 \\rwtf currently knows about $nacr acronyms with $nexp expansions
 	fi
 	exit 0
 fi
