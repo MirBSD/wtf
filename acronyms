@@ -1,5 +1,5 @@
   á/Á ä/Ä ç/Ç è/È é/É í/Í ñ/Ñ ó/Ó ö/Ö ü/Ü
- @(#)$MirOS: wtf/acronyms,v 1.522 2015/11/20 23:10:47 tg Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.523 2015/11/22 16:04:15 tg Exp $
  From $NetBSD: acronyms,v 1.241 2015/10/10 22:51:05 dholland Exp $
  From $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
  From $NetBSD: acronyms.comp,v 1.154 2015/10/27 15:33:07 jakllsch Exp $
@@ -10,6 +10,7 @@
 !	[MORSE] -.-.-- (KW digraph)
 "	[MORSE] .-..-.
 $	[MORSE] ...-..- (not ITU-R)
+&	and
 &	[MORSE] .-... (not ITU-R)
 '	[MORSE] .----.
 (	[MORSE] -.--.
@@ -115,7 +116,7 @@ $	[MORSE] ...-..- (not ITU-R)
 10X	tenx (thanks)
 1337	elite (“leet”)
 2	International Radiotelephony Spelling Alphabet: BISSOTWO
-2	two, to
+2	two, to, too
 2	[MORSE] ..---
 2 SOPS	Second Space Operations Squadron
 2-D	two-dimensional
@@ -2642,6 +2643,7 @@ BÜS	[Kfz:D] Gemeinde Büsingen am Hochrhein im Landkreis Konstanz
 BÜZ	[Kfz:D] Landkreis Bützow
 C	British A/International Spelling Alphabet: CASABLANCA
 C	C (PSE#6) Carbonium, Kohlenstoff, Carbon | Kohlenstoff/Silicium-Gruppe | carbon group
+C	c, see
 C	deutsches Funkalphabet: CÄSAR
 C	French Spelling Alphabet: CÉLESTIN
 C	International Radiotelephony Spelling Alphabet; British Forces 1952 Spelling Alphabet; New York Police Spelling Alphabet; RAF 1942/1943 Spelling Alphabet: CHARLIE
@@ -6413,6 +6415,7 @@ FTP	File Transfer Protocol (needs to die)
 FTPS	File Transfer Protocol, SSL secured
 FTR	for the record
 FTS	fuck that shit
+FTSE	Financial Times Stock Exchange (“Footsie”)
 FTT	[IATA] Fulton, Missouri, United States of America
 FTTB	Fibre to the Building (Glasfaser bis ins Haus)
 FTTC	Fibre to the Cabinet
@@ -11858,6 +11861,7 @@ N	French Spelling Alphabet: NICOLAS
 N	International Radiotelephony Spelling Alphabet: NOVEMBER
 N	Italian Spelling Alphabet: NAPOLI
 N	N (PSE#7) Nitrogenium, Stickstoff, Nitrogen | Stickstoff/Phosphor-Gruppe | pnictogens
+N	n, and
 N	New York Police Spelling Alphabet: NORA
 N	Norden, north
 N	RAF 1942/1943 Spelling Alphabet: NUTS
@@ -14346,10 +14350,12 @@ Q	deutsches Funkalphabet: QUELLE
 Q	French Spelling Alphabet: QUINTAL
 Q	International Radiotelephony Spelling Alphabet; British A/International Spelling Alphabet: QUEBEC
 Q	Italian Spelling Alphabet: QUARTO
+Q	q, cue, queue
 Q	Quartal
 Q	Spanish Spelling Alphabet: QUERIDO
 Q	[Kfz] Katar
 Q	[MORSE] --.-
+Q&A	Question and Answer
 Q'N'D	quick and dirty
 Q000	[Oracle] AQ Server Class Process
 Q1	[Schule DE] Qualifikationsphase 1 (11. Klasse Gymnasium nach G8)
@@ -14556,6 +14562,7 @@ QSR	[IATA] Salerno, Italy
 QSS	[IATA] Alghero/Sassari, Sardinia, Italy
 QSY	[IATA] Sydney, New South Wales, Australia
 QSZ	[IATA] Shizuoka City, Japan
+QTA	question to answer
 QTA	[IATA] Atibaia, São Paulo, Brazil
 QTD	[IATA] Timbauba, Pernambuco, Brazil
 QTE	[IATA] Sao Goncalo do Amarante, Rio Grande do Norte, Brazil
@@ -19501,8 +19508,8 @@ Y	New York Police Spelling Alphabet: YOUNG
 Y	RAF 1942/1943 Spelling Alphabet: YORKER
 Y	Spanish Spelling Alphabet: YEGUA
 Y	Telecom B Spelling Alphabet: YELLOW
-Y	why?
 Y	Y (PSE#39) Yttrium | Übergangsmetalle | transition metals | metalla transitionis
+Y	y, why
 Y	year
 Y	[Kfz:D] Dienstfahrzeuge der Bundeswehr
 Y	[Kfz] Jugoslawien (veraltet)
