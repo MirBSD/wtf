@@ -1,11 +1,11 @@
   á/Á ä/Ä ç/Ç è/È é/É í/Í ñ/Ñ ó/Ó ö/Ö ü/Ü
- @(#)$MirOS: wtf/acronyms,v 1.524 2015/11/29 23:44:16 tg Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.525 2015/12/02 21:22:27 tg Exp $
  From $NetBSD: acronyms,v 1.241 2015/10/10 22:51:05 dholland Exp $
  From $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
  From $NetBSD: acronyms.comp,v 1.154 2015/10/27 15:33:07 jakllsch Exp $
  From $NetBSD: airport,v 1.60 2015/10/02 09:01:23 mbalmer Exp $
  From $OpenBSD: airport,v 1.55 2015/08/29 22:13:56 deraadt Exp $
- From github: othyro/wtfubar refs/tags/wtfubar-2.0.0
+ From github: othyro/wtfubar refs/tags/wtfubar-2.1.0
  From miros: src/sys/sys/errno.h,v 1.11 2014/09/05 22:38:17 tg Exp $
 !	[MORSE] -.-.-- (KW digraph)
 "	[MORSE] .-..-.
@@ -1265,6 +1265,7 @@ AW	[ISO 3166] Aruba
 AW	[Kfz:D] Landkreis Ahrweiler
 AWA	[IATA] Awassa, Ethiopia
 AWACBE	as well as can be expected
+AWALT	all women are like that
 AWB	[IATA] Awaba, Papua New Guinea
 AWD	[IATA] Aniwa, Vanuatu
 AWE	[IATA] Alowe, Gabon
@@ -2665,6 +2666,9 @@ C	[MORSE] -.-.
 C++	CFrustFrust
 C/A	Coarse Acquisition-code
 C/N	Carrier to Noise Ratio
+C/O	care of
+C/O	carried over
+C/O	courtesy of
 C/P	copy/paste
 C0	917×1297 mm (36×51 in)
 C1	648×917 mm (25½×36 in)
@@ -2808,6 +2812,7 @@ CCAFS	Cape Canaveral Air Force Station
 CCAR	Cisco Certified Architect
 CCB	[IATA] Upland (Cable Airport), California, United States of America
 CCC	Chaos Computer Club
+CCCZH	CCC Zürich
 CCD	charge coupled device
 CCD	[IATA] Los Angeles (Century City Heliport), California, United States of America
 CCDA	Cisco Certified Design Associate
@@ -6467,6 +6472,7 @@ FULANO	(portuguese/spanish metasyntactic variable for people)
 FUM	[IATA] Fuma, Papua New Guinea
 FUN	[IATA] Funafuti, Tuvalu
 FUO	[IATA] Fuoshan, China
+FUPA	fat upper {penile,pubic,pussy} area
 FUQ	frequently unanswered questions
 FUR	[altTLD] Furry
 FUS	fast user switching
@@ -7313,6 +7319,7 @@ H	Stunde
 H	[Kfz:D] Region Hannover
 H	[Kfz] Ungarn
 H	[MORSE] ....
+H/T	hat tip
 H8	hate
 HA	Hausarzt
 HA	high availability
@@ -7989,6 +7996,7 @@ IB	implementation-defined behaviour
 IB	I’m back
 IBA	[IATA] Ibadan, Nigeria
 IBAN	International Bank Account Number
+IBB	I’ll be back
 IBC	iterated block cipher
 IBE	[IATA] Ibague, Colombia
 IBI	[IATA] Iboki, Papua New Guinea
@@ -8121,6 +8129,7 @@ IF	intermediate frequency
 IFA	[IATA] Iowa Falls Municipal Airport, Iowa, United States of America
 IFATSEA	International Federation of Air Traffic Safety Electronics Association
 IFCM	isochronous flow control mode
+IFE	in-flight entertainment systems
 IFF	Interchange File Format
 IFF	[IATA] Iffley, Queensland, Australia
 IFJ	[IATA] Isafjordur, Iceland
@@ -8733,6 +8742,7 @@ JERUSALEM	J (British A/International Spelling Alphabet)
 JES	job entry subsystem
 JES	[IATA] Jesup-Wayne County Airport, Georgia, United States of America
 JEV	[Kfz:D] Landkreis Friesland
+JFC	Jesus fucking Christ
 JFDI	just fucking do it
 JFET	junction [gate] field-effect transistor
 JFF	just for fun
@@ -12091,6 +12101,7 @@ NEC	[Kfz:D] kreisfreie Stadt Neustadt bei Coburg
 NED	[FIFA] Netherlands
 NED	[IOC] Netherlands
 NEDM	not even Doom music
+NEET	not in education, employment, or training
 NEG	negation
 NEG	[IATA] Negril, Jamaica
 NEJ	[IATA] Nova Lamego, Guinea Bissau
@@ -13847,9 +13858,17 @@ POA	Portable Object Adapter
 POA	[HP] Prisoner of Azkaban
 POA	[IATA] Porto Alegre (Salgado Filho), Rio Grande do Sul, Brazil
 POB	[IATA] Fayetteville (Pope Air Force Base), North Carolina, United States of America
+POC	peace observation commission
+POC	people of colour
+POC	percentage of completion
 POC	phone operation centre
-POC	piece of crap
+POC	piece of cake
+POC	pile of crap
+POC	point of care
 POC	point of contact
+POC	port of call
+POC	processor outage control
+POC	proof of claim
 POC	proof of concept
 POC	[IATA] La Verne (Brackett Field), California, United States of America
 POD	[IATA] Podor, Senegal
@@ -14171,7 +14190,9 @@ PSE#96	Cm (PSE#96) Curium | Uran-Metalle (Aktiniden) | actinides | actinida
 PSE#97	Bk (PSE#97) Berkelium | Uran-Metalle (Aktiniden) | actinides | actinida
 PSE#98	Cf (PSE#98) Californium | Uran-Metalle (Aktiniden) | actinides | actinida
 PSE#99	Es, E (PSE#99) Einsteinium | Uran-Metalle (Aktiniden) | actinides | actinida
+PSF	PC Screen Font
 PSF	[IATA] Pittsfield Municipal Airport, Massachusetts, United States of America
+PSFU	PC Screen Font with Unicode mapping table
 PSG	[IATA] Petersburg Airport, Alaska, United States of America
 PSH	[IATA] St. Peter, Germany
 PSI	[IATA] Pasni, Pakistan
@@ -16701,7 +16722,6 @@ SU	Sau unterwegs
 SU	Service Unit
 SU	Suche Unfall
 SU	SuperUser
-SU	SuperUser
 SU	[ccTLD] die ehemalige Sowjetunion (heute von Rußland weiterverwendet)
 SU	[E-Stoffe] Süßungsmittel
 SU	[Kfz:D] Rhein-Sieg-Kreis (in Siegburg)
@@ -17191,6 +17211,7 @@ TEMP	temporary
 TEO	[IATA] Terapo, Papua New Guinea
 TEP	[IATA] Teptep, Papua New Guinea
 TER	[IATA] Terceira (Aeroporto das Lajes), Azores, Portugal
+TERF	trans-exclusionary radical feminist
 TERRAIN	Total Engagierte Radikale Raudis Aus Innerem Nichtwissen
 TERRATHREE	3 (International Radiotelephony Spelling Alphabet)
 TES	[IATA] Tessenei, Ethiopia
@@ -17292,6 +17313,7 @@ THM	[IATA] Thompson Falls Airport, Montana, United States of America
 THN	[IATA] Trollhattan, Sweden
 THNX	thanks
 THO	[IATA] Thorshofn, Iceland
+THOT	that ho over there
 THP	[IATA] Thermopolis (Hot Springs County), Wyoming, United States of America
 THR	[IATA] Theran (Qualeh Morgeh Airport), Iran
 THRB	thumb hits reset button
@@ -18482,6 +18504,7 @@ VEL	[IATA] Vernal Airport, Utah, United States of America
 VEN	[FIFA] Venezuela
 VENEZIA	V (Italian Spelling Alphabet)
 VENT	ventilation
+VENTY	Ventilator
 VER	[IATA] Veracruz (General Heriberto Jara), Mexico
 VER	[Kfz:D] Landkreis Verden
 VERFGH	Verfassungsgerichtshof
@@ -19816,6 +19839,7 @@ YKQ	[IATA] Waskaganish, Quebec, Canada
 YKS	[IATA] Jacob, Congo
 YKT	[IATA] Klemtu, British Columbia, Canada
 YKU	[IATA] Chisasibi, Quebec, Canada
+YKW	you know {what,who}
 YKWIM	you know what I mean
 YKX	[IATA] Kirkland Lake, Ontario, Canada
 YKY	[IATA] Kindersley, Saskatchewan, Canada
@@ -20234,6 +20258,7 @@ ZET	[IATA] Goslar, Germany
 ZFA	[IATA] Faro, Yukon, Canada
 ZFB	[IATA] Old Fort Bay, Quebec, Canada
 ZFD	[IATA] Fond-du-Lac, Saskatchewan, Canada
+ZFG	zero fucks given
 ZFL	[IATA] South Trout Lake, Ontario, Canada
 ZFM	[IATA] Fort McPherson, Northwest Territories, Canada
 ZFN	[IATA] Fort Norman, Northwest Territories, Canada
