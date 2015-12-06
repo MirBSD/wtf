@@ -1,8 +1,8 @@
   á/Á ä/Ä ç/Ç è/È é/É í/Í ñ/Ñ ó/Ó ö/Ö ü/Ü
- @(#)$MirOS: wtf/acronyms,v 1.525 2015/12/02 21:22:27 tg Exp $
- From $NetBSD: acronyms,v 1.241 2015/10/10 22:51:05 dholland Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.526 2015/12/06 01:33:17 tg Exp $
+ From $NetBSD: acronyms,v 1.242 2015/12/03 03:28:47 jnemeth Exp $
  From $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
- From $NetBSD: acronyms.comp,v 1.154 2015/10/27 15:33:07 jakllsch Exp $
+ From $NetBSD: acronyms.comp,v 1.155 2015/12/03 03:28:47 jnemeth Exp $
  From $NetBSD: airport,v 1.60 2015/10/02 09:01:23 mbalmer Exp $
  From $OpenBSD: airport,v 1.55 2015/08/29 22:13:56 deraadt Exp $
  From github: othyro/wtfubar refs/tags/wtfubar-2.1.0
@@ -110,23 +110,30 @@ $	[MORSE] ...-..- (not ITU-R)
 1	one, on
 1	[MORSE] .----
 1 SOPS	First Space Operations Squadron
+1.3MP	1280x1024px
 1080I	1920x540px (interlaced)
-1080P	1920x1080px
+1080P	1920x1080px, cf. FHD
 10Q	thank you
 10X	tenx (thanks)
 1337	elite (“leet”)
+13MP	4224x3156px, 4128x3096px, 4208x3120px
+1440P	cf. WQHD
+1MP	1280x720px
 2	International Radiotelephony Spelling Alphabet: BISSOTWO
 2	two, to, too
 2	[MORSE] ..---
 2 SOPS	Second Space Operations Squadron
 2-D	two-dimensional
+2.3MP	1920x1200px
 224	today, tomorrow, forever
 2A0	1189×1682 mm (46¾×66¼ in)
 2B0	1414×2000 mm (55.6692×78.7401 in)
 2D	two-dimensional
 2FA	two-factor authentication
 2IC	second in charge
+2K	2048x1080px
 2MORROW	tomorrow
+2MP	1920x1080px, 1600x1200px
 3	International Radiotelephony Spelling Alphabet: TERRATHREE
 3	[MORSE] ...--
 3-D	three-dimensional
@@ -134,25 +141,33 @@ $	[MORSE] ...-..- (not ITU-R)
 3D	three-dimensional
 3GPP	3rd generation partnership project
 3LD	third-level domain
+3MP	2048x1536px
 3WHS	three-way handshake
 4	four, for
 4	International Radiotelephony Spelling Alphabet: KARTEFOUR
 4	[MORSE] ....-
 45 SPW	Forty Fifth Space Wing
+480P	640×480px or 720×480px or 800×480 or 853.33×480px
 4A0	1682×2378 mm (66¼×93⅝ in)
+4K	3840x2160px (UHD)
+4K	4096x2160px (DCI)
 4TF	[gc] fourth to find
 4TW	for the win
 5	International Radiotelephony Spelling Alphabet: PANTAFIVE
 5	[MORSE] .....
 50 SPW	Fiftieth Space Wing
+5MP	2560x1920px
 6	International Radiotelephony Spelling Alphabet: SOXISIX
 6	[MORSE] -....
+6MP	3032x2008px
 7	International Radiotelephony Spelling Alphabet: SETTESEVEN
 7	[MORSE] --...
-720P	1280x720px
+720P	1280x720px, cf. HD
 8	eight, ate
 8	International Radiotelephony Spelling Alphabet: OKTOEIGHT
 8	[MORSE] ---..
+8K	7680x4320px
+8MP	3264x2448px
 8VSB	8-state vestigial side band modulation
 9	International Radiotelephony Spelling Alphabet: NOVENINE, NINER
 9	[MORSE] ----.
@@ -538,6 +553,7 @@ AG	[CH] it, rm: Argovia
 AG	[ISO 3166] Antigua & Barbuda
 AG	[Kfz] Antigua und Barbuda
 AG	[Schule DE] Arbeitsgemeinschaft
+AGA	Advanced Graphics Adapter (can do both MGA/HGC and CGA)
 AGA	[IATA] Inezgane, Agadir (Al Massira), Morocco
 AGB	[IATA] Muehlhausen, Augsburg, Germany
 AGC	automatic gain control
@@ -3078,7 +3094,7 @@ CG	control gate
 CG	Couch gesucht
 CG	[ccTLD] Republik Kongo
 CG	[ISO 3166] Congo (Rep.)
-CGA	Color Graphics Adapter
+CGA	Color Graphics Adapter (320x200px)
 CGA	[gc] Cachegrundausstattung
 CGA	[IATA] Craig Seaplane Base, Alaska, United States of America
 CGB	[IATA] Cuiaba, Mato Grosso, Brazil
@@ -4067,6 +4083,7 @@ DCD	data carrier detect
 DCE	data control equipment
 DCE	distributed computing environment
 DCF	[IATA] Dominica Cane Field, Dominica
+DCI	Digital Cinema Initiatives
 DCK	[IATA] Dahl Creek Airport, Alaska, United States of America
 DCL	data control language
 DCL	Doctor of Civil Law
@@ -4637,6 +4654,7 @@ DVB-T	digital video broadcasting over terrestrial stations
 DVCS	distributed version control system
 DVD	digital versatile disc
 DVFS	dynamic voltage and frequency scaling
+DVGA	double-size VGA (960x640px)
 DVI	device independent
 DVI	Digital Visual Interface
 DVK	[IATA] Danville (Stuart Powell Field), Kentucky, United States of America
@@ -5224,6 +5242,7 @@ EDT	[TZif] EST5EDT (DST)
 EDT	[TZif] US/East-Indiana (DST)
 EDT	[TZif] US/Eastern (DST)
 EDT	[TZif] US/Michigan (DST)
+EDTV	enhanced-definition television (cf. 480p)
 EDU	[sTLD] educational (Bildungseinrichtungen)
 EDV	Elektronische Datenverarbeitung
 EDW	[IATA] Edwards (Air Force Base), California, United States of America
@@ -6079,6 +6098,7 @@ FGU	[IATA] Fangatau, French Polynesia
 FGX	[IATA] Flemingsburg (Fleming-Mason), Kentucky, United States of America
 FH	[E-Stoffe] Feuchthaltemittel
 FH	[Kfz:D] Main-Taunus-Kreis
+FHD	Full HD (1920x1080px), cf. HD, cf. 1080p
 FHK	[IATA] Fort Zucker (Knox Army Heliport), Alabama, United States of America
 FHOG	first hit on google
 FHSS	frequency hop spread spectrum
@@ -6499,6 +6519,7 @@ FWL	[IATA] Farewell Airport, Alaska, United States of America
 FWM	[IATA] Fort William, United Kingdom of Great Britain and Northern Ireland
 FWS	folding white space
 FWS	[IATA] Fort Worth (Spinks Airport), Texas, United States of America
+FWVFA	Full Wide VGA (854x480px)
 FXE	[IATA] Fort Lauderdale Executive Airport, Florida, United States of America
 FXM	[IATA] Flaxman, Alaska, United States of America
 FXO	[IATA] Cuamba (Nova Freixo), Mozambique
@@ -7419,6 +7440,7 @@ HCR	[IATA] Holy Cross Airport, Alaska, United States of America
 HCS	[IATA] Johannesburg (Heliport), South Africa
 HCW	[IATA] Cheraw Municipal Airport, South Carolina, United States of America
 HD	hard disc
+HD	high definition (1280x720px), cf. HDTV, cf. 720p
 HD	High-Dynamic
 HD	[Kfz:D] kreisfreie Stadt Heidelberg und Rhein-Neckar-Kreis
 HDA	Heil den Asen (=OMG)
@@ -7507,6 +7529,7 @@ HG	Hg ☿ (PSE#80) Mercurium, Hydrargyron, Quecksilber, Mercury | Übergangsmeta
 HG	[Kfz:D] Hochtaunuskreis
 HG	[Kfz:D] Obertaunuskreis
 HGA	[IATA] Hargeisa, Somalia
+HGC	Hercules Graphics Card (720x348px black/white; 80x25 text mode with Intensity)
 HGD	[IATA] Hughenden, Queensland, Australia
 HGH	[IATA] Hangzhou (Jianqiao), China
 HGL	[IATA] Helgoland, Germany
@@ -7753,6 +7776,7 @@ HQ	Headquarters
 HQ	high quality
 HQG	[IATA] Hugoton Municipal Airport, Kansas, United States of America
 HQM	[IATA] Hoquiam (Bowerman Airport), Washington, United States of America
+HQVGA	half QVGA (240x160px)
 HQZ	[IATA] Mesquite (Phil L. Hudson), Texas, United States of America
 HR	Hessischer Rundfunk
 HR	Hour (hr)
@@ -7816,6 +7840,7 @@ HSTM	Hausstaubmilben(allergie)
 HSTS	HTTP Strict Transport Security
 HSUPA	High-Speed Uplink Packet Access
 HSV	[IATA] Huntsville International (Jones Field), Alabama, United States of America
+HSXGA	5120x4096px
 HT	handheld transceiver
 HT	Horizontal Tabulator (U+0009)
 HT	hyper-threading
@@ -7881,6 +7906,7 @@ HUT	[IATA] Hutchinson Municipal Airport, Kansas, United States of America
 HUU	[IATA] Huanuco, Peru
 HUV	[IATA] Hudiksvall, Sweden
 HUX	[IATA] Santa Cruz (Bahias de Huatulco), Mexico
+HUXGA	6400x4800px
 HUY	[IATA] Humberside, England, United Kingdom of Great Britain and Northern Ireland
 HUZ	[IATA] Huizhow, China
 HV	Host Vehicle
@@ -7893,6 +7919,7 @@ HVB	[IATA] Hervey Bay, Queensland, Australia
 HVC	[IATA] Hopkinsville-Christian County Airport, Kentucky, United States of America
 HVE	[IATA] Hanksville Airport, Utah, United States of America
 HVG	[IATA] Honningsvag, Norway
+HVGA	half-size VGA (480x320px); variants: 480x270px 480x272px 480x360px 640x240px
 HVK	[IATA] Holmavik, Iceland
 HVL	[Kfz:D] Landkreis Havelland
 HVM	hardware virtual machine
@@ -7917,6 +7944,7 @@ HWTF	he wants to fuck
 HWZ	Halbwertszeit
 HX	[Kfz:D] Kreis Höxter
 HXF	[IATA] Hartford Municipal Airport, Wisconsin, United States of America
+HXGA	4096x3072px
 HXX	[IATA] Hay, New South Wales, Australia
 HY	[Kfz:D] Hoyerswerda im Landkreis Bautzen
 HYA	[IATA] Hyannis (Barnstable), Massachusetts, United States of America
@@ -10624,6 +10652,7 @@ MB	megabyte
 MB	[CDN] Manitoba
 MB	[Kfz:D] Landkreis Miesbach
 MBA	Master of Business Administration
+MBA	multi-boot agent
 MBA	[IATA] Mombasa (Moi International), Kenya
 MBB	[IATA] Marble Bar, Western Australia, Australia
 MBC	[IATA] Mbigou, Gabon
@@ -10804,7 +10833,7 @@ MD	[Kfz:D] kreisfreie Stadt Magdeburg
 MD	[Kfz] Moldawien
 MD	[USA] Maryland
 MDA	mail delivery agent
-MDA	Monochrome Display Adapter
+MDA	Monochrome Display Adapter (80x25 text mode with Intensity)
 MDA	[FIFA] Moldova
 MDA	[IATA] San Antonio (Martindale AAF), Texas, United States of America
 MDB	Mitglied des Bundestages
@@ -10969,6 +10998,7 @@ MG	[ccTLD] Madagaskar
 MG	[ISO 3166] Madagascar
 MG	[Kfz:D] kreisfreie Stadt Mönchengladbach
 MGA	Malagasy ariary (ISO 4217 code)
+MGA	Monochrome Graphics Adapter (cf. HGC)
 MGA	[IATA] Managua (Augusto Cesar Sandino), Nicaragua
 MGB	[IATA] Mount Gambier, South Australia, Australia
 MGC	[IATA] Michigan City Airport, Indiana, United States of America
@@ -11045,7 +11075,7 @@ MIB	[IATA] Minot Air Force Base, North Dakota, United States of America
 MIC	message integrity {check,code}
 MIC	[IATA] Minneapolis (Crystal Airport), Minnesota, United States of America
 MICRO	[altTLD] Micronations
-MID	mobile Internet device
+MID	mobile internet device
 MID	[IATA] Merida (Manuel Crecencio Rejon), Mexico
 MIDI	musical instrument digital interface
 MIE	[IATA] Muncie (Delaware County Airport), Indiana, United States of America
@@ -11388,6 +11418,8 @@ MOZ	[FIFA] Mozambique
 MOZ	[IATA] Moorea, Society Islands, French Polynesia
 MP	mana points
 MP	mana pool
+MP	Megapixels
+MP	member of parliament
 MP	multi-platform
 MP	multiplayer
 MP	multiprocessing
@@ -12195,6 +12227,7 @@ NH	[Kfz:D] Landkreis Neuhaus
 NH	[Kfz:D] Landkreis Neustadt an der Weinstraße
 NH	[USA] New Hampshire
 NHA	[IATA] Nha-Trang, Vietnam
+NHD	⅑FHD / ¼HD (640x360px)
 NHF	[IATA] New Halfa, Sudan
 NHJ	[IATA] Naha, Japan
 NHK	[IATA] Patuxent River (Trapnell Field), Maryland, United States of America
@@ -13274,7 +13307,7 @@ PAK	[FIFA] Pakistan
 PAK	[IATA] Hanapepe (Port Allen Airport), Hawaii, United States of America
 PAK	[Kfz] Pakistan (veraltet)
 PAL	friend, mate
-PAL	phase alternating line
+PAL	phase alternating line (728x576px)
 PAL	Problem anderer Leute (cf. SEP)
 PAL	programmable array logic
 PAL	[FIFA] Palestine, British Mandate
@@ -14499,6 +14532,7 @@ QGU	[IATA] Gifu, Japan
 QGV	[IATA] Neu Isenburg, Germany
 QHA	[IATA] Hasselt, Belgium
 QHD	[IATA] Heidelberg, Germany
+QHD	¼FHD (960x540px)
 QHE	[IATA] Sao Bento do Sul, Santa Catarina, Brazil
 QHL	[IATA] Castunhal, Pará, Brazil
 QHT	[IATA] Teresopolis, Rio de Janeiro, Brazil
@@ -14586,6 +14620,7 @@ QPR	[IATA] Prato, Italy
 QPS	Queries Per Second
 QPV	[IATA] Perisher Valley, New South Wales, Australia
 QQV	[IATA] Lupin Airport, Northwest Territories, Canada
+QQVGA	quarter QVGA (160x120px)
 QQZ	[IATA] Paraguana (Josefa Camejo), Venezuela
 QR	Quick Reaction
 QRA	[IATA] Johannesburg (Randgermiston), South Africa
@@ -14614,6 +14649,7 @@ QSO	[IATA] Sousse, Tunisia
 QSP	[IATA] Sancti Spiritu, Cuba
 QSR	[IATA] Salerno, Italy
 QSS	[IATA] Alghero/Sassari, Sardinia, Italy
+QSXGA	2560x2048px
 QSY	[IATA] Sydney, New South Wales, Australia
 QSZ	[IATA] Shizuoka City, Japan
 QTA	question to answer
@@ -14643,8 +14679,10 @@ QUS	[IATA] Gusau, Nigeria
 QUT	[IATA] Utsunomiya, Japan
 QUUX	(english metasyntactic variable)
 QUX	(english metasyntactic variable)
+QUXGA	3200x2400px
 QUZ	[IATA] Quzhou, China
 QVB	[IATA] Uniao do Vitoria, Paraná, Brazil
+QVGA	quarter VGA (320x240px)
 QVH	[IATA] Vila Velho, Espírito Santo, Brazil
 QVI	[IATA] Valbonne, France
 QVN	[IATA] Avellino, Italy
@@ -14653,6 +14691,8 @@ QVT	[IATA] Victoria de las Tunas, Cuba
 QVU	[IATA] Viru, Solomon Islands
 QWP	[IATA] Winter Park, Colorado, United States of America
 QWU	[IATA] Wurzburg, Germany
+QWXGA	Quadruple Wide XGA (2048x1152px)
+QXGA	Quadruple XGA (2048x1536px)
 QXJ	[IATA] Caixas do Sul, Rio Grande do Sul, Brazil
 QXP	[IATA] Struga, Macedonia
 QYH	[IATA] Hengelo, Netherlands
@@ -14843,6 +14883,7 @@ RDK	[IATA] Red Oak (Municipal Airport), Iowa, United States of America
 RDM	relational data model
 RDM	[IATA] Redmond (Roberts Field), Oregon, United States of America
 RDMA	remote direct memory access
+RDNS	reverse DNS
 RDR	[IATA] Red River, North Dakota, United States of America
 RDS	Reliable Datagram Sockets
 RDT	[IATA] Richard Toll, Senegal
@@ -15192,6 +15233,8 @@ RPC	remote procedure call
 RPC	role playing convention
 RPG	Rocket Propelled Grenade
 RPG	role-playing game
+RPI	Raspberry Pi
+RPI2	Raspberry Pi 2
 RPL	requested privilege level
 RPL	[Kfz:D] Rheinland-Pfalz, Landesregierung und Landtag
 RPM	RedHat Package Manager
@@ -15207,6 +15250,7 @@ RPX	[IATA] Roundup Airport, Montana, United States of America
 RR	Blutdruck
 RR	railroad
 RR	random replacement
+RR	resource record
 RR	round robin
 RR	[BR] Roraima
 RRC	UMTS Radio Resource Control
@@ -15706,6 +15750,7 @@ SCZ	[Kfz:D] Landkreis Schleiz
 SD	Schweizer Demokraten
 SD	Secure Digital
 SD	Sequenzdiagramm
+SD	standard definition (640x480px)
 SD	[ccTLD] Sudan
 SD	[ISO 3166] Sudan
 SD	[Kfz] Swasiland
@@ -15754,6 +15799,7 @@ SDS	[IATA] Sado Shima, Japan
 SDT	syntax-directed translation
 SDT	[IATA] Saidu Sharif, Pakistan
 SDT	[Kfz:D] Stadtkreis Schwedt/Oder
+SDTV	standard-definition television
 SDU	[IATA] Rio de Janeiro (Santos Dumont), Rio de Janeiro, Brazil
 SDV	[IATA] Tel Aviv, Israel
 SDW	[IATA] Sandwip, Bangladesh
@@ -16794,7 +16840,7 @@ SVE	[IATA] Susanville Municipal Airport, California, United States of America
 SVF	[IATA] Save, Benin
 SVG	scalable vector graphics
 SVG	[IATA] Stavanger (Sola), Norway
-SVGA	Super Video Graphics Array
+SVGA	Super Video Graphics Array (800x600px)
 SVH	[IATA] Statesville Municipal Airport, North Carolina, United States of America
 SVI	[IATA] San Vicente del Caguan, Colombia
 SVJ	[IATA] Svolvaer (Helle), Norway
@@ -16890,6 +16936,9 @@ SXD	[IATA] Sophia Antipolis (Heliport), France
 SXE	[IATA] Sale (West Sale Airport), Victoria, Australia
 SXF	[IATA] Berlin Schoenefeld, Germany
 SXG	[IATA] Senanga, Zambia
+SXGA	Super XGA (1280x1024px); variants: 1280x960px (SXGA-, UVGA)
+SXGA+	1400x1050px
+SXGA-	(cf. SXGA)
 SXH	[IATA] Sehulea, Papua New Guinea
 SXI	[IATA] Sirri Island, Iran
 SXK	[IATA] Saumlaki, Indonesia
@@ -17835,7 +17884,7 @@ TTJ	[IATA] Tottori, Japan
 TTL	time to live
 TTL	transistor-transistor logic
 TTL	[IATA] Turtle Island, Fiji
-TTM	Atari 19″ 1280x960 Monochrome Monitor
+TTM	Atari 19″ 1280x960px Monochrome Monitor
 TTM	to the moderator
 TTM	translation table maps
 TTM	[IATA] Tablon de Tamara, Colombia
@@ -18098,6 +18147,8 @@ UGS	Ugandan shilling A/87 (old ISO 4217 code)
 UGT	Universal Greeting Time -- http://thinkmoult.com/ugt.html
 UGX	Ugandan shilling (ISO 4217 code)
 UH	[Kfz:D] Unstrut-Hainich-Kreis
+UHD	Ultra HD (cf. 4K) (cf. 8K)
+UHD+	5120x2880px
 UHE	[IATA] Uherske Hradiste, Slovakia
 UHF	ultra high frequency
 UHF	[IATA] Upper Heyford (RAF Station), England, United Kingdom of Great Britain and Northern Ireland
@@ -18353,14 +18404,19 @@ UV	ultraviolet
 UVA	[IATA] Uvalde (Garner Field), Texas, United States of America
 UVE	[IATA] Uvea, Loyalty Islands, New Caledonia
 UVF	[IATA] Hewanorra International Airport, Vieux-Fort, Saint Lucia
+UVGA	(cf. SXGA)
 UVL	[IATA] New Valley, Egypt
 UVO	[IATA] Uvol, Papua New Guinea
 UVZ	Universelle Verpeilerzeit
+UW-UXGA	2560x1080px
 UWA	[IATA] Ware Airport, Massachusetts, United States of America
 UWE	[IATA] Wiesbaden, Germany
 UWL	[IATA] New Castle (Henry County), Indiana, United States of America
 UWP	[IATA] Wuppertal, Germany
+UWUXGA	2560x1080px
+UWXGA	1600x768px
 UX	user experience
+UXGA	Ultra XGA (1600x1200px)
 UY	[ccTLD] Uruguay
 UY	[ISO 3166] Uruguay
 UYF	[IATA] London (Madison County Airport), Ohio, United States of America
@@ -18527,7 +18583,7 @@ VG	volume group
 VG	[ccTLD] Britische Jungferninseln
 VG	[ISO 3166] Virgin Islands (UK)
 VG	[Kfz:D] Landkreis Vorpommern-Greifswald ohne die Stadt Greifswald
-VGA	Video Graphics Array
+VGA	Video Graphics Array (640x480px), cf. SD
 VGA	[IATA] Vijayawada, India
 VGB	[FIFA] British Virgin Islands
 VGB	[ISO 3166] British Virgin Islands
@@ -18961,6 +19017,7 @@ WG	wegen (MS Outlook mis-translation)
 WG	weitergeleitet (MS Outlook mis-translation, normally Fwd:)
 WG	[Kfz:D] Landkreis Wangen
 WG	[Kfz] Grenada
+WGA	(cf. WVGA)
 WGA	[IATA] Wagga Wagga, New South Wales, Australia
 WGB	[IATA] Bahawalnagar, Pakistan
 WGC	[IATA] Warrangal, India
@@ -18991,9 +19048,12 @@ WHO	[IATA] Franz Josef, New Zealand
 WHP	[IATA] Los Angeles (Whiteman Airport), California, United States of America
 WHR	[IATA] Vail (Junction Heliport), Colorado, United States of America
 WHS	[IATA] Whalsay, United Kingdom of Great Britain and Northern Ireland
+WHSXGA	6400x4096px
 WHT	[IATA] Wharton, Texas, United States of America
 WHU	[IATA] Wuhu, China
+WHUXGA	7680x4800px
 WHV	[Kfz:D] kreisfreie Stadt Wilhelmshaven
+WHXGA	5120x3200px
 WHY	because.
 WI	[Kfz:D] kreisfreie Stadt Wiesbaden
 WI	[USA] Wisconsin
@@ -19167,6 +19227,12 @@ WPT	[IATA] Westport, New Zealand
 WPT	[Schule DE] Wahlpflichtunterricht in Teilklassen
 WPU	[IATA] Puerto Williams, Chile
 WPW	[IATA] Keekorok, Kenya
+WQHD	2560x1440px
+WQSXGA	3200x2048px
+WQUXGA	3840x2400px
+WQVGA	wide QVGA (variants: 360x240px 376x240px 384x240px 400x240px 428x240px 432x240px 480x270px 480x272px)
+WQXGA	2560x1600px
+WQXGA+	3200x1800px
 WR	[Kfz:D] Landkreis Wernigerode
 WRA	[IATA] Warder, Ethiopia
 WRAM	window random access memory
@@ -19224,10 +19290,12 @@ WST	[IATA] Westerly, Rhode Island, United States of America
 WST	[Kfz:D] Landkreis Ammerland
 WSU	[IATA] Wasu, Papua New Guinea
 WSV	Winterschlußverkauf
+WSVGA	Wide SVGA (1024x600px); variants: 1024x576px
 WSW	Westsüdwest, west-south-west
 WSW	würde schneller wandern
 WSW	[Kfz:D] Landkreis Weißwasser
 WSX	[IATA] Westsound, Washington, United States of America
+WSXGA+	Widescreen Super XGA Plus (1680x1050px)
 WSY	[IATA] Airlie Beach, Queensland, Australia
 WSZ	[IATA] Westport, New Zealand
 WT	[Kfz:D] Landkreis Waldshut
@@ -19285,10 +19353,12 @@ WUS	[IATA] Wuyishan, China
 WUU	[IATA] Wau, Sudan
 WUV	[IATA] Wuvulu Island, Papua New Guinea
 WUX	[IATA] Wuxi, China
+WUXGA	1920x1200px
 WUZ	[IATA] Wuzhou, China
 WV	[Kfz] St. Vincent und die Grenadinen
 WV	[USA] West Virginia
 WVB	[IATA] Walvis Bay, Namibia
+WVGA	Wide VGA (800x480px); variants: 640x360px 640x384px 720x480px 768x480px 848x480px 852x480px 853x480px 854x480px
 WVI	[IATA] Watsonville, California, United States of America
 WVK	[IATA] Manakara, Madagascar
 WVL	[IATA] Waterville (Robert Lafleur Airport), Maine, United States of America
@@ -19318,6 +19388,9 @@ WWW	world wide waiting
 WWW	world wide web
 WWY	[IATA] West Wyalong, New South Wales, Australia
 WXF	[IATA] Braintree (RAF Station), England, United Kingdom of Great Britain and Northern Ireland
+WXGA	1366x768px (in television, not computing)
+WXGA	Wide XGA (1280x768px); variants: 1152x768ps 1280x720px 1280x800px 1344x768px 1360x768px 1366x768px
+WXGA+	1440x900px
 WXH	[IATA] Tanga Island, Papua New Guinea
 WXN	[IATA] Wanxian, Sichuan, China
 WY	[USA] Wyoming
@@ -19427,8 +19500,9 @@ XFS	[IATA] Alexandria / Via Rail Service, Ontario, Canada
 XFU	UIC franc (special settlement currency) (ISO 4217 code)
 XFV	[IATA] Brantford / Via Rail Service, Ontario, Canada
 XFW	[IATA] Hamburg (Finkerwerden), Germany
-XGA	Extended Graphics Array
+XGA	Extended Graphics Array (1024x768px)
 XGA	[IATA] Gaoua, Burkina Faso
+XGA+	1152x864px (SVGA), 1152x900px (Sun), 1152x870px (Apple), 1120x832px (NeXT)
 XGD	[IATA] Dnata, United Arab Emirates
 XGG	[IATA] Gorom Gorom, Burkina Faso
 XGJ	[IATA] Cobourg / Via Rail Service, Ontario, Canada
