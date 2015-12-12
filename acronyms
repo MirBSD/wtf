@@ -1,5 +1,5 @@
   á/Á ä/Ä ç/Ç è/È é/É í/Í ñ/Ñ ó/Ó ö/Ö ü/Ü
- @(#)$MirOS: wtf/acronyms,v 1.526 2015/12/06 01:33:17 tg Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.527 2015/12/12 23:24:56 tg Exp $
  From $NetBSD: acronyms,v 1.242 2015/12/03 03:28:47 jnemeth Exp $
  From $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
  From $NetBSD: acronyms.comp,v 1.155 2015/12/03 03:28:47 jnemeth Exp $
@@ -6141,6 +6141,7 @@ FIONBIO	ioctl(2) set non-blocking I/O
 FIONCLEX	ioctl(2) clear close-on-exec flag (usually F_SETFD though)
 FIONREAD	ioctl(2) get number of bytes available for reading
 FIOSETOWN	ioctl(2) set process/group for SIGIO
+FIPS	Federal Information Processing Standards
 FIR	fast infrared
 FIRENZE	F (Italian Spelling Alphabet)
 FIT	[IATA] Fitchburg Municipal Airport, Massachusetts, United States of America
@@ -6497,6 +6498,7 @@ FUQ	frequently unanswered questions
 FUR	[altTLD] Furry
 FUS	fast user switching
 FUSE	filesystem in userspace
+FUSSP	final ultimate solution to the spam problem
 FUT	[IATA] Futuna, Wallis and Futuna Islands
 FUTHARK	(runic Alphabet)
 FVX	[IATA] Farmville Municipal Airport, Virginia, United States of America
@@ -6861,6 +6863,7 @@ GI	[Kfz:D] Landkreis Gießen
 GIB	[FIFA] Gibraltar
 GIB	[IATA] Gibraltar (North Front), Gibraltar
 GIC	[IATA] Boigu Island, Queensland, Australia
+GID	gender identity disorder
 GID	group identifier
 GID	[IATA] Gitenga, Burundi
 GIDF	Google ist dein Freund (oder besser DDG)
@@ -8197,6 +8200,7 @@ IHS	Jesus
 IHS	Jesus hominum salvator (backronym)
 IHSV	in hōc signo vincēs
 IHU	[IATA] Ihu, Papua New Guinea
+IHV	in Höhe von
 IHV	independent hardware vendor
 IIA	[IATA] Inishmaan, Ireland
 IIANM	if I am not mistaken
@@ -10529,6 +10533,7 @@ LYS	[IATA] Lyon Saint-Exupery (Satolas), France
 LYT	[IATA] Lady Elliott Island, Australia
 LYU	[IATA] Ely Municipal Airport, Minnesota, United States of America
 LYX	[IATA] Lydd, United Kingdom of Great Britain and Northern Ireland
+LZA	Langzeitarchivierung
 LZA	[IATA] Luiza, Zaire
 LZC	[IATA] Lazaro Cardenas, Mexico
 LZH	[IATA] Liuzhou, China
@@ -12083,6 +12088,7 @@ ND	neighbor discovery
 ND	[Kfz:D] Landkreis Neuburg an der Donau
 ND	[Kfz:D] Landkreis Neuburg-Schrobenhausen
 ND	[USA] North Dakota
+NDA	non-disclosure agreement
 NDA	[IATA] Bandanaira, Indonesia
 NDB	[IATA] Nouadhibou, Mauritania
 NDC	[IATA] Nanded, India
@@ -15851,6 +15857,7 @@ SEP	someone else’s problem
 SEP	Spherical Error Probable
 SEP	[IATA] Stephenville (Clark Field), Texas, United States of America
 SEPA	Single Euro Payments Area
+SEQ	sequence
 SEQ	[IATA] Sungal Pakning, Indonesia
 SER	server
 SER	service
@@ -17410,6 +17417,7 @@ TIMTOWTDI	there is more than one way to do it (perl sucks, now we all know why)
 TIN	Tax Identification Number
 TIN	[IATA] Tindouf, Algeria
 TINASOTODP	this is not a statement of the official Debian position
+TINC	(self-routing, mesh networking VPN)
 TINC	there is no cabal
 TINLA	this is not legal advice
 TINSTA	there is no such thing as ...
@@ -18046,6 +18054,7 @@ U	[MORSE] ..-
 U/L	upload
 U2	you, too
 U2F	Universal 2nd Factor (2FA standard)
+UA	user agent
 UA	[ccTLD] Ukraine
 UA	[ISO 3166] Ukraine
 UA	[Kfz] Ukraine
@@ -18595,6 +18604,7 @@ VGS	[IATA] General Villega, Argentina
 VGT	[IATA] North Las Vegas Air Terminal, Nevada, United States of America
 VGZ	[IATA] Villagarzon, Colombia
 VH	very helpful (lilo lingo, from IRC)
+VH	von Hundert (Prozent)
 VHC	[IATA] Saurimo, Angola
 VHDCI	very high density cable interconnect
 VHDL	VHSIC Hardware Description Language
@@ -20562,6 +20572,7 @@ _	[MORSE] ..--.- (not ITU-R)
 ź	[MORSE] --..-.
 Ż	[MORSE] --..-
 ż	[MORSE] --..-
+ΕΛ	[ccTLD] Griechenland
 АСУ	Ассенизационно-Санитарная Установка (waste management system)
 КГБ	Комитет государственной безопасности (Committee for State Security of the Soviet Union), now ФСБ/FSB
 МОН	[ccTLD] Mongolia
@@ -20590,6 +20601,7 @@ _	[MORSE] ..--.- (not ITU-R)
 سوريا	[ccTLD] sūriyā, Syrien
 سورية	[ccTLD] Syrien
 شبكة	[sTLD] arabisch: Netz
+عراق	[ccTLD] Irak
 عمان	[ccTLD] Oman
 فلسطين	[ccTLD] filasṭīn, Palästina
 قطر	[ccTLD] Katar
