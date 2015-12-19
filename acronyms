@@ -1,5 +1,5 @@
   á/Á ä/Ä ç/Ç è/È é/É í/Í ñ/Ñ ó/Ó ö/Ö ü/Ü
- @(#)$MirOS: wtf/acronyms,v 1.527 2015/12/12 23:24:56 tg Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.528 2015/12/19 19:02:00 tg Exp $
  From $NetBSD: acronyms,v 1.242 2015/12/03 03:28:47 jnemeth Exp $
  From $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
  From $NetBSD: acronyms.comp,v 1.155 2015/12/03 03:28:47 jnemeth Exp $
@@ -351,6 +351,7 @@ ACM	Association for Computing Machinery
 ACM	Attribute Certificate Manager
 ACM	[IATA] Arica, Colombia
 ACME	A Company Making Everything
+ACME	Automated Certificate Management Environment
 ACMS	[Oracle] Atomic Control File to Memory Service Process
 ACN	[IATA] Ciudad Acuna, Mexico
 ACO	[IATA] Ascona, Switzerland
@@ -4225,6 +4226,7 @@ DGR	[IATA] Dargaville, New Zealand
 DGT	[IATA] Dumaguete, Philippines
 DGU	[IATA] Dedougou, Burkina Faso
 DGW	[IATA] Douglas (Converse County Airport), Wyoming, United States of America
+DH	das heißt (that is)
 DH	Diffie-Hellman
 DH	[HP] Deathly Hallows
 DH	[Kfz:D] Landkreis Grafschaft Diepholz
@@ -8381,6 +8383,7 @@ ION	[IATA] Impfondo, Congo
 IOP	[IATA] Ioma, Papua New Guinea
 IOPS	I/O Operations per Second
 IOR	[IATA] Inishmore, Ireland
+IOS	Internet of Shit (cf. IoT)
 IOS	[IATA] Ilheus, Bahia, Brazil
 IOT	Internet of Things
 IOU	I owe you (debt)
@@ -14940,10 +14943,13 @@ REP	reputation
 REP	[IATA] Siem Reap (Angkor), Cambodia
 REPL	read-eval-print loop
 REPS	repeats (e.g. of an exercise)
+REQ	request
+REQ	require(ment)
 REQ	[IATA] Requena, Spain
 RER	Réseau Express Régional
 RES	[BookCrossing] reserved
 RES	[IATA] Resistencia, Argentina
+RESP	response
 REST	representational state transfer
 RET	return
 RET	[IATA] Rost (Stollport), Norway
@@ -15306,6 +15312,7 @@ RSMN	[Oracle] Remote Slave Monitor Process
 RSN	real soon now
 RSN	[IATA] Ruston Municipal Airport, Louisiana, United States of America
 RSO	range safety officer
+RSP	response
 RSP	[IATA] Raspberry Strait, Alaska, United States of America
 RSPCA	Royal Society for the Prevention of Cruelty to Animals
 RSR	[Kfz] Simbabwe (veraltet)
@@ -15473,6 +15480,7 @@ S	S (PSE#16) Sulphur, Schwefel, Sulfur | Chalkogene | chalcogens
 S	S-Bahn
 S	second
 S	Sekunde
+S	siehe (cf. cf)
 S	Spanish Spelling Alphabet: SÁBADO
 S	Süden, south
 S	[E-Stoffe] Säure, Säuerungsmittel
@@ -16379,6 +16387,7 @@ SNX	[IATA] Sabana de La Mar, Dominican Republic
 SNY	[IATA] Sidney Municipal Airport, Nebraska, United States of America
 SNZ	[IATA] Santa Cruz, Brazil
 SO	shared object file (cf. DLL)
+SO	siehe oben (see above)
 SO	significant other
 SO	StackOverflow
 SO	Südost, south-east
@@ -16737,6 +16746,7 @@ STL	Standard Template Library
 STL	[IATA] St. Louis/Lambert International, Missouri, United States of America
 STL	[Kfz:D] Landkreis Stollberg
 STLD	sponsored top-level domain
+STM	short-term memory
 STM	STMicroelectronics
 STM	Synchronous Transport Module (SDH)
 STM	[IATA] Santarem, Pará, Brazil
@@ -16773,6 +16783,7 @@ STY	[IATA] Aeropuerto Departamental de Salto, Uruguay
 STZ	[IATA] Santa Terezinha, Brazil
 SU	Sau unterwegs
 SU	Service Unit
+SU	siehe unten (see below)
 SU	Suche Unfall
 SU	SuperUser
 SU	[ccTLD] die ehemalige Sowjetunion (heute von Rußland weiterverwendet)
@@ -18307,6 +18318,7 @@ URA	User Range Accuracy
 URA	[IATA] Uralsk, Kazakhstan
 URB	[IATA] Urubupunga, Mato Grosso, Brazil
 URC	[IATA] Urumqi (Diwopu), China
+URCU	userspace RCU
 URE	User Range Error
 URE	[IATA] Greenfield, Massachusetts, United States of America
 URG	[IATA] Uruguaiana (Rubem Berta), Rio Grande do Sul, Brazil
@@ -19103,6 +19115,7 @@ WIZ	[Kfz:D] Landkreis Witzenhausen
 WJA	[IATA] Woja, Marshall Islands
 WJF	[IATA] Lancaster/Palmdale, California, United States of America
 WJR	[IATA] Wajir, Kenya
+WK	week(s)
 WK	[Kfz:D] Landkreis Wittstock
 WKA	[IATA] Wanaka, New Zealand
 WKB	[IATA] Warracknabeal, Victoria, Australia
