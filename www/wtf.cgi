@@ -1,5 +1,5 @@
 #!/usr/bin/perl -T
-my $rcsid = '$MirOS: wtf/www/wtf.cgi,v 1.18 2015/11/14 21:47:12 tg Exp $';
+my $rcsid = '$MirOS: wtf/www/wtf.cgi,v 1.19 2015/12/27 02:25:09 tg Exp $';
 #-
 # Copyright © 2012, 2014, 2015
 #	mirabilos <m@mirbsd.org>
@@ -90,16 +90,66 @@ if ($query ne "") {
 
 	$query =~ y/a-z/A-Z/;
 	$query =~ y/.//d if $query =~ /[A-Z]\./;
-	$query =~ s/ä/Ä/g;
-	$query =~ s/ö/Ö/g;
-	$query =~ s/ü/Ü/g;
-	$query =~ s/ñ/Ñ/g;
+	$query =~ s/à/À/g;
 	$query =~ s/á/Á/g;
-	$query =~ s/é/É/g;
-	$query =~ s/í/Í/g;
-	$query =~ s/ó/Ó/g;
+	$query =~ s/ä/Ä/g;
+	$query =~ s/å/Å/g;
+	$query =~ s/æ/Æ/g;
 	$query =~ s/ç/Ç/g;
 	$query =~ s/è/È/g;
+	$query =~ s/é/É/g;
+	$query =~ s/í/Í/g;
+	$query =~ s/ð/Ð/g;
+	$query =~ s/ñ/Ñ/g;
+	$query =~ s/ó/Ó/g;
+	$query =~ s/ö/Ö/g;
+	$query =~ s/ø/Ø/g;
+	$query =~ s/ü/Ü/g;
+	$query =~ s/þ/Þ/g;
+	$query =~ s/ą/Ą/g;
+	$query =~ s/ć/Ć/g;
+	$query =~ s/ĉ/Ĉ/g;
+	$query =~ s/č/Č/g;
+	$query =~ s/đ/Đ/g;
+	$query =~ s/ę/Ę/g;
+	$query =~ s/ĝ/Ĝ/g;
+	$query =~ s/ĥ/Ĥ/g;
+	$query =~ s/ĵ/Ĵ/g;
+	$query =~ s/ł/Ł/g;
+	$query =~ s/ń/Ń/g;
+	$query =~ s/ś/Ś/g;
+	$query =~ s/ŝ/Ŝ/g;
+	$query =~ s/š/Š/g;
+	$query =~ s/ŭ/Ŭ/g;
+	$query =~ s/ź/Ź/g;
+	$query =~ s/ż/Ż/g;
+	$query =~ s/ž/Ž/g;
+	$query =~ s/ε/Ε/g;
+	$query =~ s/λ/Λ/g;
+	$query =~ s/ο/Ο/g;
+	$query =~ s/ς/Σ/g;
+	$query =~ s/σ/Σ/g;
+	$query =~ s/а/А/g;
+	$query =~ s/б/Б/g;
+	$query =~ s/г/Г/g;
+	$query =~ s/д/Д/g;
+	$query =~ s/е/Е/g;
+	$query =~ s/з/З/g;
+	$query =~ s/й/Й/g;
+	$query =~ s/к/К/g;
+	$query =~ s/л/Л/g;
+	$query =~ s/м/М/g;
+	$query =~ s/н/Н/g;
+	$query =~ s/о/О/g;
+	$query =~ s/р/Р/g;
+	$query =~ s/с/С/g;
+	$query =~ s/т/Т/g;
+	$query =~ s/у/У/g;
+	$query =~ s/ф/Ф/g;
+	$query =~ s/қ/Қ/g;
+	$query =~ s/ա/Ա/g;
+	$query =~ s/հ/Հ/g;
+	$query =~ s/յ/Յ/g;
 
 	foreach my $line (<ACRONYMS>) {
 		chomp($line);
