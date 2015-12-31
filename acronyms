@@ -1,5 +1,5 @@
   à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž ε/Ε λ/Λ ο/Ο ς/Σ σ/Σ а/А б/Б г/Г д/Д е/Е з/З й/Й к/К л/Л м/М н/Н о/О р/Р с/С т/Т у/У ф/Ф қ/Қ ա/Ա հ/Հ յ/Յ
- @(#)$MirOS: wtf/acronyms,v 1.529 2015/12/27 01:36:16 tg Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.530 2015/12/31 21:14:02 tg Exp $
  From $NetBSD: acronyms,v 1.242 2015/12/03 03:28:47 jnemeth Exp $
  From $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
  From $NetBSD: acronyms.comp,v 1.155 2015/12/03 03:28:47 jnemeth Exp $
@@ -119,6 +119,7 @@ $	[MORSE] ...-..- (not ITU-R)
 13MP	4224x3156px, 4128x3096px, 4208x3120px
 1440P	cf. WQHD
 1MP	1280x720px
+1TBS	the one true brace style
 2	International Radiotelephony Spelling Alphabet: BISSOTWO
 2	two, to, too
 2	[MORSE] ..---
@@ -1786,6 +1787,8 @@ BFR	[IATA] Bedford (Municipal Airport), Indiana, United States of America
 BFS	breadth-first search
 BFS	[IATA] Belfast International Airport, Northern Ireland
 BFT	binary file transfer
+BFT	blunt force trauma
+BFT	Bundesverband freier Tankstellen
 BFT	[IATA] Beaufort County Airport, South Carolina, United States of America
 BFU	[IATA] Bengbu, China
 BFV	[IATA] Clinton Municipal Airport, Oklahoma, United States of America
@@ -4050,6 +4053,8 @@ D0	771×1091 mm (30.3543×42.9527 in)
 D000	[Oracle] Dispatcher Process
 D1	545×771 mm (21.4566×30.3543 in)
 D2	385×545 mm (15.1574×21.4566 in)
+D2	Diablo Ⅱ
+D2LOD	Diablo Ⅱ Lord of Destruction
 D3	272×385 mm (10.7086×15.1574 in)
 D4	192×272 mm (7.5590×10.7086 in)
 D5	136×192 mm (5.3543×7.5590 in)
@@ -5971,6 +5976,7 @@ EVN	[IATA] Yerevan (Zapadny), Armenia
 EVP	Evangelische Volkspartei der Schweiz
 EVR	(state railways of Estonia)
 EVS	Exploitation Vacation Sujétion
+EVTL	eventuell
 EVU	[IATA] Maryville Memorial Airport, Missouri, United States of America
 EVV	[IATA] Evansville Regional Airport, Indiana, United States of America
 EVW	[IATA] Evanston-Uinta County Burns Field, Wyoming, United States of America
@@ -6953,6 +6959,7 @@ GFM	Chemins der fer Fribourgeios (Gruyére-Friburg-Morat)
 GFN	[IATA] Grafton, New South Wales, Australia
 GFO	[IATA] Bartica, Guyana
 GFR	[IATA] Granville, France
+GFSC	NASA Goddard Space Flight Center
 GFU	good for you
 GFX	graphics (card)
 GFY	go fuck yourself
@@ -7792,6 +7799,7 @@ HKV	[IATA] Haskovo, Bulgaria
 HKW	[IATA] Hankow, China
 HKX	Hamburg-Köln-Expreß
 HKY	[IATA] Hickory Regional Airport, North Carolina, United States of America
+HL	Half-Life
 HL	Hovedstadens Lokalbaner (Capital City Local Railways)
 HL	[Kfz:D] Hansestadt Lübeck
 HLA	[IATA] Lanseria, South Africa
@@ -7799,6 +7807,7 @@ HLB	Hessische Landesbahn
 HLB	[IATA] Batesville (Hillenbrand), Indiana, United States of America
 HLC	[IATA] Hill City Municipal Airport, Kansas, United States of America
 HLD	[IATA] Hailar, China
+HLDS	Half-Life dedicated server
 HLF	[IATA] Hultsfred, Sweden
 HLG	[IATA] Wheeling Ohio County Airport, West Virginia, United States of America
 HLGK	[Schule DE] Hochleistungsgrundkurs (Grundkurs bei anspruchsvollem Lehrer)
@@ -9819,6 +9828,8 @@ KV	Köchelverzeichnis (Mozart)
 KVA	kernel virtual address
 KVA	[IATA] Kavala (Meags Alexandros), Greece
 KVB	keine verläßliche Busverbindung
+KVB	Kölner Verbrecherbande
+KVB	Kölner Verkehrs-Betriebe
 KVB	[IATA] Skovde, Sweden
 KVC	[IATA] King Cove Airport, Alaska, United States of America
 KVD	[IATA] Gyandzha, Azerbaijan
@@ -10440,6 +10451,7 @@ LOA	[IATA] Lorraine, Queensland, Australia
 LOB	[IATA] Lo Tung, Taiwan
 LOC	lines of code
 LOC	[IATA] Lock, South Australia, Australia
+LOD	Lord of Destruction
 LOD	[IATA] Longana, Vanuatu
 LOE	[IATA] Loei, Thailand
 LOF	[IATA] Loen, Norway
@@ -11385,6 +11397,7 @@ MIS	Management Information Systems
 MIS	[IATA] Misima, Papua New Guinea
 MISCHAN	(accidentally writing in the wrong IRC channel)
 MISD	multiple instruction, single data
+MISRA	Motor Industry Software Reliability Association
 MIT	Massachusetts Institute of Technology
 MIT	[IATA] Shafter (Minter Field), California, United States of America
 MITM	man in the middle
@@ -13447,6 +13460,7 @@ OT&E	Operational Test and Evaluation
 OTA	over the air
 OTA	[IATA] Kota, Ethiopia
 OTB	on the board
+OTBS	the one true brace style
 OTC	over the counter
 OTC	[IATA] Bol, Chad
 OTD	[IATA] Contadora, Panama
@@ -13635,6 +13649,7 @@ PAL	[Kfz] Palau
 PAM	pluggable authentication modules
 PAM	pulse amplitude modulation
 PAM	[IATA] Panama City (Tyndall Air Force Base), Florida, United States of America
+PAN	primary account number
 PAN	[FIFA] Panama
 PAN	[IATA] Pattani, Thailand
 PAN	[Kfz:D] Landkreis Pfarrkirchen
@@ -13724,7 +13739,9 @@ PCF	Portable Compiled Format – see bdftopcf(1)
 PCG	[IATA] Paso Caballos, Guatemala
 PCH	[IATA] Palacios, Honduras
 PCH	[Kfz:D] Altkreis Parchim im Landkreis Ludwigslust-Parchim
+PCI	Payment Card Industry Security Standards Council
 PCI	peripheral component interconnect
+PCI-DSS	PCI Data Security Standard
 PCK	[IATA] Porcupine Creek Airport, Alaska, United States of America
 PCL	[IATA] Pucallpa, Peru
 PCM	phase change memory
@@ -16052,6 +16069,7 @@ SCAM	Betrug, Masche, Beschiß, fraudulent scheme, swindle
 SCAM	source-code analysis and manipulation
 SCAS	Site Central Authorisation Service
 SCB	[IATA] Scribner State Airport, Nebraska, United States of America
+SCBW	StarCraft Brood War
 SCC	second-class citizen
 SCC	single chip cloud
 SCC	source code control
@@ -17567,6 +17585,7 @@ TBP	[IATA] Tumbes, Peru
 TBR	to be revealed
 TBR	[BookCrossing] to be read
 TBR	[IATA] Statesboro Municipal Airport, Georgia, United States of America
+TBS	tablespace
 TBS	Textbaustein
 TBS	[IATA] Tbilisi (Novoalexeyevka), Abkhazia, Georgia
 TBSC	[GC] total blöder Statistik-Cache
@@ -17703,7 +17722,9 @@ TF	[ccTLD] Französische Süd- und Antarktisgebiete
 TF	[ISO 3166] French Southern & Antarctic Lands
 TF	[Kfz:D] Landkreis Teltow-Fläming
 TFA	[IATA] Tilfalmin, Papua New Guinea
+TFA	[SW] Episode VII: The Force Awakens
 TFB	too fucking bad
+TFC	Team Fortress Classic
 TFF	[IATA] Tefe, Maranhão, Brazil
 TFI	[IATA] Tufi, Papua New Guinea
 TFL	[IATA] Teofilo Otoni, Minas Gerais, Brazil
@@ -18240,6 +18261,7 @@ TRX	[IATA] Trenton Municipal Airport, Missouri, United States of America
 TRY	Turkish lira (ISO 4217 code)
 TRY	[IATA] Tororo, Uganda
 TRZ	[IATA] Tiruchirapally, India
+TS	tablespace (cf. TBS) (occasionally)
 TS	Teamspeak
 TS	Technical Specification
 TS	terminal services
