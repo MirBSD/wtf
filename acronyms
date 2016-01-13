@@ -1,8 +1,8 @@
   à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž ε/Ε λ/Λ ο/Ο ς/Σ σ/Σ а/А б/Б г/Г д/Д е/Е з/З й/Й к/К л/Л м/М н/Н о/О р/Р с/С т/Т у/У ф/Ф қ/Қ ա/Ա հ/Հ յ/Յ
- @(#)$MirOS: wtf/acronyms,v 1.531 2016/01/04 22:18:03 tg Exp $
- From $NetBSD: acronyms,v 1.242 2015/12/03 03:28:47 jnemeth Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.532 2016/01/13 17:22:53 tg Exp $
+ From $NetBSD: acronyms,v 1.243 2016/01/08 08:37:18 jnemeth Exp $
  From $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
- From $NetBSD: acronyms.comp,v 1.155 2015/12/03 03:28:47 jnemeth Exp $
+ From $NetBSD: acronyms.comp,v 1.156 2016/01/08 08:37:18 jnemeth Exp $
  From $NetBSD: airport,v 1.61 2016/01/03 15:25:31 mbalmer Exp $
  From $OpenBSD: airport,v 1.55 2015/08/29 22:13:56 deraadt Exp $
  From github: othyro/wtfubar refs/tags/wtfubar-2.1.0
@@ -5219,6 +5219,12 @@ EBCDIC	Extended Binary Coded Decimal Interchange Code (cf. BCD)
 EBD	[IATA] El Obeid, Sudan
 EBE	[Kfz:D] Landkreis Ebersberg
 EBG	[IATA] El Barge, Colombia
+EBIT	earnings before interest and taxes
+EBIT	Gewinn vor Zinsen und Steuern
+EBIT	operatives Ergebnis
+EBITDA	absoluter Unternehmensertrag
+EBITDA	earnings before interest, taxes, depreciation, and amortisation
+EBITDA	Ergebnis vor Zinsen, Steuern, Abschreibungen auf Sachanlagen wie Maschinen, und Abschreibungen auf immateriellen Vermögenswerten wie Firmenwerte übernommener Unternehmen
 EBJ	[IATA] Esbjerg, Denmark
 EBM	[IATA] El Borma, Algeria
 EBN	[IATA] Ebadon, Marshall Islands
@@ -7220,6 +7226,8 @@ GOLF	gents only, ladies forbidden
 GOM	[IATA] Goma, Dem. Rep. of the Congo
 GON	[IATA] Groton (New London), Connecticut, United States of America
 GOO	[IATA] Goondiwindi, Queensland, Australia
+GOP	grand old party
+GOP	graphics output protocol
 GOP	[IATA] Gorakhpur, India
 GOPHER	[altTLD] Seiten, die das Gopher-Protokoll verwenden
 GOQ	[IATA] Golmud, China
@@ -14301,6 +14309,7 @@ POZ	[IATA] Poznan [Lawica], Poland
 PP	apiece
 PP	pair programming
 PP	per person
+PP	perge, perge
 PP	perk point
 PP	Pickel piddeling
 PP	Pinkelpause
@@ -18610,6 +18619,7 @@ UFF	[Kfz:D] Landkreis Uffenheim
 UFS	Unix File System
 UG	[ccTLD] Uganda
 UG	[ISO 3166] Uganda
+UGA	universal graphics adapter
 UGA	[FIFA] Uganda
 UGA	[IATA] Bulgan, Mongolia
 UGB	[IATA] Pilot Point (Ugashik Bay Airport), Alaska, United States of America
@@ -20962,6 +20972,8 @@ ZIH	[IATA] Ixtapa/Zihuatanejo, Mexico
 ZIM	Zentrum für Informations- und Medienverwaltung (cf. HRZ)
 ZIM	[FIFA] Zimbabwe
 ZIOP	Zipped IOP
+ZIP	(cf. PLZ)
+ZIP	zone improvement plan
 ZJG	[IATA] Jenpeg, Manitoba, Canada
 ZJI	[IATA] Locarno, Switzerland
 ZJP	[IATA] Montreux, Switzerland
