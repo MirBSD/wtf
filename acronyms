@@ -1,5 +1,5 @@
   à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž ε/Ε λ/Λ ο/Ο ς/Σ σ/Σ а/А б/Б г/Г д/Д е/Е з/З й/Й к/К л/Л м/М н/Н о/О р/Р с/С т/Т у/У ф/Ф қ/Қ ա/Ա հ/Հ յ/Յ
- @(#)$MirOS: wtf/acronyms,v 1.532 2016/01/13 17:22:53 tg Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.533 2016/01/14 19:09:33 tg Exp $
  From $NetBSD: acronyms,v 1.243 2016/01/08 08:37:18 jnemeth Exp $
  From $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
  From $NetBSD: acronyms.comp,v 1.156 2016/01/08 08:37:18 jnemeth Exp $
@@ -4649,6 +4649,7 @@ DRO	[IATA] Durango-La Plata County Airport, Colorado, United States of America
 DRR	[IATA] Durrie, Queensland, Australia
 DRRS	display refresh rate switching
 DRS	[IATA] Dresden, Germany
+DRT	dead right there
 DRT	[IATA] Del Rio International Airport, Texas, United States of America
 DRU	[IATA] Drummond Airport, Montana, United States of America
 DRW	[IATA] Darwin, Northern Territory, Australia
@@ -12634,6 +12635,7 @@ NLG	[IATA] Nelson Lagoon Airport, Alaska, United States of America
 NLK	[IATA] Norfolk Island, Australia
 NLL	[IATA] Nullagine, Western Australia, Australia
 NLO	[IATA] Kinshasa (N’Dolo), Zaire
+NLP	natural language processing
 NLP	[IATA] Nelspruit, South Africa
 NLS	native language support
 NLS	[IATA] Nicholson, Western Australia, Australia
@@ -12647,6 +12649,7 @@ NMA	[IATA] Namangan, Uzbekhistan
 NMB	[IATA] Daman, India
 NMB	[Kfz:D] Landkreis Naumburg
 NMBS	Nationale Maatschappij der Belgische Spoorwegen (Belgian National Railways) (cf. SNCB)
+NMBS	Nationale Maatschappij voor Belgische Stakingen
 NMC	[IATA] Norman’s Cay, Bahamas
 NME	[IATA] Nightmute Airport, Alaska, United States of America
 NMEA	National Marine Electronics Association
@@ -13809,6 +13812,7 @@ PDP	page descriptor page
 PDP	page directory page
 PDP	Policy Decision Point
 PDP	[IATA] Punta del Este (El Jacuel), Uruguay
+PDPC	peer-directed projects center (cf. OPN)
 PDQ	pretty darn quick
 PDR	[IATA] Presidente Dutra, Brazil
 PDS	Partei des Demokratischen Sozialismus (jetzt Linkspartei, mit WASG)
