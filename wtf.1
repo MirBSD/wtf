@@ -1,4 +1,4 @@
-.\" $MirOS: wtf/wtf.1,v 1.20 2015/11/18 23:11:31 tg Exp $
+.\" $MirOS: wtf/wtf.1,v 1.21 2016/01/16 22:59:11 tg Exp $
 .\" $NetBSD: wtf.6,v 1.4 2001/04/02 22:42:40 wiz Exp $
 .\"-
 .\" Copyright © 2002, 2003, 2006, 2010, 2011, 2012, 2014, 2015
@@ -73,7 +73,7 @@
 .\" with -mandoc, it might implement .Mx itself, but we want to
 .\" use our own definition. And .Dd must come *first*, always.
 .\"
-.Dd $Mdocdate: November 18 2015 $
+.Dd $Mdocdate: January 16 2016 $
 .\"
 .\" Check which macro package we use, and do other -mdoc setup.
 .\"
@@ -173,7 +173,7 @@ Search the acronym database
 Search the dictionary.
 Needs a dict client installed.
 .It Fl f Ar dbfile
-Acronym database to use, overrides the
+Overrides the default acronym database, bypassing the value of the
 .Ev ACRONYMDB
 variable.
 .It Fl P
@@ -224,7 +224,10 @@ contains, after upper-casing, an ASCII letter [A\-Z] followed by a dot
 .Sh ENVIRONMENT
 .Bl -tag -width ACRONYMDB
 .It Ev ACRONYMDB
-Path to a file in the proper format (acronym[tab]meaning).
+The default acronym database may be overridden by setting the
+environment variable
+.Ev ACRONYMDB
+to the name of a file in the proper format (acronym[tab]meaning).
 .El
 .Sh FILES
 .Bl -tag -width /usr/share/misc/acronyms -compact
