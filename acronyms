@@ -1,5 +1,5 @@
   à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž ε/Ε λ/Λ ο/Ο ς/Σ σ/Σ а/А б/Б г/Г д/Д е/Е з/З й/Й к/К л/Л м/М н/Н о/О р/Р с/С т/Т у/У ф/Ф қ/Қ ա/Ա հ/Հ յ/Յ
- @(#)$MirOS: wtf/acronyms,v 1.534 2016/01/15 18:16:38 tg Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.535 2016/01/17 00:30:48 tg Exp $
  From $NetBSD: acronyms,v 1.243 2016/01/08 08:37:18 jnemeth Exp $
  From $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
  From $NetBSD: acronyms.comp,v 1.156 2016/01/08 08:37:18 jnemeth Exp $
@@ -339,6 +339,7 @@ ACDT	[TZif] Australia/Broken_Hill (DST)
 ACDT	[TZif] Australia/South (DST)
 ACDT	[TZif] Australia/Yancowinna (DST)
 ACE	[IATA] Arrecife (Lanzarote), Canary Islands, Spain
+ACFM	Adobe composite font metrics
 ACFS	[Oracle] ASM Cluster File System CSS Process
 ACH	[IATA] Altenrhein (Rorshach), Switzerland
 ACI	adjacent channel interferer
@@ -535,6 +536,7 @@ AFK	akquirieren frischen Kaffees
 AFK	auffem Klo
 AFK	away from keyboard
 AFL	[IATA] Alta Floresta, Brazil
+AFM	Adobe font metrics
 AFMC	Air Force Materiel Command
 AFN	Afghan afghani (ISO 4217 code)
 AFN	[IATA] Jaffrey Municipal Airport, New Hampshire, United States of America
@@ -634,6 +636,7 @@ AIB	[IATA] Anita Bay, Alaska, United States of America
 AIB	[Kfz:D] Landkreis Bad Aibling
 AIC	[IATA] Airok, Marshall Islands
 AIC	[Kfz:D] Landkreis Aichach-Friedberg
+AICCU	Automatic IPv6 Connectivity Client Utility
 AID	[IATA] Anderson Municipal Airport, Indiana, United States of America
 AIDA	attention, interest, desire, action
 AIDS	acquired immunodeficiency syndrome (HIV)
@@ -805,6 +808,7 @@ AME	[IATA] Alto Molocue, Mozambique
 AMERIME	(badly) dubbed anime
 AMEX	American Express
 AMF	[IATA] Ama, Papua New Guinea
+AMFM	Adobe multiple font metrics
 AMG	[IATA] Ambolin, Papua New Guinea
 AMH	[IATA] Arba Mintch, Ethiopia
 AMI	alternate mark inversion
@@ -1210,6 +1214,7 @@ ATI	[IATA] Artigas, Uruguay
 ATJ	[IATA] Antsirabe, Madagascar
 ATK	[IATA] Atqasuk Airport, Alaska, United States of America
 ATL	[IATA] Atlanta William B. Hartsfield International, Georgia, United States of America
+ATM	Adobe Type Manager
 ATM	asynchronous transfer mode
 ATM	at the moment
 ATM	automated teller machine
@@ -1363,6 +1368,7 @@ AYF	all your fault
 AYG	[IATA] Yaguara, Colombia
 AYH	[IATA] Alconbury RAF Station, England, United Kingdom of Great Britain and Northern Ireland
 AYI	[IATA] Yari, Colombia
+AYIYA	anything in anything (tunneling protocol)
 AYJ	[IATA] Lincoln (Army National Guard), Nebraska, United States of America
 AYK	[IATA] Arkalyk, Kazakhstan
 AYL	[IATA] Anthony Lagoon, Northern Territory, Australia
@@ -1488,6 +1494,7 @@ BAMPP	BSD Apache MySQL {Perl,PHP,Python}
 BAN	[FIFA] Bangladesh
 BAN	[IATA] Basongo, Zaire
 BAN	[IOC] Bangladesh
+BANCOMAT	Geldautomat (cf. ATM)
 BAO	[IATA] Ban Mak Khaeng, Thailand
 BAP	[IATA] Baibara, Papua New Guinea
 BAPPSC	Bachelor of Applied Science
@@ -3139,6 +3146,7 @@ CFCO	Congo-Ocean Railway
 CFD	[IATA] Bryan (Coulter Field), Texas, United States of America
 CFE	[IATA] Clermont-Ferrand (Aulnat), Auvergne, France
 CFF	chemins de fer fédéraux suisses (cf. SBB)
+CFF	compact font format (cubic Bézier curves)
 CFG	context-free grammar
 CFG	control-flow graph
 CFG	[IATA] Cienfuegos, Cuba
@@ -3292,6 +3300,7 @@ CIC	Codex Iuris Canonici
 CIC	combat information centre
 CIC	[IATA] Chico Municipal Airport, California, United States of America
 CICS	Customer Information Control System
+CID	character identifier (font)
 CID	[IATA] Cedar Rapids/Iowa City, Iowa, United States of America
 CIDR	Classless Inter-Domain Routing
 CIE	[IATA] Collie, Western Australia, Australia
@@ -3513,6 +3522,8 @@ CNP	[IATA] East Greenland, Greenland
 CNQ	[IATA] Corrientes, Argentina
 CNR	carrier to noise ratio
 CNR	[IATA] Chanaral, Chile
+CNS	Chinese National Standards
+CNS	Traditional Chinese (font class)
 CNS	[IATA] Cairns, Queensland, Australia
 CNT	Chinese yuan (when traded offshore) from Taiwan, inofficial
 CNT	[IATA] Charata, Argentina
@@ -3617,6 +3628,7 @@ CP	copy/paste
 CP	corporal punishment
 CP00	[Oracle] Database Capture Process
 CPA	[IATA] Cape Palmas, Liberia
+CPAN	Comprehensive Perl Archive Network
 CPAP	continuous positive airway pressure
 CPB	core performance boost
 CPB	[IATA] Capurgana, Colombia
@@ -3677,6 +3689,7 @@ CRA	[fanfic] clan restoration act
 CRA	[IATA] Craiova, Romania
 CRAIG	(metasyntactic variable in crypto for a stored hashed/salted password cracker)
 CRAM	challenge-response authentication method
+CRAN	Comprehensive R Archive Network
 CRB	[IATA] Collarenebri, New South Wales, Australia
 CRC	Costa Rican colon (ISO 4217 code)
 CRC	cyclic redundancy check
@@ -3815,6 +3828,7 @@ CT	[AUS] Australian Capital Territory (old; new: ACT)
 CT	[USA] Connecticut
 CTA	[FIFA] Central African Republic
 CTA	[IATA] Catania (Fontanarossa), Sicily, Italy
+CTAN	Comprehensive TeX Archive Network
 CTB	[IATA] Coritgo Blanco, United Kingdom of Great Britain and Northern Ireland
 CTC	[IATA] Catamarca, Argentina
 CTE	committee
@@ -5767,6 +5781,7 @@ EQG	[ISO 3166] Equatorial Guinea
 EQL	eqivalent labour (cf. FTE)
 EQM	equivalent manpower (cf. FTE)
 EQS	[IATA] Esquel, Argentina
+EQV	equivalent
 EQY	[IATA] Monroe Airport, North Carolina, United States of America
 ER	Emergency Room
 ER	Er (PSE#68) Erbium | Metalle der seltenen Erden (Lanthaniden) | lanthanides | lanthanida
@@ -6792,6 +6807,8 @@ GAY	[IATA] Gaya, India
 GAZ	[IATA] Globe-San Carlos, Arizona, United States of America
 GB	GameBoy (Nintendo)
 GB	Gingerbread (Android 2.3)
+GB	Guobiao
+GB	Simplified Chinese (font class)
 GB	[ccTLD] Vereinigtes Königreich (auch .uk)
 GB	[ISO 3166] Britain (UK)
 GB	[Kfz] Vereinigtes Königreich
@@ -7344,6 +7361,7 @@ GRX	[IATA] Granada, Spain
 GRY	[IATA] Grimsey, Iceland
 GRZ	[IATA] Graz (Thalerhof), Austria
 GRZ	[Kfz:D] Landkreis Greiz
+GS	GhostScript
 GS	Group Separator (U+001D)
 GS	Grundschule
 GS	U+001D ␝ INFORMATION SEPARATOR THREE
@@ -8336,6 +8354,7 @@ IDR	[IATA] Indore, India
 IDRC	I don’t really care
 IDRP	inter-domain routing protocol
 IDS	intrusion detection system
+IDT	identical
 IDT	interrupt descriptor table
 IDT	[TZif] Asia/Jerusalem (DST)
 IDT	[TZif] Asia/Tel_Aviv (DST)
@@ -11671,6 +11690,8 @@ MOM	(please hold/wait a) moment
 MOM	Moment, bitte!
 MOM	mother (USA English)
 MOM	[IATA] Moudjeria, Mauritania
+MOMBIE	mobile phone zombie
+MOMBIE	mom zombie
 MON	[IATA] Mount Cook, New Zealand
 MON	[Kfz:D] Kreis Monschau
 MOO	[IATA] Moomba, Australia
@@ -12452,6 +12473,8 @@ NEN	[IATA] Jacksonville (Whitehouse Naval Field), Florida, United States of Amer
 NEN	[Kfz:D] Landkreis Neunburg vorm Wald
 NEP	[FIFA] Nepal
 NEP	[Kfz] Nepal (nicht offiziell)
+NEQ	nōn-equal
+NEQ	nōn-equivalent
 NER	[IATA] Chulman, Neryungri, Yakutia-Sakha, Russia
 NER	[ISO 3166] Niger
 NERD	non emotionally responding dude
@@ -13140,6 +13163,7 @@ OFH	Our Favourite Headmaster (HP)
 OFI	[IATA] Ouango Fitini, Ivory Coast
 OFJ	[IATA] Olafsfjordur, Iceland
 OFK	[IATA] Norfolk (Karl Stefan), Nebraska, United States of America
+OFM	OS/2 binary font metric
 OFP	Operational Flight Program
 OFP	[IATA] Richmond/Ashland (Hanover County), Virginia, United States of America
 OFSD	[Oracle] Oracle File Server Background Process
@@ -13472,6 +13496,7 @@ OT	offene Tür
 OT	ohne Themenbezug
 OT	Originalton
 OT&E	Operational Test and Evaluation
+OT/CFF	OpenType/CFF font
 OTA	over the air
 OTA	[IATA] Kota, Ethiopia
 OTB	on the board
@@ -13479,6 +13504,7 @@ OTBS	the one true brace style
 OTC	over the counter
 OTC	[IATA] Bol, Chad
 OTD	[IATA] Contadora, Panama
+OTF	OpenType font
 OTG	(USB) on-the-go
 OTG	[IATA] Worthington Municipal Airport, Minnesota, United States of America
 OTH	[IATA] North Bend Municipal Airport, Oregon, United States of America
@@ -13902,7 +13928,9 @@ PF	packet filter
 PF	[ccTLD] Französisch-Polynesien
 PF	[ISO 3166] French Polynesia
 PF	[Kfz:D] Stadtkreis Pforzheim und Enzkreis
+PFA	printer font ASCII
 PFA	[IATA] Paf Warren, Alaska, United States of America
+PFB	printer font binary
 PFB	[IATA] Passo Fundo, Rio Grande do Sul, Brazil
 PFC	Private First Class
 PFC	[IATA] Pacific City (State Airport), Oregon, United States of America
@@ -13910,6 +13938,7 @@ PFD	Pranking Fiend Disorder
 PFD	[IATA] Fort Frederick, Alaska, United States of America
 PFI	pay for inclusion
 PFJ	[IATA] Patreksfjordur, Iceland
+PFM	printer font metric
 PFN	[IATA] Panama City (Bay International), Florida, United States of America
 PFO	planetforge.org
 PFO	please fuck off
@@ -17541,6 +17570,7 @@ TAN	[FIFA] Tanzania
 TAN	[IATA] Tangalooma, Australia
 TANGO	enemy
 TANGO	T (International Radiotelephony Spelling Alphabet)
+TANKOMAT	Tankstellenautomat
 TANSTA	there ain’t (no) such thing as ...
 TANSTAAFL	there ain’t no such thing as a free lunch
 TAO	track at once
@@ -17855,6 +17885,7 @@ TIAS	try it and see
 TIAVP	this is a volunteer project
 TIB	[IATA] Tibu, Colombia
 TIC	tongue in cheek
+TIC	tunnel information and control protocol
 TIC	[IATA] Tinak Airport, Marshall Islands
 TID	[IATA] Tiaret (Bou Chekif), Algeria
 TIDH	Tausender in die Hand
@@ -18354,6 +18385,7 @@ TTC	[IATA] Taltal, Chile
 TTD	Trinidad and Tobago dollar (ISO 4217 code)
 TTD	[IATA] Portland (Troutdale Airport), Oregon, United States of America
 TTE	[IATA] Ternate, Indonesia
+TTF	TrueType font (quadratic Bézier curves)
 TTF	[gc] third to find
 TTFF	GPS time to first fix
 TTFN	ta ta for now
