@@ -1,5 +1,5 @@
   à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž ε/Ε λ/Λ ο/Ο ς/Σ σ/Σ а/А б/Б г/Г д/Д е/Е з/З й/Й к/К л/Л м/М н/Н о/О р/Р с/С т/Т у/У ф/Ф қ/Қ ա/Ա հ/Հ յ/Յ
- @(#)$MirOS: wtf/acronyms,v 1.535 2016/01/17 00:30:48 tg Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.536 2016/01/17 23:27:11 tg Exp $
  From $NetBSD: acronyms,v 1.243 2016/01/08 08:37:18 jnemeth Exp $
  From $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
  From $NetBSD: acronyms.comp,v 1.156 2016/01/08 08:37:18 jnemeth Exp $
@@ -1042,6 +1042,8 @@ ARF	[IATA] Acaricura, Colombia
 ARG	[FIFA] Argentina
 ARG	[IATA] Walnut Ridge Regional Airport, Arkansas, United States of America
 ARGE	Amt für Repression, Grundrechtsentzug und Existenzvernichtung
+ARGE	Arbeitsgemeinschaft
+ARGE	Jobcenter
 ARH	[IATA] Talagi, Arkhangelsk, Russia
 ARI	[IATA] Chacalluta International, Arica, Chile
 ARITH	arithmetic(ally)
@@ -4311,6 +4313,7 @@ DFC	data flow control
 DFC	delicious flat {chest,chests}
 DFDC	[gc] Danke für den Cache (TFTC)
 DFDD	[gc] Danke für die Dose (TFTC)
+DFDOC	[gc] Danke für den Opencache (TFTC)
 DFG	Deutsche Forschungsgemeinschaft
 DFI	[IATA] Defiance Memorial Airport, Ohio, United States of America
 DFORENSPSY	Doctor of Forensic Psychology
@@ -17366,6 +17369,7 @@ SWAHBI	silly, wild-assed hare-brained idea
 SWAT	special weapons and tactics
 SWB	Stadtwerke Bonn
 SWB	stehen, warten, beten
+SWB	Steuern wie besoffen
 SWB	Stillstand wegen Bombe
 SWB	[IATA] Shaw River, Western Australia, Australia
 SWC	[IATA] Stawell, Victoria, Australia
@@ -17793,6 +17797,7 @@ TFT	[IATA] Taftan, Pakistan
 TFTC	[gc] thanks for the cache
 TFTE	[gc] thanks for the event cache
 TFTH	[gc] thanks for the hunt
+TFTOC	[gc] thanks for the opencache
 TFTP	Trivial File Transfer Protocol
 TFY	[IATA] Tarfaya, Morocco
 TG	[ccTLD] Togo
