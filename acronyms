@@ -1,5 +1,5 @@
   à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž ε/Ε λ/Λ ο/Ο ς/Σ σ/Σ а/А б/Б г/Г д/Д е/Е з/З й/Й к/К л/Л м/М н/Н о/О р/Р с/С т/Т у/У ф/Ф қ/Қ ա/Ա հ/Հ յ/Յ
- @(#)$MirOS: wtf/acronyms,v 1.536 2016/01/17 23:27:11 tg Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.537 2016/01/19 23:45:48 tg Exp $
  From $NetBSD: acronyms,v 1.243 2016/01/08 08:37:18 jnemeth Exp $
  From $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
  From $NetBSD: acronyms.comp,v 1.156 2016/01/08 08:37:18 jnemeth Exp $
@@ -1655,6 +1655,7 @@ BDF	Bitmap Distribution Format
 BDF	[IATA] Bradford (Rinkenberger RLA), Illinois, United States of America
 BDFC	(vertically) compressed form of BDF
 BDFL	Benevolent Dictator for Life
+BDFSM	BDSM Free Software Manifesto – http://social.gl-como.it/display/3e3ce0df29569bfb2e3e135289265750
 BDG	[IATA] Blanding Municipal Airport, Utah, United States of America
 BDH	[IATA] Bandar Lengeh, Iran
 BDI	bit deinterleave
@@ -1673,6 +1674,7 @@ BDS	Bachelor of Dental Surgery
 BDS	Branch Delay Slot
 BDS	[IATA] Brindisi (Casale), Italy
 BDS	[Kfz] Barbados
+BDSM	Bondage/Discipline, Dominance/submission, sado-masochism
 BDT	Bangladeshi taka (ISO 4217 code)
 BDT	[IATA] Gbadolite, Zaire
 BDU	battle dress uniform
@@ -5458,6 +5460,7 @@ EET	[TZif] Turkey
 EEXIST	(#17) File exists
 EF	[Kfz:D] Landkreis Erfurt
 EF	[Schule DE] Einführungsphase (10. Klasse Gymnasium nach G8)
+EFA	elektronische Fahrplanauskunft
 EFAULT	(#14) Bad address
 EFB	[IATA] Eight Fathombight, United Kingdom of Great Britain and Northern Ireland
 EFBIG	(#27) File too large
@@ -6026,6 +6029,7 @@ EWY	[IATA] Newbury (Greenham Common), England, United Kingdom of Great Britain a
 EXDEV	(#18) Cross-device link
 EXI	[IATA] Excursion Inlet Seaplane Base, Alaska, United States of America
 EXIF	exchangeable image file
+EXIM	EXperimental Internet Mailer
 EXIV	(library for working with EXIF, XMP, IPTC metadata)
 EXM	[IATA] Exmouth, England, United Kingdom of Great Britain and Northern Ireland
 EXP	experience
@@ -6187,6 +6191,7 @@ FDS	Ferrovie della Sardegna (ARST)
 FDS	[Kfz:D] Landkreis Freudenstadt
 FDSC	Foundation of Sciences
 FDU	[IATA] Bandundu, Zaire
+FDW	foreign data wrapper
 FDW	[IATA] Winnsboro (Fairfield County Airport), South Carolina, United States of America
 FDY	[IATA] Findlay Airport, Ohio, United States of America
 FD_CLOEXEC	close-on-exec flag for fcntl(2) F_GETFD, F_SETFD
@@ -6586,6 +6591,7 @@ FSK	[IATA] Fort Scott Municipal Airport, Kansas, United States of America
 FSL	[IATA] Fossil Downs, Western Australia, Australia
 FSM	(see http://en.wikipedia.org/wiki/Flying_Spaghetti_Monster)
 FSM	finite-state machine
+FSM	Free Software Manifesto
 FSM	[FIFA] F.S. Micronesia
 FSM	[IATA] Fort Smith Municipal Airport, Arkansas, United States of America
 FSM	[Kfz] Mikronesien
@@ -6654,6 +6660,7 @@ FTTZ	Fibre to the Zone
 FTU	[IATA] Fort Dauphin, Madagascar
 FTV	[IATA] Masvingo, Zimbabwe
 FTW	for the win
+FTW	foreign trash wrapper (cf. FDW)
 FTW	forever two wheels
 FTW	fuck that works
 FTW	fuck the world
@@ -15143,6 +15150,7 @@ RABCK	Random Act of BookCrossing Kindness
 RAC	remote access console
 RAC	[IATA] Racine (John H. Batten Field), Wisconsin, United States of America
 RAC	[Oracle] real application clusters
+RACK	risk-aware consensual kink
 RAD	Bogenmaß
 RAD	radiant
 RAD	rapid application development
@@ -16701,7 +16709,7 @@ SLZ	[IATA] Sao Luis, Maranhão, Brazil
 SLZ	[Kfz:D] Landkreis Bad Salzungen
 SLZ	[Schule DE] Selbstlernzentrum
 SLÜ	[Kfz:D] Landkreis Schlüchtern
-SM	sado/maso
+SM	sado/maso (sadism/masochism)
 SM	Scrum Master [Scrumtology]
 SM	Security Module
 SM	service mark
@@ -17087,6 +17095,7 @@ SSB	Elektrische Bahnen der Stadt Bonn und des Rhein-Sieg-Kreises
 SSB	single-sideband modulation
 SSB	Stuttgarter Straßenbahnen
 SSB	[IATA] Christiansted, St. Croix, U.S. Virgin Islands
+SSC	safe, sane, and consensual
 SSC	[IATA] Sumter (Shaw Air Force Base), South Carolina, United States of America
 SSCCE	short, self-contained, correct (compilable) example
 SSCD	Secure Signature Creation Device
