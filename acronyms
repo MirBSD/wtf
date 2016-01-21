@@ -1,5 +1,5 @@
   à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž ε/Ε λ/Λ ο/Ο ς/Σ σ/Σ а/А б/Б г/Г д/Д е/Е з/З й/Й к/К л/Л м/М н/Н о/О р/Р с/С т/Т у/У ф/Ф қ/Қ ա/Ա հ/Հ յ/Յ
- @(#)$MirOS: wtf/acronyms,v 1.537 2016/01/19 23:45:48 tg Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.538 2016/01/21 20:41:30 tg Exp $
  From $NetBSD: acronyms,v 1.243 2016/01/08 08:37:18 jnemeth Exp $
  From $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
  From $NetBSD: acronyms.comp,v 1.156 2016/01/08 08:37:18 jnemeth Exp $
@@ -4561,6 +4561,7 @@ DO	[ISO 3166] Dominican Republic
 DO	[Kfz:D] kreisfreie Stadt Dortmund
 DOA	dead on arrival
 DOA	[IATA] Doany, Madagascar
+DOAG	Deutsche ORACLE-Anwendergruppe e.V.
 DOB	[IATA] Dobo, Aru Islands, Indonesia
 DOC	[IATA] Dornoch, United Kingdom of Great Britain and Northern Ireland
 DOCH	German for “yes” answering “you don’t ..., do you?”
@@ -13587,6 +13588,7 @@ OW	[CH] it: Obvaldo
 OW	[CH] rm: Sursilvania
 OWA	Outlook Web Access
 OWA	[IATA] Owatonna Municipal Airport, Minnesota, United States of America
+OWASP	Open Web Application Security Project
 OWB	[IATA] Owensboro-Daviess County Airport, Kentucky, United States of America
 OWD	[IATA] Norwood Memorial Airport, Massachusetts, United States of America
 OWE	[IATA] Owendo, Gabon
