@@ -1,11 +1,11 @@
   à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž ε/Ε λ/Λ ο/Ο ς/Σ σ/Σ а/А б/Б г/Г д/Д е/Е з/З й/Й к/К л/Л м/М н/Н о/О р/Р с/С т/Т у/У ф/Ф қ/Қ ա/Ա հ/Հ յ/Յ
- @(#)$MirOS: wtf/acronyms,v 1.538 2016/01/21 20:41:30 tg Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.539 2016/01/22 19:07:51 tg Exp $
  From $NetBSD: acronyms,v 1.243 2016/01/08 08:37:18 jnemeth Exp $
  From $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
  From $NetBSD: acronyms.comp,v 1.156 2016/01/08 08:37:18 jnemeth Exp $
  From $NetBSD: airport,v 1.61 2016/01/03 15:25:31 mbalmer Exp $
  From $OpenBSD: airport,v 1.55 2015/08/29 22:13:56 deraadt Exp $
- From github: othyro/wtfubar refs/tags/wtfubar-2.1.0
+ From github: othyro/wtfubar refs/tags/wtfubar-2.2.0
  From miros: src/sys/sys/errno.h,v 1.11 2014/09/05 22:38:17 tg Exp $
 !	[MORSE] -.-.-- (KW digraph)
 "	[MORSE] .-..-.
@@ -4390,6 +4390,7 @@ DIMM	dual inline memory module
 DIN	Deutsches Institut für Normung e.V.
 DIN	[Kfz:D] Kreis Dinslaken
 DING	Donau-Iller-Nahverkehrsverbund
+DINK	dual income, no kids
 DIO	[IATA] Little Diomede Island, Alaska, United States of America
 DIP	dual in-line package
 DIP	[IATA] Diapaga, Burkina Faso
@@ -6991,6 +6992,7 @@ GFD	[IATA] Greenfield (Pope Field), Indiana, United States of America
 GFE	[IATA] Grenfell, New South Wales, Australia
 GFF	[IATA] Griffith, New South Wales, Australia
 GFK	[IATA] Grand Forks International Airport, North Dakota, United States of America
+GFL	good fucking luck
 GFL	[IATA] Glens Falls (Warren County Airport), New York, United States of America
 GFM	Chemins der fer Fribourgeios (Gruyére-Friburg-Morat)
 GFN	[IATA] Grafton, New South Wales, Australia
@@ -7891,6 +7893,7 @@ HMR	[IATA] Hamar (Stafsberg), Norway
 HMRL	Hyderabad Metro Rail Limited
 HMS	[IATA] Homeshore, Alaska, United States of America
 HMT	[IATA] Hemet-Ryan Airport, California, United States of America
+HMU	hit me up
 HMV	[IATA] Hemavan, Sweden
 HMY	[IATA] Lexington (Muldrow Airfield Heliport), Oklahoma, United States of America
 HMÜ	[Kfz:D] Landkreis Münden
@@ -12344,6 +12347,7 @@ NAV	[IATA] Nevsehir Kapadokya Airport, Nevsehir, Turkey
 NAV-MSG	Navigation-Message
 NAVARRA	N (Spanish Spelling Alphabet)
 NAW	[IATA] Narathiwat, Thailand
+NAWALT	not all women are like that
 NAX	[IATA] Ewa (Barbers Point Naval Air Station), Hawaii, United States of America
 NAY	[IATA] Beijing (Nan Yuan Air Base), China
 NB	Nb (PSE#41) Niobium, Niob | Übergangsmetalle | transition metals | metalla transitionis
