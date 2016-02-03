@@ -1,8 +1,8 @@
   à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž ε/Ε λ/Λ ο/Ο ς/Σ σ/Σ а/А б/Б г/Г д/Д е/Е з/З й/Й к/К л/Л м/М н/Н о/О р/Р с/С т/Т у/У ф/Ф қ/Қ ա/Ա հ/Հ յ/Յ
- @(#)$MirOS: wtf/acronyms,v 1.540 2016/01/28 21:19:03 tg Exp $
- From $NetBSD: acronyms,v 1.243 2016/01/08 08:37:18 jnemeth Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.541 2016/02/03 20:25:01 tg Exp $
+ From $NetBSD: acronyms,v 1.244 2016/01/28 10:20:40 pgoyette Exp $
  From $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
- From $NetBSD: acronyms.comp,v 1.156 2016/01/08 08:37:18 jnemeth Exp $
+ From $NetBSD: acronyms.comp,v 1.158 2016/01/28 10:20:40 pgoyette Exp $
  From $NetBSD: airport,v 1.61 2016/01/03 15:25:31 mbalmer Exp $
  From $OpenBSD: airport,v 1.55 2015/08/29 22:13:56 deraadt Exp $
  From github: othyro/wtfubar refs/tags/wtfubar-2.2.0
@@ -414,6 +414,7 @@ ADE	[FIFA] Aden
 ADE	[IATA] Aden (International), Yemen
 ADF	Andorran franc (old ISO 4217 code)
 ADG	[IATA] Adrian (Lenawee County Airport), Michigan, United States of America
+ADH	aanbevolen dagelijkse hoeveelheid
 ADH	cf. ADS
 ADH	[IATA] Aldan, Yakutia-Sakha, Russia
 ADHD	attention deficit (and) hyperactivity disorder
@@ -621,6 +622,7 @@ AHT	[IATA] Amchitka Island Airport, Alaska, United States of America
 AHU	[IATA] Al Hoceima (Cote du Rif), Morocco
 AHY	[IATA] Ambatolahy, Madagascar
 AHZ	[IATA] Alpe d’Huez, France
+AI	adequaat niveau van inneming
 AI	Adobe Illustrator
 AI	analog input
 AI	artificial intelligence
@@ -674,6 +676,7 @@ AJJ	[IATA] Akjoujt, Mauritania
 AJL	[IATA] Aizawl, India
 AJN	[IATA] Ouani, Anjouan, Comoros
 AJO	[IATA] Aljouf, Yemen
+AJR	apports journaliers recommandés
 AJR	[IATA] Arvidsjaur, Sweden
 AJS	[IATA] Abreojos, Mexico
 AJU	[IATA] Santa Maria, Aracaju, Sergipe, Brazil
@@ -1015,6 +1018,7 @@ AQP	[IATA] Arequipa (Rodriguez Ballon), Peru
 AQPC	[Oracle] AQ Process Coordinator
 AQS	[IATA] Saqani, Fiji
 AQY	[IATA] Alyeska/Girdwood, Alaska, United States of America
+AR	Apports de Référence pour un adulte-type (8400 kJ / 2000 kcal)
 AR	Ar (PSE#18) Argon | Edelgase | noble gases | gasia nobilia
 AR	ar(1) archive – *.a
 AR	Aufsichtsrat
@@ -3559,6 +3563,7 @@ COA	[IATA] Columbia Airport, California, United States of America
 COB	close of business [day]
 COB	[FIFA] Congo-Brazzaville
 COB	[IATA] Coolibah, Northern Territory, Australia
+COBA	Commerzbank
 COBOL	common business-orientated language
 COC	code of conduct
 COC	[IATA] Concordia (Comodoro Pierres), Argentina
@@ -4792,6 +4797,7 @@ DUS	[IATA] Dusseldorf, Germany
 DUT	device under test
 DUT	[IATA] Dutch Harbor (Unalaska Airport), Alaska, United States of America
 DUX	[IATA] Dumas Municipal Airport, Texas, United States of America
+DV	Daily Value
 DV	Datenverarbeitung
 DV	difficulty value
 DV	[Oracle] database vault
@@ -6917,6 +6923,7 @@ GD	[ccTLD] Grenada
 GD	[gc] geodashing.gpsgames.org
 GD	[ISO 3166] Grenada
 GD	[Kfz:D] Landkreis Schwäbisch Gmünd
+GDA	Guideline Daily Amount
 GDA	[IATA] Gounda, Central African Republic
 GDB	[Kfz:D] Landkreis Gadebusch
 GDC	[IATA] Greenville (Donaldson Center), South Carolina, United States of America
@@ -8139,6 +8146,7 @@ HTS	[IATA] Huntington (Tri-State/Milton), West Virginia, United States of Americ
 HTT	hyper-threading technology
 HTTP	Hot Tits Transport Pr0nocol
 HTTP	Hypertext Transfer Protocol
+HTTPS	hopefully talking to people securely
 HTTPS	Hypertext Transfer Protocol, SSL secured
 HTU	[IATA] Hopetown, South Africa
 HTV	Heidenheimer Tarifverbund
@@ -10533,6 +10541,7 @@ LNZ	[IATA] Linz (Horsching), Austria
 LO	Local Oscillator
 LO	Métro Lausanne-Ouchy
 LOA	[IATA] Lorraine, Queensland, Australia
+LOAEL	Lowest Observed Adverse Effect Level
 LOB	[IATA] Lo Tung, Taiwan
 LOC	lines of code
 LOC	[IATA] Lock, South Australia, Australia
@@ -10739,6 +10748,7 @@ LTR	U+200E LEFT-TO-RIGHT MARK
 LTS	*buntu equivalent of Debian unstable
 LTS	long term Schrott
 LTS	long term shlock
+LTS	long term suffering
 LTS	long time support
 LTS	[IATA] Altus (Air Force Base), Oklahoma, United States of America
 LTT	LTE Logistik a Transport Slovakia
@@ -12565,6 +12575,7 @@ NFB	[IATA] Mount Clemens (Detroit Naval Facility), Michigan, United States of Am
 NFC	near-field communication
 NFC	no fucking chance
 NFC	no fucking clue
+NFC	no functional change
 NFC	no further consequences
 NFC	not favourably considered
 NFD	Newfoundland dollar (old ISO 4217 code)
@@ -12776,6 +12787,7 @@ NO	Nordost, north-east
 NO	[ccTLD] Norwegen
 NO	[ISO 3166] Norway
 NOA	[IATA] Nowra, New South Wales, Australia
+NOAEL	No Observed Adverse Effect Level
 NOB	Nord-Ostsee-Bahn
 NOB	[IATA] Nosara Beach, Costa Rica
 NOC	network operations centre
@@ -13004,6 +13016,8 @@ NVH	Nahverkehr Hohenlohekreis (cf. HNV)
 NVIU	newer version in unstable
 NVK	[IATA] Narvik (Framnes), Norway
 NVM	never mind
+NVME	NVM Expreß (cf. NVMHCI)
+NVMHCI	non-volatile memory host controller interface specification
 NVP	[IATA] Novo Aripuana, Brazil
 NVP	[Kfz:D] Landkreis Nordvorpommern
 NVR	[IATA] Novgorod, Russia
@@ -14683,6 +14697,7 @@ PSF	[IATA] Pittsfield Municipal Airport, Massachusetts, United States of America
 PSFU	PC Screen Font with Unicode mapping table
 PSG	[IATA] Petersburg Airport, Alaska, United States of America
 PSH	[IATA] St. Peter, Germany
+PSI	profit stability index
 PSI	[IATA] Pasni, Pakistan
 PSJ	[IATA] Poso, Indonesia
 PSK	phase shift keying
@@ -15334,6 +15349,7 @@ RCY	[IATA] Rum Cay, Bahamas
 RD	red, IEC 62: 2 / ±2%
 RD	[Kfz:D] Kreis Rendsburg-Eckernförde
 RD-ECK	Verkehrs- und Tarifgemeinschaft Rendsburg-Eckernförde
+RDA	Recommended Dietary Allowance
 RDA	[IATA] Rockhampton Downs, N. Territory, Australia
 RDB	Rigid Disk Block
 RDB	[IATA] Red Dog Airport, Alaska, United States of America
@@ -15345,6 +15361,7 @@ RDF	reality distortion field
 RDF	Resource Description Framework
 RDG	[IATA] Reading Regional Airport, Pennsylvania, United States of America
 RDG	[Kfz:D] Landkreis Ribnitz-Damgarten
+RDI	Recommended Daily Intake
 RDK	[IATA] Red Oak (Municipal Airport), Iowa, United States of America
 RDM	relational data model
 RDM	[IATA] Redmond (Roberts Field), Oregon, United States of America
@@ -15485,6 +15502,7 @@ RHS	right-hand side
 RHV	[IATA] Reid-Hillview Airport, San Jose (Santa Clara County), California, United States of America
 RHV	[Kfz] Burkina Faso (veraltet)
 RI	Reference Implementation
+RI	Referentie-Innames van een gemiddelde volwassene (8400 kJ / 2000 kcal)
 RI	Reverse Index (U+008D)
 RI	U+008D REVERSE LINE FEED
 RI	[Kfz:D] Landkreis Grafschaft Schaumburg
@@ -15804,6 +15822,7 @@ RT	real time
 RT	Release Team (RM)
 RT	Remote Terminal
 RT	Request Tracker
+RT	retweet
 RT	rot (cf. RD), IEC 62: 2 / ±2%
 RT	[Kfz:D] Landkreis Reutlingen
 RT	[Kfz] Togo
@@ -17848,6 +17867,7 @@ TFA	[IATA] Tilfalmin, Papua New Guinea
 TFA	[SW] Episode VII: The Force Awakens
 TFB	too fucking bad
 TFC	Team Fortress Classic
+TFD	The Free Dictionary
 TFF	[IATA] Tefe, Maranhão, Brazil
 TFI	[IATA] Tufi, Papua New Guinea
 TFL	[IATA] Teofilo Otoni, Minas Gerais, Brazil
@@ -18087,6 +18107,7 @@ TKW	[IATA] Tekin, Papua New Guinea
 TKX	[IATA] Takaroa, French Polynesia
 TKY	[IATA] Turkey Creek, Western Australia, Australia
 TL	team leader
+TL	timeline
 TL	Tl (PSE#81) Thallium | Erdmetalle (Borgruppe) | boron group
 TL	too large
 TL	too late
@@ -18552,6 +18573,7 @@ TVG	Tarif- und Verkehrsgemeinschaft Gotha (cf. VMT)
 TVI	[IATA] Thomasville Municipal Airport, Georgia, United States of America
 TVK	[IATA] Centerville Municipal Airport, Iowa, United States of America
 TVL	[IATA] Lake Tahoe (South Lake Tahoe), California, United States of America
+TVN	tableau de valeurs nutritives
 TVU	[IATA] Taveuni, Fiji
 TVY	[IATA] Tavoy, Myanmar
 TW	Technische Wiskunde
@@ -18785,6 +18807,7 @@ UKSF	United Kingdom Special Forces
 UKT	[IATA] Quakertown Airport, Pennsylvania, United States of America
 UKU	[IATA] Nuku, Papua New Guinea
 UKY	[IATA] Kyoto, Japan
+UL	Tolerable Upper Intake Level
 UL	upload
 UL	[Kfz:D] Stadtkreis Ulm und Alb-Donau-Kreis
 ULA	Universal Local Addressing, kind of like RFC1918 for IPv6 – effectively “coordinated private network address space”, except for the coordination part so far :P
@@ -19379,6 +19402,7 @@ VNM	[ISO 3166] Vietnam
 VNN	Verkehrsgemeinschaft Nordost-Niedersachsen
 VNO	[FIFA] North Vietnam
 VNO	[IATA] Vilnius, Lithuania
+VNR	Valeur Nutritionnelle de Référence
 VNR	[IATA] Vanrook, Queensland, Australia
 VNS	[IATA] Varanasi, India
 VNW	[IATA] Van Wert County Airport, Ohio, United States of America
