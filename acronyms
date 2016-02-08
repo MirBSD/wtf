@@ -1,5 +1,5 @@
   à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž ε/Ε λ/Λ ο/Ο ς/Σ σ/Σ а/А б/Б г/Г д/Д е/Е з/З й/Й к/К л/Л м/М н/Н о/О р/Р с/С т/Т у/У ф/Ф қ/Қ ա/Ա հ/Հ յ/Յ
- @(#)$MirOS: wtf/acronyms,v 1.541 2016/02/03 20:25:01 tg Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.542 2016/02/08 16:40:47 tg Exp $
  From $NetBSD: acronyms,v 1.244 2016/01/28 10:20:40 pgoyette Exp $
  From $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
  From $NetBSD: acronyms.comp,v 1.158 2016/01/28 10:20:40 pgoyette Exp $
@@ -989,6 +989,7 @@ APP	appendix
 APP	application
 APP	[IATA] Asapa, Papua New Guinea
 APPLE	A (RAF 1942/1943 Spelling Alphabet)
+APPLET	a mini application
 APR	[IATA] April River, Papua New Guinea
 APRS	automated position reporting system
 APRS	Automatic Packet Reporting System
@@ -1549,6 +1550,7 @@ BB	[Kfz:D] Landkreis Böblingen
 BBA	Bachelor of Business Administration
 BBA	[IATA] Balmaceda, Chile
 BBAN	Basic Bank Account Number
+BBB	Bulk/Bulk/Bulk for Command/Data/Status phases (cf. BOT)
 BBB	[IATA] Benson Municipal Airport, Minnesota, United States of America
 BBC	Backup Bus Controller
 BBC	British Broadcasting Company
@@ -2257,6 +2259,7 @@ BOR	[IATA] Belfort, France
 BOR	[Kfz:D] Kreis Borken
 BOS	[IATA] Boston Logan International, Massachusetts, United States of America
 BOT	back on topic
+BOT	bulk-only transfer (cf. BBB)
 BOT	[FIFA] Botswana
 BOT	[Kfz:D] kreisfreie Stadt Bottrop
 BOU	[IATA] Bourges, France
@@ -7709,6 +7712,7 @@ HDH	[Kfz:D] Landkreis Heidenheim
 HDI	[IATA] Cleveland (Hardwick Field), Tennessee, United States of America
 HDL	Hab’ Dich lieb
 HDL	hardware description language
+HDL	High Density Lipoprotein
 HDL	[IATA] Holikachuk, Alaska, United States of America
 HDL	[Kfz:D] Landkreis Haldensleben
 HDLC	high-level data link control
@@ -7801,6 +7805,7 @@ HH	[Kfz:D] Hansestadt Hamburg
 HH	[Kfz:D] Senat und Bürgerschaft der Freien und Hansestadt Hamburg
 HHA	[IATA] Huanghua, China
 HHDD	hybrid hard disc drive
+HHDL	His Holiness the Dalai Lama
 HHE	[IATA] Hachinohe, Japan
 HHF	[IATA] Canadian (Hemphill County Airport), Texas, United States of America
 HHG	[IATA] Huntington Municipal Airport, Indiana, United States of America
@@ -9005,6 +9010,7 @@ JAS	[IATA] Jasper County Airport (Bell Field), Texas, United States of America
 JAT	[IATA] Jabat, Marshall Islands
 JAU	[IATA] Jauja, Peru
 JAV	[IATA] Jakobshavn (Ilulissat), Greenland
+JAVA	just another vague acronym
 JAX	[IATA] Jacksonville International, Florida, United States of America
 JAXB	Java Architecture for XML binding
 JAXB	jet[sic!] another XML binding
@@ -10210,6 +10216,7 @@ LDJ	[IATA] Linden Airport, New Jersey, United States of America
 LDK	Landesdelegiertenkonferenz
 LDK	[IATA] Lidkoping, Sweden
 LDK	[Kfz:D] Lahn-Dill-Kreis
+LDL	Low Density Lipoprotein
 LDM	[IATA] Ludington (Mason County), Michigan, United States of America
 LDN	[IATA] Lamidanda, Nepal
 LDO	lists.debian.org
@@ -11784,6 +11791,7 @@ MOU	Memorandum of Understanding
 MOU	[IATA] Mountain Village Airport, Alaska, United States of America
 MOV	move
 MOV	[IATA] Moranbah, Queensland, Australia
+MOVT	movement
 MOW	mehr oder weniger
 MOW	[IATA] All Airports around Moskva, Russia
 MOX	[IATA] Morris, Minnesota (Morris Municipal Airport), United States of America
@@ -13112,6 +13120,7 @@ OA	[Kfz:D] Landkreis Oberallgäu
 OAEP	optimal asymmetric encryption padding
 OAG	[IATA] Orange, New South Wales, Australia
 OAJ	[IATA] Jacksonville Albert J. Ellis, North Carolina, United States of America
+OAK	Object Application Kernel
 OAK	[IATA] Oakland International, California, United States of America
 OAL	[Kfz:D] Landkreis Ostallgäu
 OAM	OstalbMobil
@@ -13641,6 +13650,7 @@ OVD	[IATA] Oviedo/Aviles (Asturias), Spain
 OVE	[IATA] Oroville Municipal Airport, California, United States of America
 OVG	Oberverwaltungsgericht
 OVG	Ostallgäuer Verkehrsgemeinschaft
+OVH	(spammers’ heaven)
 OVI	[Kfz:D] Landkreis Oberviechtach
 OVIEDO	O (Spanish Spelling Alphabet)
 OVL	[IATA] Ovalle, Chile
@@ -14019,6 +14029,7 @@ PFC	[IATA] Pacific City (State Airport), Oregon, United States of America
 PFD	Pranking Fiend Disorder
 PFD	[IATA] Fort Frederick, Alaska, United States of America
 PFI	pay for inclusion
+PFI	Prüf- und Forschungsinstitut Pirmasens
 PFJ	[IATA] Patreksfjordur, Iceland
 PFM	printer font metric
 PFN	[IATA] Panama City (Bay International), Florida, United States of America
@@ -18199,6 +18210,7 @@ TMP	[IATA] Tampere-Pirkkala Airport, Tampere, Finland
 TMQ	[IATA] Tambao, Burkina Faso
 TMR	Transports de Martigny et Régions
 TMR	[IATA] Tamanrasset, Algeria
+TMS	Tag Management System (user tracking)
 TMS	[IATA] Sao Tome International, Sao Tome & Principe
 TMT	Turkmenistani manat (ISO 4217 code)
 TMT	[IATA] Porto Trombetas, Pará, Brazil
@@ -18683,7 +18695,9 @@ UAR	Union of African Railways
 UAR	[FIFA] United Arab Republic
 UART	universal asynchronous receiver/transmitter
 UAS	unmanned aircraft system
+UAS	USB attached SCSI
 UAS	[IATA] Samburu, Kenya
+UASP	USB attached SCSI protocol
 UAT	user acceptance testing
 UAV	unmanned aerial vehicle
 UAVS	unmanned aerial vehicle system
