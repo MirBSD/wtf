@@ -1,5 +1,5 @@
   à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž ε/Ε λ/Λ ο/Ο ς/Σ σ/Σ а/А б/Б г/Г д/Д е/Е з/З й/Й к/К л/Л м/М н/Н о/О р/Р с/С т/Т у/У ф/Ф қ/Қ ա/Ա հ/Հ յ/Յ
- @(#)$MirOS: wtf/acronyms,v 1.542 2016/02/08 16:40:47 tg Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.543 2016/02/09 20:20:19 tg Exp $
  From $NetBSD: acronyms,v 1.244 2016/01/28 10:20:40 pgoyette Exp $
  From $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
  From $NetBSD: acronyms.comp,v 1.158 2016/01/28 10:20:40 pgoyette Exp $
@@ -2782,6 +2782,7 @@ C10	28×40 mm (1⅛×1⅝ in)
 C2	458×648 mm (18×25½ in)
 C2S	client to server
 C3	324×458 mm (12¾×18 in)
+C3S	Cultural Commons Collecting Society SCE mbH
 C4	(some kind of explosive)
 C4	229×324 mm (9×12¾ in) envelope for unfolded A4
 C4	CCC Cologne
@@ -8813,6 +8814,7 @@ ISIS-MTT	(now renamed to Common PKI)
 ISJ	Icelandic krona (old ISO 4217 code)
 ISJ	[IATA] Isla Mujers, Mexico
 ISK	Icelandic króna (ISO 4217 code)
+ISK	IP SixXS Kredit
 ISK	[IATA] Nasik, India
 ISL	[FIFA] Iceland
 ISL	[IATA] Isabel Pass, Alaska, United States of America
@@ -10296,6 +10298,7 @@ LFT	[IATA] Lafayette, Louisiana, United States of America
 LFU	least frequently used
 LFW	[IATA] Lome (Tokoin), Togo
 LG	Landgericht
+LG	Liebe Grüße
 LG	Lietuvos geležinkeliai (Lithuanian Railways)
 LG	[Kfz:D] Landkreis Lüneburg
 LG00	[Oracle] Log Writer Worker
@@ -11800,8 +11803,10 @@ MOZ	[FIFA] Mozambique
 MOZ	[IATA] Moorea, Society Islands, French Polynesia
 MP	mana points
 MP	mana pool
+MP	Maschinenpistole
 MP	Megapixels
 MP	member of parliament
+MP	Ministerpräsident
 MP	multi-platform
 MP	multiplayer
 MP	multiprocessing
@@ -18640,6 +18645,7 @@ TYP	[IATA] Tobermory, United Kingdom of Great Britain and Northern Ireland
 TYR	[IATA] Tyler (Pounds Field), Texas, United States of America
 TYS	told you so
 TYS	[IATA] Knoxville McGhee Tyson, Tennessee, United States of America
+TYSM	thank you so much
 TYT	[IATA] Treinta y Tres, Uruguay
 TYVM	thank you very much
 TYZ	[IATA] Taylor Airport, Arizona, United States of America
@@ -19232,6 +19238,8 @@ VFS	Viafiers federalas svizras (cf. SBB)
 VFS	Virtual File System
 VG	Verkehrs- (und Tarif-)gemeinschaft
 VG	Verwaltungsgericht
+VG	Verwertungsgesellschaft
+VG	viele Grüße
 VG	volume group
 VG	[ccTLD] Britische Jungferninseln
 VG	[ISO 3166] Virgin Islands (UK)
@@ -19375,6 +19383,7 @@ VLN	[IATA] Valencia (Zim Valencia Carabobo), Venezuela
 VLO	[IATA] Vallejo, Mexico
 VLP	Verkehrsgemeinschaft Landkreis Passau
 VLP	[IATA] Vila Rica, Brazil
+VLQ	very low quality
 VLR	[IATA] Vallenar, Chile
 VLS	Verkehrsgemeinschaft Landkreis Schaumburg
 VLS	[IATA] Valesdir, Vanuatu
