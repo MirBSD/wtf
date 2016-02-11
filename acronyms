@@ -1,5 +1,5 @@
   à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž ε/Ε λ/Λ ο/Ο ς/Σ σ/Σ а/А б/Б г/Г д/Д е/Е з/З й/Й к/К л/Л м/М н/Н о/О р/Р с/С т/Т у/У ф/Ф қ/Қ ա/Ա հ/Հ յ/Յ
- @(#)$MirOS: wtf/acronyms,v 1.543 2016/02/09 20:20:19 tg Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.544 2016/02/11 20:25:56 tg Exp $
  From $NetBSD: acronyms,v 1.244 2016/01/28 10:20:40 pgoyette Exp $
  From $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
  From $NetBSD: acronyms.comp,v 1.158 2016/01/28 10:20:40 pgoyette Exp $
@@ -807,6 +807,7 @@ AMC	Adaptive Modulation and Coding
 AMC	[IATA] Amchitka, Chad
 AMD	Advanced Micro Devices
 AMD	Armenian dram (ISO 4217 code)
+AMD	Asynchronous Module Definition
 AMD	[IATA] Sardar Vallabhbhai Patel International, Ahmedabad, India
 AMD64	LP64 64-bit x86
 AME	[IATA] Alto Molocue, Mozambique
@@ -2873,6 +2874,7 @@ CAX	[IATA] Carlisle, England, United Kingdom of Great Britain and Northern Irela
 CAY	[FIFA] Cayman Islands
 CAY	[IATA] Cayenne (Rochambeau), French Guyana
 CAZ	[IATA] Cobar, New South Wales, Australia
+CB	carmina burana
 CB	citizens’ band (radio)
 CB	[Kfz:D] Landkreis Cottbus
 CB	[Kfz] Belgisch-Kongo (veraltet)
@@ -3380,6 +3382,7 @@ CJL	[IATA] Chitral, Pakistan
 CJN	[IATA] El Cajon, California, United States of America
 CJQ0	[Oracle] Job Queue Coordinator Process
 CJR	[IATA] Chaurjhari, Nepal
+CJS	CommonJS
 CJS	[IATA] Ciudad Juarez (Abraham Gonzalez), Mexico
 CJU	[IATA] Cheju, South Korea
 CJX	[IATA] Crooked Creek Airport, Alaska, United States of America
@@ -5870,6 +5873,9 @@ ES	[ccTLD] Spanien
 ES	[ISO 3166] Spain
 ES	[Kfz:D] Landkreis Eßlingen
 ES	[Kfz] El Salvador
+ES4	ECMAScript 4
+ES5	ECMAScript 5
+ES6	ECMAScript 6
 ESA	electronic suspension adjustment
 ESA	Electroniciens de la Sécurité Aérienne (now IESSA)
 ESA	European Space Agency
@@ -20275,6 +20281,7 @@ XGN	[IATA] Xangongo, Angola
 XGR	[IATA] Kangiqsualujjuaq, Quebec, Canada
 XGY	[IATA] Grimsby / Via Rail Service, Ontario, Canada
 XHM	[IATA] Georgetown / Via Rail Service, Ontario, Canada
+XHR	XMLHttpRequest
 XHR	XMLHttpRequest
 XHS	[IATA] Chemainus / Via Rail Service, British Columbia, Canada
 XHTML	Extensible Hyper-Text Markup Language
