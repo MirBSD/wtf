@@ -1,5 +1,5 @@
   à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž ε/Ε λ/Λ ο/Ο ς/Σ σ/Σ а/А б/Б г/Г д/Д е/Е з/З й/Й к/К л/Л м/М н/Н о/О р/Р с/С т/Т у/У ф/Ф қ/Қ ա/Ա հ/Հ յ/Յ
- @(#)$MirOS: wtf/acronyms,v 1.544 2016/02/11 20:25:56 tg Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.545 2016/02/13 18:12:08 tg Exp $
  From $NetBSD: acronyms,v 1.244 2016/01/28 10:20:40 pgoyette Exp $
  From $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
  From $NetBSD: acronyms.comp,v 1.158 2016/01/28 10:20:40 pgoyette Exp $
@@ -4622,6 +4622,7 @@ DON	[IATA] Dos Lagunas, Guatemala
 DON	[Kfz:D] Landkreis Donau-Ries
 DON	[Kfz:D] Landkreis Donauwörth
 DOO	[IATA] Dorobisoro, Papua New Guinea
+DOP	degree of parallelism
 DOP	Dilution of Precision
 DOP	Dominican peso (ISO 4217 code)
 DOP	[IATA] Dolpa, Nepal
@@ -5337,6 +5338,8 @@ ECONNABORTED	(#53) Software caused connection abort
 ECONNREFUSED	(#61) Connection refused
 ECONNRESET	(#54) Connection reset by peer
 ECP	enhanced capability port
+ECPM	European School of Chemistry, Polymers and Materials Science
+ECPM	École européenne de chimie, polymères et matériaux
 ECR	electronic cash register
 ECR	[IATA] El Charco, Colombia
 ECS	Ecuadorian sucre (old ISO 4217 code)
@@ -6284,6 +6287,7 @@ FFH	functional fixed hardware
 FFI	foreign function interface
 FFL	[IATA] Fairfield Municipal Airport, Iowa, United States of America
 FFM	focus follows mouse
+FFM	Frankfurt am Main
 FFM	[IATA] Fergus Falls Municipal Airport, Minnesota, United States of America
 FFN	FanFiction.Net
 FFO	[IATA] Dayton (Wright-Patterson Air Force), Ohio, United States of America
@@ -7372,6 +7376,7 @@ GRA	[IATA] Gamarra, Colombia
 GRA	[Kfz:D] Landkreis Grafenau
 GRAM	GPS Receiver Applications Module
 GRASE	generally recognised as safe and effective
+GRATZ	congratulations
 GRAULT	(english metasyntactic variable)
 GRB	[IATA] Green Bay (Austin Straubel), Wisconsin, United States of America
 GRC	[IATA] Grand Cess, Liberia
@@ -7576,12 +7581,14 @@ GYP	[IATA] Gympie, Queensland, Australia
 GYR	[IATA] Phoenix-Goodyear Municipal Airport, Arizona, United States of America
 GYSEV	Győr-Sopron-Ebenfurti Vasút (Győr-Sopron-Ebenfurth Railway) (cf. ROeEE)
 GYY	[IATA] Gary Regional Airport, Indiana, United States of America
+GZ	congratulations (cf. gratz)
 GZ	[gc] Ground Zero - the spot your GPSr takes you to the cache location
 GZ	[Kfz:D] Landkreis Günzburg
 GZI	[IATA] Ghazni, Afghanistan
 GZM	[IATA] Gozo, Malta
 GZO	[IATA] Gizo, Solomon Islands
 GZS	[IATA] Pulaski (Abernathy Field), Tennessee, United States of America
+GZSZ	Gute Zeiten, schlechte Zeiten
 GZT	[IATA] Gaziantep, Turkey
 GÖ	[Kfz:D] Landkreis Göttingen
 GÜ	[Kfz:D] Altkreis Güstrow im Landkreis Rostock
@@ -7918,6 +7925,7 @@ HLW	[IATA] Hluhluwe, South Africa
 HLX	[IATA] Galax/Hillsville (Twin County Airport), Virginia, United States of America
 HLY	[IATA] Holyhead (Valley Airport), Wales, United Kingdom of Great Britain and Northern Ireland
 HLZ	[IATA] Hamilton, New Zealand
+HM	Her Majesty
 HM	[AUS] Heard Island and McDonald Islands (external)
 HM	[ccTLD] Heard und McDonaldinseln
 HM	[ISO 3166] Heard Island & McDonald Islands
@@ -8070,6 +8078,7 @@ HRB	[IATA] Harbin, China
 HRD	Croatian dinar (old ISO 4217 code)
 HRE	[IATA] Harare, Zimbabwe
 HRG	[IATA] Hurghada, Egypt
+HRH	His Royal Highness
 HRJ	[IATA] Mareeba, Queensland, Australia
 HRK	Croatian kuna (ISO 4217 code)
 HRK	[IATA] Kharkiv International, Kharkov, Ukraine
@@ -16285,6 +16294,9 @@ SCSU	Standard Compression Scheme for Unicode
 SCT	[IATA] Socotra, Yemen
 SCTP	Stream Control Transmission Protocol
 SCU	[IATA] Santiago (Antonio Maceo), Cuba
+SCV	se cristo vedesse (… vi caccerebbe subito)
+SCV	si christus vidisset
+SCV	Stato della Città del Vaticano
 SCV	[IATA] Suceava, Romania
 SCV0	[Oracle] ASM Disk Scrubbing Slave Verify Process
 SCW	[IATA] Syktyvkar, Komi, Russia
