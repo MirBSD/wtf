@@ -1,6 +1,6 @@
   à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž ε/Ε λ/Λ ο/Ο ς/Σ σ/Σ а/А б/Б г/Г д/Д е/Е з/З й/Й к/К л/Л м/М н/Н о/О р/Р с/С т/Т у/У ф/Ф қ/Қ ա/Ա հ/Հ յ/Յ
- @(#)$MirOS: wtf/acronyms,v 1.545 2016/02/13 18:12:08 tg Exp $
- From $NetBSD: acronyms,v 1.244 2016/01/28 10:20:40 pgoyette Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.546 2016/02/16 21:58:01 tg Exp $
+ From $NetBSD: acronyms,v 1.245 2016/02/13 23:12:34 dholland Exp $
  From $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
  From $NetBSD: acronyms.comp,v 1.158 2016/01/28 10:20:40 pgoyette Exp $
  From $NetBSD: airport,v 1.61 2016/01/03 15:25:31 mbalmer Exp $
@@ -354,6 +354,7 @@ ACK	U+0006 ␆ ACKNOWLEDGE
 ACK	[IATA] Nantucket Memorial Airport, Massachusetts, United States of America
 ACL	access control list
 ACL	active current loop
+ACM	abstract control model (cf. CDC), umodem(4)
 ACM	Association for Computing Machinery
 ACM	Attribute Certificate Manager
 ACM	[IATA] Arica, Colombia
@@ -586,6 +587,7 @@ AGL	[IATA] Wanigela, Papua New Guinea
 AGM	annual general meeting
 AGM	[IATA] Anqmaqssalik, Greenland
 AGN	[IATA] Angoon Seaplane Base, Alaska, United States of America
+AGND	analog ground (in digital parts)
 AGO	[IATA] Magnolia Municipal Airport, Arkansas, United States of America
 AGP	accelerated graphics port
 AGP	[IATA] Pablo Ruiz Picasso, Malaga, Spain
@@ -822,6 +824,7 @@ AMI	[IATA] Mataram (Selaparang), Indonesia
 AMILGEO	Amt für Militärisches Geowesen (later AGeoBw)
 AMJ	[IATA] Almenara, Minas Gerais, Brazil
 AMK	[IATA] Durango (Animas Air Park), Colorado, United States of America
+AML	ACPI Machine Language
 AML	[IATA] Puerto Armuella, Panama
 AMM	[IATA] Amman, Jordan
 AMMO	ammunition
@@ -1141,6 +1144,7 @@ ASIN	Arkussinus
 ASJ	[IATA] Amami O Shima, Japan
 ASK	amplitude shif keying
 ASK	[IATA] Yamoussoukro, Ivory Coast
+ASL	ACPI Source Language
 ASL	age, sex, location?
 ASL	American Sign Language
 ASL	[IATA] Marshall (Harrison County Airport), Texas, United States of America
@@ -1287,6 +1291,7 @@ AUT	[FIFA] Austria
 AUT	[IATA] Atauro, Indonesia
 AUT	[Kfz] Palästinensische Autonomiegebiete/Gazastreifen (nicht offiziell)
 AUTH	authentication and authorisation
+AUTOGAS	(cf. LPG) (cf. GPL) (cf. NGL) but not (cf. LNG) or (cf. CNG)
 AUTONAV	Autonomously Navigate
 AUU	[IATA] Aurukun Mission, Queensland, Australia
 AUW	[IATA] Wausau Municipal Airport, Wisconsin, United States of America
@@ -1758,6 +1763,7 @@ BER	[IATA] Schoenefeld, Berlin, Germany
 BER	[Kfz:D] Landkreis Bernau
 BERTA	B (deutsches Funkalphabet)
 BERTHE	B (French Spelling Alphabet)
+BES	Blackberry Enterprise Service
 BES	[IATA] Brest/Bretagne, Brest, France
 BES	[IATA] Guipavas, Brest, France
 BET	[IATA] Bethel Airport, Alaska, United States of America
@@ -2837,6 +2843,8 @@ CAM	[Kfz] Kamerun
 CAML	Categorical Abstract Machine Language
 CAML	Collaborative Application Markup Language
 CAN	canon
+CAN	card access number
+CAN	controller area network
 CAN	U+0018 ␘ CANCEL
 CAN	[FIFA] Canada
 CAN	[IATA] Guangzhou (Baiyun), China
@@ -2976,6 +2984,7 @@ CD	[Kfz] Demokratische Republik Kongo (Verwechslungsgefahr!) (veraltet)
 CDA	[IATA] Cooinda, Northern Territory, Australia
 CDB	[IATA] Cold Bay Airport, Alaska, United States of America
 CDB	[Oracle] container database
+CDC	USB communications device class
 CDC	[IATA] Cedar City Municipal Airport, Utah, United States of America
 CDDA	compact disc digital audio
 CDE	[IATA] Caledonia, Panama
@@ -2984,6 +2993,7 @@ CDF	[IATA] Cortina d’Ampezzo, Italy
 CDG	[IATA] Charles de Gaulle, Paris, France
 CDH	[IATA] Camden (Harrell Field), Arkansas, United States of America
 CDHO	Chief Dental Hygiene Officer
+CDI	Contexts and Dependency Injection
 CDI	[IATA] Cedros Island, Mexico
 CDJ	[IATA] Conceicao, Paraíba, Brazil
 CDK	[IATA] Cedar Key (George T. Lewis Airport), Florida, United States of America
@@ -3219,6 +3229,7 @@ CGM	[IATA] Camiguin, Philippines
 CGN	Carrier-Grade NAT
 CGN	Köln (Cologne)
 CGN	[IATA] Konrad Adenauer, Cologne/Bonn, Germany
+CGND	chassis ground
 CGO	[FIFA] Congo
 CGO	[IATA] Zhengzhou, China
 CGO	[Kfz] Demokratische Republik Kongo
@@ -3494,7 +3505,7 @@ CMM	[IATA] Carmelita, Guatemala
 CMN	[IATA] Casablanca (Mohamed V), [155]Morocco
 CMO	Chief Marketing Officer
 CMO	[IATA] Obbia, Somalia
-CMOS	complementary metal-oxide-semiconductor
+CMOS	complementary metal-oxide semiconductor
 CMP	chip multi-processing
 CMP	[IATA] Campo do Arag, Brazil
 CMPXCHG	compare and exchange
@@ -3529,6 +3540,7 @@ CNC	[IATA] Coconut Island, Queensland, Australia
 CND	[IATA] Constanta (Mihai Kogainiceanu), Romania
 CNE	[IATA] Canon City, Colorado (Fremont County Airport), United States of America
 CNF	[IATA] Belo Horizonte, Minas Gerais, Brazil
+CNG	Compressed Natural Gas (komprimiertes Erdgas)
 CNG	[IATA] Cognac, France
 CNH	Chinese yuan (when traded offshore) from Hong Kong, inofficial
 CNH	[IATA] Claremont Municipal Airport, New Hampshire, United States of America
@@ -4352,6 +4364,7 @@ DFT	diagnostic function test
 DFT	discrete Fourier transformation
 DFW	[IATA] Dallas-Ft. Worth International, Texas, United States of America
 DFÜ	Datenfernübertragung
+DGA	domain generation algorithm
 DGA	[IATA] Dangriga, Belize
 DGAF	don’t give a fuck
 DGAS	don’t give a shit
@@ -4363,6 +4376,7 @@ DGF	[Kfz:D] Landkreis Dingolfing-Landau
 DGL	data generation language
 DGL	[IATA] Douglas Municipal Airport, Arizona, United States of America
 DGN	[IATA] Dahlgren LAB Airport, Virginia, United States of America
+DGND	digital ground (in analog parts)
 DGO	[IATA] Durango, Mexico
 DGP	[IATA] Daugavpils, Latvia
 DGPS	Differential GPS
@@ -4558,6 +4572,7 @@ DND	drag and drop
 DND	[IATA] Dundee, Scotland, United Kingdom of Great Britain and Northern Ireland
 DNE	does not exist
 DNE	[IATA] Plano (Dallas North Airport), Texas, United States of America
+DNF	did not finish
 DNF	[gc] did not find
 DNF	[IATA] Derna, Libya
 DNH	[IATA] Dunhuang, China
@@ -5229,6 +5244,7 @@ EA	[Kfz] Britisch-Ostafrika (veraltet)
 EAA	[IATA] Eagle Airport, Alaska, United States of America
 EAB	[IATA] Abbse, Yemen
 EABI	embedded-application binary interface
+EAC	extended access control
 EACCES	(#13) Permission denied
 EADDRINUSE	(#48) Address already in use
 EADDRNOTAVAIL	(#49) Can’t assign requested address
@@ -5295,7 +5311,10 @@ EBT	Emmental-Burgdorf-Thun Bahn
 EBU	[IATA] Saint-Etienne (Boutheon), France
 EBUSY	(#16) Device busy
 EBW	[IATA] Ebolowa, Cameroon
+EC	Electronic Cash
 EC	elliptical curve
+EC	embedded controller
+EC	Eurocheque
 EC	EuroCity
 EC	European Commission
 EC	[ccTLD] Ecuador
@@ -5329,6 +5348,7 @@ ECLIPSE	Java’s answer to EMACS
 ECLSS	Environmental Control and Life Support System
 ECM	electronic countermeasures (often: jammer)
 ECM	enterprise content management
+ECM	ethernet control model (cf. CDC)
 ECN	ASN.1 Encoding Control Notation
 ECN	explicit congestion notification
 ECN	[IATA] Ercan, Cyprus
@@ -5436,6 +5456,7 @@ EEE	Electrical and Electronics Engineering
 EEG	Elektroenzephalogramm
 EEK	Estonian kroon (old ISO 4217 code)
 EEK	[IATA] Eek Airport, Alaska, United States of America
+EEM	ethernet emulation model (cf. CDC)
 EEN	[IATA] Keene (Dillant-Hopkins Airport), New Hampshire, United States of America
 EEPROM	electrically erasable programmable read only memory
 EERD	extraesophagal reflux disease
@@ -5795,6 +5816,7 @@ EPA	U+0097 END OF GUARDED AREA
 EPAP	expiratory positive airway pressure
 EPC	Elektronischer Produktcode
 EPC	European Payments Council
+EPE	encrypted key exchange
 EPERM	(#1) Operation not permitted
 EPFNOSUPPORT	(#46) Protocol family not supported
 EPG	[IATA] Weeping Water (Browns Airport), Nebraska, United States of America
@@ -6662,6 +6684,8 @@ FTBFS	failure to build from source
 FTC	Federal Trade Commission
 FTC	[Munzee] first to capture (FTF)
 FTCBFS	fails to cross-build from source
+FTDI	(pseudo-standard for USB-to-serial adapters), uftdi(4)
+FTDI	Future Technology Devices International
 FTE	full-time equivalent
 FTE	Manntag(e), Personentag(e)
 FTE	Vollkraft
@@ -7335,6 +7359,7 @@ GPF	general protection fault
 GPG	GNU Privacy Guard (GnuPG, a PGP implementation)
 GPI	[IATA] Guapi, Colombia
 GPIO	General Purpose I/O
+GPL	gaz de pétrole liquéfié (cf. LPG)
 GPL	GNU General Public Licence
 GPL	[IATA] Guapiles, Costa Rica
 GPN	[IATA] Garden Point, Northern Territory, Australia
@@ -7937,8 +7962,8 @@ HMC&M	hazardous material control and management
 HME	[IATA] Hassi Messaoud (Oued Irara), Algeria
 HMG	[IATA] Hermannsburg, Northern Territory, Australia
 HMH	[IATA] Home Hill, Queensland, Australia
-HMI	Hazardously Misleading Information
-HMI	Human Media Interaction
+HMI	hazardously misleading information
+HMI	human media interaction
 HMI	human-machine interface
 HMI	[IATA] Hami, China
 HMJ	[IATA] Khmel’nyts’kyy (Khmel’nitskiy), Ukraine
@@ -8374,6 +8399,7 @@ ICPM	internationale Klassifikation der Behandlungsmethoden in der Medizin
 ICR	[IATA] Nicaro, Cuba
 ICS	Ice Cream Sandwich (Android 4.0)
 ICS	X (Italian Spelling Alphabet)
+ICSP	in-circuit serial programming
 ICT	information and communications technology
 ICT	ivy-covered tree
 ICT	[IATA] Wichita Mid-Continent, Kansas, United States of America
@@ -8503,6 +8529,7 @@ IHV	independent hardware vendor
 IIA	[IATA] Inishmaan, Ireland
 IIANM	if I am not mistaken
 IIB	[IATA] Independence Municipal Airport, Iowa, United States of America
+IIC	(cf. I²C)
 IIK	[IATA] Kipnuk Airport, Alaska, United States of America
 IIN	[IATA] Nishinoomote, Japan
 IINM	if I’m not mistaken
@@ -8843,6 +8870,7 @@ ISO	in search of
 ISO	International Standards Organisation
 ISO	[IATA] Kinston Jetport (Stallings Field), North Carolina, United States of America
 ISOC	Internet Society
+ISP	in-system programming (cf. ICSP)
 ISP	internet service provider
 ISP	[IATA] Islip (Long Island Mac Arthur Airport), New York, United States of America
 ISQ	Indemnité Spéciale de Qualification
@@ -9283,6 +9311,7 @@ JSY	[IATA] Syros Island, Greece
 JSYK	just so you know
 JSZ	[IATA] St. Tropez, France
 JTAG	joint test action group
+JTAG	JTAG Test Access Port
 JTL	just too late
 JTLYK	just to let you know
 JTO	[IATA] Thousand Oaks (Science Center), California, United States of America
@@ -10320,6 +10349,7 @@ LG00	[Oracle] Log Writer Worker
 LGA	[IATA] New York La Guardia, New York, United States of America
 LGB	[IATA] Long Beach Daugherty Field, California, United States of America
 LGBT	lesbian, gay, bisexual, and transgender
+LGC	LG Chem Ltd. (LG화학)
 LGC	[IATA] La Grange (Callaway Airport), Georgia, United States of America
 LGD	[IATA] La Grande (Union County), Oregon, United States of America
 LGF	[IATA] Yuma (Laguna Army Air Field), Arizona, United States of America
@@ -10544,6 +10574,7 @@ LNC	[IATA] Lengbati, Papua New Guinea
 LND	[IATA] Lander (Hunt Field), Wyoming, United States of America
 LNE	[IATA] Londrore, Vanuatu
 LNF	[IATA] Munbil, Papua New Guinea
+LNG	Liquified Natural Gas (Flüssigerdgas)
 LNG	[IATA] Lese, Papua New Guinea
 LNH	[IATA] Lake Nash, Northern Territory, Australia
 LNI	[IATA] Lonely (Dew Station), Alaska, United States of America
@@ -10586,6 +10617,7 @@ LOL	laughing out loud
 LOL	[IATA] Lovelock (Derby Field), Nevada, United States of America
 LOM	lights-out management
 LOM	[IATA] Lagos de Moreno, Mexico
+LON	local operating network
 LON	[IATA] All Airports around London, United Kingdom of Great Britain and Northern Ireland
 LONDON	L (Telecom B Spelling Alphabet)
 LOO	[IATA] Laghouat, Algeria
@@ -10621,6 +10653,7 @@ LPD	[IATA] La Pedrera, Colombia
 LPE	local privilege escalation
 LPE	[IATA] La Primavera, Colombia
 LPG	liquefied petroleum gas
+LPG	Liquefied Petroleum/Propane Gas (Autogas)
 LPG	[IATA] La Plata (Aerodromo Tolosa), Argentina
 LPH	[IATA] Lochgilphead, United Kingdom of Great Britain and Northern Ireland
 LPI	Linux Professional Institute
@@ -10782,6 +10815,7 @@ LTU	[IATA] La Touche, Alaska, United States of America
 LTV	Ludwigsluster Tarifverbund (cf. WMT)
 LTV	[IATA] Lotusvale, Queensland, Australia
 LTW	[IATA] Leonardtown (St. Mary’s County), Maryland, United States of America
+LTYPI	Lack of Typographic Imagination
 LU	logical unit
 LU	Lu (PSE#71) Lutetium | Metalle der seltenen Erden (Lanthaniden) | lanthanides | lanthanida
 LU	[ccTLD] Luxemburg
@@ -11076,6 +11110,7 @@ MC	Martigny-Châtelard (cf. TMR)
 MC	master of ceremony
 MC	memory controller
 MC	Midnight Commander (see NC, VC)
+MC	Mikrocontroller (cf. µC)
 MC	[ccTLD] Monaco
 MC	[ISO 3166] Monaco
 MC	[Kfz:D] Landkreis Malchin
@@ -11196,6 +11231,8 @@ MCSE	my cranium softened easily
 MCSE	my customers support extravagance
 MCSE	“Mayday”, called some experts
 MCT	[IATA] Muscat (Seeb), Oman
+MCU	Marvel cinematic universe
+MCU	microcontroller unit (cf. µC)
 MCU	[IATA] Montlucon, France
 MCV	[IATA] McArthur River, Northern Territory, Australia
 MCVE	minimal, complete, and verifiable example
@@ -11656,6 +11693,7 @@ MMET	Master of Meteorology
 MMF	[IATA] Mamfe, Cameroon
 MMG	[IATA] Mount Magnet, Western Australia, Australia
 MMH	[IATA] Mammoth Lakes, California, United States of America
+MMI	Mensch-Maschine-Interface (cf. HMI)
 MMI	[IATA] Athens (McMinn County Airport), Tennessee, United States of America
 MMIC	monolithic microwave integrated circuit
 MMIO	memory mapped input/output
@@ -12091,6 +12129,7 @@ MTR	METRANS Rail
 MTR	[IATA] Monteria, Colombia
 MTRR	memory type range register
 MTS	[IATA] Manzini (Matasapha), Swaziland
+MTS-K	Markttransparenzstelle für Kraftstoffe
 MTT	MailTrusT
 MTT	[IATA] Minatitlan, Mexico
 MTTF	mean time to failure
@@ -12485,6 +12524,7 @@ NCI	[IATA] Necocli, Colombia
 NCL	[FIFA] New Caledonia
 NCL	[IATA] Newcastle, England, United Kingdom of Great Britain and Northern Ireland
 NCL	[Kfz] Neukaledonien
+NCM	network control model (cf. CDC)
 NCMPC	ncurses-based music player daemon client (CUI)
 NCN	[IATA] New Chenega, Alaska, United States of America
 NCO	non-commissioned officer
@@ -12519,6 +12559,7 @@ NDH	[Kfz:D] Landkreis Nordhausen
 NDH	[Kfz] Kroatien (veraltet)
 NDI	Non-Developmental Item
 NDI	[IATA] Namudi, Papua New Guinea
+NDIS	Network Driver Interface Specification
 NDJ	[IATA] N’Djamena, Chad
 NDK	[IATA] Namorik Airport, Marshall Islands
 NDL	[IATA] Ndele, Central African Republic
@@ -12635,6 +12676,7 @@ NGD	[IATA] Anegada, British Virgin Islands
 NGE	[IATA] N’Gaoundere, Cameroon
 NGF	[IATA] Kaneohe (Mokapu Point), Hawaii, United States of America
 NGI	[IATA] Ngau, Fiji
+NGL	Natural Gas Liquids (Autogas)
 NGM	[IATA] Agana (Naval Air Station), Guam
 NGN	Nigerian naira (ISO 4217 code)
 NGN	[IATA] Nargana, Panama
@@ -12781,6 +12823,7 @@ NMG	[IATA] San Miguel, Panama
 NMI	non-maskable interrupt
 NMI	[FIFA] Northern Mariana Islands
 NMM	[IATA] Meridian (McCain Field), Mississippi, United States of America
+NMOS	n-type metal-oxide semiconductor
 NMP	not my problem
 NMP	[IATA] New Moon, Queensland, Australia
 NMR	[IATA] Nappa Merry, Queensland, Australia
@@ -13474,6 +13517,7 @@ OP	Opus (Werk)
 OP	original poster
 OP	[gc] opencaching.pl (cf. OC)
 OP	[Kfz:D] Rhein-Wupper-Kreis
+OP AMP	operational amplifier
 OPA	[IATA] Kopasker, Iceland
 OPAL	Optische Anschlussleitung
 OPB	Oberpfalzbahn
@@ -13689,6 +13733,7 @@ OWASP	Open Web Application Security Project
 OWB	[IATA] Owensboro-Daviess County Airport, Kentucky, United States of America
 OWD	[IATA] Norwood Memorial Airport, Massachusetts, United States of America
 OWE	[IATA] Owendo, Gabon
+OWI	one wire interface
 OWI	[IATA] Ottawa Municipal Airport, Kansas, United States of America
 OWK	[IATA] Norridgewock (Central Maine), Maine, United States of America
 OWL	Web Ontology Language
@@ -13773,6 +13818,7 @@ PAB	Panamanian balboa (ISO 4217 code)
 PAB	[IATA] Bilaspur, India
 PAC	phase-amplitude converter
 PAC	[IATA] Panama City (Paitilla), Panama
+PACE	password-authenticated connection establishment
 PAD	Padding Character (U+0080)
 PAD	[IATA] Paderborn/Lippstadt, Paderborn, Germany
 PADES	PDF Advanced Electronic Signature
@@ -13790,6 +13836,7 @@ PAJ	[IATA] Para Chinar, Pakistan
 PAK	[FIFA] Pakistan
 PAK	[IATA] Hanapepe (Port Allen Airport), Hawaii, United States of America
 PAK	[Kfz] Pakistan (veraltet)
+PAKE	password-authenticated key exchange
 PAL	friend, mate
 PAL	phase alternating line (728x576px)
 PAL	Problem anderer Leute (cf. SEP)
@@ -13858,6 +13905,7 @@ PBJ	[IATA] Paama, Vanuatu
 PBK	[IATA] Pack Creek, Alaska, United States of America
 PBL	[IATA] Puerto Cabello (Bartolome Salom), Venezuela
 PBM	portable bitmap
+PBM	Pulsbreitenmodulation (cf. PWM)
 PBM	[IATA] Paramaribo (Johan Adolf Pengel), Suriname
 PBN	[IATA] Porto Amboim, Angola
 PBO	[IATA] Paraburdoo, Western Australia, Australia
@@ -13939,6 +13987,7 @@ PDK	[IATA] Atlanta (Dekalb-Peachtree Airport), Georgia, United States of America
 PDL	Personaldienstleistung(en)
 PDL	Policy Description Language
 PDL	[IATA] Ponta Delgada (Sao Miguel), Azores, Portugal
+PDM	Pulsdauermodulation (cf. PWM)
 PDM	pulse-duration modulation
 PDN	pull-down network
 PDN	[IATA] Parndana, South Australia, Australia
@@ -13993,6 +14042,7 @@ PEAP	Protected EAP
 PEB	[IATA] Pebane, Mozambique
 PEBCAK	reverse’ism for PEBKAC
 PEBKAC	problem exists between keyboard and chair
+PEC	packet checksum
 PEC	[IATA] Pelican (Seaplane Base), Alaska, United States of America
 PECI	platform environment control interface
 PEDDO	[HP] Plataforma Élfica de Defensa de los Derechos Obreros (SPEW)
@@ -14067,6 +14117,7 @@ PGA	[IATA] Page Municipal Airport, Arizona, United States of America
 PGA	[Oracle] program global area (private, 35%; 50% bei DWH)
 PGAS	partitioned global address space
 PGB	[IATA] Pangoa, Papua New Guinea
+PGC	Professional Graphics Controller
 PGC	[IATA] Petersburg (Grant County), West Virginia, United States of America
 PGD	[IATA] Punta Gorda (Charlotte County), Florida, United States of America
 PGDIP	Postgraduate Diploma
@@ -14256,6 +14307,7 @@ PLIP	Parallelport IP
 PLK	[IATA] Point Lookout, Missouri, United States of America
 PLL	phase-locked loop
 PLL	[IATA] Palmia, Mexico
+PLM	Pulslängenmodulation (cf. PWM)
 PLM	[IATA] Palembang (Mahmud Badaruddin II), Indonesia
 PLN	Polish złoty (ISO 4217 code)
 PLN	[IATA] Pellston (Emmet County), Michigan, United States of America
@@ -14327,6 +14379,7 @@ PMO	project management office
 PMO	[gc] premium member only (restricted cache listing on GC.com)
 PMO	[IATA] Palermo (Punta Raisi), Sicily, Italy
 PMON	[Oracle] Process Monitor
+PMOS	p-channel metal-oxide semiconductor
 PMP	[IATA] Pimaga, Papua New Guinea
 PMQ	[IATA] Perito Moreno, Argentina
 PMR	Program Management Reviews
@@ -14429,6 +14482,7 @@ POP	power on password
 POP	[IATA] Puerto Plata, Dominican Republic
 POP3	Post Office Protocol, Version 3
 POQ	[IATA] Polk Inlet, Alaska, United States of America
+POR	power-on reset
 POR	[FIFA] Portugal
 POR	[IATA] Pori, Finland
 POR	[IOC] Portugal
@@ -14831,6 +14885,7 @@ PUF	[IATA] Pau Pyrenees (Pont Long Uzein), France
 PUG	[IATA] Port Augusta, South Australia, Australia
 PUH	[IATA] Pochutla, Mexico
 PUJ	[IATA] Punta Cana, Dominican Republic
+PUK	personal unblocking key
 PUK	[IATA] Pukaru, French Polynesia
 PUK	[Schule DE] Pflichtunterricht im Klassenverband
 PUL	[IATA] Poulsbo (Seaplane Base), Washington, United States of America
@@ -14886,6 +14941,7 @@ PWI	[IATA] Pawi (Beles), Ethiopia
 PWK	[IATA] Chicago (Wheeling), Illinois, United States of America
 PWL	[IATA] Perwokerto, Indonesia
 PWM	pulse width modulation
+PWM	Pulsweitenmodulation
 PWM	[IATA] Portland International Jetport, Maine, United States of America
 PWN	[IATA] Pitts Town, Bahamas
 PWO	[IATA] Pweto, Zaire
@@ -15660,6 +15716,7 @@ RNA	[IATA] Rorona, Papua New Guinea
 RNB	[IATA] Ronneby Air Base, Sweden
 RNC	[IATA] McMinnville (Warren County), Tennessee, United States of America
 RND	[IATA] Randolph Air Force Base, Texas, United States of America
+RNDIS	Remote Network Driver Interface Specification, urndis(4)
 RNE	[IATA] Roanne, France
 RNG	random number generator
 RNG	[IATA] Rangely Airport, Colorado, United States of America
@@ -16056,6 +16113,10 @@ SAAS	software as a service
 SAASM	Selective Availability/Anti-Spoofing Module
 SAB	[IATA] Saba, Netherlands Antilles
 SAB	[Kfz:D] Landkreis Saarburg
+SAC	single attached concentrator
+SAC	societas apostolatus catholici (Pallottiner und die Missionsschwestern vom Katholischen Apostolat (Pallottinerinnen))
+SAC	Standardisation Administration of the People’s Republic of China
+SAC	supplemental access control
 SAC	[IATA] Sacramento Executive Airport, California, United States of America
 SACD	super audio compact disc
 SACK	selective ACKnowledgement (TCP)
@@ -16204,6 +16265,7 @@ SBO	[IATA] Salina (Gunnison Airport), Utah, United States of America
 SBP	[IATA] San Luis Obispo County Airport, California, United States of America
 SBQ	[IATA] Sibi, Pakistan
 SBR	[IATA] Saibai Island, Queensland, Australia
+SBS	Smart Battery Specification
 SBS	[IATA] Steamboat Springs, Colorado, United States of America
 SBSA	Server Base System Architecture
 SBT	[IATA] San Bernardino (County Heliport), California, United States of America
@@ -16506,6 +16568,7 @@ SGL	[IATA] Manila, Philippines
 SGM	[IATA] San Ignacio, Mexico
 SGML	Standard Generalised Markup Language
 SGN	[IATA] Ho Chi Minh City (Tan Son Nhut), Vietnam
+SGND	signal ground
 SGO	[IATA] St. George, Queensland, Australia
 SGP	[IATA] Shay Gap, Western Australia, Australia
 SGP	[Kfz] Singapur
@@ -16837,10 +16900,13 @@ SMA	[IATA] Santa Maria, Azores, Portugal
 SMAF	system management action field
 SMART	self-monitoring analysis and reporting technology
 SMART	specific, measurable, attainable, relevant, and time-bound
+SMART	surveillance marketed as revolutionary technology
+SMB	(cf. SMBus)
 SMB	Server Message Block
 SMB	[IATA] Cerro Sombrero, Chile
 SMBFS	Server Message Block File System (see CIFS)
 SMBIOS	System Management BIOS
+SMBUS	system management bus (cf. I²C)
 SMC	Security Module Card
 SMC	Space and Missile Centre
 SMC	system management controller
@@ -17057,6 +17123,7 @@ SPDIF	cf. S/PDIF
 SPE	signal processing engine (powerpcspe)
 SPE	synergistic processing element (powerpc-spu AKA cell)
 SPE	[IATA] Sepulot, Malaysia
+SPEKE	simple password exponential key exchange
 SPEW	[HP] Society for the Promotion of Elfish Welfare
 SPF	Sender Permitted From
 SPF	Sender Policy Framework
@@ -17168,6 +17235,7 @@ SRN	[IATA] Strahan, Tasmania, Australia
 SRNG	stretched random number generator
 SRO	[IATA] Santana Ramos, Colombia
 SRO	[Kfz:D] Landkreis Stadtroda
+SRP	secure remote password
 SRP	[IATA] Stord (Sorstukken), Norway
 SRQ	[IATA] Sarasota, Florida, United States of America
 SRR	[IATA] Stradbroke Island, Queensland, Australia
@@ -17796,6 +17864,7 @@ TCG	[IATA] Tocache, Peru
 TCH	[FIFA] Czechoslovakia
 TCH	[IATA] Tchibanga, Gabon
 TCI	[IATA] Tenerife, Canary Islands, Spain
+TCK	[JTAG] clock (pin)
 TCL	tool command language
 TCL	transaction control language
 TCL	[IATA] Tuscaloosa Municipal Airport, Alabama, United States of America
@@ -17829,12 +17898,14 @@ TDD	time division duplex
 TDD	[IATA] Trinidad (Teniente Jorge Henrich Arauz), Bolivia
 TDF	[IATA] Roxboro, North Carolina (Person County Airport), United States of America
 TDG	[IATA] Tandag, Philippines
+TDI	[JTAG] data in (pin)
 TDJ	[IATA] Tadjoura, Djibouti
 TDK	[IATA] Taldyqorghan (Taldy Kurgan), Kazakhstan
 TDL	[IATA] Tandil, Argentina
 TDM	time division multiplexing
 TDMA	time division multiple access
 TDO	[IATA] Toledo (Winlock Ed Carlson), Washington, United States of America
+TDO	[JTAG] data out (pin)
 TDO	[Kfz:D] Landkreis Nordsachsen
 TDOA	time difference of arrival
 TDOP	Time Dilution of Precision
@@ -18235,6 +18306,7 @@ TMR	Transports de Martigny et Régions
 TMR	[IATA] Tamanrasset, Algeria
 TMS	Tag Management System (user tracking)
 TMS	[IATA] Sao Tome International, Sao Tome & Principe
+TMS	[JTAG] mode select (pin)
 TMT	Turkmenistani manat (ISO 4217 code)
 TMT	[IATA] Porto Trombetas, Pará, Brazil
 TMTOWTDI	there’s more than one way to do it
@@ -18433,6 +18505,7 @@ TRQ	[IATA] Tarauaca, Acre, Brazil
 TRR	[IATA] Trincomalee, Sri Lanka
 TRS	[IATA] Trieste (Ronchi dei Legionari), Italy
 TRST	Trust Service Token
+TRST	[JTAG] reset (pin)
 TRT	the right thing
 TRT	[IATA] Tremonton Municipal Airport, Utah, United States of America
 TRU	[IATA] Trujillo, Peru
@@ -18626,6 +18699,7 @@ TWDT	the whole damn thing
 TWE	[IATA] Taylor Airport, Alaska, United States of America
 TWF	[IATA] Twin Falls (Joslin Field), Idaho, United States of America
 TWH	[IATA] Avalon (Catalina Island), California, United States of America
+TWI	two wire interface (cf. I²C)
 TWIAVBP	the world is a very big place
 TWKMHNNOARN	those who know me have no need of a real name
 TWKMHNNOMRN	those who know me have no need of my real name
@@ -18944,7 +19018,8 @@ UPP	[IATA] Hawi (Upolu Airport), Hawaii, United States of America
 UPPSALA	U (British A/International Spelling Alphabet)
 UPR	[gc] unusual pile of rocks
 UPR	[IATA] Upiara, Papua New Guinea
-UPS	uninterruptible power supply
+UPS	(Klingelmännchen)
+UPS	uninterruptible power supply (cf. USV)
 UPS	united parcel service
 UPS	Universal Polar Stereographic coordinate system (UTM zones A, B, Y, Z)
 UPS	[gc] unnatural pile of sticks
@@ -18992,6 +19067,7 @@ USA	[Kfz] Vereinigte Staaten von Amerika
 USAF	[USA] United States Air Force
 USART	universal synchronous/asynchronous receiver/transmitter
 USB	universal serial bus
+USB-IF	USB Implementers Forum
 USBV	Unbekannte Spreng- und Brandvorrichtung
 USD	United States dollar (ISO 4217 code)
 USDA	United States Department of Agriculture
@@ -19013,7 +19089,7 @@ USR	Unix System Resources
 USS	United States dollar (same day) (funds code) (ISO 4217 code)
 USSPACECOM	United States Space Command
 UST	[IATA] St. Augustine Airport, Florida, United States of America
-USV	unterbrechungsfreie Stromversorgung (UPS)
+USV	unterbrechungsfreie Stromversorgung (cf. UPS)
 USWC	uncacheable speculative write combining
 UT	unit test
 UT	universal time
@@ -19154,6 +19230,7 @@ VAZ	[IATA] Val d’Isere, France
 VB	Visual Basic
 VB	[Kfz:D] Vogelsbergkreis
 VBA	Visual Basic for Applications
+VBAT	battery voltage
 VBB	Verkehrsverbund Berlin-Brandenburg
 VBE	Vollbeschäftigteneinheit (cf. FTE)
 VBEG	very big evil grin
@@ -19189,6 +19266,7 @@ VCH	[IATA] Vichadero, Uruguay
 VCHAR	visible character
 VCM	virtual channel memory
 VCO	voltage-controlled oscillator
+VCORE	core voltage
 VCP	[IATA] Sao Paulo/Campinas (Viracopos), São Paulo, Brazil
 VCR	video cassette recorder
 VCR	[IATA] Carora, Venezuela
@@ -19345,8 +19423,10 @@ VIK	[IATA] Kavik, Alaska, United States of America
 VIKTOR	V (deutsches Funkalphabet)
 VIL	[IATA] Dakhla (Villa Cisneros), Western Sahara
 VIM	it’s e̲d̲itor, *not* v̲i̲itor! (and vim’s worse.) don’t use it!
+VIN	input voltage
 VIN	[FIFA] Saint Vincent and the Grenadines
 VIN	[IATA] Vinnytsia Havryshivka International, Vinnytsia, Ukraine
+VIO	I/O voltage
 VIP	Verkehrsgemeinschaft in Pinneberg (cf. HVV)
 VIP	very important person
 VIPT	virtually indexed, physically tagged
@@ -19417,6 +19497,7 @@ VMCID	Vendor Minor Codeset ID
 VME	Versa Module Europa
 VME	virtual mode extension
 VME	[IATA] Villa Mercedes, Argentina
+VMEM	RAM voltage
 VML	Vector Markup Language
 VMO	Verkehrsgemeinschaft Müritz-Oderhaff (former)
 VMR	[IATA] Vermillion (Harold Davidson Field), South Dakota, United States of America
@@ -19467,6 +19548,7 @@ VOMS	Virtual Organisation Membership Service
 VOS	Verkehrsgemeinschaft Osnabrück
 VOS	virtual operating system
 VOT	[IATA] Votuporanga, São Paulo, Brazil
+VOUT	output voltags
 VOW	Verkehrsgemeinschaft Ostwestfalen-Lippe (cf. OWLV)
 VOX	Stimme, voice (latin)
 VOY	Star Trek: Voyager
@@ -19477,6 +19559,8 @@ VPE	[IATA] Ondjiva (Ngiva), Angola
 VPN	virtual private network
 VPN	virtuelles privates Netzwerk
 VPN	[IATA] Vopnafjordur, Iceland
+VPP	EPROM/EEPROM/µC programming voltage
+VPP	peak to peak voltage delta
 VPS	[IATA] Fort Walton Beach (Valparaiso), Florida, United States of America
 VPZ	[IATA] Valparaiso (Porter County), Indiana, United States of America
 VQS	[IATA] Vieques Airport, Puerto Rico
@@ -19490,6 +19574,7 @@ VRB	Vitznau-Rigi-Bahn (cf. RB)
 VRB	[IATA] Vero Beach Municipal Airport, Florida, United States of America
 VRC	[IATA] Virac, Philippines
 VRE	[IATA] Vredendal, South Africa
+VREF	reference voltage
 VRF	Visual Flight Rules
 VRG	Verkehrsgemeinschaft Rhön-Grabfeld
 VRK	Verkehrsverbund Region Kiel
@@ -19499,6 +19584,7 @@ VRL	[IATA] Vila Real, Portugal
 VRM	Verkehrsverbund Rhein-Mosel
 VRM	voltage regulator module
 VRML	Virtual Reality Modeling Language
+VRMS	voltage root mean square
 VRN	Verkehrsverbund Rhein-Neckar
 VRN	[IATA] Verona (Villafranca), Italy
 VRR	Verkehrsverbund Rhein-Ruhr
@@ -19715,6 +19801,7 @@ WDG	[IATA] Enid (Woodring), Oklahoma, United States of America
 WDH	[IATA] Windhoek (J. G. Strijdom International), Namibia
 WDI	[IATA] Wondai, Australia
 WDM	Wavelength Division Multiplexing
+WDM	Windows Driver Model
 WDO	[IATA] Wando, Papua New Guinea
 WDQ	[IATA] Booneville (Baldwyn Airport), Mississippi, United States of America
 WDR	Westdeutscher Rundfunk
@@ -19820,6 +19907,7 @@ WHL	[IATA] Welshpool, Victoria, Australia
 WHM	[IATA] Wickham, Australia
 WHO	[IATA] Franz Josef, New Zealand
 WHP	[IATA] Los Angeles (Whiteman Airport), California, United States of America
+WHQL	Windows Hardware Quality Labs
 WHR	[IATA] Vail (Junction Heliport), Colorado, United States of America
 WHS	[IATA] Whalsay, United Kingdom of Great Britain and Northern Ireland
 WHSXGA	6400x4096px
@@ -21171,6 +21259,7 @@ ZKT	[IATA] Komotini, Greece
 ZKU	[IATA] Sursee, Switzerland
 ZLG	[IATA] El Gouera, Mauritania
 ZLO	[IATA] Manzanillo (Playa de Oro), Mexico
+ZLP	zero-length packet
 ZLT	[IATA] La Tabatiere, Quebec, Canada
 ZM	[ccTLD] Sambia
 ZM	[ISO 3166] Zambia
@@ -21281,6 +21370,7 @@ ZÜRICH	Z (British A/International Spelling Alphabet)
 ^_^	(emoticon: bemusement)
 _	[MORSE] ..--.- (not ITU-R)
 `	[MORSE] .-..-. (normalises to ‘"’)
+µC	Mikrocontroller
 ¼A3	105×297 mm (4.1338×11.6929 in)
 ¼A4	74×210 mm (2.9133×8.2677 in)
 À	[MORSE] .--.-
