@@ -1,7 +1,7 @@
 #!/bin/mksh
-# $MirOS: wtf/chkdb,v 1.2 2015/11/18 23:01:48 tg Exp $
+# $MirOS: wtf/chkdb,v 1.3 2016/02/16 21:25:45 tg Exp $
 #-
-# Copyright © 2015
+# Copyright © 2015, 2016
 #	mirabilos <m@mirbsd.org>
 #
 # Provided that these terms and disclaimer and all copyright notices
@@ -48,6 +48,7 @@ last=$line
 num=1
 while IFS= read -r line; do
 	(( ++num % 100 )) || print -n "$num...\r"
+	[[ $line = *@([ 	]) ]] && warn "whitespace at EOL: $line"
 	if [[ $line != *'	'* ]]; then
 		[[ $line = ' '* ]] || warn "does not begin with a space: $line"
 		[[ $line < $last ]] && warn "not sorted: $line"
