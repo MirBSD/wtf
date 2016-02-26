@@ -1,5 +1,5 @@
 #!/bin/mksh
-# $MirOS: wtf/chkdb,v 1.3 2016/02/16 21:25:45 tg Exp $
+# $MirOS: wtf/chkdb,v 1.4 2016/02/26 17:11:06 tg Exp $
 #-
 # Copyright © 2015, 2016
 #	mirabilos <m@mirbsd.org>
@@ -56,6 +56,8 @@ while IFS= read -r line; do
 		continue
 	fi
 	target=${line%%	*}
+	exp=${line#*	}
+	[[ $exp = *'	'* ]] && warn "tab in expansion: $line"
 	typeset -u tgsrch=$target
 	if [[ $tgsrch = *[A-Z].* ]]; then
 		warn "never matched, contains dots: $line"
