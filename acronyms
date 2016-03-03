@@ -1,5 +1,5 @@
   à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž α/Α ε/Ε λ/Λ ο/Ο π/Π ς/Σ σ/Σ а/А б/Б г/Г д/Д е/Е з/З й/Й к/К л/Л м/М н/Н о/О р/Р с/С т/Т у/У ф/Ф қ/Қ ա/Ա հ/Հ յ/Յ
- @(#)$MirOS: wtf/acronyms,v 1.550 2016/02/29 20:49:03 tg Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.551 2016/03/03 19:31:16 tg Exp $
  From $NetBSD: acronyms,v 1.245 2016/02/13 23:12:34 dholland Exp $
  From $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
  From $NetBSD: acronyms.comp,v 1.159 2016/02/26 08:20:27 jnemeth Exp $
@@ -7676,6 +7676,8 @@ GOPHER	[altTLD] Seiten, die das Gopher-Protokoll verwenden
 GOQ	[IATA] Golmud, China
 GOR	[IATA] Gore, Ethiopia
 GOS	[IATA] Gosford, New South Wales, Australia
+GOST	[EDU] gymnasiale Oberstufe
+GOST	Государственный Стандарт (Gosudarstvennyj Standart / Gossudarstwenny Standart), now Федеральное агентство по техническому регулированию и метрологии (Federalnoje agentstwo po technitscheskomu regulirowaniju i metrologii / Federal’noe agentstvo po techničeskomu regulirovaniju i metrologii)
 GOT	global offset table
 GOT	[IATA] Gothenburg (Landvetter), Sweden
 GOTM	Geocacher of the Month
@@ -8747,6 +8749,7 @@ IBTD	I beg to differ
 IBTD	in before the delete (web fora)
 IBZ	[IATA] Ibiza, Balearic Islands, Spain
 IC	I see
+IC	individual contributor
 IC	integrated circuit
 IC	InterCity
 ICA	independent computer architecture
@@ -13938,9 +13941,11 @@ OKA	[IATA] Okinawa, Ryukyu, Japan
 OKAPI	A common API for all National Opencaching.XX sites
 OKB	[IATA] Orchid Beach, Australia
 OKC	[IATA] Oklahoma City Will Rogers World, Oklahoma, United States of America
+OKD	Open (Knowledge) Definition
 OKD	[IATA] Sapporo (Okadama), Japan
 OKE	[IATA] Okino Erabu, Japan
 OKF	[IATA] Okaukuejo, Namibia
+OKFN	Open Knowledge Foundation
 OKG	[IATA] Okoyo, Congo
 OKH	[IATA] Oakham (Cottesmore RAF Station), England
 OKI	[IATA] Oki Island, Japan
