@@ -1,5 +1,5 @@
   à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž α/Α ε/Ε λ/Λ ο/Ο π/Π ς/Σ σ/Σ а/А б/Б г/Г д/Д е/Е з/З й/Й к/К л/Л м/М н/Н о/О р/Р с/С т/Т у/У ф/Ф қ/Қ ա/Ա հ/Հ յ/Յ
- @(#)$MirOS: wtf/acronyms,v 1.551 2016/03/03 19:31:16 tg Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.552 2016/03/06 19:06:40 tg Exp $
  From $NetBSD: acronyms,v 1.245 2016/02/13 23:12:34 dholland Exp $
  From $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
  From $NetBSD: acronyms.comp,v 1.159 2016/02/26 08:20:27 jnemeth Exp $
@@ -806,6 +806,8 @@ AKST	[TZif] America/Sitka
 AKST	[TZif] America/Yakutat
 AKST	[TZif] US/Alaska
 AKT	[IATA] Akrotiri, Cyprus
+AKTE	(dossier, file, record, paper)
+AKTE	[gc] Anwesenheitspflicht kurzfristig teilnehmend erklärt
 AKU	adaptation kit update
 AKU	[IATA] Aksu, China
 AKUEFI	Abkürzungsfimmel
@@ -4350,6 +4352,8 @@ DAP	Directory Access Protocol
 DAP	[IATA] Darchula, Nepal
 DAR	[IATA] Dar es Salaam, Tanzania
 DARC	Deutscher Amateur Radio Club
+DARC	Deutscher Amateur-Radio-Club e. V.
+DARCS	Darcs advanced revision control system
 DASD	direct-access storage device
 DASH	(hyphen) - (International Radiotelephony Spelling Alphabet)
 DAT	digital audio tape
@@ -4924,6 +4928,7 @@ DR	Digital Research
 DR	Doktor
 DR	down relay (lift control)
 DRA	[IATA] Mercury (Desert Rock Airport), Nevada, United States of America
+DRAC	Dell Remote Access Controller
 DRAM	dynamic random access memory
 DRB	Deutsche Reichsbahn-Gesellschaft (former)
 DRB	[IATA] Derby, Western Australia, Australia
