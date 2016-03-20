@@ -1,5 +1,5 @@
   à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž α/Α ε/Ε λ/Λ ο/Ο π/Π ς/Σ σ/Σ а/А б/Б г/Г д/Д е/Е з/З й/Й к/К л/Л м/М н/Н о/О р/Р с/С т/Т у/У ф/Ф қ/Қ ա/Ա հ/Հ յ/Յ
- @(#)$MirOS: wtf/acronyms,v 1.554 2016/03/18 21:57:43 tg Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.555 2016/03/20 20:20:45 tg Exp $
  From $NetBSD: acronyms,v 1.245 2016/02/13 23:12:34 dholland Exp $
  From $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
  From $NetBSD: acronyms.comp,v 1.159 2016/02/26 08:20:27 jnemeth Exp $
@@ -331,6 +331,7 @@ AB	[CDN] Alberta
 AB	[Kfz:D] kreisfreie Stadt und Landkreis Aschaffenburg
 ABA	[IATA] Abakan, Khakassia, Russia
 ABB	[IATA] Abingdon RAF Station, England, United Kingdom of Great Britain and Northern Ireland
+ABB;DR	adblocker-blocker; didn’t read
 ABC	(latin Alphabet)
 ABC	American Broadcasting Company
 ABC	arbitrary bad-smelling cheese
@@ -1306,6 +1307,8 @@ AST	[TZif] America/Thule
 AST	[TZif] Atlantic/Bermuda
 AST	[TZif] Canada/Atlantic
 ASTA	[EDU] Allgemeiner Studierendenausschuß
+ASTI	Astigmatismus
+ASTI	Sekt (sparkling wine)
 ASU	(cf. АСУ)
 ASU	Abgassonderuntersuchung (now: AU)
 ASU	[IATA] Asuncion (Presidente Stroessner), Paraguay
@@ -6336,6 +6339,7 @@ ETIN	electronic tax payer identification number
 ETIN	elektronische Transfer-Identifikations-Nummer
 ETL	extract, transform, load
 ETLA	extended three letter acronym
+ETMA	estimated time to meet again
 ETN	[IATA] Eastland Municipal Airport, Texas, United States of America
 ETOOMANYREFS	(#59) Too many references: can’t splice
 ETR	early to rise
@@ -6710,6 +6714,7 @@ FIE	[IATA] Fair Isle, United Kingdom of Great Britain and Northern Ireland
 FIF	[Kfz] Französisch-Indien (veraltet)
 FIFA	Fédération Internationale de Football Association
 FIFO	first in, first out
+FIFY	fixed it for you
 FIG	[IATA] Fria, Guinea
 FIGJAM	fuck I’m good, just ask me
 FIGS	[gc] found in good shape
@@ -15630,6 +15635,7 @@ PVZ	[IATA] Painesville (Casement Airport), Ohio, United States of America
 PW	[ccTLD] Palau
 PW	[ISO 3166] Palau
 PW	[Kfz:D] Landkreis Pasewalk
+PW;DR	(cf. bp;dr)
 PWA	[IATA] Oklahoma City (Wiley Post Airport), Oklahoma, United States of America
 PWD	[IATA] Plentywood (Sher-Wood Airport), Montana, United States of America
 PWE	[IATA] Pevek, Magadan, Russia
@@ -18097,6 +18103,7 @@ SSU	[IATA] White Sulphur Springs, West Virginia, United States of America
 SSV	separator-separated values
 SSV	shell-parseable separated values
 SSV	Sommerschlußverkauf
+SSVC	sight-seeing virtual cache
 SSW	Südsüdwest, south-south-west
 SSW	[IATA] Stuart Island Airpark, Washington, United States of America
 SSX	[IATA] Samsun, Turkey
@@ -18292,6 +18299,7 @@ SV	[ISO 3166] El Salvador
 SVA	[IATA] Savoonga Airport, Alaska, United States of America
 SVB	Städtische Verkehrsbetriebe Bern, „Bernmobil“
 SVB	[IATA] Sambava, Madagascar
+SVC	Safari virtual cache
 SVC	Salvadoran colón (old ISO 4217 code)
 SVC	service
 SVC	[IATA] Silver City (Grant County Airport), New Mexico, United States of America
