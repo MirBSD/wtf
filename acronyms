@@ -1,5 +1,5 @@
   à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž α/Α ε/Ε λ/Λ ο/Ο π/Π ς/Σ σ/Σ а/А б/Б г/Г д/Д е/Е з/З й/Й к/К л/Л м/М н/Н о/О р/Р с/С т/Т у/У ф/Ф қ/Қ ա/Ա հ/Հ յ/Յ
- @(#)$MirOS: wtf/acronyms,v 1.555 2016/03/20 20:20:45 tg Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.556 2016/03/22 17:20:41 tg Exp $
  From $NetBSD: acronyms,v 1.245 2016/02/13 23:12:34 dholland Exp $
  From $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
  From $NetBSD: acronyms.comp,v 1.159 2016/02/26 08:20:27 jnemeth Exp $
@@ -1977,6 +1977,8 @@ BFV	Bezirksfeuerwehrverband
 BFV	[IATA] Clinton Municipal Airport, Oklahoma, United States of America
 BFW	[IATA] Silver Bay Municipal Airport, Minnesota, United States of America
 BFX	[IATA] Bafoussem, Cameroon
+BG	background
+BG	beste Grüße
 BG	[ccTLD] Bulgarien
 BG	[ISO 3166] Bulgaria
 BG	[Kfz:D] Dienstfahrzeuge des Bundesgrenzschutzes
@@ -3997,6 +3999,7 @@ CS	Connex Sachsen
 CS	Counter-Strike
 CS	Cs (PSE#55) Caesium | Alkalimetalle | alkali metals | metalla alcalica
 CS	[ccTLD] Tschechoslowakei (heute .cz und .sk; später für Serbien und Montenegro reserviert, jedoch nie verwendet)
+CS	[IRC] chanserv
 CS	[Kfz] Slowakei (veraltet)
 CS	[Kfz] Tschechien (veraltet)
 CS	[Kfz] Tschechoslowakei (veraltet)
@@ -5918,7 +5921,7 @@ EISDIR	(#21) Is a directory
 EIW	[IATA] New Madrid, Missouri, United States of America
 EIY	[IATA] Ein Yahav, Israel
 EJA	[IATA] Barrancabermeja, Colombia
-EJB	Enterprise Java Beans
+EJB	Enterprise Java Bean™
 EJH	[IATA] Wedjh, Saudi Arabia
 EK	[Schule DE] Erweiterungskurs (gymnasialer Zweig der Gesamtschule)
 EKA	[IATA] Eureka (Murray Field), California, United States of America
@@ -6678,6 +6681,7 @@ FFTFT	feel free to fix that
 FFU	[IATA] Futaleufu, Chile
 FG	Ferrovie del Gargano
 FG	floating gate
+FG	foreground
 FG	[Kfz:D] Landkreis Freiberg
 FG	[Kfz:D] Landkreis Mittelsachsen
 FGA	frequently given answer
@@ -7465,6 +7469,7 @@ GFL	good fucking luck
 GFL	[IATA] Glens Falls (Warren County Airport), New York, United States of America
 GFLF	Großflugfeldlöschfahrzeug
 GFM	Chemins der fer Fribourgeios (Gruyére-Friburg-Morat)
+GFMD	github-flavoured Markdown
 GFN	[IATA] Grafton, New South Wales, Australia
 GFO	[IATA] Bartica, Guyana
 GFR	[IATA] Granville, France
@@ -7508,6 +7513,7 @@ GGW	[IATA] Glasgow International Airport, Montana, United States of America
 GGWP	good game, well played
 GGZ	gegengezeichnet
 GGÜ	gegenüber
+GH	github
 GH	[ccTLD] Ghana
 GH	[ISO 3166] Ghana
 GH	[Kfz] Ghana
@@ -11565,6 +11571,8 @@ MAA	[IATA] Madras (Meenambakkam), India
 MAB	[IATA] Maraba, Pará, Brazil
 MAB	[Kfz:D] Landkreis Marienberg
 MAB	[Kfz:D] Mittlerer Erzgebirgskreis
+MAC	Apple Macintosh
+MAC	macro
 MAC	mandatory access control
 MAC	medium access control
 MAC	message authentication check
@@ -11829,6 +11837,7 @@ MCZ	[IATA] Maceio, Alagoas, Brazil
 MD	Doctor of Medicine
 MD	Dr. med. (medical doctor)
 MD	machine-dependent
+MD	Markdown
 MD	Minidisc
 MD	[ccTLD] Moldawien
 MD	[ISO 3166] Moldova
@@ -13614,6 +13623,7 @@ NS	Network Service
 NS	Niederländische Staatsbahn
 NS	[AUS] New South Wales (old; new: NSW)
 NS	[CDN] Nova Scotia
+NS	[IRC] nickserv
 NS	[RR] nameserver
 NSA	National Security Agency
 NSA	never say anything
@@ -15290,6 +15300,7 @@ PRI	product release instructions
 PRI	[IATA] Praslin Island, Seychelles
 PRI	[Kfz] Puerto Rico
 PRIMA	Privilege Management, Authorisation, and Enforcement in Grid Environments
+PRIV	private
 PRJ	Project
 PRJ	[IATA] Capri, Italy
 PRK	[FIFA] North Korea
@@ -15701,7 +15712,10 @@ Q	International Radiotelephony Spelling Alphabet; British A/International Spelli
 Q	Italian Spelling Alphabet: QUARTO
 Q	q, cue, queue
 Q	Quartal
+Q	question
 Q	Spanish Spelling Alphabet: QUERIDO
+Q	[IRC] query
+Q	[IRC] quote
 Q	[Kfz] Katar
 Q	[MORSE] --.-
 Q&A	Question and Answer
