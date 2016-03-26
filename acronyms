@@ -1,5 +1,5 @@
   à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž α/Α ε/Ε λ/Λ ο/Ο π/Π ς/Σ σ/Σ а/А б/Б г/Г д/Д е/Е з/З й/Й к/К л/Л м/М н/Н о/О р/Р с/С т/Т у/У ф/Ф қ/Қ ա/Ա հ/Հ յ/Յ
- @(#)$MirOS: wtf/acronyms,v 1.557 2016/03/25 19:56:06 tg Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.558 2016/03/26 00:15:25 tg Exp $
  From $NetBSD: acronyms,v 1.245 2016/02/13 23:12:34 dholland Exp $
  From $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
  From $NetBSD: acronyms.comp,v 1.161 2016/03/22 17:41:26 ginsbach Exp $
@@ -1795,6 +1795,7 @@ BCOUN	Bachelor of Counseling
 BCP	best current practice
 BCR	byte count register
 BCR	[IATA] Boca do Acre, Amazonas, Brazil
+BCRS	Barycentric Celestial Reference System
 BCS	base configuration space
 BCS	[IATA] Belle Chasse (Logistics Heliport), Louisiana, United States of America
 BCT	Brigade Combat Team
@@ -3149,6 +3150,8 @@ CCI	co-channel interferer
 CCI	[IATA] Concordia, Amazonas, Brazil
 CCIE	Cisco Certified Internetwork Expert
 CCIP	Cisco Certified Internetwork Professional
+CCIR	Comité Consultatif International des Radiocommunications
+CCIR	Consultative Committee for Radio
 CCITT	Comitè Consultatif Internationale de Tèlègraphie et Tèlèphonie
 CCITT	now: ITU-T
 CCJ	[IATA] Calicut, India
@@ -6335,6 +6338,8 @@ ESW	[Kfz:D] Landkreis Eschwege
 ESW	[Kfz:D] Werra-Meißner-Kreis
 ESYS	Embedded Systems
 ESZETT	ß (deutsches Funkalphabet)
+ET	Ephemeridenzeit
+ET	ephemeris time
 ET	[ccTLD] Äthiopien
 ET	[gc] Ehrentafel (FoF)
 ET	[ISO 3166] Ethiopia
@@ -7373,6 +7378,7 @@ GCM	[IATA] Owen Roberts International Airport, Grand Cayman, Cayman Islands
 GCN	[IATA] Grand Canyon National Park Airport, Arizona, United States of America
 GCR	group-coded recording
 GCR0	[Oracle] Global Conflict Resolution Slave Process
+GCRS	Geocentric Celestial Reference System
 GCRTNO	[gc] Groundspeak (TC)
 GCT	[IATA] Guthrie Center (Regional Airport), Iowa, United States of America
 GCY	[IATA] Greeneville Municipal Airport, Tennessee, United States of America
@@ -8366,6 +8372,7 @@ HIV	Han isch vajesse
 HIV	human immunodeficiency virus
 HIW	[IATA] Hiroshima (Hiroshima West), Japan
 HIX	[IATA] Hiva Oa, Marquesas Islands, French Polynesia
+HJD	heliocentric julian date
 HJH	[IATA] Hebron (Municipal Airport), Nebraska, United States of America
 HJR	[IATA] Khajuraho, India
 HJT	[IATA] Khujirt, Mongolia
@@ -8827,6 +8834,7 @@ IARC	(Krebsforschungsagentur der WHO)
 IARC	International Agency for Research on Cancer
 IAS	[IATA] Iasi, Romania
 IATA	International Air Transport Association (airport codes) – http://www.mapping.com/airportcodes.shtml
+IAU	International Astronomical Union
 IAW	In Accordance With
 IAW	in another window
 IAWTC	I agree with this comment
@@ -9611,6 +9619,7 @@ JCT	[IATA] Junction (Kimble County Airport), Texas, United States of America
 JCX	[IATA] Los Angeles (Citicorp Heliport), California, United States of America
 JCY	[IATA] Johnson City Airport, Texas, United States of America
 JD	Doctor of Jurisprudence
+JD	julian date
 JD	Juris Doctor
 JD	Juris Doctorate
 JDA	[IATA] John Day State Airport, Oregon, United States of America
@@ -12201,6 +12210,7 @@ MIZ	[IATA] Mainoru, Northern Territory, Australia
 MJA	[IATA] Manja, Madagascar
 MJB	[IATA] Mejit Island (Mejit Airport), Palau
 MJC	[IATA] Man, Ivory Coast
+MJD	modified julian date
 MJD	[IATA] Mohenjodaro, Pakistan
 MJE	[IATA] Majkin, Marshall Islands
 MJF	[IATA] Mosjoen, Norway
@@ -18619,6 +18629,8 @@ TAG	[IATA] Tagbilaran, Philippines
 TAH	[FIFA] Tahiti
 TAH	[IATA] Tanna Island, Vanuatu
 TAI	international atomic time
+TAI	internationale Atomzeit
+TAI	temps atomique international
 TAI	[FIFA] Taiwan
 TAI	[IATA] Taiz (Ganed), Yemen
 TAILS	The Amnesic Incognito Live System
@@ -18720,7 +18732,9 @@ TC3	[gc] Terracaching 3, opened in 2014
 TCA	[FIFA] Turks and Caicos Islands
 TCA	[IATA] Tennant Creek, Northern Territory, Australia
 TCAP	Transaction Capabilities Application Part
+TCB	barycentric coordinate time
 TCB	taking care of business
+TCB	temps coordonné barycentrique
 TCB	thread control block
 TCB	trace capture buffer
 TCB	trusted computing base
@@ -18732,6 +18746,9 @@ TCDD	Turkiye Cumhuriyeti Devlet Demiryolları (Turkish State Railways)
 TCE	trichloroethylene
 TCE	[IATA] Tulcea, Romania
 TCF	[IATA] Tocoa, Honduras
+TCG	geocentric coordinate time
+TCG	geozentrische Koordinatenzeit
+TCG	temps coordonné geocentrique
 TCG	[IATA] Tocache, Peru
 TCH	[FIFA] Czechoslovakia
 TCH	[IATA] Tchibanga, Gabon
@@ -18758,12 +18775,18 @@ TCU	[IATA] Thaba’Nchu, South Africa
 TCV	[IATA] Tete, Mozambique
 TCW	[IATA] Tocumwal, New South Wales, Australia
 TCY	[IATA] Tracy Municipal Airport, California, United States of America
+TD	dynamical time
+TD	dynamische Zeit
 TD	table data (in HTML)
+TD	temps dynamique
 TD	[ccTLD] Tschad
 TD	[ISO 3166] Chad
 TD	[Kfz] Trinidad und Tobago (veraltet)
 TD	[Kfz] Tschad
 TDA	[IATA] Trinidad, Colombia
+TDB	barycentric dynamical time
+TDB	baryzentrische dynamische Zeit
+TDB	temps dynamique barycentrique
 TDB	[IATA] Tetebedi, Papua New Guinea
 TDC	time [to] digital converter
 TDD	test driven development
@@ -18788,6 +18811,9 @@ TDP	TSL Distribution Point
 TDR	Theo de Raadt -- http://theos.com/
 TDR	Trans regio Deutsche Regionalbahn GmbH
 TDR	[IATA] Theodore, Queensland, Australia
+TDT	temps dynamique terrestrique
+TDT	terrestrial dynamical time
+TDT	terrestrische dynamische Zeit
 TDV	[IATA] Tanandava, Madagascar
 TDW	[IATA] Amarillo (Tradewind Airport), Texas, United States of America
 TDZ	[IATA] Toledo (Metcalf Field), Ohio, United States of America
@@ -19480,6 +19506,9 @@ TSV	[IATA] Townsville, Queensland, Australia
 TSW	[IATA] Tsewi, Papua New Guinea
 TSX	[IATA] Tanjung (Santan), Indonesia
 TSY	[IATA] Tasikmalaya, Indonesia
+TT	temps terrestrique
+TT	terrestrial time
+TT	Terrestrische Zeit
 TT	terrible twos
 TT	teuflische Triade
 TT	Thirtytwo-Thirtytwo (Atari)
@@ -19697,6 +19726,7 @@ UAE	[IATA] Mount Aue, Papua New Guinea
 UAE	[Kfz] Vereinigte Arabische Emirate
 UAH	Ukrainian hryvnia (ISO 4217 code)
 UAH	[IATA] Ua Huka, Marquesas Islands, French Polynesia
+UAI	Union astronomique internationale (cf. IAU)
 UAI	[IATA] Suai, Indonesia
 UAK	Ukrainian karbovanets (old ISO 4217 code)
 UAK	[IATA] Narssarssuaq, Greenland
@@ -20023,6 +20053,7 @@ UT	[USA] Utah
 UTA	[IATA] Mutare, Zimbabwe
 UTB	[IATA] Muttaburra, Queensland, Australia
 UTC	coordinated universal time
+UTC	koordinierte Weltzeit
 UTC	temps universel coordonné
 UTC	[TZif] Antarctica/Troll
 UTD	[IATA] Nutwood Downs, Northern Territory, Australia
@@ -22442,6 +22473,7 @@ _	[MORSE] ..--.- (not ITU-R)
 ŽSR	Železnice Slovenskej Republiky (Railways of the Slovak Republic)
 ŽSSK	(state railways of Slovakia)
 ŽT	TENT Železnički transport Termoelektrane Nikola Tesla (Railway transport of TPP Nikola Tesla)
+ΔT	Delta T (TT-UT) = 32.184s + (TAI-UTC) - (UT1-UTC); TAI-UTC = 10 + number of entries in /usr/src/share/zoneinfo/datfiles/leapseconds; dUT1=UT1-UTC < 1s
 Ε.Σ.Ε.Π.Α	cf. ΕΣΕΠΑ
 Ε.Σ.Ε.Π.Α.	cf. ΕΣΕΠΑ
 ΕΛ	[ccTLD] Griechenland
