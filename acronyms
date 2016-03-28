@@ -1,5 +1,5 @@
   à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž α/Α ε/Ε λ/Λ ο/Ο π/Π ς/Σ σ/Σ а/А б/Б г/Г д/Д е/Е з/З й/Й к/К л/Л м/М н/Н о/О р/Р с/С т/Т у/У ф/Ф қ/Қ ա/Ա հ/Հ յ/Յ
- @(#)$MirOS: wtf/acronyms,v 1.558 2016/03/26 00:15:25 tg Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.559 2016/03/28 05:24:19 tg Exp $
  From $NetBSD: acronyms,v 1.245 2016/02/13 23:12:34 dholland Exp $
  From $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
  From $NetBSD: acronyms.comp,v 1.161 2016/03/22 17:41:26 ginsbach Exp $
@@ -118,6 +118,7 @@ $	[MORSE] ...-..- (not ITU-R)
 10X	tenx (thanks)
 11	[dental] permanent upper, right, middle incisor (FDI scheme)
 12	[dental] permanent upper, right, second incisor (FDI scheme)
+12-EDO	gleichstufige Stimmung (cf. EDO)
 13	[dental] permanent upper, right canine (FDI scheme)
 1337	elite (“leet”)
 13MP	4224x3156px, 4128x3096px, 4208x3120px
@@ -881,7 +882,9 @@ ALS	[IATA] San Luis Valley Regional/Bergman Field, Alamosa, Colorado, United Sta
 ALS	[Kfz:D] Landkreis Alsfeld
 ALS	[medical] amyotrophe Lateralsklerose
 ALS	[medical] amyotrophic lateral sclerosis
+ALT	alternate
 ALT	[IATA] Alenquer, Pará, Brazil
+ALTGR	German second-level alternate
 ALTTLD	alternative top-level domain (using an alternative DNS root)
 ALU	acronym lookup
 ALU	address lookup
@@ -3158,6 +3161,7 @@ CCJ	[IATA] Calicut, India
 CCK	[IATA] Cocos (Keeling) Islands, Australia
 CCL	[IATA] Chinchilla, Chile
 CCM	central control module
+CCM	Contemporary Christian music
 CCM	CORBA Component Model
 CCM	Counter with CBC-MAC
 CCM	[IATA] Crisciuma, Santa Catarina, Brazil
@@ -3787,6 +3791,7 @@ CNS	Traditional Chinese (font class)
 CNS	[IATA] Cairns, Queensland, Australia
 CNT	Chinese yuan (when traded offshore) from Taiwan, inofficial
 CNT	[IATA] Charata, Argentina
+CNTRL	control
 CNU	[IATA] Chanute Martin Johnson Airport, Kansas, United States of America
 CNV	[IATA] Canavieiras, Bahia, Brazil
 CNW	[IATA] Waco/James Connall Airport, Texas, United States of America
@@ -4133,6 +4138,7 @@ CTP	Conventional Terrestrial Pole
 CTP	[IATA] Carutapera, Maranhão, Brazil
 CTQ	[IATA] Santa Vitoria, Minas Gerais, Brazil
 CTR	[IATA] Cattle Creek, Australia
+CTRL	control
 CTS	clear to send
 CTS	Conventional Terrestrial System
 CTS	[IATA] Chitose, Sapporo, Japan
@@ -4564,6 +4570,7 @@ DEF	default
 DEF	defence
 DEFI	Defibrillator
 DEG	degrees
+DEG	Deutsches Evangelisches Gesangbuch
 DEG	Grad
 DEG	[Kfz:D] Landkreis Deggendorf
 DEH	[IATA] Decorah Municipal Airport, Iowa, United States of America
@@ -5718,6 +5725,7 @@ EDM	Electronic Business Measurement
 EDM	electronic document management
 EDM	[IATA] La Roche, France
 EDNS	extension mechanisms for DNS
+EDO	Equal Division of the Octave
 EDO	extended data out
 EDOM	(#33) Numerical argument out of domain
 EDOP	East Dilution of Precision
@@ -5946,10 +5954,13 @@ EJH	[IATA] Wedjh, Saudi Arabia
 EK	[Schule DE] Erweiterungskurs (gymnasialer Zweig der Gesamtschule)
 EKA	[IATA] Eureka (Murray Field), California, United States of America
 EKB	[IATA] Ekibastuz, Kazakhstan
+EKD	Evangelische Kirche in Deutschland
 EKD	[IATA] Elkedra, Northern Territory, Australia
 EKE	[IATA] Ekereku, Guyana
 EKG	Elektrokardiogramm
+EKG	Evangelisches Kirchengesangbuch
 EKI	[IATA] Elkhart Municipal Airport, Indiana, United States of America
+EKIR	Evangelische Kirche im Rheinland
 EKMS	electronic knowledge management system
 EKN	[IATA] Elkins-Randolph Country, Elkins (Jennings Randolph Field), West Virginia, United States of America
 EKO	[IATA] Elko Municipal Airport, Nevada, United States of America
@@ -5982,6 +5993,7 @@ ELI	[IATA] Elim Airport, Alaska, United States of America
 ELI5	explain like I’m five years old, please
 ELJ	[IATA] El Recreo, Colombia
 ELK	[IATA] Elk City Municipal Airport, Oklahoma, United States of America
+ELKG	Evangelisch-Lutherisches Kirchengesangbuch
 ELKI	E̲nvironment for Devel̲oping K̲DD-Applications Supported by I̲ndex-Structures
 ELL	[IATA] Ellisras, South Africa
 ELM	[IATA] Elmira/Corning Regional Airport, New York, United States of America
@@ -6112,6 +6124,7 @@ ENRIQUE	E (Spanish Spelling Alphabet)
 ENS	[IATA] Enschede, Netherlands
 ENT	Star Trek: Enterprise
 ENT	[IATA] Enitewok, Marshall Islands
+ENTF	Entfernen (cf. Del)
 ENTJ	[Myers-Briggs personality type] Extraversion (relating to others) iNtuition (information taking) Thinking (decision making) Judging (life order)
 ENTP	[Myers-Briggs personality type] Extraversion (relating to others) iNtuition (information taking) Thinking (decision making) Perceiving (life order)
 ENU	[IATA] Enugu, Nigeria
@@ -7513,6 +7526,7 @@ GG	[gc] golf.gpsgames.org
 GG	[ISO 3166] Guernsey
 GG	[Kfz:D] Landkreis Groß-Gerau
 GGA	good game all
+GGB	Gemeinsames Gebet- und Gesangbuch (Gotteslob)
 GGB	Gornergrat-Monte Rosa-Bahnen
 GGC	[IATA] Lumbala, Angola
 GGD	[IATA] Gregory Downs, Queensland, Australia
@@ -7620,6 +7634,7 @@ GKT	[IATA] Gatlinburg-Pigeon Forge Airport, Tennessee, United States of America
 GKW	Gerätekraftwagen
 GL	Geschäftsleitung
 GL	good luck (see GL HF, HF)
+GL	Gotteslob
 GL	[ccTLD] Grönland
 GL	[CH] de-CH, fr: Glaris
 GL	[CH] de: Glarus
@@ -10086,6 +10101,7 @@ KFI	Kreisfeuerwehrinspekteur
 KFP	[IATA] False Pass Airport, Alaska, United States of America
 KFV	Kreisfeuerwehrverband
 KFZ	Kraftfahrzeug (autonomously powered vehicle)
+KG	Katholisches Gesangbuch der deutschsprachigen Schweiz
 KG	Kilograms (kg)
 KG	[ccTLD] Kirgisistan
 KG	[ISO 3166] Kyrgyzstan
@@ -12346,6 +12362,7 @@ MMIO	memory mapped input/output
 MMJ	[IATA] Matsumoto, Japan
 MMK	Myanmar kyat (ISO 4217 code)
 MMK	[IATA] Murmansk, Russia
+MML	Music Macro Language – https://www.mirbsd.org/man4/spkr
 MML	[IATA] Marshall (Ryan Field), Minnesota, United States of America
 MMM	[IATA] Middlemount, Queensland, Australia
 MMN	[IATA] Stow (Minute Man Airfield), Massachusetts, United States of America
@@ -12645,6 +12662,7 @@ MS	Millisecond (ms)
 MS	Miss
 MS	Monitor Stations
 MS	Multiple Sklerose
+MS	MuseScore
 MS	[BR] Mato Grosso do Sul
 MS	[ccTLD] Montserrat
 MS	[E-Stoffe] modifizierte Stärke
@@ -13352,6 +13370,7 @@ NGE	[IATA] N’Gaoundere, Cameroon
 NGF	[IATA] Kaneohe (Mokapu Point), Hawaii, United States of America
 NGI	[IATA] Ngau, Fiji
 NGL	Natural Gas Liquids (Autogas)
+NGL	Neues Geistliches Lied
 NGM	[IATA] Agana (Naval Air Station), Guam
 NGN	Nigerian naira (ISO 4217 code)
 NGN	[IATA] Nargana, Panama
@@ -14852,6 +14871,7 @@ PGC	Professional Graphics Controller
 PGC	[IATA] Petersburg (Grant County), West Virginia, United States of America
 PGD	[IATA] Punta Gorda (Charlotte County), Florida, United States of America
 PGDIP	Postgraduate Diploma
+PGDN	page down
 PGE	page global enable
 PGE	[IATA] Yegepa, Papua New Guinea
 PGF	[IATA] Perpignan-Rivesaltes (Llabanere), Perpignan, France
@@ -14870,6 +14890,7 @@ PGP	[IATA] Porto Alegre, Sao Tome & Principe
 PGR	[IATA] Paragould (Kirk Field), Arkansas, United States of America
 PGS	[IATA] Peach Springs (Grand Canyon Caverns), Arizona, United States of America
 PGT	[TZif] Pacific/Bougainville
+PGUP	page up
 PGV	[IATA] Pitt-Greenville Airport, North Carolina, United States of America
 PGX	[IATA] Perigueux (Bassillac), France
 PGZ	[IATA] Ponta Grossa, Paraná, Brazil
@@ -15066,6 +15087,7 @@ PLV	[IATA] Poltava, Poltava, Ukraine
 PLW	[FIFA] Palau
 PLW	[IATA] Palu (Mutiara), Indonesia
 PLX	[IATA] Semey (Semipalatinsk), Kazakhstan
+PLY	PLAY (cf. MML)
 PLY	[IATA] Kentland, Indiana, United States of America
 PLZ	please
 PLZ	Polish zloty A/94 (old ISO 4217 code)
@@ -15230,6 +15252,7 @@ POS	piece of shit
 POS	point of sale
 POS	[IATA] Port Of Spain, Trinidad
 POS/NAV	Positioning and Navigation
+POS1	Position 1, Home
 POSIX	Portable Operating System Interface (for Unix)
 POST	Personal ohne sinnvolle Tätigkeit
 POST	power on self test
@@ -17286,6 +17309,7 @@ SEK	Swedish krona/kronor (ISO 4217 code)
 SEK	[IATA] Ksar Es Souk, Morocco
 SEL	[IATA] Seoul, South Korea
 SEL	[Kfz:D] kreisfreie Stadt Selb
+SELK	Selbständige Evangelisch-Lutherische Kirche
 SEM	Systems Effectiveness Model
 SEM	[IATA] Selma (Craig Field), Alabama, United States of America
 SEN	[FIFA] Senegal
@@ -17792,6 +17816,7 @@ SMU	system management unit
 SMU	[IATA] Sheep Mountain Airport, Alaska, United States of America
 SMV	[IATA] Samedan/St. Moritz, Switzerland
 SMW	[IATA] Smara, Morocco
+SMX	Standard Musical Expression (cf. MML)
 SMX	[IATA] Santa Maria Public Airport, California, United States of America
 SMY	[IATA] Simenti, Senegal
 SMZ	[IATA] Stoelmanseiland, Suriname
@@ -18280,6 +18305,7 @@ STR	strength
 STR	[IATA] Stuttgart (Echterdingen), Germany
 STR	[Schule DE] Studienrat
 STRAB	Straßenbahn
+STRG	Steuerung (cf. Ctrl)
 STS	HTTP Strict Transport Security
 STS	U+0093 SET TRANSMIT STATE
 STS	[IATA] Santa Rosa (Sonoma County), California, United States of America
@@ -22430,6 +22456,7 @@ _	[MORSE] ..--.- (not ITU-R)
 ÑOÑO	Ñ (Spanish Spelling Alphabet)
 Ó	[MORSE] ---.
 Ö	deutsches Funkalphabet: ÖKONOM
+Ö	okumenisch
 Ö	[MORSE] ---.
 ÖBB	Österreichische Bundesbahnen
 ÖBB	Österreichische Bundesbahnen (Austrian Federal Railways)
