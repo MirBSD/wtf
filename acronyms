@@ -1,5 +1,5 @@
   à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž α/Α ε/Ε λ/Λ ο/Ο π/Π ς/Σ σ/Σ а/А б/Б г/Г д/Д е/Е з/З й/Й к/К л/Л м/М н/Н о/О р/Р с/С т/Т у/У ф/Ф ш/Ш ю/Ю қ/Қ ա/Ա հ/Հ յ/Յ
- @(#)$MirOS: wtf/acronyms,v 1.560 2016/03/31 05:01:30 tg Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.561 2016/04/09 20:33:03 tg Exp $
  From $NetBSD: acronyms,v 1.245 2016/02/13 23:12:34 dholland Exp $
  From $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
  From $NetBSD: acronyms.comp,v 1.161 2016/03/22 17:41:26 ginsbach Exp $
@@ -369,6 +369,7 @@ ABI	Reifezeugnis
 ABI	[IATA] Abilene Regional Airport, Texas, United States of America
 ABI	[Kfz:D] Landkreis Anhalt-Bitterfeld
 ABJ	[IATA] Abidjan (Port-Bouet), Ivory Coast
+ABK	Abkürzung
 ABK	[IATA] Kabri Dar, Ethiopia
 ABL	[IATA] Ambler Airport, Alaska, United States of America
 ABM	Arbeitsbeschaffungsmaßnahme
@@ -846,7 +847,9 @@ AKW	Abkürzungsweg
 AKW	Atomkraftwerk
 AKX	[IATA] Aqtobe (Aktyubinsk), Kazakhstan
 AKY	[IATA] Sittwe (Akyab), Myanmar
+AKÜ	Abkürzung
 AKÜFI	Abkürzungsfimmel
+AKÜWE	Abkürzungsweg
 AL	Abschnittsleiter
 AL	access list
 AL	active link
@@ -1095,6 +1098,7 @@ AP00	[Oracle] Database Apply Process Coordinator Process
 APA	American Psychiatric Association
 APA	amerikanische psychiatrische Gesellschaft
 APA	[IATA] Denver (Centennial Airport), Colorado, United States of America
+APAP	acetaminophen, Paracetamol
 APB	[IATA] Apolo, Bolivia
 APC	U+009F APPLICATION PROGRAM COMMAND
 APC	[IATA] Napa County Airport, California, United States of America
@@ -3636,6 +3640,7 @@ CIC	Codex Iuris Canonici
 CIC	combat information centre
 CIC	[IATA] Chico Municipal Airport, California, United States of America
 CICS	Customer Information Control System
+CID	cell ID
 CID	character identifier (font)
 CID	[IATA] Cedar Rapids/Iowa City, Iowa, United States of America
 CIDR	Classless Inter-Domain Routing
@@ -4700,6 +4705,8 @@ DEN	[FIFA] Denmark
 DEN	[IATA] Denver International, Colorado, United States of America
 DENISE	Display Encoder
 DENMARK	D (British A/International Spelling Alphabet)
+DENT	dental
+DENT	directory entry
 DEO	[IATA] Dearborn Helistop, Michigan, United States of America
 DEP	data execution prevention
 DEP	department
@@ -5815,6 +5822,7 @@ ECS	extended configuration space
 ECS	[IATA] Newcastle (Mondell Field), Wyoming, United States of America
 ECSC	European Coal and Steel Community (EGKS)
 ECSD	HSCSD over EDGE
+ECT	electroconvulsive therapy
 ECTS	European Credit Transfer System
 ECU	electronic control unit
 ECU	Motorsteuergerät
@@ -6260,12 +6268,15 @@ ENOTTY	(#25) Inappropriate ioctl for device
 ENQ	U+0005 ␅ ENQUIRY (act of questioning, doing a formal inquest)
 ENRIQUE	E (Spanish Spelling Alphabet)
 ENS	[IATA] Enschede, Netherlands
+ENT	entry
 ENT	Star Trek: Enterprise
 ENT	[IATA] Enitewok, Marshall Islands
 ENTF	Entfernen (cf. Del)
 ENTJ	[Myers-Briggs personality type] Extraversion (relating to others) iNtuition (information taking) Thinking (decision making) Judging (life order)
 ENTP	[Myers-Briggs personality type] Extraversion (relating to others) iNtuition (information taking) Thinking (decision making) Perceiving (life order)
 ENU	[IATA] Enugu, Nigeria
+ENV	envelope
+ENV	environment
 ENV	[IATA] Wendover Airport, Utah, United States of America
 ENW	[IATA] Kenosha Municipal Airport, Wisconsin, United States of America
 ENXIO	(#6) Device not configured
@@ -6303,6 +6314,7 @@ EPAP	expiratory positive airway pressure
 EPC	Elektronischer Produktcode
 EPC	European Payments Council
 EPE	encrypted key exchange
+EPEL	Extra Packages for Enterprise Linux
 EPERM	(#1) Operation not permitted
 EPFNOSUPPORT	(#46) Protocol family not supported
 EPG	[IATA] Weeping Water (Browns Airport), Nebraska, United States of America
@@ -8463,6 +8475,7 @@ HDMI	High-Definition Multimedia Interface
 HDN	[IATA] Steamboat Springs (Hayden), Colorado, United States of America
 HDO	[IATA] Hondo Municipal Airport, Texas, United States of America
 HDOP	Horizontal Dilution of Precision
+HDR	header
 HDTV	high-definition television (720p, 1080i, 1080p)
 HDW	Heil den Wansen (=OMG)
 HDY	[IATA] Hat Yai (Hatyai) [Songkhia], Thailand
@@ -8713,6 +8726,7 @@ HNE	[IATA] Tahneta Pass Lodge, Alaska, United States of America
 HNG	[IATA] Hienghene, New Caledonia
 HNG	[manga] Hikaru no Go, ヒカルの碁
 HNH	[IATA] Hoonah Airport, Alaska, United States of America
+HNI	home network identity
 HNI	[IATA] Heiweni, Papua New Guinea
 HNK	[IATA] Hinchinbrooke Island, Queensland, Australia
 HNL	Honduran lempira (ISO 4217 code)
@@ -9137,6 +9151,7 @@ ICE	internal compiler error
 ICFP	International Conference on Functional Programming
 ICH	I/O controller hub
 ICI	[IATA] Cicia, Fiji
+ICIJ	international consortium for investigative journalists
 ICK	[IATA] Nieuw Nickerie (New Nickerie), Suriname
 ICL	[IATA] Clarinda (Schenck Field), Iowa, United States of America
 ICMP	Internet Control Message Protocol
@@ -9372,6 +9387,7 @@ IMAO	in my arrogant opinion
 IMAP	Internet Message Access Protocol
 IMB	[IATA] Imbaimadai, Guyana
 IMBO	in my biased opinion
+IMBW	I might be wrong
 IMC	integrated memory controller
 IMCO	in my considered opinion
 IMCR	interrupt mode configuration register
@@ -9379,6 +9395,7 @@ IMD	[IATA] Imonda, Papua New Guinea
 IME	in my experience
 IME	input method editor
 IME	meiner Erfahrung nach
+IMEI	international mobile equipment identity
 IMF	[IATA] Imphal, India
 IMG	image
 IMG	[IATA] Inhaminga, Mozambique
@@ -9401,6 +9418,7 @@ IMP	[IATA] Imperatriz, Maranhão, Brazil
 IMPL	implementation
 IMR	interrupt mask register
 IMS	information management system
+IMSI	international mobile subscriber identity
 IMT	[IATA] Iron Mountain (Ford Airport), Michigan, United States of America
 IMT-SC	IMT Single Carrier = EDGE
 IMU	Induktive Meldungsübertragung
@@ -10872,6 +10890,7 @@ KWH	[IATA] Khwahan, Afghanistan
 KWI	[IATA] Kuwait International Airport, Kuwait
 KWIM	know what I mean?
 KWJ	[IATA] Kwangju, South Korea
+KWK	Kraft-Wärme-Kopplung
 KWK	[IATA] Kwigillingok Seaplane Base, Alaska, United States of America
 KWL	[IATA] Guilin, China
 KWM	[IATA] Kowanyama, Queensland, Australia
@@ -10987,6 +11006,7 @@ LAAT	Low Altitude Assault Transport
 LAB	laboratorium
 LAB	[IATA] Lablab, Papua New Guinea
 LABS	laboratories
+LAC	location area code
 LAC	[IATA] Lae (City Airport), Papua New Guinea
 LACNIC	Latin America and Caribbean Network Information Centre
 LACP	Link Aggregation Control Protocol
@@ -11002,6 +11022,7 @@ LAGH	[dental] Landesarbeitsgemeinschaft Jugendzahnpflege
 LAGZ	Landesarbeitsgemeinschaft Zahngesundheit Bayern e.V.
 LAGZ	Lust auf gesunde Zähne?
 LAH	[IATA] Labuha, Indonesia
+LAI	location area
 LAI	[IATA] Lannion, France
 LAJ	Lao kip (old ISO 4217 code)
 LAJ	[IATA] Lages, Santa Catarina, Brazil
@@ -12084,6 +12105,7 @@ MCA	Master of Computer Applications
 MCA	MicroChannel architecture
 MCA	[IATA] Macenta, Guinea
 MCB	[IATA] McComb (Pike County), Mississippi, United States of America
+MCC	mobile country code
 MCC	multiversion concurrency control
 MCC	[IATA] Sacramento (Mc Clellan Air Force), California, United States of America
 MCD	Master of Civic Design
@@ -12744,6 +12766,7 @@ MNA	[IATA] Melangguane, Indonesia
 MNATSC	Master of Natural Science
 MNB	[IATA] Moanda, Zaire
 MNBSD	MidnightBSD
+MNC	mobile network code
 MNC	multinational corporation
 MNC	[IATA] Nacala, Mozambique
 MND	[IATA] Medina, California, United States of America
@@ -13052,6 +13075,7 @@ MSI	modified, shared, invalid
 MSI	[IATA] Masalembo, Indonesia
 MSIE	Microsoft Slaves’ Incessant Exasperation
 MSIE	Microsoft® Internet Explorer
+MSIN	mobile subscriber identification number
 MSJ	[IATA] Misawa, Japan
 MSK	[IATA] Mastic Point, Bahamas
 MSK	[TZif] Europe/Minsk
@@ -13675,6 +13699,7 @@ NEL	[IATA] Lakehurst (Maxfield Field), New Jersey, United States of America
 NELLIE	N (Telecom B Spelling Alphabet)
 NEN	[IATA] Jacksonville (Whitehouse Naval Field), Florida, United States of America
 NEN	[Kfz:D] Landkreis Neunburg vorm Wald
+NENTS	number of entries
 NEP	[FIFA] Nepal
 NEP	[Kfz] Nepal (nicht offiziell)
 NEQ	nōn-equal
@@ -14083,6 +14108,7 @@ NSA	never say anything
 NSA	no such agency
 NSA	[IATA] Noosa, Queensland, Australia
 NSA0	[Oracle] Redo transport
+NSAID	non-steroidal anti-inflammatory agent/analgesic/drug
 NSAP	Nationalsozialistische Arbeiterpartei
 NSAP	Network Service Access Point
 NSAP	nichtsteroidales Antiphlogistikum
@@ -14302,6 +14328,7 @@ O	[Kfz:A] Oberösterreich
 O	[MORSE] ---
 O I C	oh, I see
 O-TON	Originalton
+O/A	operating as
 O000	[Oracle] ASM Connection Pool Process
 O2W	off to work
 OA	Ordnungsamt
@@ -15508,6 +15535,7 @@ PLL	phase-locked loop
 PLL	[IATA] Palmia, Mexico
 PLM	Pulslängenmodulation (cf. PWM)
 PLM	[IATA] Palembang (Mahmud Badaruddin II), Indonesia
+PLMN	public land mobile network
 PLN	Polish złoty (ISO 4217 code)
 PLN	[IATA] Pellston (Emmet County), Michigan, United States of America
 PLO	[IATA] Port Lincoln, South Australia, Australia
@@ -19150,6 +19178,7 @@ T SP	[Kfz:D] temporäres Kennzeichen der USA-Streitkräfte Spangdahlem
 T SW	[Kfz:D] temporäres Kennzeichen der USA-Streitkräfte Schweinfurt
 T W	[Kfz:D] temporäres Kennzeichen der USA-Streitkräfte Wiesbaden
 T&S	Tasks and Skills
+T/A	trading as
 T4T$	thanks for the cash (see also: TFTC)
 T4TC	[gc] thanks for the cache
 T4TE	[gc] thanks for the event cache
@@ -20190,6 +20219,7 @@ TW	Triebwagen
 TW	träum’ weiter!
 TW	[ccTLD] Republik China
 TW	[ISO 3166] Taiwan
+TW	[SJW] trigger warning
 TWA	[IATA] Twin Hills Airport, Alaska, United States of America
 TWAIN	thing without an interesting name
 TWB	[IATA] Toowoomba, Queensland, Australia
