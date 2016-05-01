@@ -1,5 +1,5 @@
   à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž α/Α ε/Ε λ/Λ ο/Ο π/Π ς/Σ σ/Σ а/А б/Б в/В г/Г д/Д е/Е з/З и/И й/Й к/К л/Л м/М н/Н о/О п/П р/Р с/С т/Т у/У ф/Ф ц/Ц ш/Ш э/Э ю/Ю қ/Қ ա/Ա հ/Հ յ/Յ
- @(#)$MirOS: wtf/acronyms,v 1.565 2016/04/28 22:44:20 tg Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.566 2016/05/01 23:57:13 tg Exp $
  From $NetBSD: acronyms,v 1.245 2016/02/13 23:12:34 dholland Exp $
  From $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
  From $NetBSD: acronyms.comp,v 1.162 2016/04/21 23:14:25 riastradh Exp $
@@ -694,6 +694,7 @@ ACV W	[DB] Betriebsstelle Cuxhaven-Döse Kreuzweg (Bush)
 ACY	[IATA] Atlantic City International Airport, New Jersey, United States of America
 ACZ	[IATA] Wallace (Henderson Field), North Carolina, United States of America
 AD	(towards)
+AD	Active Directory
 AD	advertisement
 AD	analog/digital (conversion)
 AD	anno domini
@@ -2250,6 +2251,7 @@ ATAN	Arkustangēns
 ATAPI	advanced technology attachment packet interface
 ATAS	[DB] Betriebsstelle Taarstedt (Bf)
 ATAT	[DB] Betriebsstelle Tating (Hp)
+ATB	All-Terrain-Bike
 ATB	[DB] Betriebsstelle Tiebensee (Hp)
 ATB	[IATA] Atbara, Sudan
 ATC	address translation cache
@@ -4083,6 +4085,7 @@ BMW	bei Mercedes weggeschmissen
 BMW	bring mich Werkstatt
 BMW	[IATA] Bordj Badji Mokhtar, Algeria
 BMWI	Bundesministerium für Wirtschaft und Technologie
+BMX	Bicycle Motocross
 BMX	[DB] Betriebsstelle Mixdorf (Bf)
 BMX	[IATA] Big Mountain Airport, Alaska, United States of America
 BMX B	[DB] Betriebsstelle Mixdorf Bush (Bush)
@@ -7443,6 +7446,7 @@ DHWB	[DB] Betriebsstelle Hagenwerder Union Bau AG (Anst)
 DHZ	[DB] Betriebsstelle Hetzdorf (Bk)
 DHZF	[DB] Betriebsstelle Hetzdorf (Flöhatal) (Bf)
 DHZG	[DB] Betriebsstelle Hetzdorf DB-Grenze (Gp)
+DI	Defence Intelligence
 DI	destination index
 DI	[Kfz:D] Landkreis Dieburg
 DIA	Defense Intelligence Agency (military equivalent of CIA)
@@ -7487,6 +7491,7 @@ DIR	directory
 DIR	[DB] Betriebsstelle Irfersgrün (Hp)
 DIR	[IATA] Dire Dawa (Aba Tenna D. Yilma), Ethiopia
 DIRT	design in real time
+DIS	Defence Intelligence Staff (cf. DI)
 DIS	[IATA] Dolisie, Congo
 DIT	Directory Information Tree
 DIUM	Distancier international uniforme marchandises
@@ -13413,6 +13418,7 @@ GA	[USA] Georgia
 GAA	[IATA] Guamal, Colombia
 GAB	[FIFA] Gabon
 GAB	[IATA] Gabbs Airport, Nevada, United States of America
+GABI	Gemeinsame Anlaufstelle von Stadt und Polizei Bonn Innenstadt
 GAC	get a clue
 GAC	[IATA] Gracias, Honduras
 GAD	[IATA] Gadsden Municipal Airport, Alabama, United States of America
@@ -14141,6 +14147,8 @@ GSN	[IATA] Mount Gunson, South Australia, Australia
 GSO	[IATA] Greensboro-High Pt.-Winston Salem Regional, North Carolina, United States of America
 GSP	[IATA] Greer (Greenville-Spartanburg), South Carolina, United States of America
 GSR	[IATA] Gardo, Somalia
+GSS	Generic Security Service
+GSSAPI	Generic Security Service API
 GST	[IATA] Gustavus Airport, Alaska, United States of America
 GSU	[IATA] Gedaref, Sudan
 GSW	Geschlossener Stückgutwagen
@@ -15248,6 +15256,7 @@ HHSO	[DB] Betriebsstelle Hessisch Oldendorf (Bf)
 HHSP	[DB] Betriebsstelle Hasperde (Awanst)
 HHST	[DB] Betriebsstelle Hohnstedt (Bush)
 HHSW	[DB] Betriebsstelle Burgwedel Hasenwechsel (Üst)
+HHT	Hinterhoftürke (Keban, „Muddi“)
 HHT	[DB] Betriebsstelle Lehrte Harst (Üst)
 HHTA	[DB] Betriebsstelle Himmelsthür (Abzw) (Abzw)
 HHTF	[DB] Betriebsstelle Hattorf (Hp)
@@ -16258,6 +16267,7 @@ HUJ	[IATA] Hugo (Municipal Airport), Oklahoma, United States of America
 HUK	[IATA] Hull, Alaska, United States of America
 HUL	[IATA] Houlton International Airport, Maine, United States of America
 HUM	[IATA] Houma-Terrebonne Airport, Louisiana, United States of America
+HUMINT	[SIGINT] human intelligence
 HUN	[FIFA] Hungary
 HUN	[IATA] Hualien, Taiwan
 HUNL	[DB] Betriebsstelle Unterlüß (Bf)
@@ -17510,7 +17520,9 @@ JHS	[IATA] Holsteinsborg, Greenland
 JHW	[IATA] Jamestown (Chautauqua County), New York, United States of America
 JHY	[IATA] Cambridge, Massachusetts, United States of America
 JIA	[IATA] Juina, Minas Gerais, Brazil
+JIB	Joint Intelligence Bureau
 JIB	[IATA] Djibouti (Ambouli), Djibouti
+JIC	Joint Intelligence Committee
 JIC	just in case
 JID	[IATA] Los Angeles (City of Industry), California, United States of America
 JIG	J (British Forces 1952 Spelling Alphabet)
@@ -18489,7 +18501,7 @@ KJF	Kreisjugendfeuerwehr
 KJFW	Kreisjugendfeuerwehrwart
 KJK	[IATA] Kortrijk-Wevelgem, Belgium
 KJND	[DB] Betriebsstelle Jülich Nord (Bf)
-KJP	Kinder- und Jugendpsychatrie
+KJP	Kinder- und Jugendpsychiatrie
 KJP	[IATA] Kerama, Japan
 KJR	Kinder- und Jugendrechte
 KJSE	[DB] Betriebsstelle Jülich-Selgersdorf (Hp)
@@ -22884,6 +22896,8 @@ MI	machine-independent
 MI	[Kfz:A] Mistelbach
 MI	[Kfz:D] Kreis Minden-Lübbecke
 MI	[USA] Michigan
+MI5	Military Intelligence, Section 5 (Security Service, Secret Service Bureau)
+MI6	Military Intelligence, Section 6 (cf. SIS)
 MIA	missing in action
 MIA	[IATA] Miami International, Florida, United States of America
 MIB	management information base
@@ -24023,6 +24037,7 @@ MTA	mail transfer agent
 MTA	[DB] Betriebsstelle Tauberfeld (Bf)
 MTA	[IATA] Matamata, New Zealand
 MTAN	mobile TAN (cf. TAN)
+MTB	Mountainbike
 MTB	[IATA] Monte Libano, Colombia
 MTBF	mean time between failures
 MTBG	[DB] Betriebsstelle Taibrechting (Bk)
@@ -26647,6 +26662,7 @@ OCAML	Objective Caml
 OCBN	Benin Railways
 OCC	[IATA] Coca, Ecuador
 OCCA	Officiers Contrôleurs de la Circulation Aérienne (now ICNA)
+OCD	obsessive cleaning disorder
 OCD	obsessive-compulsive disorder
 OCDE	[GPSH] opencaching.de
 OCE	[IATA] Ocean City Municipal Airport, Maryland, United States of America
@@ -26663,6 +26679,7 @@ OCLC	Online Computer Library Centre
 OCM	Open Cycle Map
 OCN	[IATA] Oceanside Municipal Airport, California, United States of America
 OCO	[IATA] San Jose (El Coco), Costa Rica
+OCP	Oracle Certified Database Administration Professional
 OCQ	[IATA] Oconto Municipal Airport, Wisconsin, United States of America
 OCR	optical character recognition
 OCS	old chip set
@@ -26674,6 +26691,7 @@ OCUV	over-clock and under-volt
 OCV	[IATA] Ocana, Colombia
 OCW	[IATA] Washington (Warren Field), North Carolina, United States of America
 OD	Ortsdurchfahrt
+OD	overdose
 OD	[Kfz:A] Diplomatisches Korps in Oberösterreich
 OD	[Kfz:D] Kreis Stormarn
 ODA	[IATA] Ouadda, Central African Republic
@@ -31738,6 +31756,7 @@ SIR	signal to interference ratio
 SIR	slow infrared
 SIR	[IATA] Sion (Sitten), Switzerland
 SIS	Schengener Informationssystem
+SIS	Secret Intelligence Service
 SIS	Signal-In-Space
 SIS	[IATA] Sishen, South Africa
 SISD	single instruction, single data
@@ -32636,6 +32655,7 @@ SSRK	[DB] Betriebsstelle Saarbrücken Rbf Kraftwerk (Anst a.B.)
 SSS	Satellite Signal Simulator
 SSS	Second Systems Syndrome
 SSS	[IATA] Siassi, Papua New Guinea
+SSSD	System Security Services Daemon
 SSSR	Sojus Sowjetskich Sozialistitscheskich Respublik (cf. UdSSR) (cf. СССР)
 SST	Schaltstelle
 SST	Seitenselektive Türsteuerung
@@ -33247,6 +33267,7 @@ TAB	Tabletten
 TAB	[IATA] Tobago
 TAC	(Cisco) Technical Assistance Centre
 TAC	terms and conditions
+TAC	type allocation code
 TAC	[IATA] Tacloban, Philippines
 TACACS	Terminal Access Controller Access-Control System
 TACAN	Tactical Air Navigation
@@ -36213,6 +36234,8 @@ UTH	[IATA] Udon Thani, Thailand
 UTHG	[DB] Betriebsstelle Themar DB-Grenze (Gp)
 UTI	[DB] Betriebsstelle Tiefenort (Hp)
 UTI	[IATA] Kouvola (Kymi), Finland
+UTIL	Use The Index, Luke! – http://use-the-index-luke.com/
+UTIL	utility
 UTK	[IATA] Utirik Island Airport, Marshall Islands
 UTL	[IATA] Torremolinos, Spain
 UTL	[Munzee] unable to locate (DNF)
@@ -36810,6 +36833,7 @@ VO	Virtual Organisation
 VO	Vollzugsordnung
 VO	[Kfz:A] Voitsberg
 VOC	Gesang
+VOC	Video Operation Crew (cf. NOC) (cf. POC)
 VOC	vocals
 VOC	volatile organic compound
 VOD	video on demand
