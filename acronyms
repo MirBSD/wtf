@@ -1,5 +1,5 @@
   à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž α/Α ε/Ε λ/Λ ο/Ο π/Π ς/Σ σ/Σ а/А б/Б в/В г/Г д/Д е/Е з/З и/И й/Й к/К л/Л м/М н/Н о/О п/П р/Р с/С т/Т у/У ф/Ф ц/Ц ш/Ш э/Э ю/Ю қ/Қ ա/Ա հ/Հ յ/Յ
- @(#)$MirOS: wtf/acronyms,v 1.566 2016/05/01 23:57:13 tg Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.567 2016/05/02 17:00:22 tg Exp $
  From $NetBSD: acronyms,v 1.245 2016/02/13 23:12:34 dholland Exp $
  From $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
  From $NetBSD: acronyms.comp,v 1.162 2016/04/21 23:14:25 riastradh Exp $
@@ -1498,6 +1498,7 @@ ALST	[DB] Betriebsstelle Hamburg-Langenfelde (S-Bahn) (Hp)
 ALT	alternate
 ALT	Anruf-Linien-Taxi (TaxiBus)
 ALT	[IATA] Alenquer, Pará, Brazil
+ALTEC	Aerospace Logistics Technology Engineering Company
 ALTFL	Altflöte
 ALTGR	German second-level alternate
 ALTH	[DB] Betriebsstelle Lübeck-Travemünde Hafen (Bft)
@@ -10584,6 +10585,7 @@ EPE	encrypted key exchange
 EPEL	Extra Packages for Enterprise Linux
 EPERM	(#1) Operation not permitted
 EPFB	[DB] Betriebsstelle Neunkirchen Pfannenberg (Bf)
+EPFL	École polytechnique fédérale de Lausanne
 EPFNOSUPPORT	(#46) Protocol family not supported
 EPG	[IATA] Weeping Water (Browns Airport), Nebraska, United States of America
 EPH	[IATA] Ephrata Municipal Airport, Washington, United States of America
@@ -10885,6 +10887,7 @@ EST	[TZif] US/Michigan
 ESTALE	(#70) Stale NFS file handle
 ESTB	[DB] Betriebsstelle Lüdenscheid Steinebach (Anst)
 ESTC	English Short Title Catalogue
+ESTEC	European Space Research and Technology Centre
 ESTEC	European Space Research and Technology Centre
 ESTG	[DB] Betriebsstelle Steinhagen (Westf) (Bf)
 ESTJ	[Myers-Briggs personality type] Extraversion (relating to others) Sensing (information taking) Thinking (decision making) Judging (life order)
@@ -28417,7 +28420,7 @@ PTB	pays the bills <igli>
 PTB	Physikalisch-Technische Bundesanstalt
 PTB	powers that be
 PTB	[IATA] Petersburg Municipal Airport, Virginia, United States of America
-PTBS	posttraumatische Belastungsstörung (PTSD)
+PTBS	posttraumatische Belastungsstörung (cf. PTSD)
 PTC	[IATA] Port Alice (Seaplane Base), Alaska, United States of America
 PTD	[IATA] Port Alexander (Seaplane Base), Alaska, United States of America
 PTE	page table entry
@@ -31158,6 +31161,7 @@ SCI	scalable coherent interface
 SCI	system control interrupt
 SCI	U+009A SINGLE CHARACTER INTRODUCER
 SCI	[IATA] San Cristobal, Venezuela
+SCIFI	Science Fiction
 SCIL	scilicet (evidently, naturally; used as namely)
 SCITE	slowest cheater in the east
 SCITE	stupid clauses in the EULA
@@ -31400,6 +31404,7 @@ SER	service
 SER	Standard-Einsatz-Regel
 SER	[IATA] Seymour (Freeman Municipal Airport), Indiana, United States of America
 SERFER	Servizi Ferroviari
+SERI	State Secretariat for Education, Research and Innovation
 SERP	search engine results page
 SERVFAIL	[DNS] RCODE 2: server failure
 SERVFAIL	[DNS] server failure
@@ -31440,6 +31445,7 @@ SFC	[DB] Betriebsstelle Fischbach-Camphausen (Hp)
 SFC	[IATA] Saint Francois, Guadeloupe
 SFD	[IATA] San Fernando de Apu, Venezuela
 SFE	[IATA] San Fernando, Philippines
+SFF	Science Fiction & Phantasy
 SFF	[DB] Betriebsstelle Fremersdorf (Hp)
 SFF	[IATA] Spokane (Felts Field), Washington, United States of America
 SFG	[IATA] Saint Martin (Esperance), Guadeloupe, Netherlands/French Antilles
@@ -32567,6 +32573,7 @@ SSBA	[DB] Betriebsstelle Saarbrücken Überleitstelle Saarbahn (Gp)
 SSBG	[DB] Betriebsstelle Siersburg (Hp)
 SSBW	[DB] Betriebsstelle Saarbrücken-Burbach AW (Bf a.B.)
 SSC	safe, sane, and consensual
+SSC	Swiss Space Center
 SSC	[DB] Betriebsstelle Schwarzenacker (Bf a.B.)
 SSC	[IATA] Sumter (Shaw Air Force Base), South Carolina, United States of America
 SSCCE	short, self-contained, correct (compilable) example
