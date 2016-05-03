@@ -1,5 +1,5 @@
   à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž α/Α ε/Ε λ/Λ ο/Ο π/Π ς/Σ σ/Σ а/А б/Б в/В г/Г д/Д е/Е з/З и/И й/Й к/К л/Л м/М н/Н о/О п/П р/Р с/С т/Т у/У ф/Ф ц/Ц ш/Ш э/Э ю/Ю қ/Қ ա/Ա հ/Հ յ/Յ
- @(#)$MirOS: wtf/acronyms,v 1.567 2016/05/02 17:00:22 tg Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.568 2016/05/03 20:48:31 tg Exp $
  From $NetBSD: acronyms,v 1.245 2016/02/13 23:12:34 dholland Exp $
  From $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
  From $NetBSD: acronyms.comp,v 1.162 2016/04/21 23:14:25 riastradh Exp $
@@ -1241,6 +1241,7 @@ AIUI	as I understand it
 AIV	[IATA] Aliceville (George Downer Airport), Alabama, United States of America
 AIX	Ain’t unIX
 AIY	[IATA] Atlantic City International, New Jersey, United States of America
+AIZ	Antiimperialistische Zellen
 AIZ	[DB] Betriebsstelle Itzehoe (Bf)
 AIZ	[IATA] Kaiser/Lake Ozark, Missouri, United States of America
 AJ	[DB] Betriebsstelle Jübek (Bf)
@@ -2060,6 +2061,7 @@ ARZ	[IATA] N’zeto, Angola
 ARZS	[DB] Betriebsstelle Rendsburg Stadt (Anst)
 AS	alto saxophone
 AS	Altsaxophon
+AS	anti-spoofing
 AS	As (PSE#33) Arsenicum, Arsen | Stickstoff/Phosphor-Gruppe | pnictogens
 AS	Automatische Stromabnehmersenkeinrichtung
 AS	autonomous system
@@ -2795,6 +2797,7 @@ BAT	[IATA] Barretos, São Paulo, Brazil
 BATS	[DB] Betriebsstelle Berlin Attilastraße (Hp)
 BAU	business as usual
 BAU	[IATA] Bauru, São Paulo, Brazil
+BAUM	Berliner Admins und Mitarbeiter
 BAV	betriebliche Altersvorsorge
 BAV	[IATA] Baotou, China
 BAW	bis auf weiteres
@@ -5291,6 +5294,7 @@ C&A	Clemens and August (Brenninkmeijer)
 C++	CFrustFrust
 C-RAN	Centralised Radio Access Network
 C/A	Coarse Acquisition-code
+C/A	coarse/acquisition
 C/N	Carrier to Noise Ratio
 C/O	care of (℅)
 C/O	carried over
@@ -8326,6 +8330,7 @@ DSOB	[DB] Betriebsstelle Schlema ob Bf (Bf)
 DSOB	[DB] Betriebsstelle Schlema ob Bf (Emst)
 DSOH	[DB] Betriebsstelle Sohland (Bf)
 DSOL	[DB] Betriebsstelle Sohl (Hp)
+DSP	Defence Support Program
 DSP	digital signal processor
 DSP	[DB] Betriebsstelle Steinpleis (Bk)
 DSPA	[DB] Betriebsstelle Fluß- und Schwerspat GmbH Lengenfeld (Anst)
@@ -9875,6 +9880,7 @@ EGM	Earth Gravitational Model
 EGM	[IATA] Sege, Solomon Islands
 EGMD	[DB] Betriebsstelle Gremmendorf (Bf)
 EGMN	[DB] Betriebsstelle Gemen (Bf)
+EGMR	Europäischer Gerichtshof für Menschenrechte
 EGN	[IATA] El Geneina, Sudan
 EGNH	[DB] Betriebsstelle Alsdorf Grünebacherhütte (Hp)
 EGNO	[DB] Betriebsstelle Grünebach Ort (Hp)
@@ -10887,7 +10893,6 @@ EST	[TZif] US/Michigan
 ESTALE	(#70) Stale NFS file handle
 ESTB	[DB] Betriebsstelle Lüdenscheid Steinebach (Anst)
 ESTC	English Short Title Catalogue
-ESTEC	European Space Research and Technology Centre
 ESTEC	European Space Research and Technology Centre
 ESTG	[DB] Betriebsstelle Steinhagen (Westf) (Bf)
 ESTJ	[Myers-Briggs personality type] Extraversion (relating to others) Sensing (information taking) Thinking (decision making) Judging (life order)
@@ -17009,6 +17014,7 @@ IOM	[IATA] Isle of Man (Ronaldsway Airport), United Kingdom of Great Britain and
 IOMMU	input/output memory management unit
 ION	Institute of Navigation
 ION	[IATA] Impfondo, Congo
+IONDS	Integrated Operational Nuclear Detection System
 IOP	[IATA] Ioma, Papua New Guinea
 IOPS	I/O Operations per Second
 IOPSC	International Obfuscated PostScript Contest
@@ -17628,6 +17634,7 @@ JPD	[IATA] Pasadena, California, United States of America
 JPEG	Joint Photographic Experts Group
 JPG	(file extension for JPEG files)
 JPJ	[IATA] Paterson (Lembo Heliport), New Jersey, United States of America
+JPL	Jet Propulsion Labs
 JPN	[FIFA] Japan
 JPN	[IATA] Washington (Pentagon Heliport), District of Columbia, United States of America
 JPO	Joint Program Office
@@ -24655,6 +24662,7 @@ NAV	[IATA] Nevsehir Kapadokya Airport, Nevsehir, Turkey
 NAV-MSG	Navigation-Message
 NAVARRA	N (Spanish Spelling Alphabet)
 NAVE	[DB] Betriebsstelle Alte Veste (Hp)
+NAVSTAR	Navigational Satellite Timing and Ranging
 NAW	Notarztwagen
 NAW	[IATA] Narathiwat, Thailand
 NAWALT	not all women are like that
@@ -24918,6 +24926,7 @@ NDRA	[DB] Betriebsstelle Döbra (Anst)
 NDRF	[DB] Betriebsstelle Drosendorf (Tp)
 NDS	NetWare Directory Services
 NDS	Niedersachsen
+NDS	Nuclear Detection System
 NDS	[IATA] Sandstone, Western Australia, Australia
 NDT	[DB] Betriebsstelle Dietersheim (Hp)
 NDT	[TZif] America/St_Johns (DST)
@@ -27285,6 +27294,7 @@ P&P	Philosophy and Procedures
 P&S	Plan und Spar
 P+R	Park and Ride
 P-CODE	Precision Code
+P/Y	precision/encrypted
 P000	[Oracle] Parallel Query Slave Process
 P2P	PCI to PCI
 P2P	peer to peer
@@ -27956,6 +27966,7 @@ PN	Private Nachricht
 PN	[ccTLD] Pitcairninseln
 PN	[ISO 3166] Pitcairn
 PN	[Kfz:D] Landkreis Pößneck
+PNA	personal navigation assistent
 PNA	[IATA] Pamplona, Spain
 PNB	[IATA] Porto Nacional, Goiás, Brazil
 PNC	[IATA] Ponca City Municipal Airport, Oklahoma, United States of America
@@ -29678,6 +29689,7 @@ RIMM	[DB] Betriebsstelle Immendingen Mitte (Hp Bft)
 RIMZ	[DB] Betriebsstelle Immendingen-Zimmern (Hp)
 RIN	[DB] Betriebsstelle Insheim (Hp)
 RIN	[IATA] Ringi Cove, Solomon Islands
+RINEX	[GPS] Receiver Independent Exchange Format
 RIO	[IATA] All Airports around Rio de Janeiro, Rio de Janeiro, Brazil
 RIOT	RAM-I/O Timer
 RIP	requiescat in pacem
@@ -30504,6 +30516,7 @@ RTC	real-time communication
 RTC	[IATA] Ratnagiri, India
 RTCA	Radio Technical Commission for Aeronautics
 RTCM	Radio Technical Commission for Maritime Service
+RTCM	Radio Technical Commission for Maritime Services
 RTD	research and (technical) development
 RTD	[IATA] Rotunda, California, United States of America
 RTE	Route
@@ -30951,6 +30964,7 @@ SAP	Systeme, Anwendungen, Programme in der Datenverarbeitung
 SAP	[IATA] San Pedro Sula (La Mesa), Honduras
 SAPAC	Syndicat Autonome des Personnels de l’Aviation Civile
 SAPIC	streamlined advanced programmable interrupt controller
+SAPOS	Satellitenpositionierungsdienst der deutschen Landesvermessung
 SAPX	[DB] Betriebsstelle Apach (SNCF) (Emst)
 SAQ	[IATA] San Andros (Nichols Town), Bahamas
 SAR	Java™ Service Archive (similar to EAR, plus service.xml)
@@ -32965,6 +32979,7 @@ SVM	secure virtual machine
 SVM	support vector machine
 SVM	[IATA] St. Paul’s Mission, Queensland, Australia
 SVN	Space Vehicle No.
+SVN	space vehicle number
 SVN	Subversion
 SVN	Suckvürstchen
 SVN	[FIFA] Slovenia
@@ -36248,6 +36263,7 @@ UTL	[IATA] Torremolinos, Spain
 UTL	[Munzee] unable to locate (DNF)
 UTLD	unsponsored top-level domain
 UTM	Universal Transverse Mercator (nowadays WGS84 or ETRS89 which Δ<1m; historically different)
+UTMREF	UTM-Referenzsystem, Meldegitter im UTM-Abbildungssystem (cf. MGRS)
 UTN	[DB] Betriebsstelle Traun (Hp)
 UTN	[IATA] Upington Airport, Upington, South Africa
 UTO	[IATA] Utopia Creek (Indian Mountain), Alaska, United States of America
