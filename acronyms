@@ -1,5 +1,5 @@
   à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž α/Α ε/Ε λ/Λ ο/Ο π/Π ς/Σ σ/Σ а/А б/Б в/В г/Г д/Д е/Е з/З и/И й/Й к/К л/Л м/М н/Н о/О п/П р/Р с/С т/Т у/У ф/Ф ц/Ц ш/Ш э/Э ю/Ю қ/Қ ա/Ա հ/Հ յ/Յ
- @(#)$MirOS: wtf/acronyms,v 1.568 2016/05/03 20:48:31 tg Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.569 2016/05/05 22:35:10 tg Exp $
  From $NetBSD: acronyms,v 1.245 2016/02/13 23:12:34 dholland Exp $
  From $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
  From $NetBSD: acronyms.comp,v 1.162 2016/04/21 23:14:25 riastradh Exp $
@@ -7250,6 +7250,7 @@ DFA	[DB] Betriebsstelle Falkenstein (Vogtl) (Bf)
 DFA	[IATA] Abu Dhabi (Al Dhafra Military Airport), UAE
 DFA 1	[DB] Betriebsstelle Falkenstein (Vogtl) (Est)
 DFB	Dampfbahn Furka-Bergstrecke
+DFB	Deutscher Fußballbund e.V.
 DFB	Dispositive Fahrplanbearbeitung
 DFB	[DB] Betriebsstelle Freital Ost Güteranlage (Bf)
 DFB	[IATA] Driftwood Bay, Alaska, United States of America
@@ -22410,6 +22411,7 @@ MDAR	[DB] Betriebsstelle Darching (Hp)
 MDAS	[DB] Betriebsstelle Dachau Stadt (Hp Anst)
 MDB	Mitglied des Bundestages
 MDB	[IATA] Melinda, Belize
+MDC	Mapped Diagnostic Context
 MDC	[IATA] Manado (Sam Ratulangi), Indonesia
 MDCT	modified discrete cosine transform
 MDD	[IATA] Midland Airpark, Texas, United States of America
@@ -24885,6 +24887,7 @@ NDAU	[DB] Betriebsstelle Döhlau (Hp)
 NDB	[DB] Betriebsstelle Dombühl (Bf)
 NDB	[IATA] Nouadhibou, Mauritania
 NDB B	[DB] Betriebsstelle Dohmbühl BEM (Museum)
+NDC	Nested Diagnostic Context
 NDC	[IATA] Nanded, India
 NDD	[IATA] Sumbe, Angola
 NDE	[DB] Betriebsstelle Deining (Oberpf) (Bf)
