@@ -1,8 +1,8 @@
   à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž α/Α ε/Ε λ/Λ ο/Ο π/Π ς/Σ σ/Σ а/А б/Б в/В г/Г д/Д е/Е з/З и/И й/Й к/К л/Л м/М н/Н о/О п/П р/Р с/С т/Т у/У ф/Ф ц/Ц ш/Ш э/Э ю/Ю қ/Қ ա/Ա հ/Հ յ/Յ
- @(#)$MirOS: wtf/acronyms,v 1.569 2016/05/05 22:35:10 tg Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.570 2016/05/09 21:40:04 tg Exp $
  From $NetBSD: acronyms,v 1.245 2016/02/13 23:12:34 dholland Exp $
  From $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
- From $NetBSD: acronyms.comp,v 1.162 2016/04/21 23:14:25 riastradh Exp $
+ From $NetBSD: acronyms.comp,v 1.163 2016/05/07 12:22:57 pgoyette Exp $
  From $NetBSD: airport,v 1.61 2016/01/03 15:25:31 mbalmer Exp $
  From $OpenBSD: airport,v 1.55 2015/08/29 22:13:56 deraadt Exp $
  From github: othyro/wtfubar refs/tags/wtfubar-2.3.0
@@ -1772,6 +1772,7 @@ AOK	Angolan kwanza (old ISO 4217 code)
 AOK	[IATA] Karpathos, Greece
 AOL	Alert-on-LAN
 AOL	America OnLine
+AOL	architecture, operating system, and linker (tuple) (cf. NAR)
 AOL	Außenseiter online
 AOL	[DB] Betriebsstelle Oldenburg (Holst) (Bf)
 AOL	[IATA] Paso de los Libres, Argentina
@@ -3103,6 +3104,7 @@ BDIRR	[DB] Betriebsstelle Ragösen Feuerwehr (Bush)
 BDJ	[IATA] Banjarmarsin (Syamsudin Noor), Indonesia
 BDK	Bluetooth Developer Kit
 BDK	[IATA] Bondoukou, Ivory Coast
+BDKJ	Bund der Deutschen Katholischen Jugend
 BDKN	[DB] Betriebsstelle Doberlug-Kirchhain Nord (Abzw)
 BDKO	[DB] Betriebsstelle Doberlug-Kirchhain ob Bf (Bf)
 BDKU	[DB] Betriebsstelle Doberlug-Kirchhain unt Bf (Bf)
@@ -3113,6 +3115,7 @@ BDN	Betriebdatennetz
 BDN	[IATA] Badin, Pakistan
 BDO	[IATA] Bandung, Indonesia
 BDOL	[DB] Betriebsstelle Dolgelin (Bf)
+BDP	Bund der Pfadfinderinnen und Pfadfinder
 BDP	[DB] Betriebsstelle Berlin-Düppel (Hp)
 BDP	[IATA] Bhadrapur, Nepal
 BDQ	[IATA] Baronda (Vadodara), India
@@ -3881,6 +3884,8 @@ BLC	[IATA] Bali, Cameroon
 BLD	[DB] Betriebsstelle Luckenwalde (Bf)
 BLD	[IATA] Boulder City Municipal Airport, Nevada, United States of America
 BLD G	[DB] Betriebsstelle Luckenwalde, Goethestraße (Bush)
+BLDC	brushless DC motor
+BLDC	bürstenloser Gleichstrommotor
 BLDN	[DB] Betriebsstelle Luckenwalde Nord (Üst)
 BLE	[DB] Betriebsstelle Leuthen (b. Cottbus) (Bf)
 BLE	[IATA] Borlange Air Base, Sweden
@@ -5354,11 +5359,13 @@ CAFS	Druckluftschaumsystem
 CAG	[IATA] Cagliari (Elmas), Sardinia, Italy
 CAH	[IATA] Ca Mau, Vietnam
 CAI	[IATA] Cairo International Airport, Egypt
+CAJ	Christliche Arbeiterjugend
 CAJ	[IATA] Canaima, Venezuela
 CAK	[IATA] Akron/Canton Regional, Ohio, United States of America
 CAL	calando/calmando
 CAL	[IATA] Campbeltown, United Kingdom of Great Britain and Northern Ireland
 CALD	Cambridge Advanced Learners’ Dictionary
+CALEA	Communications Assistance for Law Enforcement Act
 CAM	Cargo Auftragsmanagement
 CAM	Categorical Abstract Machine
 CAM	computer-aided (or -assisted) manufacturing
@@ -5379,6 +5386,8 @@ CAO	[IATA] Clayton Municipal Airpark, New Mexico, United States of America
 CAP	capabilities
 CAP	capture
 CAP	Common Agricultural Policy
+CAP	consensus, actually getting things done, partitioning
+CAP	consistency, availability, partition tolerance
 CAP	upper boundary/limit
 CAP	[IATA] Cap Haitien, Haiti
 CAPTCHA	Completely Automated Public Turing test to tell Computers and Humans Apart
@@ -6296,6 +6305,7 @@ CPC	[IATA] San Martin de los Andes (Chapelco), Argentina
 CPD	Centro de Proceso de Datos
 CPD	Continuing Professional Development
 CPD	[IATA] Coober Pedy, South Australia, Australia
+CPDL	Choral Public Domain Library
 CPE	common phase error
 CPE	customer premises equipment
 CPE	[IATA] Campeche (Alberto Acuna Ongay), Mexico
@@ -6927,6 +6937,7 @@ DBIE	[DB] Betriebsstelle Bienenmühle (Bf)
 DBIMM	Deutsche Bahn Immobiliengesellschaft
 DBIS	[DB] Betriebsstelle Sandwerke Biesern GmbH (Anst)
 DBJ	[DB] Betriebsstelle Bärenhecke-Johnsbach (Hp)
+DBJR	Deutscher Bundesjugendring
 DBL	dynamic buffer limiting
 DBL	[DB] Betriebsstelle Blauenthal (Bf)
 DBL	[IATA] Panaji, India
@@ -8106,6 +8117,7 @@ DPS	[IATA] Denpasar (Ngurah Rai), Bali, Indonesia
 DPS	[RPG] (heavy-hitter role)
 DPSA	[DB] Betriebsstelle Dresden-Pieschen (Abzw) (Abzw)
 DPSC	[DB] Betriebsstelle Porschdorf (Kr Pirna) (Hp)
+DPSG	Deutsche Pfadfinderschaft Sankt Georg
 DPST	display power savings technology
 DPT	Deutscher Eisenbahn Personen- u.Gepäcktarif
 DPT	Doctor of Practical Theology
@@ -10251,6 +10263,7 @@ ELO	[IATA] Eldorado, Argentina
 ELOOP	(#62) Too many levels of symbolic links
 ELOT	[DB] Betriebsstelle Duisburg Lotharstraße (Abzw)
 ELP	[IATA] El Paso International, El Paso, Texas, United States of America
+ELPA	Emacs Lisp Package Archive
 ELPB	[DB] Betriebsstelle Lippstadt Lippebrücke (Awanst)
 ELPE	[DB] Betriebsstelle Marl Lippe (Abzw)
 ELPG	[DB] Betriebsstelle Lippborg (Bf)
@@ -12971,6 +12984,7 @@ FSHZ	[DB] Betriebsstelle Steinholz (Anst)
 FSI	[DB] Betriebsstelle Sinn (Bf)
 FSI	[IATA] Fort Sill (Army Air Field), Oklahoma, United States of America
 FSIN	[DB] Betriebsstelle Frankfurt-Sindlingen (Hp)
+FSJ	Freiwilliges Soziales Jahr
 FSK	Feuerwehr-Schaltkasten
 FSK	Feuerwehr-Schlüsselkasten (alt) (cf. FSD)
 FSK	Freiwillige Selbstkontrolle
@@ -13381,6 +13395,7 @@ F_SETFL	fcntl(2) set file status flags
 F_SETLK	fcntl(2) advisory record locking: set lock, fail with EAGAIN
 F_SETLKW	fcntl(2) advisory record locking: set lock, blocking wait
 F_SETOWN	fcntl(2) set process/group for SIGIO and SIGURG
+FÖJ	Freiwilliges Ökologisches Jahr
 FÜ	Fahrzeitüberschreitung
 FÜ	[E-Stoffe] Füllstoff
 FÜ	[Kfz:D] kreisfreie Stadt und Landkreis Fürth
@@ -16922,6 +16937,7 @@ IMPL	implementation
 IMR	interrupt mask register
 IMS	information management system
 IMSI	international mobile subscriber identity
+IMSLP	International Music Score Library Project
 IMT	[IATA] Iron Mountain (Ford Airport), Michigan, United States of America
 IMT-SC	IMT Single Carrier = EDGE
 IMU	Induktive Meldungsübertragung
@@ -17044,6 +17060,7 @@ IPE	integrated programming environment
 IPE	[IATA] Ipil, Philippines
 IPEX	Internationale Projekt- und Exportfinanzierung
 IPF	Interchangeable Preservation Format
+IPFS	InterPlanetary File System
 IPG	[IATA] Ipiranga, Brazil
 IPH	[IATA] Ipoh, Malaysia
 IPI	interprocessor interrupt
@@ -17053,13 +17070,16 @@ IPL	Information Processing Language
 IPL	Initial Program Load
 IPL	Interrupt priority level
 IPL	[IATA] El Centro (Imperial County Airport), California, United States of America
+IPLD	InterPlanetary Linked Data (cf. IPFS)
 IPMI	Intelligent Platform Management Interface
 IPMI	{see http://fish2.com/ipmi/itrain.html for more}
 IPML	I pissed myself laughing
 IPN	[IATA] Ipatinga, Brazil
 IPNG	Internet Protocol, Next Generation
+IPNS	InterPlanetary Naming System (cf. IPFS)
 IPR	Indicação de Proveniência Regulamentada
 IPR	Intellectual Property Rights
+IPRS	InterPlanetary Record System (cf. IPFS)
 IPS	in-plane switching
 IPS	intrusion prevention system
 IPSEC	Internet Protocol Security
@@ -17067,6 +17087,7 @@ IPSECKEY	[RR] IPsec key (45)
 IPT	Integrated Product Team
 IPT	[IATA] Williamsport-Lycoming County Airport, Pennsylvania, United States of America
 IPTC	International Press Telecommunications Council
+IPTO	Information Processing Techniques Office
 IPTV	Television over IP
 IPU	[IATA] Ipiau, Bahia, Brazil
 IPV	in plaats van (dutch; instead of)
@@ -18806,6 +18827,7 @@ KLIN	[DB] Betriebsstelle Linnich (Anst)
 KLINE	kill line
 KLIS	[DB] Betriebsstelle Lissendorf (Bf)
 KLJ	[IATA] Klaipeda, Lithuania
+KLJB	Katholische Landjugendbewegung Deutschlands
 KLK	[DB] Betriebsstelle Leverkusen-Küppersteg (Bf)
 KLK	[IATA] Kalokol, Kenya
 KLKH	[DB] Betriebsstelle Leverkusen-Küppersteg Hp (Hp)
@@ -19291,6 +19313,7 @@ KSIH	[DB] Betriebsstelle Siershahn (Bf)
 KSIN	[DB] Betriebsstelle Schiefbahn Nord (Bush)
 KSIW	[DB] Betriebsstelle Siegburg Siegwerk (Anst)
 KSIZ	[DB] Betriebsstelle Sinzig (Rhein) (Bf)
+KSJ	Katholische Studierende Jugend
 KSJ	[DB] Betriebsstelle St Jöris (Hp)
 KSJ	[IATA] Kasos Island, Crete, Greece
 KSK	Kreissparkasse
@@ -24118,6 +24141,7 @@ MTRR	memory type range register
 MTRS	Mobile Train Radio Station
 MTRT	[DB] Betriebsstelle Traunreut Bosch Siemens (Anst)
 MTRZ	[DB] Betriebsstelle Traunreut (Bf)
+MTS	Mobile TeleSystems (cf. МТС)
 MTS	Mobiler Triebfahrzeugservice
 MTS	[DB] Betriebsstelle Traunstein (Bf)
 MTS	[IATA] Manzini (Matasapha), Swaziland
@@ -24630,6 +24654,7 @@ NAPOLI	N (Italian Spelling Alphabet)
 NAPT	Network Address and Port Translation
 NAPTR	[RR] naming authority provider (35)
 NAQ	[IATA] Qanaq, Greenland
+NAR	Java™ Native Archive (cf. JNI) (cf. JAR)
 NAR	[IATA] Nare, Colombia
 NARD	[DB] Betriebsstelle Gunzenhausen Arnold (Anst)
 NARG	[DB] Betriebsstelle Arnschwang (Bf)
@@ -27501,6 +27526,7 @@ PDB	[IATA] Pedro Bay Airport, Alaska, United States of America
 PDB	[Oracle] pluggable database
 PDC	primary domain controller
 PDC	[IATA] Mueo, New Caledonia
+PDD	protocol-driven development
 PDE	[IATA] Pandie Pandie, South Australia, Australia
 PDF	portable document format
 PDF	[IATA] Prado, Bahia, Brazil
@@ -27912,6 +27938,7 @@ PM	[ccTLD] Saint-Pierre und Miquelon
 PM	[GPSH] premium member (cf. GC.COM)
 PM	[ISO 3166] St Pierre & Miquelon
 PM	[Kfz:D] Landkreis Potsdam-Mittelmark
+PMA	post mortem auctoris
 PMA	[IATA] Pemba Island, Tanzania
 PMB	[IATA] Pembina Municipal Airport, North Dakota, United States of America
 PMC	[IATA] Puerto Montt (El Tepual), Chile
@@ -28369,6 +28396,7 @@ PSF	PC Screen Font
 PSF	[IATA] Pittsfield Municipal Airport, Massachusetts, United States of America
 PSFS	PolyServe File System
 PSFU	PC Screen Font with Unicode mapping table
+PSG	Pfadfinderinnenschaft Sankt Georg
 PSG	[IATA] Petersburg Airport, Alaska, United States of America
 PSH	[IATA] St. Peter, Germany
 PSI	profit stability index
@@ -32292,6 +32320,7 @@ SOP	[IATA] Southern Pines (Moore County), North Carolina, United States of Ameri
 SOQ	[IATA] Sorong (Jefman), Indonesia
 SOR	[DB] Betriebsstelle Oberthal (Bf a.B.)
 SOR	[IATA] Al Thaurah, Syria
+SORM	(cf. СОРМ)
 SOS	same old shit
 SOS	save our souls
 SOS	Somali shilling (ISO 4217 code)
@@ -33604,7 +33633,7 @@ TDB	baryzentrische dynamische Zeit
 TDB	temps dynamique barycentrique
 TDB	[IATA] Tetebedi, Papua New Guinea
 TDC	time [to] digital converter
-TDD	test driven development
+TDD	test-driven development
 TDD	time division duplex
 TDD	[IATA] Trinidad (Teniente Jorge Henrich Arauz), Bolivia
 TDE	Transportdatenerfassung
@@ -35287,6 +35316,7 @@ UAE	[DB] Betriebsstelle Auehütte (Hp)
 UAE	[FIFA] United Arab Emirates
 UAE	[IATA] Mount Aue, Papua New Guinea
 UAE	[Kfz] Vereinigte Arabische Emirate
+UAF	use-after-free
 UAH	Ukrainian hryvnia (ISO 4217 code)
 UAH	[IATA] Ua Huka, Marquesas Islands, French Polynesia
 UAI	Union astronomique internationale (cf. IAU)
@@ -35397,6 +35427,7 @@ UCAS	Universities & Colleges Admissions Service
 UCB	[DB] Betriebsstelle Camburg (Saale) (Bf)
 UCC	Underhanded C Contest
 UCC	Uniform Code Council
+UCC	Universal Copyright Convention
 UCC	[IATA] Yucca Flats, Nevada, United States of America
 UCE	[IATA] Eunice Airport, Louisiana, United States of America
 UCF	[DB] Betriebsstelle Cursdorf (Hp)
@@ -36547,6 +36578,7 @@ VCIG	Vino de Calidad con Indicacion Geografica
 VCM	virtual channel memory
 VCO	voltage-controlled oscillator
 VCORE	core voltage
+VCP	Verband Christlicher Pfadfinderinnen und Pfadfinder
 VCP	[IATA] Sao Paulo/Campinas (Viracopos), São Paulo, Brazil
 VCR	video cassette recorder
 VCR	[IATA] Carora, Venezuela
@@ -37104,6 +37136,7 @@ WAFWOT	what a foolish waste of time
 WAG	wild-ass guess
 WAG	[IATA] Wanganui, New Zealand
 WAG	[Kfz] Gambia
+WAGGGS	World Association of Girl Guides and Girl Scouts
 WAGU	Wagenuntersuchung
 WAH	[DB] Betriebsstelle Althof (Hp)
 WAH	[IATA] Wahpeton (Harry Stern Airport), North Dakota, United States of America
@@ -38219,6 +38252,7 @@ WORA	write once, run anywhere
 WORM	write once, read many (CD-R antecessor)
 WORN	write once, read never (usually bad code)
 WOS	[Kfz:D] Landkreis Wolfstein
+WOSM	World Organisation of the Scout Movement
 WOT	[IATA] Wonan, Taiwan
 WOTD	word of the day
 WOW	(exclamation of amazement)
@@ -42522,6 +42556,7 @@ _	[MORSE] ..--.- (not ITU-R)
 МОН	[ccTLD] Mongolia
 МСБ	[ФСБ] Межреспубликанской службе безопасности
 МСЭ	(cf. ITU)
+МТС	Мобильные ТелеСистемы (Mobile TeleSystems)
 ОНЛАЙН	[sTLD] kyrillisch: online
 РСФСР	Российская Советская Федеративная Социалистическая Республика (Rossijskaja sowetskaja federatiwnaja sozialistitscheskaja respublika) (cf. RSFSR)
 РФ	[ccTLD] Российская Федерация, Rossijskaja Federazija‚ Russische Föderation
@@ -42529,6 +42564,7 @@ _	[MORSE] ..--.- (not ITU-R)
 СВР	Служба внешней разведки Российской Федерации (Sluschba wneschnei raswedki, Dienst der Außenaufklärung) (cf. SWR)
 СМЕРШ	СМЕРть Шпионам, Směrť Špionam
 СМЕРШ	Специальные Методы Разоблaчения Шпионов (cf. SMERSH)
+СОРМ	Система Оперативно-Розыскных Мероприятий (System for Operative Investigative Activities)
 СПЕЦНАЗ	[ГРУ] подразделение специального назначения Российской Федерации (Podrasdelenije spezialnowo nasnatschenija rossijskoj federazii, Einheit der Russischen Föderation zur besonderen Verwendung, Spezialeinsatzkommando der Russischen Föderation)
 СРБ	[ccTLD] Serbien
 СССР	Союз Советских Социалистических Республик (Sojus Sowjetskich Sozialistitscheskich Respublik) (cf. UdSSR)
