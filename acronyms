@@ -1,5 +1,5 @@
   à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž α/Α ε/Ε λ/Λ ο/Ο π/Π ς/Σ σ/Σ а/А б/Б в/В г/Г д/Д е/Е з/З и/И й/Й к/К л/Л м/М н/Н о/О п/П р/Р с/С т/Т у/У ф/Ф ц/Ц ш/Ш э/Э ю/Ю қ/Қ ա/Ա հ/Հ յ/Յ
- @(#)$MirOS: wtf/acronyms,v 1.570 2016/05/09 21:40:04 tg Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.571 2016/05/13 19:50:41 tg Exp $
  From $NetBSD: acronyms,v 1.245 2016/02/13 23:12:34 dholland Exp $
  From $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
  From $NetBSD: acronyms.comp,v 1.163 2016/05/07 12:22:57 pgoyette Exp $
@@ -644,9 +644,11 @@ ACMS	[Oracle] Atomic Control File to Memory Service Process
 ACN	[IATA] Ciudad Acuna, Mexico
 ACO	[IATA] Ascona, Switzerland
 ACOS	Arkuskosinus
+ACP	African,  Caribbean  and  Pacific  Group  of States
 ACP	Atari Coldfire Project – http://acp.atari.org/
 ACP	auxillary control process
 ACP	auxillary control program
+ACP	Groupe des États d’Afrique,  des  Caraïbes et du Pacifique
 ACP	[DB] Betriebsstelle Cismar, Post (Bush)
 ACPI	advanced configuration and power interface
 ACPI	advanced conflagration punishment interface
@@ -739,6 +741,7 @@ ADHD	attention deficit (and) hyperactivity disorder
 ADHS	Aufmerksamkeitsdefizitsyndrom in Komorbidität mit Hyperaktivität (cf. ADHD)
 ADI	acceptable daily intake
 ADIF	Administración de Infraestructuras Ferroviarias
+ADIS	Automatisierte Detektion interventionsbedürftiger Situationen durch Klassifizierung visueller Muster
 ADJ	[IATA] Civil, Amman (Marka), Jordan
 ADK	appliance development kit
 ADK	[IATA] Adak Island Naval Air Station, Alaska, United States of America
@@ -889,6 +892,7 @@ AEU	Antenna Electronic Unit
 AEU	[DB] Betriebsstelle Eutin (Bf)
 AEX	[IATA] Alexandria International Airport, Louisiana, United States of America
 AEY	[IATA] Akureyri, Iceland
+AF	Advanced Format (4 KiB sectors)
 AF	anonymous finder
 AF	as fuck
 AF	Atemfrequenz
@@ -1319,6 +1323,7 @@ AKO	[DB] Betriebsstelle Kiel Oslo-Kai (Slst)
 AKO	[IATA] Akron-Washington County Airport, Colorado, United States of America
 AKOH	[DB] Betriebsstelle Kiel Ostuferhafen (Bf)
 AKOW	[DB] Betriebsstelle Hamburg Kohlentwiete (Awanst)
+AKP	Gruppe  der  afrikanischen,  karibischen  und  pazifischen  Staaten (cf. ACP)
 AKP	[IATA] Anaktuvuk Pass Airport Pass, Alaska, United States of America
 AKPM	[DB] Betriebsstelle Kampen (Sylt) Mitte (Bush)
 AKPMD	[DB] Betriebsstelle Kampen (Sylt) Dikstieg (Bush)
@@ -1647,6 +1652,7 @@ AN	[DB] Betriebsstelle Neumünster (Bf)
 AN	[Kfz:D] kreisfreie Stadt und Landkreis Ansbach
 AN 1	[DB] Betriebsstelle Neumünster EST (Est)
 AN G	[DB] Betriebsstelle Neumünster Gbf (Bft)
+AN/FO	ammonium nitrate/fuel oil
 ANA	[IATA] Anaheim/Disneyland, California, United States of America
 ANA	[Kfz:D] Landkreis Annaberg
 ANAIS	architecture not allowed in source
@@ -1656,6 +1662,7 @@ ANB	[IATA] Anniston Metropolitan Airport, Alabama, United States of America
 ANBN	[DB] Betriebsstelle Niebüll NVAG (Bf)
 ANBS	[DB] Betriebsstelle Süderlügum (Anst)
 ANBU	[Naruto] Ansatsu Senjutsu Tokushu Butai (暗殺戦術特殊部隊, Special Assassination and Tactical Squad)
+ANC	Ammoniumnitrat mit Kohlenstoffverbindung (cf. AN/FO)
 ANC	[IATA] Ted Stevens Anchorage International, Alaska, United States of America
 ANCONA	A (Italian Spelling Alphabet)
 AND	and, &
@@ -1672,6 +1679,7 @@ ANEU	[DB] Betriebsstelle Neuhaus (Oste) (Hp Anst)
 ANEZ	[DB] Betriebsstelle Neetzendorf (Hp)
 ANF	[DB] Betriebsstelle Nortorf (Bf)
 ANF	[IATA] Cerro Moreno International, Antofagasta, Chile
+ANFO	(cf. AN/FO)
 ANG	Angestellter
 ANG	Netherlands Antillean guilder (ISO 4217 code)
 ANG	[FIFA] Angola
@@ -1702,6 +1710,7 @@ ANN	artificial neural network
 ANN	[DB] Betriebsstelle Neustadt (Holst) Gbf (Bf)
 ANN	[IATA] Annette Island Airport, Alaska, United States of America
 ANNM	[DB] Betriebsstelle Nörnum Mitte (Bush)
+ANO	Ammoniumnitrat mit organischer Substanz (cf. AN/FO)
 ANO	[IATA] Angoche (Antonio Enes), Mozambique
 ANOS	[DB] Betriebsstelle Norddörfer Schule (Sylt) (Bush)
 ANP	[IATA] Annapolis (Lee Airport), Maryland, United States of America
@@ -1834,6 +1843,7 @@ APEW	[DB] Betriebsstelle Pellworm (Slst)
 APEX	[Oracle] APplication EXpreß
 APF	[DB] Betriebsstelle Pansdorf (Bf)
 APF	[IATA] Naples Municipal Airport, Florida, United States of America
+APFEL	Analyse von Personenbewegungen an Flughäfen mittels zeitlich rückwärts- und vorwärtsgerichteter Videodatenströme
 APG	[IATA] Aberdeen Proving Ground, Maryland, United States of America
 APH	[IATA] Bowling Green/Fort A. P. Hill, Virginia, United States of America
 API	application programming interface
@@ -2114,6 +2124,7 @@ ASE	advanced software environment
 ASE	[DB] Betriebsstelle Hamburg Süderelbbrücke (Abzw)
 ASE	[IATA] Pitkin County/Sardy Field, Aspen, Colorado, United States of America
 ASEAN	Association of Southeast Asian Nations
+ASEV	Automatische Situationseinschätzung für ereignisgesteuerte Videoüberwachung
 ASF	advanced streaming format
 ASF	Akku-Schlepp-Fahrzeug
 ASF	Apache Software Foundation
@@ -2182,6 +2193,7 @@ ASR	Ausgangsstromrichter
 ASR	automated speech recognition
 ASR	[DB] Betriebsstelle Sprakebüll (Anst)
 ASR	[IATA] Kayseri, Turkey
+ASRG	Anti Spam Research Group
 ASS	Acetylsalicylsäure („Aspirin“)
 ASS	After Sales Support
 ASS	dumbhead
@@ -2328,6 +2340,7 @@ ATX	advanced technology extended
 ATY	[IATA] Watertown Municipal Airport, South Dakota, United States of America
 ATZ	[IATA] Assiut, Egypt
 AU	Abgasuntersuchung
+AU	afrikanische Union
 AU	alternate universe
 AU	Arbeitsunfähigkeitsbescheinigung
 AU	Au ☉ (PSE#79) Aurum, Gold | Übergangsmetalle | transition metals | metalla transitionis
@@ -2367,6 +2380,7 @@ AUT	[FIFA] Austria
 AUT	[IATA] Atauro, Indonesia
 AUT	[Kfz] Palästinensische Autonomiegebiete/Gazastreifen (nicht offiziell)
 AUTH	authentication and authorisation
+AUTH	authentification (who are you) & authorisation (what are you allowed to do)
 AUTOGAS	(cf. LPG) (cf. GPL) (cf. NGL) but not (cf. LNG) or (cf. CNG)
 AUTONAV	Autonomously Navigate
 AUTS	[DB] Betriebsstelle Uetersen (Bf)
@@ -3073,6 +3087,7 @@ BDA	[DB] Betriebsstelle Dahme (Mark) (Bf)
 BDA	[IATA] Bermuda International, Ferry Reach, Bermuda
 BDA	[IATA] Kindley Airfield/Civil Air Terminal, Bermuda/Hamilton, Bermuda
 BDAB	[DB] Betriebsstelle Dabendorf (Hp Bft)
+BDB	Berkeley DB
 BDB	[DB] Betriebsstelle Döbern (b. Forst) (Bf)
 BDB	[IATA] Bundaberg, Queensland, Australia
 BDC	backup domain controller
@@ -3176,6 +3191,7 @@ BECON	Bachelor of Economics
 BECON&FIN	Bachelor of Economics and Finance
 BECONSCI	Bachelor of Science in Economics
 BED	Bachelor of Education
+BED	Berlin Expert Days
 BED	[DB] Betriebsstelle Eden (Awanst)
 BED	[IATA] Laurence G. Hanscom, Bedford, Massachusetts, United States of America
 BED	[Kfz:D] Landkreis Brand-Erbisdorf
@@ -4861,6 +4877,7 @@ BTP	[DB] Betriebsstelle Berlin Treptower Park (Bf)
 BTP	[IATA] Butler County Airport, Pennsylvania, United States of America
 BTPI	[DB] Betriebsstelle Groß Köris (Bf)
 BTQ	[IATA] Butare, Rwanda
+BTR	Betrieb
 BTR	bit test [and] reset
 BTR	[DB] Betriebsstelle Tröbitz (Bf)
 BTR	[IATA] Baton Rouge Metropolitan/Ryan Field, Baton Rouge, Louisiana, United States of America
@@ -4978,6 +4995,7 @@ BVG	[IATA] Berlevag, Norway
 BVH	Bundesverband des deutschen Versandhandels
 BVH	[IATA] Vilhena, Rondônia, Brazil
 BVI	[IATA] Birdsville, Queensland, Australia
+BVLC	Berkeley Vision and Learning Center
 BVLT	[DB] Betriebsstelle Velten (Mark) (Bf)
 BVLZ	[DB] Betriebsstelle Vehlefanz (Bf)
 BVLZA	[DB] Betriebsstelle Vehlefanz Ausgang (Bush)
@@ -5089,6 +5107,7 @@ BWOK	[DB] Betriebsstelle Berlin Wollankstraße (Hp)
 BWOL	[DB] Betriebsstelle Woltersdorf (b. Luckenwalde) (Hp)
 BWOS	[DB] Betriebsstelle Wolfshain Schuttgleis (Awanst)
 BWP	Botswana pula (ISO 4217 code)
+BWP	broken, wormy, punky
 BWP	[DB] Betriebsstelle Potsdam Park Sanssouci (Bf)
 BWP	[IATA] Benawi, Papua New Guinea
 BWP H	[DB] Betriebsstelle Potsdam Wildpark HVG Linie 606 (Bush)
@@ -5261,6 +5280,7 @@ BZW	[DB] Betriebsstelle Ziltendorf EKO (Bf)
 BZY	[IATA] Beltsy, Moldova
 BZZ	[IATA] Brize Norton (Oxford), England, United Kingdom of Great Britain and Northern Ireland
 BÖ	[Kfz:D] Bördekreis
+BÜ	(cf. RBÜ)
 BÜ	Bahnübergang
 BÜ	Betriebsüberwachung
 BÜD	[Kfz:D] Landkreis Büdingen
@@ -5374,6 +5394,7 @@ CAM	content addressable memory
 CAM	[FIFA] Cambodia
 CAM	[IATA] Camiri, Bolivia
 CAM	[Kfz] Kamerun
+CAMINSENS	Verteilte, vernetzte Kamerasysteme zur in situ-Erkennung personeninduzierter Gefahrensituationen
 CAML	Categorical Abstract Machine Language
 CAML	Collaborative Application Markup Language
 CAN	canon
@@ -6912,6 +6933,7 @@ DBB	data bus buffer
 DBC	design by contract
 DBC	[DB] Betriebsstelle Bockau (Erzgeb) (Hp)
 DBCS	double-byte character set
+DBD	Perl DataBase Driver
 DBD	[IATA] Dhanbad, India
 DBDDHKP	doof bleibt doof, da helfen keine Pillen
 DBDL	[DB] Betriebsstelle Braunsdorf-Lichtenwalde (Hp)
@@ -6931,6 +6953,7 @@ DBG	[DB] Betriebsstelle Burgk (Hp)
 DBGG	[DB] Betriebsstelle Bulleritz-Großgrabe (Hp)
 DBH	[DB] Betriebsstelle Bischheim-Gersdorf (Bf)
 DBHZ	(dBHz) Decibels with respect to one Hertz
+DBI	Perl DataBase Interface
 DBI	[DB] Betriebsstelle Beiersdorf (Bk)
 DBIC	(dBic) Decibel with respect to isentropic circularly polarised radiation
 DBIE	[DB] Betriebsstelle Bienenmühle (Bf)
@@ -6938,10 +6961,12 @@ DBIMM	Deutsche Bahn Immobiliengesellschaft
 DBIS	[DB] Betriebsstelle Sandwerke Biesern GmbH (Anst)
 DBJ	[DB] Betriebsstelle Bärenhecke-Johnsbach (Hp)
 DBJR	Deutscher Bundesjugendring
+DBL	(cf. DNSBL)
 DBL	dynamic buffer limiting
 DBL	[DB] Betriebsstelle Blauenthal (Bf)
 DBL	[IATA] Panaji, India
 DBLU	[DB] Betriebsstelle Blumenau (Hp)
+DBM	DataBase Manager
 DBM	[DB] Betriebsstelle Bad Brambach (Bf)
 DBM	[IATA] Debra Marcos, Ethiopia
 DBMS	database management system
@@ -7128,6 +7153,7 @@ DDM	East German Mark of the GDR (old ISO 4217 code)
 DDM	[IATA] Dodoima, Tanzania
 DDN	[DB] Betriebsstelle Drosen (Bf)
 DDN	[IATA] Delta Downs, Queensland, Australia
+DDNS	(cf. DynDNS)
 DDO	[DB] Betriebsstelle Dohna (Sachs) (Bf)
 DDOL	[DB] Betriebsstelle Döhlen (b. Rochlitz/Sachs) (Hp)
 DDP	Debian Documentation Project
@@ -7735,6 +7761,7 @@ DMAG	[DB] Betriebsstelle Mahlis Gartenstr. (Bush)
 DMAGIC	DMA controller and simple blitter
 DMAL	[DB] Betriebsstelle Malter (Bf)
 DMAR	[DB] Betriebsstelle Markersbach (Erzgeb) (Bf)
+DMARC	domain-based message authentication, reporting, and conformance
 DMB	[DB] Betriebsstelle Muldenberg (Bf)
 DMB	[IATA] Zhambyl, Kazakhstan
 DMBH	[DB] Betriebsstelle Muldenberg Hp (Hp)
@@ -7894,6 +7921,7 @@ DNS	Desoxyribonukleinsäure
 DNS	Domain Name System
 DNS	[DB] Betriebsstelle Dresden-Niedersedlitz Güteranlage (DHD) (Bft)
 DNS	[IATA] Denison Municipal Airport, Iowa, United States of America
+DNSBL	DNS-based blacklist
 DNSH	[DB] Betriebsstelle Dresden-Niedersedlitz Hp (DHD) (Hp Bft)
 DNSKEY	[RR] DNS key (48)
 DNSL	[DB] Betriebsstelle Niederschlag (Bf)
@@ -8260,6 +8288,7 @@ DSAU	[DB] Betriebsstelle Seidau (Spreetalbahn) (Awanst)
 DSAZ	[DB] Betriebsstelle Bad Schandau II (Emst)
 DSB	Danske Statsbaner (Danish State Railways)
 DSB	Datenschutzbeauftragter
+DSB	Dispute Settlement Body
 DSB	double-sideband modulation
 DSB	[DB] Betriebsstelle Schönberg (Vogtl) (Bf)
 DSBA	[DB] Betriebsstelle Langburkersdorf Sächsische Baustoffe (Anst)
@@ -8462,6 +8491,7 @@ DUH	Deutsche Umwelthilfe e.V.
 DUI	[IATA] Duisburg, Germany
 DUJ	[IATA] Du Bois-Jefferson County Airport, Pennsylvania, United States of America
 DUK	[DB] Betriebsstelle Unterkoskau (Hp)
+DUL	dial-up list (dynamic IP list)
 DUL	[DB] Betriebsstelle Ulberndorf (Hp)
 DUM	[IATA] Dumai, Indonesia
 DUN	[DB] Betriebsstelle Unterneudorf (Hp)
@@ -8628,6 +8658,7 @@ DYEL	do you even lift?
 DYG	[IATA] Dayong, China
 DYK	do you know?
 DYM	[IATA] Diamantina Lakes, Queensland, Australia
+DYNDNS	dynamic DNS
 DYR	[IATA] Anadyr, Magadan, Russia
 DYS	[IATA] Abilene (Dyess Air Force Base), Texas, United States of America
 DYSB	[DB] Betriebsstelle Bad Schandau Grenze-Prag (Emst)
@@ -10135,6 +10166,7 @@ EIS	[Kfz:D] Landkreis Eisenberg
 EISA	extended industry standard architecture
 EISCONN	(#56) Socket is already connected
 EISDIR	(#21) Is a directory
+EISS	European Institute for System Security
 EIU	Eisenbahninfrastrukturunternehmen
 EIW	[IATA] New Madrid, Missouri, United States of America
 EIY	[IATA] Ein Yahav, Israel
@@ -11851,6 +11883,7 @@ FFI	foreign function interface
 FFI	[DB] Betriebsstelle Filsen (Hp)
 FFID	[DB] Betriebsstelle Frieda (Tp)
 FFIE	[DB] Betriebsstelle Frielingen (Kr Hersfeld) (Tp)
+FFII	Foundation for a Free Information Infrastructure – http://swpat.ffii.org/
 FFK	[DB] Betriebsstelle Frankfurter Kreuz (Üst)
 FFL	[DB] Betriebsstelle Friedlos (Hp)
 FFL	[IATA] Fairfield Municipal Airport, Iowa, United States of America
@@ -12507,6 +12540,7 @@ FMHM	[DB] Betriebsstelle Marnheim (Bf)
 FMHN	[DB] Betriebsstelle Münchhausen (Bf)
 FMHO	[DB] Betriebsstelle Mühlheim (Main) Ost (Üst)
 FMHU	[DB] Betriebsstelle Mainz Hafen Ubf (Bf)
+FMI	fonds monétaire international (cf. IMF)
 FMI	[DB] Betriebsstelle Michelstadt (Bf)
 FMI	[IATA] Kalemie, Zaire
 FMIB	[DB] Betriebsstelle Michelbach (Nass) (Tp)
@@ -12951,6 +12985,7 @@ FSBN	[DB] Betriebsstelle Schimborn (Bf)
 FSBR	[DB] Betriebsstelle Steinbrücken (Tp)
 FSC	Fujitsu-Siemens Computer
 FSC	[IATA] Figari, Corsica, France
+FSCD	Formal Structures for Computation and Deduction
 FSCH	[DB] Betriebsstelle Schöllenbach-Hesselbach (Hp)
 FSCK	file system check
 FSCK	fuck
@@ -13477,6 +13512,8 @@ GAS	[IATA] Garissa, Kenya
 GASTON	G (French Spelling Alphabet)
 GAT	Guten Abend Ticket
 GAT	[IATA] Gap, France
+GATS	General Agreement on Trade in Services
+GATT	General Agreement on Tariffs and Trade
 GAU	[IATA] Guwahati, India
 GAV	[IATA] Gag Island, Indonesia
 GAW	[IATA] Gangaw, Myanmar
@@ -13574,6 +13611,7 @@ GD	[Kfz:D] Landkreis Schwäbisch Gmünd
 GDA	Guideline Daily Amount
 GDA	[IATA] Gounda, Central African Republic
 GDB	[Kfz:D] Landkreis Gadebusch
+GDBM	GNU dbm (cf. dbm)
 GDC	[IATA] Greenville (Donaldson Center), South Carolina, United States of America
 GDD	[IATA] Gordon Downs, Western Australia, Australia
 GDE	[IATA] Gode, Ethiopia
@@ -13593,6 +13631,7 @@ GDN	[IATA] Gdansk [Rebiechowo], Poland
 GDO	[IATA] Guasqualito, Venezuela
 GDOP	Geometric Dilution of Precision
 GDP	[IATA] Guadalupe, Texas, United States of America
+GDPR	General Data Protection Regulation
 GDQ	[IATA] Gondar, Ethiopia
 GDR	German Democratic Republic (DDR)
 GDR	[FIFA] East Germany
@@ -15594,6 +15633,7 @@ HM 1	[DB] Betriebsstelle Minden (Westf) (EST) (Est)
 HM G	[DB] Betriebsstelle Minden (Westf) Gbf (Bft)
 HM W	[DB] Betriebsstelle Minden Weserpromenade (Slst)
 HM Z	[DB] Betriebsstelle Minden (Westf) ZOB (Bush)
+HMA	Haager Abkommen über die internationale Hinterlegung gewerblicher Muster und Modelle
 HMA	high memory area
 HMA	[IATA] Malmo (Hovercraft Harbour Terminal), Sweden
 HMAC	hash-based message authentication code
@@ -16785,6 +16825,7 @@ IGA	[IATA] Inagua (Matthew Town), Great Inagua, Bahamas
 IGB	[IATA] Ingeniero Jacobacci, Argentina
 IGB	[Kfz:D] Stadt St. Ingbert im Saar-Pfalz-Kreis
 IGCD	International Geocaching Day
+IGD	Institut für Graphische Datenverarbeitung
 IGD	Internet gateway device
 IGE	Eidgenössisches Institut für Geistiges Eigentum
 IGE	Immunglobulin E
@@ -16910,10 +16951,12 @@ IMC	integrated memory controller
 IMCO	in my considered opinion
 IMCR	interrupt mode configuration register
 IMD	[IATA] Imonda, Papua New Guinea
+IMDB	Internet Movie Database
 IME	in my experience
 IME	input method editor
 IME	meiner Erfahrung nach
 IMEI	international mobile equipment identity
+IMF	International Monetary Fund
 IMF	[IATA] Imphal, India
 IMG	image
 IMG	[IATA] Inhaminga, Mozambique
@@ -17040,6 +17083,7 @@ IOS	Internet of Shit (cf. IoT)
 IOS	iPhone OS
 IOS	[EDU] Institut für optionale Studien
 IOS	[IATA] Ilheus, Bahia, Brazil
+IOSB	Institut für Optronik, Systemtechnik und Bildauswertung
 IOT	Internet of Things
 IOT	Internet of Turds
 IOU	I owe you (debt)
@@ -17312,6 +17356,7 @@ IUE	[IATA] Niue Island, Niue Island
 IUGG	International Union of Geodesy and Geophysics
 IUK	Informations- und Kommunikationsgruppe
 IUK	Informations- und Kommunikationstechnologie
+IUKDG	Informations- und Kommunikationsdienste-Gesetz
 IUL	[IATA] Ilu, New Guinea, Indonesia
 IUM	[IATA] Summit Lake, British Columbia, Canada
 IUR	Europäische Rundfunkunion (cf. EBU)
@@ -17335,6 +17380,7 @@ IW	it’s worse
 IWA	[IATA] Iwakuni Air Force Base, Honshu, Japan
 IWBNI	it would be nice if
 IWD	[IATA] Ironwood (Gogebic County Airport), Michigan, United States of America
+IWF	Internationaler Währungsfonds (cf. IMF)
 IWH	[IATA] Wabash Municipal Airport, Indiana, United States of America
 IWJ	[IATA] Iwami, Japan
 IWO	[IATA] Iwo Jima, Japan
@@ -17401,6 +17447,7 @@ J2RE	Java™ 2 Runtime Environment (cf. JRE)
 J2SDK	Java™ 2 SDK (cf. JDK)
 J2SE	Java™ 2 Standard Edition
 J4F	just for fun
+JA	Jugendamt
 JA	[Kfz] Jamaika
 JAA	[IATA] Jalalabad, Afghanistan
 JAB	[IATA] Jabiru, Northern Territory, Australia
@@ -20099,6 +20146,7 @@ LDBK	[DB] Betriebsstelle Dambeck (Altm) (Bf)
 LDBM	[DB] Betriebsstelle Derben Metallaufbereitung (Awanst)
 LDBN	[DB] Betriebsstelle Derben (Hp)
 LDBR	[DB] Betriebsstelle Halle Dessauer Brücke (Hp)
+LDC	Least Developed Country
 LDC	[IATA] Lindeman Island, Queensland, Australia
 LDD	[DB] Betriebsstelle Dreileben-Drackenstedt (Bf)
 LDD0	[Oracle] Global Enqueue Service Daemon Helper Slave
@@ -20242,6 +20290,8 @@ LEN	[IATA] Leon (Aeropuero de Bajio), Mexico
 LENN	[DB] Betriebsstelle Egeln Nord (Bf)
 LEO	law enforcement officer
 LEO	Leo Expreß
+LEO	Lerne Englisch Online
+LEO	Link Everything Online
 LEO	[DB] Betriebsstelle Engelsdorf Ost (Hp)
 LEO	[EDU] Lehrereinstellung online
 LEO	[IATA] Leconi, Gabon
@@ -20316,6 +20366,7 @@ LFLD	[DB] Betriebsstelle Ferchland (Hp Awanst)
 LFLU	[DB] Betriebsstelle Leipzig-Halle Flughafen (Plng) (Bf)
 LFLUA	[DB] Betriebsstelle Leipzig Flughafen Terminal A (Bush)
 LFM	lowest frequency mode
+LFMTP	Logical Frameworks and Meta-Languages: Theory and Practice
 LFMW	[DB] Betriebsstelle Fermerswalde (Bf)
 LFN	long file names
 LFN	[DB] Betriebsstelle Falkenberg (Elster) Nord (Hp)
@@ -20919,6 +20970,8 @@ LMCH	[DB] Betriebsstelle Mücheln (Geiseltal) (Bf)
 LMD	[DB] Betriebsstelle Muldenstein (Bf)
 LMD	[IATA] Los Menucos, Argentina
 LMD0	[Oracle] Global Enqueue Service Daemon Process
+LMDB	Landscape Management Database (cf. SAP)
+LMDB	Symas Lightning Memory-Mapped Database
 LMDDGTFY	let me duck duck go that for you
 LMDF	[DB] Betriebsstelle Meisdorf (Hp a.B.)
 LME	Leistungsmengenerfassung
@@ -21081,6 +21134,7 @@ LNS	[DB] Betriebsstelle Nennhausen (Bf)
 LNS	[IATA] Lancaster Airport, Pennsylvania, United States of America
 LNS A	[DB] Betriebsstelle Nennhausen, Apotheke (Bush)
 LNS S	[DB] Betriebsstelle Nennhausen, Schule (Bush)
+LNT	Leave No Trace – https://lnt.org/
 LNV	[IATA] Londolovit, Papua New Guinea
 LNVG	Landesnahverkehrsgesellschaft Niedersachsen
 LNW	[DB] Betriebsstelle Leipzig Neue Messe (Bf)
@@ -23262,6 +23316,7 @@ MM	[ISO 3166] Myanmar (Burma)
 MM	[Kfz:D] Landkreis Memmingen
 MM B	[DB] Betriebsstelle Memmingen Busbf (Bush)
 MM G	[DB] Betriebsstelle Memmingen Gbf (Bft)
+MMA	Madrider Abkommen über die internationale Registrierung von Marken
 MMA	[DB] Betriebsstelle Maisach (Bf)
 MMA	[IATA] Malmo, Sweden
 MMAG	[DB] Betriebsstelle Malching (Oberbay) (Hp)
@@ -23325,6 +23380,7 @@ MML	Music Macro Language – https://www.mirbsd.org/man4/spkr
 MML	[IATA] Marshall (Ryan Field), Minnesota, United States of America
 MMLB	[DB] Betriebsstelle Marschall (b. Holzkirchen), Bundesstraße (Bush)
 MMM	[IATA] Middlemount, Queensland, Australia
+MMN	meiner Meinung nach
 MMN	[DB] Betriebsstelle Möhren (Bk)
 MMN	[IATA] Stow (Minute Man Airfield), Massachusetts, United States of America
 MMNG	[DB] Betriebsstelle Manching (Bf)
@@ -24230,6 +24286,7 @@ MUTG	[DB] Betriebsstelle Utting (Bf)
 MUTGS	[DB] Betriebsstelle Utting (Schiff) (Slst)
 MUU	[IATA] Mount Union (Huntingdon County), Pennsylvania, United States of America
 MUV	[IATA] Philadelphia (Mustin ALF), Pennsylvania, United States of America
+MUVIT	Mustererkennung und Video Tracking: sozialpsychologische, soziologische, ethische und rechtswissenschaftliche Analysen
 MUW	[IATA] Mascara, Algeria
 MUX	multiplex
 MUX	[IATA] Multan, Pakistan
@@ -24275,6 +24332,7 @@ MVP	monster vs. player
 MVP	multi-thread virtual pipeline
 MVP	[IATA] Mitu, Colombia
 MVP	[Microsoft] most valuable professional
+MVP	[Microsoft] müssen viel posten
 MVP	[sports] most valuable player
 MVQ	Maldivian rupee (old ISO 4217 code)
 MVQ	[IATA] Mogilev, Mahiliow, Belarus
@@ -24912,6 +24970,7 @@ NDAU	[DB] Betriebsstelle Döhlau (Hp)
 NDB	[DB] Betriebsstelle Dombühl (Bf)
 NDB	[IATA] Nouadhibou, Mauritania
 NDB B	[DB] Betriebsstelle Dohmbühl BEM (Museum)
+NDBM	new dbm (cf. dbm)
 NDC	Nested Diagnostic Context
 NDC	[IATA] Nanded, India
 NDD	[IATA] Sumbe, Angola
@@ -24948,6 +25007,7 @@ NDOP	North Dilution of Precision
 NDP	[DB] Betriebsstelle Dorfprozelten (Hp)
 NDP	[IATA] Pensacola (Ellyson Naval Air Station), Florida, United States of America
 NDPF	Nikhef Data Processing Facility
+NDR	non-delivery report
 NDR	Norddeutscher Rundfunk
 NDR	[IATA] Nador, Morocco
 NDRA	[DB] Betriebsstelle Döbra (Anst)
@@ -26647,6 +26707,9 @@ OAO	over and out
 OAR	[IATA] Fort Ord/Monterey (Fritzsche Field), California, United States of America
 OASD	Office of the Assistant Secretary of Defence
 OASIS	Organisation for the Advancement of Structured Information Standards
+OATH	Initiative for Open Authentication
+OATH	object-oriented abstract type hierarchy
+OAUTH	open standard for authorisation
 OAV	Original Animation Video
 OAX	[IATA] Oaxaca (Xoxocotlan), Mexico
 OB	Oboe
@@ -26839,6 +26902,7 @@ OIC	oh, I see
 OIC	[IATA] Norwich (Lt. Warren Eaton Airport), New York, United States of America
 OID	object identifier
 OID	of iets dergelijks (or so, or something like that)
+OIDC	OpenID Connect
 OIL	[IATA] Oil City (Splane Memorial Airport), Pennsylvania, United States of America
 OIM	[IATA] Oshima Island, Japan
 OIN	[IATA] Oberlin Municipal Airport, Kansas, United States of America
@@ -26927,6 +26991,7 @@ OM	[Kfz] Oman
 OMA	[FIFA] Oman
 OMA	[IATA] Omaha Eppley Airfield, Nebraska, United States of America
 OMB	[IATA] Omboue, Gabon
+OMC	(cf. WTO)
 OMC	OpenMusicContest.org
 OMC	original male character (OC)
 OMC	[IATA] Ormoc, Philippines
@@ -26947,6 +27012,7 @@ OML	[IATA] Omkalai, Papua New Guinea
 OMM	[IATA] Marmul, Oman
 OMN	[IATA] Osmanabad, India
 OMO	[IATA] Mostar, Bosnia-Herzegovina
+OMPI	(cf. WIPO)
 OMR	Omani rial (ISO 4217 code)
 OMR	[IATA] Oradea, Romania
 OMS	[IATA] Omsk, Russia
@@ -27059,8 +27125,10 @@ ORANGE	O (RAF 1942/1943 Spelling Alphabet)
 ORB	object request broker
 ORB	Ostdeutscher Rundfunk Brandenburg
 ORB	[IATA] Orebro, Sweden
+ORBL	open relay blocklist (cf. RBL)
 ORC	[IATA] Orocue, Colombia
 ORD	[IATA] Chicago-O’Hare International, Illinois, United States of America
+ORDB	open relay database (cf. RBL)
 ORE	[IATA] Orange Municipal Airport, Massachusetts, United States of America
 ORF	[IATA] Norfolk International, Virginia, United States of America
 ORG	organ
@@ -27184,8 +27252,8 @@ OTN	Optical Transport Network
 OTN	[IATA] Oaktown (Green Airport), Indiana, United States of America
 OTO	[IATA] Otto, New Mexico, United States of America
 OTOH	on the other hand
-OTP	one time password
 OTP	one true pairing
+OTP	one-time password
 OTP	one-time purchase
 OTP	open telecom platform
 OTP	[IATA] Bucharest (Otopeni), Romania
@@ -27505,6 +27573,8 @@ PCS	Personal Communications Services (the 1900 MHz band in the USA)
 PCS	pieces
 PCS	Prelaunch Compatibility Station
 PCS	[IATA] Picos, Piauí, Brazil
+PCT	Vertrag über die Internationale Zusammenarbeit auf dem Gebiet des Patentwesens
+PCT	WIPO Patent Cooperation Treaty
 PCT	[IATA] Princeton (Rocky Hill), New Jersey, United States of America
 PCU	[IATA] Picayune (Pearl River County), Mississippi, United States of America
 PCV	[IATA] Punta Chivato, Mexico
@@ -27541,6 +27611,7 @@ PDM	Pulsdauermodulation (cf. PWM)
 PDM	pulse-duration modulation
 PDN	pull-down network
 PDN	[IATA] Parndana, South Australia, Australia
+PDO	PHP Data Objects
 PDO	planet.debian.org
 PDO	protected designation of origin
 PDO	[IATA] Pendopo, Indonesia
@@ -27964,6 +28035,7 @@ PMK	Pairwise Master Key
 PMK	[IATA] Palm Island, Queensland, Australia
 PML	[IATA] Port Moller, Alaska, United States of America
 PMM	[IATA] Phanom Sarakham, Thailand
+PMMA	Protokoll zum Madrider Abkommen über die internationale Registrierung von Marken
 PMMU	Paged Memory Management Unit
 PMMU	programmable MMU
 PMN	[IATA] Pumani, Papua New Guinea
@@ -28575,6 +28647,7 @@ PVU	[IATA] Provo Municipal Airport, Utah, United States of America
 PVW	[IATA] Plainview (Hale County Airport), Texas, United States of America
 PVY	[IATA] Pope Vanoy, Alaska, United States of America
 PVZ	[IATA] Painesville (Casement Airport), Ohio, United States of America
+PVÜ	Pariser Verbandsübereinkunft zum Schutz des gewerblichen Eigentums
 PW	[ccTLD] Palau
 PW	[ISO 3166] Palau
 PW	[Kfz:D] Landkreis Pasewalk
@@ -29150,6 +29223,7 @@ RBK	[IATA] Rancho California, California, United States of America
 RBKO	[DB] Betriebsstelle Bad Krozingen Ost (Bf)
 RBKR	[DB] Betriebsstelle Bad Krozingen (Bf)
 RBL	Rechnergestütztes Betriebsleitsystem
+RBL	relay blocklist
 RBL	[IATA] Red Bluff (Municipal Airport), California, United States of America
 RBLB	[DB] Betriebsstelle Bleibach (Hp)
 RBLH	[DB] Betriebsstelle Bellheim (Bf)
@@ -29229,6 +29303,8 @@ RBZBO	[DB] Betriebsstelle Bad Bergzabern Ost (Hp)
 RBZE	[DB] Betriebsstelle Batzenhäusle (Hp Anst)
 RBZN	[DB] Betriebsstelle Binzen (Museum)
 RBZS	[DB] Betriebsstelle Karlsruhe Betriebszentrale NL Südwest (BZ)
+RBÜ	Berner Übereinkunft zum Schutz von Werken der Literatur und Kunst
+RBÜ	revidierte Berner Übereinkunft
 RBÜT	Rechnergesteuerte Bahnübergangssicherung
 RC	(the Plan 9 shell)
 RC	release candidate
@@ -30070,6 +30146,7 @@ RMW	read, modify, write
 RMW	[DB] Betriebsstelle Mannheim-Waldhof (Bf)
 RMW G	[DB] Betriebsstelle Mannheim-Waldhof Gbf (Bft)
 RMWT	[DB] Betriebsstelle Mannheim-Wallstadt (Bf)
+RMX	reverse MX record
 RMX	[DB] Betriebsstelle Marxzell (Bf)
 RMXU	[DB] Betriebsstelle Maximiliansau (Üst) (Üst)
 RMZ	[DB] Betriebsstelle Philippsburg Molzau (Abzw)
@@ -31212,6 +31289,7 @@ SCITE	slowest cheater in the east
 SCITE	stupid clauses in the EULA
 SCJ	[IATA] Smith Cove, Alaska, United States of America
 SCK	[IATA] Stockton Metropolitan Airport, California, United States of America
+SCL	spam confidence level
 SCL	[IATA] Santiago, Chile
 SCM	Scheme (programming language)
 SCM	Scrum Master
@@ -31276,6 +31354,7 @@ SDB	Schalt- und Dämmerungsbaustein
 SDB	support database
 SDB	symbolic debugger (UNIX/32V)
 SDB	[DB] Betriebsstelle Dörrenbach (Ostertal) (Museum)
+SDBM	Margo Seltzer dbm (cf. dbm)
 SDBM	[DB] Betriebsstelle Dellborner Mühle (Museum)
 SDBO	[DB] Betriebsstelle Densborn (Bf)
 SDC	Signal Data Converter
@@ -31474,6 +31553,7 @@ SF	Sourcefrog
 SF	[Kfz:D] Landkreis Oberallgäu
 SF	[Kfz:D] Landkreis Sonthofen
 SF	[Kfz] Finnland (veraltet)
+SF/F	Science Fiction & Phantasy
 SFA	sweet fuck all
 SFA	[IATA] Sfax (Thyna), Tunisia
 SFA	[Kfz:D] Landkreis Soltau-Fallingbostel
@@ -31549,6 +31629,7 @@ SG	[Kfz:D] kreisfreie Stadt Solingen
 SGA	[IATA] Wheghnan, Afghanistan
 SGA	[Oracle] system global area (shared, 65%)
 SGAA	[DB] Betriebsstelle Graach (Slst)
+SGB	Sozialgesetzbuch
 SGB	[DB] Betriebsstelle Göttelborn Grube (Bf)
 SGB	[IATA] Singaua, Papua New Guinea
 SGC	[IATA] Surgut, Tyumen, Russia
@@ -31716,6 +31797,7 @@ SIB	Service im Bahnhof
 SIB	[IATA] Sibiti, Congo
 SIC	thus, such (in quotes: really written like that, including errors)
 SIC	[IATA] Sinop (Army Air Field), Turkey
+SICP	The Structure and Interpretation of Computer Programs – https://www.mitpress.mit.edu/sicp/
 SICRANO	(portuguese metasyntactic variable for people)
 SID	Sound Interface Device
 SID	[IATA] Sal (Amilcar Cabral), Cape Verde
@@ -32320,6 +32402,7 @@ SOP	[IATA] Southern Pines (Moore County), North Carolina, United States of Ameri
 SOQ	[IATA] Sorong (Jefman), Indonesia
 SOR	[DB] Betriebsstelle Oberthal (Bf a.B.)
 SOR	[IATA] Al Thaurah, Syria
+SORBS	Spam and Open Relay Blocking System
 SORM	(cf. СОРМ)
 SOS	same old shit
 SOS	save our souls
@@ -32568,6 +32651,7 @@ SRP	secure remote password
 SRP	[IATA] Stord (Sorstukken), Norway
 SRQ	[IATA] Sarasota, Florida, United States of America
 SRR	[IATA] Stradbroke Island, Queensland, Australia
+SRS	sender rewriting scheme
 SRS	serious
 SRS	Sicherheits-Rückhalte-System
 SRS	[IATA] San Marcos, Colombia
@@ -33631,7 +33715,10 @@ TDA	[IATA] Trinidad, Colombia
 TDB	barycentric dynamical time
 TDB	baryzentrische dynamische Zeit
 TDB	temps dynamique barycentrique
+TDB	trivial database library
+TDB	Turbo Datenbank
 TDB	[IATA] Tetebedi, Papua New Guinea
+TDBM	transactional dbm (cf. dbm)
 TDC	time [to] digital converter
 TDD	test-driven development
 TDD	time division duplex
@@ -34319,6 +34406,8 @@ TLS	[IATA] Toulouse (Blagnac), France
 TLSA	[RR] TLSA certificate association (52)
 TLSH	[DB] Betriebsstelle Linsenhofen (Bf)
 TLSM	[DB] Betriebsstelle Langenschemmern (Awanst)
+TLT	Markenrechtsvertrag
+TLT	Trademark Law Treaty
 TLT	[DB] Betriebsstelle Laucherthal (Bf)
 TLT	[IATA] Tuluksak Airport, Alaska, United States of America
 TLT	[Kfz] Freies Territorium Triest (veraltet)
@@ -34378,6 +34467,7 @@ TME	[IATA] Tame, Colombia
 TME M	[DB] Betriebsstelle Metzingen MH (Museum)
 TMES	[DB] Betriebsstelle Mehrstetten (Anst)
 TMF	Teleskopmastfahrzeug
+TMG	Telemediengesetz
 TMG	too much government
 TMG	[DB] Betriebsstelle Mengen (Bf)
 TMG	[IATA] Tomanggong, Malaysia
@@ -34592,6 +34682,7 @@ TOSC	[DB] Betriebsstelle Oberschmeien (Hp)
 TOSCH	TSL “of Schemes”
 TOT	[IATA] Totness, Suriname
 TOTO	(french metasyntactic variable)
+TOTP	time-based one-time password
 TOTT	tools of the trade
 TOU	terms of use
 TOU	time of use
@@ -34603,7 +34694,9 @@ TOX	[IATA] Tobol’sk, Tyumen, Russia
 TOY	[IATA] Toyama, Japan
 TOZ	[DB] Betriebsstelle Osterholz (Anst)
 TOZ	[IATA] Touba, Ivory Coast
+TP	Borland Turbo Pascal
 TP	Tarifpunkt
+TP	Thinkpad
 TP	toilet paper
 TP	transaction processing
 TP	Trompete
@@ -35367,6 +35460,7 @@ UBBS	[DB] Betriebsstelle Beberstedt (Bush)
 UBBZ	[DB] Betriebsstelle Bad Berka Zeughausplatz (Hp)
 UBD	[DB] Betriebsstelle Bleicherode Ost (Bf)
 UBDS	[DB] Betriebsstelle Bleicherode Stadt (Hp)
+UBE	unsolicited bulk eMail
 UBE	[DB] Betriebsstelle Bernterode (Bf)
 UBE	[IATA] Cumberland (Municipal Airport), Wisconsin, United States of America
 UBE W	[DB] Betriebsstelle Bernterode W2 (Abzw)
@@ -35429,6 +35523,7 @@ UCC	Underhanded C Contest
 UCC	Uniform Code Council
 UCC	Universal Copyright Convention
 UCC	[IATA] Yucca Flats, Nevada, United States of America
+UCE	unsolicited commercial eMail
 UCE	[IATA] Eunice Airport, Louisiana, United States of America
 UCF	[DB] Betriebsstelle Cursdorf (Hp)
 UCHE	[DB] Betriebsstelle Agro - Chemiehandel (Anst)
@@ -37361,6 +37456,8 @@ WCR	[IATA] Chandalar Lake, Alaska, United States of America
 WCS	waste collection system
 WCS	wide character string
 WCS	Windows CardSpace
+WCT	WIPO Copyright Treaty
+WCT	WIPO-Urheberrechtsvertrag
 WCW	[DB] Betriebsstelle Casekow (Bf)
 WCY	[IATA] Alcoota, Northern Territory, Australia
 WCZ	[DB] Betriebsstelle Crivitz (Bf)
@@ -37808,6 +37905,9 @@ WINFX	Windows Freakout Extension
 WING	DirectX 1.0
 WIO	[IATA] Wilcannia, South Australia, Australia
 WIP	work in progress
+WIPO	organisation mondiale de la propriété intellectuelle
+WIPO	Weltorganisation für geistiges Eigentum
+WIPO	World Intellectual Property Organization
 WIR	when it’s ready
 WIS	Werkstatt- und wagentechn. Informationssystem
 WIS	wisdom
@@ -38759,6 +38859,10 @@ WTMZ	[DB] Betriebsstelle Tolkmitz (Bush)
 WTN	[DB] Betriebsstelle Techentin (Hp)
 WTN	[IATA] Waddington (RAF Station), England, United Kingdom of Great Britain and Northern Ireland
 WTNN	[DB] Betriebsstelle Techentin Nord (Awanst)
+WTO	organisation mondiale   du   commerce
+WTO	organización   mundial  de  comercio
+WTO	Welthandelsorganisation
+WTO	World Trade Organisation (cf. OMC)
 WTO	[DB] Betriebsstelle Torgelow (Bf)
 WTO	[IATA] Wotho, Marshall Islands
 WTOW	[DB] Betriebsstelle Teschow (Hp)
@@ -42503,6 +42607,7 @@ _	[MORSE] ..--.- (not ITU-R)
 ÜBERMUT	Ü (deutsches Funkalphabet)
 ÜBERS	Übersetzer
 ÜBF	Überholungsbahnhof
+ÜBK	Übereinkunft
 ÜLTG	Überleitung
 ÜS	Überwachungssignal
 ÜST	Überleitstelle
