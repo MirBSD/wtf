@@ -1,5 +1,5 @@
   à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž α/Α ε/Ε λ/Λ ο/Ο π/Π ς/Σ σ/Σ а/А б/Б в/В г/Г д/Д е/Е з/З и/И й/Й к/К л/Л м/М н/Н о/О п/П р/Р с/С т/Т у/У ф/Ф ц/Ц ш/Ш э/Э ю/Ю қ/Қ ա/Ա հ/Հ յ/Յ
- @(#)$MirOS: wtf/acronyms,v 1.571 2016/05/13 19:50:41 tg Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.572 2016/05/16 23:58:32 tg Exp $
  From $NetBSD: acronyms,v 1.245 2016/02/13 23:12:34 dholland Exp $
  From $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
  From $NetBSD: acronyms.comp,v 1.163 2016/05/07 12:22:57 pgoyette Exp $
@@ -5939,6 +5939,8 @@ CID	cell ID
 CID	character identifier (font)
 CID	[IATA] Cedar Rapids/Iowa City, Iowa, United States of America
 CIDR	Classless Inter-Domain Routing
+CIE	Cambridge International Examinations
+CIE	commission internationale de l'éclairage (International Commission on Illumination)
 CIE	[IATA] Collie, Western Australia, Australia
 CIEC	Commission Internationale de l’Etat Civil
 CIEC	Internationale Kommission für das Zivilstandswesen
@@ -13587,6 +13589,7 @@ GCC	Group Call Control
 GCC	[IATA] Gillette-Campbell County Airport, Wyoming, United States of America
 GCCOM	[GPSH] geocaching.com (Groundspeak)
 GCD	greatest common divisor (GGT)
+GCE	General Certificate of Education
 GCHQ	Government Communications Headquarters (British NSA equivalent)
 GCI	[IATA] Guernsey, Channel Islands, United Kingdom of Great Britain and Northern Ireland
 GCJ	[IATA] Johannesburg (Grand Central), South Africa
@@ -21463,6 +21466,7 @@ LSD	[IATA] Lexington (Creech Army Air Field), Kentucky, United States of America
 LSDL	[DB] Betriebsstelle Schneidlingen (Bf)
 LSDU	link service data unit
 LSE	Langschienentransporteinheit
+LSE	London School of Economics and Political Science
 LSE	Luzern-Stans-Engelberg-Bahn (now ZB)
 LSE	[DB] Betriebsstelle Seelingstädt (b. Brandis) (Bf)
 LSE	[IATA] La Crosse Municipal Airport, Wisconsin, United States of America
@@ -32721,6 +32725,7 @@ SSE	streaming SIMD extensions
 SSE	Südsüdost, south-south-east
 SSE	[DB] Betriebsstelle Sehlem (Kr Wittlich) (Hp)
 SSE	[IATA] Sholapur, India
+SSEC	Secondary Schools Examinations Council
 SSEH	[DB] Betriebsstelle Senheim (Slst)
 SSER	[DB] Betriebsstelle Serrig (Bf)
 SSF	[IATA] San Antonio (Stinson Municipal Airport), Texas, United States of America
@@ -33149,6 +33154,7 @@ SWAHBI	silly, wild-assed hare-brained idea
 SWAK	[DB] Betriebsstelle Waldböckelheim (Tp)
 SWAS	[DB] Betriebsstelle Wasserliesch (Hp)
 SWAT	special weapons and tactics
+SWB	schon wirklich beängstigend
 SWB	Stadtwerke Bonn
 SWB	stehen, warten, beten
 SWB	Steuern wie besoffen
@@ -33522,7 +33528,9 @@ TBB	[DB] Betriebsstelle Böbingen (Rems) (Bf)
 TBB	[IATA] Tuy Hoa, Vietnam
 TBB	[Kfz:D] Landkreis Tauberbischofsheim
 TBB	[Kfz:D] Main-Tauber-Kreis
+TBC	time base corrector
 TBC	to be continued
+TBC	Tuberkulose
 TBC	[IATA] Tuba City Airport, Arizona, United States of America
 TBCB	[DB] Betriebsstelle Böckingen Berufsschulzentrum (Hp)
 TBD	to be decided
