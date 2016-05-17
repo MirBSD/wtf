@@ -1,8 +1,8 @@
   à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž α/Α ε/Ε λ/Λ ο/Ο π/Π ς/Σ σ/Σ а/А б/Б в/В г/Г д/Д е/Е з/З и/И й/Й к/К л/Л м/М н/Н о/О п/П р/Р с/С т/Т у/У ф/Ф ц/Ц ш/Ш э/Э ю/Ю қ/Қ ա/Ա հ/Հ յ/Յ
- @(#)$MirOS: wtf/acronyms,v 1.572 2016/05/16 23:58:32 tg Exp $
- From $NetBSD: acronyms,v 1.245 2016/02/13 23:12:34 dholland Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.573 2016/05/17 15:57:35 tg Exp $
+ From $NetBSD: acronyms,v 1.246 2016/05/15 23:40:46 jnemeth Exp $
  From $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
- From $NetBSD: acronyms.comp,v 1.163 2016/05/07 12:22:57 pgoyette Exp $
+ From $NetBSD: acronyms.comp,v 1.165 2016/05/15 23:54:19 jnemeth Exp $
  From $NetBSD: airport,v 1.61 2016/01/03 15:25:31 mbalmer Exp $
  From $OpenBSD: airport,v 1.55 2015/08/29 22:13:56 deraadt Exp $
  From github: othyro/wtfubar refs/tags/wtfubar-2.3.0
@@ -3470,6 +3470,7 @@ BGOR	[DB] Betriebsstelle Gorgast (Bf)
 BGORU	[DB] Betriebsstelle Gorgast Überweg (Bush)
 BGP	Border Gateway Protocol
 BGP	[IATA] Bongo, Gabon
+BGPSEC	Border Gateway Protocol Security
 BGQ	[IATA] Big Lake Airport, Alaska, United States of America
 BGR	[DB] Betriebsstelle Großräschen (Bf)
 BGR	[IATA] Bangor International, Bangor, Maine, United States of America
@@ -5350,6 +5351,7 @@ CA	[ccTLD] Kanada
 CA	[ISO 3166] Canada
 CA	[Kfz:D] Landkreis Calau
 CA	[USA] California
+CAA	Canadian Automobile Association
 CAA	Civil Aviation Authorities
 CAA	[IATA] Catacamas, Honduras
 CAA	[RR] Certification Authority Authorisation (257)
@@ -13586,6 +13588,7 @@ GCC	GNU C Compiler (old)
 GCC	GNU Chagrin Collection
 GCC	GNU Compiler Collection
 GCC	Group Call Control
+GCC	Gulf Cooperation Council
 GCC	[IATA] Gillette-Campbell County Airport, Wyoming, United States of America
 GCCOM	[GPSH] geocaching.com (Groundspeak)
 GCD	greatest common divisor (GGT)
@@ -16291,6 +16294,7 @@ HTN	[IATA] Hotan, China
 HTNH	[DB] Betriebsstelle Tönnhausen (Bf)
 HTO	[IATA] East Hampton Airport, New York, United States of America
 HTOH	[DB] Betriebsstelle Torfhaus (Bush)
+HTPC	Home Theater Personal Computer
 HTPP	[DB] Betriebsstelle Toppenstedt (Bf)
 HTR	Hochtemperaturreaktor
 HTR	[IATA] Hateruma, Japan
@@ -17320,6 +17324,7 @@ ITF	Integrierter Taktfahrplan
 ITH	Intensivtransporthubschrauber
 ITH	[IATA] Ithaca Tompkins County, New York, United States of America
 ITI	[IATA] Itambacuri, Minas Gerais, Brazil
+ITIL	information technology infrastructure library
 ITJ	[IATA] Itajai, Santa Catarina, Brazil
 ITK	[IATA] Itokama, Papua New Guinea
 ITL	Italian lira (old ISO 4217 code)
@@ -17333,6 +17338,7 @@ ITR	International Telecommunication Regulations
 ITS	Instantaneous Terrestrial System
 ITS	Integriertes Transportsteuersystem
 ITS	Intermediate Test Set
+ITSM	IT service management
 ITT	in this thread
 ITU	International Telecommunication Union
 ITU	Internationale Fernmeldeunion
@@ -20253,6 +20259,7 @@ LED	Leuchtdiode
 LED	light emitting diode
 LED	[DB] Betriebsstelle Edderitz (Bk)
 LED	[IATA] St. Petersburg (Pulkowo-2), Russia
+LEDE	Linux Embedded Development Environment
 LEE	[IATA] Leesburg Municipal Airport, Florida, United States of America
 LEF	[DB] Betriebsstelle Eickendorf (Bf)
 LEF	[IATA] Lebakeng, Lesotho
@@ -30370,6 +30377,7 @@ RPG	Rocket Propelled Grenade
 RPG	role-playing game
 RPI	Raspberry Pi
 RPI2	Raspberry Pi 2
+RPKI	resource PKI
 RPL	requested privilege level
 RPL	[Kfz:D] Rheinland-Pfalz, Landesregierung und Landtag
 RPM	RedHat Package Manager
@@ -31807,6 +31815,7 @@ SID	Sound Interface Device
 SID	[IATA] Sal (Amilcar Cabral), Cape Verde
 SIDO	[DB] Betriebsstelle Idar-Oberstein (Bf)
 SIE	[IATA] Sines, Portugal
+SIEM	security information and event management
 SIEMENS	Schon Im Ersten Moment Eigenartiger Nichtfunktionierender Scheiß
 SIEMENS	Selten Ist Etwas Mit Elektronik Noch Schlechter
 SIEMENS	Sicher Ist Eins: Man Erhält Nur Schrott
@@ -32149,6 +32158,9 @@ SMA	[DB] Betriebsstelle Marth (Museum)
 SMA	[IATA] Santa Maria, Azores, Portugal
 SMAF	system management action field
 SMALL	[Android] small size (426x320dp); ldpi QVGA (240x320px), hdpi VGA (480x640px)
+SMAP	Simple Mail Access Protocol
+SMAP	Soil Moisture Active Passive
+SMAP	supervisor mode access prevention
 SMART	self-monitoring analysis and reporting technology
 SMART	specific, measurable, attainable, relevant, and time-bound
 SMART	surveillance marketed as revolutionary technology
