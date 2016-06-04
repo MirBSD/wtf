@@ -1,8 +1,8 @@
   à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž α/Α ε/Ε λ/Λ ο/Ο π/Π ς/Σ σ/Σ а/А б/Б в/В г/Г д/Д е/Е з/З и/И й/Й к/К л/Л м/М н/Н о/О п/П р/Р с/С т/Т у/У ф/Ф ц/Ц ш/Ш э/Э ю/Ю қ/Қ ա/Ա հ/Հ յ/Յ
- @(#)$MirOS: wtf/acronyms,v 1.575 2016/05/29 19:55:55 tg Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.576 2016/06/04 03:00:37 tg Exp $
  From $NetBSD: acronyms,v 1.246 2016/05/15 23:40:46 jnemeth Exp $
  From $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
- From $NetBSD: acronyms.comp,v 1.165 2016/05/15 23:54:19 jnemeth Exp $
+ From $NetBSD: acronyms.comp,v 1.166 2016/05/31 23:15:05 jnemeth Exp $
  From $NetBSD: airport,v 1.61 2016/01/03 15:25:31 mbalmer Exp $
  From $OpenBSD: airport,v 1.55 2015/08/29 22:13:56 deraadt Exp $
  From github: othyro/wtfubar refs/tags/wtfubar-2.4.0
@@ -1207,6 +1207,7 @@ ADC	voltage measurement probe (BusPirate)
 ADC	[IATA 3LC] Altenburg Nobitz, Germany
 ADD	acronym driven development
 ADD	addition
+ADD	Art der Darstellung
 ADD	attention deficit disorder
 ADD	[IATA 3LC] Addis Ababa (Bole), Ethiopia
 ADD	[music] analog recording, digital mixing, digital mastering
@@ -2352,6 +2353,7 @@ AOI	[IATA 3LC] Aeroporto delle Marche (Falconara), Ancona, Italy
 AOJ	[IATA 3LC] Aomori, Japan
 AOK	Angolan kwanza (old ISO 4217 code)
 AOK	[IATA 3LC] Karpathos, Greece
+AOL	+1
 AOL	Alert-on-LAN
 AOL	America OnLine
 AOL	architecture, operating system, and linker (tuple) (cf. NAR)
@@ -2448,6 +2450,7 @@ APN	Australian Product Number
 APN	[DB] Betriebsstelle Pönitz (Holst) (Bf)
 APN	[IATA 3LC] Alpena County Regional Airport, Michigan, United States of America
 APNIC	Asia-Pacific Network Information Centre
+APNS	Apple Push Notification Service
 APO	Allgemeine Prüfungsordnung
 APO	[DB] Betriebsstelle Bad St Peter-Ording (Bf)
 APO	[IATA 3LC] Apartado, Colombia
@@ -5744,6 +5747,7 @@ BUF	[IATA 3LC] Buffalo Niagara International, New York, United States of America
 BUG	[IATA 3LC] Benguela, Angola
 BUG	[ICAO 8585] Mokulele Airlines, USA
 BUH	[IATA 3LC] All Airports around Bucharest, Romania
+BUHA	Buchhaltung
 BUI	[IATA 3LC] Bokondini, Indonesia
 BUJ	[IATA 3LC] Bou Saada, Algeria
 BUK	[DB] Betriebsstelle Uckro (Bf)
@@ -7172,6 +7176,7 @@ CNS7	[ICAO 7910] Kincardine, Kincardine, Ontario, Canada
 CNT	Chinese yuan (when traded offshore) from Taiwan, inofficial
 CNT	[IATA 3LC] Charata, Argentina
 CNT3	[ICAO 7910] Ogoki Post, Ogoki Post, Ontario, Canada
+CNTK	Computational Network Toolkit
 CNTRL	control
 CNU	[IATA 3LC] Chanute Martin Johnson Airport, Kansas, United States of America
 CNV	[IATA 3LC] Canavieiras, Bahia, Brazil
@@ -8590,6 +8595,8 @@ DDB	[DB] Betriebsstelle Deutschenbora (Bf)
 DDC	display data channel
 DDC	[IATA 3LC] Dodge City Regional Airport, Kansas, United States of America
 DDCH	[DB] Betriebsstelle Dorfchemnitz (b. Zwönitz) (Hp)
+DDD	Data Display Debugger
+DDD	domain-driven design
 DDD	[IATA 3LC] Dabba, Sudan
 DDD	[music] digital recording, digital mixing, digital mastering
 DDE	dynamic data exchange
@@ -8900,6 +8907,7 @@ DGU	[DB] Betriebsstelle Gauern (Bf)
 DGU	[IATA 3LC] Dedougou, Burkina Faso
 DGUN	[DB] Betriebsstelle Gunzen (Hp)
 DGUT	[DB] Betriebsstelle Guttau (Sachs) (Bf)
+DGV	Dienstgütevereinbarung
 DGVB	[DB] Betriebsstelle Großvoigtsberg (Anst)
 DGW	Dienstgüterwagen
 DGW	Drehgestellwechseleinrichtung
@@ -9261,6 +9269,7 @@ DLT	[DB] Betriebsstelle Leutersdorf (Hp)
 DLTS	[DB] Betriebsstelle Lichtenstein (Sachs) (Bf)
 DLU	[DB] Betriebsstelle Lunzenau (Hp a.B.)
 DLUO	date limite d’utilisation optimale (cf. MHD)
+DLV	Dienstleistungsvereinbarung
 DLV	[IATA 3LC] Delissaville, Northern Territory, Australia
 DLV	[RR] DNSSEC Lookaside Validation (32769)
 DLW	[DB] Betriebsstelle Langenwolmsdorf (Hp)
@@ -19877,6 +19886,8 @@ IDR	[IATA 3LC] Indore, India
 IDRC	I don’t really care
 IDRP	inter-domain routing protocol
 IDS	intrusion detection system
+IDSIA	Istituto Dalle Molle di Studi sull’Intelligenza Artificiale
+IDSIA	Swiss AI Lab
 IDT	identical
 IDT	interrupt descriptor table
 IDT	[TZif] Asia/Jerusalem (DST)
@@ -28059,6 +28070,7 @@ MOM	(please hold/wait a) moment
 MOM	Moment, bitte!
 MOM	mother (USA English)
 MOM	[DB] Betriebsstelle Ostermünchen (Bf)
+MOM	[HP] Ministry of Magic
 MOM	[IATA 3LC] Moudjeria, Mauritania
 MOMBIE	mobile phone zombie
 MOMBIE	mom zombie
@@ -28286,6 +28298,7 @@ MQE	[IATA 3LC] Marqua, Northern Territory, Australia
 MQF	[IATA 3LC] Magnitogorsk, Chelyabinsk, Russia
 MQH	[IATA 3LC] Minacu, Brazil
 MQI	[IATA 3LC] Quincy (Heliport), Massachusetts, United States of America
+MQISDP	MQ Integrator SCADA Device Protocol (now MQTT) (cf. SCADA) (cf. MQTT)
 MQJ	[IATA 3LC] Indianapolis (Mount Comfort Airport), Indiana, United States of America
 MQL	[IATA 3LC] Mildura, Victoria, Australia
 MQN	[IATA 3LC] Mo i Rana (Rossvoll), Norway
@@ -28294,6 +28307,7 @@ MQQ	[IATA 3LC] Moundou, Chad
 MQR	[IATA 3LC] Mosquera, Colombia
 MQS	[IATA 3LC] Mustique Island, St. Vincent and the Grenadines
 MQT	[IATA 3LC] Marquette County Airport, Michigan, United States of America
+MQTT	MQ Telemetry Transport
 MQU	[IATA 3LC] Mariquita, Colombia
 MQV	[IATA 3LC] Maiquetia (Simon Bolivar), Venezuela
 MQW	[IATA 3LC] McRae (Telfair-Wheeler Airport), Georgia, United States of America
@@ -31924,6 +31938,7 @@ OMD	[IATA 3LC] Oranjemund, Namibia
 OMDB	[ICAO 7910] Dubai Intl, Dubai, United Arab Emirates
 OME	(cf. OLA) (former)
 OME	[IATA 3LC] Nome Airport, Alaska, United States of America
+OMEMO	OMEMO Multi-End Message and Object Encryption
 OMF	Object Metafile
 OMF	[IATA 3LC] Mafraq (King Hussein Air Base), Jordan
 OMFG	oh my fucking God
@@ -32802,6 +32817,7 @@ PEN	[ICAO 8585] PenAir (Peninsula Airways), USA
 PENTA	five-
 PENTEST	penetration test (security related)
 PENTESTER	(QA person doing a Pentest)
+PEP	Personal Eventing Protocol
 PEP	Personaleinsatzplanung
 PEP	Policy Enforcement Point
 PEP	Preissystem und Erlösmanagement im Personenverkehr
@@ -35776,6 +35792,7 @@ ROP	[IATA 3LC] Rota International Airport, Mariana Islands
 ROP B	[DB] Betriebsstelle Oppenau Busbf (Bush)
 ROQA	Request of QA
 ROR	rotate right
+ROR	[HP] Room of Requirement (come-and-go room)
 ROR	[IATA 3LC] Koror (Airai), Palau
 RORA	Rollende Raststätte
 RORA	[ICAO 7910] Aguni Airport, Okinawa, Japan
@@ -36098,7 +36115,7 @@ RSM0	[Oracle] Data Guard Broker (Resource Guard) Worker Process
 RSMM	[DB] Betriebsstelle Sinsheim Museum (Hp)
 RSMN	[Oracle] Remote Slave Monitor Process
 RSN	real soon now
-RSN	Robust Security Network
+RSN	Robust Secure Network
 RSN	[IATA 3LC] Ruston Municipal Airport, Louisiana, United States of America
 RSNA	Robust Security Network Associations
 RSNA	[DB] Betriebsstelle Steinach (Baden) (Hp Awanst)
@@ -38007,6 +38024,7 @@ SLMG	[ICAO 7910] Magdalena, Magdalena, Bolivia
 SLN	[DB] Betriebsstelle Langenlonsheim (Bf)
 SLN	[IATA 3LC] Salina Municipal Airport, Kansas, United States of America
 SLN	[Kfz:D] Landkreis Schmölln
+SLO	service level objective
 SLO	[IATA 3LC] Salem-Leckrone Airport, Illinois, United States of America
 SLO	[IOC] Slovenia
 SLO	[Kfz] Slowenien
@@ -40415,7 +40433,8 @@ TIR	[IATA 3LC] Tirupati, India
 TIR	[Kfz:D] Landkreis Tirschenreuth
 TIS	Traktions-Informationssystem
 TIS	[IATA 3LC] Thursday Island, Queensland, Australia
-TISA	Trade in Service Agreement
+TISA	Abkommen über den Handel mit Dienstleistungen
+TISA	Trade in Services Agreement
 TISN	[DB] Betriebsstelle Isny (Bush)
 TIST	[ICAO 7910] King, St Thomas I/Charlotte Amalie, US Virgin Islands
 TISX	[ICAO 7910] Henry E Rohlsen, St Croix I, US Virgin Islands
@@ -43469,6 +43488,7 @@ VHD	virtual hard disc
 VHDCI	very high density cable interconnect
 VHDL	VHSIC Hardware Description Language
 VHDX	Windows Server 2012 Virtual Hard Drive
+VHEMT	Voluntary Human Extinction Movement
 VHF	very high frequency
 VHHH	[ICAO 7910] Hong Kong Intl Airport - Chep Lap Kok, Hong Kong, China
 VHM	[IATA 3LC] Vilhelmina, Sweden
@@ -45217,6 +45237,7 @@ WMOI	[DB] Betriebsstelle Moidentin (Hp)
 WMOO	[DB] Betriebsstelle Moor Abzw n Grubnow (Bush)
 WMP	Windows® Media Player
 WMP	[IATA 3LC] Mampikony, Madagascar
+WMQTT	WebSphere MQTT (now just MQTT) (cf. MQTT)
 WMR	[DB] Betriebsstelle Moor (Hp)
 WMR	[IATA 3LC] Mananara, Madagascar
 WMS	[Kfz:D] Landkreis Wolmirstedt
@@ -45376,6 +45397,7 @@ WOW	[DB] Betriebsstelle Ostseebad Wustrow Strandstraße (Bush)
 WOW	[IATA 3LC] Willow, Alaska, United States of America
 WOW	[ICAO 8585] Air Southwest, Großbritannien
 WOW B	[DB] Betriebsstelle Ostseebad Wustrow Strandstraße BEX (Bush)
+WOWEREIT	Und das ist auch gut so!
 WOZ	[DB] Betriebsstelle Ostseebad Zingst Strandstraße (Bush)
 WOZ E	[DB] Betriebsstelle Ostseebad Zingst Seestraße (Bush)
 WP	Wikipedia
@@ -48199,6 +48221,7 @@ XSEG	[DB] Betriebsstelle Eglisau (Bf)
 XSEM	[DB] Betriebsstelle Ermatingen (Bf)
 XSEMS	[DB] Betriebsstelle Ermatingen (Schiff) (Slst)
 XSEW	[DB] Betriebsstelle Etzwilen (Bf)
+XSF	XMPP Standards Foundation
 XSF	[DB] Betriebsstelle Fribourg (Bf)
 XSFE	[DB] Betriebsstelle Fehraltorf (Bf)
 XSFI	[DB] Betriebsstelle Filisur (Bf)
