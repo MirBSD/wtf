@@ -1,5 +1,5 @@
   à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž α/Α ε/Ε λ/Λ ο/Ο π/Π ς/Σ σ/Σ а/А б/Б в/В г/Г д/Д е/Е з/З и/И й/Й к/К л/Л м/М н/Н о/О п/П р/Р с/С т/Т у/У ф/Ф х/Х ц/Ц ш/Ш э/Э ю/Ю қ/Қ ա/Ա հ/Հ յ/Յ
- @(#)$MirOS: wtf/acronyms,v 1.579 2016/07/11 20:52:49 tg Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.580 2016/07/16 23:55:04 tg Exp $
  From $NetBSD: acronyms,v 1.246 2016/05/15 23:40:46 jnemeth Exp $
  From $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
  From $NetBSD: acronyms.comp,v 1.166 2016/05/31 23:15:05 jnemeth Exp $
@@ -404,7 +404,11 @@ $	[MORSE] ...-..- (not ITU-R)
 1	[MORSE] .----
 1 SOPS	First Space Operations Squadron
 1.3MP	1280x1024px
+100	[HTTP] Continue
 101	one-oh-one (basic introduction to something)
+101	[HTTP] Switching Protocols
+102	[HTTP] Processing
+103	[HTTP] Checkpoint (unofficial)
 1080I	1920x540px (interlaced)
 1080P	1920x1080px, cf. FHD
 10Q	thank you
@@ -464,9 +468,19 @@ $	[MORSE] ...-..- (not ITU-R)
 2 SOPS	Second Space Operations Squadron
 2-D	two-dimensional
 2.3MP	1920x1200px
+200	[HTTP] OK
+201	[HTTP] Created
+202	[HTTP] Accepted
+203	[HTTP] Non-Authoritative Information
+204	[HTTP] No Content
+205	[HTTP] Reset Content
+206	[HTTP] Partial Content
+207	[HTTP] Multi-Status
+208	[HTTP] Already Reported
 21	[dental] permanent upper left central incisor (FDI scheme)
 22	[dental] permanent upper left lateral incisor (FDI scheme)
 224	today, tomorrow, forever
+226	[HTTP] IM Used
 23	[dental] permanent upper left canine (FDI scheme)
 24	[dental] permanent upper left first premolar (FDI scheme)
 25	[dental] permanent upper left second premolar (FDI scheme)
@@ -524,6 +538,15 @@ $	[MORSE] ...-..- (not ITU-R)
 3	International Radiotelephony Spelling Alphabet: TERRATHREE
 3	[MORSE] ...--
 3-D	three-dimensional
+300	[HTTP] Multiple Choices
+301	[HTTP] Moved Permanently
+302	[HTTP] Found
+303	[HTTP] See Other
+304	[HTTP] Not Modified
+305	[HTTP] Use Proxy
+306	[HTTP] Switch Proxy
+307	[HTTP] Temporary Redirect
+308	[HTTP] Permanent Redirect
 31	[dental] permanent lower left central incisor (FDI scheme)
 31337	elite (“eleet”)
 32	[dental] permanent lower left lateral incisor (FDI scheme)
@@ -588,17 +611,60 @@ $	[MORSE] ...-..- (not ITU-R)
 4	International Radiotelephony Spelling Alphabet: KARTEFOUR
 4	[IATA 2LC] Antrak Air, Ghana
 4	[MORSE] ....-
+400	[HTTP] Bad Request
+401	[HTTP] Unauthorized
+402	[HTTP] Payment Required
+403	[HTTP] Forbidden
+404	[HTTP] Not Found
+405	[HTTP] Method Not Allowed
+406	[HTTP] Not Acceptable
+407	[HTTP] Proxy Authentication Required
+408	[HTTP] Request Timeout
+409	[HTTP] Conflict
 41	[dental] permanent lower right central incisor (FDI scheme)
+410	[HTTP] Gone
+411	[HTTP] Length Required
+412	[HTTP] Precondition Failed
+413	[HTTP] Payload Too Large
+414	[HTTP] URI Too Long
+415	[HTTP] Unsupported Media Type
+416	[HTTP] Range Not Satisfiable
+417	[HTTP] Expectation Failed
+418	[HTTP] I’m a teapot
 42	[dental] permanent lower right lateral incisor (FDI scheme)
+420	[HTTP] Enhance Your Calm (unofficial)
+420	[HTTP] Method Failure (unofficial)
+421	[HTTP] Misdirected Request
+422	[HTTP] Unprocessable Entity
+423	[HTTP] Locked
+424	[HTTP] Failed Dependency
+426	[HTTP] Upgrade Required
+428	[HTTP] Precondition Required
+429	[HTTP] Too Many Requests
 43	[dental] permanent lower right canine (FDI scheme)
+431	[HTTP] Request Header Fields Too Large
 44	[dental] permanent lower right first premolar (FDI scheme)
+440	[HTTP] Login Timeout (unofficial)
+444	[HTTP] No Response (unofficial)
+449	[HTTP] Retry With (unofficial)
 45	[dental] permanent lower right second premolar (FDI scheme)
 45 SPW	Forty Fifth Space Wing
+450	[HTTP] Blocked by Windows Parental Controls (unofficial)
+451	Fahrenheit 451, the temperature at which paper burns (232¾°C)
+451	[HTTP] Redirect (unofficial)
+451	[HTTP] Unavailable For Legal Reasons
 46	[dental] permanent lower right first molar (six-year molar) (FDI scheme)
 47	[dental] permanent lower right second molar (twelve-year molar) (FDI scheme)
 48	[dental] permanent lower right third molar (wisdom tooth) (FDI scheme)
 480DP	[Android] “tweener tablet”; mdpi (480x800px)
 480P	640×480px or 720×480px or 800×480 or 853.33×480px
+495	[HTTP] SSL Certificate Error (unofficial)
+496	[HTTP] SSL Certificate Required (unofficial)
+497	[HTTP] HTTP Request Sent to HTTPS Port (unofficial)
+498	[HTTP] Invalid Token (unofficial)
+499	[HTTP] Client Closed Request (unofficial)
+499	[HTTP] Request has been forbidden by antivirus (unofficial)
+499	[HTTP] Token Required (unofficial)
 4A	[IATA 2LC] Air Go Airlines, Griechenland
 4A	[IATA 2LC] Air Kiribati, Kiribati
 4A	[IATA 2LC] FS Air Service, USA
@@ -663,9 +729,29 @@ $	[MORSE] ...-..- (not ITU-R)
 5	International Radiotelephony Spelling Alphabet: PANTAFIVE
 5	[MORSE] .....
 50 SPW	Fiftieth Space Wing
+500	[HTTP] Internal Server Error
+501	[HTTP] Not Implemented
+502	[HTTP] Bad Gateway
+503	[HTTP] Service Unavailable
+504	[HTTP] Gateway Timeout
+505	[HTTP] HTTP Version Not Supported
+506	[HTTP] Variant Also Negotiates
+507	[HTTP] Insufficient Storage
+508	[HTTP] Loop Detected
+509	[HTTP] Bandwidth Limit Exceeded (unofficial)
 51	[dental] primary upper right central incisor (FDI scheme)
+510	[HTTP] Not Extended
+511	[HTTP] Network Authentication Required
 52	[dental] primary upper right lateral incisor (FDI scheme)
+520	[HTTP] Unknown Error (unofficial)
+521	[HTTP] Web Server Is Down (unofficial)
+522	[HTTP] Connection Timed Out (unofficial)
+523	[HTTP] Origin Is Unreachable (unofficial)
+524	[HTTP] A Timeout Occurred (unofficial)
+525	[HTTP] SSL Handshake Failed (unofficial)
+526	[HTTP] Invalid SSL Certificate (unofficial)
 53	[dental] primary upper right canine (FDI scheme)
+530	[HTTP] Site is frozen (unofficial)
 54	[dental] primary upper right first molar (FDI scheme)
 55	[dental] primary upper right second molar (FDI scheme)
 5A	[IATA 2LC] Alpine Air Express, USA
@@ -1217,6 +1303,7 @@ ABB	[ICAO 8585] Business Aviation, Zaïre
 ABB;DR	adblocker-blocker; didn’t read
 ABBG	[DB] Betriebsstelle Blocksberg (Bf)
 ABBK	[DB] Betriebsstelle Hamburg-Billbrook (Bf)
+ABBR	abbreviation
 ABC	(latin Alphabet)
 ABC	ABC music
 ABC	American Broadcasting Company
@@ -1623,6 +1710,7 @@ AE M	[DB] Betriebsstelle Hamburg-Eidelstedt Metropolitan (Tpp)
 AE N	[DB] Betriebsstelle Hamburg-Eidelstedt Gbf (En) (Bft)
 AE O	[DB] Betriebsstelle Hamburg-Eidelstedt Gbf (Eo) (Bft)
 AE R	[DB] Betriebsstelle Hamburg-Eidelstedt (Er Ii) (Bft)
+AEA	Abort Electronics Assembly
 AEA	[IATA 3LC] Abemama Atoll, Kiribati
 AEA	[ICAO 8585] Air Europa, Spanien
 AEAD	Authenticated Encryption with Associated Data (block cipher mode)
@@ -1826,6 +1914,7 @@ AGA	[IATA 3LC] Inezgane, Agadir (Al Massira), Morocco
 AGAS	[DB] Betriebsstelle Garstedt (Bf)
 AGB	[IATA 3LC] Muehlhausen, Augsburg, Germany
 AGB	[ICAO 8585] Air Service Gabon, Gabun
+AGC	Apollo Guidance Computer
 AGC	automatic gain control
 AGC	[IATA 3LC] Pittsburgh/Allegheny County, Pennsylvania, United States of America
 AGD	[DB] Betriebsstelle Garding (Hp)
@@ -1876,6 +1965,7 @@ AGR	[DB] Betriebsstelle Groß Schlamin (Bf)
 AGR	[IATA 3LC] Agra, India
 AGRD	[DB] Betriebsstelle Grabow (Kr Dannenberg) (Bush)
 AGRO	[DB] Betriebsstelle Großenbrode (Bf)
+AGS	Abort Guidance System
 AGS	amtlicher Gemeindeschlüssel
 AGS	[IATA 3LC] Augusta Regional/Bush Field, Augusta, Georgia, United States of America
 AGSA	[DB] Betriebsstelle Großenaspe (Bf)
@@ -3301,6 +3391,7 @@ ATSEP	Air Traffic Safety Electronics Personals (cf. IESSA)
 ATSO	[DB] Betriebsstelle Tarmstedt Ost (Bf)
 ATST	[DB] Betriebsstelle Tostedt (Bf)
 ATSW	[DB] Betriebsstelle Tostedt West (Bf)
+ATT	Bluetooth Attribute Protocol
 ATT	[IATA 3LC] Atmautluak Airport, Alaska, United States of America
 ATU	Auto-Teile Unger
 ATU	[IATA 3LC] Attu Island (Coast Guard Station), Alaska, United States of America
@@ -5051,6 +5142,7 @@ BLD G	[DB] Betriebsstelle Luckenwalde, Goethestraße (Bush)
 BLDC	brushless DC motor
 BLDC	bürstenloser Gleichstrommotor
 BLDN	[DB] Betriebsstelle Luckenwalde Nord (Üst)
+BLE	Bluetooth Low Energy
 BLE	[DB] Betriebsstelle Leuthen (b. Cottbus) (Bf)
 BLE	[IATA 3LC] Borlange Air Base, Sweden
 BLE	[ICAO 8585] Blue Line, Frankreich
@@ -7551,6 +7643,7 @@ CLZ	[IATA 3LC] Calabozo, Venezuela
 CLZ	[Kfz:D] Landkreis Zellerfeld
 CM	Client Module
 CM	Cm (PSE#96) Curium | Uran-Metalle (Aktiniden) | actinides | actinida
+CM	Command Module
 CM	community manager
 CM	configuration management
 CM	CyanogenMod
@@ -7934,6 +8027,7 @@ CRPA	Controlled Radiation Pattern Antenna
 CRQ	[IATA 3LC] Caravelas, Bahia, Brazil
 CRQ	[ICAO 8585] Air Creebec, Kanada
 CRR	[IATA 3LC] Ceres, Argentina
+CRS	Common Reporting Standard
 CRS	[IATA 3LC] Corsicana Municipal Airport, Texas, United States of America
 CRT	cathode ray tube
 CRT	Chinese remainder theorem
@@ -7999,6 +8093,7 @@ CSJ	[IATA 3LC] Cape St. Jacques, Vietnam
 CSK	Czechoslovak koruna (old ISO 4217 code)
 CSK	[IATA 3LC] Cap Skirring, Senegal
 CSL	[IATA 3LC] San Luis Obispo (National Guard), California, United States of America
+CSM	Command/Service Module
 CSM	EFI Compatibility Support Module
 CSM	[IATA 3LC] Clinton-Sherman Airport, Oklahoma, United States of America
 CSMA	carrier sense multiple access
@@ -10974,6 +11069,7 @@ E161B	Lutein [F]
 E161G	Canthaxanthin [F]
 E162	Beetenrot [F]
 E163	Anthocyane [F]
+E164	[ITU-T] The international public telecommunication numbering plan
 E170	Calciumcarbonate [F, TM, SR]
 E171	Titandioxid [F]
 E172	Eisenoxide und -hydroxide [F]
@@ -12567,6 +12663,7 @@ EIDRM	(#88) Identifier removed
 EIDW	[ICAO 7910] Dublin Intl Airport, Dublin, Ireland
 EIE	enough is enough
 EIE	[IATA 3LC] Enisejsk, Russia
+EIEIO	(glibc) Go home and have a glass of warm, dairy-fresh milk
 EIGW	[DB] Betriebsstelle Irmgarteichen-Werthenbach (Bf)
 EIH	[IATA 3LC] Einasleigh, Queensland, Australia
 EIH	[Kfz:D] Landkreis Eichstätt
@@ -13064,6 +13161,7 @@ ENTO	[ICAO 7910] Sandefjord Airport, Sandefjord, Norway
 ENTP	[Myers-Briggs personality type] Extraversion (relating to others) iNtuition (information taking) Thinking (decision making) Perceiving (life order)
 ENTS	[DB] Betriebsstelle Netphen (Sieg) (Bf)
 ENU	[IATA 3LC] Enugu, Nigeria
+ENUM	E.164 Number Mapping (cf. E.164)
 ENUO	[DB] Betriebsstelle Nuttlar Ost (Bk)
 ENUT	[DB] Betriebsstelle Nuttlar (Abzw)
 ENV	envelope
@@ -13448,6 +13546,7 @@ ESL	[ICAO 8585] Russian Sky Airlines, Rußland
 ESM	[IATA 3LC] Esmeraldas (General Rivadeneira), Ecuador
 ESMA	[DB] Betriebsstelle Selmig (Abzw) (Abzw)
 ESMD	[DB] Betriebsstelle Scharmede (Hp)
+ESME	external short messaging entities
 ESMG	[DB] Betriebsstelle Selmig (Bf)
 ESMGA	[DB] Betriebsstelle Selmig (Abzw) (Abzw)
 ESMH	[DB] Betriebsstelle Schmehausen (Bf)
@@ -15864,6 +15963,7 @@ FQNP	[ICAO 7910] Nampula, Nampula, Mozambique
 FQPB	[ICAO 7910] Pemba, Pemba, Mozambique
 FQQL	[ICAO 7910] Quelimane, Quelimane, Mozambique
 FQT	[IATA 3LC] Merville/Calonne, France
+FQTN	Fully Qualified Telephone Number (cf. ENUM)
 FQTT	[ICAO 7910] Chingozi, Tete, Mozambique
 FQU	[DB] Betriebsstelle Quotshausen (Tp)
 FQVL	[ICAO 7910] Vilankulu, Vilankulu, Mozambique
@@ -16744,6 +16844,7 @@ GAT	Guten Abend Ticket
 GAT	[IATA 3LC] Gap, France
 GATB	[ICAO 7910] Tombouctou, Tombouctou, Mali
 GATS	General Agreement on Trade in Services
+GATT	Bluetooth Generic Attribute Protocol
 GATT	General Agreement on Tariffs and Trade
 GAU	[IATA 3LC] Guwahati, India
 GAV	[IATA 3LC] Gag Island, Indonesia
@@ -17085,6 +17186,7 @@ GH	[Kfz] Ghana
 GHA	[FIFA] Ghana
 GHA	[IATA 3LC] Ghardaia (Noumerate), Algeria
 GHA	[Kfz:D] Landkreis Geithain
+GHB	Gammahydroxybuttersäure (Liquid Ecstasy, Betäubungsmittel)
 GHB	[IATA 3LC] Governors Harbour, Eleuthera, Bahamas
 GHB	[ICAO 8585] Ghana International Airlines, Ghana
 GHC	Ghanaian cedi (old ISO 4217 code)
@@ -20469,6 +20571,7 @@ ICD	Interface Control Document
 ICD	international statistical classification of diseases and related health problems
 ICD	internationale statistische Klassifikation der Krankheiten und verwandter Gesundheitsprobleme
 ICD	[ICAO 8585] Icaro Air, Ecuador
+ICE	In Case of Emergency
 ICE	in-circuit emulator
 ICE	Intercity-Expreß
 ICE	internal compiler error
@@ -20632,6 +20735,7 @@ IGB	[IATA 3LC] Ingeniero Jacobacci, Argentina
 IGB	[Kfz:D] Stadt St. Ingbert im Saar-Pfalz-Kreis
 IGCD	International Geocaching Day
 IGD	Institut für Graphische Datenverarbeitung
+IGD	intel graphics device aka die intergrierte gpu von intel
 IGD	Internet gateway device
 IGE	Eidgenössisches Institut für Geistiges Eigentum
 IGE	Immunglobulin E
@@ -20820,6 +20924,7 @@ IMX	[ICAO 8585] Zimex Aviation, Schweiz
 IMZ	disc image, compressed
 IMZ	[IATA 3LC] Nimroz, Afghanistan
 IN	I (RAF 1942/1943 Spelling Alphabet)
+IN	Im Notfall
 IN	In (PSE#49) Indium | Erdmetalle (Borgruppe) | boron group
 IN	[ccTLD] Indien
 IN	[DNS] CLASS 1: Internet
@@ -24881,6 +24986,7 @@ LER	[IATA 3LC] Leinster, Western Australia, Australia
 LER	[ICAO 8585] LASER Airlines, Venezuela
 LER	[Kfz:D] Landkreis Leer
 LERS	[ICAO 7910] Reus Airport, Reus, Tarragona, Spain
+LES	Launch Escape System
 LES	[FIFA] Lesotho
 LES	[IATA 3LC] Lesobeng, Lesotho
 LESA	[ICAO 7910] Salamanca Airport (Mil./Civil), Salamanca, Spain
@@ -25795,6 +25901,7 @@ LLZG	[DB] Betriebsstelle Letzlingen (Bf)
 LM	LAN Manager
 LM	Leuchtmelder
 LM	long mode
+LM	Lunar Module
 LM	Löschmeister
 LM	[DB] Betriebsstelle Magdeburg Hbf (Bf)
 LM	[IATA 2LC] Air ALM, Niederländische Antillen
@@ -26765,6 +26872,7 @@ LVB	[IATA 3LC] Santana do Livramento, Rio Grande do Sul, Brazil
 LVD	[DB] Betriebsstelle Vogelsdorf (Hp)
 LVD	[IATA 3LC] Lime Village Airport, Alaska, United States of America
 LVD	[SCSI] low voltage differential
+LVDC	Launch Vehicle Digital Computer
 LVG	Landesverfassungsgericht
 LVG	Landsberger Verkehrsgemeinschaft
 LVG	[DB] Betriebsstelle Vinzelberg (Bf)
@@ -27652,6 +27760,7 @@ MDLI	[ICAO 7910] La Isabela Intl Airport, Santo Domingo, Dominican Republic
 MDLR	[ICAO 7910] La Romana Intl Airport, La Romana, Dominican Republic
 MDM	[IATA 3LC] Munduku, Papua New Guinea
 MDM	[ICAO 8585] Medavia, Malta
+MDMA	3,4-Methylendioxy-N-methylamphetamin (Ecstasy)
 MDN	ASN.1 macro definition notation
 MDN	[IATA 3LC] Madison Municipal Airport, Indiana, United States of America
 MDNG	[DB] Betriebsstelle Deiningen (b. Nördlingen) (Anst)
@@ -28161,6 +28270,7 @@ MI5	Military Intelligence, Section 5 (Security Service, Secret Service Bureau)
 MI6	Military Intelligence, Section 6 (cf. SIS)
 MIA	missing in action
 MIA	[IATA 3LC] Miami International, Florida, United States of America
+MIAOW	many-core integrated accelerator of waterdeep/wisconsin – http://www.miaowgpu.org/
 MIB	management information base
 MIB	Meiringen-Innertkirchen Bahn
 MIB	Men In Black
@@ -32431,6 +32541,7 @@ OB	[Kfz:D] kreisfreie Stadt Oberhausen
 OBA	[IATA 3LC] Oban, Queensland, Australia
 OBB	[Kfz:D] Landkreis Obernburg am Main
 OBBI	[ICAO 7910] Bahrain Intl Airport, Bahrain, Bahrain
+OBC	on-board computer
 OBC	[IATA 3LC] Obock, Djibouti
 OBCZ	Official BookCrossing Zone
 OBD	On-Board-Diagnose
@@ -32460,6 +32571,7 @@ OBS	OpenSuSE Buildservice
 OBS	[IATA 3LC] Aubenas, France
 OBSD	OpenBSD
 OBT	[IATA 3LC] Oakland (Coliseum Street), California, United States of America
+OBU	on-board unit
 OBU	[IATA 3LC] Kobuk Airport, Alaska, United States of America
 OBV	objects by value
 OBV	obviously
@@ -35624,6 +35736,7 @@ RCKH	[ICAO 7910] Kaohsiung Intl Airport, Kaohsiung City, Taiwan
 RCL	rotate left through carry
 RCL	[IATA 3LC] Redcliffe, Vanuatu
 RCL	[Kfz] Kongo-Leopoldville (veraltet)
+RCM	Royal Court Magician
 RCM	[IATA 3LC] Richmond, Queensland, Australia
 RCN	[IATA 3LC] American River, South Australia, Australia
 RCO	[IATA 3LC] Rochefort, France
@@ -35707,6 +35820,7 @@ RE	Re (PSE#75) Rhenium | Übergangsmetalle | transition metals | metalla transit
 RE	Regional-Expreß
 RE	regular expression - https://www.mirbsd.org/man7/re_format
 RE	reply to eMail (normally Re:)
+RE	routing entities
 RE	Royal Engineers
 RE	[ccTLD] Réunion
 RE	[DB] Betriebsstelle Eichstetten (Bf)
@@ -38956,6 +39070,7 @@ SL	[Kfz:D] Kreis Schleswig-Flensburg
 SL	[Kfz] Syrien und Libanon (veraltet)
 SLA	Service Level Agreement
 SLA	slave
+SLA	Spacecraft Lunar Module Adapter
 SLA	[IATA 3LC] Salta, Argentina
 SLA	[ICAO 8585] Sierra National Airlines, Sierra Leone
 SLAAC	statless address autoconfiguration
@@ -39175,6 +39290,7 @@ SMP	symmetric multiprocessing
 SMP	Unicode Supplementary Multilingual Plane
 SMP	[IATA 3LC] Stockholm, Papua New Guinea
 SMPA	[ICAO 7910] Vincent Faiks, Paloemeu, Suriname
+SMPP	short message peer-to-peer
 SMPPL	[SPDX] Secure Messaging Protocol Public Licence – http://spdx.org/licenses/SMPPL.html
 SMQ	[IATA 3LC] Sampit, Borneo, Indonesia
 SMR	Satellit mit Rangiermitteln (eigene Rangierlok)
@@ -41723,6 +41839,7 @@ TLU E	[DB] Betriebsstelle Ludwigsburg Gw (Bft)
 TLUA	[DB] Betriebsstelle Ludwigsburg Apotheken-Einkauf (Anst)
 TLUL	[DB] Betriebsstelle Ludwigsburg Lotter (Anst)
 TLUM	[DB] Betriebsstelle Ludwigsburg Mann & Hummel (Anst)
+TLV	Tag-Length-Value
 TLV	Type-Length-Value
 TLV	[IATA 3LC] Tel Aviv, Israel
 TLW	[DB] Betriebsstelle Laupheim West (Bf)
@@ -42184,6 +42301,8 @@ TRP	[IATA 3LC] Tree Point, Alaska, United States of America
 TRQ	[IATA 3LC] Tarauaca, Acre, Brazil
 TRR	[DB] Betriebsstelle Rottenacker (Bf)
 TRR	[IATA 3LC] Trincomalee, Sri Lanka
+TRRS	Tip-Ring-Ring-Sleeve connector (Stereo-Klinkenstecker mit Zusatzkontakt)
+TRS	Tip-Ring-Sleeve connector (Stereo-Klinkenstecker)
 TRS	[DB] Betriebsstelle Rot am See (Bf)
 TRS	[IATA 3LC] Trieste (Ronchi dei Legionari), Italy
 TRS	[ICAO 8585] AirTran Airways, USA
@@ -42223,6 +42342,7 @@ TS	Tenorsaxophon
 TS	terminal services
 TS	time series
 TS	time stamp
+TS	Tip-Sleeve connector (Mono-Klinkenstecker)
 TS	Tragkraftspritze
 TS	transport stream
 TS	[AUS] Tasmania (old; new: TAS)
