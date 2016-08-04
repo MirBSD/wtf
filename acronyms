@@ -1,5 +1,5 @@
   à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž α/Α ε/Ε λ/Λ ο/Ο π/Π ς/Σ σ/Σ а/А б/Б в/В г/Г д/Д е/Е з/З и/И й/Й к/К л/Л м/М н/Н о/О п/П р/Р с/С т/Т у/У ф/Ф х/Х ц/Ц ш/Ш э/Э ю/Ю қ/Қ ա/Ա հ/Հ յ/Յ
- @(#)$MirOS: wtf/acronyms,v 1.581 2016/08/01 21:18:11 tg Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.582 2016/08/04 21:23:02 tg Exp $
  From $NetBSD: acronyms,v 1.249 2016/07/21 05:07:04 dholland Exp $
  From $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
  From $NetBSD: acronyms.comp,v 1.166 2016/05/31 23:15:05 jnemeth Exp $
@@ -1204,6 +1204,7 @@ AA K	[DB] Betriebsstelle Hamburg-Altona Gbf (Ak) (Bft)
 AA N	[DB] Betriebsstelle Hamburg-Altona (An) (Bft)
 AA P	[DB] Betriebsstelle Hamburg-Altona (Ap) (Bft)
 AA W	[DB] Betriebsstelle Hamburg-Altona Kai (Bft)
+AAA	(rating) top of the line, high quality, among the year’s bestsellers
 AAA	authentication, authorisation, and accounting
 AAA	Micro-Batterie
 AAA	[EDU] akademisches Auslandsamt
@@ -6549,6 +6550,7 @@ BYOB	bring your own {beer,booze}
 BYOD	bring your own device
 BYOP	[GPSH] bring your own pen{,cil}
 BYOR	[DB] Betriebsstelle Berlin Yorckstraße (Hp)
+BYOW	bring your own Wurst
 BYQ	[IATA 3LC] Bunyu, Indonesia
 BYR	Belarusian ruble (ISO 4217 code)
 BYS	[IATA 3LC] Bicycle Lake Army Air Field, California, United States of America
@@ -7164,6 +7166,7 @@ CER3	[ICAO 7910] Industrial, Drayton Valley, Alberta, Canada
 CERN	Conseil Européen pour la Recherche Nucléaire
 CERN	European Council for Nuclear Research
 CERT	[RR] certificate (37)
+CES	Consumer Electronics Show
 CES	[IATA 3LC] Cessnock, New South Wales, Australia
 CES	[ICAO 8585] China Eastern Airlines, China
 CEST	[TZif] Africa/Ceuta (DST)
@@ -7318,6 +7321,7 @@ CGA	[IATA 3LC] Craig Seaplane Base, Alaska, United States of America
 CGB	[IATA 3LC] Cuiaba, Mato Grosso, Brazil
 CGC	[IATA 3LC] Cape Gloucester, Papua New Guinea
 CGD	[IATA 3LC] Changde, China
+CGDC	Computer Game Developers Conference (cf. GDC)
 CGE	[IATA 3LC] Cambridge-Dorchester Airport, Maryland, United States of America
 CGF	charging gateway function
 CGF	[IATA 3LC] Cleveland (Cuyahoga County), Ohio, United States of America
@@ -11140,6 +11144,8 @@ E297	Fumarsäure [S]
 E2BIG	(#7) Argument list too long
 E2E	end to end
 E2E	end-to-end encryption (Gajim, Jabber)
+E3	Electronic Entertainment Expo
+E3	WordStar™- and jupp-compatible editor written in x86 asm
 E3	[IATA 2LC] Domodedovo Airlines, Rußland
 E3	[IATA 2LC] New Gen Airways, Thailand
 E300	(L-)Ascorbinsäure [A, FS, S, M, Vit]
@@ -12935,6 +12941,7 @@ EMCH	[DB] Betriebsstelle Müschede (Bf)
 EMCON	Emission Control
 EMD	[IATA 3LC] Emerald, Queensland, Australia
 EMD	[Kfz:D] kreisfreie Stadt Emden
+EMDASH	‘ — ’ surrounded by hair spaces (U+2014)
 EMDW	[DB] Betriebsstelle Marl-Drewer (Hp)
 EME	Encrypted Media Extensions (cf. DRM)
 EME	[IATA 3LC] Emden, Germany
@@ -13043,6 +13050,7 @@ ENCFS	encrypted filesystem
 ENCH	[DB] Betriebsstelle Nachrodt (Bf)
 ENCN	[ICAO 7910] Kristiansand Airport, Kristiansand, Norway
 END	[IATA 3LC] Enid (Vance Air Force Base), Oklahoma, United States of America
+ENDASH	‘–’, also for number ranges (U+2013)
 ENDE	[DB] Betriebsstelle Niedereimer (Bf)
 ENDI	[DB] Betriebsstelle Niederdielfen (Bf)
 ENDI	[ICAO 7910] Geilo Airport, Geilo, Norway
@@ -15157,6 +15165,7 @@ FIF	[Kfz] Französisch-Indien (veraltet)
 FIFA	Fédération Internationale de Football Association
 FIFO	first in, first out
 FIFY	fixed it for you
+FIG	figure
 FIG	[IATA 3LC] Fria, Guinea
 FIGJAM	fuck I’m good, just ask me
 FIGS	[GPSH] found in good shape
@@ -16986,6 +16995,7 @@ GDA	Guideline Daily Amount
 GDA	[IATA 3LC] Gounda, Central African Republic
 GDB	[Kfz:D] Landkreis Gadebusch
 GDBM	GNU dbm (cf. dbm)
+GDC	Game Developers Conference
 GDC	[IATA 3LC] Greenville (Donaldson Center), South Carolina, United States of America
 GDD	[IATA 3LC] Gordon Downs, Western Australia, Australia
 GDE	[IATA 3LC] Gode, Ethiopia
@@ -17559,6 +17569,7 @@ GP	[Kfz:D] Landkreis Göppingen
 GP3	Guitar Pro
 GP4	Guitar Pro
 GP5	Guitar Pro
+GPA	grade point average
 GPA	[IATA 3LC] Araxos, Patras, Greece
 GPB	Güteprüfbezirk
 GPB	[IATA 3LC] Guarapuava, Paraná, Brazil
@@ -19661,6 +19672,7 @@ HOSC	[DB] Betriebsstelle Ostercappeln (Bf)
 HOSS	[DB] Betriebsstelle Osterholz-Scharmbeck (Bf)
 HOSW	[DB] Betriebsstelle Ostenwalde (Bf)
 HOT	Head of Technology
+HOT	heap-only tuple
 HOT	High Occupancy Toll (lane)
 HOT	[IATA 3LC] Hot Springs Memorial Field
 HOT	[Kfz:D] Landkreis Hohenstein-Ernstthal
@@ -21676,6 +21688,7 @@ JHM	[IATA 3LC] Kapalua-West Maui Airport, Hawaii, United States of America
 JHMD	Jindřichohradecké místní dráhy (Jindřichův Hradec Local Railways)
 JHQ	[IATA 3LC] Shute Harbour, Queensland, Australia
 JHS	[IATA 3LC] Holsteinsborg, Greenland
+JHV	Jahreshauptversammlung
 JHW	[IATA 3LC] Jamestown (Chautauqua County), New York, United States of America
 JHY	[IATA 3LC] Cambridge, Massachusetts, United States of America
 JI	[IATA 2LC] Jade Cargo International, China
@@ -30426,6 +30439,7 @@ NBCA	National PKI Bridge CA
 NBD	network block device
 NBD	no big deal
 NBD	[DB] Betriebsstelle Baiersdorf (Bf)
+NBDASH	‘‑’ (U+2011), use like: (Maschinen‑)Benutzername
 NBDO	[DB] Betriebsstelle Bärndorf (B Bogen) (Tp)
 NBE	Nordbahn Eisenbahngesellschaft mbH
 NBE	[DB] Betriebsstelle Beratzhausen (Bf)
@@ -34035,6 +34049,7 @@ PHP	prophylactic halfwit predator
 PHP	[IATA 3LC] Philip Airport, South Dakota, United States of America
 PHP-3.0	[SPDX] PHP Licence v3.0 – http://spdx.org/licenses/PHP-3.0.html
 PHP-3.01	[SPDX] PHP Licence v3.01 – http://spdx.org/licenses/PHP-3.01.html
+PHP-FIG	PHP Framework Interop Group
 PHR	[IATA 3LC] Pacific Harbour, Fiji
 PHS	[IATA 3LC] Phitsanulok, Thailand
 PHT	[IATA 3LC] Paris (Henry County Airport), Tennessee, United States of America
@@ -34553,6 +34568,7 @@ PRINZIP	Projekt Instandhaltung durch zentralgesteuerte Prozesse
 PRIV	private
 PRJ	Project
 PRJ	[IATA 3LC] Capri, Italy
+PRK	photorefraktive Keratektomie
 PRK	[FIFA] North Korea
 PRL	preferred roaming list
 PRL	[IATA 3LC] Port Oceanic, Alaska, United States of America
@@ -34771,6 +34787,7 @@ PSP	PlayStation Portable
 PSP	[IATA 3LC] Palm Springs Municipal, California, United States of America
 PSP0	[Oracle] Process Spawner Process
 PSQ	[IATA 3LC] Essington (Philadelphia Seaplane Base), Pennsylvania, United States of America
+PSR	PHP Standard Recommendation
 PSR	[IATA 3LC] Pescara, Italy
 PSS	Planumsschutzschicht
 PSS	[IATA 3LC] Posadas, Argentina
@@ -38365,6 +38382,7 @@ SE	Software Engineer
 SE	some errors
 SE	spin echo
 SE	StackExchange
+SE	status epilepticus
 SE	Structural Engineering
 SE	Support Engineer
 SE	Systementwicklung
@@ -39699,6 +39717,8 @@ SPJN	[ICAO 7910] San Juan De Marcona, San Juan De Marcona, Peru
 SPJR	[ICAO 7910] Gen Armando Revoredo Iglesias, Cajamarca, Peru
 SPK	Klima-Schneepflug
 SPK	[IATA 3LC] Saporro (Chitose), Japan
+SPKAC	signed public key and challenge (Netscape SPKI)
+SPKI	(cf. SPKAC)
 SPL	secondary program loader
 SPL	Sonderplan
 SPL	[IATA 3LC] Amsterdam (Schiphol), Netherlands
@@ -45148,6 +45168,7 @@ VRT	Vlaamse Radio- en Televisieomroep
 VRU	[IATA 3LC] Vryburg, South Africa
 VRW	Vorausrüstwagen
 VRY	[IATA 3LC] Vaeroy, Norway
+VS	Microsoft® Visual Studio
 VS	Steuerwagen zu Verbrennungstriebwagen
 VS	versus (against, gegen)
 VS	[CH] de, de-CH: Wallis
