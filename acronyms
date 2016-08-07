@@ -1,5 +1,5 @@
   à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž α/Α ε/Ε λ/Λ ο/Ο π/Π ς/Σ σ/Σ а/А б/Б в/В г/Г д/Д е/Е з/З и/И й/Й к/К л/Л м/М н/Н о/О п/П р/Р с/С т/Т у/У ф/Ф х/Х ц/Ц ш/Ш э/Э ю/Ю қ/Қ ա/Ա հ/Հ յ/Յ
- @(#)$MirOS: wtf/acronyms,v 1.582 2016/08/04 21:23:02 tg Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.583 2016/08/07 22:50:31 tg Exp $
  From $NetBSD: acronyms,v 1.249 2016/07/21 05:07:04 dholland Exp $
  From $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
  From $NetBSD: acronyms.comp,v 1.166 2016/05/31 23:15:05 jnemeth Exp $
@@ -13243,6 +13243,8 @@ EOLP	[DB] Betriebsstelle Olpe (Bf)
 EOLS	[DB] Betriebsstelle Olsberg (Hp)
 EOLT	[DB] Betriebsstelle Oldentrup (Hp)
 EOM	end of message
+EOMA	easy on Mother Earth
+EOMA	embedded open modular architecture
 EOND	[DB] Betriebsstelle Ondrup (Bk)
 EOP	Elevation of Privilege
 EOP	[DB] Betriebsstelle Ochtrup (Bf)
@@ -16896,6 +16898,7 @@ GBA	[ICAO 8585] Gulf Air Bahrain, Bahrain
 GBA	[Kfz] Alderney
 GBANZ	Gebührenanzeiger
 GBB	[IATA 3LC] Gara Djebilet, Algeria
+GBBO	The Great British Bake Off
 GBC	[IATA 3LC] Gasuke, Papua New Guinea
 GBD	[IATA 3LC] Great Bend Municipal Airport, Kansas, United States of America
 GBE	[IATA 3LC] Gaborone (Sir Seretse Khama), Botswana
@@ -33963,6 +33966,7 @@ PFS	Amiga Professional File System
 PFS	perfect forward secrecy
 PFX	[GPSH] Letterboxes Planted, Found and eXchanges made with other Letterboxers
 PFY	pimply faced youth
+PFY	printed for you
 PFZ	Post- und Fernmeldetechnisches Zentralamt (cf. FTZ)
 PFÜB	Pfändungs- und Überweisungsbeschluß
 PG	[ccTLD] Papua-Neuguinea
@@ -34122,6 +34126,7 @@ PIU	[IATA 3LC] Piura, Peru
 PIV	personal identity verification
 PIW	[IATA 3LC] Ping Tung, Taiwan
 PIX	[IATA 3LC] Pico Island, Azores, Portugal
+PIY	print it yourself
 PIYO	(japanese metasyntactic variable)
 PIZ	[IATA 3LC] Point Lay, Alaska, United States of America
 PIZZ	pizzicato
