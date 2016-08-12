@@ -1,8 +1,8 @@
   à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž α/Α ε/Ε λ/Λ ο/Ο π/Π ς/Σ σ/Σ а/А б/Б в/В г/Г д/Д е/Е з/З и/И й/Й к/К л/Л м/М н/Н о/О п/П р/Р с/С т/Т у/У ф/Ф х/Х ц/Ц ш/Ш э/Э ю/Ю қ/Қ ա/Ա հ/Հ յ/Յ
- @(#)$MirOS: wtf/acronyms,v 1.583 2016/08/07 22:50:31 tg Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.584 2016/08/12 19:57:42 tg Exp $
  From $NetBSD: acronyms,v 1.249 2016/07/21 05:07:04 dholland Exp $
  From $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
- From $NetBSD: acronyms.comp,v 1.166 2016/05/31 23:15:05 jnemeth Exp $
+ From $NetBSD: acronyms.comp,v 1.167 2016/08/11 02:42:28 ginsbach Exp $
  From $NetBSD: airport,v 1.63 2016/06/08 04:25:31 kre Exp $
  From $OpenBSD: airport,v 1.56 2016/07/10 13:52:27 schwarze Exp $
  From github: othyro/wtfubar refs/tags/wtfubar-2.4.0
@@ -2168,6 +2168,8 @@ AII	[IATA 3LC] Ali Sabieh, Djibouti
 AIJ	[ICAO 8585] Interjet, Mexiko
 AIK	[IATA 3LC] Aiken Municipal Airport, South Carolina, United States of America
 AIL	[IATA 3LC] Ailigandi, Panama
+AIM	Advanced Idea Mechanics
+AIM	AOL Instant Messenger
 AIM	Autonomous Integrity Monitoring
 AIM	[IATA 3LC] Ailuk, Ine Island, Marshall Islands
 AIMS	Air Traffic Control Radar Beacon System Identification of Friend or Foe
@@ -3070,6 +3072,7 @@ ARMMC	[DB] Betriebsstelle Rantum (Sylt) Campingplatz (Bush)
 ARMMH	[DB] Betriebsstelle Rantum (Sylt) Seeheim (Bush)
 ARMMN	[DB] Betriebsstelle Rantum (Sylt) Nord (Bush)
 ARMMS	[DB] Betriebsstelle Rantum (Sylt) Süd (Bush)
+ARMOR	Altered-Reality Monitoring and Operational Response
 ARN	[IATA 3LC] Arlanda Airport, Stockholm, Sweden
 ARN	[Kfz:D] Landkreis Arnstadt
 ARO	[IATA 3LC] Arboletas, Colombia
@@ -5611,6 +5614,7 @@ BPDC	[DB] Betriebsstelle Potsdam Charlottenhof (Hp)
 BPDCH	[DB] Betriebsstelle Potsdam Charlottenhof HVG Linie 631 (Bush)
 BPDP	[DB] Betriebsstelle Potsdam Pirschheide (Bf)
 BPDPU	[DB] Betriebsstelle Potsdam Pirschheide unterer Bahnhof (Bft)
+BPDU	bridge protocol data unit
 BPE	[DB] Betriebsstelle Petershain (Hp)
 BPEN	[DB] Betriebsstelle Petershagen Nord (Hp)
 BPET	[DB] Betriebsstelle Petersdorf (Kr Fürstenwalde/Spree) (Hp)
@@ -7064,6 +7068,7 @@ CDNSKEY	[RR] Child DNSKEY (60)
 CDNU	Control Display Navigation Unit
 CDO	Controlled Designation of Origin (cf. AOC) (cf. DOC)
 CDO	[IATA 3LC] Cradock, South Africa
+CDP	cisco discovery protocol
 CDP	[IATA 3LC] Cuddapah, India
 CDP	[ICAO 8585] Aero Cóndor Perú, Perú
 CDQ	[IATA 3LC] Croydon, Queensland, Australia
@@ -10523,6 +10528,7 @@ DSA	[DB] Betriebsstelle Bad Schandau (Bf)
 DSA K	[DB] Betriebsstelle Bad Schandau (Kirnitzschtalbahn) (Hp)
 DSA S	[DB] Betriebsstelle Bad Schandau (Schiff) (Slst)
 DSAA	[DB] Betriebsstelle Saara (Abzw)
+DSAP	destination service access point
 DSAU	[DB] Betriebsstelle Seidau (Spreetalbahn) (Awanst)
 DSAZ	[DB] Betriebsstelle Bad Schandau II (Emst)
 DSB	Danske Statsbaner (Danish State Railways)
@@ -12669,6 +12675,7 @@ EIAW	[DB] Betriebsstelle Isselhorst-Avenwedde Anst (Awanst Bk)
 EIB	Eisenbahner im Betriebsdienst
 EIB	Erfurter Industriebahn
 EIBO	[DB] Betriebsstelle Ibbenbüren Ost (Bf)
+EIC	editor-in-chief
 EIC	[Kfz:D] Landkreis Eichsfeld
 EICA	[ICAO 7910] Connemara Regional Airport, Inverin, Ireland
 EICIS	European Infrastructure Charging Information
@@ -13857,6 +13864,7 @@ EURCO	European Composite Unit
 EUROB	Eurobahn - Rhenus Keolis GmbH & Co. KG
 EUROCAE	European Organisation for Civil Aviation Electronics
 EUROCONTROL	European Organisation for the Safety of Air Navigation
+EUROMIND	European Monitoring Investigation and Enforcement Division
 EUROSYM	[SPDX] Eurosym Licence – http://spdx.org/licenses/Eurosym.html
 EUSERS	(#68) Too many users
 EUT	[Kfz:D] Kreis Eutin
@@ -16343,33 +16351,35 @@ FTSE	Financial Times Stock Exchange (“Footsie”)
 FTSF	[DB] Betriebsstelle Treysa Freudenberg (Anst)
 FTT	[IATA 3LC] Fulton, Missouri, United States of America
 FTTA	[ICAO 7910] Sarh, Sarh, Chad
-FTTB	Fibre to the Building (Glasfaser bis ins Haus)
+FTTB	fibre to the building (Glasfaser bis ins Haus)
 FTTB	[ICAO 7910] Bongor, Bongor, Chad
-FTTC	Fibre to the Cabinet
-FTTC	Fibre to the Kerb (Glasfaser bis zum Kabelverzweiger)
+FTTC	fibre to the cabinet
+FTTC	fibre to the kerb (Glasfaser bis zum Kabelverzweiger)
 FTTC	[ICAO 7910] Abeche, Abeche, Chad
-FTTD	Fibre to the Desktop
-FTTD	Fibre to the Door (Glasfaser bis ans Haus)
+FTTD	fibre to the desktop
+FTTD	fibre to the door (Glasfaser bis ans Haus)
 FTTD	[ICAO 7910] Moundou, Moundou, Chad
-FTTDP	Fibre to the Distribution Point (bis auf wenige Meter ans Haus ran)
-FTTE	Fibre to the telecom enclosure
+FTTDP	fibre to the distribution point (bis auf wenige Meter ans Haus ran)
+FTTE	fibre to the telecom enclosure
+FTTH	fibre to the home
+FTTH	fibre to the house
 FTTH	[ICAO 7910] Lai, Lai, Chad
 FTTI	[ICAO 7910] Ati, Ati, Chad
 FTTJ	[ICAO 7910] N'Djamena, N'Djamena, Chad
-FTTK	Fibre to the Kerb (cf. FTTC)
+FTTK	fibre to the kerb (cf. FTTC)
 FTTK	[ICAO 7910] Bokoro, Bokoro, Chad
 FTTL	[ICAO 7910] Berim, Bol, Chad
-FTTLA	Fibre to the last Amplifier (cf. FTTN)
+FTTLA	fibre to the last amplifier (cf. FTTN)
 FTTM	[ICAO 7910] Mongo, Mongo, Chad
-FTTN	Fibre to the Node (letzte Meile Kupfer)
+FTTN	fibre to the node (letzte Meile Kupfer)
 FTTN	[ICAO 7910] Am-Timan, Am-Timan, Chad
-FTTP	Fibre to the Premises (FTTH and FTTB blanket term)
+FTTP	fibre to the premises (FTTH and FTTB blanket term)
 FTTP	[ICAO 7910] Pala, Pala, Chad
 FTTS	[ICAO 7910] Bousso, Bousso, Chad
 FTTT	from time to time
 FTTU	[ICAO 7910] Mao, Mao, Chad
 FTTY	[ICAO 7910] Faya Largeau, Faya Largeau, Chad
-FTTZ	Fibre to the Zone
+FTTZ	fibre to the zone
 FTU	[IATA 3LC] Fort Dauphin, Madagascar
 FTV	[IATA 3LC] Masvingo, Zimbabwe
 FTW	for the win
@@ -16779,6 +16789,7 @@ G	[Kfz] Guatemala (veraltet)
 G	[MORSE] --.
 G 25	Arbeitsmedizinischer Grundsatz 25 (Fahr- und Überwachungstauglichkeit)
 G 26.3	Arbeitsmedizinischer Grundsatz 26 (Atemschutzuntersuchung)
+G,D&R	grin, duck, and run
 G/C	garbage collect
 G/C	garbage collection
 G0	[IATA 2LC] Ghana International Airlines, Ghana
@@ -16994,6 +17005,7 @@ GD	[ISO 3166] Grenada
 GD	[Kfz:A] Diplomatisches Korps in der Steiermark
 GD	[Kfz:A] Gmünd
 GD	[Kfz:D] Landkreis Schwäbisch Gmünd
+GD&R	grin, duck, and run
 GDA	Guideline Daily Amount
 GDA	[IATA 3LC] Gounda, Central African Republic
 GDB	[Kfz:D] Landkreis Gadebusch
@@ -18128,6 +18140,7 @@ HAMI	[DB] Betriebsstelle Hannover-Anderten-Misburg (Hp)
 HAMK	[ICAO 7910] Alula Aba Nega, Mekele, Ethiopia
 HAML	[ICAO 7910] Masslo, Masslo, Ethiopia
 HAMM	[ICAO 7910] Metema, Metema, Ethiopia
+HAMMER	(cf. S.H.I.E.L.D.)
 HAMMER	DragonFly BSD filesystem
 HAMN	[ICAO 7910] Mendi, Mendi, Ethiopia
 HAMR	[DB] Betriebsstelle Achmer (Bf)
@@ -18173,6 +18186,7 @@ HAT	hashed array tree
 HAT	Hilfsausschalttaste
 HAT	[IATA 3LC] Heathlands, Queensland, Australia
 HATB	[DB] Betriebsstelle Altenboitzen (Bf)
+HATE	highest anti-terrorism effort
 HATP	[ICAO 7910] Tippi, Tippi, Ethiopia
 HAU	[IATA 3LC] Haugesund (Karmoy), Norway
 HAUFEN	Hauptschüler auf unterstem frei erreichbarem Niveau
@@ -28386,6 +28400,7 @@ MIN	[DB] Betriebsstelle Ingolstadt Nord (Bf)
 MIN	[E-Stoffe] Mineralstoff
 MIN	[IATA 3LC] Minnipa, South Australia, Australia
 MINA	[DB] Betriebsstelle Ingolstadt Nord Audi (Anst)
+MIND	Monitoring Investigation and Enforcement Division
 MINF	Master of Informatics
 MINFO	[RR] mailbox or mail list information (14)
 MINI	[DB] Betriebsstelle Inningen (Hp)
@@ -29598,6 +29613,7 @@ MSTG	[DB] Betriebsstelle Steingaden Postamt (Bush)
 MSTH	[DB] Betriebsstelle München-Steinhausen (Bf)
 MSTK	[DB] Betriebsstelle Stock (Tp)
 MSTN	[DB] Betriebsstelle Stein a.d. Traun (Hp)
+MSTP	multiple spanning tree protocol
 MSTR	[DB] Betriebsstelle Streitheim (Hp)
 MSTS	[DB] Betriebsstelle Stetten (Schwab) (Bf)
 MSTU	[DB] Betriebsstelle Stumpfenbach (Hp)
@@ -34970,6 +34986,7 @@ PVPP	(cf. E1202)
 PVR	[IATA 3LC] Puerto Vallarta (Lic. Gustavo D. Ordaz), Mexico
 PVS	Praxisverwaltungssystem
 PVS	[IATA 3LC] Provideniya, Magadan, Russia
+PVST	per-VLAN spanning tree
 PVT	Position, Velocity, and Time
 PVT	private
 PVU	[IATA 3LC] Provo Municipal Airport, Utah, United States of America
@@ -37080,6 +37097,7 @@ RPVO	[ICAO 7910] Ormoc Airport, Ormoc, Philippines
 RPVP	[ICAO 7910] Puerto Princesa Airport, Puerto Princesa, Philippines
 RPVR	[ICAO 7910] Roxas Airport, Roxas City, Philippines
 RPVS	[ICAO 7910] Evelio Javier Airport (Antique Airport), San Jose, Philippines
+RPVST	rapid per-VLAN spanning tree
 RPVT	[ICAO 7910] Tagbilaran Airport, Tagbilaran, Philippines
 RPVU	[ICAO 7910] Tugdan Airport, Tablas, Philippines
 RPVV	[ICAO 7910] Busuanga Airport (Coron Airport), Busuanga / Coron, Philippines
@@ -37300,6 +37318,7 @@ RSTF	[DB] Betriebsstelle Staufen (Bf)
 RSTFB	[DB] Betriebsstelle Staufen Bonnevilleplatz (Bush)
 RSTK	[DB] Betriebsstelle Stockach (Bf)
 RSTN	[DB] Betriebsstelle Steinen (Bf)
+RSTP	rapid spanning tree protocol
 RSTS	[DB] Betriebsstelle Staufen Süd (Bf)
 RSTU	[DB] Betriebsstelle Stühlingen (Bf)
 RSTW	[DB] Betriebsstelle Staufen-Wettelbrunn Abzw. (Bush)
@@ -37786,6 +37805,7 @@ SADF	[ICAO 7910] San Fernando Airport, San Fernando, Argentina
 SAE	[IATA 3LC] Sangir, Indonesia
 SAEZ	[ICAO 7910] Ezeiza Intl Airport, Ezeiza, Argentina
 SAF	[IATA 3LC] Santa Fe County Municipal Airport, New Mexico, United States of America
+SAFE	strategic action for emergencies
 SAFE	streamlined architecture for fast execution
 SAG	SQL Access Group
 SAG	[IATA 3LC] Sagwon Airport, Alaska, United States of America
@@ -37851,7 +37871,7 @@ SAP	Schrecken, Angst und Panik
 SAP	Secondary Audio Programming
 SAP	See Administrators Panic
 SAP	See After Playing
-SAP	Service Access Point
+SAP	service access point
 SAP	Service Advertising Protocol
 SAP	Sex And Pornography
 SAP	Sicherer Arbeitsplatz
@@ -38694,6 +38714,7 @@ SHA	[DB] Betriebsstelle Saarbrücken Halberg (Bk)
 SHA	[IATA 3LC] Hongqiao International, Shanghai, China
 SHA	[Kfz:D] Landkreis Schwäbisch Hall
 SHADA	Société Haitiano-Américaine de Développement Agricole
+SHAPE	Supreme Headquarters Allied Powers Europe
 SHAU	[DB] Betriebsstelle Hauenstein (Pfalz) (Hp)
 SHB	Schleswig-Holstein-Bahn
 SHB	[DB] Betriebsstelle Heimbach (Nahe) (Bf)
@@ -38716,6 +38737,10 @@ SHG	[Kfz:D] Landkreis Schaumburg
 SHH	[IATA 3LC] Shishmaref Airport, Alaska, United States of America
 SHI	[IATA 3LC] Shimojishima, Japan
 SHID	slaps head in disgust
+SHIELD	Strategic Hazard Intervention Espionage Logistics Directorate
+SHIELD	Strategic Homeland Intervention, Enforcement, and Logistics Division
+SHIELD	Strategische Heimat-Interventions-, Einsatz- und Logistik-Division
+SHIELD	Supreme Headquarters, International Espionage, Law-Enforcement Division
 SHIF	[DB] Betriebsstelle Hirschfeld (Hunsrück) (Anst)
 SHIH	[DB] Betriebsstelle Hirschhorn (Pfalz) (Hp)
 SHIT	FSF – Shit happens – http://www.fsf.org/fun/jokes/shit-happens.html
@@ -39417,6 +39442,7 @@ SNA	[IATA 3LC] Santa Ana/Orange County/John Wayne, California, United States of 
 SNAB	[DB] Betriebsstelle Namborn (Hp)
 SNAC	Inmarsat Single Number Access
 SNAFU	situation normal, all fucked up
+SNAP	sub-network access protocol
 SNB	Schienennetz-Nutzungsbedingungen
 SNB	[IATA 3LC] Snake Bay, Northern Territory, Australia
 SNB	[Kfz] Nordborneo (veraltet)
@@ -39674,6 +39700,7 @@ SPE	[DB] Betriebsstelle Perl (Bf)
 SPE	[IATA 3LC] Sepulot, Malaysia
 SPEC	specification
 SPECTRE	Special Executive for Counter-Intelligence, Terrorism, Revenge, and Extortion
+SPEK	free acoustic spectrum analyser / spectrogram viewer
 SPEKE	simple password exponential key exchange
 SPENCER-86	[SPDX] Spencer Licence 86 – http://spdx.org/licenses/Spencer-86.html
 SPENCER-94	[SPDX] Spencer Licence 94 – http://spdx.org/licenses/Spencer-94.html
@@ -39825,6 +39852,10 @@ SQR	[IATA 3LC] Soroako, Indonesia
 SQS	[DB] Betriebsstelle Quierschied (Hp)
 SQSL	[DB] Betriebsstelle Saarhölzbach SL/RP (LGr)
 SQSW	[DB] Betriebsstelle Schwarzerden SL/RP (LGr)
+SQUID	Harvest object cache
+SQUID	Sonar issue ID
+SQUID	superconducting quantum interference device
+SQUID	Tintenfisch
 SQUOTE	single quote (‘'’)
 SQV	[IATA 3LC] Sequim (Grand View International Airport), Washington, United States of America
 SQZ	[IATA 3LC] Scampton (RAF Station), England, United Kingdom of Great Britain and Northern Ireland
@@ -39949,6 +39980,7 @@ SS7	signalling system #7
 SSA	U+0086 START OF SELECTED AREA
 SSA	[IATA 3LC] Salvador (Dois de Julho), Bahia, Brazil
 SSAB	[DB] Betriebsstelle Saarburg (Bz Trier) (Bf)
+SSAP	source service access point
 SSB	Elektrische Bahnen der Stadt Bonn und des Rhein-Sieg-Kreises
 SSB	single-sideband modulation
 SSB	Stuttgarter Straßenbahnen
@@ -40232,6 +40264,7 @@ STR S	[DB] Betriebsstelle Trier (Schiff) (Slst)
 STRAB	Straßenbahn
 STRELE	Streckenleistungsfähigkeitsermittlung
 STRG	Steuerung (cf. Ctrl)
+STRIKE	Special Tactical Response for International Key Emergencies
 STRING	stringendo
 STRM	[DB] Betriebsstelle Trier Nord (NE-Bf)
 STRS	[DB] Betriebsstelle Trier Süd (Hp Bft)
@@ -40553,6 +40586,7 @@ SWN	[ICAO 8585] West Air Sweden, Schweden
 SWNW	[DB] Betriebsstelle Winnweiler (Bf)
 SWO	[DB] Betriebsstelle Wolsfeld (Bf a.B.)
 SWO	[IATA 3LC] Stillwater Municipal Airport, Oklahoma, United States of America
+SWORD	Sentient World Observation and Response Department
 SWOT	strengths, weaknesses, opportunities, and threats
 SWOW	[DB] Betriebsstelle Wolfersweiler (Anst)
 SWP	[IATA 3LC] Swakopmund, Namibia
@@ -43798,6 +43832,7 @@ UNBB	[ICAO 7910] Barnaul Airport, Barnaul, Russia
 UNBEST	unbestimmt
 UNC	[IATA 3LC] Unguia, Colombia
 UNCLE	U (British Forces 1952 Spelling Alphabet; RAF 1942/1943 Spelling Alphabet; Telecom B Spelling Alphabet)
+UNCLE	United Network Command for Law and Enforcement
 UND	[DB] Betriebsstelle Neudietendorf (Bf)
 UND	[IATA 3LC] Kunduz, Afghanistan
 UND N	[DB] Betriebsstelle Neudietendorf Dn (Bft)
@@ -45202,6 +45237,7 @@ VSP	Vorspann
 VSRE	very short reply expected
 VST	Vermittlungsstelle
 VST	[IATA 3LC] Vasteras (Hasslo), Sweden
+VSTP	VLAN spanning tree protocol
 VSV	[ICAO 8585] Scat Aircompany, Kasachstan
 VSW	Verkehrsgemeinschaft Schweinfurt
 VSWR	Voltage Standing Wave Ratio
@@ -45239,6 +45275,7 @@ VTI	[IATA 3LC] Vinton Veterans Memorial Airpark, Iowa, United States of America
 VTL	[IATA 3LC] Vittel, France
 VTN	[IATA 3LC] Valentine (Miller Field), Nebraska, United States of America
 VTO	Verkehrs- und Tarifgemeinschaft Ostharz
+VTP	VLAN trunking protocol
 VTPH	[ICAO 7910] Hua Hin Airport, Hua Hin / Prachuap Khiri Khan, Thailand
 VTPM	[ICAO 7910] Mae Sot Airport, Mae Sot, Thailand
 VTPO	[ICAO 7910] Sukhothai Airport, Sukhothai, Thailand
@@ -45516,6 +45553,7 @@ WAN	Wondering about Networking
 WAN	[IATA 3LC] Waverney, United Kingdom of Great Britain and Northern Ireland
 WAN	[Kfz:D] kreisfreie Stadt Wanne-Eickel
 WAN	[Kfz] Nigeria (veraltet)
+WAND	Wizardry, Alchemy, and Necromancy Department
 WAO	[IATA 3LC] Wabo, Papua New Guinea
 WAP	Wireless Access Point
 WAP	Wireless Application Protocol
