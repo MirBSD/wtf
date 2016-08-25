@@ -1,8 +1,8 @@
   à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž α/Α ε/Ε λ/Λ ο/Ο π/Π ς/Σ σ/Σ а/А б/Б в/В г/Г д/Д е/Е з/З и/И й/Й к/К л/Л м/М н/Н о/О п/П р/Р с/С т/Т у/У ф/Ф х/Х ц/Ц ш/Ш э/Э ю/Ю қ/Қ ա/Ա հ/Հ յ/Յ
- @(#)$MirOS: wtf/acronyms,v 1.584 2016/08/12 19:57:42 tg Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.585 2016/08/25 16:43:25 tg Exp $
  From $NetBSD: acronyms,v 1.249 2016/07/21 05:07:04 dholland Exp $
  From $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
- From $NetBSD: acronyms.comp,v 1.167 2016/08/11 02:42:28 ginsbach Exp $
+ From $NetBSD: acronyms.comp,v 1.168 2016/08/14 23:07:04 dholland Exp $
  From $NetBSD: airport,v 1.63 2016/06/08 04:25:31 kre Exp $
  From $OpenBSD: airport,v 1.56 2016/07/10 13:52:27 schwarze Exp $
  From github: othyro/wtfubar refs/tags/wtfubar-2.4.0
@@ -2532,6 +2532,7 @@ AM O	[DB] Betriebsstelle Maschen Rbf (Mnof) (Bft)
 AM S	[DB] Betriebsstelle Maschen Rbf (Msof) (Bft)
 AM W	[DB] Betriebsstelle Maschen Rbf (Mswf) (Bft)
 AMA	Achszahlmeldeanlage
+AMA	ask me anything
 AMA	[DB] Betriebsstelle Maschen Pbf (Bf)
 AMA	[IATA 3LC] Rick Husband Amarillo International, Texas, United States of America
 AMAG	[DB] Betriebsstelle Malente-Gremsmühlen (Bf)
@@ -2637,7 +2638,7 @@ AMY	[IATA 3LC] Ambatomainty, Madagascar
 AMZ	[IATA 3LC] Ardmore, New Zealand
 AN	Arabic number
 AN	Arbeitnehmer
-AN	author’s note (usually A/N)
+AN	author’s note (unusual, cf. A/N)
 AN	[ccTLD] Niederländische Antillen (2010 aufgelöst, die Inseln erhalten eigene TLDs: .cw, .sx und .bq)
 AN	[DB] Betriebsstelle Neumünster (Bf)
 AN	[Kfz:D] kreisfreie Stadt und Landkreis Ansbach
@@ -2861,6 +2862,8 @@ APC	[IATA 3LC] Napa County Airport, California, United States of America
 APD	[DB] Betriebsstelle Prisdorf (Hp)
 APD	[Kfz:D] Landkreis Apolda
 APE	Abgesetzte periphere Einheit
+APE	Affe
+APE	alternative primate evolution
 APE	Plan 9 ANSI & POSIX Environment
 APE	[IATA 3LC] San Juan Aposento, Peru
 APEW	[DB] Betriebsstelle Pellworm (Slst)
@@ -3880,6 +3883,8 @@ BAG S	[DB] Betriebsstelle Glasower Damm Süd (Abzw)
 BAG W	[DB] Betriebsstelle Glasower Damm West (Abzw)
 BAGL	[DB] Betriebsstelle Berlin-Altglienicke (Hp)
 BAGM	[DB] Betriebsstelle Alt Golm (Bush)
+BAH	Bundesverband der Arzneimittel-Hersteller e.V.
+BAH	bäh, Pfui Deivel!
 BAH	[FIFA] Bahamas
 BAH	[IATA 3LC] Bahrain Muharraq International, Bahrain
 BAHG	[DB] Betriebsstelle Berlin Anhalter Gbf (Bf)
@@ -6207,8 +6212,7 @@ BTS	Bangkok Skytrain
 BTS	base transceiver station
 BTS	Basisfunkstation
 BTS	bit test [and] set
-BTS	bits per second
-BTS	Bug Tracking System (debbugs)
+BTS	bug tracking system
 BTS	[IATA 3LC] Milan Rastislav Stefanik/Ivanka, Bratislava, Slovakia
 BTST	been there, seen that
 BTSTF	been there, seen that fail
@@ -6222,6 +6226,7 @@ BTU	British Thermal Units
 BTU	[IATA 3LC] Bintulu, Sarawak, Malaysia
 BTV	[IATA 3LC] Burlington International, Vermont, United States of America
 BTV	[ICAO 8585] Batavia Air, Indonesien
+BTW	between
 BTW	by the way
 BTW	[IATA 3LC] Batu Licin, Indonesia
 BTWG	[DB] Betriebsstelle Berlin-Treptow Gbf (Bf)
@@ -9313,6 +9318,7 @@ DEC	Digital Equipment Corporation
 DEC	[IATA 3LC] Decatur Airport, Illinois, United States of America
 DECIMAL	(decimal point) . (International Radiotelephony Spelling Alphabet)
 DECRESC	decrescendo
+DECT	digital enhanced cordless telecommunications
 DED	Doctor of Education
 DED	[DB] Betriebsstelle Einsiedel (Bf)
 DED	[IATA 3LC] Dehradun, India
@@ -15478,7 +15484,7 @@ FLOR	[DB] Betriebsstelle Lorch (Rhein) (Bf)
 FLORIDA	F (British A/International Spelling Alphabet)
 FLORS	[DB] Betriebsstelle Lorch (Rhein) (Schiff) (Slst)
 FLOSS	(dental care product)
-FLOSS	free / libre / open source software (deprecated acronym, use OSS)
+FLOSS	free / libre / open source software (deprecated acronym, cf. OSS)
 FLOZ	fluid ounces
 FLP	Ferrovia Lugano-Ponte Tresa
 FLP	[DB] Betriebsstelle Lampertheim (Bf)
@@ -16048,7 +16054,7 @@ FREDERICK	F (Telecom B Spelling Alphabet)
 FREE	[altTLD] free (frei: strikt nichtkommerzielles Internet)
 FREEBSD	most 1337 open source operating system – http://www.freebsd.org/
 FREEIMAGE	[SPDX] FreeImage Public Licence v1.0 – http://spdx.org/licenses/FreeImage.html
-FREEMINT	see MiNT
+FREEMINT	(cf. MiNT)
 FREERTOS-EXCEPTION-2.0	[SPDX] FreeRTOS Exception 2.0 – http://spdx.org/licenses/freertos-exception-2.0.html
 FREH	[DB] Betriebsstelle Rengershausen (Bf)
 FREI	[DB] Betriebsstelle Reinheim (Odenw) (Bf)
@@ -16790,8 +16796,7 @@ G	[MORSE] --.
 G 25	Arbeitsmedizinischer Grundsatz 25 (Fahr- und Überwachungstauglichkeit)
 G 26.3	Arbeitsmedizinischer Grundsatz 26 (Atemschutzuntersuchung)
 G,D&R	grin, duck, and run
-G/C	garbage collect
-G/C	garbage collection
+G/C	garbage collect{,or,ion}
 G0	[IATA 2LC] Ghana International Airlines, Ghana
 G1	1. Geige (Violine)
 G1	[IATA 2LC] Gorkha Airlines, Nepal
@@ -16933,6 +16938,7 @@ GBN	[IATA 3LC] Gila Bend (Air Force Auxiliary), Arizona, United States of Americ
 GBO	[IATA 3LC] Greensboro (Baltimore), Maryland, United States of America
 GBP	Pound sterling (ISO 4217 code)
 GBP	[IATA 3LC] Gamboola, Queensland, Australia
+GBPS	gi{ga,bi}{bit,byte}s per second
 GBR	[FIFA] Great Britain
 GBR	[IATA 3LC] Great Barrington Airport, Massachusetts, United States of America
 GBS	[IATA 3LC] Port Fitzroy, New Zealand
@@ -16948,7 +16954,7 @@ GBYD	[ICAO 7910] Banjul Intl Airport, Banjul, Gambia
 GBZ	Garantierte Beförderungszeit
 GBZ	[IATA 3LC] Great Barrier Island, New Zealand
 GBZ	[Kfz] Gibraltar
-GC	garbage collector
+GC	garbage collect{,or,ion}
 GC	[GPSH] gc.com listed geocache
 GC	[GPSH] geocache, stash
 GC	[GPSH] geocoin (GC.COM; also used as common name for trackable items, cf. TB)
@@ -21018,7 +21024,11 @@ ING	[IATA 3LC] Ago, Argentina
 INGRESS	inbound network traffic
 INGRESS	[GPS] (augmented reality and geolocation-based game)
 INH	[IATA 3LC] Inhambane, Mozambique
+INI	initialisation
+INI	instance of a dungeon
+INI	Windows 3.0-style configuration file
 INI	[IATA 3LC] Constantine the Great, Nis, Serbia, Yugoslavia
+ININI	Sorry, I can’t talk right now, I’m fighting in a dungeon instance.
 INJ	[IATA 3LC] Injune, Queensland, Australia
 INK	[IATA 3LC] Wink (Winkler County Airport), Texas, United States of America
 INKA	PT Industri Kereta Api (Persero)
@@ -21059,7 +21069,7 @@ INW	[IATA 3LC] Winslow Municipal Airport, Arizona, United States of America
 INX	[IATA 3LC] Inanwatan, Indonesia
 INZ	[IATA 3LC] In Salah, Algeria
 INÉS	I (Spanish Spelling Alphabet)
-IO	input/output
+IO	input / output
 IO	[ccTLD] Britisches Territorium im Indischen Ozean
 IO	[ISO 3166] British Indian Ocean Territory
 IOA	[IATA 3LC] Ioannina, Greece
@@ -22283,7 +22293,7 @@ KBOS	[ICAO 7910] Gen. Edward Lawrence Logan Intl Airport, Boston, Massachusetts,
 KBP	[DB] Betriebsstelle Köln Airport / Businesspark (Hp)
 KBP	[IATA 3LC] Kyiv Borispil International, Kiev, Ukraine
 KBPOS	Kontrabaßposaune
-KBPS	Kilobyte pro Sekunde
+KBPS	ki{lo,bi}{bit,byte}s per second
 KBPS	[DB] Betriebsstelle Boppard Süd (Hp)
 KBPT	[ICAO 7910] Southeast Texas Regional Airport, Beaumont, Texas, USA
 KBQ	[IATA 3LC] Kasungu, Malawi
@@ -27563,6 +27573,7 @@ MBOD	[DB] Betriebsstelle Bodelsberg (Hp)
 MBOS	[DB] Betriebsstelle Bonstetten (Hp)
 MBP	MacBook Pro
 MBP	[IATA 3LC] Moyobamba, Peru
+MBPS	me{ga,bi}{bit,byte}s per second
 MBQ	[IATA 3LC] Mbarara, Uganda
 MBR	master boot record
 MBR	Mindestbremshundertstel
@@ -27575,7 +27586,6 @@ MBRM	[DB] Betriebsstelle Bruckmühl (Bf)
 MBRN	[DB] Betriebsstelle Breitenbrunn (Schwab) (Hp)
 MBRS	[DB] Betriebsstelle Brandstätt (Hp)
 MBRT	[DB] Betriebsstelle Breitenau (Hp Anst)
-MBS	megabits per second
 MBS	Montafonerbahn Schruns
 MBS	multibyte character string
 MBS	[IATA 3LC] Saginaw Tri-City, Michigan, United States of America
@@ -28405,7 +28415,7 @@ MINF	Master of Informatics
 MINFO	[RR] mailbox or mail list information (14)
 MINI	[DB] Betriebsstelle Inningen (Hp)
 MINT	http://freemint.de/en/
-MINT	Mathematik, Informatik, Naturwissenschaft und Technik (STEM)
+MINT	Mathematik, Informatik, Naturwissenschaft und Technik (cf. STEM)
 MINT	MiNT is Now TOS
 MINU	[DB] Betriebsstelle Ingolstadt Nord Ubf (Bf)
 MIO	[IATA 3LC] Miami (Municipal Airport), Oklahoma, United States of America
@@ -32082,7 +32092,7 @@ NSY	[IATA 3LC] Sigonella, Italy
 NSYB	[DB] Betriebsstelle Seybothenreuth (Hp)
 NT	Neanderthal Technology
 NT	New Technology
-NT	no text (also: n/t)
+NT	no text (cf. n/t)
 NT	NT OS/2
 NT	Windows NT
 NT	[AUS] Northern Territory
@@ -34560,6 +34570,7 @@ PR	Presse
 PR	printer
 PR	problem report
 PR	public relations
+PR	pull request
 PR	[BR] Paraná
 PR	[ccTLD] Puerto Rico
 PR	[GPSH] GC.COM user profile (pseudo waypoint code)
@@ -35484,6 +35495,7 @@ R&T	Ramsch und Trödel
 R&T	Reise und Touristik
 R-C	Rockwell-Collins
 R/C	remote control
+R/L	real life
 R/O	read-only
 R/W	read-write
 R0	[IATA 2LC] Royal Airlines, Pakistan
@@ -35793,7 +35805,7 @@ RBÜT	Rechnergesteuerte Bahnübergangssicherung
 RC	(the Plan 9 shell)
 RC	release candidate
 RC	release-critical
-RC	remote control
+RC	remote-controlled
 RC	resource
 RC	restless cow
 RC	return code (exit status)
@@ -40199,7 +40211,7 @@ STE	Strausberger Eisenbahn GmbH
 STE	[IATA 3LC] Stevens Point Municipal Airport, Wisconsin, United States of America
 STE	[Kfz:D] Landkreis Staffelstein
 STEAM	stimulated echo acquisition mode
-STEM	Science, Technology, Engineering, and Math (MINT)
+STEM	Science, Technology, Engineering, and Math (cf. MINT)
 STF	Schlauchtruppführer
 STF	Staffelführer
 STF	[DB] Betriebsstelle Thalfang (Bf a.B.)
@@ -47406,6 +47418,7 @@ WWF B	[DB] Betriebsstelle Weitendorf (b. Brüel) (Bush) (Bush)
 WWFM	[GPSH] weltweiter Flashmob
 WWFR	[DB] Betriebsstelle Wolfsruh (Anst)
 WWG	[DB] Betriebsstelle Wittenburg (Meckl) (Bf)
+WWGD	what would Gaara do
 WWGR	[DB] Betriebsstelle Wittenburg (Meckl) Raiffeisen (Anst)
 WWH	[DB] Betriebsstelle Wusterhausen (Dosse) (Hp)
 WWHF	[DB] Betriebsstelle Wittenberge (Binnenhafen) (Bf)
