@@ -1,5 +1,5 @@
   à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž α/Α ε/Ε λ/Λ ο/Ο π/Π ς/Σ σ/Σ а/А б/Б в/В г/Г д/Д е/Е з/З и/И й/Й к/К л/Л м/М н/Н о/О п/П р/Р с/С т/Т у/У ф/Ф х/Х ц/Ц ш/Ш э/Э ю/Ю қ/Қ ա/Ա հ/Հ յ/Յ
- @(#)$MirOS: wtf/acronyms,v 1.585 2016/08/25 16:43:25 tg Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.586 2016/08/29 18:30:21 tg Exp $
  From $NetBSD: acronyms,v 1.249 2016/07/21 05:07:04 dholland Exp $
  From $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
  From $NetBSD: acronyms.comp,v 1.168 2016/08/14 23:07:04 dholland Exp $
@@ -3841,7 +3841,9 @@ BA	[Kfz:A] Bad Aussee
 BA	[Kfz:D] kreisfreie Stadt und Landkreis Bamberg
 BA	[Kfz] Birma (veraltet)
 BAA	Betrieblicher Arbeitsauftrag
+BAA	Bundesausgleichsamt
 BAA	[IATA 3LC] Bialla, Papua New Guinea
+BAAINBW	Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr
 BAB	[IATA 3LC] Beale Air Force Base, California, United States of America
 BAB	[ICAO 8585] Bahrain Air, Bahrain
 BABISI	Baumbiegesimulator
@@ -3863,16 +3865,22 @@ BADS	[DB] Betriebsstelle Altdöbern Süd (Abzw)
 BADSIG	[DNS] RCODE 16: TSIG signature failure
 BADTIME	[DNS] RCODE 18: signature out of time window
 BADTRUNC	[DNS] RCODE 22: bad truncation
+BADV	Bundesamt für zentrale Dienste und offene Vermögensfragen
 BADVERS	[DNS] RCODE 16: bad OPT version
 BAE	Bachelor of Arts and Economics
 BAE	[IATA 3LC] Barcelonnette, France
+BAF	Bundesaufsichtsamt für Flugsicherung
 BAF	[IATA 3LC] Barnes Municipal Airport (Westfield), Massachusetts, United States of America
+BAFA	Bundesamt für Wirtschaft und Ausfuhrkontrolle
 BAFH	Bastard Assi from Hell
 BAFH	Better Avalanche for the Jenkins Hash
 BAFI	[DB] Betriebsstelle Finkenkrug (Afi) (Abzw)
 BAFIN	Bundesanstalt für Finanzdienstleistungsaufsicht
 BAFN	[DB] Betriebsstelle Ahrensfelde Nord (Hp)
 BAFR	[DB] Betriebsstelle Ahrensfelde Friedhof (Hp)
+BAFZA	Bundesamt für Familie und zivilgesellschaftliche Aufgaben
+BAG	Bundesamt für Gesundheit
+BAG	Bundesamt für Güterverkehr
 BAG	Bundesarbeitsgemeinschaft
 BAG	Bundesarbeitsgericht
 BAG	Katholische Bundesarbeitsgemeinschaft Freiwilligendienste
@@ -3893,10 +3901,12 @@ BAHU	[DB] Betriebsstelle Berlin Anhalter Bf (Bf)
 BAHYPH	[SPDX] Bahyph Licence – http://spdx.org/licenses/Bahyph.html
 BAI	goodbye
 BAI	[IATA 3LC] Buenos Aires, Costa Rica
+BAIUDBW	Bundesamt für Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr
 BAJ	[IATA 3LC] Bali, Papua New Guinea
 BAK	back at keyboard
 BAK	Backup
 BAK	Blutalkoholkonzentration
+BAK	Bundesamt für Kultur
 BAK	[IATA 3LC] Heydar Aliyev (former Baku Bina International), Baku, Azerbaijan
 BAKER	B (British Forces 1952 Spelling Alphabet)
 BAKHTAR	Bakhtar News Agency (Afghanistan)
@@ -3911,9 +3921,11 @@ BALGE	by and large good enough
 BALTIMORE	B (British A/International Spelling Alphabet)
 BALU	[DB] Betriebsstelle Altlandsberg Umspannwerk (Anst)
 BAM	Bosnia and Herzegovina convertible mark (ISO 4217 code)
+BAM	Bundesanstalt für Materialforschung und -prüfung
 BAM	Chemin de fer Bière-Apples-Morges (cf. MBC)
 BAM	[IATA 3LC] Battle Mountain (Lander County), Nevada, United States of America
 BAMF	bad-ass motherfucker
+BAMF	Bundesamt für Migration und Flüchtlinge
 BAMN	by any means necessary
 BAMP	BSD Apache MySQL {Perl,PHP,Python}
 BAMPP	BSD Apache MySQL {Perl,PHP,Python}
@@ -3923,8 +3935,10 @@ BAN	[IATA 3LC] Basongo, Zaire
 BAN	[IOC] Bangladesh
 BANCOMAT	Geldautomat (cf. ATM)
 BANH	[DB] Betriebsstelle Annahütte (Bf)
+BANSTPT	Bundesanstalt für Post und Telekommunikation (Deutsche Bundespost)
 BAO	[IATA 3LC] Ban Mak Khaeng, Thailand
 BAP	[IATA 3LC] Baibara, Papua New Guinea
+BAPERSBW	Bundesamt für das Personalmanagement der Bundeswehr
 BAPPSC	Bachelor of Applied Science
 BAPT	Bundesamt für Post und Telekommunikation
 BAQ	[IATA 3LC] Ernesto Cortissoz International, Barranquilla, Colombia
@@ -3933,12 +3947,15 @@ BAR	(second metasyntactic variable)
 BAR	Baritonsaxophon
 BAR	base address register
 BAR	Brandamtsrat
+BAR	Bundesamt für äußere Restitutionen
+BAR	Bundesarchiv
 BAR	[DB] Betriebsstelle Außenring (LW)
 BAR	[IATA 3LC] Baker Island, Baker & Howland Islands
 BAR	[IOC] Barbados
 BAR	[Kfz:D] Landkreis Barnim
 BARCELONA	B (Spanish Spelling Alphabet)
 BARCH	Bachelor of Architecture
+BARCH	Bundesarchiv
 BARD	[DB] Betriebsstelle Ahrensdorf (Bk)
 BARF	[DB] Betriebsstelle Berlin Alt Reinickendorf (Hp)
 BARO	[DB] Betriebsstelle Alt Rosenthal (Hp)
@@ -3964,16 +3981,20 @@ BASN	[DB] Betriebsstelle Sornoer Buden Nord (Abzw)
 BASO	[DB] Betriebsstelle Sornoer Buden Ost (Abzw)
 BASS	Bachelor of Arts in the Social Sciences
 BAST	Betriebliche Aufgabenstellung
+BAST	Bundesanstalt für Straßenwesen
 BASW	[DB] Betriebsstelle Sornoer Buden West (Abzw)
 BAT	Baby-AT (Formfaktor, like ATX)
 BAT	[IATA 3LC] Barretos, São Paulo, Brazil
 BATS	[DB] Betriebsstelle Berlin Attilastraße (Hp)
 BAU	business as usual
 BAU	[IATA 3LC] Bauru, São Paulo, Brazil
+BAUA	Bundesanstalt für Arbeitsschutz und Arbeitsmedizin
 BAUM	Berliner Admins und Mitarbeiter
 BAV	betriebliche Altersvorsorge
 BAV	[IATA 3LC] Baotou, China
+BAV-BMVBS	Bundesanstalt für Verwaltungsdienstleistungen
 BAW	bis auf weiteres
+BAW	Bundesanstalt für Wasserbau
 BAW	[IATA 3LC] Biawonque, Gabon
 BAW	[ICAO 8585] British Airways, Großbritannien
 BAWF	[DB] Betriebsstelle Wustermark Awf (Abzw Awanst)
@@ -4101,6 +4122,7 @@ BBOS	[DB] Betriebsstelle Berlin Bornholmer Straße (Bf)
 BBP	[IATA 3LC] Bembridge, England, United Kingdom of Great Britain and Northern Ireland
 BBQ	barbecue
 BBQ	[IATA 3LC] Barbuda (Codrington), Antigua and Barbuda
+BBR	Bundesamt für Bauwesen und Raumordnung
 BBR	burnt beyond repair
 BBR	[IATA 3LC] Basse-Terre, Guadeloupe
 BBR	[ICAO 8585] Santa Barbara Airlines, Venezuela
@@ -4269,6 +4291,7 @@ BDAB	[DB] Betriebsstelle Dabendorf (Hp Bft)
 BDB	Berkeley DB
 BDB	[DB] Betriebsstelle Döbern (b. Forst) (Bf)
 BDB	[IATA 3LC] Bundaberg, Queensland, Australia
+BDBOS	Bundesanstalt für den Digitalfunk der Behörden und Organisationen mit Sicherheitsaufgaben
 BDC	backup domain controller
 BDC	[IATA 3LC] Barra do Corda, Maranhão, Brazil
 BDD	binary decision diagram
@@ -4434,6 +4457,7 @@ BES	Blackberry Enterprise Service
 BES	[IATA 3LC] Brest/Bretagne, Brest, France
 BES	[IATA 3LC] Guipavas, Brest, France
 BES	[ICAO 8585] Aero Services Executive, Frankreich
+BESCHA	Beschaffungsamt des Bundesministeriums des Innern
 BEST	Betriebs- und Stellwerkssimulation für ESTW
 BET	Beteiligte
 BET	[IATA 3LC] Bethel Airport, Alaska, United States of America
@@ -4477,7 +4501,9 @@ BFA	[ISO 3166] Burkina Faso
 BFAC	[DB] Betriebsstelle Berlin Frankfurter Allee Umschlagbf (Bf)
 BFAH	[DB] Betriebsstelle Falkenhagen (Kr Nauen) (Bf)
 BFAL	[DB] Betriebsstelle Berlin Frankfurter Allee (Bf)
+BFARM	Bundesinstitut für Arzneimittel und Medizinprodukte
 BFAU	[DB] Betriebsstelle Frankfurt (Oder) Fauler See (Bf)
+BFB	Bundesmonopolverwaltung für Branntwein
 BFB	[DB] Betriebsstelle Berlin Feuerbachstraße (Hp)
 BFB	[IATA 3LC] Blue Fox Bay, Alaska, United States of America
 BFBS	British Forces Broadcasting Service
@@ -4490,6 +4516,7 @@ BFD	[IATA 3LC] Bradford Regional Airport, Pennsylvania, United States of America
 BFDF	[DB] Betriebsstelle Friedersdorf (b. Königs Wusterhausen) (Bf)
 BFDZ	[DB] Betriebsstelle Fredersdorf (b. Belzig) (Hp)
 BFDZB	[DB] Betriebsstelle Fredersdorf (b. Belzig) Bushst (Bush)
+BFE	Bundesamt für kerntechnische Entsorgungssicherheit
 BFE	[IATA 3LC] Bielefeld, Germany
 BFF	Beauftragter für Flächenfreisetzung
 BFF	best friend{s,} forever
@@ -4497,6 +4524,7 @@ BFF	[IATA 3LC] Western Nebraska Regional/William B. Heilig Field, Scottsbluff, N
 BFFO	[DB] Betriebsstelle Berlin-Friedrichsfelde Ost (Hp)
 BFG	big fat grin
 BFG	big friendly giant
+BFG	Bundesanstalt für Gewässerkunde
 BFG	[DB] Betriebsstelle Frankfurt (Oder) Rbf (Bf)
 BFG	[IATA 3LC] Bullfrog Basin Airport, Utah, United States of America
 BFG	[Kfz:A:sub] Berufsfeuerwehr in Graz (alt)
@@ -4522,6 +4550,7 @@ BFIH	[DB] Betriebsstelle Finkenheerd (Bf)
 BFIK	[DB] Betriebsstelle Finkenheerd Kraftwerk (Hp)
 BFIN	Bachelor of Finance
 BFIN	[DB] Betriebsstelle Finkenkrug (Bf)
+BFJ	Bundesamt für Justiz
 BFJ	[IATA 3LC] Ba, Fiji
 BFK	[IATA 3LC] Buckley Army National Guard Base, Colorado, United States of America
 BFKF	[DB] Betriebsstelle Friedrichshain Fernsehkolbenwerk (Anst)
@@ -4533,6 +4562,7 @@ BFL	[ICAO 8585] Buffalo Airways, Kanada
 BFLZ	[DB] Betriebsstelle Ferch-Lienewitz (Bf)
 BFLZS	[DB] Betriebsstelle Ferch Schule (Bush)
 BFM	[IATA 3LC] Mobile Downtown Airport, Alabama, United States of America
+BFN	Bundesamt für Naturschutz
 BFN	[DB] Betriebsstelle Fichtengrund (Bf)
 BFN	[IATA 3LC] Bram Fischer International, Bloemfontein, South Africa
 BFN	[IATA 3LC] Jbm Hertzog, Bloemfontein, South Africa
@@ -4564,6 +4594,8 @@ BFRSO	[DB] Betriebsstelle Frankfurt (Oder)-Rosengarten Ortsmitte (Bush)
 BFRU	[DB] Betriebsstelle Berlin-Friedenau (Hp)
 BFS	Be File System
 BFS	breadth-first search
+BFS	Bundesamt für Statistik
+BFS	Bundesamt für Strahlenschutz
 BFS	[DB] Betriebsstelle Fangschleuse (Bf)
 BFS	[IATA 3LC] Belfast International Airport, Northern Ireland
 BFSS	[DB] Betriebsstelle Berlin-Schönefeld Flughafen Süd (Anst)
@@ -4572,6 +4604,7 @@ BFT	binary file transfer
 BFT	blunt force trauma
 BFT	Bundesverband freier Tankstellen
 BFT	[IATA 3LC] Beaufort County Airport, South Carolina, United States of America
+BFU	Bundesstelle für Flugunfalluntersuchung
 BFU	[IATA 3LC] Bengbu, China
 BFUA	[DB] Betriebsstelle Fürstenwalde (Spree) Getreidewirtschaft (Awanst)
 BFUG	[DB] Betriebsstelle Fürstenwalde (Spree) Süd Gisag (Awanst)
@@ -4685,6 +4718,7 @@ BGP	[IATA 3LC] Bongo, Gabon
 BGPSEC	Border Gateway Protocol Security
 BGQ	[IATA 3LC] Big Lake Airport, Alaska, United States of America
 BGQA	[ICAO 7910] Qaanaaq Airport, Qaanaaq (Thule), Greenland (Denmark)
+BGR	Bundesanstalt für Geowissenschaften und Rohstoffe
 BGR	[DB] Betriebsstelle Großräschen (Bf)
 BGR	[IATA 3LC] Bangor International, Bangor, Maine, United States of America
 BGRA	[DB] Betriebsstelle Graustein (Bf)
@@ -4873,7 +4907,9 @@ BIAS	back in a second
 BIAW	back in a while
 BIB	bibliographical
 BIB	Bibliothek
+BIB	Bundesinstitut für Bevölkerungsforschung
 BIB	[IATA 3LC] Baidoa, Somalia
+BIBB	Bundesinstitut für Berufsbildung
 BIBL	[ICAO 7910] Blonduos Airport, Blonduos, Iceland
 BIC	Bank Identifier Code
 BIC	[IATA 3LC] Big Creek, Alaska, United States of America
@@ -4904,6 +4940,7 @@ BIKR	[ICAO 7910] Alexander Airport, Sauoarkrokur, Iceland
 BIL	[IATA 3LC] Billings Logan International, Montana, United States of America
 BIM	Broadcast Integrity Message
 BIM	[IATA 3LC] South Bimini International Airport, Bahamas
+BIMA	Bundesanstalt für Immobilienaufgaben
 BIN	binary
 BIN	[FIFA] British India
 BIN	[IATA 3LC] Bamiyan, Afghanistan
@@ -4932,6 +4969,7 @@ BIS	Betriebliches Informationssystem
 BIS	[IATA 3LC] Bismarck Municipal, North Dakota, United States of America
 BISI	[ICAO 7910] Siglufjordur Airport, Siglufjorour, Iceland
 BISON-EXCEPTION-2.2	[SPDX] Bison exception 2.2 – http://spdx.org/licenses/Bison-exception-2.2.html
+BISP	Bundesinstitut für Sportwissenschaft
 BISSOTWO	2 (International Radiotelephony Spelling Alphabet)
 BIST	built-in self-test
 BIST	[ICAO 7910] Stykkisholmur Airport, Stykkisholmur, Iceland
@@ -5010,6 +5048,7 @@ BK	Bk (PSE#97) Berkelium | Uran-Metalle (Aktiniden) | actinides | actinida
 BK	black, IEC 62: 0
 BK	Blockstelle
 BK	Burger King
+BK	Schweizerische Bundeskanzlei
 BK	[EDU] Berufskolleg
 BK	[IATA 2LC] BKS Air Transport, Großbritannien
 BK	[IATA 2LC] MidAtlantic Airways, USA
@@ -5018,10 +5057,12 @@ BK	[IATA 2LC] Potomac Air, USA
 BK	[Kfz:A] Konsul im Land Burgenland
 BK	[Kfz:D] Landkreis Backnang
 BK	[Kfz:D] Landkreis Börde
+BKA	Bundeskriminalamt
 BKA	[IATA 3LC] Moscow (Bykovo), Russia
 BKA	[ICAO 8585] Bankair, USA
 BKAB	[DB] Betriebsstelle Kablow (Hp)
 BKAR	[DB] Betriebsstelle Berlin-Karow (Bf)
+BKARTA	Bundeskartellamt
 BKB	[DB] Betriebsstelle Kiekebusch (b. Cottbus) (Hp Anst)
 BKB	[IATA 3LC] Bikaner, India
 BKBK	[DB] Betriebsstelle Kahla (Oberlausitz) (Abzw)
@@ -5039,6 +5080,7 @@ BKE	[IATA 3LC] Baker City Municipal Airport, Oregon, United States of America
 BKF	[DB] Betriebsstelle Kohlsdorf (Hp)
 BKF	[IATA 3LC] Lake Brooks Seaplane Base, Alaska, United States of America
 BKF	[Oracle] backup file
+BKG	Bundesamt für Kartographie und Geodäsie
 BKG	[DB] Betriebsstelle Klinge (Bf)
 BKH	[DB] Betriebsstelle Berlin-Karlshorst (Bf)
 BKH	[IATA 3LC] Kekana, Kauai, Hawaii, United States of America
@@ -5157,6 +5199,7 @@ BLDC	brushless DC motor
 BLDC	bürstenloser Gleichstrommotor
 BLDN	[DB] Betriebsstelle Luckenwalde Nord (Üst)
 BLE	Bluetooth Low Energy
+BLE	Bundesanstalt für Landwirtschaft und Ernährung
 BLE	[DB] Betriebsstelle Leuthen (b. Cottbus) (Bf)
 BLE	[IATA 3LC] Borlange Air Base, Sweden
 BLE	[ICAO 8585] Blue Line, Frankreich
@@ -5247,6 +5290,7 @@ BLUBB	(german metasyntactic variable)
 BLUE	[DB] Betriebsstelle Berlin-Lübars (Bf)
 BLUT	[DB] Betriebsstelle Lütte (Bf)
 BLUTB	[DB] Betriebsstelle Lütte Bushst (Bush)
+BLV	Bundesamt für Lebensmittelsicherheit und Veterinärwesen
 BLV	[IATA 3LC] Belleville (Scott Air Force Base), Illinois, United States of America
 BLV	[ICAO 8585] Bellview Airlines, Niger
 BLW	Bahn-Landwirtschaft
@@ -5434,7 +5478,7 @@ BNE	[DB] Betriebsstelle Neuhof (b. Zossen) (Bf)
 BNE	[IATA 3LC] Brisbane, Queensland, Australia
 BNES	[DB] Betriebsstelle Nesselgrund (Bf)
 BNESO	[DB] Betriebsstelle Nesselgrund Ost (Abzw)
-BNETZA	Bundesnetzagentur
+BNETZA	Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen
 BNF	Backus-Naur form
 BNF	[DB] Betriebsstelle Neuendorf (Niederlausitz) (Lübben) (Hp)
 BNF	[IATA 3LC] Baranof (Seaplane Base), Alaska, United States of America
@@ -5611,6 +5655,7 @@ BPAP	[DB] Betriebsstelle Berlin Papestraße (Bf)
 BPAPR	[DB] Betriebsstelle Berlin Papestraße (Ringbahn) (Bft)
 BPAPV	[DB] Betriebsstelle Berlin Papestraße (Vorortbahn) (Bft)
 BPB	BIOS parameter block
+BPB	Bundeszentrale für politische Bildung
 BPB	[IATA 3LC] Boridi, Papua New Guinea
 BPC	[IATA 3LC] Bamenda, Cameroon
 BPD	[DB] Betriebsstelle Potsdam Hbf (Bf)
@@ -5640,6 +5685,7 @@ BPIC	[DB] Betriebsstelle Berlin Pichelsberg (Bf)
 BPIL	[DB] Betriebsstelle Pillgram (Bf)
 BPILF	[DB] Betriebsstelle Pillgram Feuerwehr (Bush)
 BPILS	[DB] Betriebsstelle Pillgram Schule (Bush)
+BPJM	Bundesprüfstelle für jugendgefährdende Medien
 BPK	[DB] Betriebsstelle Kostrzyn (Tpg)
 BPKR	[DB] Betriebsstelle Berlin-Pankow (Bf)
 BPKRN	[DB] Betriebsstelle Berlin-Pankow (Pkrn) (Bft)
@@ -5868,6 +5914,7 @@ BS	[Kfz:D] Landkreis Braunschweig
 BS	[Kfz] Bahamas
 BS	[Kfz] Britisch-Somaliland (veraltet)
 BSA	basic service area
+BSA	Bundessortenamt
 BSA	[DB] Betriebsstelle Südlicher Außenring (LW)
 BSA	[IATA 3LC] Bossaso, Somalia
 BSAD	[DB] Betriebsstelle Berlin-Schöneweide Sad (Abzw)
@@ -5966,6 +6013,7 @@ BSGR	[DB] Betriebsstelle Berlin-Schöneberg (Bf)
 BSGRR	[DB] Betriebsstelle Berlin-Schöneberg (Ringbahn) (Hp Bft)
 BSGRV	[DB] Betriebsstelle Berlin-Schöneberg (Vorortbahn) (Hp Bft)
 BSH	Bundesamt für Seeschifffahrt und Hydrographie
+BSH	Java™ bean shell
 BSH	[DB] Betriebsstelle Wendisch Rietz (Bf)
 BSH	[IATA 3LC] Brighton, England
 BSHB	[DB] Betriebsstelle Berlin Sellheimbrücke Plng (Hp)
@@ -6032,6 +6080,7 @@ BSPH	[DB] Betriebsstelle Berlin Springpfuhl (Bf)
 BSPJ	[DB] Betriebsstelle Berlin-Spandau Johannesstift (Bf)
 BSPN	[DB] Betriebsstelle Spreewitz Nord (Bk)
 BSPO	[DB] Betriebsstelle Berlin-Spandau Osth E (Bf)
+BSPRA	Bundessprachenamt
 BSPS	[DB] Betriebsstelle Spreewitz Süd (Abzw)
 BSPU	[DB] Betriebsstelle Sputendorf Abzw nach (Bush)
 BSPW	beispielsweise
@@ -6085,8 +6134,10 @@ BSTR	[DB] Betriebsstelle Strausberg Stadt (Hp)
 BSTS	[DB] Betriebsstelle Strausberg Stadt NE (Bf)
 BSTW	[DB] Betriebsstelle Storkow (Mark) (Bf)
 BSTZ	[DB] Betriebsstelle Berlin-Steglitz Gbf (Bf)
+BSU	Bundesstelle für Seeunfalluntersuchung
 BSU	[DB] Betriebsstelle Schwarze Pumpe (Bf)
 BSU	[IATA 3LC] Basankusu, Zaire
+BSV	Bundesamt für Sozialversicherungen
 BSV	[IATA 3LC] Bosset, Papua New Guinea
 BSW	Bachelor of Social Work
 BSW	Bahnsozialwerk
@@ -6216,6 +6267,7 @@ BTS	bug tracking system
 BTS	[IATA 3LC] Milan Rastislav Stefanik/Ivanka, Bratislava, Slovakia
 BTST	been there, seen that
 BTSTF	been there, seen that fail
+BTSYS	Bundesamt für technische Systemanalysen
 BTT	back to topic
 BTT	[IATA 3LC] Bettles Airport, Alaska, United States of America
 BTTF	back to the future
@@ -6304,6 +6356,8 @@ BV	[ISO 3166] Bouvet Island
 BV B	[DB] Betriebsstelle Vetschau Bahnhofstr (Bush)
 BV-EMSLAND	Busverkehr Emsland-Mitte/Nord
 BVA	Beamter vom Alarmdienst
+BVA	Bundesversicherungsamt
+BVA	Bundesverwaltungsamt
 BVA	[IATA 3LC] Beauvais (Tille), France
 BVB	Ballspielverein Borussia
 BVB	Basler Verkehrs-Betriebe
@@ -6327,6 +6381,7 @@ BVG	[IATA 3LC] Berlevag, Norway
 BVH	Bundesverband des deutschen Versandhandels
 BVH	[IATA 3LC] Vilhena, Rondônia, Brazil
 BVI	[IATA 3LC] Birdsville, Queensland, Australia
+BVL	Bundesamt für Verbraucherschutz und Lebensmittelsicherheit
 BVLC	Berkeley Vision and Learning Centre
 BVLT	[DB] Betriebsstelle Velten (Mark) (Bf)
 BVLZ	[DB] Betriebsstelle Vehlefanz (Bf)
@@ -6594,6 +6649,7 @@ BZF	[DB] Betriebsstelle Zernsdorf (Bf)
 BZFA	[DB] Betriebsstelle Zernsdorf Schwellenwerk (Anst)
 BZFS	[DB] Betriebsstelle Berlin-Zehlendorf Süd (Hp)
 BZG	[IATA 3LC] Bydgoszcz, Poland
+BZGA	Bundeszentrale für gesundheitliche Aufklärung
 BZH	[IATA 3LC] Brezhnev, Russia
 BZH	[ICAO 8585] Brit Air, Frankreich
 BZHA	[DB] Betriebsstelle Zeischa (Hp)
@@ -6620,6 +6676,7 @@ BZR	[IATA 3LC] Beziers, France
 BZS	[DB] Betriebsstelle Zeesen (Hp)
 BZS	[IATA 3LC] Buzzards Point Seaplane Base, District of Columbia, United States of America
 BZSA	[DB] Betriebsstelle Zerpenschleuse (Awanst)
+BZST	Bundeszentralamt für Steuern
 BZT	Bundesamt für Zulassungen in der Telekommunikation
 BZT	[IATA 3LC] Brazoria (Eagle Air Park), Texas, United States of America
 BZU	[IATA 3LC] Buta (Zega), Zaire
@@ -8911,6 +8968,7 @@ DAH	[FIFA] Dahomey
 DAH	[IATA 3LC] Dathina, Yemen
 DAH	[ICAO 8585] Air Algérie, Algerien
 DAH	[Kfz:D] Landkreis Dachau
+DAI	Deutsches Archäologisches Institut
 DAI	[IATA 3LC] Darjeeling, India
 DAJ	[IATA 3LC] Dauan Island, Queensland, Australia
 DAK	Debian Archive Kit
@@ -9385,6 +9443,7 @@ DESC	descending
 DESC	description
 DESS	double echo steady state
 DEST	destination
+DESTATIS	Statistisches Bundesamt
 DET	[IATA 3LC] Detroit City, Michigan, United States of America
 DEU	[ISO 3166] Germany
 DEV	developer
@@ -9929,6 +9988,7 @@ DLWZ	[DB] Betriebsstelle Agro-Service-Unternehmen Langenwolmsdorf (Anst)
 DLY	[IATA 3LC] Dillons Bay, Vanuatu
 DLZ	[DB] Betriebsstelle Laußnitz (Hp)
 DLZ	[IATA 3LC] Delaware Municipal Airport, Ohio, United States of America
+DLZ-IT	Bundesanstalt für IT-Dienstleistungen
 DLZB	[DB] Betriebsstelle Laußnitz Awanst (Awanst)
 DM	Debian Maintainer
 DM	Deutsche Mark
@@ -10507,6 +10567,8 @@ DRU	[IATA 3LC] Drummond Airport, Montana, United States of America
 DRU	[ICAO 8585] Alrosa Mirny Air Enterprise, Rußland
 DRUG	[DB] Betriebsstelle Ruppertsgrün (Hp)
 DRV	drive
+DRV-BUND	Deutsche Rentenversicherung Bund
+DRV-KBS	Deutsche Rentenversicherung Knappschaft-Bahn-See
 DRVS	drive select
 DRW	[DB] Betriebsstelle Roßwein (Bf)
 DRW	[IATA 3LC] Darwin, Northern Territory, Australia
@@ -11476,7 +11538,7 @@ EB	[IATA 2LC] Air Pullmantur, Spanien
 EB	[IATA 2LC] Emery Worldwide Airlines, USA
 EB	[IATA 2LC] Wamos Air, Spanien
 EB	[Kfz:D] Landkreis Eilenburg
-EBA	Eisenbahnbundesamt
+EBA	Eisenbahn-Bundesamt
 EBA	Elektronischer Bremsassistent (cf. ESC)
 EBA	[IATA 3LC] Elba Island, Italy
 EBADF	(#9) Bad file descriptor
@@ -11513,6 +11575,7 @@ EBEK	[DB] Betriebsstelle Beckum (Bf)
 EBEO	[DB] Betriebsstelle Bönen (Bf)
 EBET	[DB] Betriebsstelle Beckum Ost (Bf)
 EBFT	[DB] Betriebsstelle Steinfurt-Burgsteinfurt (Bf)
+EBG	Eidgenössisches Büro für die Gleichstellung von Frau und Mann
 EBG	[IATA 3LC] El Barge, Colombia
 EBGA	[DB] Betriebsstelle Berghausen (Hp)
 EBGH	[DB] Betriebsstelle Bergerhammer (Anst)
@@ -11747,6 +11810,7 @@ ED	[IATA 2LC] Airblue, Pakistan
 ED	[IATA 2LC] AirExplore, Slowakei
 ED	[IATA 2LC] CCAir, USA
 ED	[Kfz:D] Landkreis Erding
+EDA	Eidgenössisches Departement für auswärtige Angelegenheiten
 EDA	[IATA 3LC] Edna Bay, Alaska, United States of America
 EDAB	[DB] Betriebsstelle Dahlbruch (Bf)
 EDAC	[ICAO 7910] Altenburg-Nobitz, Nobitz, Germany
@@ -11868,6 +11932,7 @@ EDHNK	[DB] Betriebsstelle Duisburg-Hochfeld Nord Kre (Bft)
 EDHP	[DB] Betriebsstelle Duisburg-Hochfeld Süd (Hp) (Hp)
 EDHU	[DB] Betriebsstelle Dortmund-Huckarde Nord (Hp)
 EDHZ	[DB] Betriebsstelle Duisburg-Hochfeld Süd Abzw (Abzw)
+EDI	Eidgenössisches Departement des Innern
 EDI	[IATA 3LC] Edinburgh, Scotland, United Kingdom of Great Britain and Northern Ireland
 EDIB	[DB] Betriebsstelle Diebrock (Awanst)
 EDID	extended display identification data
@@ -12257,6 +12322,7 @@ EFBIG	(#27) File too large
 EFBU	[DB] Betriebsstelle Freusburg Siedlung (Hp)
 EFC	Estrada de Ferro Carajás
 EFC	[IATA 3LC] Belle Fourche Municipal Airport, South Dakota, United States of America
+EFD	Eidgenössisches Finanzdepartement
 EFD	[IATA 3LC] Houston (Ellington Field), Texas, United States of America
 EFDB	[DB] Betriebsstelle Fredeburg (Bf)
 EFDG	[DB] Betriebsstelle Freudenberg (Kr Siegen) (Anst)
@@ -12745,6 +12811,7 @@ EJA	[IATA 3LC] Barrancabermeja, Colombia
 EJA	[ICAO 8585] NetJets, USA
 EJB	Enterprise Java Bean™
 EJH	[IATA 3LC] Wedjh, Saudi Arabia
+EJPD	Eidgenössisches Justiz- und Polizeidepartement
 EK	Elektrokarren
 EK	[IATA 2LC] Emirates Airline, Vereinigte Arabische Emirate
 EK	[Schule DE] Erweiterungskurs (gymnasialer Zweig der Gesamtschule)
@@ -13627,6 +13694,7 @@ ESOS	[DB] Betriebsstelle Soest Süd (Bf)
 ESOT	[DB] Betriebsstelle Soest (Bf)
 ESOTG	[DB] Betriebsstelle Soest Gbf (Bft)
 ESOW	[ICAO 7910] Hasslo, Vasteras, Sweden
+ESP	EFI system partition
 ESP	Elektronisches Stabilitätsprogramm (cf. ESC)
 ESP	Spanish peseta (old ISO 4217 code)
 ESP	[FIFA] Spain
@@ -17048,6 +17116,7 @@ GDT	[IATA 3LC] Grand Turk, Turks & Caicos
 GDV	[IATA 3LC] Glendive (Dawson Community), Montana, United States of America
 GDW	genau dann, wenn (german; exactly iff)
 GDW	[IATA 3LC] Gladwin (Charles C. Zettel), Michigan, United States of America
+GDWS	Generaldirektion Wasserstraßen und Schifffahrt
 GDX	[IATA 3LC] Magadan, Russia
 GDY	[IATA 3LC] Grundy Municipal Airport, Virginia, United States of America
 GE	Ge (PSE#32) Germanium | Kohlenstoff/Silicium-Gruppe | carbon group
@@ -19142,6 +19211,7 @@ HIP	[IATA 3LC] Headingly, Queensland, Australia
 HIP	[Kfz:D] Landkreis Hilpoltstein
 HIP	[RR] host identity protocol (55)
 HIPA	[DB] Betriebsstelle Rastede Ihr Platz (Awanst)
+HIPAA	Health Insurance Portability and Accountability Act
 HIPPO	highest paid person’s opinion
 HIR	[IATA 3LC] Honiara, (Henderson), Solomon Islands
 HIRD	HURD of Interfaces Representing Depth
@@ -19172,6 +19242,7 @@ HJRX	[DB] Betriebsstelle Jerxheim (Hp)
 HJT	[IATA 3LC] Khujirt, Mongolia
 HJUI	[DB] Betriebsstelle Juist (Slst)
 HK	(state railways of Kosovo) (cf. KŽ)
+HK	Havariekommando
 HK	[ccTLD] Hongkong
 HK	[DB] Betriebsstelle Kreiensen (Bf)
 HK	[IATA 2LC] Four Star Aviation / Four Star Cargo, Puerto Rico
@@ -20476,6 +20547,7 @@ HZ	[IATA 2LC] Sat Airlines, Kasachstan
 HZ	[IATA 2LC] SAT Airlines, Rußland
 HZ	[Kfz:D] Landkreis Harz
 HZ	[Kfz:D] Landkreis Herzberg
+HZA	Hauptzollamt
 HZB	[IATA 3LC] Hazebrouck, France
 HZD	[IATA 3LC] Huntingdon (Carroll County Airport), Tennessee, United States of America
 HZG	Herzog
@@ -21753,6 +21825,7 @@ JK	just kidding
 JK	[IATA 2LC] Spanair, Spanien
 JKG	[IATA 3LC] Jonkoping, Sweden
 JKH	[IATA 3LC] Chios, Greece
+JKI	Julius Kühn-Institut – Bundesforschungsinstitut für Kulturpflanzen
 JKK	[ICAO 8585] Spanair, Spanien
 JKL	[IATA 3LC] Jackson (Julian Carroll Airport), Kentucky, United States of America
 JKR	[HP] J. K. Rowling (Joanne Rowling)
@@ -22184,6 +22257,7 @@ KB P	[DB] Betriebsstelle Bonn Pbf (Bft)
 KB S	[DB] Betriebsstelle Bonn Anlegestelle KD (Slst)
 KB T	[DB] Betriebsstelle Bonn Hbf (Tief) (Tp)
 KB V	[DB] Betriebsstelle Bonn Vorbf Bft (Bft)
+KBA	Kraftfahrt-Bundesamt
 KBA	[DB] Betriebsstelle Baal (Hp)
 KBA	[IATA 3LC] Kabala, Sierra Leone
 KBA	[ICAO 8585] Kenn Borek Air, Kanada
@@ -24607,6 +24681,7 @@ LB 1	[DB] Betriebsstelle Brandenburg (Est)
 LB B	[DB] Betriebsstelle Brandenburg August-Bebel-Straße (Bush)
 LB G	[DB] Betriebsstelle Brandenburg Hbf Gbf (Bft)
 LBA	logical block addressing
+LBA	Luftfahrt-Bundesamt
 LBA	[DB] Betriebsstelle Brandenburg-Altstadt (Bf)
 LBA	[IATA 3LC] Leeds/Bradford, England, United Kingdom of Great Britain and Northern Ireland
 LBA	[IOC] Libya
@@ -26896,6 +26971,7 @@ LUE	[IATA 3LC] Lucenec, Slovakia
 LUEB	[DB] Betriebsstelle Uebigau (Hp)
 LUF	Luxembourg franc (old ISO 4217 code)
 LUF	[IATA 3LC] Glendale/Phoenix (Luke Air Force Base), Arizona, United States of America
+LUFABW	Luftfahrtamt der Bundeswehr
 LUFS	Linux Userland File System
 LUG	Linux user group
 LUG	local user group
@@ -27295,7 +27371,7 @@ MAC	[FIFA] Macau
 MAC	[IATA 3LC] Macon (Herbert Smart Downtown Airport), Georgia, United States of America
 MACC	Master of Accountancy
 MACHIN	(french metasyntactic variable)
-MAD	militärischer Abschirmdienst
+MAD	Militärischer Abschirmdienst
 MAD	Moroccan dirham (ISO 4217 code)
 MAD	mutually assured destruction
 MAD	[DB] Betriebsstelle Adelschlag (Hp)
@@ -29366,6 +29442,7 @@ MRGP	[ICAO 7910] Guapiles Airport, Guapiles, Costa Rica
 MRH	[DB] Betriebsstelle Rebdorf-Hofmühle (Hp)
 MRH	[IATA 3LC] May River, Papua New Guinea
 MRI	magnetic resonance imaging (cf. MRT)
+MRI	Max Rubner-Institut – Bundesforschungsinstitut für Ernährung und Lebensmittel
 MRI	[DB] Betriebsstelle München-Riem (Bf)
 MRI	[FIFA] Mauritius
 MRI	[IATA 3LC] Anchorage (Merrill Field), Alaska, United States of America
@@ -29565,6 +29642,7 @@ MSL	[ICAO 8585] Marsland Aviation, Sudan
 MSLG	[DB] Betriebsstelle Schierling (Anst)
 MSLH	[DB] Betriebsstelle Schopfloch (Anst)
 MSLS	[DB] Betriebsstelle Schlachters (Bk)
+MSM	mainstream media
 MSM	[DB] Betriebsstelle Schleißheim (Bf)
 MSM	[IATA 3LC] Masi Manimba, Zaire
 MSMH	[DB] Betriebsstelle Simbach (b. Landau/Isar) (Anst)
@@ -33916,6 +33994,7 @@ PEGIDA	Patrioten gegen Islamisierung des Abendlandes
 PEGIDA	pubertierende Erbsenzähler gegen Intelligenz der Allgemeinheit
 PEH	Peruvian sol (old ISO 4217 code)
 PEH	[IATA 3LC] Pehuajo (Comodoro Zanni), Argentina
+PEI	Paul-Ehrlich-Institut – Bundesinstitut für Impfstoffe und biomedizinische Arzneimittel
 PEI	Peruvian inti (old ISO 4217 code)
 PEI	[IATA 3LC] Pereira (Matecana), Colombia
 PEK	[IATA 3LC] Beijing (Capital), China
@@ -34244,6 +34323,7 @@ PLE	[IOC] State of Palestine
 PLEXUS	[SPDX] Plexus Classworlds Licence – http://spdx.org/licenses/Plexus.html
 PLF	[IATA 3LC] Pala, Chad
 PLG	[IATA 3LC] La Plagne, France
+PLGABW	Planungsamt der Bundeswehr
 PLGR	Precision Lightweight GPS Receiver
 PLH	[IATA 3LC] Plymouth (Roborough Airport), England, United Kingdom of Great Britain and Northern Ireland
 PLI	[IATA 3LC] Palm Island, St. Vincent and the Grenadines
@@ -36482,6 +36562,7 @@ RKHA	[DB] Betriebsstelle Karlsruhe-Hagsfeld (Bf)
 RKHE	[DB] Betriebsstelle Karlsruhe Hafen E-Werk (Anst)
 RKHF	[DB] Betriebsstelle Karlsruhe Hafen (Bf)
 RKHS	[DB] Betriebsstelle Königschaffhausen (Bf)
+RKI	Robert-Koch-Institut – Bundesinstitut für Infektionskrankheiten und nicht übertragbare Krankheiten
 RKI	[IATA 3LC] Rokot, Indonesia
 RKID	[DB] Betriebsstelle Karlsruhe-Knielingen Endstation (Bf)
 RKIE	[DB] Betriebsstelle Karlsruhe Knielingen ESSO (Tpg)
@@ -38572,6 +38653,7 @@ SFB	Sender Freies Berlin
 SFB	Signalisierter Falschfahrbetrieb
 SFB	[IATA 3LC] Sanford (Central Florida), Florida, United States of America
 SFB	[Kfz:D] Landkreis Senftenberg
+SFBA	San Francisco / Bay Area
 SFBX	[DB] Betriebsstelle Forbach (SNCF) (Emst)
 SFC	sequential function chart
 SFC	Sergeant First Class
@@ -41627,7 +41709,7 @@ THU	[IATA 3LC] Thule (Air Base), Greenland
 THUB	[DB] Betriebsstelle Böblingen Hulb (Hp)
 THUD	(english metasyntactic variable)
 THV	[IATA 3LC] York Airport, Pennsylvania, United States of America
-THW	Technisches Hilfswerk
+THW	Bundesanstalt Technisches Hilfswerk
 THW	trinken, helfen, weitersaufen
 THW	[Kfz:D] Dienstfahrzeuge der Bundesanstalt Technisches Hilfswerk
 THX	thanks
@@ -43139,6 +43221,7 @@ UB	[DB] Betriebsstelle Bachfeld (Hp)
 UB	[EDU] Universitätsbiliothek
 UB	[IATA 2LC] Myanma Airways, Myanmar (Birma)
 UB	[IATA 2LC] Myanmar National Airlines, Myanmar (Birma)
+UBA	Umweltbundesamt
 UBA	[DB] Betriebsstelle Bibra (Hp)
 UBA	[IATA 3LC] Uberaba, Minas Gerais, Brazil
 UBA	[ICAO 8585] Myanma Airways, Myanmar (Birma)
@@ -44310,6 +44393,7 @@ UVA	[DB] Betriebsstelle Vachdorf (Hp)
 UVA	[IATA 3LC] Uvalde (Garner Field), Texas, United States of America
 UVE	[DB] Betriebsstelle Veßra (Hp)
 UVE	[IATA 3LC] Uvea, Loyalty Islands, New Caledonia
+UVEK	Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation
 UVF	[DB] Betriebsstelle Veilsdorf (Bf)
 UVF	[IATA 3LC] Hewanorra International Airport, Vieux-Fort, Saint Lucia
 UVGA	(cf. SXGA)
@@ -44582,6 +44666,7 @@ VBL	Verbund Bergisches Land (cf. VRS)
 VBN	Verkehrsverbund Bremen-Niedersachsen
 VBR	variable bit rate
 VBR	volume boot record (PBR)
+VBS	Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport
 VBS	VBscript (cf. VBA, VB)
 VBS	video, blanking, and sync (cf. BAS)
 VBV	[IATA 3LC] Vanuabalavu, Fiji
@@ -45283,6 +45368,7 @@ VTD	vote to delete
 VTE	[IATA 3LC] Vientiane (Wattay), Laos
 VTF	[IATA 3LC] Vatulele, Fiji
 VTG	Verkehrs- und Tarifgemeinschaft Halle (cf. MDV)
+VTI	Johann Heinrich von Thünen-Institut – Bundesforschungsinstitut für Ländliche Räume, Wald und Fischerei
 VTI	[IATA 3LC] Vinton Veterans Memorial Airpark, Iowa, United States of America
 VTL	[IATA 3LC] Vittel, France
 VTN	[IATA 3LC] Valentine (Miller Field), Nebraska, United States of America
@@ -45644,6 +45730,7 @@ WBESG	[DB] Betriebsstelle Beetz, Gemeindeverwaltung (Bush)
 WBEU	[DB] Betriebsstelle Beuchow (Hp)
 WBEZ	[DB] Betriebsstelle Benz (Bush)
 WBEZA	[DB] Betriebsstelle Benz Abzw (Bush)
+WBF	Eidgenössisches Departement für Wirtschaft, Bildung und Forschung
 WBF	[DB] Betriebsstelle Bergfeld (Hp)
 WBF	[SC] Weltraumbaufahrzeug
 WBG	[DB] Betriebsstelle Bergen auf Rügen (Bf)
@@ -45764,6 +45851,7 @@ WCD	Defibrillatorweste
 WCD	Wearable Cardioverter/Defibrillator
 WCDMA	see W-CDMA
 WCF	Windows Communication Foundation
+WCGW	what could go wrong?
 WCH	[IATA 3LC] Chaiten, Chile
 WCIT	World Conference on International Telecommunications
 WCJ	[IATA 3LC] Caleta Josefina, Chile
@@ -45774,6 +45862,7 @@ WCOK	[DB] Betriebsstelle Chorin Hp (Hp)
 WCON	[DB] Betriebsstelle Conow (Anst)
 WCP	[DB] Betriebsstelle Carpin (Hp)
 WCPGW	what could possibly go wrong
+WCPGW	what could possibly go wrong?
 WCR	[IATA 3LC] Chandalar Lake, Alaska, United States of America
 WCS	waste collection system
 WCS	wide character string
@@ -47181,6 +47270,7 @@ WSU	[IATA 3LC] Wasu, Papua New Guinea
 WSUD	[DB] Betriebsstelle Suhrendorf (Bush)
 WSUIPA	[SPDX] Wsuipa Licence – http://spdx.org/licenses/Wsuipa.html
 WSULA	[DB] Betriebsstelle Süllitz Abzw (Bush)
+WSV	Wasser- und Schifffahrtsverwaltung des Bundes (cf. GDWS)
 WSV	Winterschlußverkauf
 WSVGA	Wide SVGA (1024x600px); variants: 1024x576px
 WSW	Westsüdwest, west-south-west
@@ -50965,6 +51055,7 @@ Z8	[IATA 2LC] Línea Aérea Amaszonas, Bolivien
 Z8	[IATA 2LC] Mali Airways, Mali
 Z8	[IATA 2LC] Pulkovo Aviation Enterprise, Rußland
 Z9	[IATA 2LC] Bek Air, Kasachstan
+ZA	Zollamt
 ZA	[ccTLD] Südafrika
 ZA	[dental] Zahnarzt
 ZA	[IATA 2LC] Astair Airlines, Rußland
@@ -51097,6 +51188,7 @@ ZF	[IATA 2LC] Athens Airways, Griechenland
 ZF	[IATA 2LC] Atlantic Airlines de Honduras, Honduras
 ZF	[IATA 2LC] Azur Air, Rußland
 ZF	[IATA 2LC] Safari Express Cargo, Kenia
+ZFA	Zollfahndungsamt
 ZFA	[IATA 3LC] Faro, Yukon, Canada
 ZFB	[IATA 3LC] Old Fort Bay, Quebec, Canada
 ZFD	[IATA 3LC] Fond-du-Lac, Saskatchewan, Canada
@@ -51197,6 +51289,7 @@ ZKE	[IATA 3LC] Kaschechewan, Quebec, Canada
 ZKG	[IATA 3LC] Kegaska, Quebec, Canada
 ZKL	[IATA 3LC] Steenkool, Indonesia
 ZKM	[IATA 3LC] Sette Cama, Gabon
+ZKOM	Zollkommissariat
 ZKPY	[ICAO 7910] Sunan, Pyongyang, North Korea
 ZKPY	[ICAO 7910] Sunan, Pyongyang, South Korea
 ZKR	[IATA 3LC] Karlovasi, Greece
