@@ -1,5 +1,5 @@
   à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž α/Α ε/Ε λ/Λ ο/Ο π/Π ς/Σ σ/Σ а/А б/Б в/В г/Г д/Д е/Е з/З и/И й/Й к/К л/Л м/М н/Н о/О п/П р/Р с/С т/Т у/У ф/Ф х/Х ц/Ц ш/Ш э/Э ю/Ю қ/Қ ա/Ա հ/Հ յ/Յ
- @(#)$MirOS: wtf/acronyms,v 1.586 2016/08/29 18:30:21 tg Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.587 2016/08/30 20:24:10 tg Exp $
  From $NetBSD: acronyms,v 1.249 2016/07/21 05:07:04 dholland Exp $
  From $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
  From $NetBSD: acronyms.comp,v 1.168 2016/08/14 23:07:04 dholland Exp $
@@ -28113,6 +28113,7 @@ MFE	[IATA 3LC] Miller International Airport, Texas, United States of America
 MFF	[IATA 3LC] Moanda, Gabon
 MFG	manufacturing
 MFG	mit freundlichen Grüßen
+MFG	Mitfahrgelegenheit
 MFG	with friendly greetings
 MFG	[DB] Betriebsstelle München-Fasangarten (Hp)
 MFG	[IATA 3LC] Muzaffarabad, Pakistan
