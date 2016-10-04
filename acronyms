@@ -1,10 +1,10 @@
   à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž α/Α ε/Ε λ/Λ ο/Ο π/Π ς/Σ σ/Σ а/А б/Б в/В г/Г д/Д е/Е з/З и/И й/Й к/К л/Л м/М н/Н о/О п/П р/Р с/С т/Т у/У ф/Ф х/Х ц/Ц ш/Ш э/Э ю/Ю қ/Қ ա/Ա հ/Հ յ/Յ
- @(#)$MirOS: wtf/acronyms,v 1.588 2016/09/11 18:51:22 tg Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.589 2016/10/04 19:21:59 tg Exp $
  From $NetBSD: acronyms,v 1.249 2016/07/21 05:07:04 dholland Exp $
  From $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
  From $NetBSD: acronyms.comp,v 1.168 2016/08/14 23:07:04 dholland Exp $
  From $NetBSD: airport,v 1.63 2016/06/08 04:25:31 kre Exp $
- From $OpenBSD: airport,v 1.56 2016/07/10 13:52:27 schwarze Exp $
+ From $OpenBSD: airport,v 1.57 2016/10/04 17:27:39 fcambus Exp $
  From github: othyro/wtfubar refs/tags/wtfubar-2.4.0
  From miros: src/sys/sys/errno.h,v 1.11 2014/09/05 22:38:17 tg Exp $
 !	[MORSE] -.-.-- (KW digraph)
@@ -1649,7 +1649,8 @@ ADO B	[DB] Betriebsstelle Dorum Busbf (Bush)
 ADOBE-2006	[SPDX] Adobe Systems Incorporated Source Code Licence Agreement – http://spdx.org/licenses/Adobe-2006.html
 ADOBE-GLYPH	[SPDX] Adobe Glyph List Licence – http://spdx.org/licenses/Adobe-Glyph.html
 ADOP	along-track Dilution of Precision
-ADOS	attention deficit ... oh, shiny!
+ADOS	attention deficit … oh, shiny!
+ADOSD	attention deficit … oh, shiny! disorder
 ADP	Andorran peseta (old ISO 4217 code)
 ADP	automatic data processing
 ADP	Außendienstposten
@@ -3285,6 +3286,7 @@ AST	AT&T Software Technology (ast-ksh package) from AT&T Labs Research
 AST	Außenstelle
 AST	[DB] Betriebsstelle Stade (Bf)
 AST	[IATA 3LC] Port of Astoria Airport, Oregon, United States of America
+AST	[RPG] Heilerklasse Astrologe (cf. HLR)
 AST	[TZif] America/Glace_Bay
 AST	[TZif] America/Goose_Bay
 AST	[TZif] America/Grand_Turk
@@ -5587,7 +5589,7 @@ BOH	[DB] Betriebsstelle Berlin Osthafen (Bf)
 BOH	[FIFA] Bohemia
 BOH	[IATA 3LC] Bournemouth, England, United Kingdom of Great Britain and Northern Ireland
 BOH	[Kfz:D] kreisfreie Stadt Bocholt
-BOHICA	bend over here it comes again
+BOHICA	bend over, here it comes again
 BOI	Brandoberinspektor
 BOI	[IATA 3LC] Boise Air Terminal/Gowen Field, Idaho, United States of America
 BOJ	[IATA 3LC] Burgas, Bulgaria
@@ -8972,7 +8974,7 @@ DAEMON	(that cuddly red BSD mascot)
 DAEMON	disk and execution monitor
 DAF	[DB] Betriebsstelle Arnsdorf (b. Dresden) (Bf)
 DAF	[IATA 3LC] Daup, Papua New Guinea
-DAFUQ	... the fuck
+DAFUQ	… the fuck
 DAG	[DB] Betriebsstelle Altenberg (Erzgeb) (Bf)
 DAG	[IATA 3LC] Barstow-Daggett Airport, California, United States of America
 DAG	[ICAO 8585] Dagestan Airlines, Rußland
@@ -9296,6 +9298,7 @@ DD	[IATA 2LC] Atlantic Coast Jet, USA
 DD	[IATA 2LC] Conti-Flug, Deutschland
 DD	[IATA 2LC] Nok Air, Thailand
 DD	[Kfz:D] Landkreis Dresden
+DD	[RPG] damage dealer (cf. dps)
 DDB	Deutsche Digitale Bibliothek
 DDB	[DB] Betriebsstelle Deutschenbora (Bf)
 DDC	display data channel
@@ -9756,6 +9759,7 @@ DIK	[IATA 3LC] Dickinson Municipal Airport, North Dakota, United States of Ameri
 DIKO	[ICAO 7910] Korhogo, Korhogo, Ivory Coast
 DIL	[IATA 3LC] Dili (Komoro), East Timor
 DIL	[Kfz:D] Dillkreis
+DILLIGAF	do I look like I give a fuck?
 DIM	diminuendo
 DIMDI	Deutsches Institut für Medizinische Dokumentation und Information
 DIMM	dual inline memory module
@@ -10271,7 +10275,7 @@ DOCF	[DB] Betriebsstelle Obercunnersdorf (Hp Anst)
 DOCG	Denominación de Origen Controlada y Garantizada (cf. DOC)
 DOCG	Denominazione di Origine Controllata e Garantita
 DOCG	Kontrollierte und garantierte Ursprungsbezeichnung
-DOCH	German for “yes” answering “you don’t ..., do you?”
+DOCH	German for “yes” answering “you don’t …, do you?”
 DOCW	[DB] Betriebsstelle Obercunewalde Hp (Hp)
 DOD	(cf. KMDOD)
 DOD	[DB] Betriebsstelle Oberottendorf (Hp Anst)
@@ -12241,6 +12245,7 @@ EENP	[DB] Betriebsstelle Ennepetal (Hp)
 EENR	[DB] Betriebsstelle Enniger (Bf)
 EENW	[DB] Betriebsstelle Essen West (Bf)
 EENWW	[DB] Betriebsstelle Essen West W401 (Bft)
+EEP	European Endangered Species Program
 EEPE	[DB] Betriebsstelle Epe (Westf) (Bf)
 EEPR	[DB] Betriebsstelle Espeln-Riege (Bf)
 EEPROM	electrically erasable programmable read only memory
@@ -13366,6 +13371,7 @@ EOS V	[DB] Betriebsstelle Oberhausen-Osterfeld Süd Bezirk IV (Bft)
 EOS W	[DB] Betriebsstelle Oberhausen-Osterfeld Süd Swo (Bft)
 EOSD	[DB] Betriebsstelle Oberhausen-Sterkrade (Bf)
 EOSDT	[DB] Betriebsstelle Oberhausen-Sterkrade Thyssen (Anst)
+EOT	embedded OpenType font
 EOT	end of tape
 EOT	U+0004 ␄ END OF TRANSMISSION
 EOTN	[DB] Betriebsstelle Ostönnen (Awanst)
@@ -15299,6 +15305,7 @@ FIN	[FIFA] Finland
 FIN	[IATA 3LC] Finschhafen, Papua New Guinea
 FIN	[ICAO 8585] Finnair, Finnland
 FIN	[Kfz] Finnland
+FINE	fucked in extreme
 FIOCLEX	ioctl(2) set close-on-exec flag (usually F_SETFD though)
 FIOGETOWN	ioctl(2) get process/group for SIGIO
 FIONASYNC	ioctl(2) set asynchronous I/O
@@ -15932,6 +15939,7 @@ FOC	free of charge
 FOC	Full Operational Capability
 FOC	[IATA 3LC] Fuzhou, China
 FOCK	[DB] Betriebsstelle Ockenheim (Hp)
+FOCUS	fuck off ’cause you’re stupid
 FOD	[IATA 3LC] Fort Dodge Regional Airport, Iowa, United States of America
 FOE	[DB] Betriebsstelle Oestrich-Winkel (Bf)
 FOE	[IATA 3LC] Topeka Forbes Field, Kansas, United States of America
@@ -17503,6 +17511,7 @@ GLX	[IATA 3LC] Galela, Indonesia
 GLY	[IATA 3LC] Mt. Goldworthy, Western Australia, Australia
 GM	game master
 GM	Gelenkmast
+GM	Goldmünzen
 GM	[ccTLD] Gambia
 GM	[IATA 2LC] Air Slovakia, Slowakei
 GM	[IATA 2LC] Germania Flug, Schweiz
@@ -17721,6 +17730,8 @@ GPS	GC1JY47 Rainbow’s End: Grand Prismatic Spring
 GPS	generalised processor sharing
 GPS	Geographische Partei Saputziens
 GPS	global positioning system
+GPS	grumpy person speaking
+GPS	grumpy pointing spouse
 GPS	[IATA 3LC] Galapagos Islands, Ecuador
 GPSH	Global Positioning Stash Hunt
 GPSH	GPS Stash Hunt
@@ -19210,7 +19221,7 @@ HIG	human interface guidelines
 HIG	[IATA 3LC] Highbury, Australia
 HIG	[Kfz:D] Landkreis Heiligenstadt
 HIG	“let’s swap the order of MsgBox buttons from what most people expect to what some people think is better”
-HIG	“oh, let’s hide all those options... that will only confuse the users”
+HIG	“oh, let’s hide all those options… that will only confuse the users”
 HIGT	[DB] Betriebsstelle Gifhorn Teves (Awanst)
 HIH	[DB] Betriebsstelle Ildehausen Ost (Bk)
 HIH	[IATA 3LC] Hook Island, Australia
@@ -19232,6 +19243,7 @@ HINF	Hinfahrt
 HINFO	[RR] host information (13)
 HIO	[IATA 3LC] Hillsboro (Portland-Hillsboro Airport), Oregon, United States of America
 HIOB	Hubarbeitsbühneninstandhaltungsfahrzeug für Oberleitungsanlagen
+HIP	historically informed performance
 HIP	[IATA 3LC] Headingly, Queensland, Australia
 HIP	[Kfz:D] Landkreis Hilpoltstein
 HIP	[RR] host identity protocol (55)
@@ -19485,6 +19497,7 @@ HLOX	[DB] Betriebsstelle Loxstedt (Hp)
 HLP	[IATA 3LC] Jakarta (Halim Perdanakusuma), Indonesia
 HLR	home location register
 HLR	[IATA 3LC] Fort Hood (Army Air Field), Texas, United States of America
+HLR	[RPG] healer
 HLRI	[DB] Betriebsstelle Lüstringen (Bft)
 HLS	Historisches Lexikon der Schweiz
 HLS	[DB] Betriebsstelle Lauenstein (Han) (Museum)
@@ -19994,6 +20007,8 @@ HRYU	[ICAO 7910] Ruhengeri, Ruhengeri, Rwanda
 HRZ	Hochschul-Rechenzentrum (cf. RZ)
 HRZA	[ICAO 7910] Kamembe, Kamembe, Rwanda
 HS	Formsperrsignal
+HS	High Society
+HS	Holland Süd
 HS	Hs (PSE#108) Hassium | Übergangsmetalle | transition metals | metalla transitionis
 HS	[DB] Betriebsstelle Seelze Pbf (Bf)
 HS	[DNS] CLASS 4: Hesiod
@@ -20320,6 +20335,7 @@ HUKS	[ICAO 7910] Kasese, Kasese, Uganda
 HUL	[IATA 3LC] Houlton International Airport, Maine, United States of America
 HUM	[IATA 3LC] Houma-Terrebonne Airport, Louisiana, United States of America
 HUMA	[ICAO 7910] Mbarara, Mbarara, Uganda
+HUMAS	head up my arse syndrom
 HUMI	[ICAO 7910] Masindi, Masindi, Uganda
 HUMINT	[SIGINT] human intelligence
 HUN	[FIFA] Hungary
@@ -26919,6 +26935,7 @@ LTF	[DB] Betriebsstelle Tiefenbachmühle (Bf)
 LTF	[GPSH] last to find
 LTF	[IATA 3LC] Leitre, Papua New Guinea
 LTF	[ICAO 8585] Lufttaxi Fluggesellschaft, Deutschland
+LTF;DR	links to Facebook; didn’t read
 LTFC	[ICAO 7910] Suleyman Demirel Airport, Isparta, Turkey
 LTFD	[ICAO 7910] Edremit Korfez Airport, Balikesir, Turkey
 LTFE	[ICAO 7910] Milas-Bodrum Airport, Milas, Turkey
@@ -26931,6 +26948,7 @@ LTG	[DB] Betriebsstelle Torgau (Bf)
 LTG	[IATA 3LC] Langtang, Nepal
 LTG 1	[DB] Betriebsstelle Torgau (Est)
 LTG E	[DB] Betriebsstelle Torgau Abzw Et (Bft)
+LTG;DR	links to Google; didn’t read
 LTH	[DB] Betriebsstelle Tangerhütte (Bf)
 LTH	[IATA 3LC] Lathrop Wells, Nevada, United States of America
 LTHI	[DB] Betriebsstelle Thießen (Hp Bk)
@@ -27852,7 +27870,7 @@ MCSE	mouse clicks selected “erase”
 MCSE	mozilla couldn’t stomach explorer
 MCSE	multiple corrective servicepack exorcist
 MCSE	must consult someone experienced
-MCSE	must... contain... STR. Eaaaaaaaaaaaurgh!
+MCSE	must… contain… STR. Eaaaaaaaaaaaurgh!
 MCSE	mutant computer solutions evangelist
 MCSE	mutant computers seem eviscerated
 MCSE	mutated convoluted strokery everywhere
@@ -30938,8 +30956,8 @@ NESU	[DB] Betriebsstelle Eschenau (Mittelfr) (Bf)
 NET	[DB] Betriebsstelle Etterzhausen (Hp)
 NET	[uTLD] network (Netzverwaltung)
 NETBEUI	NetBIOS Extended User Interface
-NETBSD	... is a registered trademark of TNF
 NETBSD	most portable open source operating system – http://www.netbsd.org/
+NETBSD	… is a registered trademark of TNF
 NETCDF	[SPDX] NetCDF licence – http://spdx.org/licenses/NetCDF.html
 NEU	[DB] Betriebsstelle Euerdorf (Hp Anst)
 NEU	[IATA 3LC] Iwakuni (Marine Corps), Honshu, Japan
@@ -33010,7 +33028,7 @@ OIMT	[ICAO 7910] Tabas Airport, Tabas, Iran
 OIN	[IATA 3LC] Oberlin Municipal Airport, Kansas, United States of America
 OINR	[ICAO 7910] Ramsar Airport, Ramsar, Iran
 OINZ	[ICAO 7910] Dasht-E-Naz Airport, Sari, Iran
-OIOW	or, in other words, ...
+OIOW	or, in other words, …
 OIR	[IATA 3LC] Okushiri, Japan
 OIS	Objective Interface Systems, Inc.
 OISS	[ICAO 7910] Shiraz Intl Airport, Shiraz, Iran
@@ -35469,6 +35487,7 @@ QPD	[IATA 3LC] Pinar del Rio, Cuba
 QPE	[IATA 3LC] Petropolis, Rio de Janeiro, Brazil
 QPF	[IATA 3LC] Pompeia, São Paulo, Brazil
 QPG	[IATA 3LC] Singapore (Paya Lebar), Singapore
+QPI	quickpath interconnect (Intel)
 QPL-1.0	[SPDX] Q Public Licence 1.0 – http://spdx.org/licenses/QPL-1.0.html
 QPR	[IATA 3LC] Prato, Italy
 QPS	Queries Per Second
@@ -37802,7 +37821,7 @@ RZA	[DB] Betriebsstelle Zaisenhausen (Bf)
 RZA	[IATA 3LC] Santa Cruz, Argentina
 RZD	Russische Eisenbahnen
 RZE	[DB] Betriebsstelle Zeutern (Bf)
-RZE	[IATA 3LC] Rzeszow (Jasionka), Poland
+RZE	[IATA 3LC] Jasionka, Rzeszow, Poland
 RZEO	[DB] Betriebsstelle Zeutern Ost (Bf)
 RZES	[DB] Betriebsstelle Zeutern Sportplatz (Hp)
 RZH	[IATA 3LC] Lancaster (Quartz Hill), California, United States of America
@@ -39707,6 +39726,7 @@ SOC 31	Space Operations Centre 31
 SOCA	[ICAO 7910] Cayenne - Rochambeau, Cayenne, French Guiana
 SOCSCD	Doctor of Social Science
 SOD	[IATA 3LC] Sorocaba, Brazil
+SOE	Secret of Evermore
 SOE	Standard Operating Environment (a spec, image, or build process that attempts (usually unsuccessfully) to produce identical machines, typically under the management of a central authority that does its damnedest to get in the way of useful work)
 SOE	[IATA 3LC] Souanke, Congo
 SOEG	Sächsisch-Oberlausitzer Eisenbahngesellschaft mbH
@@ -39740,6 +39760,7 @@ SOL	[Kfz:D] Landkreis Soltau
 SOL	[Kfz] Salomonen
 SOL	[Schule DE] Soziales Lernen
 SOLDAT	Soll Ohne Langes Denken Alles Tun
+SOM	Secret of Mana
 SOM	[FIFA] Somalia
 SOM	[IATA 3LC] San Tome, Venezuela
 SON	[IATA 3LC] Espirito Santo (Pekoa), Vanuatu
@@ -40490,6 +40511,7 @@ SULS	[ICAO 7910] Capitan Curbelo Intl, Maldonado, Uruguay
 SUM	Schnellumbaumaschine
 SUM	[DB] Betriebsstelle Ulmet (Hp Anst a.B.)
 SUM	[IATA 3LC] Sumter Municipal Airport, South Carolina, United States of America
+SUMA	sufficiently uniform memory access
 SUMO	[ICAO 7910] Cerro Largo Intl, Melo, Uruguay
 SUMP	secure unicast messaging protocol
 SUMU	[ICAO 7910] Carrasco Intl/Gen C L Berisso, Montevideo, Uruguay
@@ -41040,7 +41062,7 @@ TANGO	enemy
 TANGO	T (International Radiotelephony Spelling Alphabet)
 TANJUG	Telegrafska Agencija Nova Jugoslavija
 TANKOMAT	Tankstellenautomat
-TANSTA	there ain’t (no) such thing as ...
+TANSTA	there ain’t (no) such thing as …
 TANSTAAFL	there ain’t no such thing as a free lunch
 TAN⁻¹	Arkustangēns (cf. tan)
 TAO	track at once
@@ -41490,7 +41512,6 @@ TEY H	[DB] Betriebsstelle Eyach HZL (Bf)
 TEZ	[DB] Betriebsstelle Enzberg (Hp)
 TEZ	[IATA 3LC] Tezpur, India
 TEZL	[DB] Betriebsstelle Esslingen-Zell (Hp)
-TF	... the fuck
 TF	Triebfahrzeugführer
 TF	[ccTLD] Französische Süd- und Antarktisgebiete
 TF	[DB] Betriebsstelle Friedrichshafen Stadt (Bf)
@@ -41498,6 +41519,7 @@ TF	[IATA 2LC] Avia Traffic Company, Kirgisistan
 TF	[IATA 2LC] Malmö Aviation, Schweden
 TF	[ISO 3166] French Southern & Antarctic Lands
 TF	[Kfz:D] Landkreis Teltow-Fläming
+TF	… the fuck
 TF 1	[DB] Betriebsstelle Friedrichshafen (Est)
 TF R	[DB] Betriebsstelle Friedrichshafen Gbf (Bft)
 TFA	[DB] Betriebsstelle Faurndau Nord (Bf)
@@ -41822,7 +41844,7 @@ TINASOTODP	this is not a statement of the official Debian position
 TINC	(self-routing, mesh networking VPN)
 TINC	there is no cabal
 TINLA	this is not legal advice
-TINSTA	there is no such thing as ...
+TINSTA	there is no such thing as …
 TINWIS	this is not what I said
 TIO	[IATA 3LC] Tilin, Myanmar
 TIOCCBRK	tty(4) Clear the terminal hardware BREAK condition
@@ -42083,6 +42105,7 @@ TLS	Theaterlexikon der Schweiz
 TLS	thread-local storage
 TLS	tiny little sister
 TLS	transport layer security
+TLS	Transportlogistikkreis der Region Stuttgart, Logistik-Netzwerk der verladenden Wirtschaft
 TLS	[FIFA] Timor-Leste
 TLS	[IATA 3LC] Toulouse (Blagnac), France
 TLSA	[RR] TLSA certificate association (52)
@@ -47392,7 +47415,7 @@ WTF	where the fuck
 WTF	where’s the food
 WTF	who the fuck
 WTF	why the fuck
-WTFM	write the fucking manual (GRUB2...)
+WTFM	write the fucking manual (GRUB2…)
 WTFPL	[SPDX] Do What The F*ck You Want To Public Licence – http://spdx.org/licenses/WTFPL.html
 WTFRUD	what the fuck are you doing
 WTG	way to go
@@ -49129,6 +49152,7 @@ XLV	[IATA 3LC] Niagara Falls, Ontario, Canada
 XLW	[DB] Betriebsstelle Wasserbillig (Bf)
 XLW	[IATA 3LC] Bremen (Lemwerder), Germany
 XLZ	[IATA 3LC] Truro, Nova Scotia, Canada
+XM	exotic matter
 XM	[IATA 2LC] Alitalia Express, Italien
 XM	[IATA 2LC] Australian Air Express, Australien
 XM	[IATA 2LC] J-Air, Japan
