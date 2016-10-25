@@ -1,5 +1,5 @@
   à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž α/Α ε/Ε λ/Λ ο/Ο π/Π ς/Σ σ/Σ а/А б/Б в/В г/Г д/Д е/Е з/З и/И й/Й к/К л/Л м/М н/Н о/О п/П р/Р с/С т/Т у/У ф/Ф х/Х ц/Ц ш/Ш э/Э ю/Ю қ/Қ ա/Ա հ/Հ յ/Յ
- @(#)$MirOS: wtf/acronyms,v 1.592 2016/10/23 22:48:44 tg Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.593 2016/10/25 19:55:37 tg Exp $
  From $NetBSD: acronyms,v 1.249 2016/07/21 05:07:04 dholland Exp $
  From $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
  From $NetBSD: acronyms.comp,v 1.168 2016/08/14 23:07:04 dholland Exp $
@@ -19265,7 +19265,9 @@ GG	[Stw] (Gg) [mech E] Gotha (Fdl: Ww; aB Abl, nur Rang, AB 05/1995)
 GGA	good game all
 GGB	Gemeinsames Gebet- und Gesangbuch (Gotteslob)
 GGB	Gornergrat-Monte Rosa-Bahnen
+GGC	GMCH Graphics Control (cf. GCMH)
 GGC	[IATA 3LC] Lumbala, Angola
+GGCGGMS	GGC GTT Graphics Memory Size (cf. GGC) (cf. GTT)
 GGD	[IATA 3LC] Gregory Downs, Queensland, Australia
 GGE	[IATA 3LC] Georgetown County Airport, South Carolina, United States of America
 GGF	(cf. GGFS)
@@ -19518,6 +19520,7 @@ GMBH	Geh mir/mal Bier holen (german pun)
 GMBH	Gesellschaft mit beschränkter Haftung (german/austrian/swiss)
 GMBH	Gesellschaft mit beschränkter Hoffnung
 GMC	[IATA 3LC] Guerima, Colombia
+GMCH	Graphics and Memory Controller Hub
 GMCH	graphics and memory controller hub
 GMD	Gambian dalasi (ISO 4217 code)
 GME	[IATA 3LC] Gomel, Belarus
@@ -20027,6 +20030,7 @@ GTS	General Transport Service Rail
 GTS	[IATA 3LC] Granites, Northern Territory, Australia
 GTSY	glad to see you
 GTSY	good to see you
+GTT	Graphics Translation Table
 GTT	Gruppo Torinese Trasporti (former SATTI)
 GTT	[IATA 3LC] Georgetown, Queensland, Australia
 GTV	Gemeinschaftstarif Vorpommern
@@ -30795,6 +30799,7 @@ MCF	Monegasque franc (old ISO 4217 code)
 MCF	[IATA 3LC] Tampa (Mac Dill Air Force Base), Florida, United States of America
 MCG	[IATA 3LC] McGrath Airport, Alaska, United States of America
 MCGA	Multi-Colour Graphics Array
+MCH	Memory Controller Hub
 MCH	memory controller hub
 MCH	[DB] Betriebsstelle Chieming (Slst)
 MCH	[IATA 3LC] Machala, Ecuador
@@ -38262,6 +38267,7 @@ POC	percentage of completion
 POC	phone operation centre
 POC	piece of cake
 POC	pile of crap
+POC	Piß’ oder Kacke
 POC	point of care
 POC	point of contact
 POC	port of call
