@@ -1,5 +1,5 @@
   à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž α/Α ε/Ε λ/Λ ο/Ο π/Π ς/Σ σ/Σ а/А б/Б в/В г/Г д/Д е/Е з/З и/И й/Й к/К л/Л м/М н/Н о/О п/П р/Р с/С т/Т у/У ф/Ф х/Х ц/Ц ш/Ш э/Э ю/Ю қ/Қ ա/Ա հ/Հ յ/Յ
- @(#)$MirOS: wtf/acronyms,v 1.594 2016/10/26 23:31:43 tg Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.595 2016/11/06 20:32:23 tg Exp $
  From $NetBSD: acronyms,v 1.249 2016/07/21 05:07:04 dholland Exp $
  From $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
  From $NetBSD: acronyms.comp,v 1.168 2016/08/14 23:07:04 dholland Exp $
@@ -15609,6 +15609,7 @@ EUC	[IATA 3LC] Eucla, Western Australia, Australia
 EUDATAGRID	[SPDX] EU DataGrid Software Licence – http://spdx.org/licenses/EUDatagrid.html
 EUE	[IATA 3LC] Eureka Airport, Nevada, United States of America
 EUF	[IATA 3LC] Eufaula (Weedon Field), Alabama, United States of America
+EUFIC	European Food Information Council
 EUG	[IATA 3LC] Eugene (Mahlon Sweet Field), Oregon, United States of America
 EUGH	Europäischer Gerichtshof
 EUGRIDPMA	EUGridPMA, the European Grid Authentication Policy Management Authority in e-Science
@@ -16107,6 +16108,7 @@ FAS	[IATA 3LC] Faskrudsfjordur, Iceland
 FASB	[DB] Betriebsstelle Asbach (Kr Hersfeld) (Anst)
 FASB	[ICAO 7910] Springbok, Springbok, South Africa
 FASC	[ICAO 7910] Secunda, Secunda, South Africa
+FASEB	Federation of American Societies for Experimental Biology
 FASI	Fachkraft für Arbeitssicherheit
 FASM	[DB] Betriebsstelle Asmushausen (Bush)
 FASS	[ICAO 7910] Sishen, Sishen, South Africa
@@ -16366,6 +16368,7 @@ FCH	[IATA 3LC] Fresno-Chandler Downtown Airport, California, United States of Am
 FCK	1. FC Köln
 FCL	fiber channel loop
 FCLD	[DB] Betriebsstelle Caldern (Hp Anst)
+FCM	Firebase Cloud Messaging
 FCM	[IATA 3LC] Minneapolis (Flying Cloud Airport), Minnesota, United States of America
 FCMM	[ICAO 7910] Mossendjo, Mossendjo, Congo
 FCO	Foreign and Commonwealth Office
@@ -16404,6 +16407,7 @@ FD Z	[DB] Betriebsstelle Darmstadt Hbf ZOB (Bush)
 FDA	Federal Drug Administration
 FDA	Foundation of Arts
 FDA	Für den Arsch
+FDA	United States Food and Drug Administration
 FDA	[DB] Betriebsstelle Darmstadt-Arheilgen (Bf)
 FDA	[IATA 3LC] Fundacion, Colombia
 FDAL	[DB] Betriebsstelle Darmstadt Lichtwiese (Hp)
@@ -18082,6 +18086,7 @@ FSAA	[DB] Betriebsstelle Saasen (Hp)
 FSAD	[DB] Betriebsstelle Sainscheid (Tp)
 FSAF	[DB] Betriebsstelle Steinau (Kr Fulda) (Hp)
 FSAN	[DB] Betriebsstelle Sandbach (Odenw) (Bf)
+FSANZ	Food Standards Australia & New Zealand
 FSAW	[DB] Betriebsstelle Sachsenhausen (Waldeck) (Hp Anst)
 FSB	front side bus
 FSB	russischer Inlandsgeheimdienst
@@ -19837,6 +19842,7 @@ GR8	great
 GRA	[IATA 3LC] Gamarra, Colombia
 GRA	[Kfz:D] Landkreis Grafenau
 GRAM	GPS Receiver Applications Module
+GRAS	generally recognised as safe (substances)
 GRASE	generally recognised as safe and effective
 GRASS	gradient refocused acquisition in the steady state (cf. FISP)
 GRATZ	congratulations
@@ -30536,6 +30542,8 @@ MAMI	[DB] Betriebsstelle Mailing (Anst a.B.)
 MAMS	[DB] Betriebsstelle Augsburg Morellstraße (Hp Bft)
 MAMT	[DB] Betriebsstelle Altomünster (Bf)
 MAMW	[DB] Betriebsstelle Altdorf (Niederbay) Moosweide (Anst)
+MAN	manual
+MAN	Maschinenfabrik Augsburg-Nürnberg
 MAN	[IATA 3LC] Manchester, United Kingdom of Great Britain and Northern Ireland
 MANA	[DB] Betriebsstelle Mallersdorf Naue (Anst)
 MANB	[DB] Betriebsstelle Arnbach (Hp)
@@ -32228,6 +32236,7 @@ MNF	[Stw] (Mnf) [mech] Münchehof (Harz) (Fdl: Fdl; e)
 MNF	[Stw] (Mnf) [SuH 1912] Magdeburg Hbf (Fdl: Fdl; aB Lsig Lü, GS II Tafel, Felderbl, AB 22.06.2003)
 MNFG	[DB] Betriebsstelle Neuoffingen (Bf)
 MNFR	[DB] Betriebsstelle Neufahrn (Niederbay) (Bf)
+MNG	Mononatriumglutamat (cf. MSG)
 MNG	Multiple-Image Network Graphics
 MNG	[FIFA] Mongolia
 MNG	[IATA 3LC] Maningrida, Northern Territory, Australia
@@ -32710,6 +32719,7 @@ MRN	[Stw] (Mrn) [El L] Marktredwitz (e, nur Rang, IB 05.12.1993)
 MRNH	[DB] Betriebsstelle Rennertshofen (Bf)
 MRNS	[ICAO 7910] Nosara Airport, Nosara Beach, Costa Rica
 MRO	Mauritanian ouguiya (ISO 4217 code)
+MRO	method resolution order
 MRO	[DB] Betriebsstelle Rosenheim (Bf)
 MRO	[IATA 3LC] Masterton, New Zealand
 MRO 1	[DB] Betriebsstelle Kufstein (Österreich) (Est)
@@ -32859,6 +32869,7 @@ MSFH	[DB] Betriebsstelle Schneefernerhaus (Hp)
 MSFL	[DB] Betriebsstelle Schaftlach (Bf)
 MSFLB	[DB] Betriebsstelle Schaftlach BLB (Museum)
 MSG	message
+MSG	monosodium glutamate (cf. MNG)
 MSG	[DB] Betriebsstelle München Süd Großmarkt (Anst)
 MSG	[IATA 3LC] Matsaile, Lesotho
 MSGB	[DB] Betriebsstelle Saulgrub (Hp)
@@ -42612,6 +42623,7 @@ SCO	[IATA 3LC] Aktau (Shevchenko), Mangystau, Kazakhstan
 SCOC	[DB] Betriebsstelle Cochem (Mosel) (Bf)
 SCOC1	[DB] Betriebsstelle Cochem (Mosel) (Est)
 SCOCS	[DB] Betriebsstelle Cochem (Mosel) (Schiff) (Slst)
+SCOGS	select committee on GRAS substances
 SCORE	(cf. SCROE)
 SCORPIO	[Zodiac] Skorpion (Σκορπίος), 225°, 23.10.–22.11., Herbst, Mannheit, Nord, Wasser, feucht + kalt, zähe, Schleim, phlegmatisch, weiß
 SCP	secure copy
