@@ -1,5 +1,5 @@
   à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž α/Α ε/Ε λ/Λ ο/Ο π/Π ς/Σ σ/Σ а/А б/Б в/В г/Г д/Д е/Е з/З и/И й/Й к/К л/Л м/М н/Н о/О п/П р/Р с/С т/Т у/У ф/Ф х/Х ц/Ц ш/Ш э/Э ю/Ю қ/Қ ա/Ա հ/Հ յ/Յ
- @(#)$MirOS: wtf/acronyms,v 1.595 2016/11/06 20:32:23 tg Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.596 2016/11/11 23:30:06 tg Exp $
  From $NetBSD: acronyms,v 1.249 2016/07/21 05:07:04 dholland Exp $
  From $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
  From $NetBSD: acronyms.comp,v 1.168 2016/08/14 23:07:04 dholland Exp $
@@ -32675,6 +32675,7 @@ MRDK	[ICAO 7910] Drake Bay Airport, Drake Bay, Costa Rica
 MRDO	[DB] Betriebsstelle Rohrdorf (Oberbay) (Bf)
 MRDU	[DB] Betriebsstelle Riederau (Hp)
 MRDUS	[DB] Betriebsstelle Riederau (Schiff) (Slst)
+MRE	meal ready to eat
 MRE	[IATA 3LC] Mara Lodges, Kenya
 MREH	[DB] Betriebsstelle Reinertshof (Hp)
 MREL	[DB] Betriebsstelle Rehlings (Hp)
@@ -38422,6 +38423,7 @@ PP	[IATA 2LC] Jet Aviation Business Jets, Schweiz
 PPA	personal package archive
 PPA	[IATA 3LC] Pampa (Perry Lefors Field), Texas, United States of America
 PPB	PCI [to] PCI bridge
+PPB	privater Pinkelbusch/-baum
 PPB	[IATA 3LC] Presidente Prudente, São Paulo, Brazil
 PPC	Peercoin, inofficial, conflicts with ISO 4217
 PPC	Pocket PC
@@ -42813,6 +42815,8 @@ SEAM	[ICAO 7910] Chachoan, Ambato, Ecuador
 SEB	[IATA 3LC] Sebha, Libya
 SEB	[Kfz:D] Landkreis Sebnitz
 SEBI	selbstorganisierte Europäische Bürgerinitiative
+SEC	Securities and Exchange Commission
+SEC	Southeastern Conference
 SEC	United States Securities and Exchange Commission
 SEC	[IATA 3LC] Serre Chevalier, France
 SECAM	Sans Experience Contre Les Americains
@@ -50329,6 +50333,7 @@ VIR	[ISO 3166] U.S. Virgin Islands
 VIRGO	[Zodiac] Jungfrau (Παρθένος), 165°, 23.08.–22.09., Sommer, Jugend, Ost, Erde, trocken + kalt, dicht, schwarze Galle, melancholisch, schwarz
 VIRT	virtual
 VIS	[IATA 3LC] Visalia Municipal Airport, California, United States of America
+VISCII	Vietnamese Standard Code for Information Interchange
 VISDP	Verantwortlich im Sinne des Presserechts
 VISM	[ICAO 7910] Shimla Airport, Shimla (Himachal Pradesh), India
 VISR	[ICAO 7910] Srinagar Airport (Mil./Civil), Srinagar (Jammu & Kashmir), India
