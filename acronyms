@@ -1,5 +1,5 @@
-  à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž α/Α ε/Ε λ/Λ ο/Ο π/Π ς/Σ σ/Σ а/А б/Б в/В г/Г д/Д е/Е з/З и/И й/Й к/К л/Л м/М н/Н о/О п/П р/Р с/С т/Т у/У ф/Ф х/Х ц/Ц ш/Ш э/Э ю/Ю қ/Қ ա/Ա հ/Հ յ/Յ
- @(#)$MirOS: wtf/acronyms,v 1.596 2016/11/11 23:30:06 tg Exp $
+  à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž α/Α ε/Ε κ/Κ λ/Λ ο/Ο π/Π ς/Σ σ/Σ υ/Υ а/А б/Б в/В г/Г д/Д е/Е з/З и/И й/Й к/К л/Л м/М н/Н о/О п/П р/Р с/С т/Т у/У ф/Ф х/Х ц/Ц ш/Ш э/Э ю/Ю қ/Қ ա/Ա հ/Հ յ/Յ
+ @(#)$MirOS: wtf/acronyms,v 1.597 2016/11/16 21:11:32 tg Exp $
  From $NetBSD: acronyms,v 1.249 2016/07/21 05:07:04 dholland Exp $
  From $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
  From $NetBSD: acronyms.comp,v 1.168 2016/08/14 23:07:04 dholland Exp $
@@ -1513,6 +1513,7 @@ ACDT	[TZif] Australia/Adelaide (DST)
 ACDT	[TZif] Australia/Broken_Hill (DST)
 ACDT	[TZif] Australia/South (DST)
 ACDT	[TZif] Australia/Yancowinna (DST)
+ACE	ASCII-compatible encoding
 ACE	[IATA 3LC] Arrecife (Lanzarote), Canary Islands, Spain
 ACELP	algebraic code-excited linear prediction
 ACFM	Adobe composite font metrics
@@ -5039,7 +5040,7 @@ BCL	[DB] Betriebsstelle Charlottenhof (Oberlausitz) (Bf)
 BCL	[IATA 3LC] Barra Colorado, Costa Rica
 BCM	body control module
 BCM	brake control module
-BCM	Broadcom
+BCM	Broadcom (cf. CYW)
 BCM	[IATA 3LC] Bacau, Romania
 BCN	[IATA 3LC] Barcelona Airport, Spain
 BCNU	be seeing you
@@ -8923,6 +8924,7 @@ CLASSPATH-EXCEPTION-2.0	[SPDX] Classpath exception 2.0 – http://spdx.org/licen
 CLB	[IATA 3LC] Castlebar, Ireland
 CLC	[IATA 3LC] Clear Lake (Lavon North Airport), Texas, United States of America
 CLD	[IATA 3LC] Carlsbad (McClellan-Palomar Airport), California, United States of America
+CLDR	Common Locale Data Repository
 CLE	Chilean escudo (old ISO 4217 code)
 CLE	[IATA 3LC] Cleveland-Hopkins International, Ohio, United States of America
 CLF	common log format
@@ -9244,6 +9246,7 @@ CP	chakra pool
 CP	colla parte
 CP	Combat Power
 CP	Comboios de Portugal (Portuguese Trains)
+CP	content provider
 CP	continuous pilot
 CP	copy
 CP	copy/paste
@@ -9472,7 +9475,11 @@ CSO	PSP UMD compressed ISO file
 CSORD	con sordino
 CSP	Certification Service Provider
 CSP	Christlichsoziale Partei
+CSP	Cloud Solution Provider
+CSP	communicating sequential processes
+CSP	Communications Service Provider
 CSP	Content Security Policy
+CSP	Cryptographic Service Provider
 CSP	[IATA 3LC] Cape Spencer Coast Guard Heliport, Alaska, United States of America
 CSPRNG	continuously seeded PRNG
 CSPRNG	cryptographically secure PRNG
@@ -10011,6 +10018,7 @@ CYVR	[ICAO 7910] Vancouver Intl, Vancouver, British Columbia, Canada
 CYVT	[ICAO 7910] Buffalo Narrows, Buffalo Narrows, Saskatchewan, Canada
 CYVV	[ICAO 7910] Wiarton, Wiarton, Ontario, Canada
 CYVZ	[ICAO 7910] Deer Lake, Deer Lake, Ontario, Canada
+CYW	Cypress (and old Broadcom chips formerly labelled BCM)
 CYW	[IATA 3LC] Clay Center Municipal Airport, Kansas, United States of America
 CYWA	[ICAO 7910] Petawawa, Petawawa, Ontario, Canada
 CYWG	[ICAO 7910] Winnipeg Intl, Winnipeg, Manitoba, Canada
@@ -11180,6 +11188,10 @@ DIR	[ICAO 8585] Dirgantara Air Service, Indonesien
 DIRT	design in real time
 DIS	Defence Intelligence Staff (cf. DI)
 DIS	[IATA 3LC] Dolisie, Congo
+DISC	discipline
+DISC	discontinued
+DISC	discover
+DISC	diskette
 DISP	[ICAO 7910] San Pedro, San Pedro, Ivory Coast
 DISS	[ICAO 7910] Sassandra, Sassandra, Ivory Coast
 DIT	Directory Information Tree
@@ -23308,9 +23320,11 @@ IDK	[IATA 3LC] Indulkana, South Australia, Australia
 IDL	interface definition language
 IDL	[IATA 3LC] Indianola Municipal Airport, Mississippi, United States of America
 IDN	Integriertes Text- und Datennetz
+IDN	internationalised domain name
 IDN	[FIFA] Indonesia
 IDN	[IATA 3LC] Indagen, Papua New Guinea
 IDN	[ISO 3166] Indonesia
+IDNA	internationalising domain names in applications
 IDO	[IATA 3LC] Santa Isabel, Brazil
 IDP	[IATA 3LC] Independence Municipal Airport, Kansas, United States of America
 IDPS	intrusion detection [and] prevention system
@@ -23838,6 +23852,7 @@ IRE	[IATA 3LC] Irece, Bahia, Brazil
 IREB	International Requirements Engineering Board
 IRET	return from interrupt
 IRG	[IATA 3LC] Lockhart Rivers, Queensland, Australia
+IRI	internationalised resource identifier
 IRI	[IATA 3LC] Iringa, Tanzania
 IRI	[IOC] Iran
 IRILL	Initiative pour la Recherche et l’Innovation sur le Logiciel Libre
@@ -24031,7 +24046,7 @@ ITU	International Telecommunication Union
 ITU	Internationale Fernmeldeunion
 ITU	Union internationale des télécommunications
 ITU	Unión Internacional de Telecomunicaciones
-ITU	Международный союз электросвязи
+ITU	международный союз электросвязи
 ITU	الاتحاد الدولي للاتصالات
 ITU	国际电信联盟
 ITU-D	ITU Telecommunication Development Sector
@@ -34335,8 +34350,10 @@ NFC	no fucking clue
 NFC	no functional change
 NFC	no further consequences
 NFC	not favourably considered
+NFC	Unicode normalisation form canonical composition
 NFCH	[DB] Betriebsstelle Faulbach (Main) (Hp)
 NFD	Newfoundland dollar (old ISO 4217 code)
+NFD	Unicode normalisation form canonical decomposition
 NFD	[DB] Betriebsstelle Fladungen (Bf)
 NFD	[DB] Betriebsstelle Fladungen (Tp)
 NFD	[IATA 3LC] Summerdale (Naval Outlying Field), Alabama, United States of America
@@ -34364,6 +34381,8 @@ NFILN	[DB] Betriebsstelle Fichtelberg-Neubau Bus (Bush)
 NFIN	[DB] Betriebsstelle Nürnberg-Fischbach Nokia (Awanst)
 NFIT	[DB] Betriebsstelle Fichtental (Bf)
 NFJ	[IATA 3LC] Milton (Choctaw Naval Field), Florida, United States of America
+NFKC	Unicode normalisation form compatibility composition
+NFKD	Unicode normalisation form compatibility decomposition
 NFL	[DB] Betriebsstelle Fleckl Am Kreuz (Bush)
 NFL	[IATA 3LC] Fallon (Van Voorhis Field), Nevada, United States of America
 NFLE	[DB] Betriebsstelle Friedenfels (Tp)
@@ -38231,6 +38250,7 @@ PNL	[IATA 3LC] Pantelleria, Pantelleria Island, Italy
 PNM	portable anymap (PBM, PGM, PPM)
 PNM	[IATA 3LC] Princeton Municipal Airport, Minnesota, United States of America
 PNN	[IATA 3LC] Princeton Municipal Airport, Maine, United States of America
+PNO	pecunia non olet
 PNO	[IATA 3LC] Punoteca, Mexico
 PNP	pay and pray
 PNP	plug and play
@@ -45851,12 +45871,12 @@ SWP	[IATA 3LC] Swakopmund, Namibia
 SWPL	stuff white people like
 SWQ	[IATA 3LC] Sumbawa Besar, Sumbawa, Indonesia
 SWQ	[ICAO 8585] Swift Air, USA
-SWR	(cf. СВР)
 SWR	russischer Auslandsnachrichtendienst
 SWR	Südwestrundfunk
 SWR	[DB] Betriebsstelle Wemmetsweiler (Bf)
 SWR	[ICAO 8585] Swiss International Air Lines, Schweiz
 SWR	[Stw] (Swr) [SuH 1912] Berlin Schöneweide (Fdl: Ww; aB Abl Lü)
+SWR	служба внешней разведки (cf. СВР)
 SWRN	[DB] Betriebsstelle Werbeln (Hp a.B.)
 SWRR	[DB] Betriebsstelle Wemmetsweiler Rathaus (Hp Bft)
 SWS	[EDU] Semesterwochenstunde
@@ -46171,11 +46191,13 @@ TANKOMAT	Tankstellenautomat
 TANSTA	there ain’t (no) such thing as …
 TANSTAAFL	there ain’t no such thing as a free lunch
 TAN⁻¹	Arkustangēns (cf. tan)
+TAO	the art of …
 TAO	track at once
 TAO	[IATA 3LC] Qingdao, China
 TAO	[ICAO 8585] Aeromar, Mexiko
 TAOCP	The Art of Computer Programming
 TAOM	[DB] Betriebsstelle Albstadt-Onstmettingen (Bf)
+TAOUP	The Art of Unix Programming
 TAP	Agence Tunis Afrique Presse
 TAP	Test Anything Protocol
 TAP	Traktions-Auftragsplanung
@@ -48427,7 +48449,10 @@ UAC	user account control
 UAC	[IATA 3LC] San Luis Rio Colorado, Mexico
 UACC	[ICAO 7910] Astana, Astana, Kazakhstan
 UACH	[DB] Betriebsstelle Altersbach (Hp)
+UAE	Ubiquitous Amiga Emulator
 UAE	Universal-Anschluß-Einheit (cf. TAE)
+UAE	Unix Amiga Emulator
+UAE	Unusable Amiga Emulator
 UAE	[DB] Betriebsstelle Auehütte (Hp)
 UAE	[FIFA] United Arab Emirates
 UAE	[IATA 3LC] Mount Aue, Papua New Guinea
@@ -48948,7 +48973,7 @@ UIB	[DB] Betriebsstelle Ilmenau Bad (Hp)
 UIB	[IATA 3LC] Quibdo, Colombia
 UIBB	[ICAO 7910] Bratsk Airport, Bratsk, Russia
 UIBG	[DB] Betriebsstelle Ilmenau DB-Grenze (Gp)
-UIC	Internationaler Eisenbahnverband
+UIC	Internationaler Eisenbahnverband (International Union of Railways, Union Internationale des Chemins de fer)
 UID	unique identifier
 UID	user identifier
 UID	[RR] (101, reserved)
@@ -48969,7 +48994,7 @@ UIP	[IATA 3LC] Quimper (Pluguffan), France
 UIQ	[IATA 3LC] Quine Hill, Vanuatu
 UIR	[DB] Betriebsstelle Ilmenau-Roda (Hp)
 UIR	[IATA 3LC] Quirindi, New South Wales, Australia
-UIT	(cf. ITU)
+UIT	Unión Internacional de Telecomunicaciones (cf. ITU)
 UIT	[IATA 3LC] Jabor Jaluit (Jaluit Airport), Marshall Islands
 UIUU	[ICAO 7910] Mukhino Airport, Ulan-Ude, Russia
 UIZ	[IATA 3LC] Utica (Berz-Macomb Airport), Michigan, United States of America
@@ -49246,7 +49271,7 @@ UNINFO	Ente Federato all’UNI per Tecnologie Informatiche e loro applicazioni
 UNION	U (New York Police Spelling Alphabet)
 UNIW	[DB] Betriebsstelle Niedersachswerfen (Bf)
 UNIX	(bootloader for games written by Ken Thompson et al.)
-UNIX	(Uniplexed Information and Computing System, pun on MULTICS)
+UNIX	Uniplexed Information and Computing System (pun on MULTICS)
 UNK	[IATA 3LC] Unalakleet Airport, Alaska, United States of America
 UNKL	[ICAO 7910] Krasnoyarsk Yemelyanovo Airport, Krasnoyarsk, Russia
 UNKY	[ICAO 7910] Kyzyl Airport, Kyzyl, Russia
@@ -49616,6 +49641,7 @@ UTN	[DB] Betriebsstelle Traun (Hp)
 UTN	[IATA 3LC] Upington Airport, Upington, South Africa
 UTNU	[ICAO 7910] Urgench, Urgench, Uzbekistan
 UTO	[IATA 3LC] Utopia Creek (Indian Mountain), Alaska, United States of America
+UTP	Unix Text Processing
 UTP	unshielded twisted pair
 UTP	[DB] Betriebsstelle Töppeln (Bf)
 UTP	[IATA 3LC] Utapao (Rayong), Pattaya, Thailand
@@ -53201,6 +53227,7 @@ WRMH	[DB] Betriebsstelle Rhinsmühlen (Bush)
 WRMZ	[DB] Betriebsstelle Ramitz Hof (Bush)
 WRMZS	[DB] Betriebsstelle Ramitz Siedlung (Bush)
 WRN	[Kfz:D] Landkreis Waren
+WRO	World Robot Olympiad
 WRO	[DB] Betriebsstelle Rosenhagen (Bf)
 WRO	[IATA 3LC] Wroclaw [Starachowice], Poland
 WRO	[Stw] (Wro) [mech] Werbig (e)
@@ -56206,7 +56233,7 @@ XTY	[IATA 3LC] Strathroy / Via Rail Service, Ontario, Canada
 XTZA	[DB] Betriebsstelle Zatec (Bf)
 XTZE	[DB] Betriebsstelle Zelechovice nad Drevnici-Lipa (Bf)
 XTZI	[DB] Betriebsstelle Zdice (Bf)
-XU	(When a package is split into a whole bunch of small packages, that’s a (Herbert) Xu)
+XU	[Debian] (When a package is split into a whole bunch of small packages, that’s a (Herbert) Xu)
 XU	[IATA 2LC] African Express Airways, Kenia
 XUA	ADB Unit of Account (ISO 4217 code)
 XUA	[DB] Betriebsstelle Arad (Bf)
@@ -57536,8 +57563,7 @@ ZIMBRA-1.3	[SPDX] Zimbra Public Licence v1.3 – http://spdx.org/licenses/Zimbra
 ZIMBRA-1.4	[SPDX] Zimbra Public Licence v1.4 – http://spdx.org/licenses/Zimbra-1.4.html
 ZIN	Zugbetreuer im Nahverkehr
 ZIOP	Zipped IOP
-ZIP	(cf. PLZ)
-ZIP	zone improvement plan
+ZIP	zone improvement plan (cf. PLZ)
 ZJ	[IATA 2LC] Air Routing International, USA
 ZJG	[IATA 3LC] Jenpeg, Manitoba, Canada
 ZJHK	[ICAO 7910] Haikou Meilan Intl Airport, Haikou, China
@@ -58004,43 +58030,44 @@ _	[MORSE] ..--.- (not ITU-R)
 Ź	[MORSE] --..-.
 Ż	[MORSE] --..-
 ŽFBH	Željeznice Federacije Bosne i Hercegovine (Railways of the Federation of Bosnia and Herzegovina) (cf. ŽRS)
-ŽPCG	(state railways of Montenegro)
+ŽPCG	Željeznička Infrastruktura Crne Gore (state railways of Montenegro, Жељезничка Инфраструктура Црне Горе)
 ŽRS	Željeznice Republike Srpske (Railways of Republika Srpska) (cf. ŽFBH)
 ŽS	Železnice Srbije (Serbian Railways)
 ŽSR	Železnice Slovenskej Republiky (Railways of the Slovak Republic)
-ŽSSK	(state railways of Slovakia)
+ŽSSK	Železničná spoločnosť Slovensko (state railways of Slovakia)
 ŽT	TENT Železnički transport Termoelektrane Nikola Tesla (Railway transport of TPP Nikola Tesla)
 ΔT	Delta T (TT-UT) = 32.184s + (TAI-UTC) - (UT1-UTC); TAI-UTC = 10 + number of entries in /usr/src/share/zoneinfo/datfiles/leapseconds; dUT1=UT1-UTC < 1s
 Ε.Σ.Ε.Π.Α	cf. ΕΣΕΠΑ
 Ε.Σ.Ε.Π.Α.	cf. ΕΣΕΠΑ
-ΕΛ	[ccTLD] Griechenland
+ΕΛ	[ccTLD] Griechenland (el, Greece)
 ΕΟΟΣ	Ευρωπαϊκός Όμιλος Οικονομικού Σκοπού (cf. EWIV)
 ΕΣΕΠΑ	Εθελοντικό Σώμα Ελλήνων Πυροσβεστών Αναδασωτών (Ethelondiko Soma Ellinon Pyrosveston Anadasoton, Körperschaft der Griechischen Freiwilligen Feuerwehr und Wiederaufforstung)
+ΕΥ	[ccTLD] Europäische Union (ey, European Union)
+ΚΠ	[ccTLD] Zypern (kp, Cyprus)
 ΟΣΕ	Οργανισμός Σιδηροδρόμων Ελλάδας (Organismós Sidirodrómon Elládas, Greek Railways Organisation)
 АСУ	Ассенизационно-Санитарная Установка (waste management system)
-БГ	[ccTLD] Bulgarien
-БЕЛ	[ccTLD] Belarus
+БГ	[ccTLD] Bulgarien (bg, Bulgaria)
+БЕЛ	[ccTLD] Weißrußland (bel, Belarus)
 ГРУ	Главное разведывательное управление Генерального штаба ВС (Glawnoje Raswedywatelnoje Uprawlenije, Hauptverwaltung für Aufklärung [beim Generalstab der Streitkräfte der Russischen Föderation])
 ГРУ	Главное управление Генерального штаба Вооружённых Сил Российской Федерации (Glawnoje Uprawlenije Generalnogo Staba Wooruschennych Sil Rossijskoj Federazii, Hauptverwaltung beim Generalstab der Streitkräfte der Russischen Föderation) (cf. GRU)
 ЕОИИ	Европейско обединение по икономически интереси (cf. EWIV)
-ЕЮ	[ccTLD] European Union
-ЕЮ	[ccTLD] Europäische Union
+ЕЮ	[ccTLD] Europäische Union (eyu, European Union)
 ИТАР-ТАСС	информационное телеграфное агентство россии / телеграфное агентство советского союза (Informatsionnoje telegrafnoje agentstvo Rossii / Telegrafnoje agentstwo Sowjetskogo Sojusa, Informations- und Telegraphen-Agentur Rußlands / Telegraphenagentur der Sowjetunion)
 КАБАР	Kirgisische Nachrichtenagentur
 КГБ	Комитет государственной безопасности (Committee for State Security of the Soviet Union), now ФСБ/FSB
 КПСС	Коммунистическая партия Советского Союза (Kommunističeskaja partija Sovetskogo Sojuza, Kommunistitscheskaja partija Sowetskowo Sojusa) (cf. KPdSU)
 МБ	[ФСБ] Министерство безопасности Российской Федерации (cf. МБВД)
 МБВД	[ФСБ] Министерство безопасности и внутренних дел РФ (cf. МБ)
-МКД	[ccTLD] Macedonia
-МОН	[ccTLD] Mongolia
+МКД	[ccTLD] Mazedonien (mkd, Macedonia)
+МОН	[ccTLD] Mongolei (mon, Mongolia)
 МСБ	[ФСБ] Межреспубликанской службе безопасности
-МСЭ	(cf. ITU)
+МСЭ	международный союз электросвязи (cf. ITU)
 МТС	Мобильные ТелеСистемы (Mobile TeleSystems)
 ОНЛАЙН	[sTLD] kyrillisch: online
 ПТА	петроградское телеграфное агентство (Petrograder Telegraphenagentur), cf. СПТА
 РОСТА	Российское Телеграфное агентство при Всероссийском Центральном Исполнительном Комитете (cf. ИТАР-ТАСС)
 РСФСР	Российская Советская Федеративная Социалистическая Республика (Rossijskaja sowetskaja federatiwnaja sozialistitscheskaja respublika) (cf. RSFSR)
-РФ	[ccTLD] Российская Федерация, Rossijskaja Federazija‚ Russische Föderation
+РФ	[ccTLD] Rußland (rf, Российская Федерация, Rossijskaja Federazija‚ Russische Föderation)
 САЙТ	[sTLD] kyrillisch: site
 СВР	Служба внешней разведки Российской Федерации (Sluschba wneschnei raswedki, Dienst der Außenaufklärung) (cf. SWR)
 СМЕРШ	СМЕРть Шпионам, Směrť Špionam
@@ -58048,51 +58075,59 @@ _	[MORSE] ..--.- (not ITU-R)
 СОРМ	Система Оперативно-Розыскных Мероприятий (System for Operative Investigative Activities)
 СПЕЦНАЗ	[ГРУ] подразделение специального назначения Российской Федерации (Podrasdelenije spezialnowo nasnatschenija rossijskoj federazii, Einheit der Russischen Föderation zur besonderen Verwendung, Spezialeinsatzkommando der Russischen Föderation)
 СПТА	санкт-петербургское телеграфное агентство (Sankt-Petersburger Telegraphenagentur), cf. ИТАР-ТАСС
-СРБ	[ccTLD] Serbien
+СРБ	[ccTLD] Serbien (srb, Serbia)
 СССР	Союз Советских Социалистических Республик (Sojus Sowjetskich Sozialistitscheskich Respublik) (cf. UdSSR)
 ТАСС	(cf. ИТАР-ТАСС)
-УКР	[ccTLD] Ukraine
+УКР	[ccTLD] Ukraine (ukr)
 ФАПСИ	Федеральное Агентство Правительственной Связи и Информации (Föderale Agentur für Regierungsfernmeldewesen und Information)
 ФГУП	федеральное государственное унитарное предприятие (Federalnoje Gossudarstwennoje Unitarnoje Predprijatie, Federal State Unitary Enterprise, Föderales Staatliches Unitarunternehmen)
 ФСБ	Федеральная служба безопасности Российской Федерации (Federal Security Service of the Russian Federation), successor of КГБ/KGB
 ФСК	[ФСБ] Федеральна служба контрразведки
-ФСО	(cf. FSO)
+ФСО	Федеральная служба охраны (cf. FSO)
 ХАБАР	Khabar
-ҚАЗ	[ccTLD] Kasachstan
-ՀԱՅ	[ccTLD] Armenia
-الاردن	[ccTLD] al-urdunn, Jordanien
-الجزائر	[ccTLD] Algerien
-السعودية	[ccTLD] as-saʿūdīya, Saudi-Arabien
-المغرب	[ccTLD] Marokko
-امارات	[ccTLD] imārāt, Vereinigte Arabische Emirate
-ایران	[ccTLD] īrān, Iran
-بھارت	[ccTLD] Indien (Urdu)
-تونس	[ccTLD] tūnis, Tunesien
+ҚАЗ	[ccTLD] Kasachstan (qaz, Kazakhstan)
+ՀԱՅ	[ccTLD] Armenien (hay, Armenia)
+ישראל	[ccTLD] Israel (Yisrael)
+الاردن	[ccTLD] Jordanien (al-Urdun, Jordan)
+الجزائر	[ccTLD] Algerien (al-Jazā’ir, Algeria)
+السعودية	[ccTLD] Saudi-Arabien (as-saʿūdīya, Saudi Arabia)
+المغرب	[ccTLD] Marokko (al-Maġrib, Morocco)
+اليمن	[ccTLD] Jemen (al-Yaman, Yemen)
+امارات	[ccTLD] Vereinigte Arabische Emirate (imārāt, UAE)
+ایران	[ccTLD] Iran (īrān)
+بھارت	[ccTLD] Indien (Urdu) (Bharat, India)
+تونس	[ccTLD] Tunesien (tūnis, Tunisia)
 داعش	Islamischer Staat im Irak und in (Groß-)Syrien (الدولة الإسلامية في العراق والشام)
-سوريا	[ccTLD] sūriyā, Syrien
-سورية	[ccTLD] Syrien
+سودان	[ccTLD] Sudan (Sūdān)
+سوريا	[ccTLD] Syrien (Sūryā, Syria)
 شبكة	[sTLD] arabisch: Netz
 عراق	[ccTLD] Irak
-عمان	[ccTLD] Oman
-فلسطين	[ccTLD] filasṭīn, Palästina
-قطر	[ccTLD] Katar
+عمان	[ccTLD] Oman (ʻUmān)
+فلسطين	[ccTLD] Palästina (filasṭīn, Palestine)
+قطر	[ccTLD] Katar (Qatar)
 كذا	(arabic metasyntactic variable) (cf. KEDHA)
-مصر	[ccTLD] maṣr, Ägypten
-भारत	[ccTLD] Indien (Hindi)
-ভারত	[ccTLD] Indien (Bengali)
-ਭਾਰਤ	[ccTLD] Indien (Punjabi)
-ભારત	[ccTLD] Indien (Gujarati)
-இந்தியா	[ccTLD] Indien
+مصر	[ccTLD] Ägypten (maṣr, Egypt)
+مليسيا	[ccTLD] Malaysia (Maleesya)
+پاکستان	[ccTLD] Pakistan (Pākistān)
+भारत	[ccTLD] Indien (Hindi) (Bharat, India)
+বাংলা	[ccTLD] Bangladesch (Bangla, Bangladesh)
+ভারত	[ccTLD] Indien (Bengali) (Bharôt, India)
+ভাৰত	[ccTLD] Indien (Bengali) (Bharôt, India)
+ਭਾਰਤ	[ccTLD] Indien (Punjabi) (Bharat, India)
+ભારત	[ccTLD] Indien (Gujarati) (Bharat, India)
+ଭାରତ	[ccTLD] Indien (Bhārata, India)
+இந்தியா	[ccTLD] Indien (Inthiyaa, India)
 இந்்தியா	[ccTLD] Indien (Tamil)
-இலங்கை	[ccTLD] Sri Lanka
+இலங்கை	[ccTLD] Sri Lanka (ilaṅkai, Ceylon)
 இலங்்கை	[ccTLD] Sri Lanka (Tamil)
-சிங்கப்பூர்	[ccTLD] Singapur
+சிங்கப்பூர்	[ccTLD] Singapur (Cinkappūr, Singapore)
 சிங்்கப்்பூர்்	[ccTLD] Singapur (Tamil)
-భారత్	[ccTLD] Indien
+భారత్	[ccTLD] Indien (Bharat, India)
 భాారత్్	[ccTLD] Indien (Telugu)
-ලංකා	[ccTLD] Sri Lanka (Sinhala)
-ไทย	[ccTLD] Thailand
-გე	[ccTLD] Georgia
+ලංකා	[ccTLD] Sri Lanka (Sinhala) (laṃkā, Ceylon)
+ไทย	[ccTLD] Thailand (Thai)
+ລາວ	[ccTLD] Laos (Lao)
+გე	[ccTLD] Georgien (ge, Georgia)
 ℃	degree Celsius (℃) (cf. K)
 ℉	degree Fahrenheit (℉)
 K	Kelvin
@@ -58102,14 +58137,16 @@ _	[MORSE] ..--.- (not ITU-R)
 ⅙DIN	198×210 mm (7.7952×8.2677 in) (norm; really ⅔A4)
 ⅙DIN	200×210 mm (7.8740×8.2677 in) (reality)
 ⅛A4	37×210 mm (1.4566×8.2677 in)
-中国	[ccTLD] Zhōngguó, China (VR)
-中國	[ccTLD] Zhōngguó, China (VR)
-台湾	[ccTLD] Republik China / Taiwan
-台灣	[ccTLD] Republik China / Taiwan
-新加坡	[ccTLD] Singapur
+中国	[ccTLD] Volksrepublik China (Zhōngguó)
+中國	[ccTLD] Volksrepublik China (Zhōngguó)
+台湾	[ccTLD] Republik China / Taiwan (Táiwān)
+台灣	[ccTLD] Republik China / Taiwan (Táiwān)
+新加坡	[ccTLD] Singapur (Xīnjiāpō, Singapore)
+日本	[ccTLD] Japan (Nippon)
 游戏	[sTLD] chinesisch: game
-澳門	[ccTLD] Macao
-香港	[ccTLD] Hongkong
-한국	[ccTLD] Südkorea
+澳門	[ccTLD] Macau (Àomén, Macao)
+澳门	[ccTLD] Macau (Àomén, Macao)
+香港	[ccTLD] Hongkong (Xiānggǎng/Hoenggong, Hong Kong)
+한국	[ccTLD] Südkorea (Han-guk, South Korea)
 ﺍیﺭﺎﻧ	[ccTLD] Iran
 ﻢﻠﻴﺴﻳﺍ	[ccTLD] Malaysia
