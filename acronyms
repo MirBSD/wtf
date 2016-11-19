@@ -1,5 +1,5 @@
   à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž α/Α ε/Ε κ/Κ λ/Λ ο/Ο π/Π ς/Σ σ/Σ υ/Υ а/А б/Б в/В г/Г д/Д е/Е з/З и/И й/Й к/К л/Л м/М н/Н о/О п/П р/Р с/С т/Т у/У ф/Ф х/Х ц/Ц ш/Ш э/Э ю/Ю қ/Қ ա/Ա հ/Հ յ/Յ
- @(#)$MirOS: wtf/acronyms,v 1.597 2016/11/16 21:11:32 tg Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.598 2016/11/19 17:58:02 tg Exp $
  From $NetBSD: acronyms,v 1.249 2016/07/21 05:07:04 dholland Exp $
  From $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
  From $NetBSD: acronyms.comp,v 1.168 2016/08/14 23:07:04 dholland Exp $
@@ -10702,6 +10702,7 @@ DEB	Debian
 DEB	debug
 DEB	[DB] Betriebsstelle Ebersbach (Sachs) (Bf)
 DEB	[IATA 3LC] Debrecen, Hungary
+DEBEKA	Deutsche Beamten-Krankenversicherung VVaG
 DEBG	[DB] Betriebsstelle Ebersbach (b. Görlitz) (Hp Anst)
 DEBILIAN	ancient GNU/Linux distribution, nearly forgotten
 DEBILLIAN	ancient GNU/Linux distribution, nearly forgotten
@@ -17051,11 +17052,14 @@ FI	[Kfz:D] Landkreis Finsterwalde
 FI	[Stw] (Fi) [mech E] Fischbach (Inn) (Fdl: Fdl; aB, IB 1942, AB 23.11.2003)
 FIA	Fahrgastinformationsanlage
 FIA	Firmenabo
+FIAE	Fachinformatiker Anwendungsentwicklung
+FIAE	Flachinformatiker Anwendungsverwicklung
 FIAT	Fehler in allen Teilen
 FIAT	Feuer in allen Töpfen
 FIBR	[DB] Betriebsstelle Ibersheim (Anst)
 FIBS	Feuerwehr-Informations- und Bediensystem
 FIC	[IATA 3LC] Fire Cove, Alaska, United States of America
+FICA	Financial Intelligence Centre Act
 FICON	Fiber Connectivity
 FICON	fibre connection
 FID	frequency identifier
@@ -17114,6 +17118,8 @@ FIRENZE	F (Italian Spelling Alphabet)
 FIS	Fahrgastinformationssystem
 FIS	[DB] Betriebsstelle Igelstein (Awanst Bk)
 FISH	fuck it, shit happens
+FISI	Fachinformatiker Systemintegration
+FISI	Flachinformatiker Systemintrigation
 FISP	fast imaging with steady state precession (cf. PSIF)
 FIST	[DB] Betriebsstelle Idstein (Taunus) (Bf)
 FIT	Fachinformation im Training
@@ -25467,11 +25473,13 @@ KFA	[ICAO 8585] Kelowna Flightcraft Air Charter, Kanada
 KFAR	[ICAO 7910] Hector Intl Airport, Fargo, North Dakota, USA
 KFAT	[ICAO 7910] Fresno Yosemite Intl Airport, Fresno, California, USA
 KFAY	[ICAO 7910] Fayetteville Regional Airport (Grannis Field), Fayetteville, North Carolina, USA
+KFB	Kauffrau für Bürokommunikation
 KFB	Kreisfeuerwehrbereitschaft
 KFC	Kentucky Fried Chicken
 KFC	kids fattening clinic
 KFC	killing fat children
 KFC	Kitchen Fresh Chicken
+KFD	Katholische Frauengemeinschaft Deutschlands
 KFEAP	Kompaktfernsprechapparat
 KFF	[IATA 3LC] Farranfore, Ireland
 KFG	Kontrafagott
@@ -36586,7 +36594,7 @@ OJO	[IATA 3LC] Outjo, Namibia
 OJW	[IATA 3LC] Otjiwarongo, Namibia
 OK	ohne Kopframpe
 OK	okay
-OK	[GPSH] opencaching.org.uk (cf. OC)
+OK	[GPSH] opencache.uk (former opencaching.org.uk now disputed) (cf. OC)
 OK	[IATA 2LC] Czech Airlines, Tschechien
 OK	[Kfz:A] Konsul in Oberösterreich
 OK	[Kfz:D] Ohrekreis
@@ -42807,6 +42815,7 @@ SDY	[ICAO 8585] Island Express, USA
 SDZ	Sonderzug
 SDZ	[IATA 3LC] Shetland Islands, Acotland, United Kingdom of Great Britain and Northern Ireland
 SE	Europäische Aktiengesellschaft
+SE	Kabelaffe
 SE	safety edge (lift control)
 SE	Se (PSE#34) Selenium, Selen | Chalkogene | chalcogens
 SE	second edition
@@ -42819,6 +42828,7 @@ SE	StackExchange
 SE	status epilepticus
 SE	Structural Engineering
 SE	Support Engineer
+SE	Systemelektroniker
 SE	Systementwicklung
 SE	Südost, south-east
 SE	[BR] Sergipe
@@ -50807,6 +50817,7 @@ VUV	Vanuatu vatu (ISO 4217 code)
 VV	Verkehrsverbund
 VV	[EDU] Vorlesungsverzeichnis
 VV	[IATA 2LC] Aerosvit Airlines, Ukraine
+VVAG	Versicherungsverein auf Gegenseitigkeit
 VVB	[IATA 3LC] Mahanoro, Madagascar
 VVBM	[ICAO 7910] Buon Ma Thuot Airport, Buon Ma Thuot, Vietnam
 VVC	[IATA 3LC] Villavicencio (La Vanguardia), Colombia
