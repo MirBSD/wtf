@@ -1,8 +1,8 @@
   à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž α/Α ε/Ε κ/Κ λ/Λ ο/Ο π/Π ς/Σ σ/Σ υ/Υ а/А б/Б в/В г/Г д/Д е/Е з/З и/И й/Й к/К л/Л м/М н/Н о/О п/П р/Р с/С т/Т у/У ф/Ф х/Х ц/Ц ш/Ш э/Э ю/Ю қ/Қ ա/Ա հ/Հ յ/Յ
- @(#)$MirOS: wtf/acronyms,v 1.598 2016/11/19 17:58:02 tg Exp $
- From $NetBSD: acronyms,v 1.249 2016/07/21 05:07:04 dholland Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.599 2016/12/20 19:52:27 tg Exp $
+ From $NetBSD: acronyms,v 1.250 2016/12/12 20:41:49 riastradh Exp $
  From $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
- From $NetBSD: acronyms.comp,v 1.168 2016/08/14 23:07:04 dholland Exp $
+ From $NetBSD: acronyms.comp,v 1.169 2016/11/26 03:33:34 kamil Exp $
  From $NetBSD: airport,v 1.63 2016/06/08 04:25:31 kre Exp $
  From $OpenBSD: airport,v 1.57 2016/10/04 17:27:39 fcambus Exp $
  From github: othyro/wtfubar refs/tags/wtfubar-2.4.0
@@ -1655,6 +1655,7 @@ ADH	[DB] Betriebsstelle Dauenhof (Bf)
 ADH	[IATA 3LC] Aldan, Yakutia-Sakha, Russia
 ADH	[ICAO 8585] Air One, Italien
 ADHD	attention deficit (and) hyperactivity disorder
+ADHHTOSS	aufmerksamkeitsdefizitäre Hacker handeln Tickets ohne sichere Servicezeiten (cf. CCC)
 ADHS	Aufmerksamkeitsdefizitsyndrom in Komorbidität mit Hyperaktivität (cf. ADHD)
 ADI	acceptable daily intake
 ADIF	Administración de Infraestructuras Ferroviarias
@@ -2983,7 +2984,7 @@ AONA	[DB] Betriebsstelle Osterrönfeld Awanst (Awanst)
 AONB	[DB] Betriebsstelle Osterrönfeld Brücke (Üst)
 AOO	[IATA 3LC] Blair County, Altoona / Martinsburg, Pennsylvania, United States of America
 AOP	Appellation d’origine protégée
-AOP	aspect-orientated programming
+AOP	aspect-oriented programming
 AOP	[DB] Betriebsstelle Hamburg-Ohlsdorf (Bf)
 AOPD	[DB] Betriebsstelle Oppendorf (Bf)
 AOPDK	[DB] Betriebsstelle Oppendorf Kraftwerk (Anst)
@@ -3401,6 +3402,9 @@ ASGR	[DB] Betriebsstelle Scheggerott (Bf)
 ASH	[IATA 3LC] Nashua (Boire Field), New Hampshire, United States of America
 ASH	[ICAO 8585] Mesa Airlines, USA
 ASHS	[DB] Betriebsstelle Hamburg-Stadthausbrücke (Bft)
+ASI	antisocial
+ASI	asinine
+ASI	automatic semicolon insertion
 ASI	[IATA 3LC] Ascension Island, St. Helena
 ASIA	[sTLD] asia (ICANN-Region Asien/Australien/Pazifik)
 ASIC	application-specific integrated circuit
@@ -6580,6 +6584,7 @@ BNYA	burned now you are
 BNZ	[DB] Betriebsstelle Neuzelle (Bf)
 BNZ	[IATA 3LC] Banz, Papua New Guinea
 BO	binary output
+BO	body odour
 BO	Bongos
 BO	[ccTLD] Bolivien
 BO	[IATA 2LC] Air Columbus, Portugal
@@ -7409,6 +7414,7 @@ BTS	BahnTankService
 BTS	Bangkok Skytrain
 BTS	base transceiver station
 BTS	Basisfunkstation
+BTS	beg, trade or steal
 BTS	bit test [and] set
 BTS	bug tracking system
 BTS	[IATA 3LC] Milan Rastislav Stefanik/Ivanka, Bratislava, Slovakia
@@ -7970,7 +7976,7 @@ C3	324×458 mm (12¾×18 in)
 C3	[IATA 2LC] Contact Air, Deutschland
 C3	[IATA 2LC] Trade Air, Kroatien
 C32	COMBOOT32 executable file (cf. CBT)
-C3S	Cultural Commons Collecting Society SCE mbH
+C3S	Cultural Commons Collecting Society SCE mbH – https://www.c3s.cc/
 C4	(some kind of explosive)
 C4	229×324 mm (9×12¾ in) envelope for unfolded A4
 C4	CCC Cologne
@@ -8250,6 +8256,7 @@ CCAR	Cisco Certified Architect
 CCAW	copper-clad aluminium wire
 CCB	[IATA 3LC] Upland (Cable Airport), California, United States of America
 CCB4	[ICAO 7910] Davis Inlet, Davis Inlet, Newfoundland, Canada
+CCC	Chaos Communication Congress (cf. CCC)
 CCC	Chaos Computer Club
 CCCZH	CCC Zürich
 CCD	charge coupled device
@@ -9123,7 +9130,7 @@ CNZ	[IATA 3LC] Cangamba, Angola
 CNZ3	[ICAO 7910] Chatham, Chatham, Ontario, Canada
 CO	Co (PSE#27) Cobaltum, Kobalt, Cobalt | Übergangsmetalle | transition metals | metalla transitionis
 CO	commanding officer
-CO	connection-orientated
+CO	connection-oriented
 CO	Kohlenstoffmonoxid (cf. CO₂)
 CO	[ccTLD] Kolumbien
 CO	[GPSH] cache owner
@@ -9140,7 +9147,7 @@ COB	close of business [day]
 COB	[FIFA] Congo-Brazzaville
 COB	[IATA 3LC] Coolibah, Northern Territory, Australia
 COBA	Commerzbank
-COBOL	common business-orientated language
+COBOL	common business-oriented language
 COC	code of conduct
 COC	[IATA 3LC] Concordia (Comodoro Pierres), Argentina
 COC	[Kfz:D] Landkreis Cochem-Zell
@@ -9209,6 +9216,7 @@ COO	[IATA 3LC] Cotonou (Cadjehoun), Benin
 COOP	[sTLD] cooperatives (Gesellschaften)
 COP	Colombian peso (ISO 4217 code)
 COPD	chronic obstructive pulmonary disease
+COPD	chronisch obstruktive Lungenerkrankung
 COQ	[IATA 3LC] Conquista, Minas Gerais, Brazil
 COR	cornet
 COR	Kornett
@@ -9544,6 +9552,8 @@ CTAN	Comprehensive TeX Archive Network
 CTB	[IATA 3LC] Coritgo Blanco, United Kingdom of Great Britain and Northern Ireland
 CTC	[IATA 3LC] Catamarca, Argentina
 CTCP	client-to-client protocol
+CTDB	cluster trivial database
+CTDB	NICHD Clinical Trials Database
 CTE	committee
 CTE	common table expression
 CTE	[IATA 3LC] Carti, Panama
@@ -12227,6 +12237,7 @@ DSTU	[DB] Betriebsstelle Stauchitz (Hp Anst)
 DSTZ	[DB] Betriebsstelle Seußlitz (Slst)
 DSU	[DB] Betriebsstelle Schweinsburg-Culten (Hp Bk)
 DSUB	[DB] Betriebsstelle Schlema unt Bf (Bf)
+DSV	Deutscher Schwimmverband
 DSV	[IATA 3LC] Dansville Municipal Airport, New York, United States of America
 DSVN	Eisenbahnen der Vietnamesischen Demokratischen Republik
 DSVT	[DB] Betriebsstelle Görlitz Abzw Svt (Abzw)
@@ -15067,6 +15078,7 @@ EPDW	[DB] Betriebsstelle Paderborn Aw (Hp)
 EPE	encrypted key exchange
 EPEL	Extra Packages for Enterprise Linux
 EPERM	(#1) Operation not permitted
+EPEX	European Power Exchange
 EPFB	[DB] Betriebsstelle Neunkirchen Pfannenberg (Bf)
 EPFL	École polytechnique fédérale de Lausanne
 EPFNOSUPPORT	(#46) Protocol family not supported
@@ -18803,6 +18815,7 @@ GA	[Stw] (Ga) [SuH 1907] Gera Hbf (Fdl: Fdl; aB, AB 28.09.2006)
 GA	[Stw] (Ga) [VES 4rH] Köln Gereon (Fdl: Ww; aB Abl, AB 1987)
 GA	[USA] Georgia
 GAA	[IATA 3LC] Guamal, Colombia
+GAB	global address book
 GAB	[FIFA] Gabon
 GAB	[IATA 3LC] Gabbs Airport, Nevada, United States of America
 GAB	[Stw] (Gab) [VES 2rH] Berlin Grünau (Fdl: Fdl; aB Lsig GmS, Fernbahnteil; GS II für F (aufgelassenes Ww-Stw), AB 13.03.2005)
@@ -19078,7 +19091,7 @@ GEC	[ICAO 8585] Lufthansa Cargo, Deutschland
 GECT	[ICAO 7910] Ceuta Heliport, Ceuta, Spain
 GED	General Educational Development
 GED	[IATA 3LC] Georgetown (Sussex County Airport), Delaware, United States of America
-GEEK	[altTLD] Geek-orientierte Seiten natürlicher Personen
+GEEK	[altTLD] geek-orientierte Seiten natürlicher Personen
 GEF	[IATA 3LC] Geva, Solomon Islands
 GEF	[Stw] (Gef) [Sp Dr S60] Goddelau-Erfelden (Flb: Üst Leeheim-Wolfskehlen (Bauzust.) aB)
 GEFO	GSM-R Fernsprecher ortsfest
@@ -19387,6 +19400,8 @@ GIL	[IATA 3LC] Gilgit, Pakistan
 GILF	grandma I’d like to fuck
 GIM	[IATA 3LC] Miele Mimbale, Gabon
 GIMP	GNU Image Manipulation Program
+GIN	generalised inverted index-based index
+GIN	Wacholderschnaps
 GIO	[IATA 3LC] Geilo, Norway
 GIOP	General InterORB Protocol
 GIP	Gibraltar pound (ISO 4217 code)
@@ -19394,9 +19409,12 @@ GIR	[IATA 3LC] Giradot, Colombia
 GIS	Güterverkehrsinformationssystem
 GIS	[IATA 3LC] Gisborne, New Zealand
 GISA	German IT Security Agency (Bundesamt für Sicherheit in der Informationstechnik, BSI)
+GIST	generalised search tree-based index
 GISY	Gitarrensynthesizer
 GIT	content addressable filesystem written by finnish study aborter
 GIT	Gitarre
+GIT	global information tracker (when you’re in a good mood)
+GIT	goddamn idiotic truckload of shit (when it breaks)
 GIT	guitar
 GIT	stupid content tracker
 GIT	[IATA 3LC] Geita, Tanzania
@@ -20446,6 +20464,7 @@ HAT	Hilfsausschalttaste
 HAT	[IATA 3LC] Heathlands, Queensland, Australia
 HATB	[DB] Betriebsstelle Altenboitzen (Bf)
 HATE	highest anti-terrorism effort
+HATEOAS	hypermedia as the engine of application state
 HATP	[ICAO 7910] Tippi, Tippi, Ethiopia
 HAU	[IATA 3LC] Haugesund (Karmoy), Norway
 HAUFEN	Hauptschüler auf unterstem frei erreichbarem Niveau
@@ -22192,7 +22211,7 @@ HONDA	höllischer Orgasmus nach dem Anfahren
 HONK	Hauptschüler ohne nennenswerte Kenntnisse
 HONS	with Honours
 HOO	[IATA 3LC] Quanduc, Vietnam
-HOOD	hierarchical object orientated design
+HOOD	hierarchical object-oriented design
 HOP	High Octet Preset (U+0081)
 HOP	[DB] Betriebsstelle Opperhausen (Museum)
 HOP	[IATA 3LC] Fort Campbell (Hopkinsville), Kentucky, United States of America
@@ -23479,6 +23498,7 @@ IIA	[IATA 3LC] Inishmaan, Ireland
 IIANM	if I am not mistaken
 IIB	[IATA 3LC] Independence Municipal Airport, Iowa, United States of America
 IIC	(cf. I²C)
+IIFE	immediately invoked function expression (self-executing anonymous function)
 IIK	[IATA 3LC] Kipnuk Airport, Alaska, United States of America
 IIN	[IATA 3LC] Nishinoomote, Japan
 IINM	if I’m not mistaken
@@ -29154,6 +29174,7 @@ LMR H	[DB] Betriebsstelle Magdeburg-Rothensee Hp (Hp Bft)
 LMRN	[DB] Betriebsstelle Mockrehna (Bf)
 LMS	Laststufenmehrfachspeicher
 LMS	Lernmanagementsystem
+LMS	Licence Management Services
 LMS	[DB] Betriebsstelle Magdeburg-Sudenburg (Bf)
 LMS	[IATA 3LC] Louisville-Winston County Airport, Mississippi, United States of America
 LMS0	[Oracle] Global Cache Service Process
@@ -31147,6 +31168,7 @@ MEL	[Kfz:D] Landkreis Melle
 MELG	[DB] Betriebsstelle Egling (Bf)
 MELH	[DB] Betriebsstelle Ellighofen (Hp)
 MELZ	[DB] Betriebsstelle Ellzee (Hp)
+MEM	memory
 MEM	[IATA 3LC] Memphis International, Tennessee, United States of America
 MEN	[IATA 3LC] Mende, France
 MENA	Middle East News Agency
@@ -32348,7 +32370,7 @@ MOBG	[DB] Betriebsstelle Obing (Bf)
 MOBI	[sTLD] mobile (Dienste, die die Nutzung durch mobile Endgeräte explizit unterstützen)
 MOBR	[DB] Betriebsstelle Ottobrunn (Hp)
 MOC	meta object compiler
-MOC	Molestia Occulta http://spdx.org/licenses Die verborgene Bedrohung http://spdx.org/licenses Veiled Danger
+MOC	Molestia Occulta • Die verborgene Bedrohung • Veiled Danger
 MOC	my own creation
 MOC	[GPSH] members-only cache
 MOC	[IATA 3LC] Montes Claros, Minas Gerais, Brazil
@@ -32356,6 +32378,7 @@ MOC	[Kfz] Mosambik
 MOCEAN	Master of Oceanography
 MOD	manager on duty
 MOD	Ministry of Defence
+MOD	modifier
 MOD	module
 MOD	modulo
 MOD	[DB] Betriebsstelle Oberaudorf (Bf)
@@ -33270,6 +33293,7 @@ MVB	Multi Function Bus
 MVB	[IATA 3LC] Franceville (M’Vengue), Gabon
 MVBG	[DB] Betriebsstelle Vehlberg (Hp)
 MVC	model view controller (pattern)
+MVC	most valued client
 MVC	[IATA 3LC] Monroeville (Monroe County Airport), Alabama, United States of America
 MVCC	multiversion concurrency control
 MVD	[IATA 3LC] Montevideo (Carrasco), Uruguay
@@ -34669,6 +34693,7 @@ NIC	network interface card
 NIC	[IATA 3LC] Nicosia, Cyprus
 NIC	[Kfz] Nicaragua
 NICD	Nickel-Cadmium-Akku
+NICHD	Eunice Kennedy Shriver National Institute of Child Health and Human Development
 NICOLAS	N (French Spelling Alphabet)
 NID	[IATA 3LC] China Lake (Armitage Field), California, United States of America
 NID	[RR] ILNP Node Identifier (104)
@@ -36195,6 +36220,7 @@ OAK	[IATA 3LC] Oakland International, California, United States of America
 OAKB	[ICAO 7910] Kabul Intl, Kabul, Afghanistan
 OAKN	[ICAO 7910] Kandahar Intl, Kandahar, Afghanistan
 OAKS	[ICAO 7910] Khost, Khost, Afghanistan
+OAL	offline address book
 OAL	[ICAO 8585] Olympic Air, Griechenland
 OAL	[Kfz:D] Landkreis Ostallgäu
 OALD	Oxford Advanced Learners’ Dictionary
@@ -36635,6 +36661,7 @@ OKTOEIGHT	8 (International Radiotelephony Spelling Alphabet)
 OKU	[IATA 3LC] Mokuti, Namibia
 OKY	[IATA 3LC] Oakey, Queensland, Australia
 OKZ	[IATA 3LC] Sandersville (Kaolin Field), Georgia, United States of America
+OL	Microsoft Outlook
 OL	Oberleitung
 OL	Oracle Linux (cf. RHEL)
 OL	[IATA 2LC] Ostfriesische Lufttransport, Deutschland
@@ -36790,7 +36817,7 @@ ONU	[IATA 3LC] Ono I Lau, Fiji
 ONX	[IATA 3LC] Colon, Panama
 ONY	[IATA 3LC] Olney Municipal Airport, Texas, United States of America
 ONZ	Member of The Order of New Zealand
-OO	object orientated
+OO	object-oriented
 OO	OpenOffice
 OO	[IATA 2LC] SkyWest Airlines, USA
 OO	[Stw] (Oo) [mech Bru J] Ober Ramstadt (Fdl: Ww; aB, AB 1974)
@@ -36820,12 +36847,12 @@ OOMA	[ICAO 7910] Masirah AB, Masirah, Oman
 OOMS	[ICAO 7910] Seeb Intl, Muscat, Oman
 OONR	[ICAO 7910] Marmul, Marmul, Oman
 OOO	OpenOffice.org
-OOP	object orientated programming
+OOP	object-oriented programming
 OOP	[HP] Order of the Phœnix
-OOPS	object orientated programming systems
+OOPS	object-oriented programming systems
 OOR	[IATA 3LC] Mooraberrie, Queensland, Australia
 OOSA	[ICAO 7910] Salalah, Salalah, Oman
-OOSE	object orientated software engineering
+OOSE	object-oriented software engineering
 OOSOOM	out of sight, out of mind
 OOT	[IATA 3LC] Onotoa, Kiribati
 OOTB	out of the box
@@ -37554,6 +37581,7 @@ PC	[IATA 2LC] Pegasus Airlines, Türkei
 PCA	[IATA 3LC] Portage Creek Airport, Alaska, United States of America
 PCB	polychlorinated biphenyl(s)
 PCB	printed circuit board
+PCB	process control block
 PCB	[IATA 3LC] Pondok Cabe, Indonesia
 PCC	Portable C Compiler
 PCC	[IATA 3LC] Puerto Rico, Colombia
@@ -38275,9 +38303,12 @@ PNU	[IATA 3LC] Panguitch Municipal Airport, Utah, United States of America
 PNW	[ICAO 8585] Palestinian Airlines, Ägypten
 PNX	[IATA 3LC] Sherman/Denison (Grayson County), Texas, United States of America
 PNZ	[IATA 3LC] Petrolina, Pernambuco, Brazil
+PO	Arsch
+PO	Hintern
 PO	Po (PSE#84) Polonium | Chalkogene | chalcogens
 PO	portable object
 PO	Product Owner [Scrumtology]
+PO	purchase order
 PO	Studien- und Prüfungsordnung
 PO	[EDU] Prüfungsordnung
 PO	[IATA 2LC] Polar Air Cargo, USA
@@ -38329,6 +38360,7 @@ POH	[IATA 3LC] Pocahontas Municipal Airport, Iowa, United States of America
 POI	[GPSH] point of interest
 POI	[IATA 3LC] Potosi (Capitan Nicolas Rojas), Bolivia
 POINT	(decimal point) . (International Radiotelephony Spelling Alphabet)
+POJO	plain old Java™ object
 POL	policy
 POL	Polizei
 POL	[FIFA] Poland
@@ -38820,6 +38852,7 @@ PSW	program status word (flags register)
 PSW	[IATA 3LC] Passos, Brazil
 PSX	[IATA 3LC] Palacios Municipal Airport, Texas, United States of America
 PSY	[IATA 3LC] Port Stanley, Falkland Islands
+PSYC	protocol for synchronous conferencing
 PSYCH	Psychology
 PSZ	[IATA 3LC] Puerto Suarez (Salvador Ogaya), Bolivia
 PT	(cf. KAI) (cf. INKA) (cf. MRT)
@@ -39505,6 +39538,7 @@ R-C	Rockwell-Collins
 R-STW I	[Stw] (R-Stw I) [IAG Rstw] Genf SBB (erste Bauform mit verschl. Rangfstr.; Schwenk-Druckschalter, IB 1952)
 R/C	remote control
 R/L	real life
+R/M	register or memory
 R/O	read-only
 R/W	read-write
 R0	[IATA 2LC] Royal Airlines, Pakistan
@@ -40073,6 +40107,9 @@ REF	reference
 REF	[DB] Betriebsstelle Efringen-Kirchen (Bf)
 REF	[Stw] (Ref) [Sp Dr S60] Reinfeld (Holst) (e, IB 1982)
 REFUSED	[DNS] RCODE 5: query refused
+REG	regarding
+REG	register
+REG	regular
 REG	[DB] Betriebsstelle Eggenstein (Bahnhof) (Bf)
 REG	[IATA 3LC] Reggio Calabria, Italy
 REG	[Kfz:D] Landkreis Regen
@@ -41169,7 +41206,7 @@ ROBH	[DB] Betriebsstelle Oberhausen (Üst)
 ROBK	[DB] Betriebsstelle Oberkirch-Koehlersiedlung (Hp)
 ROBL	[DB] Betriebsstelle Oberrotweil (Bf)
 ROC	[IATA 3LC] Rochester International, New York, United States of America
-ROCA	resource-orientated client architecture
+ROCA	resource-oriented client architecture
 ROD	Report of Discrepancy
 ROD	[DB] Betriebsstelle Oberwinden (Hp)
 ROD	[Kfz:D] Landkreis Roding
@@ -41239,7 +41276,7 @@ RON	[Stw] (Ron) [mech E] Roddan Bedarfs-Bk (aB)
 ROO	[IATA 3LC] Rondonopolis, Mato Grosso, Brazil
 ROOE	[DB] Betriebsstelle Oberöwisheim (Bf)
 ROP	Request by Porters
-ROP	return-orientated programming
+ROP	return-oriented programming
 ROP	[DB] Betriebsstelle Oppenau (Bf)
 ROP	[IATA 3LC] Rota International Airport, Mariana Islands
 ROP B	[DB] Betriebsstelle Oppenau Busbf (Bush)
@@ -42587,6 +42624,7 @@ SCCY	[ICAO 7910] Teniente Vidal, Coyhaique, Chile
 SCD	Doctor of Science
 SCD	[IATA 3LC] Sulaco, Honduras
 SCDA	[ICAO 7910] Diego Aracena Intl, Iquique, Chile
+SCE	Societas Cooperativa Europaea (Europäische Genossenschaft)
 SCE	strict contextual escaping
 SCE	[IATA 3LC] State College, Pennsylvania, United States of America
 SCEA	[SPDX] SCEA Shared Source Licence – http://spdx.org/licenses/SCEA.html
@@ -42959,6 +42997,7 @@ SETU	[ICAO 7910] El Rosal-Tcrnel Mantilla, Tulcan, Ecuador
 SEU	[DB] Betriebsstelle Trier-Euren (Awanst)
 SEU	[IATA 3LC] Seronera, Tanzania
 SEU	[ICAO 8585] XL Airways France, Frankreich
+SEUFZ	saisonalergotemporäre uniindividualfulminante Zitterneigung
 SEV	Schienenersatzverkehr
 SEW	[DB] Betriebsstelle Eiweiler (Anst)
 SEW	[IATA 3LC] Siwa, Egypt
@@ -44177,7 +44216,7 @@ SO	[Stw] (So) [mech] Schkeuditz (Fdl: Ww; aB Lsig e, AB ca. 1988)
 SO	[Stw] (So) [Sp Dr S60] Schwerte (Ruhr) Ost Bbf (fs: Fröndenberg seit 2001; Zb 65)
 SO	[Stw] (So) [SuH 1912] Sangerhausen (Fdl: Ww)
 SOA	Seksueel Overdraagbare Aandoening (cf. STD)
-SOA	service orientated architecture
+SOA	service-oriented architecture
 SOA	Source of Authority
 SOA	[IATA 3LC] Soc Trang, Vietnam
 SOA	[ICAO 8585] Southern Air Charter, Bahamas
@@ -50238,6 +50277,7 @@ VGE	Verkehrsgemeinschaft Emsland-Süd
 VGEG	[ICAO 7910] Shah Amanat Intl Airport (M.A. Hannan Int'l), Chittagong, Bangladesh
 VGF	Verkehrs-Gemeinschaft Landkreis Freudenstadt
 VGF	Verkehrsgemeinschaft Fichtelgebirge
+VGG	Verwertungsgesellschaftengesetz
 VGG	[IATA 3LC] Vangrieng, Laos
 VGH	Verkehrsgemeinschaft Haßberge
 VGH	Verwaltungsgerichtshof
@@ -50655,6 +50695,7 @@ VQ	[IATA 2LC] Vintage Props and Jets, USA
 VQPR	[ICAO 7910] Paro Airport, Paro, Bhutan
 VQS	[IATA 3LC] Vieques Airport, Puerto Rico
 VR	Finnische Staatsbahnen (state railways of Finland)
+VR	Verwaltungsrat
 VR	virtual reality
 VR	[IATA 2LC] TACV Cabo Verde Airlines, Kap Verde
 VR	[Kfz:D] Landkreis Vorpommern-Rügen ohne die Stadt Stralsund und ohne den Altkreis Rügen
@@ -53048,6 +53089,7 @@ WPA	Wi-Fi Protected Access
 WPA	[DB] Betriebsstelle Parkentin (Hp)
 WPA	[IATA 3LC] Puerto Aisen, Chile
 WPA2	Wi-Fi Protected Access Ⅱ
+WPAD	web proxy auto-detection
 WPAN	[DB] Betriebsstelle Pantow (Bush)
 WPAP	[DB] Betriebsstelle Papendorf (Kr Pasewalk) (Bk)
 WPAR	[DB] Betriebsstelle Parchow (Bush)
