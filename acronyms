@@ -1,5 +1,5 @@
   à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž α/Α ε/Ε κ/Κ λ/Λ ο/Ο π/Π ς/Σ σ/Σ υ/Υ а/А б/Б в/В г/Г д/Д е/Е з/З и/И й/Й к/К л/Л м/М н/Н о/О п/П р/Р с/С т/Т у/У ф/Ф х/Х ц/Ц ш/Ш э/Э ю/Ю қ/Қ ա/Ա հ/Հ յ/Յ
- @(#)$MirOS: wtf/acronyms,v 1.599 2016/12/20 19:52:27 tg Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.600 2016/12/24 22:12:48 tg Exp $
  From $NetBSD: acronyms,v 1.250 2016/12/12 20:41:49 riastradh Exp $
  From $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
  From $NetBSD: acronyms.comp,v 1.169 2016/11/26 03:33:34 kamil Exp $
@@ -8555,6 +8555,7 @@ CET	[TZif] Poland
 CETA	Comprehensive Economic and Trade Agreement
 CEU	[IATA 3LC] Clemson-Oconee County Airport, South Carolina, United States of America
 CEV	Chemins de fer électriques Veveysans (now MVR)
+CEV	coherent extrapolated volition
 CEV	[IATA 3LC] Connersville (Mettel Field), Indiana, United States of America
 CEV4	[ICAO 7910] Rae Lakes, Rae Lakes, Northwest Territories, Canada
 CEW	[IATA 3LC] Crestview (Bob Sikes Airport), Florida, United States of America
@@ -9311,6 +9312,7 @@ CPR	kardiopulmonale Reanimation (cf. HLW)
 CPR	[IATA 3LC] Casper/Natrone County International, Wyoming, United States of America
 CPRE	Certified Professional for Requirements Engineering
 CPS	characters per second
+CPS	cycles per second (cf. Hz)
 CPS	[IATA 3LC] Cahokia (St. Louis Downtown-Parks), Missouri, United States of America
 CPT	command pass through
 CPT	[IATA 3LC] Cape Town (D.F. Malan), [179]South Africa
@@ -33260,6 +33262,7 @@ MUSG	[DB] Betriebsstelle Unterschwaningen (Hp Anst)
 MUSM	Master of Music
 MUSM	[DB] Betriebsstelle Unterschleißheim (Hp)
 MUSN	[ICAO 7910] Siguanea Airport, Isla de la Juventud, Cuba
+MUT	multiple upstream tarballs
 MUT	[IATA 3LC] Muscatine Municipal Airport, Iowa, United States of America
 MUTD	[ICAO 7910] Alberto Delgado Airport, Trinidad, Cuba
 MUTEX	mutual exclusion
@@ -37105,7 +37108,9 @@ OSTD	[Schule DE] Oberstudiendirektor
 OSTJ	Officer Brother of the Order of St John
 OSTJ	Officer Sister of the Order of St John
 OSTR	[Schule DE] Oberstudienrat
+OSU	Oregon State University
 OSU	[IATA 3LC] Columbus (Ohio State University), Ohio, United States of America
+OSUOSL	Oregon State University Open Source Lab
 OSV	operating system vendor
 OSV	[Stw] (Osv) [mech AEG] Osnabrück Rbf (Fdl: Ww; aB, IB 1913, AB 1966)
 OSVW	operating system visible workarounds
@@ -49510,6 +49515,7 @@ URTS	[DB] Betriebsstelle Rottleberode Süd (Bf)
 URU	[DB] Betriebsstelle Rudisleben (Bf)
 URU	[FIFA] Uruguay
 URV	upper range value
+URV	Urheberrechtsverletzung
 URWA	[ICAO 7910] Astrakhan Airport, Astrakhan, Russia
 URWW	[ICAO 7910] Gumrak Airport, Volgograd, Russia
 URY	[IATA 3LC] Gurayat, Saudi Arabia
@@ -55401,6 +55407,7 @@ XM	[IATA 2LC] J-Air, Japan
 XMA	[IATA 3LC] Xiamen (Amoy), China
 XMAJ	[DB] Betriebsstelle Ajka (Bf)
 XMAL	[DB] Betriebsstelle Almasfüzitö Felsö (Bf)
+XMAS	Christmas
 XMBAA	[DB] Betriebsstelle Balatonaliga (Bf)
 XMBBR	[DB] Betriebsstelle Balatonboglar (Bf)
 XMBD	[DB] Betriebsstelle Budapest-Deli pu. (Bf)
@@ -57586,6 +57593,7 @@ ZHA	[IATA 3LC] Zhanjiang, China
 ZHAY	[ICAO 7910] Anyang Airport, Anyang, China
 ZHCC	[ICAO 7910] Zhengzhou Xinzheng Intl Airport, Zhengzhou, China
 ZHD	zu Händen
+ZHDK	Zürcher Hochschule der Künste
 ZHHH	[ICAO 7910] Wuhan Tianhe Airport, Wuhan, China
 ZHI	[IATA 3LC] Grenchen, Switzerland
 ZHK	[dental] Zahnheilkunde
@@ -58024,6 +58032,7 @@ _	[MORSE] ..--.- (not ITU-R)
 ÖBB	Österreichische Bundesbahn
 ÖBB	Österreichische Bundesbahnen
 ÖBB	Österreichische Bundesbahnen (Austrian Federal Railways)
+ÖFFI	(cf. ÖPNV)
 ÖFFIS	Nahverkehr Hameln-Pyrmont
 ÖHR	[Kfz:D] Landkreis Öhringen
 ÖKONOM	Ö (deutsches Funkalphabet)
