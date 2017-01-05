@@ -1,8 +1,8 @@
   à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž α/Α ε/Ε κ/Κ λ/Λ ο/Ο π/Π ς/Σ σ/Σ υ/Υ а/А б/Б в/В г/Г д/Д е/Е з/З и/И й/Й к/К л/Л м/М н/Н о/О п/П р/Р с/С т/Т у/У ф/Ф х/Х ц/Ц ш/Ш э/Э ю/Ю қ/Қ ա/Ա հ/Հ յ/Յ
- @(#)$MirOS: wtf/acronyms,v 1.600 2016/12/24 22:12:48 tg Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.601 2017/01/05 15:18:26 tg Exp $
  From $NetBSD: acronyms,v 1.250 2016/12/12 20:41:49 riastradh Exp $
  From $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
- From $NetBSD: acronyms.comp,v 1.169 2016/11/26 03:33:34 kamil Exp $
+ From $NetBSD: acronyms.comp,v 1.170 2017/01/01 22:44:30 kamil Exp $
  From $NetBSD: airport,v 1.63 2016/06/08 04:25:31 kre Exp $
  From $OpenBSD: airport,v 1.57 2016/10/04 17:27:39 fcambus Exp $
  From github: othyro/wtfubar refs/tags/wtfubar-2.4.0
@@ -2750,11 +2750,13 @@ AMOT	[DB] Betriebsstelle Hamburg-Moorburg Tanklager (Awanst)
 AMP	advanced metal powder media (cf. MP)
 AMP	ampersand (‘&’)
 AMP	Ampullen
+AMP	asymmetric multiprocessing
 AMP	[IATA 3LC] Ampanihy, Madagascar
 AMPAS	[SPDX] Academy of Motion Picture Arts and Sciences BSD – http://spdx.org/licenses/AMPAS.html
 AMPEL	Aktive MittagsPausen Event Listing
 AMQ	[IATA 3LC] Ambon (Pattimura), Indonesia
 AMQP	Advanced Message Queuing Protocol
+AMR	audio/modem riser
 AMR	[DB] Betriebsstelle Meimersdorf (Bf)
 AMR	[IATA 3LC] Arno, Marshall Islands
 AMR F	[DB] Betriebsstelle Meimersdorf (Mf) (Bft)
@@ -5255,6 +5257,7 @@ BEL	[ICAO 8585] Brussels Airlines, Belgien
 BEL	[Kfz:D] Landkreis Belzig
 BEL	[Stw] (Bel) [GS II Sp64b] Beelitz-Heilstätten (aB, fs: Sed, AB 23.11.2004)
 BEL	[Stw] (Bel) [mech E] Belicke Bk (aB Lsig)
+BELFER	[HP] Bund für Elfenrechte (cf. SPEW)
 BELGA	Agence Belga
 BELTRANO	(portuguese metasyntactic variable for people)
 BEM	British Empire Medal
@@ -6323,6 +6326,7 @@ BLZ	[IATA 3LC] Blantyre (Chileka), Malawi
 BLZ	[IATA 3LC] Chileka International, Blantyre, Malawi
 BLZ	[ISO 3166] Belize
 BLZW	[DB] Betriebsstelle Lietzow (Nauen) (Bush)
+BLÖK	[HP] Gesellschaft zum Schutz der lümmelhaften öden Kobolde (cf. SPUG)
 BM	Bachelor of Medicine
 BM	Bahnmeisterei
 BM	Bereifter Mörder
@@ -13359,6 +13363,7 @@ ED	edition
 ED	editor
 ED	Encyclopædia Dramatica
 ED	erektile Dysfunktionie
+ED	Erkennungsdienst
 ED	extra high density (2880 KiB 3½″)
 ED	[IATA 2LC] Airblue, Pakistan
 ED	[IATA 2LC] AirExplore, Slowakei
@@ -14028,6 +14033,7 @@ EFW	[IATA 3LC] Jefferson Municipal Airport, Iowa, United States of America
 EFYL	[ICAO 7910] Ylivieska Airport, Ylivieska, Finland
 EG	Empfangsgebäude
 EG	Erdgeschoß
+EG	Ermittlungsgruppe
 EG	Europäische Gemeinschaft (now EU)
 EG	evil grin
 EG	exempli gratia (for example)
@@ -19663,7 +19669,7 @@ GNOME	GNU Network Object Model Environment
 GNOME	some kind of small earthen animal
 GNR	[IATA 3LC] General Roca, Argentina
 GNS	[IATA 3LC] Gunungsitoli, Indonesia
-GNSS	Global Navigation Satellite System (GPS, GLONASS, Galileo, Beidou)
+GNSS	Global Navigation Satellite System (GPS, GLONASS, Galileo, Beidou, QZSS)
 GNT	Geschwindigkeitsüberwachung für Neitechzüge
 GNT	[IATA 3LC] Grants-Milan Municipal Airport, New Mexico, United States of America
 GNT	[Kfz:D] Landkreis Genthin
@@ -20130,6 +20136,7 @@ GUOK	[ICAO 7910] Baralande, Boke, Guinea
 GUP	[IATA 3LC] Gallup Municipal Airport, New Mexico, United States of America
 GUQ	[IATA 3LC] Guanare, Venezuela
 GUR	[IATA 3LC] Gurney/Alotau, Papua New Guinea
+GUS	[HP] Gesellschaft zur Unterstützung von Squibs (cf. SSS)
 GUS	[IATA 3LC] Peru (Grissom Air Force Base), Indiana, United States of America
 GUSB	[ICAO 7910] Sambailo, Koundara, Guinea
 GUSI	[ICAO 7910] Siguiri, Siguir, Guinea
@@ -23223,6 +23230,7 @@ IBIS	Integriertes Bordinformationssystem
 IBK	[Kfz:A:sub] Stadt Innsbruck
 IBKA	Internationaler Bund der Konfessionslosen und Atheisten e. V.
 IBM	Ich bin Müll
+IBM	idiots buy more
 IBM	International Business Machines
 IBM	[IATA 3LC] Kimball Municipal Airport, Nebraska, United States of America
 IBM-PIBS	[SPDX] IBM PowerPC Initialization and Boot Software – http://spdx.org/licenses/IBM-pibs.html
@@ -23505,6 +23513,7 @@ IIK	[IATA 3LC] Kipnuk Airport, Alaska, United States of America
 IIN	[IATA 3LC] Nishinoomote, Japan
 IINM	if I’m not mistaken
 IIOP	Internet Inter-ORB Protocol
+IIOT	industrial internet of things (cf. IoT)
 IIPA	International Intellectual Property Alliance
 IIRC	if I recall correctly
 IIRC	if I remember correctly
@@ -24393,6 +24402,7 @@ JFW	just fucking works
 JFYI	just for your information
 JG	Jahrgang
 JG	[IATA 2LC] Jetgo Australia, Australien
+JGA	Junggesellenabend
 JGA	[IATA 3LC] Jamnagar, India
 JGB	[IATA 3LC] Jagdalpur, India
 JGC	[IATA 3LC] Grand Canyon Heliport, Arizona, United States of America
@@ -29526,6 +29536,9 @@ LPVZ	[ICAO 7910] Viseu Airport, Viseu, Portugal
 LPW	Lokpersonal-Wechsel
 LPW	[DB] Betriebsstelle Pödelwitz (Hp)
 LPW	[IATA 3LC] Little Port Walker, Alaska, United States of America
+LPWA	Light Painting World Alliance
+LPWA	low power wide area
+LPWAN	low-power wide area network
 LPX	[IATA 3LC] Liepaja, Latvia
 LPY	[DB] Betriebsstelle Parey (Hp)
 LPY	[IATA 3LC] Le Puy, France
@@ -32850,6 +32863,7 @@ MSA	[DB] Betriebsstelle Steinebach (Hp)
 MSA	[IATA 3LC] Muskrat Dam, Ontario, Canada
 MSAL	[DB] Betriebsstelle Sallach (Hp)
 MSAS	Multi-functional Satellite Augmentation System
+MSAS	multi-functional satellite augmentation system
 MSAT	[DB] Betriebsstelle Salet (Obersee) (Slst)
 MSB	Magnetschwebebahn
 MSB	most significant bit (leftmost)
@@ -33155,6 +33169,7 @@ MTS	Mobiler Triebfahrzeugservice
 MTS	[DB] Betriebsstelle Traunstein (Bf)
 MTS	[IATA 3LC] Manzini (Matasapha), Swaziland
 MTS-K	Markttransparenzstelle für Kraftstoffe
+MTSAT	multi-functional transport satellite
 MTSB	[DB] Betriebsstelle Trostberg (Bf)
 MTSK	[DB] Betriebsstelle Traunstein Kaserne (Anst)
 MTSN	[DB] Betriebsstelle Traunstein Nord (Hp)
@@ -36769,6 +36784,7 @@ OMN	[IATA 3LC] Osmanabad, India
 OMO	[IATA 3LC] Mostar, Bosnia-Herzegovina
 OMPI	(cf. WIPO)
 OMR	Omani rial (ISO 4217 code)
+OMR	optical music recognition
 OMR	[IATA 3LC] Oradea, Romania
 OMRK	[ICAO 7910] Khaimah Intl, Ras Al Khaimah, United Arab Emirates
 OMS	[IATA 3LC] Omsk, Russia
@@ -38664,6 +38680,7 @@ PSA	[IATA 3LC] Pisa (Galilei), Italy
 PSB	[IATA 3LC] Philipsburg (Mid-State Airport), Pennsylvania, United States of America
 PSC	[IATA 3LC] Pasco (Tri-Cities Airport), Washington, United States of America
 PSD	Photoshop Document
+PSD	Polizeisonderdienst
 PSD	power spectral density
 PSD	proximity slowing down (lift control)
 PSD	[IATA 3LC] Port Said, Egypt
@@ -39515,6 +39532,7 @@ QZA	[IATA 3LC] Zarka, Jordan
 QZC	[IATA 3LC] Smiggin Holes, New South Wales, Australia
 QZF	[IATA 3LC] Font Romeu, France
 QZG	[IATA 3LC] La Llagone, France
+QZSS	Quasi-Zenith Satellite System (準天頂, Juntenchou)
 R	British A/International Spelling Alphabet; Italian Spelling Alphabet: ROMA
 R	British Forces 1952 Spelling Alphabet; RAF 1942/1943 Spelling Alphabet: ROGER
 R	deutsches Funkalphabet: RICHARD
@@ -40017,6 +40035,7 @@ RCX	Robotics Command System
 RCX	[IATA 3LC] Ladysmith (Rusk County Airport), Wisconsin, United States of America
 RCY	[IATA 3LC] Rum Cay, Bahamas
 RD	red, IEC 62: 2 / ±2%
+RD	Rettungsdienst
 RD	Rettungsdienst
 RD	[DNS] header flag (bit 7): recursion desired
 RD	[IATA 2LC] REDjet, Barbados
@@ -44045,6 +44064,7 @@ SMSA	[DB] Betriebsstelle Münster-Sarmsheim (Hp)
 SMSCB	Short Message Service Cell Broadcast
 SMST	[DB] Betriebsstelle Martinstein (Hp)
 SMT	simultaneous multithreading
+SMT	subject matter trainee
 SMT	surface-mount technology
 SMT	[DB] Betriebsstelle Mettlach (Bf)
 SMT	[FIFA] Saint-Martin
@@ -44280,6 +44300,7 @@ SOJ	[IATA 3LC] Sorkjosen, Norway
 SOK	[IATA 3LC] Semongkong, Lesotho
 SOK	[Kfz:D] Saale-Orla-Kreis
 SOK	[Stw] (Sok) [S&H 1912] Seelze Rbf (Fdl: Ww)
+SOKO	Sonderkommission
 SOKS	[DB] Betriebsstelle Oberkirchen Süd (Museum)
 SOL	serial over LAN
 SOL	shit out [of] luck
@@ -44525,6 +44546,7 @@ SPT	[IATA 3LC] Sipitang, Malaysia
 SPTN	[ICAO 7910] Col Carlos Ciriani Santa Rosa, Tacna, Peru
 SPTU	[ICAO 7910] Padre Aldamiz, Puerto Maldonado, Peru
 SPU	[IATA 3LC] Split (Kastel), Croatia
+SPUG	[HP] Society for the Protection of Ugly Goblins
 SPUR	[ICAO 7910] Capt Guillermo Concha Iberico, Piura, Peru
 SPW	[IATA 3LC] Spencer Municipal Airport, Iowa, United States of America
 SPW	[Stw] (Spw) [SuH 1912] Berlin Spandau West (Fdl: Fdl; aB S)
@@ -44720,6 +44742,7 @@ SS4	SPARCstation 4
 SS5	SPARCstation 5
 SS7	Signalisierungssystem Nummer 7
 SS7	signalling system #7
+SSA	single static assignment
 SSA	U+0086 START OF SELECTED AREA
 SSA	[IATA 3LC] Salvador (Dois de Julho), Bahia, Brazil
 SSAB	[DB] Betriebsstelle Saarburg (Bz Trier) (Bf)
@@ -44808,6 +44831,7 @@ SSMT	[DB] Betriebsstelle Salmtal (Hp)
 SSN	social security number
 SSN	[DB] Betriebsstelle Saarwellingen-Nalbach (Anst a.B.)
 SSN	[IATA 3LC] Seoul (Air Base), South Korea
+SSO	structure, sequence and organisation
 SSO	Südsüdost, south-south-east
 SSO	[DB] Betriebsstelle Saarbrücken Ost (Hp)
 SSO	[IATA 3LC] Sao Lourenco, Brazil
@@ -44840,6 +44864,7 @@ SSRK	[DB] Betriebsstelle Saarbrücken Rbf Kraftwerk (Anst a.B.)
 SSRS	Microsoft SQL Server Reporting Services
 SSS	Satellite Signal Simulator
 SSS	Second Systems Syndrome
+SSS	[HP] Society for the Support of Squibs
 SSS	[IATA 3LC] Siassi, Papua New Guinea
 SSSD	System Security Services Daemon
 SSSR	Sojus Sowjetskich Sozialistitscheskich Respublik (cf. UdSSR) (cf. СССР)
@@ -45064,6 +45089,7 @@ STS	U+0093 SET TRANSMIT STATE
 STS	[DB] Betriebsstelle Temmels (Hp)
 STS	[IATA 3LC] Santa Rosa (Sonoma County), California, United States of America
 STS	[Stw] (Sts) [Sp Dr S (Rb)] Berlin Schlachtensee Bk (aB S, Rb mit Str.-Glfrm, IB 01/1985, AB 16.02.2003)
+STST	Ständige Stabsstelle
 STT	[DB] Betriebsstelle Traben-Trarbach DB (Bf)
 STT	[IATA 3LC] Charlotte Amalie, St. Thomas, U.S. Virgin Islands
 STT S	[DB] Betriebsstelle Traben-Trarbach (Schiff) (Slst)
@@ -47238,6 +47264,7 @@ TKP	[IATA 3LC] Takapoto, French Polynesia
 TKPS	[DB] Betriebsstelle Klepsau (Bf)
 TKQ	[IATA 3LC] Kigoma, Tanzania
 TKR	[IATA 3LC] Thakurgaon, Bangladesh
+TKS	timekeeping system
 TKS	[DB] Betriebsstelle Königsbronn (Bf)
 TKS	[IATA 3LC] Tokushima, Japan
 TKSF	[DB] Betriebsstelle Kochersteinsfeld (Bf)
@@ -48248,6 +48275,7 @@ TUY	[IATA 3LC] Tulum, Mexico
 TUY	[ICAO 8585] Linea Turística Aerotuy, Venezuela
 TUZ	[DB] Betriebsstelle Unterzeil (Awanst)
 TUZ	[IATA 3LC] Tucuma, Brazil
+TV	Tatverdächtiger
 TV	television
 TV	[ccTLD] Tuvalu
 TV	[DB] Betriebsstelle Vaihingen (Enz) (Bf)
@@ -48366,6 +48394,7 @@ TWS	[DB] Betriebsstelle Westerstetten (Bf)
 TWS	[Stw] (Tws) [SuH 1907] Berlin Treptow Gbf (Fdl: Ww; aB e)
 TWSN	[DB] Betriebsstelle Weißenau (Hp)
 TWSS	[DB] Betriebsstelle Weissach (Bf)
+TWSTFT	two-way satellite time and frequency transfer
 TWT	[DB] Betriebsstelle Wertheim (Bf)
 TWT	[IATA 3LC] Tawi Tawi, Philippines
 TWT	[Stw] (Twt) [mech E] Templin (Fdl: Ww; aB)
@@ -49717,7 +49746,9 @@ UTU	[IATA 3LC] Ustuop, Panama
 UTW	[IATA 3LC] Queenstown, South Africa
 UTX	[IATA 3LC] Jupiter (William P. Gwinn Airport), Florida, United States of America
 UTY	[ICAO 8585] Alliance Airlines, Australien
+UTZ	Utz Kapeh Foundation (Good Coffee Foundation)
 UTZ	[DB] Betriebsstelle Tabarz (Tp)
+UTZ	[HP] Unheimlich toller Zauberer (cf. NEWT)
 UTZ	[HP] Unheimlich Toller Zauberer (NEWT)
 UU	[IATA 2LC] Air Austral, Frankreich
 UU	[IATA 2LC] Air Austral, Réunion
@@ -53343,7 +53374,7 @@ WRZ B	[DB] Betriebsstelle Rüdnitz Bahnhofstraße KOM-Hst (Bush)
 WRZ D	[DB] Betriebsstelle Rüdnitz Dorf Gaststätte (Bush)
 WRZ S	[DB] Betriebsstelle Rüdnitz Siedlung (Bush)
 WRZF	[Stw] (Wrzf) [E 43] Würzburg Rbf (Fdl: Fdl; aB e)
-WS	web services
+WS	webservice
 WS	Webshop
 WS	weiß (cf. WH), IEC 62: 9
 WS	WordStar
@@ -57402,6 +57433,7 @@ ZAD	[IATA 3LC] Zadar, Croatia
 ZADP	[DB] Betriebsstelle Djorce Petrov (Bf)
 ZAF	[ISO 3166] South Africa
 ZAG	[DB] Betriebsstelle Gevgelija (Bf)
+ZAG	[HP] Zauberergrad (cf. OWL)
 ZAG	[HP] Zaubergrad (OWL)
 ZAG	[IATA 3LC] Zagreb (Pleso), Croatia
 ZAH	[IATA 3LC] Zahedan, Iran
@@ -57682,6 +57714,7 @@ ZLYA	[ICAO 7910] Yan'an Airport, Yan'an, China
 ZLYL	[ICAO 7910] Yulin Airport, Yulin, China
 ZM	Zugmelder
 ZM	[ccTLD] Sambia
+ZM	[HP] Zaubereiministerium (cf. MoM)
 ZM	[IATA 2LC] Air Manas, Kirgisistan
 ZM	[IATA 2LC] Scibe Airlift, Zaïre
 ZM	[ISO 3166] Zambia
@@ -58028,6 +58061,7 @@ _	[MORSE] ..--.- (not ITU-R)
 Ö	deutsches Funkalphabet: ÖKONOM
 Ö	okumenisch
 Ö	[MORSE] ---.
+ÖA	Öffentlichkeitsarbeit
 ÖA	örtliche Aufsicht
 ÖBB	Österreichische Bundesbahn
 ÖBB	Österreichische Bundesbahnen
