@@ -1,5 +1,5 @@
   à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž α/Α ε/Ε κ/Κ λ/Λ ο/Ο π/Π ς/Σ σ/Σ υ/Υ а/А б/Б в/В г/Г д/Д е/Е з/З и/И й/Й к/К л/Л м/М н/Н о/О п/П р/Р с/С т/Т у/У ф/Ф х/Х ц/Ц ш/Ш э/Э ю/Ю қ/Қ ա/Ա հ/Հ յ/Յ
- @(#)$MirOS: wtf/acronyms,v 1.601 2017/01/05 15:18:26 tg Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.602 2017/01/11 23:37:39 tg Exp $
  From $NetBSD: acronyms,v 1.250 2016/12/12 20:41:49 riastradh Exp $
  From $NetBSD: acronyms-o.real,v 1.2 2015/04/24 18:03:38 riastradh Exp $
  From $NetBSD: acronyms.comp,v 1.170 2017/01/01 22:44:30 kamil Exp $
@@ -9487,13 +9487,13 @@ CSNP	Complete Sequence Number PDU
 CSO	crime scene officer
 CSO	PSP UMD compressed ISO file
 CSORD	con sordino
-CSP	Certification Service Provider
+CSP	certification service provider
 CSP	Christlichsoziale Partei
 CSP	Cloud Solution Provider
 CSP	communicating sequential processes
-CSP	Communications Service Provider
+CSP	communications service provider
 CSP	Content Security Policy
-CSP	Cryptographic Service Provider
+CSP	cryptographic service provider
 CSP	[IATA 3LC] Cape Spencer Coast Guard Heliport, Alaska, United States of America
 CSPRNG	continuously seeded PRNG
 CSPRNG	cryptographically secure PRNG
@@ -15427,6 +15427,7 @@ ESOTG	[DB] Betriebsstelle Soest Gbf (Bft)
 ESOW	[ICAO 7910] Hasslo, Vasteras, Sweden
 ESP	EFI system partition
 ESP	Elektronisches Stabilitätsprogramm (cf. ESC)
+ESP	email service provider
 ESP	Spanish peseta (old ISO 4217 code)
 ESP	[FIFA] Spain
 ESP	[IATA 3LC] East Stroudsburg, Pennsylvania, United States of America
@@ -23679,6 +23680,7 @@ INB4	in before
 INBP	Infrastrukturnutzungsbedingungen Personenbahnhöfe
 INC	[IATA 3LC] Yinchuan, China
 INC	[ICAO 8585] Insel Air, Niederländische Antillen
+INCI	international nomenclature of cosmetic ingredients
 INCITS	InterNational Committee for Information Technology Standards
 INCL	inklusive
 INCOFER	Instituto Costarricense de Ferrocarriles
@@ -29841,7 +29843,7 @@ LSOA	[DB] Betriebsstelle Stendal Ost Raw (Anst)
 LSOF	[DB] Betriebsstelle Schönfeld (Elbe) (Hp)
 LSOL	[DB] Betriebsstelle Söllichau (Bf)
 LSOR	[DB] Betriebsstelle Sorge (Bf)
-LSP	Layered Service Provider
+LSP	layered service provider
 LSP	line spectral pair
 LSP	Link State PDU
 LSP	[DB] Betriebsstelle Schkopau (Bf)
@@ -37179,6 +37181,7 @@ OTP	one-time password
 OTP	one-time purchase
 OTP	open telecom platform
 OTP	[IATA 3LC] Bucharest (Otopeni), Romania
+OTR	off the record
 OTR	[IATA 3LC] Coto 47, Costa Rica
 OTRANTO	O (Italian Spelling Alphabet)
 OTRS	Online Ticket Request System
@@ -40035,7 +40038,6 @@ RCX	Robotics Command System
 RCX	[IATA 3LC] Ladysmith (Rusk County Airport), Wisconsin, United States of America
 RCY	[IATA 3LC] Rum Cay, Bahamas
 RD	red, IEC 62: 2 / ±2%
-RD	Rettungsdienst
 RD	Rettungsdienst
 RD	[DNS] header flag (bit 7): recursion desired
 RD	[IATA 2LC] REDjet, Barbados
@@ -47081,7 +47083,7 @@ TIH	[IATA 3LC] Tikehau Atoll, French Polynesia
 TII	[IATA 3LC] Tirinkot, Afghanistan
 TIJ	[IATA 3LC] Tijuana (General Abelardo Rodriguez), Mexico
 TIK	[IATA 3LC] Oklahoma City (Tinker AFB), Oklahoma, United States of America
-TIL	today I learned
+TIL	today I learnt
 TIL	[DB] Betriebsstelle Illingen (Württ) (Bf)
 TIL	[IATA 3LC] Inverlake, Saskatchewan, Canada
 TIM	[IATA 3LC] Timuka, Tembagapura, New Guinea, Indonesia
@@ -48019,10 +48021,10 @@ TSOM	[DB] Betriebsstelle Stuttgart-Obertürkheim (Bf)
 TSON	[DB] Betriebsstelle Sontheim-Brenz (Bf)
 TSOP	thin small outline package (cf. SOP)
 TSOS	[DB] Betriebsstelle Stuttgart Österfeld (Hp)
+TSP	time stamping protocol
 TSP	time synchronisation protocol
-TSP	Time-Stamp Protocol
 TSP	traveling salesman problem
-TSP	Trust Service Provider
+TSP	trust service provider
 TSP	tunnel service provider
 TSP	Tunnel Setup Protocol
 TSP	[DB] Betriebsstelle Spaichingen (Bf)
@@ -49280,6 +49282,7 @@ UMHD	[DB] Betriebsstelle Mohlsdorf (Bf)
 UMHO	[DB] Betriebsstelle Mengersgereuth-Hämmern Ost (Hp)
 UMI	[IATA 3LC] Quince Mil, Peru
 UMII	[ICAO 7910] Vitebsk, Vitebsk, Belarus
+UMIP	user-mode instruction prevention
 UMK	[DB] Betriebsstelle Merkers (Bf)
 UMK	[ICAO 8585] Yuzmashavia, Ukraine
 UMKK	[ICAO 7910] Khrabrovo Airport, Kaliningrad, Russia
