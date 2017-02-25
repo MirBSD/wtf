@@ -1,8 +1,10 @@
 #!/usr/bin/perl -T
-my $rcsid = '$MirOS: wtf/www/wtf.cgi,v 1.20 2016/11/19 19:30:51 tg Exp $';
+my $rcsid = '$MirOS: wtf/www/wtf.cgi,v 1.21 2017/02/25 17:45:35 tg Exp $';
 #-
-# Copyright © 2012, 2014, 2015
+# Copyright © 2012, 2014, 2015, 2017
 #	mirabilos <m@mirbsd.org>
+# Copyright © 2017
+#	<RT|Chatzilla> via IRC
 #
 # Provided that these terms and disclaimer and all copyright notices
 # are retained or reproduced in an accompanying document, permission
@@ -88,81 +90,22 @@ my $acrcsid = "";
 if ($query ne "") {
 	my $enc = tohtml($query);
 
+	# uppercase search term
 	$query =~ y/a-z/A-Z/;
+	# specific full stop removal rule
 	$query =~ y/.//d if $query =~ /[A-Z]\./;
-	$query =~ s/à/À/g;
-	$query =~ s/á/Á/g;
-	$query =~ s/ä/Ä/g;
-	$query =~ s/å/Å/g;
-	$query =~ s/æ/Æ/g;
-	$query =~ s/ç/Ç/g;
-	$query =~ s/è/È/g;
-	$query =~ s/é/É/g;
-	$query =~ s/í/Í/g;
-	$query =~ s/ð/Ð/g;
-	$query =~ s/ñ/Ñ/g;
-	$query =~ s/ó/Ó/g;
-	$query =~ s/ö/Ö/g;
-	$query =~ s/ø/Ø/g;
-	$query =~ s/ü/Ü/g;
-	$query =~ s/þ/Þ/g;
-	$query =~ s/ą/Ą/g;
-	$query =~ s/ć/Ć/g;
-	$query =~ s/ĉ/Ĉ/g;
-	$query =~ s/č/Č/g;
-	$query =~ s/đ/Đ/g;
-	$query =~ s/ę/Ę/g;
-	$query =~ s/ĝ/Ĝ/g;
-	$query =~ s/ĥ/Ĥ/g;
-	$query =~ s/ĵ/Ĵ/g;
-	$query =~ s/ł/Ł/g;
-	$query =~ s/ń/Ń/g;
-	$query =~ s/ś/Ś/g;
-	$query =~ s/ŝ/Ŝ/g;
-	$query =~ s/š/Š/g;
-	$query =~ s/ŭ/Ŭ/g;
-	$query =~ s/ź/Ź/g;
-	$query =~ s/ż/Ż/g;
-	$query =~ s/ž/Ž/g;
-	$query =~ s/α/Α/g;
-	$query =~ s/ε/Ε/g;
-	$query =~ s/κ/Κ/g;
-	$query =~ s/λ/Λ/g;
-	$query =~ s/ο/Ο/g;
-	$query =~ s/π/Π/g;
-	$query =~ s/ς/Σ/g;
-	$query =~ s/σ/Σ/g;
-	$query =~ s/υ/Υ/g;
-	$query =~ s/а/А/g;
-	$query =~ s/б/Б/g;
-	$query =~ s/в/В/g;
-	$query =~ s/г/Г/g;
-	$query =~ s/д/Д/g;
-	$query =~ s/е/Е/g;
-	$query =~ s/з/З/g;
-	$query =~ s/и/И/g;
-	$query =~ s/й/Й/g;
-	$query =~ s/к/К/g;
-	$query =~ s/л/Л/g;
-	$query =~ s/м/М/g;
-	$query =~ s/н/Н/g;
-	$query =~ s/о/О/g;
-	$query =~ s/п/П/g;
-	$query =~ s/р/Р/g;
-	$query =~ s/с/С/g;
-	$query =~ s/т/Т/g;
-	$query =~ s/у/У/g;
-	$query =~ s/ф/Ф/g;
-	$query =~ s/х/Х/g;
-	$query =~ s/ц/Ц/g;
-	$query =~ s/ш/Ш/g;
-	$query =~ s/э/Э/g;
-	$query =~ s/ю/Ю/g;
-	$query =~ s/қ/Қ/g;
-	$query =~ s/ա/Ա/g;
-	$query =~ s/հ/Հ/g;
-	$query =~ s/յ/Յ/g;
 
+	my $line = <ACRONYMS>;		# grab first line from acronyms file
+	$line =~ s/^\s+|\s+$//g;	# trim both ends
+	my @pairs = split / /, $line;	# split space-separated pairs
+	foreach $a (@pairs){
+		# split slash-separated word pair
+		my @pair = split /\//, $a;
+		# manual Unicode uppercasing
+		$query =~ s/$pair[0]/$pair[1]/g;
+	}
+
+	# now search for the term (and the DB version)
 	foreach my $line (<ACRONYMS>) {
 		chomp($line);
 		if ($line =~ /^ \@\(\#\)(.*)$/) {
@@ -171,6 +114,7 @@ if ($query ne "") {
 		if ($line =~ /^\Q$query	\E(.*)$/) {
 			push(@results, $1);
 		}
+		# TODO: if past matches, abort the loop
 	}
 
 	if (@results > 0) {
