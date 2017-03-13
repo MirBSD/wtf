@@ -1,8 +1,8 @@
   à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž α/Α ε/Ε κ/Κ λ/Λ ο/Ο π/Π ς/Σ σ/Σ υ/Υ а/А б/Б в/В г/Г д/Д е/Е з/З и/И й/Й к/К л/Л м/М н/Н о/О п/П р/Р с/С т/Т у/У ф/Ф х/Х ц/Ц ш/Ш э/Э ю/Ю қ/Қ ա/Ա հ/Հ յ/Յ
- @(#)$MirOS: wtf/acronyms,v 1.606 2017/03/10 21:03:14 tg Exp $
- From $NetBSD: acronyms,v 1.252 2017/01/31 03:44:14 riastradh Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.607 2017/03/13 18:21:01 tg Exp $
+ From $NetBSD: acronyms,v 1.253 2017/03/11 07:10:37 riastradh Exp $
  From $NetBSD: acronyms-o.real,v 1.3 2017/01/25 03:23:29 pgoyette Exp $
- From $NetBSD: acronyms.comp,v 1.177 2017/03/07 16:40:16 dholland Exp $
+ From $NetBSD: acronyms.comp,v 1.178 2017/03/13 11:50:06 leot Exp $
  From $NetBSD: airport,v 1.63 2016/06/08 04:25:31 kre Exp $
  From $OpenBSD: airport,v 1.57 2016/10/04 17:27:39 fcambus Exp $
  From github: othyro/wtfubar refs/tags/wtfubar-2.4.0
@@ -10752,8 +10752,18 @@ DE	[Stw] (De) [S&H 1912] Darmstadt Hbf (Fdl: Ww; aB e, vormals elektro-pneumatis
 DE	[Stw] (De) [VES 4rH] Düsseldorf-Derendorf (Fdl: Ww; aB, IB 1937, AB 18.12.1977)
 DE	[USA] Delaware
 DE-FLASH	Doppelecho-FLASH
+DEA	das erklärt alles
 DEA	data encryption algorithm
+DEA	data exchange agreement
+DEA	designated examining authority
+DEA	Deutsche Erdoel AG
+DEA	Diakonie emergency aid
+DEA	Digital Economy Act
+DEA	disposable eMail address
+DEA	dissociative electron attachment
 DEA	Drug Enforcement Administration
+DEA	Drug Enforcement Agency
+DEA	défibrillateur cardiaque entièrement automatique (fully automatic cardiac defibrillator)
 DEA	[DB] Betriebsstelle Erdmannsdorf-Augustusburg (Bf)
 DEA	[IATA 3LC] Ed Dabba, Sudan
 DEAG	[DB] Betriebsstelle Erdmannsdorf-Augustusburg DB-Grenze (Gp)
@@ -10778,6 +10788,8 @@ DED	[DB] Betriebsstelle Einsiedel (Bf)
 DED	[IATA 3LC] Dehradun, India
 DEDCHPSY	Doctor of Educational and Child Psychology
 DEDH	[DB] Betriebsstelle Einsiedel Hp (Hp)
+DEE	das erklärt einiges
+DEE	Datenendeinrichtung
 DEEZ	[HP] Death Eaters
 DEF	default
 DEF	defence
@@ -19238,6 +19250,8 @@ GEN	[IATA 3LC] Oslo (Gardermoen), Norway
 GEN0	[Oracle] General Task Execution Process
 GENA	general event notification architecture
 GENOVA	G (Italian Spelling Alphabet)
+GEO	Geographie
+GEO	Geometrie
 GEO	[FIFA] Georgia
 GEO	[IATA 3LC] Georgetown (Timehri), Guyana
 GEO	[Kfz:D] Landkreis Gerolzhofen
@@ -37902,6 +37916,7 @@ PDI	Portable Document Imaging
 PDI	[IATA 3LC] Pindiu, Papua New Guinea
 PDK	[IATA 3LC] Atlanta (Dekalb-Peachtree Airport), Georgia, United States of America
 PDL	Personaldienstleistung(en)
+PDL	Pflegedienstleitung
 PDL	Policy Description Language
 PDL	[IATA 3LC] Ponta Delgada (Sao Miguel), Azores, Portugal
 PDM	Pulsdauermodulation (cf. PWM)
