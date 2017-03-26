@@ -1,8 +1,8 @@
   à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž α/Α ε/Ε κ/Κ λ/Λ ο/Ο π/Π ς/Σ σ/Σ υ/Υ а/А б/Б в/В г/Г д/Д е/Е з/З и/И й/Й к/К л/Л м/М н/Н о/О п/П р/Р с/С т/Т у/У ф/Ф х/Х ц/Ц ш/Ш э/Э ю/Ю қ/Қ ա/Ա հ/Հ յ/Յ
- @(#)$MirOS: wtf/acronyms,v 1.608 2017/03/16 23:13:47 tg Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.609 2017/03/26 14:39:38 tg Exp $
  From $NetBSD: acronyms,v 1.253 2017/03/11 07:10:37 riastradh Exp $
  From $NetBSD: acronyms-o.real,v 1.3 2017/01/25 03:23:29 pgoyette Exp $
- From $NetBSD: acronyms.comp,v 1.178 2017/03/13 11:50:06 leot Exp $
+ From $NetBSD: acronyms.comp,v 1.179 2017/03/24 12:49:43 ginsbach Exp $
  From $NetBSD: airport,v 1.63 2016/06/08 04:25:31 kre Exp $
  From $OpenBSD: airport,v 1.57 2016/10/04 17:27:39 fcambus Exp $
  From github: othyro/wtfubar refs/tags/wtfubar-2.4.0
@@ -1605,6 +1605,7 @@ AD	Active Directory
 AD	advertisement
 AD	analog/digital (conversion)
 AD	anno domini
+AD	Autobahndreieck
 AD	außer Dienst
 AD	[ccTLD] Andorra
 AD	[DNS] header flag (bit 10): authentic data
@@ -2366,6 +2367,7 @@ AJY	[IATA 3LC] Agades (Manu Dayak), Niger
 AK	Adnkronos
 AK	Aktionskreis
 AK	Arbeitskreis
+AK	Autobahnkreuz
 AK	Automatische Kupplung (cf. Z-AK)
 AK	Knight of the Order of Australia
 AK	[DB] Betriebsstelle Kiel Hbf (Bf)
@@ -3330,6 +3332,7 @@ ARZS	[DB] Betriebsstelle Rendsburg Stadt (Anst)
 AS	als
 AS	alto saxophone
 AS	Altsaxophon
+AS	Anschlußstelle (Abfahrt)
 AS	anti-spoofing
 AS	As (PSE#33) Arsenicum, Arsen | Stickstoff/Phosphor-Gruppe | pnictogens
 AS	assembler (cf. gas)
@@ -4660,6 +4663,7 @@ BAA	Bundesausgleichsamt
 BAA	[IATA 3LC] Bialla, Papua New Guinea
 BAA	[Stw] (Baa) [ADr S65K] Bamberg (Abl, fs: Bf)
 BAAINBW	Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr
+BAB	Bundesautobahn
 BAB	[IATA 3LC] Beale Air Force Base, California, United States of America
 BAB	[ICAO 8585] Bahrain Air, Bahrain
 BAB	[Stw] (Bab) [mech E] Basdorf (Fdl: Fdl; aB, AB 10/2001)
@@ -5027,7 +5031,9 @@ BCB	[GPSH] Bookcrossing Book
 BCB	[IATA 3LC] Blacksburg (Virginia Tech Airport), Virginia, United States of America
 BCC	Bitte cur Cenntnisnahme
 BCC	blind carbon copy
+BCC	Borland C++ compiler
 BCC	Broadcast Call Control
+BCC	Bruce’s C compiler
 BCC	[IATA 3LC] Bear Creek 3 Airport, Alaska, United States of America
 BCD	binary coded decimal
 BCD	[IATA 3LC] Bacolod (Wings Field), Philippines
@@ -6775,6 +6781,7 @@ BPAPV	[DB] Betriebsstelle Berlin Papestraße (Vorortbahn) (Bft)
 BPB	BIOS parameter block
 BPB	Bundeszentrale für politische Bildung
 BPB	[IATA 3LC] Boridi, Papua New Guinea
+BPC	Borland Pascal compiler (cf. TPC)
 BPC	[IATA 3LC] Bamenda, Cameroon
 BPD	[DB] Betriebsstelle Potsdam Hbf (Bf)
 BPD	[IATA 3LC] Bapi, Papua New Guinea
@@ -9228,6 +9235,7 @@ COLL	colloquial (cf. ugs.)
 COLP	Connected Line Identification Presentation (feature on caller side to see which phone number was actually connected)
 COLR	Connected Line Identification Restriction (feature on callee side to prevent caller to see the actually connected phone number)
 COM	(16-bit MS-DOS or COMBOOT executable file)
+COM	collectivités d’outre-mer
 COM	command
 COM	component object model
 COM	serial communications port
@@ -10377,6 +10385,7 @@ DARCS	Darcs advanced revision control system
 DART	Datenbank für Reisezugwagen und Triebfahrzeuge
 DART	Disk Archive/Retrieval Tool
 DART	Microsoft Diagnostics and Recovery Toolset, formerly ERD Commander (cf. ERD)
+DAS	(nur, wenn man auch „welches“ schreiben könnte, sonst „daß“)
 DAS	[DB] Betriebsstelle Arras (Hp)
 DASD	direct-access storage device
 DASH	(hyphen) - (International Radiotelephony Spelling Alphabet)
@@ -11866,6 +11875,7 @@ DOLG	[DB] Betriebsstelle Olbernhau Glaswerk GmbH (Anst)
 DOLM	[DB] Betriebsstelle Blumenau Max Richter GmbH (Anst)
 DOLORES	D (Spanish Spelling Alphabet)
 DOM	document object model
+DOM	département d’outre-mer
 DOM	[DB] Betriebsstelle Obstmühle (Hp)
 DOM	[FIFA] Dominican Republic
 DOM	[HP] Department of Mysteries
@@ -12124,6 +12134,7 @@ DRJ	[IATA 3LC] Drietabbetje, Suriname
 DRK	Deutsches Rotes Kreuz
 DRK	[DB] Betriebsstelle Dresden-Reick (Bf)
 DRK	[ICAO 8585] Druk Air, Bhutan
+DRM	dentist-resistent mira
 DRM	digital restriction management
 DRM	digital rights management
 DRM	Digitale Rechte-Minderung
@@ -16095,6 +16106,7 @@ F	[E-Stoffe] Farbstoff
 F	[Kfz:D] kreisfreie Stadt Frankfurt am Main
 F	[Kfz] Frankreich
 F	[MORSE] ..-.
+F/LOSS	(cf. FLOSS)
 F/OSS	free / open source software
 F1	[IATA 2LC] Farelogix, USA
 F2	[IATA 2LC] Falcon Air Express, USA
@@ -17994,7 +18006,7 @@ FOS	[IATA 3LC] Forrest, Western Australia, Australia
 FOSD	[DB] Betriebsstelle Oberscheden (Bf)
 FOSDEM	Free and open source software developers’ European meeting
 FOSN	[DB] Betriebsstelle Oberelsungen (Hp)
-FOSS	free / open source software
+FOSS	free / open source software (cf. OSS)
 FOSS	[DB] Betriebsstelle Oberselters (Plng NBS) (Bk)
 FOST	[DB] Betriebsstelle Frankfurt (Main) Ostendstraße (Bf)
 FOT	[DB] Betriebsstelle Ottrau (Anst)
@@ -19120,7 +19132,7 @@ GCB	Knight Grand Cross of the Order of the Bath
 GCC	Galileo control center
 GCC	gcc can’t compile
 GCC	generate crashing code
-GCC	GNU C Compiler (old)
+GCC	GNU C compiler
 GCC	GNU Chagrin Collection
 GCC	GNU Compiler Collection
 GCC	Group Call Control
@@ -23442,6 +23454,16 @@ ICB	Internet Citizens’ Band
 ICBA	I can’t be arsed
 ICBW	I could be wrong
 ICBW	It could be worse
+ICC	Information Coding Classification
+ICC	integrated circuit card
+ICC	Intel C++ compiler
+ICC	intermediate cross-connects
+ICC	International Chamber of Commerce (Internationale Handelskammer)
+ICC	international colour committee
+ICC	international colour consortium
+ICC	International Commerce Centre
+ICC	Internationales Congress Centrum Berlin
+ICC	Internet Chess Club
 ICCCM	Inter-Client Communication Conventions Manual
 ICCL	I couldn’t care less
 ICD	implantierbarer Defibrillator
@@ -24148,6 +24170,7 @@ ISB	[IATA 3LC] Islamabad, Pakistan
 ISB	[Stw] (Isb) [mech E] Neu Isenburg (Fdl: Fdl; aB, später If, AB 14.04.1969)
 ISBN	International Standard Book Number
 ISBN	Internationale Standardbuchnummer
+ISC	Internet Systems Consortium
 ISC	Interporto Servizi Cargo
 ISC	[IATA 3LC] Scilly Isles (St. Mary’s Airport), England, United Kingdom of Great Britain and Northern Ireland
 ISC	[SPDX] ISC Licence – http://spdx.org/licenses/ISC.html
@@ -27768,6 +27791,7 @@ LATI	[ICAO 7910] Tirana Intl Airport Mother Teresa, Tirane (Tirana), Albania
 LATLON	Latitude / Longitude (coordinate format: N-S / E-W polar; usually WGS84)
 LATM	Low Overhead Audio Transport Multiplex
 LATPS	Lärmabhängiges Trassenpreissystem
+LAU	local administrative unit (+3 = NUTS)
 LAU	[IATA 3LC] Lamu (Mwana), Kenya
 LAU	[Kfz:D] Landkreis Lauf an der Pegnitz
 LAU	[Kfz:D] Landkreis Nürnberger Land
@@ -30711,6 +30735,7 @@ MABY	[DB] Betriebsstelle Ottenhofen Bayernwerk (Markt Schwaben) (Awanst)
 MAC	Apple Macintosh
 MAC	macro
 MAC	mandatory access control
+MAC	media access control
 MAC	medium access control
 MAC	message authentication check
 MAC	message authentication code
@@ -36091,6 +36116,8 @@ NUSW	[DB] Betriebsstelle Feucht Umspannwerk (Anst)
 NUT	[DB] Betriebsstelle Unterheckenhofen (Hp)
 NUT	[IATA 3LC] Nutuve, Papua New Guinea
 NUTS	N (RAF 1942/1943 Spelling Alphabet)
+NUTS	nomenclature des unités territoriales statistiques
+NUTS	Systematik der Gebietseinheiten für die Statistik
 NUU	[IATA 3LC] Nakuru, Kenya
 NUUG	Norwegian Unix User Group
 NUV	[DB] Betriebsstelle Untervierau (Tp)
@@ -36190,6 +36217,7 @@ NWBM	[DB] Betriebsstelle Weiden (Oberpf) Bauscher-Mandt (Awanst)
 NWBR	[DB] Betriebsstelle Weißenbrunn (Bf)
 NWBU	[DB] Betriebsstelle Wimbach-Untergschaidt (Bf)
 NWBZ	[DB] Betriebsstelle Wüstenselbitz (Hp)
+NWCC	Nils Weller’s C compiler
 NWD	[DB] Betriebsstelle Windsfeld-Dittenheim (Bf)
 NWDC	[DB] Betriebsstelle Wiesenfeld (b. Coburg) (Hp)
 NWDF	[DB] Betriebsstelle Wackersdorf (Oberpf) (Bf)
@@ -36662,7 +36690,7 @@ OEBB	(cf. ÖBB)
 OEBB	Oensingen-Balsthal-Bahn
 OEBH	[ICAO 7910] Bisha Domestic Airport, Bisha, Saudi Arabia
 OEC	[IATA 3LC] Ocussi, Indonesia
-OECD	Organisation for Economic Co-operation and Development
+OECD	organisation for economic co-operation and development
 OEDF	[ICAO 7910] King Fahd Intl Airport, Dammam, Saudi Arabia
 OEDW	[ICAO 7910] Dawadmi Domestic Airport, Dawadmi, Saudi Arabia
 OEF	[Stw] (Oef) [Dr S2] Oestrich-Winkel (e)
@@ -41591,6 +41619,7 @@ ROLA	Rollende Landstraße
 ROLZ	reduced offset Lempel-Ziv
 ROM	read only memory
 ROM	Request of Maintainer
+ROM	région d’outre-mer
 ROM	[FIFA] Romania
 ROM	[IATA 3LC] All Airports around Roma, Italy
 ROMA	R (British A/International Spelling Alphabet; Italian Spelling Alphabet)
@@ -43541,6 +43570,7 @@ SFJ	[ICAO 8585] Star Flyer, Japan
 SFK	[IATA 3LC] Satipo, Peru
 SFL	[IATA 3LC] Sao Felipe, Cape Verde
 SFL	[Stw] (Sfl) [GS II DR] Schönfließ (GmS, Flb: Abzw Schönfließ West; Abzw Arkenberg (S-Bahn, seit 02.09.1984), IB 09.12.1964)
+SFLC	Software Freedom Law Center
 SFM	Serveis Ferroviaris de Mallorca (Majorcan Railway Services)
 SFM	[IATA 3LC] Sanford Municipal Airport, Maine, United States of America
 SFN	[IATA 3LC] Santa Fe (Sauce Viejo), Argentina
@@ -46851,6 +46881,7 @@ TCB	trusted computing base
 TCB	[IATA 3LC] Treasure Cay, Abaco, Bahamas
 TCBR	[DB] Betriebsstelle Rot am See Brettenfeld (Awanst)
 TCC	thermal control circuit
+TCC	tiny C compiler
 TCC	[IATA 3LC] Tucumcari Municipal Airport, New Mexico, United States of America
 TCD	[IATA 3LC] Tarapaca, Colombia
 TCDD	Turkiye Cumhuriyeti Devlet Demiryolları (Turkish State Railways)
@@ -46867,6 +46898,7 @@ TCH	[IATA 3LC] Tchibanga, Gabon
 TCI	[IATA 3LC] Tenerife, Canary Islands, Spain
 TCI	[ICAO 8585] Air Turks and Caicos, Turks‐ und Caicosinseln
 TCK	Technology Compatibility Kit
+TCK	third culture kid
 TCK	[JTAG] clock (pin)
 TCL	tool command language
 TCL	transaction control language
@@ -48078,6 +48110,7 @@ TPA	[IATA 3LC] Tampa International, Florida, United States of America
 TPA	[ICAO 8585] Tampa Cargo, Kolumbien
 TPB	[DB] Betriebsstelle Pforzheim-Brötzingen (Bf)
 TPC	Transports Publics du Chablais (cf. AL) (cf. AOMC) (cf. ASD) (cf. VB)
+TPC	Turbo Pascal compiler
 TPC	[IATA 3LC] Tarapoa, Ecuador
 TPC	[ICAO 8585] Air Caledonie, Neukaledonien (Frankreich)
 TPE	Portuguese Timorese escudo (old ISO 4217 code)
@@ -50120,6 +50153,7 @@ UTU	[IATA 3LC] Ustuop, Panama
 UTW	[IATA 3LC] Queenstown, South Africa
 UTX	[IATA 3LC] Jupiter (William P. Gwinn Airport), Florida, United States of America
 UTY	[ICAO 8585] Alliance Airlines, Australien
+UTZ	unrecognised time zone
 UTZ	Utz Kapeh Foundation (Good Coffee Foundation)
 UTZ	[DB] Betriebsstelle Tabarz (Tp)
 UTZ	[HP] Unheimlich toller Zauberer (cf. NEWT)
