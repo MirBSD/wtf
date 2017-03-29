@@ -1,5 +1,5 @@
   à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž α/Α ε/Ε κ/Κ λ/Λ ο/Ο π/Π ς/Σ σ/Σ υ/Υ а/А б/Б в/В г/Г д/Д е/Е з/З и/И й/Й к/К л/Л м/М н/Н о/О п/П р/Р с/С т/Т у/У ф/Ф х/Х ц/Ц ш/Ш э/Э ю/Ю қ/Қ ա/Ա հ/Հ յ/Յ
- @(#)$MirOS: wtf/acronyms,v 1.609 2017/03/26 14:39:38 tg Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.610 2017/03/29 15:08:13 tg Exp $
  From $NetBSD: acronyms,v 1.253 2017/03/11 07:10:37 riastradh Exp $
  From $NetBSD: acronyms-o.real,v 1.3 2017/01/25 03:23:29 pgoyette Exp $
  From $NetBSD: acronyms.comp,v 1.179 2017/03/24 12:49:43 ginsbach Exp $
@@ -5317,6 +5317,7 @@ BES	[IATA 3LC] Brest/Bretagne, Brest, France
 BES	[IATA 3LC] Guipavas, Brest, France
 BES	[ICAO 8585] Aero Services Executive, Frankreich
 BESCHA	Beschaffungsamt des Bundesministeriums des Innern
+BESEN	Bürste, enthält Stiel, einfache Nutzung
 BEST	Betriebs- und Stellwerkssimulation für ESTW
 BET	Beteiligte
 BET	[IATA 3LC] Bethel Airport, Alaska, United States of America
@@ -38446,6 +38447,7 @@ PLA	Programmable Logic Array
 PLA	[IATA 3LC] Planadas, Colombia
 PLB	personal locator beacon
 PLB	[IATA 3LC] Plattsburgh (Clinton County Airport), New York, United States of America
+PLC	power line communication
 PLC	programmable logic controller
 PLC	[IATA 3LC] Planeta Rica, Colombia
 PLCH	[ICAO 7910] Cassidy Intl, Christmas I, Kiribati
@@ -43936,6 +43938,7 @@ SIS	Secret Intelligence Service
 SIS	Signal-In-Space
 SIS	[IATA 3LC] Sishen, South Africa
 SISD	single instruction, single data
+SISO	shit in, shit out
 SISSL	[SPDX] Sun Industry Standards Source Licence v1.1 – http://spdx.org/licenses/SISSL.html
 SISSL-1.2	[SPDX] Sun Industry Standards Source Licence v1.2 – http://spdx.org/licenses/SISSL-1.2.html
 SIT	Slovenian tolar (old ISO 4217 code)
