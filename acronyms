@@ -1,5 +1,5 @@
   à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž α/Α ε/Ε κ/Κ λ/Λ ο/Ο π/Π ς/Σ σ/Σ υ/Υ а/А б/Б в/В г/Г д/Д е/Е з/З и/И й/Й к/К л/Л м/М н/Н о/О п/П р/Р с/С т/Т у/У ф/Ф х/Х ц/Ц ш/Ш э/Э ю/Ю қ/Қ ա/Ա հ/Հ յ/Յ
- @(#)$MirOS: wtf/acronyms,v 1.610 2017/03/29 15:08:13 tg Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.611 2017/04/02 16:39:41 tg Exp $
  From $NetBSD: acronyms,v 1.253 2017/03/11 07:10:37 riastradh Exp $
  From $NetBSD: acronyms-o.real,v 1.3 2017/01/25 03:23:29 pgoyette Exp $
  From $NetBSD: acronyms.comp,v 1.179 2017/03/24 12:49:43 ginsbach Exp $
@@ -554,6 +554,7 @@ $	[MORSE] ...-..- (not ITU-R)
 32	[dental] permanent lower left lateral incisor (FDI scheme)
 320DP	[Android] typical phone screen; ldpi (240x320px), mdpi (320x480px), hdpi (480x800px), etc.
 33	[dental] permanent lower left canine (FDI scheme)
+333	bei Issos Keilerei
 34	[dental] permanent lower left first premolar (FDI scheme)
 35	[dental] permanent lower left second premolar (FDI scheme)
 36	[dental] permanent lower left first molar (six-year molar) (FDI scheme)
@@ -906,6 +907,7 @@ $	[MORSE] ...-..- (not ITU-R)
 751	FeAp mit IWV-Tastenblock (cf. FeAp)
 752	FeAp mit IWV-Tastenblock und Erdtaste (cf. FeAp)
 753	FeAp mit IWV-Tastenblock und geändertem Gabelumschalter (cf. FeAp)
+753	nata roma ēs (septem quinque trēs)
 754	FeAp mit IWV-Tastenblock, Erdtaste und geändertem Gabelumschalter (cf. FeAp)
 755	FeAp mit IWV-Tastenblock, geändertem Gabelumschalter und Schauzeichen (cf. FeAp)
 756	FeAp mit IWV-Tastenblock, Erdtaste, geändertem Gabelumschalter und Schauzeichen (cf. FeAp)
@@ -1331,6 +1333,7 @@ ABC	American Broadcasting Company
 ABC	arbitrary bad-smelling cheese
 ABC	atomare, biologische und chemische Gefahrenstoffe
 ABC	atomic, biological and chemical (weapons)
+ABC	die Katze lief im Schnee
 ABCH	[DB] Betriebsstelle Büchen (Bf)
 ABCHG	[DB] Betriebsstelle Büchen Bbf (Bft)
 ABCL	[DB] Betriebsstelle Barchel (Bf)
@@ -8404,6 +8407,7 @@ CDI	[IATA 3LC] Cedros Island, Mexico
 CDJ	[IATA 3LC] Conceicao, Paraíba, Brazil
 CDK	[IATA 3LC] Cedar Key (George T. Lewis Airport), Florida, United States of America
 CDL	[IATA 3LC] Candle 2 Airport, Alaska, United States of America
+CDM	coherent device memory
 CDM	Content Decryption Module (cf. EME)
 CDMA	code division multiple access
 CDN	content distribution network
@@ -8712,6 +8716,7 @@ CGN	Köln (Cologne)
 CGN	[IATA 3LC] Konrad Adenauer, Cologne/Bonn, Germany
 CGN	[ICAO 8585] Chang’an Airlines, China
 CGN	[Stw] (Cgn) [mech Jü] Coburg Gbf (Fdl: Fdl; aB, IB 13.07.1903, AB 12/2007)
+CGNAT	carrier-grade NAT
 CGND	chassis ground
 CGO	[FIFA] Congo
 CGO	[IATA 3LC] Zhengzhou, China
@@ -10433,6 +10438,7 @@ DAVID	Diagnose-, Aufrüst- und Vorbereitungsdienst mit integrierter Displaysteue
 DAVIT	Datenverarbeitung im Trassenmanagement
 DAX	Dark AleX's method of compressing ISOs (PSP UMD)
 DAX	Deutscher Aktienindex
+DAX	direct access
 DAX	[IATA 3LC] Daxian, China
 DAY	[IATA 3LC] Dayton James M. Cox International, Ohio, United States of America
 DAZ	[DB] Betriebsstelle Radebeul Abzw Az (Abzw)
@@ -11249,6 +11255,7 @@ DIDK	[ICAO 7910] Dimbokro Ville, Dimbokro, Ivory Coast
 DIDL	[ICAO 7910] Daloa, Daloa, Ivory Coast
 DIE	Dienstag, Tuesday, Dinsdag, Mardi
 DIE	[IATA 3LC] Antsiranana (Arrachart), Madagascar
+DIF	data integrity field
 DIF	Disposition Triebfahrzeuge
 DIF	[Stw] (Dif) [Sp Dr S60] Dinslaken (aB, Flb: Voerde (Ndrh), IB 30.11.1975, AB 15.06.2013)
 DIFC	different cover
@@ -11306,6 +11313,7 @@ DITM	[ICAO 7910] Mahana, Touba, Ivory Coast
 DIUM	Distancier international uniforme marchandises
 DIV	division
 DIW	[IATA 3LC] Diwan of Royal Court, Oman
+DIX	data integrity extensions
 DIY	do it yourself
 DIY	[IATA 3LC] Diyarbakir, Turkey
 DIYF	DuckDuckGo is your friend
@@ -13198,7 +13206,12 @@ EAU	[DB] Betriebsstelle Bönen Autobahn (Bft)
 EAU	[IATA 3LC] Eau Claire (Chippewa Valley), Wisconsin, United States of America
 EAU	[Kfz] Uganda
 EAUTH	(#80) Authentication error
+EAV	Eignungsauswahlverfahren
+EAV	Einzelarbeitsvertrag
 EAV	Ente Autonomico Volturno (former CV, MCNE and SEPSA)
+EAV	entity-attribute-value
+EAV	Ergebnisabführungsvertrag
+EAV	Erste Allgemeine Verunsicherung
 EAWN	[DB] Betriebsstelle Aue-Wingeshausen (Hp Anst)
 EAZ	[Kfz] Sansibar (veraltet)
 EB	E-Baß
@@ -15507,6 +15520,7 @@ ESL	[EDU] Erziehungswissenschaftliches Studium Lehramt
 ESL	[IATA 3LC] Elista, Kalmykia, Russia
 ESL	[ICAO 8585] Russian Sky Airlines, Rußland
 ESM	[IATA 3LC] Esmeraldas (General Rivadeneira), Ecuador
+ESMA	European Securities and Markets Authority
 ESMA	[DB] Betriebsstelle Selmig (Abzw) (Abzw)
 ESMD	[DB] Betriebsstelle Scharmede (Hp)
 ESME	external short messaging entities
@@ -18126,6 +18140,7 @@ FRAC	[DB] Betriebsstelle Raunheim Caltex & Tikona (Anst)
 FRAMEWORX-1.0	[SPDX] Frameworx Open Licence 1.0 – http://spdx.org/licenses/Frameworx-1.0.html
 FRAN	[DB] Betriebsstelle Ranstadt (Hp)
 FRANCIA	F (Spanish Spelling Alphabet)
+FRAND	fair, reasonable and non-discriminatory
 FRANK	F (New York Police Spelling Alphabet)
 FRANÇOIS	F (French Spelling Alphabet)
 FRB	[DB] Betriebsstelle Rodenbach (Dillkr) (Hp)
@@ -22153,6 +22168,7 @@ HMKD	[DB] Betriebsstelle Markoldendorf (Bf)
 HMKT	[DB] Betriebsstelle Minden Königstor (Bf)
 HMKU	[DB] Betriebsstelle Osnabrück Münster-Kurve (Abzw)
 HMLN	[DB] Betriebsstelle Mühlen (Oldb) (Hp)
+HMM	heterogenous memory management
 HMN	[IATA 3LC] Alamogordo (Holloman AFB), New Mexico, United States of America
 HMNF	[DB] Betriebsstelle Minden Friedr-Wilhelm-Str (Bf)
 HMNO	[DB] Betriebsstelle Minden Oberstadt (Bf)
@@ -23474,6 +23490,7 @@ ICD	internationale statistische Klassifikation der Krankheiten und verwandter Ge
 ICD	[ICAO 8585] Icaro Air, Ecuador
 ICE	In Case of Emergency
 ICE	in-circuit emulator
+ICE	inline cryptographic engine
 ICE	Intercity-Expreß
 ICE	internal compiler error
 ICE	[ICAO 8585] Icelandair, Island
@@ -23685,6 +23702,7 @@ IGP	Indicación Geográfica Protegida
 IGP	Indication Géographique Protégée
 IGP	Interior Gateway Protocol
 IGR	[IATA 3LC] Iguazu (Cataratas del Iguazu), Argentina
+IGS	international GNSS service
 IGTF	International Grid Trust Federation
 IGU	[IATA 3LC] Foz do Iguacu (Cataratas), Paraná, Brazil
 IH	Instandhaltung
@@ -24697,6 +24715,7 @@ JK	just kidding
 JK	[IATA 2LC] Spanair, Spanien
 JKG	[IATA 3LC] Jonkoping, Sweden
 JKH	[IATA 3LC] Chios, Greece
+JKI	japanisches Kulturinstitut
 JKI	Julius Kühn-Institut – Bundesforschungsinstitut für Kulturpflanzen
 JKK	[ICAO 8585] Spanair, Spanien
 JKL	[IATA 3LC] Jackson (Julian Carroll Airport), Kentucky, United States of America
@@ -27153,6 +27172,8 @@ KSLA	[DB] Betriebsstelle Schladern (Sieg) (Bf)
 KSLC	[ICAO 7910] Salt Lake City Intl Airport, Salt Lake City, Utah, USA
 KSLE	[DB] Betriebsstelle Schleiden (Eifel) (Bf)
 KSLK	[DB] Betriebsstelle Sieglar (Bf)
+KSM	kernel same-page merging
+KSM	kernel shared memory
 KSM	[IATA 3LC] St. Mary’s Airport, Alaska, United States of America
 KSMF	[ICAO 7910] Sacramento Intl Airport, Sacramento, California, USA
 KSMI	[DB] Betriebsstelle Schmidtheim (Bf)
@@ -28260,6 +28281,7 @@ LEMH	[ICAO 7910] Menorca Airport, Menorca, Spain
 LEN	[DB] Betriebsstelle Egeln (Bf)
 LEN	[IATA 3LC] Leon (Aeropuero de Bajio), Mexico
 LENN	[DB] Betriebsstelle Egeln Nord (Bf)
+LENOR	leibeigener Neger ohne Rechte
 LEO	law enforcement officer
 LEO	Leo Expreß
 LEO	Lerne Englisch Online
@@ -29321,6 +29343,7 @@ LM	[Kfz:A:sub] Mietwagen
 LM	[Kfz:D] Landkreis Limburg-Weilburg
 LM	[Stw] (Lm) [mech E] Linda (Elster) (Fdl: Fdl; Lsig, ehem Ww)
 LM B	[DB] Betriebsstelle Magdeburg Busbf (Bush)
+LMA	load address
 LMA	[DB] Betriebsstelle Markkleeberg (Hp)
 LMA	[IATA 3LC] Lake Minchumina, Alaska, United States of America
 LMAA	Leck’ mich am Arsch
@@ -30037,6 +30060,7 @@ LSF	[Stw] (Lsf) [Sp Dr L30] Lünen Süd (aB, IB 16.04.1967, AB 10.03.2012)
 LSF G	[DB] Betriebsstelle Staßfurt Gbf (Bf)
 LSF W	[DB] Betriebsstelle Staßfurt Südbf (Bft)
 LSFD	[DB] Betriebsstelle Steinfeld (b. Stendal) (Hp Anst)
+LSFMM	Linux storage, filesystem and memory management summit
 LSG	Lösung
 LSG	[DB] Betriebsstelle Schwaneberg (Hp)
 LSGA	[DB] Betriebsstelle Leipzig Bksig 1 (LLEL) (Bk)
@@ -32291,6 +32315,7 @@ MLWG	[DB] Betriebsstelle Lengenwang (Bf)
 MLX	[IATA 3LC] Malatya, Turkey
 MLY	[IATA 3LC] Manley Hot Springs Airport, Alaska, United States of America
 MLZ	[IATA 3LC] Melo, Uruguay
+MM	memory management
 MM	Messieurs (plural of M.)
 MM	Military Medal
 MM	Millimetres (mm)
@@ -38863,6 +38888,7 @@ PPP	permanent perk point
 PPP	petty pet peeve
 PPP	piano pianissimo
 PPP	Point-to-Point Protocol
+PPP	precise point positioning
 PPP	[IATA 3LC] Proserpine, Queensland, Australia
 PPPOA	Point-to-Point Protocol over ATM
 PPPOE	Point-to-Point Protocol over Ethernet
@@ -39385,6 +39411,7 @@ PWG	Packwagen
 PWI	[IATA 3LC] Pawi (Beles), Ethiopia
 PWK	[IATA 3LC] Chicago (Wheeling), Illinois, United States of America
 PWL	[IATA 3LC] Perwokerto, Indonesia
+PWM	password manager
 PWM	pulse width modulation
 PWM	Pulsweitenmodulation
 PWM	[IATA 3LC] Portland International Jetport, Maine, United States of America
@@ -40100,6 +40127,10 @@ RAN	Regionaler Ansprechpartner Nahverkehr
 RAN	[DB] Betriebsstelle Annweiler am Trifels (Bf)
 RAN	[IATA 3LC] Ravenna, Italy
 RANAP	radio access network application part
+RAND	random
+RAND	reasonable and non-discriminatory
+RAND-RF	RAND royalty-free
+RAND-Z	RAND with zero royalty
 RANG	[DB] Rangierstellwerk/-stellpult
 RAO	[IATA 3LC] Riberao Preto, São Paulo, Brazil
 RAOUL	R (French Spelling Alphabet)
@@ -42167,7 +42198,14 @@ RTP	Banyan Vines Routing Table Protocol
 RTP	real-time transport protocol
 RTP	[IATA 3LC] Rutland Plains, Australia
 RTR	[DB] Betriebsstelle Triberg (Bf)
+RTS	Radio Televizija Srbije
+RTS	raster time series
 RTS	ready to send
+RTS	real time systems
+RTS	real-time service
+RTS	real-time strategy
+RTS	Regional Transit Service
+RTS	regulatory technical standards
 RTS	request to send
 RTS	return from subroutine
 RTS	[IATA 3LC] Rottnest Island, Western Australia, Australia
@@ -42475,6 +42513,7 @@ RÜG	[Kfz:D] Altkreis Rügen im Landkreis Vorpommern-Rügen
 RÜHRTR	Rührtrommel
 RÜKB	Rügensche Kleinbahn
 RŽD	(state railways of Russia)
+R⁴	rambling random R recommendation series
 S	British A/International Spelling Alphabet: SANTIAGO
 S	British Forces 1952 Spelling Alphabet: SUGAR
 S	deutsches Funkalphabet; Telecom B Spelling Alphabet: SAMUEL
@@ -44422,6 +44461,7 @@ SMPP	short message peer-to-peer
 SMPPL	[SPDX] Secure Messaging Protocol Public Licence – http://spdx.org/licenses/SMPPL.html
 SMQ	[IATA 3LC] Sampit, Borneo, Indonesia
 SMR	Satellit mit Rangiermitteln (eigene Rangierlok)
+SMR	shingled magnetic recording
 SMR	[DB] Betriebsstelle Münchweiler (Rodalb) (Bf)
 SMR	[FIFA] San Marino
 SMR	[IATA 3LC] Santa Marta (Simon Bolivar), Colombia
@@ -49266,9 +49306,11 @@ UFF	[Kfz:D] Landkreis Uffenheim
 UFN	[DB] Betriebsstelle Frankenhain (Hp)
 UFO	unidentified flying object
 UFO	unidentifiziertes Flugobjekt
+UFO	uniform fee only
 UFO	[DB] Betriebsstelle Freienorla (Hp)
 UFR	[DB] Betriebsstelle Friedrichroda (Bf)
 UFRT	[DB] Betriebsstelle Friedrichroda TWSB (Tp)
+UFS	universal flash storage
 UFS	Unix File System
 UFS	[DB] Betriebsstelle Floh-Seligenthal (Hp)
 UFT	[DB] Betriebsstelle Fröttstädt (Bf)
@@ -50967,6 +51009,8 @@ VM	[IATA 2LC] Max Air, Niger
 VM	[IATA 2LC] Regional Airlines, Frankreich
 VM	[IATA 2LC] Viaggio Air, Bulgarien
 VM	[Stw] (Vm) [mech] Vacha (aB e, AB 10.06.2001)
+VMA	virtual address
+VMA	virtual memory area
 VMB0	[Oracle] Volume Membership Process
 VMCID	Vendor Minor Codeset ID
 VMDK	VMware virtual machine disc
@@ -50977,6 +51021,7 @@ VMEF	Vereinigung Mitteleuropäischer Eisenbahnverwaltungen
 VMEM	RAM voltage
 VMFS	VMware ESX Virtual Machine File System
 VML	Vector Markup Language
+VMM	virtual memory manager
 VMMC	[ICAO 7910] Macau Intl Airport, Macau, China
 VMO	Verkehrsgemeinschaft Müritz-Oderhaff (former)
 VMR	[IATA 3LC] Vermillion (Harold Davidson Field), South Dakota, United States of America
