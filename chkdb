@@ -1,7 +1,7 @@
 #!/bin/mksh
-# $MirOS: wtf/chkdb,v 1.4 2016/02/26 17:11:06 tg Exp $
+# $MirOS: wtf/chkdb,v 1.5 2017/04/06 19:48:52 tg Exp $
 #-
-# Copyright © 2015, 2016
+# Copyright © 2015, 2016, 2017
 #	mirabilos <m@mirbsd.org>
 #
 # Provided that these terms and disclaimer and all copyright notices
@@ -67,7 +67,7 @@ while IFS= read -r line; do
 	for p in "${ucsrch[@]}"; do
 		eval 'tgsrch=${tgsrch//'"$p}"
 	done
-	[[ $target != "$tgsrch" ]] && warn "never matched, not uppercased: $line"
+	[[ $target != "$tgsrch" ]] && warn "never matched, not case-folded: $line"
 	[[ $tgsrch < $last ]] && warn "not sorted: $line"
 	last=$tgsrch
 done

@@ -1,9 +1,9 @@
 #!/bin/mksh
-myver='$MirOS: wtf/wtf,v 1.34 2015/11/20 23:00:52 tg Exp $'
+myver='$MirOS: wtf/wtf,v 1.35 2017/04/06 19:48:52 tg Exp $'
 # $NetBSD: wtf,v 1.7 2000/11/21 00:18:52 soren Exp $
 #-
 # Copyright © 2002, 2003, 2004, 2006, 2007, 2008, 2010, 2011,
-#	      2012, 2014, 2015
+#	      2012, 2014, 2015, 2017
 #	mirabilos <m@mirbsd.org>
 #
 # Provided that these terms and disclaimer and all copyright notices
@@ -156,14 +156,14 @@ if (( use_acronyms )); then
 	# read input file only once
 	exec <"$acronyms"
 
-	# read upper-casing code
+	# read case-folding code
 	if ! IFS= read -r line || [[ $line != '  '* ]]; then
 		print -ru2 "E: acronyms database ${acronyms@Q} too old"
 		exit 1
 	fi
 	set -A ucsrch -- $line
 
-	# create sorted input array, uppercased
+	# create sorted input array, uppercased/folded
 	s='set -sA stsrch --'
 	i=0
 	# now: "$@"=("$0" foo bar baz)
