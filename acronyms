@@ -1,5 +1,5 @@
-  à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž α/Α ε/Ε κ/Κ λ/Λ ο/Ο π/Π ς/Σ σ/Σ υ/Υ а/А б/Б в/В г/Г д/Д е/Е з/З и/И й/Й к/К л/Л м/М н/Н о/О п/П р/Р с/С т/Т у/У ф/Ф х/Х ц/Ц ш/Ш э/Э ю/Ю қ/Қ ա/Ա հ/Հ յ/Յ
- @(#)$MirOS: wtf/acronyms,v 1.611 2017/04/02 16:39:41 tg Exp $
+  à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž α/Α ε/Ε κ/Κ λ/Λ ο/Ο π/Π ς/Σ σ/Σ υ/Υ а/А б/Б в/В г/Г д/Д е/Е з/З и/И й/Й к/К л/Л м/М н/Н о/О п/П р/Р с/С т/Т у/У ф/Ф х/Х ц/Ц ш/Ш э/Э ю/Ю қ/Қ ա/Ա հ/Հ յ/Յ ℒ/ℓ
+ @(#)$MirOS: wtf/acronyms,v 1.612 2017/04/06 21:19:24 tg Exp $
  From $NetBSD: acronyms,v 1.253 2017/03/11 07:10:37 riastradh Exp $
  From $NetBSD: acronyms-o.real,v 1.3 2017/01/25 03:23:29 pgoyette Exp $
  From $NetBSD: acronyms.comp,v 1.179 2017/03/24 12:49:43 ginsbach Exp $
@@ -1409,8 +1409,10 @@ ABMB	[DB] Betriebsstelle Barmstedt Brunnenstraße (Bf)
 ABMR	[Oracle] Auto BMR Background Process
 ABMS	[DB] Betriebsstelle Barmstedt (Bf)
 ABN	Agencia Bolivariana de Noticias
+ABN	Algemeen Beschaafd Nederlands (nu: Standaardnederlands)
 ABN	Allgemeine Bedingungen für Infrastruktur-Nutzung (cf. SNB)
 ABN	[IATA 3LC] Albina, Suriname
+ABN-AN	Algemeen Nederlands (cf. ABN)
 ABNF	Abstract Backus-Naur form
 ABNS	[DB] Betriebsstelle Bönningstedt (Bf)
 ABO	abonnement
@@ -1580,6 +1582,7 @@ ACT	[TZif] America/Porto_Acre
 ACT	[TZif] America/Rio_Branco
 ACT	[TZif] Brazil/Acre
 ACTA	Anti-Counterfeiting Trade Agreement
+ACTA	association de coordination technique agricole
 ACTS	Abrollcontainer-Transportsystem
 ACU	Antenna Control Unit
 ACU	automatic calling unit
@@ -2801,6 +2804,7 @@ AMX	[IATA 3LC] Ammaroo, Northern Territory, Australia
 AMX	[ICAO 8585] AeroMéxico, Mexiko
 AMY	[IATA 3LC] Ambatomainty, Madagascar
 AMZ	[IATA 3LC] Ardmore, New Zealand
+AN	(cf. ABN-AN)
 AN	Arabic number
 AN	Arbeitnehmer
 AN	author’s note (unusual, cf. A/N)
@@ -6500,7 +6504,9 @@ BMZ	[DB] Betriebsstelle Medewitz (Mark) (Bf)
 BMZ	[IATA 3LC] Bamu, Papua New Guinea
 BMZD	[DB] Betriebsstelle Merzdorf (b. Cottbus) (Bf)
 BN	Bachelor of Nursing
+BN	Bekende Nederlander
 BN	bekiffter Nerd
+BN	Bibliothèque Nationale
 BN	boundary neutral
 BN	brown, IEC 62: 1 / ±1%
 BN	[ccTLD] Brunei
@@ -6976,6 +6982,7 @@ BRI	[DB] Betriebsstelle Rietschen (Bf)
 BRI	[IATA 3LC] Bari (Palese Macchie), Italy
 BRI	[ICAO 8585] Brindabella Airlines, Australien
 BRI	[Kfz:D] Kreis Brilon
+BRIG	HSAIL Binary Format
 BRJ	[IATA 3LC] Bright, Victoria, Australia
 BRK	[IATA 3LC] Bourke, New South Wales, Australia
 BRK	[Kfz:D] Landkreis Bad Brückenau
@@ -12087,6 +12094,7 @@ DRA	[DB] Betriebsstelle Röderau Bogendreieck (Abzw)
 DRA	[IATA 3LC] Mercury (Desert Rock Airport), Nevada, United States of America
 DRAB	[DB] Betriebsstelle Rabenau (Bf)
 DRAC	Dell Remote Access Controller
+DRACULA	dimensionality reduction and clustering for unsupervised learning in astronomy
 DRAD	[DB] Betriebsstelle Radibor (Sachs) (Bf)
 DRAG	[DB] Betriebsstelle Radeberg (Bf)
 DRAL	[DB] Betriebsstelle Rauschenthal (Anst)
@@ -19331,6 +19339,7 @@ GES	[ICAO 8585] Gestair, Spanien
 GESA	Gesamtkatalog deutschsprachiger Leichenpredigten
 GESP	gesperrt
 GEST	gestört
+GESTAPO	Geheime Staatspolizei
 GET	[IATA 3LC] Geraldton, Western Australia, Australia
 GEU	[IATA 3LC] Glendale Municipal Airport, Arizona, United States of America
 GEV	[IATA 3LC] Gallivare, Sweden
@@ -21827,6 +21836,8 @@ HIU	[IATA 3LC] Higuerote, Venezuela
 HIV	Han isch vajesse
 HIV	human immunodeficiency virus
 HIW	[IATA 3LC] Hiroshima (Hiroshima West), Japan
+HIWI	Hilfswilliger
+HIWI	Hilfswissenschaftler
 HIX	[IATA 3LC] Hiva Oa, Marquesas Islands, French Polynesia
 HJ	[DB] Betriebsstelle Jever (Hp)
 HJ	[IATA 2LC] Air Haiti, Haiti
@@ -22707,6 +22718,7 @@ HS W	[DB] Betriebsstelle Seelze Pbf Westseite (Bft)
 HSA	[DB] Betriebsstelle Wangerooge Saline (Bf)
 HSA	[ICAO 8585] East African Safari Air Express, Kenia
 HSAB	[DB] Betriebsstelle Sanderbusch (Hp)
+HSAIL	Heterogeneous System Architecture Intermediate Language
 HSAK	[DB] Betriebsstelle Sandkrug (Bf)
 HSAL	[DB] Betriebsstelle Salzbergen (Bf)
 HSAN	[DB] Betriebsstelle Sande (Bf)
@@ -24346,6 +24358,7 @@ IUK	Informations- und Kommunikationstechnologie
 IUKDG	Informations- und Kommunikationsdienste-Gesetz
 IUL	[IATA 3LC] Ilu, New Guinea, Indonesia
 IUM	[IATA 3LC] Summit Lake, British Columbia, Canada
+IUPAC	International Union of Pure and Applied Chemistry
 IUR	Europäische Rundfunkunion (cf. EBU)
 IUS	[IATA 3LC] Inus, Solomon Islands
 IUSS	if you say so
@@ -26461,7 +26474,7 @@ KLKH	[DB] Betriebsstelle Leverkusen-Küppersteg Hp (Hp)
 KLKS	[DB] Betriebsstelle Leverkusen-Küppersteg Üst (Üst)
 KLL	[IATA 3LC] Levelock Airport, Alaska, United States of America
 KLM	[DB] Betriebsstelle Leverkusen Morsbroich (Bf)
-KLM	[ICAO 8585] KLM Royal Dutch Airlines, Niederlande
+KLM	[ICAO 8585] Koninklijke Luchtvaart Maatschapij, Nederland (KLM Royal Dutch Airlines, Niederlande)
 KLMD	[DB] Betriebsstelle Lammersdorf (Museum)
 KLMH	[DB] Betriebsstelle Leverkusen Mitte Hp (Hp)
 KLMI	[DB] Betriebsstelle Leverkusen Mitte (Bft)
@@ -27307,6 +27320,7 @@ KU	[Kfz:D] Landkreis Kulmbach
 KU	[Stw] (Ku) [mech ZuB] Kreiensen (Fdl: Ww; aB, AB 19.11.1956)
 KU	[Stw] (Ku) [S&H 1912] Köln-Kalk Nord (Fdl: Ww; Abl, nur Rang, Nebenberg, IB 1947)
 KUA	[IATA 3LC] Kuantan, Malaysia
+KUB	Katholieke Universiteit Brabant
 KUB	[IATA 3LC] Kuala Belait, Brunei
 KUB	[Stw] (Kub) [mech] Essen-Kupferdreh (Fdl: Fdl; aB e)
 KUBP	[DB] Betriebsstelle Übach-Palenberg (Bf)
@@ -27348,6 +27362,7 @@ KUS	[IATA 3LC] Kulusuk Island, Greenland
 KUS	[Kfz:D] Landkreis Kusel
 KUSS	Kunden-Service-System
 KUSS	kurz und simpel siegt
+KUT	Katholieke Universiteit Tilburg
 KUT	[IATA 3LC] Kutaisi, Georgia
 KUU	[IATA 3LC] Kulu, India
 KUV	[IATA 3LC] Kunsan, South Korea
@@ -27642,7 +27657,7 @@ L	International Radiotelephony Spelling Alphabet: LIMA
 L	Italian Spelling Alphabet: LIVORNO
 L	Leiter
 L	light (wiring colour)
-L	litre (ℓ), Liter
+L	litre, Liter (cf. ℓ) (usually l, but also ℒ or L)
 L	New York Police Spelling Alphabet: LINCOLN
 L	Spanish Spelling Alphabet: LORENZO
 L	Telecom B Spelling Alphabet: LONDON
@@ -32731,6 +32746,7 @@ MON	Montag, Monday, Maandag, Lundi
 MON	[IATA 3LC] Mount Cook, New Zealand
 MON	[ICAO 8585] Monarch Airlines, Großbritannien
 MON	[Kfz:D] Kreis Monschau
+MONAS	nationaal monument
 MONF	[DB] Betriebsstelle Oberneufnach (Hp Anst)
 MONH	[DB] Betriebsstelle Ottenhofen (Oberbay) (Bf)
 MONTSAME	Mongolyn tsakhilgaan medee
@@ -35804,6 +35820,7 @@ NRZ	[DB] Betriebsstelle Redwitz (Rodach) (Bf)
 NRÜ	[Kfz:D] Landkreis Neustadt am Rübenberge
 NS	Nanosecond (ns)
 NS	National Semiconductor
+NS	Nationalsozialismus
 NS	Nederlandse Spoorwegen (Dutch Railways)
 NS	Network Service
 NS	Niederländische Staatsbahn
@@ -36605,6 +36622,7 @@ OBO	off by one
 OBO	[IATA 3LC] Obihiro, Japan
 OBOE	O (British Forces 1952 Spelling Alphabet)
 OBOE	off by one error
+OBP	OpenBOOT™ PROM
 OBS	DBAG Oberweißbacher Berg- und Schwarzatalbahn
 OBS	obsolete
 OBS	Omni Bearing Select
@@ -38329,6 +38347,7 @@ PIA	Peripheral Interface Adapter
 PIA	[IATA 3LC] Greater Peoria Regional Airport, Illinois, United States of America
 PIA	[ICAO 8585] Pakistan International Airlines, Pakistan
 PIB	[IATA 3LC] Laurel/Hattiesburg (Regional Airport), Mississippi, United States of America
+PIC	picture (cf. pix)
 PIC	position independent code
 PIC	programmable interrupt controller
 PIC	[IATA 3LC] Pine Cay, Turks & Caicos
@@ -38383,6 +38402,8 @@ PITRA	point-in-time readiness audit
 PIU	[IATA 3LC] Piura, Peru
 PIV	personal identity verification
 PIW	[IATA 3LC] Ping Tung, Taiwan
+PIX	Cisco Private Internet Exchange
+PIX	pictures (cf. pic)
 PIX	[IATA 3LC] Pico Island, Azores, Portugal
 PIY	print it yourself
 PIYO	(japanese metasyntactic variable)
@@ -38920,6 +38941,7 @@ PQN	[IATA 3LC] Pipestone Municipal Airport, Minnesota, United States of America
 PQQ	[IATA 3LC] Port Macquarie, New South Wales, Australia
 PQS	[IATA 3LC] Pilot Station Airport, Alaska, United States of America
 PR	Pakistan Railways
+PR	Perry Rhodan
 PR	Pr (PSE#59) Praesodymium, Praseodym | Metalle der seltenen Erden (Lanthaniden) | lanthanides | lanthanida
 PR	press release
 PR	Presse
@@ -40967,6 +40989,7 @@ RIE	[Kfz:D] Landkreis Riesa
 RIF	[IATA 3LC] Richfield Municipal Airport, Utah, United States of America
 RIFD	[DB] Betriebsstelle Iffezheim Depot 57 (Anst)
 RIFF	Resource Interchange File Format
+RIG	Rijksuniversiteit Groningen/Gent
 RIG	[IATA 3LC] Rio Grande, Rio Grande do Sul, Brazil
 RIGA	Reisezugwageninstandhaltung als Ganzzug
 RIJ	[IATA 3LC] Rioja, Peru
@@ -41022,6 +41045,7 @@ RIY	[IATA 3LC] Riyan, Yemen
 RIZ	Reisendenzählung im Zug
 RIZ	[IATA 3LC] Rio Alzucar, Panama
 RIZB	[DB] Betriebsstelle Iznang (Slst)
+RIZLA+	Riz La Croix
 RJ	RegioJet
 RJ	Registered Jack
 RJ	[BR] Rio de Janeiro
@@ -46492,6 +46516,7 @@ SYR	[ICAO 8585] Syrian Arab Airlines (Syrianair), Syrien
 SYR	[Kfz] Syrien
 SYS	see you soon
 SYS	system
+SYSTEMD	Systemd? Yuck! Systemd thinks efficiency must die.
 SYSTRAY	Something to put sysashes in.
 SYT	[IATA 3LC] Saint-Yan, France
 SYU	[IATA 3LC] Sue Island, Queensland, Australia
@@ -46652,6 +46677,7 @@ TAE	[DB] Betriebsstelle Albstadt-Ebingen (Bf)
 TAE	[IATA 3LC] Taegu, South Korea
 TAE	[ICAO 8585] TAME, Ecuador
 TAEW	[DB] Betriebsstelle Albstadt-Ebingen West (Hp)
+TAF	Tribunal administratif fédéral
 TAF	[DB] Betriebsstelle Affaltrach (Hp)
 TAF	[IATA 3LC] Tafarovi, Algeria
 TAF	[Oracle] Transparent Application Failover
@@ -51140,6 +51166,7 @@ VOMY	[ICAO 7910] Mysore Airport, Mysore (Karnataka), India
 VOPB	[ICAO 7910] Port Blair Airport, Port Blair (Andaman and Nicobar Islands), India
 VOPC	[ICAO 7910] Pondicherry Airport, Pondicherry, India
 VOPN	[ICAO 7910] Sri Sathya Sai Airport, Puttaparthi (Andhra Pradesh), India
+VOPO	Volkspolizist
 VOR	VHF omnidirectional range
 VOR	[Stw] (Vor) [ADr S65K] Hagen-Vorhalle (Fdl: Ww; Abl e)
 VORS	Very Old Rare Sherry
@@ -52139,6 +52166,7 @@ WAR	[IATA 3LC] Waris, Indonesia
 WAR	[Kfz:D] Landkreis, ab 1969 Kreis Warburg
 WAR G	[DB] Betriebsstelle Altruppin Grüner Baum (Bush)
 WARK	[DB] Betriebsstelle Arkona (Bush)
+WARNET	warung internet (internetcafé)
 WARP	witness anonymous relocation programme
 WARUM	darum (cf. WHY)
 WARV	[DB] Betriebsstelle Alt Reddevitz (Bush)
@@ -53543,6 +53571,7 @@ WOL	[Kfz:D] Landkreis Wolfach
 WOM	Wake-on-Modem
 WOM	World of Music
 WOMBAT	waste of money, brain and time
+WOMBAT	[HP] Wizards’ Ordinary Magic and Basic Aptitude Test
 WON	[DB] Betriebsstelle Ostseebad Neuhaus Birkenallee (Bush)
 WON	[IATA 3LC] Wondoola, Australia
 WON	[ICAO 8585] Wings Air, Indonesien
@@ -57507,6 +57536,8 @@ YOK	[IATA 3LC] Yokohama, Japan
 YOKE	Y (British Forces 1952 Spelling Alphabet; RAF 1942/1943 Spelling Alphabet)
 YOKOHAMA	Y (British A/International Spelling Alphabet)
 YOL	[IATA 3LC] Yola, Nigeria
+YOLD	Year of Our Lady of Discord
+YOLD	you obviously like dick
 YOLO	you only live once
 YONHAP	Yonhap News Agency
 YOO	[IATA 3LC] Oshawa, Ontario, Canada
@@ -58439,6 +58470,7 @@ ZVS	Zivilschutz
 ZVS	[EDU] Zentralstelle für die Vergabe von Studienplätzen
 ZVZ	Zusatzverlustzeit
 ZW	Zentralwerkstätte
+ZW	ziektewet
 ZW	[ccTLD] Simbabwe
 ZW	[IATA 2LC] Air Wisconsin, USA
 ZW	[ISO 3166] Zimbabwe
@@ -58644,6 +58676,7 @@ _	[MORSE] ..--.- (not ITU-R)
 МСБ	[ФСБ] Межреспубликанской службе безопасности
 МСЭ	международный союз электросвязи (cf. ITU)
 МТС	Мобильные ТелеСистемы (Mobile TeleSystems)
+НИИОМТПЛАБОПАРМБЕТЗЕЛБЕТРАБСБОМОНИМОНКОНОТДТЕХСТРОМОНТ	Laboratoire pour des opérations de couverture, de renfort, de béton et de béton armé pour les constructions composites-monolithiques et monolithiques du Département de la technologie des opérations du bâtiment assemblé de l'Institut de recherche scientifique de l'Organisation pour la mécanisation de bâtiment et l'aide technique de l'Académie du bâtiment et de l'architecture de l'Union des républiques socialistes soviétiques
 ОНЛАЙН	[sTLD] kyrillisch: online
 ПТА	петроградское телеграфное агентство (Petrograder Telegraphenagentur), cf. СПТА
 РОСТА	Российское Телеграфное агентство при Всероссийском Центральном Исполнительном Комитете (cf. ИТАР-ТАСС)
@@ -58711,6 +58744,7 @@ _	[MORSE] ..--.- (not ITU-R)
 გე	[ccTLD] Georgien (ge, Georgia)
 ℃	degree Celsius (℃) (cf. K)
 ℉	degree Fahrenheit (℉)
+ℓ	litre, Liter
 K	Kelvin
 ⅓A4	99×210 mm (3.8976×8.2677 in)
 ⅓A5	70×148 mm (2.7559×5.8267 in)
