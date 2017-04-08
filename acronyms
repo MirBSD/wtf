@@ -1,9 +1,9 @@
   à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž α/Α ε/Ε κ/Κ λ/Λ ο/Ο π/Π ς/Σ σ/Σ υ/Υ а/А б/Б в/В г/Г д/Д е/Е з/З и/И й/Й к/К л/Л м/М н/Н о/О п/П р/Р с/С т/Т у/У ф/Ф х/Х ц/Ц ш/Ш э/Э ю/Ю қ/Қ ա/Ա հ/Հ յ/Յ ℒ/ℓ
- @(#)$MirOS: wtf/acronyms,v 1.612 2017/04/06 21:19:24 tg Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.613 2017/04/08 01:10:05 tg Exp $
  From $NetBSD: acronyms,v 1.253 2017/03/11 07:10:37 riastradh Exp $
  From $NetBSD: acronyms-o.real,v 1.3 2017/01/25 03:23:29 pgoyette Exp $
  From $NetBSD: acronyms.comp,v 1.179 2017/03/24 12:49:43 ginsbach Exp $
- From $NetBSD: airport,v 1.63 2016/06/08 04:25:31 kre Exp $
+ From $NetBSD: airport,v 1.64 2017/04/06 19:53:36 mbalmer Exp $
  From $OpenBSD: airport,v 1.57 2016/10/04 17:27:39 fcambus Exp $
  From github: othyro/wtfubar refs/tags/wtfubar-2.4.0
  From miros: src/sys/sys/errno.h,v 1.11 2014/09/05 22:38:17 tg Exp $
@@ -38534,6 +38534,7 @@ PLR	peak-to-loudness ratio
 PLR	[IATA 3LC] Pell City (St. Clair County), Alabama, United States of America
 PLR	[ICAO 8585] Northwestern Air, Kanada
 PLRU	pseudo LRU
+PLS	please
 PLS	[IATA 3LC] Providenciales, Turks & Caicos
 PLT	[IATA 3LC] Plato, Colombia
 PLTM	package level thermal management
@@ -47496,6 +47497,7 @@ THW	Bundesanstalt Technisches Hilfswerk
 THW	trinken, helfen, weitersaufen
 THW	[Kfz:D] Dienstfahrzeuge der Bundesanstalt Technisches Hilfswerk
 THX	thanks
+THX	[IATA 3LC] Turukhansk, Krasnoyarsk Krai, Russia
 THY	[IATA 3LC] Thohoyandou, Venda, South Africa
 THY	[ICAO 8585] Turkish Airlines, Türkei
 THZ	[DB] Betriebsstelle Herbolzheim (Jagst) (Hp)
