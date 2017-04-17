@@ -1,5 +1,5 @@
   à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž α/Α ε/Ε κ/Κ λ/Λ ο/Ο π/Π ς/Σ σ/Σ υ/Υ а/А б/Б в/В г/Г д/Д е/Е з/З и/И й/Й к/К л/Л м/М н/Н о/О п/П р/Р с/С т/Т у/У ф/Ф х/Х ц/Ц ш/Ш э/Э ю/Ю қ/Қ ա/Ա հ/Հ յ/Յ ℒ/ℓ
- @(#)$MirOS: wtf/acronyms,v 1.614 2017/04/08 15:23:12 tg Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.615 2017/04/17 19:48:37 tg Exp $
  From $NetBSD: acronyms,v 1.253 2017/03/11 07:10:37 riastradh Exp $
  From $NetBSD: acronyms-o.real,v 1.3 2017/01/25 03:23:29 pgoyette Exp $
  From $NetBSD: acronyms.comp,v 1.179 2017/03/24 12:49:43 ginsbach Exp $
@@ -392,6 +392,7 @@ $	[MORSE] ...-..- (not ITU-R)
 0	[IATA 2LC] Ayit Aviation and Tourism, Israel
 0	[Kfz:D] Diplomatenkennzeichen oder Politiker
 0	[MORSE] -----
+0-RTT	zero round trip time resumption
 0B	[IATA 2LC] Blue Air, Rumänien
 0BSD	[SPDX] BSD Zero Clause Licence – http://spdx.org/licenses/0BSD.html
 0D	[IATA 2LC] Darwin Airline, Schweiz
@@ -907,7 +908,7 @@ $	[MORSE] ...-..- (not ITU-R)
 751	FeAp mit IWV-Tastenblock (cf. FeAp)
 752	FeAp mit IWV-Tastenblock und Erdtaste (cf. FeAp)
 753	FeAp mit IWV-Tastenblock und geändertem Gabelumschalter (cf. FeAp)
-753	nata roma ēs (septem quinque trēs)
+753	nata roma ēs (septem quinque trēs) (cf. a.u.c.)
 754	FeAp mit IWV-Tastenblock, Erdtaste und geändertem Gabelumschalter (cf. FeAp)
 755	FeAp mit IWV-Tastenblock, geändertem Gabelumschalter und Schauzeichen (cf. FeAp)
 756	FeAp mit IWV-Tastenblock, Erdtaste, geändertem Gabelumschalter und Schauzeichen (cf. FeAp)
@@ -1491,7 +1492,9 @@ AC	Ac (PSE#89) Actinium | Übergangsmetalle | transition metals | metalla transi
 AC	acknowledged-connectionless
 AC	air conditioning
 AC	alternating current
+AC	anno Christi
 AC	anonymous coward
+AC	ante Christum
 AC	armor class
 AC	armour class
 AC	Attribute Certificate
@@ -1549,6 +1552,7 @@ ACM	[IATA 3LC] Arica, Colombia
 ACME	A Company Making Everything
 ACME	Automated Certificate Management Environment
 ACMS	[Oracle] Atomic Control File to Memory Service Process
+ACN	ante Christum natum
 ACN	[IATA 3LC] Ciudad Acuna, Mexico
 ACO	[IATA 3LC] Ascona, Switzerland
 ACOS	Arkuskosinus (cf. cos⁻¹)
@@ -1609,9 +1613,11 @@ AD	(towards)
 AD	Active Directory
 AD	advertisement
 AD	analog/digital (conversion)
+AD	anno diocletianii (cf. A.M.)
 AD	anno domini
 AD	Autobahndreieck
 AD	außer Dienst
+AD	diokletianische Ära/Zeitrechnung
 AD	[ccTLD] Andorra
 AD	[DNS] header flag (bit 10): authentic data
 AD	[IATA 2LC] Air Paradise, Indonesien
@@ -2027,6 +2033,7 @@ AFZ	Automatische Fahrgastzählanlage
 AG	Ag ☽ (PSE#47) Argentum, Silber, Silver | Übergangsmetalle | transition metals | metalla transitionis
 AG	Aktiengesellschaft
 AG	Amtsgericht
+AG	anno græcorum (cf. SE)
 AG	Arbeitgeber
 AG	Arbeitsgemeinschaft
 AG	Arbeitsgericht
@@ -2477,6 +2484,7 @@ AKU	[IATA 3LC] Aksu, China
 AKUD	[DB] Betriebsstelle Kudensee (Awanst)
 AKUEFI	Abkürzungsfimmel
 AKUP	[DB] Betriebsstelle Kupfermühle (Hp)
+AKV	Abkürzungsverzeichnis
 AKV	[IATA 3LC] Akulivik, Quebec, Canada
 AKVI	[DB] Betriebsstelle Kiel VST Test- und Integrationssystem 1 (BZ)
 AKVS	[DB] Betriebsstelle Kiel VST Test- und Integrationssystem 3 (BZ)
@@ -2671,6 +2679,8 @@ AM	Albert Medal
 AM	alignment mask
 AM	Am (PSE#95) Americium | Uran-Metalle (Aktiniden) | actinides | actinida
 AM	amplitude modulation
+AM	anno martyrum (cd. AD)
+AM	anno mundi (ab origine mundi, ab creatione mundi, orbis conditi)
 AM	ante meridiem (before noon)
 AM	Application Maintainer/Manager
 AM	applied mathematics
@@ -2684,6 +2694,7 @@ AM	[Kfz:D] Landkreis Amberg-Sulzbach
 AM	[Stw] (Am) [mech Jü/SuH 1912] Halle (Saale) Gbf Am (Fdl: Fdl/Ww; Lsig, (Abzw Magdeburg), IB 1919)
 AM	[Stw] (Am) [mech Jü] Aachen Hbf (Fdl: Ww; aB, AB 1966)
 AM	[Stw] (Am) [S&H 1912/Dr S2] Düsseldorf Abstellbahnhof (Fdl: Ww; Fü, Drucktastenbed. für Hs, IB 1930)
+AM	Ära der Märtyrer
 AM D	[DB] Betriebsstelle Maschen Rbf vorverfügte Leerwagen (Emst)
 AM E	[DB] Betriebsstelle Maschen Rbf Wasch/Entseuch (Emst)
 AM J	[DB] Betriebsstelle Maschen Rbf Süd (Bft)
@@ -3008,6 +3019,7 @@ AOPD	[DB] Betriebsstelle Oppendorf (Bf)
 AOPDK	[DB] Betriebsstelle Oppendorf Kraftwerk (Anst)
 AOPS	[DB] Betriebsstelle Hamburg-Ohlsdorf (S-Bahn) (Bf)
 AOR	Angolan kwanza readjustado (old ISO 4217 code)
+AOR	anno orbis redempti (cf. AS)
 AOR	[DB] Betriebsstelle Ohrstedt (Awanst)
 AOR	[IATA 3LC] Alor Setar, Malaysia
 AOS	add or subtract
@@ -3338,6 +3350,8 @@ ARZS	[DB] Betriebsstelle Rendsburg Stadt (Anst)
 AS	als
 AS	alto saxophone
 AS	Altsaxophon
+AS	anno salutis, anno nostræ salutis (cf. AOR) (cf. AD)
+AS	Anno Schnee, Anno Tobak, Anno dazumal
 AS	Anschlußstelle (Abfahrt)
 AS	anti-spoofing
 AS	As (PSE#33) Arsenicum, Arsen | Stickstoff/Phosphor-Gruppe | pnictogens
@@ -3491,6 +3505,7 @@ ASS	dumbhead
 ASS	jackass, moke (zool.)
 ASSD	[DB] Betriebsstelle Stadersand (Anst)
 ASSDK	[DB] Betriebsstelle Stadersand Katamaran (Slst)
+ASSERT	assertion
 ASSI	[DB] Betriebsstelle Schlüttsiel (Slst)
 ASSOC	association
 ASSOC	associative
@@ -3663,6 +3678,7 @@ AUB	[DB] Betriebsstelle Ulzburg (Bf)
 AUB	[ICAO 8585] Augsburg Airways, Deutschland
 AUBS	[DB] Betriebsstelle Ulzburg Süd (Bf)
 AUC	ab urbe condita
+AUC	anno urbis conditæ
 AUC	area under the curve
 AUC	area under the [plasma,serum concentration time] curve
 AUC	authentication centre
@@ -5018,6 +5034,7 @@ BBZSP	[DB] Betriebsstelle Beelitz Post (Bush)
 BBÖ	(cf. ÖBB) until 1938
 BC	arbitrary-precision arithmetic language and calculator, bc(1)
 BC	BahnCard
+BC	before Christ
 BC	before christus
 BC	Belgrano Cargas
 BC	Belorusische Eisenbahnen
@@ -5293,6 +5310,7 @@ BELGA	Agence Belga
 BELTRANO	(portuguese metasyntactic variable for people)
 BEM	British Empire Medal
 BEM	[IATA 3LC] Bossembele, Central African Republic
+BEMA	einheitlicher Bewertungsmaßstab für zahnärztliche Leistungen
 BEN	benachrichtigt
 BEN	[FIFA] Benin
 BEN	[IATA 3LC] Benghazi (Benina), Libya
@@ -7960,6 +7978,7 @@ BZV	[IATA 3LC] Brazzaville (Maya Maya), Congo
 BZW	[DB] Betriebsstelle Ziltendorf EKO (Bf)
 BZY	[IATA 3LC] Beltsy, Moldova
 BZZ	[IATA 3LC] Brize Norton (Oxford), England, United Kingdom of Great Britain and Northern Ireland
+BZÄK	Bundeszahnärztekammer — Arbeitsgemeinschaft der Deutschen Zahnärztekammern e.V.
 BÖ	[Kfz:D] Bördekreis
 BÖF	[Stw] (Böf) [Sp Dr L30] Bönen (IB 1964)
 BÖF	[Stw] (Böf) [Sp Dr S60] Dortmund-Bövinghausen (fs: Herne; Flb: DO-Marten, IB 07.05.1979)
@@ -8469,7 +8488,7 @@ CDW	[IATA 3LC] Caldwell (Essex County Airport), New Jersey, United States of Ame
 CDY	[IATA 3LC] Cagayan de Sulu, Philippines
 CE	Ce (PSE#58) Cerium, Cer | Metalle der seltenen Erden (Lanthaniden) | lanthanides | lanthanida
 CE	Civil Engineering
-CE	common era
+CE	common era (cf. AD)
 CE	Compute Element (in a Grid)
 CE	Computer Engineering
 CE	Conformité Européenne
@@ -9073,6 +9092,7 @@ CMB	[IATA 3LC] Colombo (Katunayake), Sri Lanka
 CMC	[IATA 3LC] Camocim, Ceará, Brazil
 CMD	command
 CMD	Creative Micro Designs
+CMD	kraniomandibuläre Dysfunktion
 CMD	[IATA 3LC] Cootamundra, New South Wales, Australia
 CMD	[Kfz] chef de mission diplomatique
 CME	[IATA 3LC] Ciudad del Carmen, Mexico
@@ -9624,6 +9644,7 @@ CT	[AUS] Australian Capital Territory (old; new: ACT)
 CT	[IATA 2LC] Alitalia CityLiner, Italien
 CT	[Stw] (Ct) [Sp Dr S60] Hamburg-Waltershof (Fdl: Ww)
 CT	[USA] Connecticut
+CTA	compile-time assertion
 CTA	[FIFA] Central African Republic
 CTA	[IATA 3LC] Catania (Fontanarossa), Sicily, Italy
 CTAN	Comprehensive TeX Archive Network
@@ -11148,6 +11169,7 @@ DGW	[Stw] (Dgw) [E 43] Düsseldorf-Derendorf (Fdl: Ww; aB e, AB 18.12.1977)
 DGWH	[DB] Betriebsstelle Görlitz-Weinhübel (Hp)
 DGZ	[DB] Betriebsstelle Gößnitz (Bf)
 DGZB	[DB] Betriebsstelle Betonwerk Gößnitz GmbH (Anst)
+DGZMK	Deutsche Gesellschaft für Zahn-, Mund- und Kieferheilkunde
 DH	das heißt (that is)
 DH	Dieselhydraulisch
 DH	Diffie-Hellman
@@ -11516,6 +11538,7 @@ DLOE	[DB] Betriebsstelle Lößnitzgrund (Hp)
 DLOF	[DB] Betriebsstelle Loreleifelsen (Museum)
 DLOM	[DB] Betriebsstelle Lommatzsch (Bf)
 DLP	Dark Lord Potter
+DLP	data loss prevention
 DLP	discrete logarithm problem
 DLR	Data Loader Receptacle
 DLR	Deutsches Zentrum für Luft- und Raumfahrt
@@ -14925,6 +14948,7 @@ EMX	[IATA 3LC] El Maiten, Argentina
 EMY	[IATA 3LC] El Minya, Egypt
 EMZH	[DB] Betriebsstelle Meinerzhagen (Bf)
 EN	English
+EN	europäische Norm
 EN	[IATA 2LC] Air Dolomiti, Italien
 EN	[IATA 2LC] Cal Air International, Großbritannien
 EN	[IATA 2LC] Novair International Airways, Großbritannien
@@ -15380,6 +15404,7 @@ EROLB	[DB] Betriebsstelle Rummenohl BFS (Museum)
 ERP	enterprise resource planning
 ERP	European Recovery Program
 ERPCMISMATCH	(#73) RPC version wrong
+ERR	error
 ERR	[IATA 3LC] Errol Airport, New Hampshire, United States of America
 ERS	[IATA 3LC] Windhoek (Eros), Namibia
 ERSH	[DB] Betriebsstelle Rosenheim (Westerwald) (Bf)
@@ -15752,6 +15777,7 @@ ETXTBSY	(#26) Text file busy
 ETZ	[IATA 3LC] Frescaty, Metz/Nancy (Lorraine), France
 EU	An tAontas Eorpach
 EU	Den Europæiske Union
+EU	Einheitsübersetzung der Bibel
 EU	Eiropas Savienība
 EU	Eisenbahnunterführung
 EU	Erfahrener Unfallverursacher
@@ -15840,6 +15866,7 @@ EUX	[IATA 3LC] St. Eustathius (F.D. Roosevelt), Dutch Antilles
 EV	eingetragener Verein
 EV	electric vehicle
 EV	electric vlasic
+EV	era vulgaris (cf. AD)
 EV	event
 EV	evolution, evolving, evolved
 EV	extended validation
@@ -15847,6 +15874,7 @@ EV	extended VAX
 EV	[IATA 2LC] Atlantic Southeast Airlines, USA
 EV	[IATA 2LC] ExpressJet Airlines, USA
 EV	[Stw] (Ev) [SuH 1912] Erfurt Hbf (Fdl: Ww; aB)
+EV	ère vulgaire
 EV3	evolution 3
 EV3	LEGO® Mindstorms, third generation robotics kit
 EVA	Eingabe, Verarbeitung, Ausgabe
@@ -16114,6 +16142,7 @@ F	F (PSE#9) Fluorum, Fluor, Fluorine | Halogene | halogens | halogenia
 F	false (boolean 0)
 F	Fernsprechen (cf. TAE)
 F	forte
+F	fraction
 F	French Spelling Alphabet: FRANÇOIS
 F	front
 F	International Radiotelephony Spelling Alphabet: FOXTROT
@@ -19652,6 +19681,7 @@ GKN	Gereformeerde Kerken in Nederland
 GKN	[IATA 3LC] Gulkana Airport, Alaska, United States of America
 GKO	[IATA 3LC] Kongoboumba, Gabon
 GKT	[IATA 3LC] Gatlinburg-Pigeon Forge Airport, Tennessee, United States of America
+GKV	gesetzliche Krankenversicherung
 GKW	Gerätekraftwagen
 GL	Geschäftsleitung
 GL	Gleis
@@ -19962,7 +19992,9 @@ GOW	[IATA 3LC] Garrow Lake, Canada
 GOW	[ICAO 8585] GoAir, Indien
 GOWI	get on with it
 GOY	[IATA 3LC] Gal Oya, Sri Lanka
+GOZ	Gebührenordnung für Zahnärzte
 GOZ	[IATA 3LC] Gorna (Orechovis), Bulgaria
+GOÄ	Gebührenordnung für Ärzte
 GP	general practicioner (doctor)
 GP	Grüne Partei
 GP	[ccTLD] Guadeloupe
@@ -21131,6 +21163,7 @@ HE	(using the host endianness, may be LE, BE, PDP-Endian or something even worse
 HE	He (PSE#2) Helium | Edelgase | noble gases | gasia nobilia
 HE	Host Europe
 HE	how embarrasing
+HE	Human-Ära, Holozän-Kalender
 HE	Hurricane Electric
 HE	[DB] Betriebsstelle Emden Hbf (Bf)
 HE	[D] Hessen
@@ -22308,6 +22341,7 @@ HNOE	[DB] Betriebsstelle Nörde (Hp)
 HNOR	[DB] Betriebsstelle Norderney (Slst)
 HNOS	[DB] Betriebsstelle Nordstemmen (Bf)
 HNPL	[DB] Betriebsstelle Neudorf-Platendorf (Hp)
+HNQ	hot network questions (cf. SO) (cf. SE)
 HNR	[IATA 3LC] Harlan Municipal Airport, Iowa, United States of America
 HNRU	[DB] Betriebsstelle Neustadt a Rübenberge (Bf)
 HNS	[IATA 3LC] Haines Airport, Alaska, United States of America
@@ -26118,6 +26152,7 @@ KIT	Kriseninterventionsteam
 KIT	[IATA 3LC] Kithira, Greece
 KITA	kick in the arse
 KITH	[ICAO 7910] Ithaca Tompkins Regional Airport, Ithaca, New York, USA
+KITS	NIA Koordinierungsstelle IT-Sicherheit
 KIU	[IATA 3LC] Kiunga, Kenya
 KIV	[DB] Betriebsstelle Iversheim (Hp)
 KIV	[IATA 3LC] Chisinau (Kishinev), Moldova
@@ -27369,6 +27404,7 @@ KUW	[FIFA] Kuwait
 KUW	[IATA 3LC] Kamusi, Papua New Guinea
 KUY	[IATA 3LC] Uyak Seaplane Base, Alaska, United States of America
 KUZ	[IATA 3LC] Kusan Air Base, South Korea
+KV	kombinierter Verkehr
 KV	Kreisverband
 KV	Köchelverzeichnis (Mozart)
 KV	[DB] Betriebsstelle Viersen (Bf)
@@ -27618,6 +27654,7 @@ KZ	[Stw] (Kz) [El B] Krzewina Zgorzelecka PKP (EBILock 959 STC, Flb: Reczyn, IB 
 KZ	[Stw] (Kz) [mech E] Krzewina Zgorzelecka PKP (Fdl: Fdl; aB, Avsig=Lsig PKP, AB 01/2009)
 KZ 1	[Stw] (Kz 1) [mech E] Krzewina Zgorzelecka PKP (Fdl: Ww; aB, Avsig=Lsig PKP, AB 01/2009)
 KZB	[IATA 3LC] Zachar Bay Seaplane Base, Alaska, United States of America
+KZBV	Kassenzahnärztliche Bundesvereinigung
 KZC	[IATA 3LC] Kompong-Chhnang, Cambodia
 KZD	Eisenbahnen der Chinesischen Volksrepublik
 KZD	[IATA 3LC] Krakor, Cambodia
@@ -29589,6 +29626,7 @@ LNWY	[DB] Betriebsstelle Neukirchen-Wyhra (Bf)
 LNX	[DB] Betriebsstelle Neuburxdorf (Bf)
 LNX	[IATA 3LC] Smolensk, Russia
 LNY	[IATA 3LC] Lanai City (Lanai Airport), Hawaii, United States of America
+LNZ	Leistungsbeschreibung für Naturheilverfahren in der Zahn-, Mund- und Kieferheilkunde
 LNZ	[IATA 3LC] Linz (Horsching), Austria
 LO	libtool object
 LO	Local Oscillator
@@ -30684,6 +30722,7 @@ M	International Radiotelephony Spelling Alphabet; British Forces 1952 Spelling A
 M	Italian Spelling Alphabet: MILANO
 M	Metres (m)
 M	Minute
+M	minute
 M	Monat
 M	Monsieur
 M	month
@@ -32691,6 +32730,7 @@ MOC	[IATA 3LC] Montes Claros, Minas Gerais, Brazil
 MOC	[Kfz] Mosambik
 MOCEAN	Master of Oceanography
 MOD	manager on duty
+MOD	master of disaster
 MOD	Ministry of Defence
 MOD	modifier
 MOD	module
@@ -33395,6 +33435,7 @@ MTAN	mobile TAN (cf. TAN)
 MTB	Mountainbike
 MTB	[IATA 3LC] Monte Libano, Colombia
 MTBF	mean time between failures
+MTBF	mean time between fuckups
 MTBG	[DB] Betriebsstelle Taibrechting (Bk)
 MTC	[IATA 3LC] Mount Clemens (Air National Guard), Michigan, United States of America
 MTCH	[DB] Betriebsstelle Tacherting (Hp)
@@ -34468,6 +34509,7 @@ NDV	Nacht der Vulkane
 NDV	[IATA 3LC] Washington (Anacostia Navy Heliport), District of Columbia, United States of America
 NDW	[DB] Betriebsstelle Dürrenwaid (Hp Anst)
 NDY	[IATA 3LC] Sanday, Orkney Islands, Scotland, United Kingdom of Great Britain and Northern Ireland
+NDZ	nach der Zeitenwende
 NDZ	[IATA 3LC] Nordholz, Germany
 NE	Ne (PSE#10) Neon | Edelgase | noble gases | gasia nobilia
 NE	Nebenbahn
@@ -35012,6 +35054,7 @@ NI	[IATA 2LC] Portugália Airlines, Portugal
 NI	[ISO 3166] Nicaragua
 NI	[Kfz:D] Landkreis Nienburg
 NI	[Kfz] Nordirland
+NIA	DIN-Normenausschuß Informationstechnik und Anwendungen
 NIA	next instruction address
 NIA	[IATA 3LC] Nimba, Liberia
 NIAH	needle in a haystack
@@ -35544,6 +35587,7 @@ NORDPOL	N (deutsches Funkalphabet)
 NORF	(GNU R metasyntactic variable)
 NORMA	Noricum Markt
 NORMAL	[Android] normal size (470x320dp), baseline; ldpi WQVGA (240x400px) (240x432px), mdpi HVGA (320x480px), hdpi WVGA (480x800px) (480x854px), hdpi (600x1024px), xhdpi DVGA (640x960px)
+NOROMO	no romance (fanfiction)
 NORP	normal ordinary {respectable,responsible} person
 NORWAG	Neuorganisation des Wagenuntersuchungsdienstes
 NOS	network operating system
@@ -36167,6 +36211,7 @@ NUW	[DB] Betriebsstelle Unterweißenbrunn (Tp)
 NUW	[IATA 3LC] Oak Harbor (Ault Field), Washington, United States of America
 NUWB	[DB] Betriebsstelle Unterweisenbach (Tp)
 NUX	[IATA 3LC] Novy Urengoy, Russia
+NUZ	nach unserer Zeitrechnung
 NV	nach Vereinbarung
 NV	Nahverkehr
 NV	[DB] Betriebsstelle Vorra (Pegnitz) (Bf)
@@ -37690,6 +37735,7 @@ P	International Radiotelephony Spelling Alphabet: PAPA
 P	Italian Spelling Alphabet: PADOVA
 P	Klavier
 P	P (PSE#15) Phosphorus, Phosphor | Stickstoff/Phosphor-Gruppe | pnictogens
+P	period
 P	Person(en)
 P	piano
 P	Posten
@@ -37971,6 +38017,7 @@ PCM	pulse code modulation
 PCM	[IATA 3LC] Playa del Carmen, Mexico
 PCMCIA	Personal Computer Memory Card International Association
 PCMHP	Phasenkontrast-Multi-Herzphasen
+PCN	post Christum natum
 PCN	[IATA 3LC] Picton, New Zealand
 PCO	[IATA 3LC] Punta Colorada, Mexico
 PCO	[ICAO 8585] Pacific Coastal Airline, Kanada
@@ -38470,6 +38517,7 @@ PKS	[Stw] (Pks) [SuH 1912] Berlin Pankow (Fdl: Fdl; aB Lsig GmS)
 PKSP	pound keys and spew profanity
 PKT	[IATA 3LC] Port Keats, Northern Territory, Australia
 PKU	[IATA 3LC] Pekanbaru (Simpang Tiga), Indonesia
+PKV	private Krankenversicherung
 PKW	[IATA 3LC] Selibi Phikwe, Botswana
 PKWA	[ICAO 7910] Bucholz Aaf, Kwajalein Atoll, Marshall Islands
 PKY	[IATA 3LC] Palangkaraya (Cilik Riwut), Indonesia
@@ -39343,6 +39391,7 @@ PUA	Unicode Private Use Area
 PUA	[IATA 3LC] Puas, Papua New Guinea
 PUA	[ICAO 8585] PLUNA, Uruguay
 PUB	[IATA 3LC] Pueblo Memorial Airport, Colorado, United States of America
+PUC	post urbem conditam (cf. a.u.c.)
 PUC	[IATA 3LC] Price (Carbon County Airport), Utah, United States of America
 PUD	[IATA 3LC] Puerto Deseado, Argentina
 PUE	[IATA 3LC] Puerto Obaldia, Panama
@@ -41735,7 +41784,7 @@ ROU	[DB] Betriebsstelle Offenau (Hp)
 ROU	[FIFA] Romania
 ROU	[IATA 3LC] Ruse, Bulgaria
 ROU	[Kfz] Uruguay
-ROUS	rats of unusual size
+ROUS	rodent of unusual size
 ROV	[IATA 3LC] Rostov-on-Don (Rostov-na-Donu), Russia
 ROVG	Rosenheimer Verkehrsgesellschaft
 ROW	rest of the world
@@ -43300,6 +43349,8 @@ SE	Kabelaffe
 SE	safety edge (lift control)
 SE	Se (PSE#34) Selenium, Selen | Chalkogene | chalcogens
 SE	second edition
+SE	seleucid era (cf. AG)
+SE	seleukidische Ära
 SE	Serviceeinrichtung
 SE	Societas Europaea
 SE	Software Engineer
@@ -43323,8 +43374,11 @@ SE	[Kfz] Irland (veraltet)
 SE	[SCSI] single-ended
 SEA	[IATA 3LC] Seattle-Tacoma International, Washington, United States of America
 SEAM	[ICAO 7910] Chachoan, Ambato, Ecuador
+SEB	Sebastian
+SEB	Skandinaviska Enskilda Banken AB
 SEB	[IATA 3LC] Sebha, Libya
 SEB	[Kfz:D] Landkreis Sebnitz
+SEBI	Sebastian
 SEBI	selbstorganisierte Europäische Bürgerinitiative
 SEC	Securities and Exchange Commission
 SEC	Southeastern Conference
@@ -46568,6 +46622,7 @@ SZX	[IATA 3LC] Shenzhen, China
 SZY	[IATA 3LC] Selmer (Robert Sibley Airport), Tennessee, United States of America
 SZZ	[IATA 3LC] Szczecin (Goleniow), Poland
 SÁBADO	S (Spanish Spelling Alphabet)
+SÄ	seleukidische Ära (cf. AG)
 SÄ	[DB] Sächsische Ausführung
 SÄK	[Kfz:D] Landkreis Säckingen
 SÖ	[Stw] (Sö) [El L] Sömmerda (IB 28.06.1997)
@@ -46594,7 +46649,9 @@ T	RAF 1942/1943 Spelling Alphabet; Telecom B Spelling Alphabet: TOMMY
 T	Spanish Spelling Alphabet: TARRAGONA
 T	T (PSE#1) Tritium (special case)
 T	Tag
+T	tempus
 T	Tenor
+T	time
 T	true (boolean 1)
 T	[DB] Betriebsstellen in St̲uttgart
 T	[Kfz:A:sub] Taxi
@@ -47025,6 +47082,7 @@ TDD	test-driven development
 TDD	time division duplex
 TDD	[IATA 3LC] Trinidad (Teniente Jorge Henrich Arauz), Bolivia
 TDE	Transportdatenerfassung
+TDE	Trinity Desktop Environment
 TDF	[IATA 3LC] Roxboro, North Carolina (Person County Airport), United States of America
 TDG	Tragbares Datenerfassungsgerät
 TDG	[IATA 3LC] Tandag, Philippines
@@ -47891,6 +47949,7 @@ TMBSP	[DB] Betriebsstelle Maulbronn Post (Bush)
 TMC	termine minimo di conservazione (cf. MHD)
 TMC	[IATA 3LC] Tambolaka, Indonesia
 TMCG	[DB] Betriebsstelle Münchingen (Bf)
+TMD	temporomandibular joint disorder
 TMD	[IATA 3LC] Timbedra, Mauritania
 TMDS	transition minimised differential signaling
 TME	[DB] Betriebsstelle Metzingen (Württ) (Bf)
@@ -47911,6 +47970,7 @@ TMI	too much information
 TMI	[IATA 3LC] Tumlingtar, Nepal
 TMIC	[DB] Betriebsstelle Michelau (Württ) (Hp)
 TMJ	temporomandibular joint
+TMJ	temporomandibular joint dysfunction
 TMK	to my knowledge
 TMK	[DB] Betriebsstelle Meckenbeuren (Bf)
 TMK	[IATA 3LC] Tamky, Vietnam
@@ -50045,6 +50105,7 @@ USAF	[USA] United States Air Force
 USART	universal synchronous/asynchronous receiver/transmitter
 USB	universal serial bus
 USB	useless serial bus
+USB	usually slightly broken
 USB	[DB] Betriebsstelle Seebergen (Bf)
 USB-IF	USB Implementers Forum
 USBV	Unbekannte Spreng- und Brandvorrichtung
@@ -50385,6 +50446,7 @@ UYN	[IATA 3LC] Yulin, China
 UYST	[TZif] America/Montevideo (DST)
 UYT	[TZif] America/Montevideo
 UYU	Uruguayan peso (ISO 4217 code)
+UZ	(nach) unserer Zeitrechnung
 UZ	Ukrainische Eisenbahnen
 UZ	Unterzentrale
 UZ	[ccTLD] Usbekistan
@@ -50657,7 +50719,9 @@ VDSR	[ICAO 7910] Siem Reap, Siem Reap Cambodia, Cambodia
 VDU	video display
 VDU	[IATA 3LC] Refugio (Tom O’Conner Airport), Texas, United States of America
 VDX	Microsoft Visio Diagram XML
+VDZ	vor der Zeitenwende
 VDZ	[IATA 3LC] Valdez Airport, Alaska, United States of America
+VE	vulgar era (cf. CE)
 VE	[ccTLD] Venezuela
 VE	[IATA 2LC] AVENSA, Venezuela
 VE	[ISO 3166] Venezuela
@@ -51383,6 +51447,7 @@ VUN	[ICAO 8585] Air Ivoire, Elfenbeinküste
 VUP	[IATA 3LC] Valledupar, Colombia
 VUR	[ICAO 8585] VIP Ecuador, Ecuador
 VUV	Vanuatu vatu (ISO 4217 code)
+VUZ	vor unserer Zeitrechnung
 VV	Verkehrsverbund
 VV	[EDU] Vorlesungsverzeichnis
 VV	[IATA 2LC] Aerosvit Airlines, Ukraine
@@ -51421,8 +51486,10 @@ VVTH	[ICAO 7910] Dong Tac Airport, Tuy Hoa, Vietnam
 VVTS	[ICAO 7910] Tan Son Nhat Intl Airport, Ho Chi Minh City, Vietnam
 VVV	veni, vidi, vici
 VVV	veni, vidi, vodka (Ich kam, sah und soff.)
+VVV	Verkehrs- und Verschönerungsverein
 VVV	Verkehrsverbund Vogtland
 VVV	Voilà, Vivement Vendredi
+VVV	Vsevolod V. Volkov
 VVV	[IATA 3LC] Ortonville (Martinson Field), Minnesota, United States of America
 VVVH	[ICAO 7910] Vinh Airport, Vinh, Vietnam
 VVW	Verkehrsverbund Warnow
@@ -51491,7 +51558,7 @@ VZ	[IATA 2LC] Aero VIP, Uruguay
 VZ	[IATA 2LC] Airtours International, Großbritannien
 VZ	[IATA 2LC] MyTravel Airways, Großbritannien
 VZ	[IATA 2LC] Thai Vietjet Air, Thailand
-VZG	Verzeichnis der zulässigen Geschwindigkeiten
+VZG	Verzeichnis örtlich zulässiger Geschwindigkeiten
 VZÄ	Vollzeitäquivalent (cf. FTE)
 VÖ	[Stw:mech] Bauart Vögele
 VÖN	virtuell öffentliches Netzwerk (z.B. PPTP)
@@ -51502,6 +51569,7 @@ W	International Radiotelephony Spelling Alphabet: WHISKY, WHISKEY
 W	W (PSE#74) Wolframium, Wolfram, Tungsten | Übergangsmetalle | transition metals | metalla transitionis
 W	wahr (boolean 1)
 W	Watt
+W	week
 W	Weiche
 W	Westen, west
 W	[DB] Betriebsstellen in Schw̲erin
@@ -52168,6 +52236,7 @@ WAR	[IATA 3LC] Waris, Indonesia
 WAR	[Kfz:D] Landkreis, ab 1969 Kreis Warburg
 WAR G	[DB] Betriebsstelle Altruppin Grüner Baum (Bush)
 WARK	[DB] Betriebsstelle Arkona (Bush)
+WARN	warning
 WARNET	warung internet (internetcafé)
 WARP	witness anonymous relocation programme
 WARUM	darum (cf. WHY)
@@ -54901,6 +54970,10 @@ XBJ	[IATA 3LC] Birjand, Iran
 XBK	[DB] Betriebsstelle Kinkempois (Bf)
 XBKK	[DB] Betriebsstelle Kortrijk (Bf)
 XBKO	[DB] Betriebsstelle Kortenberg (Bf)
+XBL	exploits block list
+XBL	extensible bindings language
+XBL	XBox Live
+XBL	XML binding language
 XBL	[DB] Betriebsstelle Liege (Bf)
 XBL	[IATA 3LC] Buno Bedelle, Ethiopia
 XBLA	[DB] Betriebsstelle Lanaken (Bf)
@@ -57908,6 +57981,7 @@ Z	Italian Spelling Alphabet: ZARA
 Z	nur für Zugkräfte
 Z	Spanish Spelling Alphabet: ZARAGOZA
 Z	Zug
+Z	Zulu time (cf. UTC)
 Z	[DB] Betriebsstellen in Auz̲land (Ost)
 Z	[dental] zerstört
 Z	[Kfz:D] Landkreis Zwickau
