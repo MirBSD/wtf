@@ -3,7 +3,7 @@
 
 mws_setname wtf "WTF acronym database"
 mws_setheadline "What the Fuck?"
-mws_putheader '$MirOS: wtf/www/wtf.hts,v 1.15 2016/04/27 19:56:27 tg Exp $'
+mws_putheader '$MirOS: wtf/www/wtf.hts,v 1.16 2017/05/01 19:51:59 tg Exp $'
 mws_content <<'EOF'
 <h2>Display all acronyms</h2>
 <p>The <a href="@@RELPATH@@acronyms" type="text/plain; charset=utf-8"
@@ -11,7 +11,7 @@ mws_content <<'EOF'
  href="@@RELPATH@@acronyms.gz">gzipped</a> for download) lists all expansions
  currently known to the wtf(1) utility, which is core to MirBSD and has been
  extended by many contributors, including “wtfubar”; Natureshadow
- made a <a href="https://github.com/Natureshadow/MirWTFApp">Free
+ made a <a href="https://edugit.org/nik/MirWTFApp">Free
  Android äpp</a> (also available in F-Droid; known to work on Jolla and
  Blackberry Z10) which also understands the extended format of the MirBSD
  acronyms database compared to other BSDs. (An iPhone äpp is in the works.)
