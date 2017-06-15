@@ -1,5 +1,5 @@
 #!/bin/mksh
-myver='$MirOS: wtf/wtf,v 1.35 2017/04/06 19:48:52 tg Exp $'
+myver='$MirOS: wtf/wtf,v 1.36 2017/06/15 21:00:45 tg Exp $'
 # $NetBSD: wtf,v 1.7 2000/11/21 00:18:52 soren Exp $
 #-
 # Copyright © 2002, 2003, 2004, 2006, 2007, 2008, 2010, 2011,
@@ -101,14 +101,22 @@ if (( use_ports )); then
 		# MirPorts Framework, OpenBSD ports tree
 		binpkgs=ports
 		function ports_acquire_filtered {
+			local a b c d e
+			local -l x y=$1
+
 			while IFS='|' read a b c d e; do
-				[[ $a = *"$1"* ]] && \
+				x=$a
+				[[ $x = *"$y"* ]] && \
 				    print -r -- "$a|${d%% \(uses*}"
 			done </usr/ports/INDEX
 		}
 		function ports_acquire_unfiltered {
+			local a b c d e
+			local -l x y=$1
+
 			while IFS='|' read a b c d e; do
-				[[ $a$d = *"$1"* ]] && \
+				x=$a$d
+				[[ $x = *"$y"* ]] && \
 				    print -r -- "$a|${d%% \(uses*}"
 			done </usr/ports/INDEX
 		}
@@ -116,10 +124,13 @@ if (( use_ports )); then
 		# Red Hat Yellowdog Updater Modified
 		binpkgs=RPMs
 		function ports_acquire_filtered {
+			local -l x y=$1
+
 			yum search -q -- "$1" | \
 			    tr '\n' '' | sed 's/ *: / /g' | tr '' '\n' | \
 			    while read a b c; do
-				[[ $a = *"$1"* ]] && print -r -- "$a|$c"
+				x=$a
+				[[ $x = *"$y"* ]] && print -r -- "$a|$c"
 			done
 		}
 		function ports_acquire_unfiltered {
@@ -133,8 +144,11 @@ if (( use_ports )); then
 		# Debian Advanced Packaging Tool
 		binpkgs=packages
 		function ports_acquire_filtered {
+			local -l x y=$1
+
 			apt-cache search -- "$1" | while read a b c; do
-				[[ $a = *"$1"* ]] && print -r -- "$a|$c"
+				x=$a
+				[[ $x = *"$y"* ]] && print -r -- "$a|$c"
 			done
 		}
 		function ports_acquire_unfiltered {
