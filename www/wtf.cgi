@@ -1,5 +1,5 @@
 #!/usr/bin/perl -T
-my $rcsid = '$MirOS: wtf/www/wtf.cgi,v 1.21 2017/02/25 17:45:35 tg Exp $';
+my $rcsid = '$MirOS: wtf/www/wtf.cgi,v 1.22 2017/07/01 01:25:32 tg Exp $';
 #-
 # Copyright © 2012, 2014, 2015, 2017
 #	mirabilos <m@mirbsd.org>
@@ -152,6 +152,9 @@ foreach my $line (<TEMPLATE>) {
 		if ($acrcsid ne "") {
 			$line =~ s!\Q</p>\E! from <span class=\"rcsid\">$acrcsid</span>$&!;
 		}
+	}
+	if ($line =~ /^<.head><body/) {
+		$line = '</head><body>';
 	}
 	print $line . "\n";
 }
