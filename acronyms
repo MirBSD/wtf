@@ -1,5 +1,5 @@
   à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž α/Α ε/Ε κ/Κ λ/Λ ο/Ο π/Π ς/Σ σ/Σ υ/Υ а/А б/Б в/В г/Г д/Д е/Е з/З и/И й/Й к/К л/Л м/М н/Н о/О п/П р/Р с/С т/Т у/У ф/Ф х/Х ц/Ц ш/Ш э/Э ю/Ю қ/Қ ա/Ա հ/Հ յ/Յ ℒ/ℓ
- @(#)$MirOS: wtf/acronyms,v 1.619 2017/07/15 21:52:37 tg Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.620 2017/07/18 22:00:47 tg Exp $
  From $NetBSD: acronyms,v 1.255 2017/06/14 20:56:33 dholland Exp $
  From $NetBSD: acronyms-o.real,v 1.4 2017/05/29 06:54:01 pgoyette Exp $
  From $NetBSD: acronyms.comp,v 1.183 2017/05/12 21:14:47 kamil Exp $
@@ -3175,6 +3175,7 @@ APOC	Anglo-Persian Oil Company
 APOF	[DB] Betriebsstelle Pogeez (Bf)
 APOGOST	[Schule DE] Allgemeine Prüfungsordnung der Gymnasialen Oberstufe
 APOK	[DB] Betriebsstelle Puan Klent (Bush)
+APOS	apostrophe: ' ’
 APP	appendix
 APP	application
 APP	Associated Press of Pakistan
@@ -11729,6 +11730,7 @@ DLL	delay-locked loop
 DLL	dynamic link library (shared object)
 DLL	[IATA 3LC] Dillon County Airport, South Carolina, United States of America
 DLM	Data Loader Module
+DLM	Direktorenkonferenz der Landesmedienanstalten
 DLM	[DB] Betriebsstelle Limmritz (Sachs) (Hp)
 DLM	[IATA 3LC] Dalaman, Turkey
 DLN	[DB] Betriebsstelle Lößnitz ob Bf (Bf)
@@ -12290,6 +12292,7 @@ DPZ	Domino’s Pizza
 DPZ	[DB] Betriebsstelle Plauen (Vogtl) Zellwolle (Hp Anst)
 DQ	Dairy Queen
 DQ	define quad (64 bit)
+DQ	double quote: " „“”
 DQ	[IATA 2LC] Air Direct-Connect, Kenia
 DQ	[IATA 2LC] Coastal Air Transport, Amerikanische Jungferninseln
 DQA	[ICAO 8585] Maldivian, Malediven
@@ -23338,6 +23341,7 @@ HTB	[IATA 3LC] Terre de Bas, Guadeloupe
 HTBR	[DB] Betriebsstelle Scharrel Ton- und Torfwerke (Anst)
 HTBU	[ICAO 7910] Bukoba, Bukoba, Tanzania
 HTC	hardware thermal control
+HTC	High Tech Computer Corp.
 HTCC	high temperature co-fired ceramic
 HTCPCP	Hyper Text Coffee Pot Control Protocol
 HTCPTP	Hyper Text Coffee Pot Transfer Protocol
@@ -24012,6 +24016,7 @@ IDR	[IATA 3LC] Indore, India
 IDRC	I don’t really care
 IDRC	improved data recording capability
 IDRP	inter-domain routing protocol
+IDS	IBM Informix Data Server
 IDS	intrusion detection system
 IDSIA	Istituto Dalle Molle di Studi sull’Intelligenza Artificiale
 IDSIA	Swiss AI Lab
@@ -30335,6 +30340,7 @@ LPY	[IATA 3LC] Le Puy, France
 LPZ	[DB] Betriebsstelle Premnitz (Bf)
 LPZ K	[DB] Betriebsstelle Premnitz Kirche (Bush)
 LPZS	[DB] Betriebsstelle Premnitz Süd (Hp)
+LQ	Library Quarters
 LQ	[DB] Betriebsstelle Querfurt (Bf)
 LQ	[IATA 2LC] Air Guinea Cargo, Äquatorialguinea
 LQB	[DB] Betriebsstelle Quedlinburg (Bf)
@@ -38011,6 +38017,7 @@ ORX	[IATA 3LC] Oriximina, Pará, Brazil
 ORY	[IATA 3LC] Paris (Orly), France
 ORZ	[IATA 3LC] Orange Walk, Belize
 OS	Obligation Service
+OS	oneshot
 OS	operating system
 OS	Os (PSE#76) Osmium | Übergangsmetalle | transition metals | metalla transitionis
 OS	[GPSH] OC Scandinavia (.no, .se) – opencaching.se
@@ -38205,6 +38212,8 @@ OVA	Original Video Animation
 OVA	[IATA 3LC] Bekily, Madagascar
 OVA	[Stw] (Ova) [Dr I] Osnabrück Rbf (Fdl: Ww; aB, IB 1950, AB 1966)
 OVB	[IATA 3LC] Novosibirsk (Tolmachevo), Russia
+OVD	optically variable device (kinetic security hologram)
+OVD	optisch variables Merkmal (Kinegramm)
 OVD	[IATA 3LC] Oviedo/Aviles (Asturias), Spain
 OVE	Overture
 OVE	[IATA 3LC] Oroville Municipal Airport, California, United States of America
@@ -38631,6 +38640,7 @@ PCO	[IATA 3LC] Punta Colorada, Mexico
 PCO	[ICAO 8585] Pacific Coastal Airline, Kanada
 PCP	port control protocol
 PCP	[IATA 3LC] Principe, Sao Tome & Principe
+PCR	TPM platform configuration register
 PCR	[IATA 3LC] Puerto Carreno, Colombia
 PCRE	Perl compatible regular expression - https://www.mirbsd.org/man1/perlre
 PCS	Partitioning Communication System
@@ -43416,6 +43426,7 @@ SADF	[ICAO 7910] San Fernando Airport, San Fernando, Argentina
 SAE	[IATA 3LC] Sangir, Indonesia
 SAE	[Stw] (Sae) [mech] Särichen Abzw (e, Niesky - Horka)
 SAEZ	[ICAO 7910] Ezeiza Intl Airport, Ezeiza, Argentina
+SAF	schwerhörige alte Frau
 SAF	[IATA 3LC] Santa Fe County Municipal Airport, New Mexico, United States of America
 SAF	[Stw] (Saf) [Sp Dr L30] Sagehorn (IB 1967)
 SAFE	scaled agile framework
@@ -45798,6 +45809,8 @@ SPZ	[IATA 3LC] Springdale Municipal Airport, Arkansas, United States of America
 SPZO	[ICAO 7910] Velazco Astete, Cuzco, Peru
 SPÄ	[Stw:mech] Bauart Späth
 SPÖ	Sozialdemokratische Partei Österreichs
+SQ	single quote: ' ‘’
+SQ	Snail Quarters
 SQ	[IATA 2LC] Singapore Airlines Cargo, Singapur
 SQ	[IATA 2LC] Singapore Airlines, Singapur
 SQ	[Kfz] Slowakei (veraltet)
@@ -58266,6 +58279,7 @@ YIK	[IATA 3LC] Ivujivik, Quebec, Canada
 YIN	[IATA 3LC] Yining, China
 YIO	[IATA 3LC] Pond Inlet, Northwest Territories, Canada
 YIP	[IATA 3LC] Detroit (Willow Run Airport), Michigan, United States of America
+YIPS	Young i Professionals
 YIQ	Farbmodell mit Luminanz Y und Farbdifferenzen I (Cyan-Orange Balance) und Q (Magenta-Grün-Balance)
 YIV	[IATA 3LC] Island Lake/Garden Hill, Manitoba, Canada
 YIVL	[ICAO 7910] Inverell Airport, Inverell, Australia
@@ -58846,6 +58860,7 @@ ZAH	[IATA 3LC] Zahedan, Iran
 ZAI	[FIFA] Zaire
 ZAIG	Zentrale Auswertungs- und Informationsgruppe
 ZAJ	[IATA 3LC] Zaranj, Afghanistan
+ZAK	Kommission für Zulassung und Aufsicht (cf. DLM)
 ZAK	[ICAO 8585] Zambia Skyways, Sambia
 ZAKU	[DB] Betriebsstelle Kumanovo (Bf)
 ZAL	South African financial rand (old ISO 4217 code)
