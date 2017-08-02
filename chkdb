@@ -1,5 +1,5 @@
 #!/bin/mksh
-# $MirOS: wtf/chkdb,v 1.5 2017/04/06 19:48:52 tg Exp $
+# $MirOS: wtf/chkdb,v 1.6 2017/08/02 10:15:11 tg Exp $
 #-
 # Copyright © 2015, 2016, 2017
 #	mirabilos <m@mirbsd.org>
@@ -44,18 +44,22 @@ set -U
 set +U
 set -A ucsrch -- $line
 
-last=$line
+lline=$line
 num=1
+last= nacr=0 nexp=0 lots=${EPOCHREALTIME%?????}
 while IFS= read -r line; do
-	(( ++num % 100 )) || print -n "$num...\r"
+	(( ++num ))
 	[[ $line = *@([ 	]) ]] && warn "whitespace at EOL: $line"
 	if [[ $line != *'	'* ]]; then
 		[[ $line = ' '* ]] || warn "does not begin with a space: $line"
-		[[ $line < $last ]] && warn "not sorted: $line"
-		last=$line
+		[[ $line < $lline ]] && warn "not sorted: $line"
+		lline=$line
 		continue
 	fi
+	let ++nexp
 	target=${line%%	*}
+	[[ $target = "$last" ]] || let ++nacr
+	last=$target
 	exp=${line#*	}
 	[[ $exp = *'	'* ]] && warn "tab in expansion: $line"
 	typeset -u tgsrch=$target
@@ -68,8 +72,11 @@ while IFS= read -r line; do
 		eval 'tgsrch=${tgsrch//'"$p}"
 	done
 	[[ $target != "$tgsrch" ]] && warn "never matched, not case-folded: $line"
-	[[ $tgsrch < $last ]] && warn "not sorted: $line"
-	last=$tgsrch
+	[[ $tgsrch < $lline ]] && warn "not sorted: $line"
+	lline=$tgsrch
+	[[ $lots = ${EPOCHREALTIME%?????} ]] && continue
+	print -n "$num...\r"
+	lots=${EPOCHREALTIME%?????}
 done
 (( rv )) && die "acronyms database ${acronyms@Q} contains errors"
-print "I: counted $num lines, all OK"
+print "I: counted $num lines ($nacr acronyms with $nexp expansions), all OK"
