@@ -1,5 +1,5 @@
   à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž α/Α ε/Ε κ/Κ λ/Λ ο/Ο π/Π ς/Σ σ/Σ υ/Υ а/А б/Б в/В г/Г д/Д е/Е з/З и/И й/Й к/К л/Л м/М н/Н о/О п/П р/Р с/С т/Т у/У ф/Ф х/Х ц/Ц ш/Ш э/Э ю/Ю қ/Қ ա/Ա հ/Հ յ/Յ ℒ/ℓ
- @(#)$MirOS: wtf/acronyms,v 1.620 2017/07/18 22:00:47 tg Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.621 2017/08/02 10:14:36 tg Exp $
  From $NetBSD: acronyms,v 1.255 2017/06/14 20:56:33 dholland Exp $
  From $NetBSD: acronyms-o.real,v 1.4 2017/05/29 06:54:01 pgoyette Exp $
  From $NetBSD: acronyms.comp,v 1.183 2017/05/12 21:14:47 kamil Exp $
@@ -1541,7 +1541,11 @@ ACDT	[TZif] Australia/Adelaide (DST)
 ACDT	[TZif] Australia/Broken_Hill (DST)
 ACDT	[TZif] Australia/South (DST)
 ACDT	[TZif] Australia/Yancowinna (DST)
+ACE	American Cinema Editors
 ACE	ASCII-compatible encoding
+ACE	milde Bleiche ohne Chlor
+ACE	Orangen-, Möhren- und Zitronensaft
+ACE	Vitamine A, C und E
 ACE	[IATA 3LC] Arrecife (Lanzarote), Canary Islands, Spain
 ACELP	algebraic code-excited linear prediction
 ACFM	Adobe composite font metrics
@@ -1682,6 +1686,7 @@ ADE	[ICAO 8585] Ada Air, Albanien
 ADEV	[DB] Betriebsstelle Deutsch Evern (Bf)
 ADF	Amiga Disk File
 ADF	Andorran franc (old ISO 4217 code)
+ADF	Arkandis Digital Foundry
 ADF	[DB] Betriebsstelle Hamburg Dammtor (Hp)
 ADFC	Allgemeiner Deutscher Fahrrad-Club e. V.
 ADFS	Acorn RiscOS advanced disc filing system
@@ -3018,7 +3023,7 @@ AO	[Stw] (Ao) [mech E] Aumühle (Fdl: Ww; aB GmS e, AB 05.02.1995)
 AO	[Stw] (Ao) [mech] Albshausen (Fdl: Ww; aB e, IB 05.10.1912, AB 19.04.1986)
 AO	[Stw] (Ao) [mech] Apolda (Fdl: Ww; aB Lsig e, AB 27.05.2000)
 AO	[Stw] (Ao) [mech] Stadtallendorf (Fdl: Ww; e, Sb-Anp)
-AO3	Archive of Our Own (by the OTW) – http://archiveofourown.org/
+AO3	Archive of Our Own (cf. OTW) – http://archiveofourown.org/
 AOA	Angolan kwanza (ISO 4217 code)
 AOA	[IATA 3LC] Aroa, Papua New Guinea
 AOB	as on board
@@ -3291,6 +3296,7 @@ ARB	[IATA 3LC] Ann Arbor Municipal Airport, Michigan, United States of America
 ARB0	[Oracle] ASM Rebalance Process
 ARBK	[DB] Betriebsstelle Reinbek (Bf)
 ARC	adaptive replacement cache
+ARC	advanced reading copy
 ARC	American Recreation Coalition
 ARC	archive
 ARC	[IATA 3LC] Arctic Village Airport, Alaska, United States of America
@@ -3454,6 +3460,7 @@ ASBK	[DB] Betriebsstelle Bad Segeberg Möbel Kraft (Anst)
 ASBR	[DB] Betriebsstelle Boren Schleibrücke (Bk)
 ASBY	[DB] Betriebsstelle Schaalby (Bf)
 ASC	advanced smart cache
+ASC	American Society of Cinematographers
 ASC	ascending
 ASC	ASCII
 ASC	[IATA 3LC] Ascension, Bolivia
@@ -3548,6 +3555,7 @@ ASP	[DB] Betriebsstelle Sprötze (Hp)
 ASP	[IATA 3LC] Alice Springs, Northern Territory, Australia
 ASPIC	[HP] Accumulation de Sorcellerie Particulièrent Intensive et Contraignante (NEWT)
 ASPM	active state power management
+ASPN	american standard pitch notation, identical to (cf. SPN)
 ASPS	[DB] Betriebsstelle Sparrieshoop (Bf)
 ASQ	automated software quality
 ASQ	[DB] Betriebsstelle Hamburg Kai Rechts (Anst)
@@ -4100,6 +4108,7 @@ AZW	[ICAO 8585] Air Zimbabwe, Simbabwe
 AÖ	[Kfz:D] Landkreis Altötting
 AÖF	[Stw] (Aöf) [mech E] Altötting (Fdl: Fdl; aB, IB 1944, AB 21.04.2011)
 AÖS	[Stw] (Aös) [mech E] Altötting (Fdl: Ww; aB, IB 1944, AB 21.04.2011)
+AÜG	Arbeitnehmerüberlassungsgesetz
 B	B (PSE#5) Borium, Bor, Boron | Erdmetalle (Borgruppe) | boron group
 B	back
 B	bass guitar
@@ -7231,6 +7240,7 @@ BSBKS	[DB] Betriebsstelle Sternebeck Schranke (Bush)
 BSC	Baccalaureus Scientiæ
 BSC	Bahn-Strategie-Card
 BSC	base station controller
+BSC	British Society of Cinematographers
 BSC	[DB] Betriebsstelle Berlin Schichauweg (Hp)
 BSC	[IATA 3LC] Bahia Solano, Colombia
 BSCA	[DB] Betriebsstelle Schlieben Bundeswehr (Anst)
@@ -7299,6 +7309,8 @@ BSFE	[DB] Betriebsstelle Schleife (Bf)
 BSFL	[DB] Betriebsstelle Schönfließ (Bf)
 BSFW	[DB] Betriebsstelle Schönfließ West (Abzw)
 BSG	Bahnservicegesellschaft
+BSG	Battlestar Galactica
+BSG	Bernard S. Greenberg
 BSG	Bremssteuergerät
 BSG	Bundesschiedsgericht
 BSG	Bundessozialgericht
@@ -7552,6 +7564,7 @@ BTL W	[DB] Betriebsstelle Teltow Warthestraße/Iserstr (Bush)
 BTLH	[DB] Betriebsstelle Teltow Hafen (Bf)
 BTLS	[DB] Betriebsstelle Teltow Stadt (Plng) (Bf)
 BTLW	[DB] Betriebsstelle Teltow West (Bf)
+BTM	Betäubungsmittel
 BTM	[IATA 3LC] Bert Mooney, Butte, Montana, United States of America
 BTN	Bhutanese ngultrum (ISO 4217 code)
 BTN	[DB] Betriebsstelle Trebbin (Bf)
@@ -8270,9 +8283,10 @@ CARLOS	(metasyntactic variable in crypto for the third party in comms)
 CARMEN	C (Spanish Spelling Alphabet)
 CAROL	(metasyntactic variable in crypto for the third party in comms)
 CARP	Common Address Redundancy Protocol
-CAS	(atomic) compare and swap
+CAS	Cinema Audio Society
 CAS	column address strobe
 CAS	Community Authorisation Service
+CAS	compare and swap (atomic)
 CAS	computer algebra system
 CAS	Cost Accounting Standard
 CAS	[IATA 3LC] Casablanca (Metropolitan), Morocco
@@ -8958,6 +8972,7 @@ CHR	(Schnarchen)
 CHR	character
 CHR	charisma
 CHR	[IATA 3LC] Chateauroux (Deols), France
+CHRP	Common Hardware Reference Platform
 CHS	cylinder/head/sector
 CHS	[IATA 3LC] Charleston International, South Carolina, United States of America
 CHT	Colon-Hydro-Therapie
@@ -9053,6 +9068,7 @@ CIU	[ICAO 8585] Cielos Airlines, Perú
 CIV	[FIFA] Ivory Coast
 CIV	[IATA 3LC] Chomley, Alaska, United States of America
 CIVE	civil engineer
+CIVS	Condorcet Internet Voting Service
 CIW	[IATA 3LC] Canouan Island, St. Vincent and Grenadines
 CIX	count extension
 CIX	[IATA 3LC] Chiclayo, Peru
@@ -9368,6 +9384,8 @@ CO	[USA] Colorado
 COA	cash on arrival
 COA	[IATA 3LC] Columbia Airport, California, United States of America
 COA	[ICAO 8585] Continental Airlines, USA
+COAP	Clinical Outcomes Assessment Programme
+COAP	constrained application protocol
 COB	close of business [day]
 COB	[FIFA] Congo-Brazzaville
 COB	[IATA 3LC] Coolibah, Northern Territory, Australia
@@ -9676,6 +9694,7 @@ CS	[Stw] (Cs) [E 43] Coburg (Fdl: Ww; aB, AB 15.12.2007)
 CS	[Stw] (Cs) [mech E] Coesfeld (Westf) (Fdl: Ww; aB, AB 2005)
 CS	[Stw] (Cs) [mech E] Cuxhaven (Fdl: Ww; IB 1935)
 CS00	[Oracle] I/O Calibration Process
+CSA	Casting Society of America
 CSA	Central Student Administration
 CSA	Chemikalienschutzanzug
 CSA	[IATA 3LC] Colonsay Island, Scotland, United Kingdom of Great Britain and Northern Ireland
@@ -9754,6 +9773,7 @@ CSS	Central Security Service (NSA)
 CSS	content-scrambling system
 CSS	cross-site scripting (rare; normally XSS)
 CSS	[IATA 3LC] Cassilandia, Minas Gerais, Brazil
+CSSD	Cloneproof Schwartz Sequential Dropping
 CST	Controllo Stabilità e Trazione (cf. ESC)
 CST	[IATA 3LC] Castaway, Fiji
 CST	[TZif] America/Bahia_Banderas
@@ -9955,6 +9975,7 @@ CVV	card verification value
 CVX	[IATA 3LC] Charlevoix Municipal Airport, Michigan, United States of America
 CW	chemical warfare
 CW	community wiki
+CW	Condorcet winner
 CW	[ccTLD] Curaçao
 CW	[GPSH] CacheWolf
 CW	[GPSH] custom waypoint
@@ -10145,6 +10166,7 @@ CYKQ	[ICAO 7910] Waskaganish, Waskaganish, Quebec, Canada
 CYKX	[ICAO 7910] Kirkland Lake, Kirkland Lake, Ontario, Canada
 CYKY	[ICAO 7910] Kindersley, Kindersley, Saskatchewan, Canada
 CYKZ	[ICAO 7910] Toronto - Buttonville Mun, Toronto, Ontario, Canada
+CYL	Zylinder
 CYL	[IATA 3LC] Coyoles, Honduras
 CYLA	[ICAO 7910] Aupaluk, Aupaluk, Quebec, Canada
 CYLB	[ICAO 7910] Lac La Biche, Lac La Biche, Alberta, Canada
@@ -11283,6 +11305,7 @@ DG	[IATA 2LC] South East Asian Airlines, Philippinen
 DG	[Stw] (Dg) [mech] Dornburg (Saale) (Fdl: Fdl; aB Lsig e, elW, AB 26.11.2011)
 DG	[Stw] (Dg) [S&H 1912] Darmstadt Hbf (Fdl: Ww; aB, nur Rang, AB 1972)
 DG	[Stw] (Dg) [Sp Dr S60] Darmstadt Hbf (Fdl: Ww; Nahbed-Stelle, Schnelläufer-W-Antr. für Abstoßbetr., IB 1972)
+DGA	Directors Guild of America
 DGA	domain generation algorithm
 DGA	[DB] Betriebsstelle Chemnitz-Furth (Üst)
 DGA	[IATA 3LC] Dangriga, Belize
@@ -11439,6 +11462,7 @@ DHS	Department of Homeland Security (USA)
 DHS	[DB] Betriebsstelle Hermsdorf (b. Dresden) (Hp)
 DHSC	Doctor of Health Science
 DHST	[DB] Betriebsstelle Hartenstein (Hp)
+DHT	distributed hash table
 DHT	[DB] Betriebsstelle Hartha (Kr Döbeln) (Bf)
 DHT	[IATA 3LC] Dalhart Municipal Airport, Texas, United States of America
 DHU	[DB] Betriebsstelle Holzhau (Bf)
@@ -12280,6 +12304,7 @@ DPSC	[DB] Betriebsstelle Porschdorf (Kr Pirna) (Hp)
 DPSG	Deutsche Pfadfinderschaft Sankt Georg
 DPST	display power savings technology
 DPT	Deutscher Eisenbahn Personen- u.Gepäcktarif
+DPT	Dioptrien
 DPT	Doctor of Practical Theology
 DPT	[DB] Betriebsstelle Putzkau (Hp Anst)
 DPU	[DB] Betriebsstelle Plauen (Vogtl) unt Bf (Bf)
@@ -12395,6 +12420,7 @@ DRM	digital restriction management
 DRM	digital rights management
 DRM	Digitale Rechte-Minderung
 DRM	direct rendering module
+DRM	drum roll
 DRM	[IATA 3LC] Drama, Greece
 DRM	[Stw] (Drm) [mech Jü] Dorsten (Fdl: Ww; IB 1904)
 DRMS	Distance Root-Mean-Square
@@ -12684,7 +12710,9 @@ DTN	[IATA 3LC] Shreveport Downtown Airport, Louisiana, United States of America
 DTO	Data Transfer Object
 DTO	[IATA 3LC] Denton Municipal Airport, Texas, United States of America
 DTON	[DB] Betriebsstelle Kemmlitzer Kaolin- und Tonwerke GmbH (Anst)
+DTR	daily trumpet routines
 DTR	data terminal ready
+DTR	define the relationship
 DTR	[DB] Betriebsstelle Dresden-Trachau (Hp)
 DTR	[IATA 3LC] Decatur Shores Airport, Washington, United States of America
 DTR	[ICAO 8585] DAT Danish Air Transport, Dänemark
@@ -13158,6 +13186,7 @@ E297	Fumarsäure [S]
 E2BIG	(#7) Argument list too long
 E2E	end to end
 E2E	end-to-end encryption (Gajim, Jabber)
+E2R	easy to read
 E3	Electronic Entertainment Expo
 E3	WordStar™- and jupp-compatible editor written in x86 asm
 E3	[IATA 2LC] Domodedovo Airlines, Rußland
@@ -14904,6 +14933,7 @@ EKIE	[DB] Betriebsstelle Kierspe (Hp Anst)
 EKIR	Evangelische Kirche im Rheinland
 EKIR	[DB] Betriebsstelle Kirchen (Bf)
 EKJ	[DB] Betriebsstelle Kirchen Jung (Anst)
+EKK	Elasticsearch, Kinesisfirehose, Kibana
 EKKA	[ICAO 7910] Karup Airport (Civil/Mil.), Karup, Denmark
 EKKN	[DB] Betriebsstelle Hagen-Kabel Klöckner (Awanst)
 EKKOBSD	split of OpenBSD, now merged into MirBSD
@@ -15017,6 +15047,7 @@ ELINT	[SIGINT] electronic intelligence
 ELIS	[DB] Betriebsstelle Listerscheid (Hp)
 ELIT	[DB] Betriebsstelle Lintorf (Bz Düsseldorf) (Bf)
 ELJ	[IATA 3LC] El Recreo, Colombia
+ELK	Elasticsearch, Logstash, Kibana
 ELK	[IATA 3LC] Elk City Municipal Airport, Oklahoma, United States of America
 ELKG	Evangelisch-Lutherisches Kirchengesangbuch
 ELKI	E̲nvironment for Devel̲oping K̲DD-Applications Supported by I̲ndex-Structures
@@ -15490,6 +15521,7 @@ EPA	Environment Protection Agency
 EPA	U+0097 END OF GUARDED AREA
 EPA	[ICAO 8585] Shenzhen Donghai Airlines, China
 EPAP	expiratory positive airway pressure
+EPAPR	embedded POWER architecture platform reference
 EPBY	[ICAO 7910] Bydgoszcz Ignacy Jan Paderewski Airport, Bydgoszcz, Poland
 EPC	Elektronischer Produktcode
 EPC	European Payments Council
@@ -15601,6 +15633,7 @@ ERB	[Kfz:D] Landkreis Erbach
 ERB	[Kfz:D] Odenwaldkreis
 ERC	easily recognisable code
 ERC	[IATA 3LC] Erzincan, Turkey
+ERCIM	European Research Consortium for Informatics and Mathematics
 ERD	emergency recovery disk
 ERD	Emergency Repair Disk
 ERD	entity relationship diagram
@@ -18135,6 +18168,7 @@ FNCH	[DB] Betriebsstelle Niederbrechen (Bf)
 FND	[DB] Betriebsstelle Nidda (Bf)
 FND 1	[DB] Betriebsstelle Nidda Est (Est)
 FNDA	[DB] Betriebsstelle Niederahr (Bf)
+FNDD	fast node death detection
 FNDH	[DB] Betriebsstelle Niederheimbach (Bf)
 FNDHS	[DB] Betriebsstelle Niederheimbach (Schiff) (Slst)
 FNDS	[DB] Betriebsstelle Niederscheld (Dillkr) Süd (Hp)
@@ -18635,6 +18669,7 @@ FS	[Stw] (Fs) [E 43/Dr S] Friedberg (Hess) (Fdl: Ww; aB, Dr S für Einf Gbf (Dur
 FS	[Stw] (Fs) [mech E] Fischbach (Inn) (Fdl: Ww; aB, IB 1942, AB 23.11.2003)
 FS	[Stw] (Fs) [S&H 1912] Finnentrop (Fdl: Ww; aB, IB 1924, AB 08.06.2002)
 FS	[Stw] wird ferngesteuert (cf. Fsb)
+FSA	final specification agreement
 FSA	Freiheit statt Angst
 FSA	[DB] Betriebsstelle Steinau (Straße) (Bf)
 FSAA	[DB] Betriebsstelle Saasen (Hp)
@@ -19634,6 +19669,7 @@ GE	[Kfz:A:sub] Gemeindeeigene Fahrzeuge
 GE	[Kfz:D] kreisfreie Stadt Gelsenkirchen
 GE	[Kfz] Georgien
 GEA	[IATA 3LC] Noumea, New Caledonia
+GEB	Gödel, Escher, Bach
 GEB	[IATA 3LC] Gebe, Indonesia
 GEC	[IATA 3LC] Gecitkale, Cyprus
 GEC	[ICAO 8585] Lufthansa Cargo, Deutschland
@@ -20428,6 +20464,7 @@ GR	gate relay (lift control)
 GR	general resolution
 GR	Georgische Eisenbahnen
 GR	golden ratio
+GR	Goodreads
 GR	grain
 GR	grau (cf. GY), IEC 62: 8 / ±0.05%
 GR	gross
@@ -20674,6 +20711,7 @@ GTY	[IATA 3LC] Gettysburg, Pennsylvania, United States of America
 GU	Gabelumschalter
 GU	Gegensprechen/Unterband (Funkverkehr)
 GU	Generalunternehmer
+GU	Gesangsunterricht
 GU	Gesundheitsunterlagen
 GU	[ccTLD] Guam
 GU	[IATA 2LC] Aviateca, Guatemala
@@ -21521,6 +21559,7 @@ HDW	[Stw] (Hdw) [mech E] Hennigsdorf Nord (Fdl: Fdl; aB Esig=Lsig, AB 01.09.2002
 HDY	[IATA 3LC] Hat Yai (Hatyai) [Songkhla], Thailand
 HE	(using the host endianness, may be LE, BE, PDP-Endian or something even worse)
 HE	He (PSE#2) Helium | Edelgase | noble gases | gasia nobilia
+HE	Helmholtz-Ellis JI Pitch Notation (c′ = middle C / C4 in SPN), cf. JI
 HE	Host Europe
 HE	how embarrasing
 HE	Human-Ära, Holozän-Kalender
@@ -21535,6 +21574,7 @@ HE B	[DB] Betriebsstelle Emden Bezirksbahnhof (Bft a.B.)
 HE N	[DB] Betriebsstelle Emden NHA (Anst)
 HE R	[DB] Betriebsstelle Emden Rbf (Bft)
 HE-AAC	High Efficiency Advanced Audio Coding
+HEA	happily ever after
 HEA	[DB] Betriebsstelle Emden Außenhafen (Bf)
 HEA	[IATA 3LC] Herat, Afghanistan
 HEAC	[DB] Betriebsstelle Emden Cassens (Anst)
@@ -21873,6 +21913,7 @@ HFS+	Hierarchical File System, extended
 HFST	[DB] Betriebsstelle Frellstedt (Bf)
 HFSX	case-sensitive HFS+
 HFT	[IATA 3LC] Hammerfest, Norway
+HFU	helpful and friendly user
 HFUE	[DB] Betriebsstelle Fürstenau (Han) (Bf)
 HFVW	[DB] Betriebsstelle Fallersleben Volkswagenwerk (Anst)
 HFY	[IATA 3LC] Indianapolis (Greenwood Municipal), Indiana, United States of America
@@ -24514,6 +24555,7 @@ IPLD	InterPlanetary Linked Data (cf. IPFS)
 IPMI	Intelligent Platform Management Interface
 IPMI	{see http://fish2.com/ipmi/itrain.html for more}
 IPML	I pissed myself laughing
+IPN	international pitch notation, identical to (cf. SPN)
 IPN	[IATA 3LC] Ipatinga, Brazil
 IPNG	Internet Protocol, Next Generation
 IPNI	International Plant Names Index
@@ -24619,6 +24661,7 @@ IRST	[TZif] Iran
 IRT	in real time
 IRT	in regards to
 IRTF	Internet Research Task Force
+IRV	instant runoff voting
 IS	(cf. ISoc)
 IS	information systems
 IS	Instandhaltungsstufe
@@ -25143,6 +25186,8 @@ JHS	[IATA 3LC] Holsteinsborg, Greenland
 JHV	Jahreshauptversammlung
 JHW	[IATA 3LC] Jamestown (Chautauqua County), New York, United States of America
 JHY	[IATA 3LC] Cambridge, Massachusetts, United States of America
+JI	just intonation
+JI	pure intonation
 JI	[IATA 2LC] Jade Cargo International, China
 JI	[IATA 2LC] Meraj Air, Iran
 JI	[IATA 2LC] Midway Airlines, USA
@@ -27775,6 +27820,7 @@ KTL	[IATA 3LC] Kitale, Kenya
 KTLF	Kleintanklöschfahrzeug
 KTLH	[ICAO 7910] Tallahassee Regional Airport, Tallahassee, Florida, USA
 KTM	keine Tausend Meter (ohne Werkstattbesuch)
+KTM	Kraftfahrzeuge Trunkenpolz Mattighofen
 KTM	[IATA 3LC] Kathmandu (Tribhuvan), Nepal
 KTN	[IATA 3LC] Ketchikan International Airport, Alaska, United States of America
 KTO	Konto
@@ -30171,6 +30217,7 @@ LON	[DB] Betriebsstelle Osterweddingen (Hp)
 LON	[IATA 3LC] All Airports around London, United Kingdom of Great Britain and Northern Ireland
 LONDON	L (Telecom B Spelling Alphabet)
 LOO	[IATA 3LC] Laghouat, Algeria
+LOPAPR	Linux on POWER hardware (cf. PAPR)
 LOQ	[IATA 3LC] Lobatze, Botswana
 LOR	[DB] Betriebsstelle Oranienbaum (Anh) (Bf)
 LOR	[IATA 3LC] Fort Rucker (Lowe Army Heliport), Alabama, United States of America
@@ -31202,6 +31249,7 @@ M	deutsches Funkalphabet: MARTHA
 M	French Spelling Alphabet: MARCEL
 M	International Radiotelephony Spelling Alphabet; British Forces 1952 Spelling Alphabet: MIKE
 M	Italian Spelling Alphabet: MILANO
+M	measure
 M	Metres (m)
 M	Minute
 M	minute
@@ -32868,11 +32916,14 @@ MLWG	[DB] Betriebsstelle Lengenwang (Bf)
 MLX	[IATA 3LC] Malatya, Turkey
 MLY	[IATA 3LC] Manley Hot Springs Airport, Alaska, United States of America
 MLZ	[IATA 3LC] Melo, Uruguay
+MM	Maelzel’s Metronome
+MM	measures
 MM	memory management
 MM	Messieurs (plural of M.)
 MM	Military Medal
 MM	Millimetres (mm)
 MM	Monster Manual
+MM	mutual majority
 MM	[ccTLD] Myanmar
 MM	[DB] Betriebsstelle Memmingen (Bf)
 MM	[IATA 2LC] Euroatlantic Airways, Portugal
@@ -32909,6 +32960,7 @@ MMBT	[ICAO 7910] Bah, Huatulco, Mexico
 MMBU	[DB] Betriebsstelle Mainburg (Bf)
 MMC	Microsoft Management Console
 MMC	Multimedia Card (cf. SD)
+MMC	mutual majority criterion
 MMC	[IATA 3LC] Ciudad Mante, Mexico
 MMCB	[ICAO 7910] General Mariano Matamoros Airport, Cuernavaca, Mexico
 MMCE	[ICAO 7910] Ciudad del Carmen Intl Airport, Ciudad del Carmen, Mexico
@@ -33240,6 +33292,7 @@ MOD	modifier
 MOD	module
 MOD	modulo
 MOD	[DB] Betriebsstelle Oberaudorf (Bf)
+MOD	[HP] Master of Death
 MOD	[IATA 3LC] Modesto City (Harry Sham Field), California, United States of America
 MOD	[Kfz:D] Landkreis Marktoberdorf
 MOD	[Kfz:D] Landkreis Ostallgäu
@@ -33546,7 +33599,10 @@ MQQ	[IATA 3LC] Moundou, Chad
 MQR	[IATA 3LC] Mosquera, Colombia
 MQS	[IATA 3LC] Mustique Island, St. Vincent and the Grenadines
 MQT	[IATA 3LC] Marquette County Airport, Michigan, United States of America
+MQTT	message queue telemetry transport
 MQTT	MQ Telemetry Transport
+MQTT-S	MQTT für Sensorgeräte (cf. MQTT-SN)
+MQTT-SN	MQTT for sensor networks (cf. MQTT)
 MQU	[IATA 3LC] Mariquita, Colombia
 MQV	[IATA 3LC] Maiquetia (Simon Bolivar), Venezuela
 MQW	[IATA 3LC] McRae (Telfair-Wheeler Airport), Georgia, United States of America
@@ -34607,6 +34663,7 @@ NA	[Stw] (Na) [Sp Dr S60] Neubeckum (aB Nahbed, Abl. nur Rang)
 NAA	[IATA 3LC] Narrabri, New South Wales, Australia
 NAAEC	North American Agreement on Environmental Cooperation
 NAALC	North American Agreement on Labour Cooperation
+NAB	not a book
 NAB	[IATA 3LC] Albany Naval Air Station, Georgia, United States of America
 NAB	[Kfz:D] Landkreis Nabburg
 NABK	Niedersächsische Akademie für Brand- und Katastrophenschutz (an den Standorten Celle und Loy)
@@ -34751,6 +34808,7 @@ NB	[IATA 2LC] Sterling Airlines, Dänemark
 NB	[Kfz:D] Landkreis Neubrandenburg
 NB	[RR] NetBIOS general Name Service (32, cf. NIMLOC)
 NB	[Stw] (Nb) [mech Jü/GS II] Nordhausen (Fdl: Fdl; Lsig)
+NB-IOT	Narrowband IoT (cf. IoT)
 NBA	[DB] Betriebsstelle Bamberg (Bf)
 NBAB	[DB] Betriebsstelle Bad Abbach (Bf)
 NBAD	[DB] Betriebsstelle Bamberg Denscheilmann und Wellein (Anst)
@@ -35027,6 +35085,7 @@ NDS	NetWare Directory Services
 NDS	Niedersachsen
 NDS	Nuclear Detection System
 NDS	[IATA 3LC] Sandstone, Western Australia, Australia
+NDT	Neue Deutsche Todeskunst
 NDT	[DB] Betriebsstelle Dietersheim (Hp)
 NDT	[TZif] America/St_Johns (DST)
 NDT	[TZif] Canada/Newfoundland (DST)
@@ -35095,6 +35154,7 @@ NEG	[DB] Betriebsstelle Ebing (Hp)
 NEG	[IATA 3LC] Negril, Jamaica
 NEGE	[DB] Betriebsstelle Egersdorf (Hp)
 NEGM	[DB] Betriebsstelle Engelmannsreuth (Tp)
+NEI	[PR] Neues Einsteinsches Imperium
 NEIKO	Neigungskompensation
 NEITEC	Neigetechnik
 NEJ	[IATA 3LC] Nova Lamego, Guinea Bissau
@@ -35919,6 +35979,7 @@ NMSN	[DB] Betriebsstelle Mittelsinn (Hp)
 NMSNA	[DB] Betriebsstelle Mittelsinn Bk 1 (Bk)
 NMSNF	[DB] Betriebsstelle Mittelsinn Bk 2 (Bk)
 NMST	[DB] Betriebsstelle Mühlstetten (Hp)
+NMT	native memory tracking
 NMT	[DB] Betriebsstelle Marktbreit (Bf)
 NMT	[IATA 3LC] Namtu, Myanmar
 NMT	[Stw] (Nmt) [mech] Nauen (Fdl: Ww; aB)
@@ -36221,6 +36282,713 @@ NPL-1.1	[SPDX] Netscape Public Licence v1.1 – http://spdx.org/licenses/NPL-1.1
 NPLF	[DB] Betriebsstelle Pleinfeld (Bf)
 NPLG	[DB] Betriebsstelle Pleinting (Bf)
 NPLL	neuronal phase-locked loop
+NPM	n00b pwn m3
+NPM	n00b’s programming machine
+NPM	naan and paneer makhani
+NPM	naboo’s podracing misadventure
+NPM	nacho pace maker
+NPM	nacho pizza marinade
+NPM	nacho portion monitor
+NPM	nacho portmanteau meltdown
+NPM	nacho printing machine
+NPM	nachos pillage milwaukee
+NPM	nagging mario’s princess
+NPM	nagging penguin matriarchs
+NPM	nail polish makeover
+NPM	nail polishing minions
+NPM	naive puppets marching
+NPM	naivete precedes misrepresentation
+NPM	naked panda meditations
+NPM	naM ,sevitcepsreP weN
+NPM	namby pamby magicians
+NPM	name picker malfunction
+NPM	named pipe mechanism
+NPM	nameless package manager
+NPM	namely, pickled meatballs
+NPM	namespace pollution mechanism
+NPM	namespace, primitive, method
+NPM	namibian pyjama merchant
+NPM	naming prosecution mitigator
+NPM	NaN-producing misery
+NPM	nana plays minesweeper
+NPM	nanananananananana.. pat man!
+NPM	nana’s plush muppet
+NPM	nancy’s preferred machete
+NPM	nanobot: polygonal mascot
+NPM	nanobots producing megastructures
+NPM	nanobots protecting microbots
+NPM	nanometer process machine
+NPM	nanometers per millisecond
+NPM	nanoprogrammed penultimate musicianship
+NPM	nanoscale parts manufacturing
+NPM	nanoseconds produce minutes
+NPM	nanotech parading mars
+NPM	nanotechnology promises much
+NPM	nantes paradox market
+NPM	nap power: maximum
+NPM	napolean paced mischeviously
+NPM	napoleonic panda machine
+NPM	napoleonic political magnificence
+NPM	napoleon’s penguin mascot
+NPM	napping panda missionaries
+NPM	napping peanut monsters
+NPM	naps per month
+NPM	narcissistic passion minified
+NPM	narcissistic piano mover
+NPM	narcissistic pickle meister
+NPM	narcissistic preening monarch
+NPM	narcissistic project managers
+NPM	narcissistic, perfectly modest
+NPM	narcoleptic pasta manufacturer
+NPM	narcoleptic pony machine
+NPM	narcoleptic possum mob
+NPM	narcoleptic programmers’ medicine
+NPM	narcoleptic’s patch mangler
+NPM	narnia protect me
+NPM	narnia’s poofy meatcleaver
+NPM	narnia’s psychedelic mushrooms
+NPM	narrating prophetic monks
+NPM	narwhal parade maestro
+NPM	narwhals playing mahjong
+NPM	narwhals poke mammals
+NPM	narwhals prolong mischief
+NPM	nary a package missing
+NPM	NASA proceeds to Mars
+NPM	NASA: Pluto matters!
+NPM	nasal pathway melodrama
+NPM	nascent personality manifestation
+NPM	nascent plasticine materialist
+NPM	nascent political miscreant
+NPM	nascent prototype metaverse
+NPM	nashville plays music
+NPM	nasty polka music
+NPM	nasty popsicle machine
+NPM	national palace museum
+NPM	national park of minnesota
+NPM	national party month
+NPM	national patience month
+NPM	national pest management
+NPM	national poetry month
+NPM	national public mania
+NPM	nationwide polyamorous matrimony
+NPM	native package manager
+NPM	native papuan masks
+NPM	native penguin milk
+NPM	natively pronounced mandarin
+NPM	nattily polished marbles
+NPM	nattily primped monster
+NPM	natural pacifist manatees
+NPM	natural performance manager
+NPM	natural pleistocene monsters
+NPM	natural polyglot machine
+NPM	natural potato magnet
+NPM	natural preference for minification
+NPM	natural push machine
+NPM	naturally pacifist marsupials
+NPM	naturally processed meals
+NPM	naturally produced modules
+NPM	nature preceded machines
+NPM	nature’s particle manager
+NPM	naughty panda manga
+NPM	naughty pinching mannequins
+NPM	naughty platypus memorabilia
+NPM	naughty praying mantis
+NPM	naughty program manipulator
+NPM	naughty programmer’s madness
+NPM	naughty pterodactyl maid
+NPM	naughty push message
+NPM	nauseating packaged meat
+NPM	nautical pea maker
+NPM	nautical pirate moustache
+NPM	nautical poseidon mythology
+NPM	nautilus: pelagic mollusc
+NPM	naval pilgrim’s mayflower
+NPM	navel piercing madness
+NPM	navel pondering mantra
+NPM	navy penguin mariachi
+NPM	naysayers promote misery
+NPM	ne pas manger!
+NPM	neanderthal painting monet
+NPM	neanderthal pudding mix
+NPM	neanderthals paint mammals
+NPM	neanderthals programming machines
+NPM	neapolitan pasta maker
+NPM	near perfect mood
+NPM	nearest phase modulator
+NPM	nearly past midnight
+NPM	nearly perfect mediocracy
+NPM	nearly perpendicular macaroons
+NPM	nearly picked makefiles
+NPM	nearly pooped myself
+NPM	nearly pure mustard
+NPM	nearly-pickled module
+NPM	nearsighted paramecium multiverse
+NPM	nearsighted prank master
+NPM	neat paraskavedekatriaphobia’s meaning
+NPM	neat pidgeon manure
+NPM	neat! pickled muskrat!
+NPM	neatly packaged magic
+NPM	neatly packaged modules
+NPM	neatly placed mail
+NPM	neatly planned meal
+NPM	neatly positioned magazines
+NPM	neatly prepared mustache
+NPM	neatly punctuated musings
+NPM	neato polyester material
+NPM	nebulae populate m83
+NPM	nebulous plasma muffin
+NPM	nebulous program mechanic
+NPM	nebulous puffy marshmallows
+NPM	necessary pigeonholing mechanism
+NPM	necessitates proper modularity
+NPM	necromancers playing mtg
+NPM	necrotising pineapple music
+NPM	nectar of the programming masses
+NPM	need package maintenance
+NPM	need pray more
+NPM	need price money
+NPM	need private modules
+NPM	needful program management
+NPM	needle-pinpointing machine
+NPM	needless patchouli manufacture
+NPM	needlessly postulating minds
+NPM	needlessly promiscuous, modularise!
+NPM	needlessly provoking marsupials
+NPM	needling perl mongers
+NPM	needs perl modules
+NPM	needs puma managers
+NPM	needy poetic mothers
+NPM	nefarious pickle muncher
+NPM	nefarious planetary meddling
+NPM	nefarious plastic mannequins
+NPM	nefarious punk monk
+NPM	nefariously programmed mecha
+NPM	nefariously pushing master
+NPM	negatively proportional model
+NPM	negatory. postpone mission.
+NPM	neglected parking meter
+NPM	neglected pizza money
+NPM	neglected pulse machine
+NPM	neglected puppy market
+NPM	negligent pachinko machine
+NPM	negligent parachute maintainers
+NPM	negligible participation metric
+NPM	negligible psychological misery
+NPM	negotiable paleobotanist missions
+NPM	neigh purr moo
+NPM	neighborly package megalodon
+NPM	neighbor’s preppy maltese
+NPM	neighbourhood party manager
+NPM	neil patrick’s mansion
+NPM	nemo’s parental misguidance
+NPM	neoanthropic preternatural murmurings
+NPM	neoclassic placebo maker
+NPM	neoclassical piano montage
+NPM	neoclassical programming multitude
+NPM	neocon propaganda machine
+NPM	neodymium plated magnet
+NPM	neolithic populous metropolis
+NPM	neolithic programming machine
+NPM	neolithic psychedelic mushrooms
+NPM	neologistic paraphasic mumbling
+NPM	neon papier mâché
+NPM	neonatal penguin march
+NPM	neophobe plebeian mumpsimus
+NPM	neopolitan pizza maker
+NPM	neoteric plumbing mishap
+NPM	neovictorian paisley menswear
+NPM	neo’s personal matrix
+NPM	neo’s playing morpheus
+NPM	nepotistic pontifex maximus
+NPM	neptune: planet or myth?
+NPM	neptune’s personal maid
+NPM	neptunium, promethium, manganese
+NPM	nerd party madness
+NPM	nerd play mate
+NPM	nerdiest political manifesto
+NPM	nerdiest precious modules
+NPM	nerds pledge magnanimously
+NPM	nerds produce money
+NPM	nerds publishing monstrosities
+NPM	nerdy people matriculate
+NPM	nerdy poly millionaires
+NPM	nerdy programmers mingling
+NPM	nerdy pun mavens
+NPM	nerfing powerful megalomaniacs
+NPM	nero punished miscreants
+NPM	nervous parrot muttering
+NPM	nervous penpal message
+NPM	nestable processes mutate
+NPM	nested parenthetical madness
+NPM	nested public modules
+NPM	net possibility multiplier
+NPM	netherworld’s pretend minibar
+NPM	neti pot manufacturer
+NPM	nettle pie market
+NPM	network performance monitor
+NPM	network pipe manufacturer
+NPM	network printer manager
+NPM	network processor module
+NPM	neural prediction model
+NPM	neural processing mechanisms
+NPM	neural proton mapper
+NPM	neurological phenomenon multiplexer
+NPM	neurologically paralyzing mouseovers
+NPM	neurophysiologically pseudoscientific manatee
+NPM	neurotic and probably misinformed
+NPM	neurotic pantaloon maker
+NPM	neurotic pink mongooses
+NPM	neurotoxin powered marketing
+NPM	neutered paranoid meerkat
+NPM	neutered puppy masquerade
+NPM	neutral point measurement
+NPM	neutral political machine
+NPM	neutral pork motel
+NPM	neutral, plus or minus
+NPM	neutralise pesky miscreants
+NPM	neutrino packing machine
+NPM	neutrinos peludos magnéticos
+NPM	neutron polarisation manipulator
+NPM	never paint mohawks
+NPM	never panic much
+NPM	never patronise mothers
+NPM	never pay your mortgage
+NPM	never perfectly managed
+NPM	never pet marmots
+NPM	never pet mermaids
+NPM	never play matchmaker
+NPM	never please meanies
+NPM	never poke monkeys
+NPM	never post memes
+NPM	never prank me
+NPM	never print magazines
+NPM	never program mad
+NPM	never propel marmalade
+NPM	never publish malarkey
+NPM	never pummel muskoxen
+NPM	never punch manticores
+NPM	never push mistakes
+NPM	never push to master
+NPM	neverending package mountain
+NPM	neverending perpetual motion
+NPM	neverending pile of messages
+NPM	neverending plethora of modules
+NPM	neverending programming mistakes
+NPM	neverending prototype mode
+NPM	neverending pun machine
+NPM	neverending puppy marathon
+NPM	nevertheless published mine
+NPM	nevertheless! party metaphorically
+NPM	new package monster
+NPM	new patch, merge?
+NPM	new personal mail
+NPM	new phone models
+NPM	new power management
+NPM	new power manual
+NPM	new powerful machines
+NPM	new prague, minnesota
+NPM	new pretend meaning
+NPM	new priority mail
+NPM	new prog mixtape
+NPM	new programs makers
+NPM	new project, monday
+NPM	new purple moon
+NPM	newbie paintball master
+NPM	newbies pass muster
+NPM	newfangled package moderniser
+NPM	newline pending merge
+NPM	newline proliferating maniac
+NPM	newly paranoid maintainers
+NPM	newly potted mandrakes
+NPM	newly practicing mortician
+NPM	newly pregnant mom
+NPM	newly purchased memories
+NPM	newlywed party monsters
+NPM	newlyweds proposing marriage
+NPM	newsworthy presidential mistakes
+NPM	newtonian particle motion
+NPM	newton’s poleless magnet
+NPM	newton’s preposterous miscalculation
+NPM	newton’s programmatic measurements
+NPM	newts parading majestically
+NPM	newts prefer MS-DOS
+NPM	next perpendicular moonlanding
+NPM	next phenomenal microbrewery
+NPM	next planet of monkeys
+NPM	next popular module
+NPM	next prince montage
+NPM	next() packaged middleware
+NPM	NeXTSTEP programming mastermind
+NPM	nibble plum meringue
+NPM	nibbling perfect macaroni
+NPM	nicaragua’s pet mice
+NPM	nice package, mate
+NPM	nice paintings, mondrian
+NPM	nice pants, man
+NPM	nice parakeet marriage
+NPM	nice people matter
+NPM	nice philanthropist metalhead
+NPM	nice pithy motto
+NPM	nice poodle, mister
+NPM	nice pottery mug
+NPM	nicely packaged make
+NPM	nicely pointed mandibles
+NPM	nicely presented misnomer
+NPM	nicely printed maps
+NPM	nicer package manager
+NPM	nicer perusal method
+NPM	niche portobello mushroom
+NPM	nickel palladium manganese
+NPM	nickel plated moose
+NPM	nickelback plays music
+NPM	nietzsche’s preposterous moustache
+NPM	nifty penguin magic
+NPM	nifty pony merchandise
+NPM	nifty poutine meal
+NPM	nifty procrastination machine
+NPM	nifty pun master
+NPM	nifty purring manticore
+NPM	nigerian prince meme
+NPM	niggling pant monkey
+NPM	nightclub party music
+NPM	nightingale posing mischievously
+NPM	nightly panic munchies
+NPM	nightly patch machine
+NPM	nightly perpetrated mischief
+NPM	nightly piano man
+NPM	nightly punk masters
+NPM	nightmare prom memories
+NPM	nightmarish pawnshop mystic
+NPM	nights pay more
+NPM	nighttime peanut migrations
+NPM	nighttime possum meandering
+NPM	nihil prius modulus
+NPM	nihilist pocket monsters
+NPM	nihilist postmodern mistake
+NPM	nihilistic party mantra
+NPM	nihilistic pool man
+NPM	nil packet minimiser
+NPM	nimble package maestros
+NPM	nimble pirate monitor
+NPM	nimble pixie merchant
+NPM	nimble polyglot microcosm
+NPM	nimble porridge muncher
+NPM	nimoy prospers mystically
+NPM	nincompoops producing methane
+NPM	nine parsecs from milwaukee
+NPM	nine pedestrians mesmerised
+NPM	nine percent milk
+NPM	nine point mulligan
+NPM	nine pomeranian monsters
+NPM	nine post meridiem
+NPM	nine project managers
+NPM	nine putrid mangos
+NPM	nineteen poor moths
+NPM	nineties party mix
+NPM	nineties pop music
+NPM	ninety percent muffin
+NPM	ninety-nine pitchers of malt
+NPM	ninja parading musically
+NPM	ninja party manager
+NPM	ninja pirate mutants
+NPM	ninja pokémon master
+NPM	ninja power manifesto
+NPM	ninja programmers mindmeld
+NPM	ninja pumpkin mutants
+NPM	ninjas practicing multidimensionality
+NPM	nirvana playing madonna
+NPM	nit-picking manager
+NPM	nitrate processed mincemeat
+NPM	nitrogen peroxide monoxide
+NPM	nitrogen poisonous monoxide
+NPM	nitrogenous polymorphic molecule
+NPM	nixon’s pants missing
+NPM	no package mishaps
+NPM	no packages misplaced
+NPM	no packages, mate
+NPM	no padding margin
+NPM	no padding module
+NPM	no painful merges
+NPM	no pants mafia
+NPM	no pants monkey
+NPM	no pants, mom
+NPM	no particular method
+NPM	no partying mariachis
+NPM	no password management
+NPM	no plugins; monolithic
+NPM	no points made
+NPM	no possible meaning
+NPM	no potty mouths
+NPM	no prejudice makers
+NPM	no price money
+NPM	no princess, mario
+NPM	no problem man
+NPM	no problem mate
+NPM	no problem, meatbag
+NPM	no problemo muchacho
+NPM	no proscribed meaning
+NPM	no punches made
+NPM	no puns monday
+NPM	no purchase made
+NPM	no! primate mutation!
+NPM	no, pay me
+NPM	noah’s pairwise manifest
+NPM	nobel price magnet
+NPM	noble programming mantra
+NPM	noble pug mullet
+NPM	nobody packages more
+NPM	nobody pays for magazines
+NPM	nobody peels mangoes
+NPM	nobody picked me
+NPM	nobody prefers margarine
+NPM	nobody preheats microwaves
+NPM	nobody publish monsters
+NPM	nobody’s perfect, man
+NPM	noctiflorous pansy mulch
+NPM	nocturnal pajama mutants
+NPM	nocturnal parakeet monitor
+NPM	nocturnal practitioners of magic
+NPM	nocturnal programmer’s machine
+NPM	nocturnally psychologising millipede
+NPM	nodding previously managed
+NPM	node package maid
+NPM	node package manager
+NPM	node package master
+NPM	node packaged masterfully
+NPM	node packaged modules
+NPM	node parcel merchant
+NPM	node people magic
+NPM	node pizza maker
+NPM	node pleases me
+NPM	node plus me
+NPM	node popular man
+NPM	node promiscuous modules
+NPM	nodes per minute
+NPM	nodeschool public materials
+NPM	node’s package magician
+NPM	node’s perfect mate
+NPM	node’s perpetuum mobile
+NPM	node’s personal monk
+NPM	node’s play mate
+NPM	node’s pocket monsters
+NPM	node’s power meal
+NPM	node’s pretty magical
+NPM	nodular pudding multiverse
+NPM	noiseless party machine
+NPM	noiseless peaceful morning
+NPM	noiseless praying mantis
+NPM	noisy pillaging monster
+NPM	noisy pirate mutiny
+NPM	noisy pneumatic mnemonic
+NPM	noisy pop music
+NPM	noisy pterodactyl melodies
+NPM	nom, please more
+NPM	nomad packaging mechanism
+NPM	nomadic people migration
+NPM	nomenclature processing machine
+NPM	nominal package missing
+NPM	nominal pizza masticator
+NPM	nominally patriotic meathead
+NPM	nominating presidential muppets
+NPM	nomming peanut m&m’s
+NPM	nomnom pumpernickle muffins
+NPM	non polar magnetism
+NPM	non productive monday
+NPM	non programming manager
+NPM	non-permeable membrane
+NPM	non-polite mother
+NPM	non-polynomial mantissa
+NPM	non-potable macchiato
+NPM	non-printable material
+NPM	nonagons please me
+NPM	nonchalantly performs magic
+NPM	noncollinear perpendicular microcrystalline
+NPM	noncommital premarital mischief
+NPM	nonconformist propaganda machine
+NPM	nondeterministic palindrome machine
+NPM	nondeterministic polynomial munchies
+NPM	nondeterministic postrequisite metaprotocol
+NPM	nondeterministic programming methodology
+NPM	nondigestible purple mayonnaise
+NPM	nonflavored prescription medicine
+NPM	nonlinear performance magnification
+NPM	nonlinear programming methods
+NPM	nonsense placement mandatory
+NPM	nonsense poetry manager
+NPM	nonstop pajama models
+NPM	nonstop perpetual motion
+NPM	nonstop pet mewing
+NPM	nonstop progressive marxism
+NPM	nonviolent pigeon manifestation
+NPM	nonviolent pirate mobster
+NPM	nonvoluntary professional mangling
+NPM	noodle printing machine
+NPM	noodles practicing medicine
+NPM	noodles, poodles and more!
+NPM	noodly pasta maker
+NPM	noop(); pop(); map();
+NPM	noosphere possibilities maximised
+NPM	nordic panda moor
+NPM	normal people, mmm!
+NPM	normal programming mistake
+NPM	normally palatable mango
+NPM	normally pleasant mixture
+NPM	norse polytheistic mythology
+NPM	north pittsburgh meatpackers
+NPM	north pole merriment
+NPM	northern pie muncher
+NPM	northern pileated marmoset
+NPM	norvell, please merge
+NPM	norvell’s public machinations
+NPM	norwegian parcel mail
+NPM	norwegian peat moss
+NPM	norwegian polka music
+NPM	norwegian pony master
+NPM	nose picker’s maven
+NPM	nose picking mechanisms
+NPM	nosey party murderer
+NPM	nosferatu’s pace maker
+NPM	nostalgic perogi monogramming
+NPM	nostalgic piano music
+NPM	nostalgic pickled mango
+NPM	nostalgic pizza manager
+NPM	nostalgic primordial monster
+NPM	nostradamus predicting maelstroms
+NPM	nostradamus prophecy machine
+NPM	nosy pinocchio manners
+NPM	not a package manager
+NPM	not a penny more
+NPM	not a propaganda machine
+NPM	not pancake mix
+NPM	not parents’ money
+NPM	not particularly meaningful
+NPM	not pictured: mangoes
+NPM	not preposterously macho
+NPM	not providing milkshakes
+NPM	notable pastry maker
+NPM	notable peru mariachis
+NPM	notable pottery manufacturer
+NPM	notable pseudocode mashups
+NPM	notably polite mariner
+NPM	notary public mystifier
+NPM	note: purchase milk
+NPM	notebook page margin
+NPM	noteworthy programming masterpiece
+NPM	noteworthy programs map
+NPM	nothing particularly magnificent
+NPM	nothing pleases me
+NPM	nothing plus modules
+NPM	nothing prevents misery
+NPM	nothing, plus more
+NPM	nothing’s plumb meaningless
+NPM	noticeably playful monkeys
+NPM	notify president madagascar
+NPM	notorious party muppets
+NPM	notorious penguin magicians
+NPM	notorious preying mantis
+NPM	notorious public menace
+NPM	notorious pug mafia
+NPM	notoriously psychedelic modules
+NPM	nougat predominant middleware
+NPM	noun/pronoun mix-up
+NPM	nourished personal mucus
+NPM	nourishing pear medley
+NPM	nouveau papier mâché
+NPM	nouveau print maker
+NPM	novel personal mantras
+NPM	novel planetary movement
+NPM	novel preposterous mockery
+NPM	novelty palliates malaise
+NPM	novelty plastic moustache
+NPM	novelty polygonal mathematics
+NPM	novelty promotes magicians
+NPM	november perfect moustache
+NPM	november: procrastination month
+NPM	november’s paddleball marathon
+NPM	novice prime minister
+NPM	novice, paragon, master
+NPM	novice, practiced, mastered
+NPM	novices performing miracles
+NPM	novices plagiarising mozart
+NPM	now package more
+NPM	now packing magic
+NPM	now paging maciej
+NPM	now particularly misnamed
+NPM	now playing mario
+NPM	now playing mathcore
+NPM	now printing money
+NPM	now with partition management
+NPM	now, please meander
+NPM	now, publish me
+NPM	now, push me
+NPM	noxious plant miasma
+NPM	nozzle piping mismatch
+NPM	npm packaged modules
+NPM	npm pretty much
+NPM	npm private modules
+NPM	npm promotes metadefinitions
+NPM	npm promulgates marsupials
+NPM	npm provides modules
+NPM	npm: package manager
+NPM	npm: possibly marvellous
+NPM	npm’s personal messenger
+NPM	npm’s pretty magical
+NPM	NTFS path mockery
+NPM	nth permutation mathematics
+NPM	nth phonetic mnemonic
+NPM	nth power matrix
+NPM	nu pop metal
+NPM	nuanced pterodactyl monk
+NPM	nuclear package magnet
+NPM	nuclear pizza machine
+NPM	nuclear planning manual
+NPM	nuclear power manager
+NPM	nuclear powered macros
+NPM	nuclear powered marshmallows
+NPM	nuclear powered mushroom
+NPM	nuclear pumpkin mocha
+NPM	nuclearly potent moonshine
+NPM	nucleic photon magnetiser
+NPM	nucleophosmin
+NPM	nuget package manager
+NPM	nuked: probably microwaved
+NPM	nukem’s possible manifestation
+NPM	null pointer micromanagement
+NPM	null pointer missing
+NPM	nullifying precipitation machine
+NPM	numbers prefer multiplication
+NPM	numeric production mechanism
+NPM	numerous packages multiply
+NPM	numerous panicky mimes
+NPM	numerous problems multiplied
+NPM	numerous pulls merged
+NPM	numerous pulsating martians
+NPM	nunchaku pizza master
+NPM	nunjucks powers mozilla
+NPM	nuns playing monopoly
+NPM	nuns practicing misanthropy
+NPM	nupital pomp mesmerises
+NPM	nuptial predicament mediation
+NPM	nurturing palpable magnificence
+NPM	nurturing pluto’s martians
+NPM	nutella peanut-butter marshmallow
+NPM	nutella per minute
+NPM	nutella with pepperoni and mushrooms
+NPM	nutmeg plundering muse
+NPM	nutrias punching marmots
+NPM	nutrient packed morsels
+NPM	nutritious polygonal meatball
+NPM	nutritious pomegranate muffins
+NPM	nutritious potato munchies
+NPM	nutritious pumpkin meal
+NPM	nutty peanut marshmallow
+NPM	nutty penguin music
+NPM	nutty professor movie
+NPM	nutty programming men
+NPM	nuǝW pǝuoᴉʇᴉsoԀ ʎlǝʌᴉʇɐƃǝN
+NPM	nuǝɯ pǝɥsᴉꞁod mǝu
+NPM	nybble processing mainframe
+NPM	não posso mais
 NPM	[DB] Betriebsstelle Prosselsheim (Anst)
 NPN	[DB] Betriebsstelle Plankstetten (Tp)
 NPO	non-profit organisation
@@ -37195,7 +37963,7 @@ OBBI	[ICAO 7910] Bahrain Intl Airport, Bahrain, Bahrain
 OBC	on-board computer
 OBC	[IATA 3LC] Obock, Djibouti
 OBCZ	Official BookCrossing Zone
-OBD	On-Board-Diagnose
+OBD	on-board diagnostics
 OBD	[IATA 3LC] Obano, Indonesia
 OBE	Officer of the Most Excellent Order of the British Empire
 OBE	[IATA 3LC] Okeechobee County Airport, Florida, United States of America
@@ -37278,6 +38046,7 @@ OCP	Oracle Certified Database Administration Professional
 OCQ	[IATA 3LC] Oconto Municipal Airport, Wisconsin, United States of America
 OCR	optical character recognition
 OCS	old chip set
+OCS	old church slavonic
 OCS	Operational Control System
 OCSP	Online Certificate Status Protocol
 OCT	October
@@ -38340,6 +39109,7 @@ P	International Radiotelephony Spelling Alphabet: PAPA
 P	Italian Spelling Alphabet: PADOVA
 P	Klavier
 P	P (PSE#15) Phosphorus, Phosphor | Stickstoff/Phosphor-Gruppe | pnictogens
+P	page
 P	period
 P	Person(en)
 P	Personalakte
@@ -38357,6 +39127,7 @@ P	[Stw] [mech Jü/GS II] Lutherstadt Wittenberg-Piesteritz (Fdl: Fdl; Esig=Lsig)
 P&I	protection and indemnity
 P&P	Philosophy and Procedures
 P&S	Plan und Spar
+P+M	parken und mitfahren
 P+R	Park and Ride
 P-CODE	Precision Code
 P/N	promissory note
@@ -38516,6 +39287,8 @@ PAP	[IATA 3LC] Aeroport international Toussaint Louverture, Port-au-Prince, Hait
 PAPA	P (International Radiotelephony Spelling Alphabet)
 PAPERINO	(italian metasyntactic variable)
 PAPG	[ICAO 7910] Petersburg James A. Johnson Airport, Petersburg, Alaska, USA
+PAPR	peak-to-average power ratio
+PAPR	POWER architecture platform reference
 PAQ	[IATA 3LC] Palmer Municipal Airport, Alaska, United States of America
 PAR	[FIFA] Paraguay
 PAR	[IATA 3LC] All Airports around Paris, France
@@ -38593,6 +39366,7 @@ PBY	[IATA 3LC] Kayenta (Bedard Field), Arizona, United States of America
 PBZ	[IATA 3LC] Plettenberg Bay, South Africa
 PC	personal computer
 PC	pest control
+PC	pitch correction
 PC	player character
 PC	politically correct
 PC	precious cargo
@@ -38694,9 +39468,11 @@ PDH	Plesiochrone Digitale Hierarchie
 PDI	Portable Document Imaging
 PDI	[IATA 3LC] Pindiu, Papua New Guinea
 PDK	[IATA 3LC] Atlanta (Dekalb-Peachtree Airport), Georgia, United States of America
+PDL	page description language
 PDL	Personaldienstleistung(en)
 PDL	Pflegedienstleitung
 PDL	Policy Description Language
+PDL	print from the Dolmetsch library
 PDL	[IATA 3LC] Ponta Delgada (Sao Miguel), Azores, Portugal
 PDM	Pulsdauermodulation (cf. PWM)
 PDM	pulse-duration modulation
@@ -38911,6 +39687,7 @@ PG	[ccTLD] Papua-Neuguinea
 PG	[IATA 2LC] Bangkok Airways, Thailand
 PG	[ISO 3166] Papua New Guinea
 PGA	pin grid array
+PGA	Producers Guild of America
 PGA	[IATA 3LC] Page Municipal Airport, Arizona, United States of America
 PGA	[ICAO 8585] Portugália Airlines, Portugal
 PGA	[Oracle] program global area (private, 35%; 50% bei DWH)
@@ -39032,7 +39809,7 @@ PID	politisch-ideologische Diversion
 PID	process id
 PID	[IATA 3LC] Paradise Island, Bahamas
 PIE	position independent executable
-PIE	Proto-Indo-European (language)
+PIE	proto-indo-european language
 PIE	[IATA 3LC] St. Petersburg/Clearwater, Florida, United States of America
 PIERRE	P (French Spelling Alphabet)
 PIF	[IATA 3LC] Pinebelt, Mississippi, United States of America
@@ -39174,8 +39951,9 @@ PLA	Programmable Logic Array
 PLA	[IATA 3LC] Planadas, Colombia
 PLB	personal locator beacon
 PLB	[IATA 3LC] Plattsburgh (Clinton County Airport), New York, United States of America
+PLC	power line carrier
 PLC	power line communication
-PLC	programmable logic controller
+PLC	programmable logic controller (cf. SPS)
 PLC	[IATA 3LC] Planeta Rica, Colombia
 PLCH	[ICAO 7910] Cassidy Intl, Christmas I, Kiribati
 PLD	Partial Line Down (U+008B)
@@ -39560,6 +40338,7 @@ POX	[IATA 3LC] Pontoise, France
 POY	[IATA 3LC] Powell Municipal Airport, Wyoming, United States of America
 POZ	[IATA 3LC] Poznan [Lawica], Poland
 PP	apiece
+PP	pages
 PP	pair programming
 PP	per person
 PP	perge, perge
@@ -39669,6 +40448,7 @@ PRC	[IATA 3LC] Prescott (Ernest Love Field), Arizona, United States of America
 PRD	[IATA 3LC] Pardoo, Western Australia, Australia
 PRDL	The Post-Reformation Digital Library
 PRE	[IATA 3LC] Pore, Colombia
+PREP	PowerPC Reference Platform
 PRF	pseudorandom function [family]
 PRF	[IATA 3LC] Port Johnson, Alaska, United States of America
 PRF	[ICAO 8585] Precision Air, Tansania
@@ -40059,7 +40839,10 @@ PUA	[ICAO 8585] PLUNA, Uruguay
 PUB	[IATA 3LC] Pueblo Memorial Airport, Colorado, United States of America
 PUC	post urbem conditam (cf. a.u.c.)
 PUC	[IATA 3LC] Price (Carbon County Airport), Utah, United States of America
+PUD	probability of an undetected error (false negative)
 PUD	[IATA 3LC] Puerto Deseado, Argentina
+PUDC	probability of an error undetected by the check sequence, relates to (cf. PUD)
+PUDD	probability of an error undetected by the decoder, equal to (cf. PUD)
 PUE	[IATA 3LC] Puerto Obaldia, Panama
 PUF	[IATA 3LC] Pau Pyrenees (Pont Long Uzein), France
 PUG	[IATA 3LC] Port Augusta, South Australia, Australia
@@ -41463,6 +42246,7 @@ RFCH	[DB] Betriebsstelle Forbach-Gausbach (Bf)
 RFD	request for discussion
 RFD	[IATA 3LC] Greater Rockford Airport, Illinois, United States of America
 RFE	request for enhancements
+RFERL	Radio Free Europe / Radio Liberty
 RFFSA	Rede Ferroviária Federal (Brazilian Federal Railways)
 RFG	[DB] Betriebsstelle Freiburg (Breisgau) Gbf (Bf)
 RFG	[IATA 3LC] Refugio (Rooke Field), Texas, United States of America
@@ -42910,6 +43694,7 @@ RT III	[Stw] (Rt III) [E 43] Soest (Fdl: Ww; aB, nur Rang)
 RT REVD	right Reverend
 RT3	[Stw] (Rt3) [E 43] Köln-Eifeltor (Fdl: Ww)
 RTA	[IATA 3LC] Rotuma, Fiji
+RTAS	Run-Time Abstraction Services
 RTB	Rettungsboot
 RTB	Rurtalbahn
 RTB	[IATA 3LC] Roatan, Honduras
@@ -42993,6 +43778,8 @@ RTSL	real-time shading language (Stanford University)
 RTSL	real-time systems laboratory
 RTT	round trip time
 RTTD	[Oracle] Redo Transport Test Driver
+RTU	Fernbedienungsterminal
+RTU	remote terminal unit
 RTW	Rettungswagen
 RTW	[IATA 3LC] Saratov, Russia
 RTY	[IATA 3LC] Merty, South Australia, Australia
@@ -43432,6 +44219,7 @@ SAF	[Stw] (Saf) [Sp Dr L30] Sagehorn (IB 1967)
 SAFE	scaled agile framework
 SAFE	strategic action for emergencies
 SAFE	streamlined architecture for fast execution
+SAG	Screen Actors Guild
 SAG	SQL Access Group
 SAG	[IATA 3LC] Sagwon Airport, Alaska, United States of America
 SAGITTARIUS	[Zodiac] Schütze (Τοξότης), 255°, 23.11.–20.12., Herbst, Mannheit, Nord, Feuer, trocken + warm, fein (gasförmig), Galle, cholerisch, gelb
@@ -43997,6 +44785,7 @@ SDH	Synchrone Digitale Hierarchie
 SDH	[IATA 3LC] Santa Rosa de Copan, Honduras
 SDH	[Kfz:D] Landkreis Sondershausen
 SDHC	Secure Digital High Capacity
+SDI	Saugdiesel mit Direkteinspritzung
 SDI	symbol deinterleave
 SDI	[DB] Betriebsstelle Dielkirchen (Anst a.B.)
 SDI	[IATA 3LC] Saidor, Papua New Guinea
@@ -44223,6 +45012,7 @@ SEU	[IATA 3LC] Seronera, Tanzania
 SEU	[ICAO 8585] XL Airways France, Frankreich
 SEUFZ	saisonalergotemporäre uniindividualfulminante Zitterneigung
 SEV	Schienenersatzverkehr
+SEV	secure encrypted virtualisation
 SEW	[DB] Betriebsstelle Eiweiler (Anst)
 SEW	[IATA 3LC] Siwa, Egypt
 SEX	[IATA 3LC] Sembach, Germany
@@ -45044,6 +45834,7 @@ SLA	[IATA 3LC] Salta, Argentina
 SLA	[ICAO 8585] Sierra National Airlines, Sierra Leone
 SLAAC	statless address autoconfiguration
 SLAG	[ICAO 7910] Monteagudo, Monteagudo, Bolivia
+SLAM	simultaneous localisation and mapping
 SLAO	[DB] Betriebsstelle Lampertsmühle-Otterbach (Bf)
 SLAP	[ICAO 7910] Apolo, Apolo, Bolivia
 SLAU	[DB] Betriebsstelle Laubenheim (Nahe) (Hp)
@@ -45226,6 +46017,7 @@ SMD	[IATA 3LC] Fort Wayne (Smith Field), Indiana, United States of America
 SMDF	[DB] Betriebsstelle Mertesdorf (Museum)
 SMDH	shaking my damn head
 SMDS	switched multimegabit data service
+SME	secure memory encryption
 SME	Significant Military Equipment
 SME	subject matter expert
 SME	[IATA 3LC] Somerset (Pulaski County), Kentucky, United States of America
@@ -45289,6 +46081,8 @@ SMR	shingled magnetic recording
 SMR	[DB] Betriebsstelle Münchweiler (Rodalb) (Bf)
 SMR	[FIFA] San Marino
 SMR	[IATA 3LC] Santa Marta (Simon Bolivar), Colombia
+SMS	Amazon Simple Notification Service
+SMS	safety management system
 SMS	Short Message Service
 SMS	[DB] Betriebsstelle Meisenheim (Glan) (Bf a.B.)
 SMS	[IATA 3LC] Ste. Marie, Madagascar
@@ -45306,6 +46100,7 @@ SMTP	Simple Mail Transfer Protocol
 SMU	system management unit
 SMU	[IATA 3LC] Sheep Mountain Airport, Alaska, United States of America
 SMUE	[DB] Betriebsstelle Münchweiler (Alsenz) (Hp)
+SMUFL	Standard Music Font Layout
 SMV	[IATA 3LC] Samedan/St. Moritz, Switzerland
 SMW	[DB] Betriebsstelle Mannweiler (Hp Anst a.B.)
 SMW	[IATA 3LC] Smara, Morocco
@@ -45644,6 +46439,7 @@ SPA	[ICAO 8585] Sierra Pacific Airlines, USA
 SPAM	(python metasyntactic variable)
 SPAM	Seriously, Poor Advertising Method
 SPAP	Piraeus, Athens and Peloponnese Railways
+SPAPR	server POWER architecture platform reference
 SPAR	[ICAO 7910] Alerta, Alerta, Peru
 SPARC	Scalable Processor Architecture
 SPARK	annotated subset of Ada for formal verification
@@ -45704,6 +46500,7 @@ SPG	[IATA 3LC] St. Petersburg (Albert Whitted Airport), Florida, United States o
 SPG	[Stw] (Spg) [SuH 1912] Berlin Spandau Gbf (Fdl: Fdl; aB)
 SPGM	[ICAO 7910] Tingo Maria, Tingo Maria, Peru
 SPGR	spoiled gradient recalled acquisition in the steady state
+SPH	sphärisch
 SPH	[IATA 3LC] Sopu, Papua New Guinea
 SPH	[Stw] (Sph) [GS II DR] Sophienhof (aB)
 SPHI	[ICAO 7910] Jose Abelardo Quinones Gonzale, Chiclayo, Peru
@@ -45750,6 +46547,7 @@ SPM	[ICAO 8585] Air Saint Pierre, St. Pierre und Miquelon
 SPMD	single process, multiple data
 SPME	[ICAO 7910] Pedro Canga, Tumbes, Peru
 SPMS	[ICAO 7910] Moises Benzaquen Rengifo, Yurimaguas, Peru
+SPN	scientific pitch notation (C4 = middle C / German c′, ca. 261.63 Hz in ISO concert pitch, 256 Hz in scientific pitch)
 SPN	[IATA 3LC] Saipan International Airport, Mariana Islands
 SPN	[Kfz:D] Landkreis Spree-Neiße
 SPNC	[ICAO 7910] Alferez David Figueroa Fernan, Huanuco, Peru
@@ -45781,6 +46579,7 @@ SPRM	[DB] Betriebsstelle Prüm (Eifel) Müller (Anst a.B.)
 SPRN	[ICAO 7910] Santa Maria De Fatima, Santa Maria De Fatima, Peru
 SPRU	[ICAO 7910] Cap Carlos Martinez De Pinill, Trujillo, Peru
 SPS	special purpose switch (lift control)
+SPS	speicherprogrammierbare Steuerung (cf. PLC)
 SPS	Standard Positioning Service
 SPS	Stationspreissystem
 SPS	[DB] Betriebsstelle Pirmasens Hbf (Bf)
@@ -46173,6 +46972,7 @@ SSZ	[IATA 3LC] Santos, São Paulo, Brazil
 SSZA	[DB] Betriebsstelle Sulzbach (Saar) Altenwald (Hp)
 ST	Sankt
 ST	Schlauchtrupp
+ST	Schreibtisch
 ST	serial terminal
 ST	sine tempore
 ST	Sistemi Territoriali (former FV and FAM)
@@ -47060,6 +47860,7 @@ SVL B	[DB] Betriebsstelle Völklingen Busbf (Bush)
 SVLF	[ICAO 7910] La Fria, La Fria, Venezuela
 SVLW	[DB] Betriebsstelle Völklingen Walzwerke (Abzw) (Abzw)
 SVM	secure virtual machine
+SVM	shared virtual memory
 SVM	support vector machine
 SVM	[IATA 3LC] St. Paul’s Mission, Queensland, Australia
 SVMC	[ICAO 7910] La Chinita Intl, Maracaibo, Venezuela
@@ -47877,6 +48678,8 @@ TDG	Tragbares Datenerfassungsgerät
 TDG	[IATA 3LC] Tandag, Philippines
 TDGM	[DB] Betriebsstelle Degmarn (Bf)
 TDH	[DB] Betriebsstelle Dettenhausen (Bf)
+TDI	Turbocharged Diesel Injection
+TDI	Turbocharged Direct Injection
 TDI	[DB] Betriebsstelle Ditzingen (Bf)
 TDI	[JTAG] data in (pin)
 TDIH	[DB] Betriebsstelle Distelhausen (Hp)
@@ -47966,6 +48769,7 @@ TEIN	[DB] Betriebsstelle Einsingen (Bf)
 TEIV	Verordung über die Interoperabilität des traseuropäischen Eisenbahnsystems
 TEK	[DB] Betriebsstelle Eriskirch (Bf)
 TEK	[IATA 3LC] Tatitlek Seaplane Base, Alaska, United States of America
+TEKAMOLO	temporale, kausale, modale und lokale Ergänzungen im Satzbau
 TEL	I’m on the telephone, please hold/wait
 TEL	Technische Einsatzleitung
 TEL	Telematics
@@ -48125,6 +48929,7 @@ TFS	Tunnelfunksystem
 TFS	[DB] Betriebsstelle Freudenstadt Hbf (Bf)
 TFS	[IATA 3LC] Tenerife (Sur Reina Sofia), Canary Islands, Spain
 TFS Z	[DB] Betriebsstelle Freudenstadt Hbf ZOB (Bush)
+TFSI	Turbo Fuel Stratified Injection
 TFSK	[DB] Betriebsstelle Friedrichstraße-Sickingen (Bf)
 TFSMIF	Thank the Flying Spaghetti Monster It’s Friday
 TFSS	[DB] Betriebsstelle Freudenstadt Stadt (Bf)
@@ -49308,6 +50113,8 @@ TSHM	[DB] Betriebsstelle Schmiechen (Hp)
 TSHT	[DB] Betriebsstelle Schwäbisch Hall-Hessental (Bf)
 TSI	T-Systems
 TSI	Technische Spezifikation für Interoperabilität
+TSI	Turbocharged Stratified Injection
+TSI	Twincharged Stratified Injection
 TSI	[DB] Betriebsstelle Sindelfingen (Bf)
 TSI	[IATA 3LC] Tsili Tsili, Papua New Guinea
 TSID	[DB] Betriebsstelle Sigmaringendorf (Abzw)
@@ -49669,6 +50476,7 @@ TWB	Technische Wagenbehandlung im Betrieb
 TWB	[DB] Betriebsstelle Bad Wildbad (Bf)
 TWB	[IATA 3LC] Toowoomba, Queensland, Australia
 TWB	[Stw] (Twb) [mech ZuB] Torgelow (Fdl: Ww; aB, IB 1917, AB 2007)
+TWC	Transformative Works and Cultures (cf. OTW)
 TWCH	[DB] Betriebsstelle Weißbach (Württ) (Bf)
 TWD	New Taiwan dollar (ISO 4217 code)
 TWD	[DB] Betriebsstelle Wendlingen (Neckar) (Bf)
@@ -50074,6 +50882,7 @@ UDOE	[DB] Betriebsstelle Dörrberg (Hp)
 UDP	User Datagram Protocol
 UDR	[IATA 3LC] Udaipur, India
 UDRB	[DB] Betriebsstelle Dreba (Hp)
+UDS	unified diagnostic services
 UDS	unscheduled DNA synthesis
 UDSSR	Union der Sozialistischen Sowjetrepubliken (Sowjetunion) (cf. СССР)
 UDST	[DB] Betriebsstelle Döllstädt (Bf)
@@ -50997,6 +51806,7 @@ USOL	[DB] Betriebsstelle Sollstedt (Bf)
 USON	[DB] Betriebsstelle Sonneberg (Thür) Nord (Bf)
 USOO	[DB] Betriebsstelle Sonneberg (Thür) Ost (Hp Anst Bk)
 USOW	[DB] Betriebsstelle Sonneberg (Thür) West (Hp)
+USP	unique selling point
 USP	Universale Selbstladepistole
 USP	[DB] Betriebsstelle Schüptitz (Hp)
 USPF	[DB] Betriebsstelle Schulpforte (Bk)
@@ -51366,6 +52176,7 @@ VAE	Vorläufige aktive Erfassung
 VAE	[IATA 3LC] Valles, Mexico
 VAF	[IATA 3LC] Valence, France
 VAFB	Vandenburg Air Force Base
+VAG	Volkswagen AG
 VAG	[IATA 3LC] Varginha, Minas Gerais, Brazil
 VAGO	[ICAO 7910] Dabolim Airport (Goa Airport) (Mil./Civil), Dabolim (Goa), India
 VAI	[IATA 3LC] Vanimo, Papua New Guinea
@@ -51477,6 +52288,7 @@ VCCG	[ICAO 7910] Amparai, Gal Oya, Sri Lanka
 VCCJ	[ICAO 7910] Kankesanturai AB, Jaffna, Sri Lanka
 VCCT	[ICAO 7910] China Bay AB, Trincomalee, Sri Lanka
 VCD	[IATA 3LC] Victoria River Downs, Northern Territory, Australia
+VCDS	VAG-COM Diagnose-System
 VCE	[IATA 3LC] Venice (Marco Polo), Venezia, Italy
 VCF	vCard file
 VCF	Vintage Computing Festival
@@ -51588,6 +52400,7 @@ VEN	[FIFA] Venezuela
 VENEZIA	V (Italian Spelling Alphabet)
 VENT	ventilation
 VENTY	Ventilator
+VEP	Verteilereinspritzpumpe
 VEPG	[ICAO 7910] Pasighat Airport, Pasighat (Passighat), India
 VEPT	[ICAO 7910] Jai Prakash Narayan International Airport, Patna (Bihar), India
 VEPU	[ICAO 7910] Purnea Airport, Purnia (Bihar), India
@@ -51651,6 +52464,7 @@ VFAT	virtual FAT driver for 32-bit Windows
 VFD	vacuum fluorescent display
 VFD	Vakuum-Fluoreszenzanzeige (Digitron-Anzeige)
 VFD	virtual floppy disc
+VFIO	virtual function I/O
 VFO	variable frequency oscillator
 VFO	variable-frequency oscillator
 VFP	ARM vector floating-point
@@ -52109,10 +52923,12 @@ VPL	vor Plan
 VPN	virtual private network
 VPN	virtuelles privates Netzwerk
 VPN	[IATA 3LC] Vopnafjordur, Iceland
+VPO	virtual pipe organ
 VPP	EPROM/EEPROM/µC programming voltage
 VPP	peak to peak voltage delta
 VPP	[ICAO 8585] Vintage Props and Jets, USA
 VPR	[Stw] (Vpr) [SuH 1912/GS II] Berlin Schönhauser Allee (Fdl: Fdl; aB Lsig GmS, Fernb-Bk, AB 04.09.2002)
+VPS	verbindungsprogrammierte Steuerung
 VPS	video programming system
 VPS	[IATA 3LC] Fort Walton Beach (Valparaiso), Florida, United States of America
 VPU	voltage input for on-board pull-up resistors (BusPirate)
@@ -52196,9 +53012,11 @@ VSP	verspätet
 VSP	Vorspann
 VSRE	very short reply expected
 VST	Vermittlungsstelle
+VST	virtual studio technology
 VST	[IATA 3LC] Vasteras (Hasslo), Sweden
 VST	[Stw] (Vst) [mech HL] Velten (Mark) (Fdl: Ww; aB, AB 1990)
 VST	[Stw] (Vst) [SuH 1912] Velten (Mark) (Fdl: Fdl; Lsig, IB 1990)
+VSTI	VST instrument plugin (cf. VST)
 VSTP	VLAN spanning tree protocol
 VSV	[ICAO 8585] Scat Aircompany, Kasachstan
 VSW	Verkehrsgemeinschaft Schweinfurt
@@ -53687,10 +54505,12 @@ WGA	(cf. WVGA)
 WGA	was geht ab?
 WGA	[DB] Betriebsstelle Gadebusch (Bf)
 WGA	[IATA 3LC] Wagga Wagga, New South Wales, Australia
+WGAE	Writers Guild of America, East
 WGAI	[DB] Betriebsstelle Gadebusch Industriegelände (Anst)
 WGAL	[DB] Betriebsstelle Gallin (Bf)
 WGAV	[DB] Betriebsstelle Ganschvitz (Bush)
 WGAVH	[DB] Betriebsstelle Ganschvitz Hof (Bush)
+WGAW	Writers Guild of America, West
 WGB	[DB] Betriebsstelle Groß Brütz (Bf)
 WGB	[IATA 3LC] Bahawalnagar, Pakistan
 WGBN	[DB] Betriebsstelle Grieben (Meckl) (Bf)
@@ -59472,6 +60292,9 @@ ZÜRICH	Z (British A/International Spelling Alphabet)
 _	[MORSE] ..--.- (not ITU-R)
 `	http://linuxwiki.de/ApoStrophen
 `	[MORSE] .-..-. (normalises to ‘"’)
+§	Paragraph
+§	section
+§§	sections
 °C	degree Celsius (℃) (cf. K)
 °F	degree Fahrenheit (℉)
 ´	http://linuxwiki.de/ApoStrophen
@@ -59533,6 +60356,7 @@ _	[MORSE] ..--.- (not ITU-R)
 ÜF	[Stw] (Üf) [Sp Dr S59] Überherrn (aB, stark zurückgebaut, IB 10.01.1960, AB 30.09.2003)
 ÜF	[Stw] (Üf) [Sp Dr S60] Uelzen (IB 28.02.1965)
 ÜK	[Stw] (Ük) [mech ZuB] Ückeritz (Fdl: Fdl; aB, AB 2001)
+ÜLL	Überlandleitung
 ÜLTG	Überleitung
 ÜNF	[Stw] (Ünf) [elmech O&K] Uelzen (Fdl: Fdl; aB, AB 28.02.1965)
 ÜOF	[Stw] (Üof) [S&H 1912] Wanne Übergabebf WHE (kein Str-Block)
@@ -59649,12 +60473,17 @@ _	[MORSE] ..--.- (not ITU-R)
 مصر	[ccTLD] Ägypten (maṣr, Egypt)
 مليسيا	[ccTLD] Malaysia (Maleesya)
 پاکستان	[ccTLD] Pakistan (Pākistān)
+ڀﺍﺮﺗ	[ccTLD] Indien
 भारत	[ccTLD] Indien (Hindi) (Bharat, India)
+भारतम्	[ccTLD] Indien
+भारोत	[ccTLD] Indien
 বাংলা	[ccTLD] Bangladesch (Bangla, Bangladesh)
 ভারত	[ccTLD] Indien (Bengali) (Bharôt, India)
+ভাৰত	[ccTLD] Indien
 ভাৰত	[ccTLD] Indien (Bengali) (Bharôt, India)
 ਭਾਰਤ	[ccTLD] Indien (Punjabi) (Bharat, India)
 ભારત	[ccTLD] Indien (Gujarati) (Bharat, India)
+ଭାରତ	[ccTLD] Indien
 ଭାରତ	[ccTLD] Indien (Bhārata, India)
 இந்தியா	[ccTLD] Indien (Inthiyaa, India)
 இந்்தியா	[ccTLD] Indien (Tamil)
@@ -59664,6 +60493,8 @@ _	[MORSE] ..--.- (not ITU-R)
 சிங்்கப்்பூர்்	[ccTLD] Singapur (Tamil)
 భారత్	[ccTLD] Indien (Bharat, India)
 భాారత్్	[ccTLD] Indien (Telugu)
+ಭಾರತ	[ccTLD] Indien
+ഭാരതം	[ccTLD] Indien
 ලංකා	[ccTLD] Sri Lanka (Sinhala) (laṃkā, Ceylon)
 ไทย	[ccTLD] Thailand (Thai)
 ລາວ	[ccTLD] Laos (Lao)
@@ -59692,4 +60523,5 @@ _	[MORSE] ..--.- (not ITU-R)
 香港	[ccTLD] Hongkong (Xiānggǎng/Hoenggong, Hong Kong)
 한국	[ccTLD] Südkorea (Han-guk, South Korea)
 ﺍیﺭﺎﻧ	[ccTLD] Iran
+ﺏﺍﺮﺗ	[ccTLD] Indien
 ﻢﻠﻴﺴﻳﺍ	[ccTLD] Malaysia
