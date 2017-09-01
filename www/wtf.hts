@@ -4,7 +4,7 @@
 mws_setname wtf "WTF acronym database"
 mws_setheadline "What the Fuck?"
 mws_onload "if (!this.fff) document.getElementById('ffield').focus();"
-mws_putheader '$MirOS: wtf/www/wtf.hts,v 1.18 2017/07/01 00:39:48 tg Exp $'
+mws_putheader '$MirOS: wtf/www/wtf.hts,v 1.19 2017/09/01 13:47:00 tg Exp $'
 mws_content <<'EOF'
 <h2>Display all acronyms</h2>
 <p>The <a href="@@RELPATH@@acronyms" type="text/plain; charset=utf-8"
@@ -14,9 +14,9 @@ mws_content <<'EOF'
  extended by many contributors, including “wtfubar”; Natureshadow made a <a
  href="https://edugit.org/nik/MirWTFApp">Free Android äpp</a> (also <a
  href="https://f-droid.org/repository/browse/?fdid=de.naturalnet.mirwtfapp">available</a>
- in F-Droid; known to work on Jolla and Blackberry Z10) which also understands
+ in F-Droid; known to work on Jolla and Blackberry Z10) and Eugen an <a
+ href="https://www.ea-it.de/wtf-app/">iOS äpp</a> which also understand
  the extended format of the MirBSD acronyms database compared to other BSDs.
- (An iPhone äpp is in the works.)
 EOF
 
 #DEPEND .linked/acronyms
