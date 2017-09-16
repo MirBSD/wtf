@@ -1,9 +1,9 @@
   à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž α/Α ε/Ε κ/Κ λ/Λ ο/Ο π/Π ς/Σ σ/Σ υ/Υ а/А б/Б в/В г/Г д/Д е/Е з/З и/И й/Й к/К л/Л м/М н/Н о/О п/П р/Р с/С т/Т у/У ф/Ф х/Х ц/Ц ш/Ш э/Э ю/Ю қ/Қ ա/Ա հ/Հ յ/Յ ℒ/ℓ
- @(#)$MirOS: wtf/acronyms,v 1.624 2017/09/15 19:40:43 tg Exp $
- From $NetBSD: acronyms,v 1.257 2017/08/22 02:36:48 pgoyette Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.625 2017/09/16 22:48:31 tg Exp $
+ From $NetBSD: acronyms,v 1.258 2017/09/15 23:08:11 ginsbach Exp $
  From $NetBSD: acronyms-o.real,v 1.4 2017/05/29 06:54:01 pgoyette Exp $
  From $NetBSD: acronyms.comp,v 1.184 2017/08/11 16:03:14 ginsbach Exp $
- From $NetBSD: airport,v 1.66 2017/06/04 10:58:28 mbalmer Exp $
+ From $NetBSD: airport,v 1.67 2017/09/15 19:20:11 mbalmer Exp $
  From $OpenBSD: airport,v 1.66 2017/08/05 13:22:57 fcambus Exp $
  From github: othyro/wtfubar refs/tags/wtfubar-2.5.0
  From miros: src/sys/sys/errno.h,v 1.11 2014/09/05 22:38:17 tg Exp $
@@ -9174,6 +9174,7 @@ CIS	[IATA 3LC] Canton Island, Kiribati
 CISA	certified information systems auditor
 CISC	complex instruction set computing/computer
 CISM	certified information security manager
+CISO	Chief Information Security Officer
 CISPR	Comité International Spécial des Perturbations Radio
 CISS	constructive interference in steady state
 CIT	Internationales Eisenbahntransportkomitee
@@ -9515,7 +9516,7 @@ COBA	Commerzbank
 COBIT	control objectives for information and related technologies
 COBOL	common business-oriented language
 COC	code of conduct
-COC	[IATA 3LC] Concordia (Comodoro Pierres), Argentina
+COC	[IATA 3LC] Concordia (Comodoro Pierrestegui), Entre Rios, Argentina
 COC	[Kfz:D] Landkreis Cochem-Zell
 COD	call of duty
 COD	cash on delivery
@@ -12023,10 +12024,12 @@ DMDFF	[DB] Betriebsstelle Mittelndorf Forsthaus (Hp)
 DMDFM	[DB] Betriebsstelle Mittelndorfer Mühle (Hp)
 DMDIF	Dann machst Du irgendwas falsch™
 DME	Digitaler Meldeempfänger
+DME	durable medical equipment
 DME	[DB] Betriebsstelle Meißen (Bf)
 DME	[IATA 3LC] Moscow (Domodemovo), Russia
 DME S	[DB] Betriebsstelle Meißen (Schiff) (Slst)
 DMEH	[DB] Betriebsstelle Mehltheuer (Bf)
+DMEPOS	durable medical equipment, prosthetics, orthotics and supplies
 DMET	[DB] Betriebsstelle Schmiedeberg, (Bez Dr) Metallaufbertg.Dres (Anst)
 DMEW	[DB] Betriebsstelle Metallschlauchwerk Zwickau GmbH (Anst)
 DMF	Dekontaminationsmehrzweckfahrzeug
@@ -19391,6 +19394,7 @@ FWS	[DB] Betriebsstelle Wiesbaden-Schierstein (Bf)
 FWS	[IATA 3LC] Fort Worth (Spinks Airport), Texas, United States of America
 FWSA	[DB] Betriebsstelle Salzbach (Abzw)
 FWSM	[ICAO 7910] Salima, Salima, Malawi
+FWSS	featherweight spaceship, glider
 FWST	Fernwirkstelle
 FWST	[DB] Betriebsstelle Watzenborn-Steinberg (Hp)
 FWT	[DB] Betriebsstelle Wetter (Hess-Nass) (Bf)
@@ -22857,6 +22861,7 @@ HMDA	[DB] Betriebsstelle Moordorf (Anst)
 HMDD	[DB] Betriebsstelle Bad Münder (Deister) (Bf)
 HMDF	[DB] Betriebsstelle Mellendorf (Bf)
 HMDS	[DB] Betriebsstelle Bad Münder Stadt (Anst)
+HME	home medical equipment
 HME	[DB] Betriebsstelle Hannover Messebahnhof (Anst)
 HME	[IATA 3LC] Hassi Messaoud (Oued Irara), Algeria
 HME B	[DB] Betriebsstelle Hannover Messegelände (Bush)
@@ -23989,6 +23994,7 @@ HWSDZ	[DB] Betriebsstelle Westerstede ZOB (Bush)
 HWSN	[DB] Betriebsstelle Wennigsen (Deister) (Bf)
 HWSO	[DB] Betriebsstelle Westerode (Bf)
 HWSR	[DB] Betriebsstelle Walsrode (Bf)
+HWSS	heavyweight spaceship, big fish
 HWT	[Stw] (Hwt) [mech Jü] Mülheim (Ruhr)-Heissen (Fdl: Ww; aB, IB 1910, AB 15.12.2002)
 HWT	[Stw] (Hwt) [SuH 1912] Berlin Hamb u Lehrt Bf (Fdl: Ww; aB, AB 27.10.2006)
 HWTB	[DB] Betriebsstelle Westerbrak (Bf)
@@ -30287,7 +30293,6 @@ LMAS	[DB] Betriebsstelle Mansfeld (Südharz) (Bf)
 LMAU	[DB] Betriebsstelle Machern Üst (Üst)
 LMAW	[DB] Betriebsstelle Markkleeberg West (Bf)
 LMB	Lars Markowsky-Brée
-LMB	Lars Marowsky-Brée
 LMB	lick my balls
 LMB	[DB] Betriebsstelle Magdeburg-Buckau (Bf)
 LMB	[IATA 3LC] Salima, Malawi
@@ -31467,6 +31472,7 @@ LWS	[IATA 3LC] Lewiston-Nez Perce County Airport, Idaho, United States of Americ
 LWSK	[ICAO 7910] Skopje Airport, Skopje, Macedonia
 LWSK	[ICAO 7910] Skopje, Skopje, Macedonia
 LWSP	linear whitespace
+LWSS	lightweight spaceship, small fish
 LWST	[DB] Betriebsstelle Wegenstedt (Bf)
 LWT	[DB] Betriebsstelle Werkleitz (Abzw)
 LWT	[IATA 3LC] Lewistown, Montana (Lewistown Municipal Airport), United States of America
@@ -34187,12 +34193,11 @@ MSCH	[DB] Betriebsstelle München-Schwabing (Bf)
 MSCI	Integrated Master in Science
 MSCL	[DB] Betriebsstelle Schwabhausen (b. Landsberg) (Awanst)
 MSCN	[DB] Betriebsstelle Schmiechen (Oberbay) (Hp)
+MSCORE	MuseScore
 MSCS	[DB] Betriebsstelle Schliersee (Bf)
 MSCT	maximum system characteristics table
-MSCX	MuseScore (uncompressed)
 MSCX	MuseScore score file
-MSCZ	MuseScore (gzipped)
-MSCZ	MuseScore score archive, compressed, with thumbnail
+MSCZ	MuseScore score archive, compressed, with thumbnail and extra BLOBs
 MSD	mean shortest distance
 MSD	[DB] Betriebsstelle Stockdorf (Hp)
 MSD	[IATA 3LC] Mount Pleasant Airport, Utah, United States of America
@@ -34789,6 +34794,7 @@ MWSI	[DB] Betriebsstelle Wasserburg (Inn) Stadt (Tp)
 MWSI	[DB] Betriebsstelle Wasserburg (Inn) Stadt (Tpg)
 MWSL	[DB] Betriebsstelle Tittmoning-Wiesmühl (Bf)
 MWSM	[DB] Betriebsstelle Wiesmühl (Alz) (Hp)
+MWSS	middleweight spaceship, medium fish
 MWSS	[DB] Betriebsstelle Bad Wiessee (Slst)
 MWST	Mehrwertsteuer (cf. VAT) (cf. USt)
 MWST	[DB] Betriebsstelle Wildsteig Ortsmitte (Bush)
@@ -36350,6 +36356,7 @@ NMIK	[DB] Betriebsstelle Michelaubrück (Hp)
 NMIM	[DB] Betriebsstelle Mimberg (Hp)
 NMIT	[DB] Betriebsstelle Mitterteich (Bf)
 NMKU	[DB] Betriebsstelle Kulmbach Müll (Anst)
+NML	Naxos Music Library
 NML	[DB] Betriebsstelle Mainleus (Bf)
 NMLT	[DB] Betriebsstelle Miltach (Hp)
 NMLZ	[DB] Betriebsstelle Martinlamitz (Hp)
@@ -39349,6 +39356,8 @@ OTBD	[ICAO 7910] Doha Intl Airport, Doha, Qatar
 OTBS	the one true brace style
 OTC	over the counter
 OTC	[IATA 3LC] Bol, Chad
+OTCA	outer totalistic cellular automata
+OTCAMP	OTCA metapixel (cf. OTCA)
 OTD	[IATA 3LC] Contadora, Panama
 OTF	OpenType font
 OTFE	on-the-fly disc encryption
@@ -41785,6 +41794,7 @@ QPS	Queries Per Second
 QPV	[IATA 3LC] Perisher Valley, New South Wales, Australia
 QQ	[IATA 2LC] Alliance Airlines, Australien
 QQ	[IATA 2LC] Reno Air, USA
+QQQ	[HP] Quick-Quotes Quill
 QQV	[IATA 3LC] Lupin Airport, Northwest Territories, Canada
 QQVGA	quarter QVGA (160x120px)
 QQZ	[IATA 3LC] Paraguana (Josefa Camejo), Venezuela
@@ -49192,6 +49202,7 @@ TC 1	[DB] Betriebsstelle Crailsheim (Est) (Est)
 TC B	[DB] Betriebsstelle Crailsheim BEM (Museum)
 TC1	[GPSH] Terracaching 1, phpBB-based
 TC3	[GPSH] Terracaching 3, opened in 2014
+TCA	traditionelle chinesische Abzocke (cf. TCM)
 TCA	[DB] Betriebsstelle Calmbach (Hp)
 TCA	[FIFA] Turks and Caicos Islands
 TCA	[IATA 3LC] Tennant Creek, Northern Territory, Australia
@@ -49228,6 +49239,7 @@ TCL	tool command language
 TCL	transaction control language
 TCL	[IATA 3LC] Tuscaloosa Municipal Airport, Alabama, United States of America
 TCL	[SPDX] TCL/TK Licence – http://spdx.org/licenses/TCL.html
+TCM	traditionelle chinesische Medizin (cf. TCA)
 TCM	transmission control module
 TCM	[IATA 3LC] Tacoma (McChord Air Force), Washington, United States of America
 TCN	[IATA 3LC] Tehuacan, Mexico
