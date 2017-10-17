@@ -1,5 +1,5 @@
   à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž α/Α ε/Ε κ/Κ λ/Λ ο/Ο π/Π ς/Σ σ/Σ υ/Υ а/А б/Б в/В г/Г д/Д е/Е з/З и/И й/Й к/К л/Л м/М н/Н о/О п/П р/Р с/С т/Т у/У ф/Ф х/Х ц/Ц ш/Ш э/Э ю/Ю қ/Қ ա/Ա հ/Հ յ/Յ ℒ/ℓ
- @(#)$MirOS: wtf/acronyms,v 1.626 2017/09/27 20:42:15 tg Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.627 2017/10/17 22:20:38 tg Exp $
  From $NetBSD: acronyms,v 1.260 2017/09/18 03:14:02 riastradh Exp $
  From $NetBSD: acronyms-o.real,v 1.5 2017/09/27 08:43:19 maya Exp $
  From $NetBSD: acronyms.comp,v 1.186 2017/09/21 00:40:10 ginsbach Exp $
@@ -3950,6 +3950,7 @@ AWF	[DB] Betriebsstelle Weissenfelde (Museum)
 AWF	[Stw] (Awf) [GS II Sp64b] Wustermark Abzw (aB, IB 27.09.1969, AB 13.11.2009)
 AWF	[Stw] (Awf) [Sp Dr S60] Aachen West (IB 1970)
 AWFS	[DB] Betriebsstelle Hamburg-Wilhelmsburg (S-Bahn) (Bf)
+AWG	American Wire Gauge
 AWG	Aruban florin (ISO 4217 code)
 AWG	[DB] Betriebsstelle Wingst (Hp)
 AWG	[IATA 3LC] Washington Municipal Airport, Iowa, United States of America
@@ -7709,6 +7710,7 @@ BTT	back to topic
 BTT	[IATA 3LC] Bettles Airport, Alaska, United States of America
 BTTF	back to the future
 BTTH	boot to the head
+BTTR	back to the roots
 BTTT	been there, tried that
 BTU	back to you
 BTU	British Thermal Units
@@ -7964,6 +7966,7 @@ BWF	[Stw] (Bwf) [mech Jü] Bennigsen (Fdl: Fdl; aB, IB 1914, AB 23.11.2008)
 BWF	[Stw] (Bwf) [mech S&B] Bodenfelde (Fdl: Fdl; aB, IB 1911, AB 12.10.2008)
 BWF	[Stw] (Bwf) [mech ZuB] Berga-Kelbra (Fdl: Fdl; teilw Lsig, 1 Doppelsteller-R-Hebel mech E)
 BWFD	[DB] Betriebsstelle Weichensdorf (Anst)
+BWG	Birmingham Wire Gauge (Stubs’ Wire Gauge)
 BWG	[DB] Betriebsstelle Wiesenburg (Mark) (Bf)
 BWG	[IATA 3LC] Bowling Green-Warren County, Kentucky, United States of America
 BWG	[ICAO 8585] Blue Wings, Deutschland
@@ -16871,6 +16874,9 @@ FANR	[DB] Betriebsstelle Anraff (Hp)
 FANS	[ICAO 7910] Nelspruit, Nelspruit, South Africa
 FANUS	Fahrwegnutzungsstrategie
 FAO	[IATA 3LC] Faro, Portugal
+FAOD	fatty acid oxidation disorder
+FAOD	for avoidance of doubt
+FAOD	furry army of doom
 FAOH	[ICAO 7910] Oudtshoorn, Oudtshoorn, South Africa
 FAP	Femtocell Access Point (cf. HNB)
 FAPA	[ICAO 7910] Port Alfred, Port Alfred, South Africa
@@ -24491,6 +24497,7 @@ IFO	Instandhaltungsfahrzeug für Oberleitungsanlagen
 IFO	[IATA 3LC] Ivano-Frankivs’k International, Ivano Frankovsk, Ukraine
 IFP	[IATA 3LC] Bullhead City, Arizona, United States of America
 IFR	Instrument Flight Rules
+IFRA	International Fragrance Association
 IFRB	International Frequency Registration Board
 IFROSS	Institut für Rechtsfragen der Freien und Open Source Software – http://www.ifross.org/
 IFRS	International Financial Reporting Standards
@@ -25155,6 +25162,7 @@ ISV	[IOC] U.S. Virgin Islands
 ISW	[IATA 3LC] Wisconsin Rapids (Alexander Field), Wisconsin, United States of America
 ISW	[ICAO 8585] Islas Airways, Spanien
 ISWC	International Standard Musical Work Code
+ISWG	Imperial Standard Wire Gauge
 ISZ	UltraISO proprietary compressed ISO file
 IT	EBCDIC X'39' Indent Tab
 IT	information technology
@@ -32016,6 +32024,7 @@ MB	[Stw] (Mb) [S&H 1912] Mühldorf (Oberbay) (aB Fü, IB 1943)
 MBA	Master of Business Administration
 MBA	may be arsed
 MBA	multi-boot agent
+MBA	must be awful
 MBA	[IATA 3LC] Mombasa (Moi International), Kenya
 MBAA	[DB] Betriebsstelle München-Berg am Laim Abzw (Abzw)
 MBAB	[DB] Betriebsstelle Baierbrunn (Bf)
@@ -35201,6 +35210,7 @@ NAN	[IATA 3LC] Nadi, Fiji
 NAN B	[DB] Betriebsstelle Ansbach BEM (Museum)
 NAND	negation and and, ~&
 NANI	[DB] Betriebsstelle Aschaffenburg-Nilkheim (Bf)
+NANOWRIMO	national novel writing month
 NANP	Nordamerikanischer Nummerierungsplan
 NANP	North American Numbering Plan
 NANPA	North American Numbering Plan Administration
@@ -35384,6 +35394,7 @@ NBRR	[DB] Betriebsstelle Wunsiedel Bruchner (Anst)
 NBRU	[DB] Betriebsstelle Bruckertshof (Bf)
 NBS	EBCDIC X'36' Numeric Backspace
 NBS	Neubaustrecke
+NBS	new-born screening
 NBS	not built by source
 NBS	Nutzungsbedingungen für Serviceeinrichtungen
 NBS	[dental] nursing bottle syndrome
@@ -40152,6 +40163,7 @@ PERP	[HTML] up tack, orthogonal to, perpendicular (perp)
 PES	[IATA 3LC] Petrozavodsk, Karelia, Russia
 PET	Polyethylenterephthalat, Poly(oxyethylenoxy-terephthaloyl)
 PET	[IATA 3LC] Pelotas, Rio Grande do Sul, Brazil
+PETA	people eating tasty animals
 PETE	(cf. PET)
 PETER	P (British Forces 1952 Spelling Alphabet; New York Police Spelling Alphabet; RAF 1942/1943 Spelling Alphabet; Telecom B Spelling Alphabet)
 PETR	Proxy ETR (cf. ETR)
@@ -41604,7 +41616,7 @@ Q	[Kfz] Katar
 Q	[MORSE] --.-
 Q	[Stw] [Sp Dr S60] Quickborn AKN (aB e)
 Q&A	Question and Answer
-Q'N'D	quick and dirty
+Q'N'D	(cf. q’n’d)
 Q000	[Oracle] AQ Server Class Process
 Q1	[IATA 2LC] Sqiva Sistem, Indonesien
 Q1	[Schule DE] Qualifikationsphase 1 (11. Klasse Gymnasium nach G8)
@@ -42008,6 +42020,7 @@ QZC	[IATA 3LC] Smiggin Holes, New South Wales, Australia
 QZF	[IATA 3LC] Font Romeu, France
 QZG	[IATA 3LC] La Llagone, France
 QZSS	Quasi-Zenith Satellite System (準天頂, Juntenchou)
+Q’N’D	quick and dirty
 R	British A/International Spelling Alphabet; Italian Spelling Alphabet: ROMA
 R	British Forces 1952 Spelling Alphabet; RAF 1942/1943 Spelling Alphabet: ROGER
 R	deutsches Funkalphabet: RICHARD
@@ -42312,6 +42325,7 @@ RB	[IATA 2LC] Syrian Arab Airlines (Syrianair), Syrien
 RB	[Kfz] Bolivien (veraltet)
 RB	[Kfz] Botswana
 RB G	[DB] Betriebsstelle Basel Bad Bf Gellert (Bft)
+RB;GB	read a bit; got bored
 RBA	[DB] Betriebsstelle Basel Bad Rbf (Bf)
 RBA	[IATA 3LC] Rabat (Sale), Morocco
 RBA	[ICAO 8585] Royal Brunei Airlines, Brunei
@@ -42988,6 +43002,7 @@ RH	[IATA 2LC] Robin Hood Aviation, Österreich
 RH	[Kfz:D] Landkreis Roth
 RH	[Kfz] Haiti
 RH B	[DB] Betriebsstelle Heidelberg Bfs-Vorplatz (Bush)
+RH;PAC	read headline; posted angry comments
 RHA	[DB] Betriebsstelle Hausach (Bf)
 RHA	[IATA 3LC] Reykholar, Iceland
 RHAD	[DB] Betriebsstelle Hardheim (Hp Anst)
@@ -47349,6 +47364,8 @@ SR	[Stw] (Sr) [mech E] Stolberg (Rheinl) Hbf (Fdl: Ww; nur Rang)
 SR	[Stw] (Sr) [mech] Sömmerda (Fdl: Fdl; aB e, ob Bf, AB 28.06.1997)
 SR	[Stw] (Sr) [Sp Dr S60] Schirnding (Fdl: Ww; aB, nur Rang, IB 31.10.1973, AB 25.07.1994)
 SR II	[Stw] (Sr II) [mech] Sangerhausen (Fdl: Ww; aB e, nur Rang, Postbf)
+SR;MP	skim-read; missed point
+SR;PW	should read; probably won’t
 SRA	software requirements analysis
 SRA	[IATA 3LC] Santa Rosa, Rio Grande do Sul, Brazil
 SRA0	900×1280 mm (35.4330×50.3937 in)
@@ -48694,6 +48711,7 @@ SWF	[Stw] (Swf) [Sp Dr L20] Saarbrücken Hbf (Fdl: Fdl; aB, IB 1959, AB 30.03.20
 SWF	[Stw] (Swf) [Sp Dr S60] Seelze Rbf (Fdl: Fdl; Steuerbereich Pbf)
 SWFG	search with fucking Google
 SWFS	[DB] Betriebsstelle Wolfstein (Bf)
+SWG	Standard Wire Gauge (cf. ISWG)
 SWG	[DB] Betriebsstelle Wadgassen (Bf)
 SWG	[IATA 3LC] Statwag, Papua New Guinea
 SWG	[ICAO 8585] Sunwing Airlines, Kanada
@@ -50154,6 +50172,7 @@ TL 1	[DB] Betriebsstelle Lauda Est (Est)
 TL 1	[Stw] (Tl 1) [ESw/mech E] Trzemeszno Lubuskie PKP (Fdl: Ww; IB 1943)
 TL P	[DB] Betriebsstelle Lauda-Königshofen Post (Bush)
 TL;DR	too long; didn’t read
+TL;DS	too late; didn’t see
 TL;DS	too long; didn’t see
 TLA	three letter acronym
 TLA	Tom Lord’s arch
@@ -51085,6 +51104,7 @@ TUA	[IATA 3LC] Tulcan (El Rosal), Ecuador
 TUA	[ICAO 8585] Turkmenistan Airlines, Turkmenistan
 TUB	Tuba
 TUB	[IATA 3LC] Tubuai, Tubuai Islands, French Polynesia
+TUBS	time unit box system
 TUC	temps universel coordonné (UTC)
 TUC	[DB] Betriebsstelle Bad Urach (Bf)
 TUC	[IATA 3LC] San Miguel Tucuman, Argentina
@@ -53767,6 +53787,7 @@ VS	[CH] it: Vallese
 VS	[CH] rm: Vallais
 VS	[IATA 2LC] Virgin Atlantic Airways, Großbritannien
 VS	[Kfz:D] Landkreis Villingen-Schwenningen
+VS;SDR	very short; still didn’t read
 VSA	Vehicle Stability Assist (cf. ESC)
 VSA	Verkehrssicherungsanhänger
 VSA	[IATA 3LC] Villahermosa (Carlos Rovirosa), Mexico
@@ -54021,6 +54042,7 @@ W	[Kfz:A] Wien
 W	[Kfz:D] kreisfreie Stadt Wuppertal
 W	[MORSE] .--
 W	[Stw] [VES 4rH] Wittenberge (Fdl: Fdl; aB, IB 1936, AB 26.05.2002)
+W&M	Washburn & Moen Wire Gauge
 W-CDMA	Wideband Code Division Multiple Access
 W/	with
 W/E	whatever
