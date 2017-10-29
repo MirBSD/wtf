@@ -1,5 +1,5 @@
   à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž α/Α ε/Ε κ/Κ λ/Λ ο/Ο π/Π ς/Σ σ/Σ υ/Υ а/А б/Б в/В г/Г д/Д е/Е з/З и/И й/Й к/К л/Л м/М н/Н о/О п/П р/Р с/С т/Т у/У ф/Ф х/Х ц/Ц ш/Ш э/Э ю/Ю қ/Қ ա/Ա հ/Հ յ/Յ ℒ/ℓ
- @(#)$MirOS: wtf/acronyms,v 1.627 2017/10/17 22:20:38 tg Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.628 2017/10/29 22:30:46 tg Exp $
  From $NetBSD: acronyms,v 1.260 2017/09/18 03:14:02 riastradh Exp $
  From $NetBSD: acronyms-o.real,v 1.5 2017/09/27 08:43:19 maya Exp $
  From $NetBSD: acronyms.comp,v 1.186 2017/09/21 00:40:10 ginsbach Exp $
@@ -3371,6 +3371,7 @@ ARGE	Arbeitsgemeinschaft
 ARGE	Jobcenter
 ARH	[DB] Betriebsstelle Radbruch (Bf)
 ARH	[IATA 3LC] Talagi, Arkhangelsk, Russia
+ARI	Autofahrerrundfunkinformation
 ARI	[DB] Betriebsstelle Hamburg-Rissen (Hp Üst)
 ARI	[IATA 3LC] Chacalluta International, Arica, Chile
 ARIES	[Zodiac] Widder (Κριός), 15°, 21.03.–20.04., Frühling, Kindheit, Süd, Feuer, trocken + warm, fein (gasförmig), Galle, cholerisch, gelb
@@ -5768,6 +5769,7 @@ BFOT	[DB] Betriebsstelle Forst (Lausitz) Matt und Lind (Anst)
 BFP	[DB] Betriebsstelle Frankfurt (Oder) Pbf (Bf)
 BFP	[IATA 3LC] Beaver Falls (Beaver County Airport), Pennsylvania, United States of America
 BFPL	Buchfahrplan
+BFPO	British Forces Post Office
 BFR	Bundesinstitut für Risikobewertung
 BFR	[DB] Betriebsstelle Frauenhain (Bf)
 BFR	[IATA 3LC] Bedford (Municipal Airport), Indiana, United States of America
@@ -6183,6 +6185,12 @@ BIND	Berkeley Internet Name Daemon
 BIND	Buggy Internet Name Dæmon
 BINF	[ICAO 7910] Norofjorour Airport, Norofjorour, Iceland
 BINNMU	binary non-maintainer upload (rebuild) from unchanged sources
+BIO	biography
+BIO	biology
+BIO	block input/output
+BIO	ioctl tunnel pseudo-device
+BIO	OpenSSL I/O abstraction
+BIO	organic food
 BIO	[IATA 3LC] Sondica, Bilbao, Spain
 BIOS	Basic Input/Output System
 BIOS	built-in operating system
@@ -6457,6 +6465,7 @@ BLE	[ICAO 8585] Blue Line, Frankreich
 BLEB	[DB] Betriebsstelle Lebus (Hp)
 BLEH	[DB] Betriebsstelle Berlin Lehrter Stadtbf (Hp)
 BLEN	[DB] Betriebsstelle Lehnitz (Hp)
+BLF	Besetztlampenfunktion
 BLF	[DB] Betriebsstelle Ludwigsfelde (Bf)
 BLF	[IATA 3LC] Bluefield (Mercer County Airport), West Virginia, United States of America
 BLF	[ICAO 8585] Blue1, Finnland
@@ -7159,6 +7168,7 @@ BRC	Brazilian cruzado (old ISO 4217 code)
 BRC	[DB] Betriebsstelle Potsdam-Rehbrücke (Bf)
 BRC	[IATA 3LC] San Carlos de Bariloche, Argentina
 BRD	Bundesrepublik Deutschland
+BRD	RAM-based Linux block device
 BRD	[DB] Betriebsstelle Berlin-Rahnsdorf (Bf)
 BRD	[IATA 3LC] Brainerd Lakes Regional, Brainerd, Minnesota, United States of America
 BRD	[IATA 3LC] Brainerd-Crow Wing, Minnesota, United States of America
@@ -8688,6 +8698,7 @@ CDISC	clinical data interchange standards consortium
 CDJ	[IATA 3LC] Conceicao, Paraíba, Brazil
 CDK	[IATA 3LC] Cedar Key (George T. Lewis Airport), Florida, United States of America
 CDL	[IATA 3LC] Candle 2 Airport, Alaska, United States of America
+CDLA	Linux Foundation Community Data Licence Agreement
 CDM	coherent device memory
 CDM	Content Decryption Module (cf. EME)
 CDMA	code division multiple access
@@ -11332,6 +11343,7 @@ DETR	department of the environment, transport and the regions
 DEU	[ISO 3166] Germany
 DEV	developer
 DEV	development
+DEV	device
 DEV	Dioden-Erd-Verfahren
 DEV	Diodenerdwahlverfahren
 DEVV	Deutscher Eisenbahnverkehrsverband
@@ -12006,6 +12018,7 @@ DM	Debian Maintainer
 DM	Deine Mama
 DM	Deine Maus
 DM	Deutsche Mark
+DM	device mapper
 DM	direct message
 DM	Division Manager
 DM	Doctor of Medicine
@@ -12438,6 +12451,7 @@ DPAR	[DB] Betriebsstelle Papierfabrik Rochsburg GmbH (Anst a.B.)
 DPAW	[DB] Betriebsstelle Wolkenburg Papierfabrik GmbH (Anst a.B.)
 DPC	deferred procedure call
 DPC	[DB] Betriebsstelle Plauen (Vogtl)-Chrieschwitz (Hp AwAnst)
+DPCD	DisplayPort configuration data
 DPCM	differential pulse code modulation
 DPD	dead peer detection
 DPD	Deutscher Paketdienst
@@ -15256,6 +15270,7 @@ ELET	[DB] Betriebsstelle Lette (Kr Coesfeld) (Hp Anst)
 ELF	endless long to wait for
 ELF	executable and linking format
 ELF	extrem langsames Format
+ELF	extremely low frequency
 ELF	[IATA 3LC] El Fasher, Sudan
 ELF	[Stw] (Elf) [El S] Elmshorn (Fsb: Tornesch, Dauenhof, IB 05.07.1992)
 ELG	[IATA 3LC] El Golea, Algeria
@@ -16465,6 +16480,7 @@ EVLB	[DB] Betriebsstelle Velbert Hbf (Bf)
 EVLE	[DB] Betriebsstelle Velbert Engels (Anst)
 EVLW	[DB] Betriebsstelle Velbert West (Hp Anst)
 EVM	Energieversorgung Mittelrhein
+EVM	extended verification module
 EVM	[IATA 3LC] Eveleth-Virginia Municipal Airport, Minnesota, United States of America
 EVN	Event Type (Nachrichtenart) [HL7 segment]
 EVN	[IATA 3LC] Yerevan (Zapadny), Armenia
@@ -20714,6 +20730,7 @@ GPOS	[RR] geographical position (27)
 GPR	general purpose register
 GPRS	general packet radio service
 GPS	GC1JY47 Rainbow’s End: Grand Prismatic Spring
+GPS	gegen politisches System
 GPS	generalised processor sharing
 GPS	Geographische Partei Saputziens
 GPS	global positioning system
@@ -21270,6 +21287,7 @@ HAA	[IATA 3LC] Hasvik, Norway
 HAAB	[ICAO 7910] Addis Abeba Bole Intl Airport, Addis Abeba, Ethiopia
 HAAK	[DB] Betriebsstelle Altenbeken (Kurve) Esig B/Asig Z (Bft)
 HAAM	[ICAO 7910] Arba Minch, Arba Minch, Ethiopia
+HAARP	Human Advanced Amphetamine Research Project
 HAAT	[DB] Betriebsstelle Altenbeken (Tunnel) Esig F/Asig X (Bft)
 HAAX	[ICAO 7910] Axum, Axum, Ethiopia
 HAB	[IATA 3LC] Hamilton (Marion County Airport), Alabama, United States of America
@@ -23393,7 +23411,9 @@ HRF	harp
 HRF	[Stw] (Hrf) [Dr S3(2)] Herne-Rottbruch (fs: Herne)
 HRF	[Stw] (Hrf) [Sp Dr S60] Hersbruck (rechts Pegnitz) (Nstp, Flb: Pommelsbrunn; Fsb: Lauf (rechts Pegnitz), Neunkirchen am Sand, Vorra, IB 22.10.1984)
 HRFD	[DB] Betriebsstelle Rechterfeld (Hp Anst)
+HRG	[EDU] Haupt‑, Real‑ und Gesamtschule (auch HRGe)
 HRG	[IATA 3LC] Hurghada, Egypt
+HRGE	(cf. HRG)
 HRH	Her Royal Highness
 HRH	His Royal Highness
 HRHA	[DB] Betriebsstelle Oldenburg (Oldb) Rhenus (Anst)
@@ -24678,6 +24698,7 @@ IM	[Kfz:A] Imst
 IM	[Kfz] Isle of Man (veraltet)
 IM	[Stw] (Im) [Sp Dr S60] Bremen Inlandshafen (Fdl: Ww; e, IB 29.07.1996)
 IMA	disc image
+IMA	integrity measurement architecture
 IMA	I’m a …
 IMA	I’m going to
 IMA	I’ve got to …
@@ -25246,7 +25267,9 @@ IUS	EBCDIC X'1F' Interchange Unit Separator (cf. ITB)
 IUS	[IATA 3LC] Inus, Solomon Islands
 IUSS	if you say so
 IV	in Vertretung
+IV	in vitro
 IV	initialisation vector
+IV	intravenous
 IV	[IATA 2LC] VG Airlines, Belgien
 IV	[IATA 2LC] VVB Aviation Malta, Malta
 IV	[IATA 2LC] Wind Jet, Italien
@@ -32304,6 +32327,7 @@ MD	mano destra, rechte Hand
 MD	Markdown
 MD	Medizinischer Dienst
 MD	MiniDisc
+MD	Multiple Device driver aka Linux Software RAID
 MD	MuseData
 MD	[ccTLD] Moldawien
 MD	[IATA 2LC] Air Madagascar, Madagaskar
@@ -35497,6 +35521,7 @@ NCRG	[ICAO 7910] Rarotonga Intl, Rarotonga, Cook Islands
 NCRS	[DB] Betriebsstelle Creidlitz Schenker Eurocargo (Anst)
 NCS	Novell Cluster Services
 NCS	[IATA 3LC] Newcastle, South Africa
+NCSA	National Center for Supercomputing Applications (NCSA) at University of Illinois Urbana-Champaign
 NCSA	[SPDX] University of Illinois/NCSA Open Source Licence – http://spdx.org/licenses/NCSA.html
 NCT	[IATA 3LC] Nicoya, Costa Rica
 NCU	[IATA 3LC] Nukus, Karakalpakstan, Uzbekhistan
@@ -38518,6 +38543,7 @@ OBVS	obviously
 OBX	Observation Result [HL7 segment]
 OBX	[IATA 3LC] Obo, Papua New Guinea
 OBY	[IATA 3LC] Scoresbysund, Greenland
+OC	Ocarina
 OC	Optical Carrier (OC-3 ≘ STM-1)
 OC	Orbe-Chavornay (cf. TRAVYS)
 OC	original character
@@ -38789,6 +38815,7 @@ OH	[Stw] (Oh) [mech Jü Kurb] Ohrdruf (Fdl: Fdl; EG, keine Asig, mech Jü für E
 OH	[Stw] (Oh) [Sp Dr S60] Hörne (fs: Osnabrück Hbf Po, IB 1964)
 OH	[Stw] (Oh) [SuH 1912] Berlin Osthafen (Fdl: Fdl; aB Fü)
 OH	[USA] Ohio
+OHA	Open Handset Alliance
 OHA	[Kfz:D] Landkreis Osterode am Harz
 OHC	[IATA 3LC] Northeast Cape, Alaska, United States of America
 OHCI	USB 1 open host controller interface
@@ -39120,6 +39147,7 @@ OOR	[IATA 3LC] Mooraberrie, Queensland, Australia
 OOSA	[ICAO 7910] Salalah, Salalah, Oman
 OOSE	object-oriented software engineering
 OOSOOM	out of sight, out of mind
+OOT	out of time
 OOT	[IATA 3LC] Onotoa, Kiribati
 OOTB	out of the box
 OOTH	[ICAO 7910] Thumrait AB, Thumrait, Oman
@@ -48690,6 +48718,7 @@ SWB	[Stw] (Swb) [mech] Schwedt (Oder) (aB e)
 SWC	[IATA 3LC] Stawell, Victoria, Australia
 SWCH	[DB] Betriebsstelle Waldrach (Bf a.B.)
 SWD	Schlagwortnormdatei
+SWD	serial wire debug
 SWD	[IATA 3LC] Seward Airport, Alaska, United States of America
 SWE	software engineer
 SWE	[DB] Betriebsstelle Wehr (Mosel) (Hp)
@@ -56726,7 +56755,9 @@ WTES	[DB] Betriebsstelle Teterow See (Hp)
 WTF	oh, it’s me! *g*
 WTF	was täte Fefe?
 WTF	Wassertruppführer
+WTF	welch typischer Fehler
 WTF	what the fact
+WTF	what the fake
 WTF	what the fuck
 WTF	when the fuck
 WTF	where the fuck
