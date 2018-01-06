@@ -1,5 +1,5 @@
   à/À á/Á ä/Ä å/Å æ/Æ ç/Ç è/È é/É í/Í ð/Ð ñ/Ñ ó/Ó ö/Ö ø/Ø ü/Ü þ/Þ ą/Ą ć/Ć ĉ/Ĉ č/Č đ/Đ ę/Ę ĝ/Ĝ ĥ/Ĥ ĵ/Ĵ ł/Ł ń/Ń ś/Ś ŝ/Ŝ š/Š ŭ/Ŭ ź/Ź ż/Ż ž/Ž α/Α ε/Ε κ/Κ λ/Λ ο/Ο π/Π ς/Σ σ/Σ υ/Υ а/А б/Б в/В г/Г д/Д е/Е з/З и/И й/Й к/К л/Л м/М н/Н о/О п/П р/Р с/С т/Т у/У ф/Ф х/Х ц/Ц ш/Ш э/Э ю/Ю қ/Қ ա/Ա հ/Հ յ/Յ ℒ/ℓ
- @(#)$MirOS: wtf/acronyms,v 1.630 2017/12/26 23:23:57 tg Exp $
+ @(#)$MirOS: wtf/acronyms,v 1.631 2018/01/06 23:19:25 tg Exp $
  From $NetBSD: acronyms,v 1.264 2017/12/02 01:36:38 ginsbach Exp $
  From $NetBSD: acronyms-o.real,v 1.6 2017/11/18 08:19:21 pgoyette Exp $
  From $NetBSD: acronyms.comp,v 1.187 2017/12/22 02:36:46 ginsbach Exp $
@@ -1667,6 +1667,7 @@ ACR	[IATA 3LC] Araracuara, Colombia
 ACRONYM	alphabetic collocation reducing or numbing your memory
 ACS	access control set
 ACS	[IATA 3LC] Anacortes, Washington, United States of America
+ACSL	ANSI/ISO C Specification Language
 ACST	[TZif] Australia/Adelaide
 ACST	[TZif] Australia/Broken_Hill
 ACST	[TZif] Australia/South
@@ -3628,6 +3629,7 @@ ASGR	[DB] Betriebsstelle Scheggerott (Bf)
 ASH	[IATA 3LC] Nashua (Boire Field), New Hampshire, United States of America
 ASH	[ICAO 8585] Mesa Airlines, USA
 ASHS	[DB] Betriebsstelle Hamburg-Stadthausbrücke (Bft)
+ASI	address space identifier
 ASI	antisocial
 ASI	asinine
 ASI	automatic semicolon insertion
@@ -8623,6 +8625,7 @@ CBZ	[IATA 3LC] Cabin Creek, Alaska, United States of America
 CC	C compiler
 CC	carbon coby
 CC	chakra control
+CC	Club Cola
 CC	Companion of the Order of Canada
 CC	control centre
 CC	CostCenter
@@ -9792,6 +9795,8 @@ CP	[IATA 2LC] Canadian Airlines International, Kanada
 CP	[IATA 2LC] Canadian Pacific Air Lines, Kanada
 CP	[IATA 2LC] Compass Airlines, USA
 CP	[IATA 2LC] CP Air, Kanada
+CP/M	control program for microcomputers
+CP/M	control program/monitor
 CP00	[Oracle] Database Capture Process
 CPA	[IATA 3LC] Cape Palmas, Liberia
 CPA	[ICAO 8585] Cathay Pacific, China
@@ -9824,7 +9829,9 @@ CPL	IBM Common Public Licence
 CPL	[IATA 3LC] Chaparral, Colombia
 CPL-1.0	[SPDX] Common Public Licence 1.0 — http://spdx.org/licenses/CPL-1.0.html
 CPLD	complex programmable logic device
+CPM	(cf. CP/M)
 CPM	Colonial Police Medal (Overseas Territories Police Medal)
+CPM	compressed power monolith
 CPM	[IATA 3LC] Compton Airport, California, United States of America
 CPN	[IATA 3LC] Cape Rooney, Papua New Guinea
 CPN	[ICAO 8585] Caspian Airlines, Iran
@@ -14060,6 +14067,7 @@ EC	[IATA 2LC] Heli-Inter, Frankreich
 EC	[IATA 2LC] OpenSkies, Großbritannien
 EC	[ISO 3166] Ecuador
 EC	[Kfz] Ecuador
+EC2	Amazon Elastic Compute Cloud
 ECA	[DB] Betriebsstelle Castrop-Rauxel Hbf (Bf)
 ECA	[GPSH] Erweiterte Cacheausrüstung
 ECA	[IATA 3LC] East Tawas (Iosco County Airport), Michigan, United States of America
@@ -14129,6 +14137,7 @@ ECPM	École européenne de chimie, polymères et matériaux
 ECR	electronic cash register
 ECR	[IATA 3LC] El Charco, Colombia
 ECRA	[DB] Betriebsstelle Crange (Abzw)
+ECS	EC2 Container Service (cf. EC2)
 ECS	Ecuadorian sucre (old ISO 4217 code)
 ECS	enhanced chip set
 ECS	extended configuration space
@@ -16776,6 +16785,7 @@ EX	[IATA 2LC] Thai Express Air, Thailand
 EX	[Kfz:A] Exekutive
 EXBO	[DB] Betriebsstelle Borken Grenze (Gp)
 EXBO	[DB] Betriebsstelle Bprken (Anst)
+EXC	Elite Xtreme Combat
 EXCL	exklusive
 EXD	examined
 EXDEV	(#18) Cross-device link
@@ -19373,6 +19383,7 @@ FUBAR	(metasyntactic variable, misspelling for FOOBAR)
 FUBAR	fucked up beyond all recognition
 FUC	Ferrovie Udine-Cividale
 FUCH	[DB] Betriebsstelle Rödermark-Urberach (Bf)
+FUCKWIT	forcefully unmap complete kernel with interrupt trampolines (cf. KAISER) (cf. UASS)
 FUD	fear, uncertainty and doubt
 FUE	[IATA 3LC] Fuerteventura, Canary Islands, Spain
 FUEB	[DB] Betriebsstelle Uebernthal (Hp)
@@ -21138,6 +21149,8 @@ GTE	[IATA 3LC] Groote Eylandt, Northern Territory, Australia
 GTF	[IATA 3LC] Great Falls International Airport, Montana, United States of America
 GTF	[Stw] (Gtf) [SuH 1912] Berlin Gartenfeld (Fdl: Fdl; aB SV)
 GTFO	get the fuck out
+GTFOOMH	get the fuck out of my head
+GTFOOMH	get the fuck out of my house
 GTG	got to go
 GTG	[IATA 3LC] Grantsburg Municipal Airport, Wisconsin, United States of America
 GTH	go to hell
@@ -26168,7 +26181,7 @@ KAHN	[ICAO 7910] Athens-Ben Epps Airport, Athens, Georgia, USA
 KAI	PT Kereta Api Indonesia (Persero)
 KAI	[dental] Kauflächen, Außenflächen, Innenflächen (Zahnputztechnik)
 KAI	[IATA 3LC] Kaieteur, Guyana
-KAISER	kernel address isolation to have side-channels efficiently removed
+KAISER	kernel address isolation to have side-channels efficiently removed (cf. KPTI)
 KAJ	[IATA 3LC] Kajaani, Finland
 KAJ	[ICAO 8585] Karthago Airlines, Tunesien
 KAK	[DB] Betriebsstelle Altenkirchen (Westerwald) (Bf)
@@ -28075,6 +28088,7 @@ KPSM	[ICAO 7910] Pease Intl Tradeport Airport, Portsmouth, New Hampshire, USA
 KPSP	[ICAO 7910] Palm Springs Intl Airport, Palm Springs, California, USA
 KPSS	(cf. KPdSU) (cf. KПCC)
 KPT	[IATA 3LC] Jackpot Airport (Hayden Field), Nevada, United States of America
+KPTI	kernel page table isolation (cf. KAISER)
 KPUD	[DB] Betriebsstelle Puderbach (Bf)
 KPUF	[DB] Betriebsstelle Puffendorf (Bf)
 KPUL	[DB] Betriebsstelle Pulheim (Bf)
@@ -32659,6 +32673,7 @@ ME	[Stw] (Me) [mech E] Melsdorf (Fdl: Fdl; aB zdg, IB 1941, AB 10/1992)
 ME	[USA] Maine
 MEA	[IATA 3LC] Macae, Rio de Janeiro, Brazil
 MEA	[ICAO 8585] Middle East Airlines, Libanon
+MEAN	mongoDB express.js Angular.JS node.js
 MEARTHSCI	Master of Earth Science
 MEB	[DB] Betriebsstelle Eichstätt Bahnhof (Bf)
 MEB	[IATA 3LC] Essendon, Melbourne, Victoria, Australia
@@ -34125,6 +34140,7 @@ MP S	[DB] Betriebsstelle München-Pasing S-Bahn (Bft)
 MP W	[DB] Betriebsstelle München-Pasing West Vorstellgl.20 (Bft)
 MP-BSZ	[Stw] [Prozessrechner] München-Pasing BSZ (aB, im ehem Direktionsgebäude (Fdl West), Fsb: Weßling, Herrsching, Puchheim, Grafrath, Gauting, Starnberg, Tutzing, Fürstenfeldbruck, Freiham, AB 12/2011)
 MP-RAGE	magnetisation prepared rapid gradient echo
+MP/M	multi-programming monitor control program
 MPA	Master of Public Administration
 MPA	[IATA 3LC] Mpacha, Namibia
 MPAR	[DB] Betriebsstelle Paar (Hp)
@@ -39349,6 +39365,7 @@ OOMA	[ICAO 7910] Masirah AB, Masirah, Oman
 OOMS	[ICAO 7910] Seeb Intl, Muscat, Oman
 OONR	[ICAO 7910] Marmul, Marmul, Oman
 OOO	OpenOffice.org
+OOO	out of order
 OOP	object-oriented programming
 OOP	[HP] Order of the Phœnix
 OOPS	object-oriented programming systems
@@ -39947,6 +39964,7 @@ P3	[IATA 2LC] Premier Trans Aire, USA
 P3	[Stw] [mech] Dol-de-Bretagne SNCF (e)
 P4	Perforce
 P4	[IATA 2LC] Aerolíneas Sosa, Honduras
+P4D	(forth level of page table indirection on systems with five levels, just below PGD and above PUD)
 P5	[IATA 2LC] AeroRepública, Kolumbien
 P5	[IATA 2LC] Copa Airlines Colombia, Kolumbien
 P6	[IATA 2LC] Pascan Aviation, Kanada
@@ -40513,6 +40531,7 @@ PGAS	partitioned global address space
 PGB	[IATA 3LC] Pangoa, Papua New Guinea
 PGC	Professional Graphics Controller
 PGC	[IATA 3LC] Petersburg (Grant County), West Virginia, United States of America
+PGD	page global directory
 PGD	[IATA 3LC] Punta Gorda (Charlotte County), Florida, United States of America
 PGDIP	Postgraduate Diploma
 PGDN	page down
@@ -40776,6 +40795,10 @@ PL	[Kfz:A] St. Pölten-Land
 PL	[Kfz:D] Landkreis Plauen
 PL	[Kfz] Polen
 PL	[RRIP] parent link
+PL/1	(cf. PL/Ⅰ)
+PL/I	(cf. PL/Ⅰ)
+PL/M	programming language for microcomputers
+PL/Ⅰ	Programming Language One
 PLA	Programmable Logic Array
 PLA	[IATA 3LC] Planadas, Colombia
 PLB	personal locator beacon
@@ -40874,6 +40897,7 @@ PMB	[IATA 3LC] Pembina Municipal Airport, North Dakota, United States of America
 PMBOK	project management body of knowledge
 PMC	project management committee
 PMC	[IATA 3LC] Puerto Montt (El Tepual), Chile
+PMD	page middle directory
 PMD	poor man’s debugging (aka printf)
 PMD	Program Management Directive
 PMD	[IATA 3LC] Palmdale (Air Force), California, United States of America
@@ -41161,6 +41185,7 @@ POT	[IATA 3LC] Port Antonio, Jamaica
 POT	[ICAO 8585] Polet Airlines, Rußland
 POT	[Stw] (Pot) [GS II Sp64b] Priort (aB, IB 23.09.1969, AB 13.11.2009)
 POTS	plain old telephone system
+POTUS	President of the United States of America
 POU	[IATA 3LC] Poughkeepsie (Dutchess County), New York, United States of America
 POU	[Stw] (Pou) [E 12/78] Berlin Potsdamer Platz (Fdl: Fdl; aB S SV, AB 2005)
 POUND	[HTML] pound sign (pound)
@@ -41695,6 +41720,7 @@ PUA	[ICAO 8585] PLUNA, Uruguay
 PUB	[IATA 3LC] Pueblo Memorial Airport, Colorado, United States of America
 PUC	post urbem conditam (cf. a.u.c.)
 PUC	[IATA 3LC] Price (Carbon County Airport), Utah, United States of America
+PUD	page upper directory
 PUD	probability of an undetected error (false negative)
 PUD	[IATA 3LC] Puerto Deseado, Argentina
 PUDC	probability of an error undetected by the check sequence, relates to (cf. PUD)
@@ -45630,6 +45656,7 @@ SCOGS	select committee on GRAS substances
 SCOOT	split cycle offset optimisation technique
 SCORE	(cf. SCROE)
 SCORPIO	[Zodiac] Skorpion (Σκορπίος), 225°, 23.10.–22.11., Herbst, Mannheit, Nord, Wasser, feucht + kalt, zähe, Schleim, phlegmatisch, weiß
+SCOTUS	Supreme Court of the United States of America
 SCP	secure copy
 SCP	Service Class Provider
 SCP	[IATA 3LC] St.-Crepin, France
@@ -48048,6 +48075,7 @@ STANDARDML-NJ	[SPDX] (deprecated) Standard ML of New Jersey Licence — http
 START	Studiengesellschaft zur Automatisierung von Reise und Touristik
 STASH	Soziale Träger Angenehmer Sybillinischer Halbwahrheiten
 STASI	Staatssicherheit
+STAT	statim (immediately, med.)
 STAT	station
 STAT	Statistics
 STAT	status
@@ -51823,6 +51851,7 @@ UAS	[DB] Betriebsstelle Auerstedt (Hp)
 UAS	[IATA 3LC] Samburu, Kenya
 UASD	[DB] Betriebsstelle Arnstadt Süd (Hp)
 UASP	USB attached SCSI protocol
+UASS	user address space separation (cf. KAISER) (cf. FUCKWIT)
 UAT	user acceptance testing
 UAT	[DB] Betriebsstelle Artern (Bf)
 UATG	[ICAO 7910] Atyrau, Atyrau, Kazakhstan
@@ -53438,6 +53467,7 @@ VCT	[IATA 3LC] Victoria Regional Airport, Texas, United States of America
 VCV	[IATA 3LC] Victorville (George Air Force Base), California, United States of America
 VCV	[ICAO 8585] Conviasa, Venezuela
 VCW	[IATA 3LC] Colonial Williamsburg, Virginia, United States of America
+VD	(cf. VD 16) (cf. VD 17)
 VD	Vertrauliche Dienstsache
 VD	[CH] de-CH: Wadt
 VD	[CH] de: Waadt
@@ -53446,6 +53476,8 @@ VD	[CH] rm: Vad
 VD	[IATA 2LC] Air Liberté, Frankreich
 VD	[IATA 2LC] Kunpeng Airlines, China
 VD	[Kfz:A] Diplomatisches Korps in Vorarlberg
+VD 16	Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 16. Jahrhunderts
+VD 17	Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts
 VDA	[IATA 3LC] Ovda (Eilat/International), Israel
 VDA	[ICAO 8585] Volga-Dnepr Airlines, Rußland
 VDAK	Verband der Angestellten-Krankenkassen e.V.; umbenannt in: (cf. vdek)
