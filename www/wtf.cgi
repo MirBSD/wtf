@@ -1,5 +1,5 @@
 #!/usr/bin/perl -T
-my $rcsid = '$MirOS: wtf/www/wtf.cgi,v 1.22 2017/07/01 01:25:32 tg Exp $';
+my $rcsid = '$MirOS: wtf/www/wtf.cgi,v 1.23 2018/08/10 02:54:24 tg Exp $';
 #-
 # Copyright © 2012, 2014, 2015, 2017
 #	mirabilos <m@mirbsd.org>
@@ -101,7 +101,7 @@ if ($query ne "") {
 	foreach $a (@pairs){
 		# split slash-separated word pair
 		my @pair = split /\//, $a;
-		# manual Unicode uppercasing
+		# manual UCS uppercasing
 		$query =~ s/$pair[0]/$pair[1]/g;
 	}
 
