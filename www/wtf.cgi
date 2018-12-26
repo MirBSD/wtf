@@ -1,5 +1,5 @@
 #!/usr/bin/perl -T
-my $rcsid = '$MirOS: wtf/www/wtf.cgi,v 1.23 2018/08/10 02:54:24 tg Exp $';
+my $rcsid = '$MirOS: wtf/www/wtf.cgi,v 1.24 2018/12/26 00:06:03 tg Exp $';
 #-
 # Copyright © 2012, 2014, 2015, 2017
 #	mirabilos <m@mirbsd.org>
@@ -137,7 +137,7 @@ if ($query ne "") {
 	    $enc . " acronym\" /><input type=\"submit\" value=\"Web search: " .
 	    $enc . "\" />\n</p></form>\n<p>DuckDuckGo is a search engine " .
 	    "with more privacy and lots of\n features. This search is " .
-	    "external content, not part of MirOS.</p>";
+	    "external content, not part of MirBSD.</p>";
 }
 close(ACRONYMS);
 
