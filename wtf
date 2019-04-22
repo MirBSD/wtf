@@ -1,5 +1,5 @@
 #!/bin/mksh
-myver='$MirOS: wtf/wtf,v 1.37 2019/04/18 13:42:21 tg Exp $'
+myver='$MirOS: wtf/wtf,v 1.38 2019/04/22 02:46:33 tg Exp $'
 # $NetBSD: wtf,v 1.7 2000/11/21 00:18:52 soren Exp $
 #-
 # Copyright © 2002, 2003, 2004, 2006, 2007, 2008, 2010, 2011,
@@ -232,13 +232,17 @@ if (( use_acronyms )); then
 			elif [[ $line > "$s	" ]]; then
 				continue 2
 			fi
-			IFS= read -pr line || break 2
+			if ! IFS= read -pr line; then
+				i=-1
+				break 2
+			fi
 		done
 	done
+	# avoid SIGPIPE
+	(( i == -1 )) || read -prN-1 line
+	line=
 
 	i=0
-	# avoid SIGPIPE
-	read -prN-1 line
 fi
 
 rv=0
