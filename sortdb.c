@@ -29,7 +29,7 @@
 #include <wchar.h>
 #include <wctype.h>
 
-__RCSID("$MirOS: wtf/sortdb.c,v 1.1 2019/08/15 01:49:59 tg Exp $");
+__RCSID("$MirOS: wtf/sortdb.c,v 1.2 2019/08/15 02:01:09 tg Exp $");
 
 #define MAXCASECONV 512
 struct cconv {
@@ -52,7 +52,8 @@ size_t nilines = 0;
 wchar_t acro[MAXACRO];
 
 #define MAXTAGS 1024
-wchar_t tags[MAXTAGS];
+wchar_t atags[MAXTAGS];
+wchar_t etags[MAXTAGS];
 
 #define get(ofs) __extension__({			\
 	size_t get_ofs = (ofs);				\
@@ -122,7 +123,7 @@ main(int argc, char *argv[])
 {
 	wchar_t *cwp, cw, *dwp, *twp;
 	uint8_t *ibuf, c;
-	size_t len, bp, cp, tp;
+	size_t len, bp, cp, atp, etp;
 	int fd, rv = 0;
 	struct stat sb;
 
@@ -258,7 +259,8 @@ main(int argc, char *argv[])
 				errx(2, "raise %s and recompile", "MAXACRO");
 		}
 		acro[cp] = L'\0';
-		tp = 0;
+		atp = 0;
+		etp = 0;
  parse_line:
 		if (!(cw = *cwp++))
 			goto end_of_line;
@@ -266,14 +268,14 @@ main(int argc, char *argv[])
 			goto parse_line;
 		if (cw == L'[' && wcschr(cwp, L']')) {
 			/* leading tag */
-			if (tp) {
+			if (atp) {
 				/* space stuffing between tags */
 				--cwp;
 				cw = L' ';
 			}
  stuff_tag:
-			tags[tp++] = cw;
-			if (tp == MAXTAGS)
+			atags[atp++] = cw;
+			if (atp == MAXTAGS)
 				errx(2, "raise %s and recompile", "MAXTAGS");
 			if (cw == L']')
 				goto parse_line;
@@ -298,15 +300,15 @@ main(int argc, char *argv[])
 			goto check_trailing;
 		}
 		if (*twp) {
-			if (tp) {
+			if (etp) {
  stuff_trailing_tag:
 				cw = L' ';
 			} else {
  stuff_trt_content:
 				cw = *twp++;
 			}
-			tags[tp++] = cw;
-			if (tp == MAXTAGS)
+			etags[etp++] = cw;
+			if (etp == MAXTAGS)
 				errx(2, "raise %s and recompile", "MAXTAGS");
 			if (cw != L']')
 				goto stuff_trt_content;
@@ -321,33 +323,41 @@ main(int argc, char *argv[])
 		if (0)
  end_of_line:
 		  bp = wcslen(cwp);
-		tags[tp] = L'\0';
+		atags[atp] = L'\0';
+		etags[etp] = L'\0';
 		if (!bp) {
 			warnx("line %zu has no content, only tags: %ls",
 			    nlines + 1, ilines[nlines]);
 			rv = 3;
 		}
 
-		lines[nlines].literal = calloc(cp + 1 + bp + 1 + tp + 1,
-		    sizeof(wchar_t));
-		dwp = calloc(cp + 1 + bp + 1 + tp + 1,
-		    sizeof(wchar_t));
+		len = cp + 1 + atp + 1 + bp + 1 + etp + 1;
+		lines[nlines].literal = calloc(len, sizeof(wchar_t));
+		dwp = calloc(len, sizeof(wchar_t));
 		memcpy(lines[nlines].literal, acro, cp * sizeof(wchar_t));
 		memcpy(dwp, acro, cp * sizeof(wchar_t));
 		lines[nlines].literal[cp] = L'\t';
 		dwp[cp] = L'\t';
 		++cp;
 		memcpy((twp = dwp + cp), cwp, bp * sizeof(wchar_t));
-		if (tp) {
+		if (atp) {
 			dwp[cp + bp] = L' ';
-			memcpy(dwp + cp + bp + 1, tags,
-			    tp * sizeof(wchar_t));
-			memcpy(lines[nlines].literal + cp, tags,
-			    tp * sizeof(wchar_t));
-			cp += tp;
+			memcpy(dwp + cp + bp + 1, atags,
+			    atp * sizeof(wchar_t));
+			memcpy(lines[nlines].literal + cp, atags,
+			    atp * sizeof(wchar_t));
+			cp += atp;
 			lines[nlines].literal[cp++] = L' ';
 		}
 		memcpy(lines[nlines].literal + cp, cwp, bp * sizeof(wchar_t));
+		if (etp) {
+			dwp[cp + bp] = L' ';
+			memcpy(dwp + cp + bp + 1, etags,
+			    etp * sizeof(wchar_t));
+			lines[nlines].literal[cp + bp] = L' ';
+			memcpy(lines[nlines].literal + cp + bp + 1, etags,
+			    etp * sizeof(wchar_t));
+		}
 
 		while ((cw = *twp))
 			*twp++ = towupper(cw);
