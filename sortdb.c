@@ -29,7 +29,7 @@
 #include <wchar.h>
 #include <wctype.h>
 
-__RCSID("$MirOS: wtf/sortdb.c,v 1.2 2019/08/15 02:01:09 tg Exp $");
+__RCSID("$MirOS: wtf/sortdb.c,v 1.3 2019/08/16 20:58:12 tg Exp $");
 
 #define MAXCASECONV 512
 struct cconv {
@@ -38,10 +38,18 @@ struct cconv {
 } caseconv[MAXCASECONV];
 size_t ncaseconv = 0;
 
+const char null[] = "";
+
 #define MAXLINES 1048576
 struct line {
-	wchar_t *literal;
-	char *compare;
+	/* null for comment lines (not dup-checked) */
+	const char *acronym;
+	/* string as output to the acronyms data file */
+	const char *literal;
+	/* string used during sorting (uppercased literal, tags at end) */
+	char *sorting;
+	/* string used for dup checking (sorting minus tags, cf. parens) */
+	char *dupbase;
 } lines[MAXLINES];
 size_t nlines = 0;
 
@@ -75,7 +83,7 @@ line_compar(const void *aa, const void *bb)
 	const struct line *a = (const struct line *)aa;
 	const struct line *b = (const struct line *)bb;
 
-	return (strcmp(a->compare, b->compare));
+	return (strcmp(a->sorting, b->sorting));
 }
 
 static int
@@ -236,8 +244,10 @@ main(int argc, char *argv[])
 				rv = 3;
 			}
  firstline:
-			lines[nlines].literal = cwp;
-			lines[nlines].compare = awcstombs(cwp);
+			lines[nlines].acronym = null;
+			lines[nlines].literal = lines[nlines].sorting =
+			    awcstombs(cwp);
+			lines[nlines].dupbase = NULL;
 			++nlines;
 			continue;
 		}
@@ -331,37 +341,81 @@ main(int argc, char *argv[])
 			rv = 3;
 		}
 
+		lines[nlines].acronym = awcstombs(acro);
 		len = cp + 1 + atp + 1 + bp + 1 + etp + 1;
-		lines[nlines].literal = calloc(len, sizeof(wchar_t));
 		dwp = calloc(len, sizeof(wchar_t));
-		memcpy(lines[nlines].literal, acro, cp * sizeof(wchar_t));
+		/* construct the literal */
 		memcpy(dwp, acro, cp * sizeof(wchar_t));
-		lines[nlines].literal[cp] = L'\t';
-		dwp[cp] = L'\t';
-		++cp;
-		memcpy((twp = dwp + cp), cwp, bp * sizeof(wchar_t));
+		dwp[cp++] = L'\t';
+		/* for recall of divergence point */
+		twp = dwp + cp;
 		if (atp) {
-			dwp[cp + bp] = L' ';
-			memcpy(dwp + cp + bp + 1, atags,
-			    atp * sizeof(wchar_t));
-			memcpy(lines[nlines].literal + cp, atags,
-			    atp * sizeof(wchar_t));
-			cp += atp;
-			lines[nlines].literal[cp++] = L' ';
+			memcpy(twp, atags, atp * sizeof(wchar_t));
+			twp += atp;
+			*twp++ = L' ';
 		}
-		memcpy(lines[nlines].literal + cp, cwp, bp * sizeof(wchar_t));
+		memcpy(twp, cwp, bp * sizeof(wchar_t));
+		twp += bp;
 		if (etp) {
-			dwp[cp + bp] = L' ';
-			memcpy(dwp + cp + bp + 1, etags,
-			    etp * sizeof(wchar_t));
-			lines[nlines].literal[cp + bp] = L' ';
-			memcpy(lines[nlines].literal + cp + bp + 1, etags,
-			    etp * sizeof(wchar_t));
+			*twp++ = L' ';
+			memcpy(twp, etags, etp * sizeof(wchar_t));
+			twp += etp;
 		}
-
+		*twp = L'\0';
+		lines[nlines].literal = awcstombs(dwp);
+		/* now the other order for sorting */
+		twp = dwp + cp;
+		memcpy(twp, cwp, bp * sizeof(wchar_t));
+		twp += bp;
+		if (atp) {
+			*twp++ = L' ';
+			memcpy(twp, atags, atp * sizeof(wchar_t));
+			twp += atp;
+		}
+		if (etp) {
+			*twp++ = L' ';
+			memcpy(twp, etags, etp * sizeof(wchar_t));
+			twp += etp;
+		}
+		*twp = L'\0';
+		/* uppercase for case-insensitive sorting */
+		twp = dwp;
 		while ((cw = *twp))
 			*twp++ = towupper(cw);
-		lines[nlines++].compare = awcstombs(dwp);
+		lines[nlines].sorting = awcstombs(dwp);
+		/* back up to remove tags */
+		twp = dwp + cp;
+		cwp = twp + bp;
+ do_dupbase:
+		/* and parenthesis-surrounded links */
+		do {
+			*cwp-- = L'\0';
+		} while (cwp > twp && iswspace(*cwp));
+		while (cwp > twp && *cwp == /*(*/')') {
+			wchar_t *pwp = wcsrchr(twp, '('/*)*/);
+			if (pwp == NULL || wcsncmp(pwp, L"(CF. "/*)*/, 5))
+				/* not a cf. reference — ignore */
+				break;
+			if (pwp == twp) {
+				/* expansion consists only of (cf. XXX) */
+				/* kinda bad, we’d really like to keep all */
+				/* keep only first, for now… */
+#if 1
+				fprintf(stderr, "I: #%zu empty <%s>\n",
+				    nlines + 1, lines[nlines].literal);
+#endif
+				break;
+			}
+			cwp = pwp;
+			goto do_dupbase;
+		}
+		lines[nlines].dupbase = awcstombs(dwp);
+#if 0
+		fprintf(stderr, "D: #%zu acronym<%s>\nliteral<%s>\nsorting<%s>\ndupbase<%s>\n",
+		    nlines + 1, lines[nlines].acronym, lines[nlines].literal,
+		    lines[nlines].sorting, lines[nlines].dupbase);
+#endif
+		++nlines;
 		free(dwp);
 	}
 
@@ -369,7 +423,7 @@ main(int argc, char *argv[])
 		err(1, "mergesort lines");
 
 	for (nlines = 0; nlines < nilines; ++nlines)
-		printf("%ls\n", lines[nlines].literal);
+		printf("%s\n", lines[nlines].literal);
 
 	return (rv);
 }
