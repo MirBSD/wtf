@@ -29,7 +29,7 @@
 #include <wchar.h>
 #include <wctype.h>
 
-__RCSID("$MirOS: wtf/sortdb.c,v 1.3 2019/08/16 20:58:12 tg Exp $");
+__RCSID("$MirOS: wtf/sortdb.c,v 1.4 2019/08/16 21:13:46 tg Exp $");
 
 #define MAXCASECONV 512
 struct cconv {
@@ -62,6 +62,9 @@ wchar_t acro[MAXACRO];
 #define MAXTAGS 1024
 wchar_t atags[MAXTAGS];
 wchar_t etags[MAXTAGS];
+
+/* fix if running on not MirBSD */
+uint8_t saw_upper[sizeof(wchar_t) == 2 ? 65536 : -1];
 
 #define get(ofs) __extension__({			\
 	size_t get_ofs = (ofs);				\
@@ -135,6 +138,17 @@ main(int argc, char *argv[])
 	int fd, rv = 0;
 	struct stat sb;
 
+	memset(saw_upper, 0, sizeof(saw_upper));
+	for (fd = 'A'; fd <= 'Z'; ++fd)
+		++saw_upper[fd];
+	/* whitelist */
+	++saw_upper[0x0130]; /* capital turkish dotted i */
+	++saw_upper[0x212A]; /* Kelvin sign */
+	for (fd = 0x2160; fd <= 0x216F; ++fd)
+		++saw_upper[fd]; /* roman numeral */
+	++saw_upper[0x2183]; /* roman numeral */
+	++saw_upper[0x24BB]; /* circled letter */
+
 	if (argc != 2) {
 		fprintf(stderr, "Syntax: %s acronyms\n",
 		    argv[0] ? argv[0] : "sortdb");
@@ -195,6 +209,8 @@ main(int argc, char *argv[])
 		cu = cwp[3];
 		if (cl == L'ℒ' && cu == L'ℓ')
 			goto caseconv_checks_done;
+		if (cl == L'ß' && cu == L'ẞ')
+			goto caseconv_checks_done;
 		clu = towupper(cl);
 		cul = towlower(cu);
 
@@ -217,6 +233,7 @@ main(int argc, char *argv[])
 		caseconv[ncaseconv].upper = cu;
 		if (++ncaseconv == MAXCASECONV)
 			errx(2, "raise %s and recompile", "MAXCASECONV");
+		++saw_upper[cu];
 		cwp += 4;
 	} while (*cwp);
 
@@ -264,7 +281,15 @@ main(int argc, char *argv[])
 				/* skip period after upper-cased latin */
 				continue;
 			}
-			acro[cp++] = acro_toupper(cw);
+			acro[cp++] = cw = acro_toupper(cw);
+			if (!saw_upper[cw]) {
+				if (iswupper(cw)) {
+					warnx("line %zu ucase %04X not handled",
+					    nlines + 1, cw);
+					rv = 3;
+				}
+				++saw_upper[cw];
+			}
 			if (cp == MAXACRO)
 				errx(2, "raise %s and recompile", "MAXACRO");
 		}
@@ -400,7 +425,7 @@ main(int argc, char *argv[])
 				/* expansion consists only of (cf. XXX) */
 				/* kinda bad, we’d really like to keep all */
 				/* keep only first, for now… */
-#if 1
+#if 0
 				fprintf(stderr, "I: #%zu empty <%s>\n",
 				    nlines + 1, lines[nlines].literal);
 #endif
