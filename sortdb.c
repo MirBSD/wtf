@@ -29,7 +29,7 @@
 #include <wchar.h>
 #include <wctype.h>
 
-__RCSID("$MirOS: wtf/sortdb.c,v 1.4 2019/08/16 21:13:46 tg Exp $");
+__RCSID("$MirOS: wtf/sortdb.c,v 1.5 2019/08/16 21:46:39 tg Exp $");
 
 #define MAXCASECONV 512
 struct cconv {
@@ -47,9 +47,9 @@ struct line {
 	/* string as output to the acronyms data file */
 	const char *literal;
 	/* string used during sorting (uppercased literal, tags at end) */
-	char *sorting;
+	const char *sorting;
 	/* string used for dup checking (sorting minus tags, cf. parens) */
-	char *dupbase;
+	const char *dupbase;
 } lines[MAXLINES];
 size_t nlines = 0;
 
@@ -264,7 +264,7 @@ main(int argc, char *argv[])
 			lines[nlines].acronym = null;
 			lines[nlines].literal = lines[nlines].sorting =
 			    awcstombs(cwp);
-			lines[nlines].dupbase = NULL;
+			lines[nlines].dupbase = null;
 			++nlines;
 			continue;
 		}
@@ -447,8 +447,22 @@ main(int argc, char *argv[])
 	if (mergesort(lines, nlines, sizeof(struct line), line_compar))
 		err(1, "mergesort lines");
 
-	for (nlines = 0; nlines < nilines; ++nlines)
+	nlines = 0;
+	goto into_the_loop;
+	while (++nlines < nilines) {
+		if (lines[nlines - 1].dupbase != null &&
+		    lines[nlines].dupbase != null &&
+		    !strcmp(lines[nlines - 1].dupbase, lines[nlines].dupbase)) {
+			fprintf(stderr, "W: duplicate base string <%s>:\n"
+			    "N: #%zu <%s>\nN: #%zu <%s>\n",
+			    lines[nlines].dupbase,
+			    nlines - 1 + 1, lines[nlines - 1].literal,
+			    nlines + 1, lines[nlines].literal);
+			rv = 3;
+		}
+ into_the_loop:
 		printf("%s\n", lines[nlines].literal);
+	}
 
 	return (rv);
 }
