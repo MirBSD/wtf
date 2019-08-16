@@ -29,7 +29,7 @@
 #include <wchar.h>
 #include <wctype.h>
 
-__RCSID("$MirOS: wtf/sortdb.c,v 1.5 2019/08/16 21:46:39 tg Exp $");
+__RCSID("$MirOS: wtf/sortdb.c,v 1.6 2019/08/16 21:52:51 tg Exp $");
 
 #define MAXCASECONV 512
 struct cconv {
@@ -137,6 +137,7 @@ main(int argc, char *argv[])
 	size_t len, bp, cp, atp, etp;
 	int fd, rv = 0;
 	struct stat sb;
+	size_t nacro = 0, nexpn = 0;
 
 	memset(saw_upper, 0, sizeof(saw_upper));
 	for (fd = 'A'; fd <= 'Z'; ++fd)
@@ -460,9 +461,16 @@ main(int argc, char *argv[])
 			    nlines + 1, lines[nlines].literal);
 			rv = 3;
 		}
+		if (lines[nlines].acronym != null) {
+			if (strcmp(lines[nlines - 1].acronym,
+			    lines[nlines].acronym))
+				++nacro;
+			++nexpn;
+		}
  into_the_loop:
 		printf("%s\n", lines[nlines].literal);
 	}
 
+	fprintf(stderr, "I: %zu acronyms with %zu expansions\n", nacro, nexpn);
 	return (rv);
 }
