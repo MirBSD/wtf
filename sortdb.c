@@ -29,7 +29,7 @@
 #include <wchar.h>
 #include <wctype.h>
 
-__RCSID("$MirOS: wtf/sortdb.c,v 1.6 2019/08/16 21:52:51 tg Exp $");
+__RCSID("$MirOS: wtf/sortdb.c,v 1.7 2019/08/16 21:55:28 tg Exp $");
 
 #define MAXCASECONV 512
 struct cconv {
@@ -405,7 +405,7 @@ main(int argc, char *argv[])
 		}
 		*twp = L'\0';
 		/* uppercase for case-insensitive sorting */
-		twp = dwp;
+		twp = dwp + cp;
 		while ((cw = *twp))
 			*twp++ = towupper(cw);
 		lines[nlines].sorting = awcstombs(dwp);
