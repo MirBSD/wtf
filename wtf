@@ -1,5 +1,5 @@
 #!/bin/mksh
-myver='$MirOS: wtf/wtf,v 1.39 2020/01/22 19:06:10 tg Exp $'
+myver='$MirOS: wtf/wtf,v 1.40 2020/01/22 19:06:43 tg Exp $'
 # $NetBSD: wtf,v 1.7 2000/11/21 00:18:52 soren Exp $
 #-
 # Copyright © 2002, 2003, 2004, 2006, 2007, 2008, 2010, 2011,
@@ -106,7 +106,7 @@ if (( show_ver )); then
 	exit 0
 fi
 
-(( $# > 1 )) && [[ $1 = is || $1 = ist ]] && shift
+(( $# > 1 )) && [[ $1 = is?(t) ]] && shift
 (( $# < 1 )) && usage
 
 if (( use_ports )); then
