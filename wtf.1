@@ -1,8 +1,8 @@
-.\" $MirOS: wtf/wtf.1,v 1.26 2019/04/18 13:48:22 tg Exp $
+.\" $MirOS: wtf/wtf.1,v 1.27 2020/01/22 19:06:10 tg Exp $
 .\" $NetBSD: wtf.6,v 1.4 2001/04/02 22:42:40 wiz Exp $
 .\"-
 .\" Copyright © 2002, 2003, 2006, 2010, 2011, 2012, 2014, 2015,
-.\"		2016, 2017, 2018, 2019
+.\"		2016, 2017, 2018, 2019, 2020
 .\"	mirabilos <m@mirbsd.org>
 .\"
 .\" Provided that these terms and disclaimer and all copyright notices
@@ -76,7 +76,7 @@
 .\" with -mandoc, it might implement .Mx itself, but we want to
 .\" use our own definition. And .Dd must come *first*, always.
 .\"
-.Dd $Mdocdate: April 18 2019 $
+.Dd $Mdocdate: January 22 2020 $
 .\"
 .\" Check which macro package we use, and do other -mdoc setup.
 .\"
@@ -189,7 +189,7 @@
 .Nd translates acronyms for you
 .Sh SYNOPSIS
 .Nm
-.Op Fl adPpw
+.Op Fl adPpwy
 .Op Fl f Ar dbfile
 .Op is \*(Ba ist
 .Ar acronym Ar ...
@@ -230,6 +230,22 @@ and the acronyms database.
 .It Fl w
 Search with
 .Nm whatis .
+.It Fl y
+Show reverse dependencies of packages
+.Pq currently Nm dpkg Ns -only ;
+\%every search term
+.Pq Dq Ar acronym
+is treated as package pattern.
+.Pp
+Alternative dependencies are prefixed with a pipe sign
+.Pq Sq \*(Ba\& ,
+\%unconditional ones with a space.
+Package relationships are de\%duplicated per (real or virtual) package
+expanded from the pattern: unconditional implies alternative, (Pre-)Depends
+silence Recommends imply Suggests beat Enhanced-By.
+.Pp
+Virtual and not installed packages show up as
+.Dq Li "[no version]" .
 .El
 .Pp
 To disable an option, prefix it with a plus sign
@@ -316,6 +332,13 @@ All lines without a HT (tab) character are considered comment lines.
 The file must be sorted ASCIIbetically for the first column.
 The list of additional lower/upper-case pairs (separated by spaces) must
 be on the first line, with two leading spaces (so it sorts first).
+.Pp
+The
+.Fl y
+functionality currently ignores any architecture qualifiers on package
+names, both in dpkg's package database and in the package relationships.
+This is because it's implemented without requiring \%libdpkg\-perl and in
+a portable way in shell.
 .Sh FEEDBACK
 .An mirabilos Aq m@mirbsd.org
 maintains
