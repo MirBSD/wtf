@@ -1,5 +1,5 @@
 #!/usr/bin/perl -T
-my $rcsid = '$MirOS: wtf/www/wtf.cgi,v 1.25 2020/01/31 22:18:31 tg Exp $';
+my $rcsid = '$MirOS: wtf/www/wtf.cgi,v 1.26 2020/01/31 22:19:20 tg Exp $';
 #-
 # Copyright © 2012, 2014, 2015, 2017, 2020
 #	mirabilos <m@mirbsd.org>
@@ -44,7 +44,7 @@ if ((-r $db) && (-r $template) &&
 	exit(1);
 }
 
-my $output = "";
+my $output = "<p id=\"serp\">(no or invalid query)</p>";
 my $query = "";
 my @results = ();
 
