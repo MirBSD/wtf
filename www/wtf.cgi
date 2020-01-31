@@ -1,7 +1,7 @@
 #!/usr/bin/perl -T
-my $rcsid = '$MirOS: wtf/www/wtf.cgi,v 1.24 2018/12/26 00:06:03 tg Exp $';
+my $rcsid = '$MirOS: wtf/www/wtf.cgi,v 1.25 2020/01/31 22:18:31 tg Exp $';
 #-
-# Copyright © 2012, 2014, 2015, 2017
+# Copyright © 2012, 2014, 2015, 2017, 2020
 #	mirabilos <m@mirbsd.org>
 # Copyright © 2017
 #	<RT|Chatzilla> via IRC
@@ -21,7 +21,7 @@ my $rcsid = '$MirOS: wtf/www/wtf.cgi,v 1.24 2018/12/26 00:06:03 tg Exp $';
 # damage or existence of a defect, except proven that it results out
 # of said person’s immediate fault when using the work as intended.
 #-
-# Implementation of MirBSD wtf(1) as CGI
+# Implementation of core parts of MirBSD wtf(1) as CGI.
 
 use strict;
 use warnings;
@@ -117,27 +117,32 @@ if ($query ne "") {
 		# TODO: if past matches, abort the loop
 	}
 
+	$output = "<fieldset id=\"serp\">\n";
+	$output .= " <legend xml:lang=\"de-DE-1901\">Suchergebnisse</legend>\n\n";
+
 	if (@results > 0) {
-		$output = "<h2>Results for " . tohtml($query) . "</h2>\n<ul>\n";
+		$output .= " <h2>Results for " . tohtml($query) . "</h2>\n <ul>\n";
 		foreach my $r (@results) {
-			$output .= " <li>" . tohtml($r) . "</li>\n";
+			$output .= "  <li>" . tohtml($r) . "</li>\n";
 		}
-		$output .= "</ul>\n";
+		$output .= " </ul>\n";
 	} else {
-		$output = "<h2>No results</h2>\n<p>Gee… I don’t know what “" .
+		$output .= " <h2>No results</h2>\n <p>Gee… I don’t know what “" .
 		    tohtml($query) . "” means…</p>\n";
 	}
 
-	$output .= "<p>\n <a href=\"man.cgi?" . $enc .
-	    "\">Manual page lookup for: " . $enc . "</a>\n</p>\n";
+	$output .= " <p><a href=\"man.cgi?" . $enc .
+	    "\">Manual page lookup for: " . $enc . "</a></p>\n";
 
-	$output .= "<form accept-charset=\"utf-8\" " .
+	$output .= " <form accept-charset=\"utf-8\" " .
 	    "action=\"https://duckduckgo.com/?kp=-1&#38;kl=wt-wt&#38;kb=t&#38;kh=1&#38;kj=g2&#38;km=l&#38;ka=monospace&#38;ku=1&#38;ko=s&#38;k1=-1&#38;kv=1&#38;t=debian\" " .
-	    "method=\"post\"><p>\n <input type=\"hidden\" name=\"q\" value=\"" .
-	    $enc . " acronym\" /><input type=\"submit\" value=\"Web search: " .
-	    $enc . "\" />\n</p></form>\n<p>DuckDuckGo is a search engine " .
-	    "with more privacy and lots of\n features. This search is " .
-	    "external content, not part of MirBSD.</p>";
+	    "method=\"post\"><p>\n  <input type=\"hidden\" name=\"q\" value=\"" .
+	    $enc . " acronym\" />\n  <input type=\"submit\" value=\"Web search: " .
+	    $enc . "\" />\n </p></form>\n <p>DuckDuckGo is a search engine " .
+	    "with more privacy and lots of\n  features. This search is " .
+	    "external content, not part of MirBSD.</p>\n";
+
+	$output .= "</fieldset>";
 }
 close(ACRONYMS);
 

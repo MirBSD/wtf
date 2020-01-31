@@ -4,21 +4,14 @@
 mws_setname wtf "WTF acronym database"
 mws_setheadline "What the Fuck?"
 mws_onload "if (!this.fff) document.getElementById('ffield').focus();"
-mws_putheader '$MirOS: wtf/www/wtf.hts,v 1.22 2019/10/10 20:20:15 tg Exp $'
+mws_putheader '$MirOS: wtf/www/wtf.hts,v 1.23 2020/01/31 22:18:32 tg Exp $'
 mws_content <<'EOF'
 <h2>Display all acronyms</h2>
-<p>The <a href="@@RELPATH@@acronyms" type="text/plain; charset=utf-8"
- title="MirBSD WTF acronym database">acronyms</a> file (<a
- href="@@RELPATH@@acronyms.gz">gzipped</a> for download) lists all expansions
- currently known to the wtf(1) utility, which is core to MirBSD and has been
- extended by many contributors, including “wtfubar”; Natureshadow made a <a
- href="https://edugit.org/nik/MirWTFApp">Free Android äpp</a> (available <a
- href="https://f-droid.org/repository/browse/?fdid=de.naturalnet.mirwtfapp">in
- F-Droid</a> for Jolla/SailfishOS and Blackberry Z10 uers) and Eugen an <a
- href="https://www.ea-it.de/wtf-app/">iOS äpp</a>, both of which also understand
- the extended format of the MirBSD acronyms database compared to other BSDs.
- <small><a href="https://apps.apple.com/us/app/wtf/id1264589483">Direct link to
- iOS äpp</a> (may break at any time) until developer’s site gets fixed.</small>
+<p>The “wtf” utility uses this <a type="text/plain; charset=utf-8"
+ href="@@RELPATH@@acronyms" title="MirBSD WTF acronym database">acronyms</a>
+ database (<a href="@@RELPATH@@acronyms.gz">gzipped</a> for download), from
+ NetBSD® but extended by many contributors including “wtfubar”, to expand
+ acronyms and abbreviations for you.
 EOF
 
 #DEPEND .linked/acronyms
@@ -27,18 +20,16 @@ ac_vsn=$(awk -- '/^ @\(#\)/ { print $3, "(" $4 "T" $5 "Z)"; exit; }' \
 integer ac_cnt=$(sed -n '/	/s/	.*$//p' "$TOP"/.linked/acronyms | \
     uniq | wc -l)
 integer ac_exp=$(fgrep -c '	' "$TOP"/.linked/acronyms)
+ac_sz=$(wc -c "$TOP"/.linked/acronyms | awk '{ printf "%.2f\n", $1/1048576 }')
 
 mws_content <<EOF
- As of database CVS revision <tt>$ac_vsn</tt>,
+ As of database CVS revision <tt>$ac_vsn</tt> (${ac_sz} MiB uncompressed),
  $ac_exp expansions for $ac_cnt unique acronyms are known.</p>
 EOF
 
 mws_content <<'EOF'
-<p>For the regular MirBSD online documentation, we also
- have a <a href="@@RELPATH@@man.htm">manual page search</a> page.</p>
-
 <form accept-charset="utf-8" action="@@RELPATH@@wtf.cgi" method="get">
- <fieldset>
+ <fieldset id="qy">
   <legend xml:lang="de-DE-1901">Abkürzungssuche</legend>
   <h2>Query the WTF acronym database</h2>
   <p>
@@ -50,6 +41,22 @@ mws_content <<'EOF'
 </form>
 
 <!-- wtf-result -->
+
+<p>The wtf(1) utility is core to MirBSD. It is also available from <a
+ href="http://www.mirbsd.org/~tg/Debs/debidx.htm">my APT repository</a>
+ (for use with Debian®-based operating systems), as offline utility.</p>
+<p>There are offline-capable Äpps for multiple operating systems as well:
+ for Android, Jolla/SailfishOS and Blackberry Z10 users there’s a Free Äpp <a
+ href="https://f-droid.org/packages/de.naturalnet.mirwtfapp/">in F-Droid</a>,
+ by Natureshadow (<a href="https://edugit.org/nik/MirWTFApp">source repo</a>).
+ An <a href="https://apps.apple.com/us/app/wtf/id1264589483">iOS äpp</a> for
+ iPhone users by <a href="https://www.ea-it.de/wtf-app/">Eugen</a>¹ also exists.
+ These download on first use the acronyms database and use it offline; the iOS
+ äpp checks (and downloads) updates automatically while the Android äpp offers
+ this in the menu (traffic-friendlier).</p>
+<p>For the regular MirBSD online documentation (manpages, HTML and papers), we
+ also offer a <a href="@@RELPATH@@man.htm">manual page search</a> CGI.</p>
+<p>¹) <small>(Yes, this link is currently broken — Techniker is informed.)</small></p>
 EOF
 mws_putfooter
 exit 0
