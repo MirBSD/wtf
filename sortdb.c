@@ -1,5 +1,5 @@
 /*-
- * Copyright © 2019
+ * Copyright © 2019, 2020
  *	mirabilos <m@mirbsd.org>
  *
  * Provided that these terms and disclaimer and all copyright notices
@@ -29,7 +29,7 @@
 #include <wchar.h>
 #include <wctype.h>
 
-__RCSID("$MirOS: wtf/sortdb.c,v 1.9 2019/08/16 22:00:52 tg Exp $");
+__RCSID("$MirOS: wtf/sortdb.c,v 1.10 2020/04/07 15:33:04 tg Exp $");
 
 #define MAXCASECONV 512
 struct cconv {
@@ -287,7 +287,9 @@ main(int argc, char *argv[])
 			}
 			acro[cp++] = cw = acro_toupper(cw);
 			if (!saw_upper[cw]) {
-				if (iswupper(cw)) {
+				if (iswupper(cw) && !(
+				    (cw >= 0x24B6 && cw <= 0x24CF)
+				    )) {
 					warnx("line %zu ucase %04X not handled",
 					    nlines + 1, cw);
 					rv = 3;
