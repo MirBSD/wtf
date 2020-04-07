@@ -29,7 +29,7 @@
 #include <wchar.h>
 #include <wctype.h>
 
-__RCSID("$MirOS: wtf/sortdb.c,v 1.10 2020/04/07 15:33:04 tg Exp $");
+__RCSID("$MirOS: wtf/sortdb.c,v 1.11 2020/04/07 15:36:43 tg Exp $");
 
 #define MAXCASECONV 512
 struct cconv {
@@ -151,7 +151,8 @@ main(int argc, char *argv[])
 	for (fd = 0x2160; fd <= 0x216F; ++fd)
 		++saw_upper[fd]; /* roman numeral */
 	++saw_upper[0x2183]; /* roman numeral */
-	++saw_upper[0x24BB]; /* circled letter */
+	for (fd = 0x24B6; fd <= 0x24CF; ++fd)
+		++saw_upper[fd]; /* circled letter */
 
 	if (argc != 2) {
 		fprintf(stderr, "Syntax: %s acronyms\n",
@@ -287,9 +288,7 @@ main(int argc, char *argv[])
 			}
 			acro[cp++] = cw = acro_toupper(cw);
 			if (!saw_upper[cw]) {
-				if (iswupper(cw) && !(
-				    (cw >= 0x24B6 && cw <= 0x24CF)
-				    )) {
+				if (iswupper(cw)) {
 					warnx("line %zu ucase %04X not handled",
 					    nlines + 1, cw);
 					rv = 3;
