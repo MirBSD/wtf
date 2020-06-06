@@ -29,7 +29,7 @@
 #include <wchar.h>
 #include <wctype.h>
 
-__RCSID("$MirOS: wtf/sortdb.c,v 1.15 2020/06/06 23:15:52 tg Exp $");
+__RCSID("$MirOS: wtf/sortdb.c,v 1.16 2020/06/06 23:26:39 tg Exp $");
 
 #define MAXCASECONV 512
 struct cconv {
@@ -279,18 +279,20 @@ main(int argc, char *argv[])
 			rv = 3;
 		}
 		cwp = ilines[nlines];
-		skipdots = *acro = L'\0';
-		while ((cw = *cwp++) != L'\t') {
+		cp = 0;
+		c = 0;
+		while ((cw = acro_toupper(cwp[cp])) != L'\t') {
 			if (cw == L'.') {
-				if (*acro >= L'A' && *acro <= L'Z') {
+				if (cp > 0 &&
+				    cwp[cp - 1] >= L'A' &&
+				    cwp[cp - 1] <= L'Z') {
 					/* *[A-Z].* */
-					skipdots = cw;
-					break;
+					c |= 1;
 				}
 			}
-			*acro = cw;
+			cwp[cp++] = cw;
 		}
-		cwp = ilines[nlines];
+		skipdots = c ? L'.' : L'\0';
 		cp = 0;
 		while ((cw = *cwp++) != L'\t') {
 			if (cw == skipdots)
