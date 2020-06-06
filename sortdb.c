@@ -29,7 +29,7 @@
 #include <wchar.h>
 #include <wctype.h>
 
-__RCSID("$MirOS: wtf/sortdb.c,v 1.16 2020/06/06 23:26:39 tg Exp $");
+__RCSID("$MirOS: wtf/sortdb.c,v 1.17 2020/06/06 23:27:53 tg Exp $");
 
 #define MAXCASECONV 512
 struct cconv {
@@ -297,7 +297,7 @@ main(int argc, char *argv[])
 		while ((cw = *cwp++) != L'\t') {
 			if (cw == skipdots)
 				continue;
-			acro[cp++] = cw = acro_toupper(cw);
+			acro[cp++] = cw;
 			if (!saw_upper[cw]) {
 				if (iswupper(cw)) {
 					warnx("line %zu ucase %04X not handled",
