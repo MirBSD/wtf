@@ -29,7 +29,7 @@
 #include <wchar.h>
 #include <wctype.h>
 
-__RCSID("$MirOS: wtf/sortdb.c,v 1.11 2020/04/07 15:36:43 tg Exp $");
+__RCSID("$MirOS: wtf/sortdb.c,v 1.12 2020/06/06 22:47:47 tg Exp $");
 
 #define MAXCASECONV 512
 struct cconv {
@@ -136,7 +136,7 @@ int
 main(int argc, char *argv[])
 {
 	wchar_t *cwp, cw, *dwp, *twp;
-	uint8_t *ibuf, c;
+	uint8_t *ibuf, c, skipdots;
 	size_t len, bp, cp, atp, etp;
 	int fd, rv = 0;
 	struct stat sb;
@@ -279,11 +279,13 @@ main(int argc, char *argv[])
 			rv = 3;
 		}
 		cwp = ilines[nlines];
+		skipdots = 0;
 		cp = 0;
 		while ((cw = *cwp++) != L'\t') {
-			if (cw == L'.' && cp > 0 &&
-			    acro[cp - 1] >= L'A' && acro[cp - 1] <= L'Z') {
-				/* skip period after upper-cased latin */
+			if (cw == L'.' && (skipdots || (cp > 0 &&
+			    acro[cp - 1] >= L'A' && acro[cp - 1] <= L'Z'))) {
+				/* skip dots (see wtf(1) for rule) */
+				skipdots = 1;
 				continue;
 			}
 			acro[cp++] = cw = acro_toupper(cw);
