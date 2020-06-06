@@ -29,7 +29,7 @@
 #include <wchar.h>
 #include <wctype.h>
 
-__RCSID("$MirOS: wtf/sortdb.c,v 1.14 2020/06/06 22:53:58 tg Exp $");
+__RCSID("$MirOS: wtf/sortdb.c,v 1.15 2020/06/06 23:15:52 tg Exp $");
 
 #define MAXCASECONV 512
 struct cconv {
@@ -135,8 +135,8 @@ acro_toupper(wchar_t wc)
 int
 main(int argc, char *argv[])
 {
-	wchar_t *cwp, cw, *dwp, *twp;
-	uint8_t *ibuf, c, skipdots;
+	wchar_t *cwp, cw, *dwp, *twp, skipdots;
+	uint8_t *ibuf, c;
 	size_t len, bp, cp, atp, etp;
 	int fd, rv = 0;
 	struct stat sb;
@@ -279,15 +279,22 @@ main(int argc, char *argv[])
 			rv = 3;
 		}
 		cwp = ilines[nlines];
-		skipdots = 0;
+		skipdots = *acro = L'\0';
+		while ((cw = *cwp++) != L'\t') {
+			if (cw == L'.') {
+				if (*acro >= L'A' && *acro <= L'Z') {
+					/* *[A-Z].* */
+					skipdots = cw;
+					break;
+				}
+			}
+			*acro = cw;
+		}
+		cwp = ilines[nlines];
 		cp = 0;
 		while ((cw = *cwp++) != L'\t') {
-			if (cw == L'.' && (skipdots || (cp > 0 &&
-			    acro[cp - 1] >= L'A' && acro[cp - 1] <= L'Z'))) {
-				/* skip dots (see wtf(1) for rule) */
-				skipdots = 1;
+			if (cw == skipdots)
 				continue;
-			}
 			acro[cp++] = cw = acro_toupper(cw);
 			if (!saw_upper[cw]) {
 				if (iswupper(cw)) {
@@ -484,4 +491,3 @@ main(int argc, char *argv[])
 	    noutl, nacro, nexpn);
 	return (rv);
 }
-
