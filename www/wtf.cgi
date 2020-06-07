@@ -1,5 +1,5 @@
 #!/usr/bin/perl -T
-my $rcsid = '$MirOS: wtf/www/wtf.cgi,v 1.26 2020/01/31 22:19:20 tg Exp $';
+my $rcsid = '$MirOS: wtf/www/wtf.cgi,v 1.27 2020/06/07 00:01:43 tg Exp $';
 #-
 # Copyright © 2012, 2014, 2015, 2017, 2020
 #	mirabilos <m@mirbsd.org>
@@ -93,7 +93,7 @@ if ($query ne "") {
 	# uppercase search term
 	$query =~ y/a-z/A-Z/;
 	# specific full stop removal rule
-	$query =~ y/.//d if $query =~ /[A-Z]\./;
+	$query =~ y/.//d if (($query =~ /[A-Z]\./) || ($query =~ /^\..*[^.-]/));
 
 	my $line = <ACRONYMS>;		# grab first line from acronyms file
 	$line =~ s/^\s+|\s+$//g;	# trim both ends
