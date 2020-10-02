@@ -29,7 +29,7 @@
 #include <wchar.h>
 #include <wctype.h>
 
-__RCSID("$MirOS: wtf/sortdb.c,v 1.18 2020/06/06 23:44:33 tg Exp $");
+__RCSID("$MirOS: wtf/sortdb.c,v 1.19 2020/10/02 04:05:55 tg Exp $");
 
 #define MAXCASECONV 512
 struct cconv {
@@ -389,7 +389,8 @@ main(int argc, char *argv[])
 
 		lines[nlines].acronym = awcstombs(acro);
 		len = cp + 1 + atp + 1 + bp + 1 + etp + 1;
-		dwp = calloc(len, sizeof(wchar_t));
+		if ((dwp = calloc(len, sizeof(wchar_t))) == NULL)
+			err(1, "out of memory");
 		/* construct the literal */
 		memcpy(dwp, acro, cp * sizeof(wchar_t));
 		dwp[cp++] = L'\t';
@@ -437,7 +438,7 @@ main(int argc, char *argv[])
 		do {
 			*cwp-- = L'\0';
 		} while (cwp > twp && iswspace(*cwp));
-		while (cwp > twp && *cwp == /*(*/')') {
+		while (cwp > twp && *cwp == /*(*/L')') {
 			wchar_t *pwp = wcsrchr(twp, '('/*)*/);
 			if (pwp == NULL || wcsncmp(pwp, L"(CF. "/*)*/, 5))
 				/* not a cf. reference — ignore */
