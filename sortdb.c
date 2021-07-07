@@ -29,7 +29,7 @@
 #include <wchar.h>
 #include <wctype.h>
 
-__RCSID("$MirOS: wtf/sortdb.c,v 1.19 2020/10/02 04:05:55 tg Exp $");
+__RCSID("$MirOS: wtf/sortdb.c,v 1.20 2021/07/07 18:12:58 tg Exp $");
 
 #define MAXCASECONV 512
 struct cconv {
@@ -192,7 +192,7 @@ main(int argc, char *argv[])
 		rv = 3;
 		break;
 	}
-	ilines[nilines++] = ambsntowcs((void *)(ibuf + bp), cp - bp - 1);
+	ilines[nilines++] = xambsntowcs((void *)(ibuf + bp), cp - bp - 1);
 	if (cp < len)
 		goto nextiline;
 	fprintf(stderr, "I: %zu input lines (before deduplication)\n", nilines);
@@ -268,7 +268,7 @@ main(int argc, char *argv[])
  firstline:
 			lines[nlines].acronym = null;
 			lines[nlines].literal = lines[nlines].sorting =
-			    awcstombs(cwp);
+			    xawcstombs(cwp);
 			lines[nlines].dupbase = null;
 			++nlines;
 			continue;
@@ -387,7 +387,7 @@ main(int argc, char *argv[])
 			rv = 3;
 		}
 
-		lines[nlines].acronym = awcstombs(acro);
+		lines[nlines].acronym = xawcstombs(acro);
 		len = cp + 1 + atp + 1 + bp + 1 + etp + 1;
 		if ((dwp = calloc(len, sizeof(wchar_t))) == NULL)
 			err(1, "out of memory");
@@ -409,7 +409,7 @@ main(int argc, char *argv[])
 			twp += etp;
 		}
 		*twp = L'\0';
-		lines[nlines].literal = awcstombs(dwp);
+		lines[nlines].literal = xawcstombs(dwp);
 		/* now the other order for sorting */
 		twp = dwp + cp;
 		memcpy(twp, cwp, bp * sizeof(wchar_t));
@@ -429,7 +429,7 @@ main(int argc, char *argv[])
 		twp = dwp + cp;
 		while ((cw = *twp))
 			*twp++ = towupper(cw);
-		lines[nlines].sorting = awcstombs(dwp);
+		lines[nlines].sorting = xawcstombs(dwp);
 		/* back up to remove tags */
 		twp = dwp + cp;
 		cwp = twp + bp;
@@ -456,7 +456,7 @@ main(int argc, char *argv[])
 			cwp = pwp;
 			goto do_dupbase;
 		}
-		lines[nlines].dupbase = awcstombs(dwp);
+		lines[nlines].dupbase = xawcstombs(dwp);
 #if 0
 		fprintf(stderr, "D: #%zu acronym<%s>\nliteral<%s>\nsorting<%s>\ndupbase<%s>\n",
 		    nlines + 1, lines[nlines].acronym, lines[nlines].literal,
