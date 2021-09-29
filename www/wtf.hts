@@ -4,7 +4,7 @@
 mws_setname wtf "WTF acronym database"
 mws_setheadline "What the Fuck?"
 mws_onload "if (!this.fff) document.getElementById('ffield').focus();"
-mws_putheader '$MirOS: wtf/www/wtf.hts,v 1.23 2020/01/31 22:18:32 tg Exp $'
+mws_putheader '$MirOS: wtf/www/wtf.hts,v 1.24 2021/09/29 22:21:29 tg Exp $'
 mws_content <<'EOF'
 <h2>Display all acronyms</h2>
 <p>The “wtf” utility uses this <a type="text/plain; charset=utf-8"
@@ -24,7 +24,9 @@ ac_sz=$(wc -c "$TOP"/.linked/acronyms | awk '{ printf "%.2f\n", $1/1048576 }')
 
 mws_content <<EOF
  As of database CVS revision <tt>$ac_vsn</tt> (${ac_sz} MiB uncompressed),
- $ac_exp expansions for $ac_cnt unique acronyms are known.</p>
+ $ac_exp expansions for $ac_cnt unique acronyms are known. Note that there
+ are <a href="@@RELPATH@@wtf.cgi?Lizenzen">© and licence claims</a> on some
+ databases this acronyms list includes.</p>
 EOF
 
 mws_content <<'EOF'
