@@ -1,5 +1,5 @@
 #!/usr/bin/perl -T
-my $rcsid = '$MirOS: wtf/www/wtf.cgi,v 1.29 2021/12/15 21:47:54 tg Exp $';
+my $rcsid = '$MirOS: wtf/www/wtf.cgi,v 1.30 2021/12/15 23:12:52 tg Exp $';
 #-
 # Copyright © 2012, 2014, 2015, 2017, 2020, 2021
 #	mirabilos <m@mirbsd.org>
@@ -98,7 +98,7 @@ if ($query ne "") {
 	$query =~ y/.//d if (($query =~ /[A-Z]\./) || ($query =~ /^\..*[^.-]/));
 
 	my $line = <ACRONYMS>;		# grab first line from acronyms file
-	$line =~ s/^\s+|\s+$//g;	# trim both ends
+	$line =~ s/^\s+//;		# verwĳder leading spaces
 	my @pairs = split / /, $line;	# split space-separated pairs
 	foreach $a (@pairs){
 		# split slash-separated word pair
