@@ -1,7 +1,7 @@
 #!/usr/bin/perl -T
-my $rcsid = '$MirOS: wtf/www/wtf.cgi,v 1.27 2020/06/07 00:01:43 tg Exp $';
+my $rcsid = '$MirOS: wtf/www/wtf.cgi,v 1.28 2021/12/15 21:12:50 tg Exp $';
 #-
-# Copyright © 2012, 2014, 2015, 2017, 2020
+# Copyright © 2012, 2014, 2015, 2017, 2020, 2021
 #	mirabilos <m@mirbsd.org>
 # Copyright © 2017
 #	<RT|Chatzilla> via IRC
@@ -44,8 +44,10 @@ if ((-r $db) && (-r $template) &&
 	exit(1);
 }
 
+my $acrcsid = "";
 my $output = "<p id=\"serp\">(no or invalid query)</p>";
 my $query = "";
+my $queryorig = "";
 my @results = ();
 
 if (defined($ENV{QUERY_STRING})) {
@@ -59,20 +61,20 @@ if (defined($ENV{QUERY_STRING})) {
 		next unless defined($val);
 		$val =~ s/%([0-9A-Fa-f][0-9A-Fa-f])/chr(hex($1))/eg;
 		next if $val =~ /[\t\r\n]/;
-		$query = $val;
+		$queryorig = $val;
 	}
-	if ($query eq "") {
+	if ($queryorig eq "") {
 		my $p = $ENV{QUERY_STRING};
 		$p =~ y/+/ /;
 		$p =~ s/%([0-9A-Fa-f][0-9A-Fa-f])/chr(hex($1))/eg;
 		next if $p =~ /[\t\r\n]/;
-		$query = $p;
+		$queryorig = $p unless $p =~ /^(.*[;&])?q=([;&].*)?$/;
 	}
-}
 
-# ltrim and rtrim
-$query =~ s/^\s+//;
-$query =~ s/\s+$//;
+	# ltrim and rtrim
+	$queryorig =~ s/^\s+//;
+	$queryorig =~ s/\s+$//;
+}
 
 sub tohtml {
 	local ($_) = @_;
@@ -85,8 +87,8 @@ sub tohtml {
 	return $_;
 }
 
-my $acrcsid = "";
-
+# query for wtf
+$query = $queryorig;
 if ($query ne "") {
 	my $enc = tohtml($query);
 
