@@ -1,5 +1,5 @@
 #!/usr/bin/perl -T
-my $rcsid = '$MirOS: wtf/www/wtf.cgi,v 1.28 2021/12/15 21:12:50 tg Exp $';
+my $rcsid = '$MirOS: wtf/www/wtf.cgi,v 1.29 2021/12/15 21:47:54 tg Exp $';
 #-
 # Copyright © 2012, 2014, 2015, 2017, 2020, 2021
 #	mirabilos <m@mirbsd.org>
@@ -48,7 +48,7 @@ my $acrcsid = "";
 my $output = "<p id=\"serp\">(no or invalid query)</p>";
 my $query = "";
 my $queryorig = "";
-my @results = ();
+my @wtfresults = ();
 
 if (defined($ENV{QUERY_STRING})) {
 	for my $p (split(/[;&]+/, $ENV{QUERY_STRING})) {
@@ -107,24 +107,28 @@ if ($query ne "") {
 		$query =~ s/$pair[0]/$pair[1]/g;
 	}
 
-	# now search for the term (and the DB version)
+	# DB version (rely on proper file format)
+	$line = <ACRONYMS>;
+	$acrcsid = substr($line, 5, -1);
+
+	# now search for the term
+	my $past_term = 0;
+	$query .= "\t";
 	foreach my $line (<ACRONYMS>) {
-		chomp($line);
-		if ($line =~ /^ \@\(\#\)(.*)$/) {
-			$acrcsid = $1;
+		if (rindex($line, $query, 0) == 0) {
+			push(@wtfresults, substr($line, length($query), -1));
+			$past_term = 1;
+		} elsif ($past_term) {
+			last;
 		}
-		if ($line =~ /^\Q$query	\E(.*)$/) {
-			push(@results, $1);
-		}
-		# TODO: if past matches, abort the loop
 	}
 
 	$output = "<fieldset id=\"serp\">\n";
 	$output .= " <legend xml:lang=\"de-DE-1901\">Suchergebnisse</legend>\n\n";
 
-	if (@results > 0) {
+	if (@wtfresults > 0) {
 		$output .= " <h2>Results for " . tohtml($query) . "</h2>\n <ul>\n";
-		foreach my $r (@results) {
+		foreach my $r (@wtfresults) {
 			$output .= "  <li>" . tohtml($r) . "</li>\n";
 		}
 		$output .= " </ul>\n";
