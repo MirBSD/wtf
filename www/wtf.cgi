@@ -1,5 +1,5 @@
 #!/usr/bin/perl -T
-my $rcsid = '$MirOS: wtf/www/wtf.cgi,v 1.30 2021/12/15 23:12:52 tg Exp $';
+my $rcsid = '$MirOS: wtf/www/wtf.cgi,v 1.31 2021/12/15 23:35:42 tg Exp $';
 #-
 # Copyright © 2012, 2014, 2015, 2017, 2020, 2021
 #	mirabilos <m@mirbsd.org>
