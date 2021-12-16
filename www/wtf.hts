@@ -4,7 +4,7 @@
 mws_setname wtf "WTF acronym database"
 mws_setheadline "What the Fuck?"
 mws_onload "if (!this.fff) document.getElementById('ffield').focus();"
-mws_putheader '$MirOS: wtf/www/wtf.hts,v 1.24 2021/09/29 22:21:29 tg Exp $'
+mws_putheader '$MirOS: wtf/www/wtf.hts,v 1.25 2021/12/16 00:26:42 tg Exp $'
 mws_content <<'EOF'
 <h2>Display all acronyms</h2>
 <p>The “wtf” utility uses this <a type="text/plain; charset=utf-8"
@@ -52,10 +52,14 @@ mws_content <<'EOF'
  href="https://f-droid.org/packages/de.naturalnet.mirwtfapp/">in F-Droid</a>,
  by Natureshadow (<a href="https://edugit.org/nik/MirWTFApp">source repo</a>).
  An <a href="https://apps.apple.com/us/app/wtf/id1264589483">iOS äpp</a> for
- iPhone users by <a href="https://www.ea-it.de/wtf-app/">Eugen</a>¹ also exists.
+ iPhone users by Eugen used to exist but is no longer available.
  These download on first use the acronyms database and use it offline; the iOS
  äpp checks (and downloads) updates automatically while the Android äpp offers
  this in the menu (traffic-friendlier).</p>
+<p>For iOS users there’s an experimental <strong>online</strong> replacement <a
+ href="https://www.icloud.com/shortcuts/4c39fd731b704d81a11ce917a6a97526">iPhone
+ shortcut</a>. It accesses a CGI on this server every time it is used, so it’s
+ not a proper replacement and breaks anonymity but it’s better than nothing…</p>
 <p>For the regular MirBSD online documentation (manpages, HTML and papers), we
  also offer a <a href="@@RELPATH@@man.htm">manual page search</a> CGI.</p>
 <p>¹) <small>(Yes, this link is currently broken — Techniker is informed.)</small></p>
