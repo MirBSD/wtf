@@ -1,5 +1,5 @@
 #!/usr/bin/perl -T
-my $rcsid = '$MirOS: wtf/www/wtf.cgi,v 1.31 2021/12/15 23:35:42 tg Exp $';
+my $rcsid = '$MirOS: wtf/www/wtf.cgi,v 1.32 2021/12/16 04:42:43 tg Exp $';
 #-
 # Copyright © 2012, 2014, 2015, 2017, 2020, 2021
 #	mirabilos <m@mirbsd.org>
@@ -49,35 +49,10 @@ my $output = "<p id=\"serp\">(no or invalid query)</p>";
 my $query = "";
 my $queryorig = "";
 my @wtfresults = ();
-
-if (defined($ENV{QUERY_STRING})) {
-	for my $p (split(/[;&]+/, $ENV{QUERY_STRING})) {
-		next unless $p;
-		$p =~ y/+/ /;
-		my ($key, $val) = split(/=/, $p, 2);
-		next unless defined($key);
-
-		next unless ($key eq "q");
-		next unless defined($val);
-		$val =~ s/%([0-9A-Fa-f][0-9A-Fa-f])/chr(hex($1))/eg;
-		next if $val =~ /[\t\r\n]/;
-		$queryorig = $val;
-	}
-	if ($queryorig eq "") {
-		my $p = $ENV{QUERY_STRING};
-		$p =~ y/+/ /;
-		$p =~ s/%([0-9A-Fa-f][0-9A-Fa-f])/chr(hex($1))/eg;
-		next if $p =~ /[\t\r\n]/;
-		$queryorig = $p unless $p =~ /^(.*[;&])?q=([;&].*)?$/;
-	}
-
-	# ltrim and rtrim
-	$queryorig =~ s/^\s+//;
-	$queryorig =~ s/\s+$//;
-}
+my $qhtml = 'invalid <tt>QUERY_STRING</tt> or no <tt>q</tt> parameter';
 
 sub tohtml {
-	local ($_) = @_;
+	local $_ = @_ ? shift : $_;
 
 	s/&/&#38;/g;
 	s/</&#60;/g;
@@ -85,6 +60,30 @@ sub tohtml {
 	s/\"/&#34;/g;
 
 	return $_;
+}
+
+if (defined($ENV{QUERY_STRING})) {
+	for my $p (split(/[;&]+/, $ENV{QUERY_STRING})) {
+		next unless $p;
+		my ($key, $val) = split(/=/, $p, 2);
+		next unless defined($key);
+		next unless defined($val);
+		$queryorig = $val if $key eq "q";
+	}
+	if ($queryorig eq "") {
+		my $p = $ENV{QUERY_STRING};
+		$queryorig = $p unless $p =~ /^(.*[;&])?[a-z]+=([;&].*)?$/;
+	}
+
+	$queryorig =~ y/+/ /;
+	$queryorig =~ s/%([0-9A-Fa-f][0-9A-Fa-f])/chr(hex($1))/eg;
+	# ltrim and rtrim
+	$queryorig =~ s/^\s+//;
+	$queryorig =~ s/\s+$//;
+	# take your funny business outside, please
+	$queryorig = "" if $queryorig =~ /[\t\r\n]/;
+
+	$qhtml = tohtml($queryorig) if $queryorig ne "";
 }
 
 # query for wtf
