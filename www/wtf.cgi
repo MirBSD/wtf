@@ -1,7 +1,7 @@
 #!/usr/bin/perl -T
-my $rcsid = '$MirOS: wtf/www/wtf.cgi,v 1.32 2021/12/16 04:42:43 tg Exp $';
+my $rcsid = '$MirOS: wtf/www/wtf.cgi,v 1.33 2022/01/03 03:17:30 tg Exp $';
 #-
-# Copyright © 2012, 2014, 2015, 2017, 2020, 2021
+# Copyright © 2012, 2014, 2015, 2017, 2020, 2021, 2022
 #	mirabilos <m@mirbsd.org>
 # Copyright © 2017
 #	<RT|Chatzilla> via IRC
@@ -45,11 +45,11 @@ if ((-r $db) && (-r $template) &&
 }
 
 my $acrcsid = "";
-my $output = "<p id=\"serp\">(no or invalid query)</p>";
 my $query = "";
 my $queryorig = "";
 my @wtfresults = ();
 my $qhtml = 'invalid <tt>QUERY_STRING</tt> or no <tt>q</tt> parameter';
+my $output = "<p id=\"serp\">($qhtml)</p>";
 
 sub tohtml {
 	local $_ = @_ ? shift : $_;
@@ -90,6 +90,8 @@ if (defined($ENV{QUERY_STRING})) {
 $query = $queryorig;
 if ($query ne "") {
 	my $enc = tohtml($query);
+	# urlencode
+	(my $enq = $query) =~ s/[^!()*.0-9A-Z_a-z~-]/sprintf("%%%02X", ord($&));/eg;
 
 	# uppercase search term
 	$query =~ y/a-z/A-Z/;
@@ -105,6 +107,8 @@ if ($query ne "") {
 		# manual UCS uppercasing
 		$query =~ s/$pair[0]/$pair[1]/g;
 	}
+
+	$qhtml = tohtml($query);
 
 	# DB version (rely on proper file format)
 	$line = <ACRONYMS>;
@@ -126,17 +130,17 @@ if ($query ne "") {
 	$output .= " <legend xml:lang=\"de-DE-1901\">Suchergebnisse</legend>\n\n";
 
 	if (@wtfresults > 0) {
-		$output .= " <h2>Results for " . tohtml($query) . "</h2>\n <ul>\n";
+		$output .= " <h2>Results for $qhtml</h2>\n <ul>\n";
 		foreach my $r (@wtfresults) {
 			$output .= "  <li>" . tohtml($r) . "</li>\n";
 		}
 		$output .= " </ul>\n";
 	} else {
-		$output .= " <h2>No results</h2>\n <p>Gee… I don’t know what “" .
-		    tohtml($query) . "” means…</p>\n";
+		$output .= " <h2>No results</h2>\n" .
+		    " <p>Gee… I don’t know what “$qhtml” means…</p>\n";
 	}
 
-	$output .= " <p><a href=\"man.cgi?" . $enc .
+	$output .= " <p><a href=\"man.cgi?q=" . tohtml($enq) .
 	    "\">Manual page lookup for: " . $enc . "</a></p>\n";
 
 	$output .= " <form accept-charset=\"utf-8\" " .
