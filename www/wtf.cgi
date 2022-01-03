@@ -1,5 +1,5 @@
 #!/usr/bin/perl -T
-my $rcsid = '$MirOS: wtf/www/wtf.cgi,v 1.33 2022/01/03 03:17:30 tg Exp $';
+my $rcsid = '$MirOS: wtf/www/wtf.cgi,v 1.34 2022/01/03 03:25:41 tg Exp $';
 #-
 # Copyright © 2012, 2014, 2015, 2017, 2020, 2021, 2022
 #	mirabilos <m@mirbsd.org>
@@ -62,6 +62,15 @@ sub tohtml {
 	return $_;
 }
 
+sub tourl {
+	local $_ = @_ ? shift : $_;
+
+	# result is as safe as tohtml
+	s/[^!()*.0-9A-Z_a-z~-]/sprintf("%%%02X", ord($&));/eg;
+
+	return $_;
+}
+
 if (defined($ENV{QUERY_STRING})) {
 	for my $p (split(/[;&]+/, $ENV{QUERY_STRING})) {
 		next unless $p;
@@ -90,8 +99,7 @@ if (defined($ENV{QUERY_STRING})) {
 $query = $queryorig;
 if ($query ne "") {
 	my $enc = tohtml($query);
-	# urlencode
-	(my $enq = $query) =~ s/[^!()*.0-9A-Z_a-z~-]/sprintf("%%%02X", ord($&));/eg;
+	my $enq = tourl($query);
 
 	# uppercase search term
 	$query =~ y/a-z/A-Z/;
@@ -140,8 +148,8 @@ if ($query ne "") {
 		    " <p>Gee… I don’t know what “$qhtml” means…</p>\n";
 	}
 
-	$output .= " <p><a href=\"man.cgi?q=" . tohtml($enq) .
-	    "\">Manual page lookup for: " . $enc . "</a></p>\n";
+	$output .= " <p><a href=\"man.cgi?q=$enq\">Manual page lookup" .
+	    " for: $enc</a></p>\n";
 
 	$output .= " <form accept-charset=\"utf-8\" " .
 	    "action=\"https://duckduckgo.com/?kp=-1&#38;kl=wt-wt&#38;kb=t&#38;kh=1&#38;kj=g2&#38;km=l&#38;ka=monospace&#38;ku=1&#38;ko=s&#38;k1=-1&#38;kv=1&#38;t=debian\" " .
