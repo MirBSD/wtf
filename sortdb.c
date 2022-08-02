@@ -1,5 +1,5 @@
 /*-
- * Copyright © 2019, 2020
+ * Copyright © 2019, 2020, 2022
  *	mirabilos <m@mirbsd.org>
  *
  * Provided that these terms and disclaimer and all copyright notices
@@ -29,7 +29,7 @@
 #include <wchar.h>
 #include <wctype.h>
 
-__RCSID("$MirOS: wtf/sortdb.c,v 1.20 2021/07/07 18:12:58 tg Exp $");
+__RCSID("$MirOS: wtf/sortdb.c,v 1.21 2022/08/02 21:34:24 tg Exp $");
 
 #define MAXCASECONV 512
 struct cconv {
@@ -427,8 +427,13 @@ main(int argc, char *argv[])
 		*twp = L'\0';
 		/* uppercase for case-insensitive sorting */
 		twp = dwp + cp;
-		while ((cw = *twp))
-			*twp++ = towupper(cw);
+		cwp = twp;
+		while ((cw = *cwp++))
+			if (cw == L'-' || cw == L'‑')
+				--bp;
+			else
+				*twp++ = towupper(cw);
+		*twp = L'\0';
 		lines[nlines].sorting = xawcstombs(dwp);
 		/* back up to remove tags */
 		twp = dwp + cp;
