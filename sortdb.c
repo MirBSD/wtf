@@ -29,7 +29,7 @@
 #include <wchar.h>
 #include <wctype.h>
 
-__RCSID("$MirOS: wtf/sortdb.c,v 1.23 2022/08/20 22:24:44 tg Exp $");
+__RCSID("$MirOS: wtf/sortdb.c,v 1.24 2022/08/20 23:09:05 tg Exp $");
 
 #define MAXCASECONV 512
 struct cconv {
@@ -472,7 +472,16 @@ main(int argc, char *argv[])
 		/* now the other order for sorting */
 		twp = dwp + cp;
 		memcpy(twp, cwp, bp * sizeof(wchar_t));
+		cwp = twp;
 		twp += bp;
+		c = 0;	/* do not drop dashes later if morse */
+		while (cwp < twp) {
+			cw = *cwp++;
+			if (cw != L'-' && cw != L'.') {
+				c = 1;
+				break;
+			}
+		}
 		if (asp) {
 			*twp++ = L' ';
 			*twp++ = L'{';
@@ -496,7 +505,7 @@ main(int argc, char *argv[])
 		twp = dwp + cp;
 		cwp = twp;
 		while ((cw = *cwp++))
-			if (cw == L'-' || cw == L'‑') {
+			if (c && (cw == L'-' || cw == L'‑')) {
 				if (cwp < (dwp + cp + bp))
 					--bp;
 			} else
