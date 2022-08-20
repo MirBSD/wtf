@@ -29,7 +29,7 @@
 #include <wchar.h>
 #include <wctype.h>
 
-__RCSID("$MirOS: wtf/sortdb.c,v 1.22 2022/08/20 22:21:50 tg Exp $");
+__RCSID("$MirOS: wtf/sortdb.c,v 1.23 2022/08/20 22:24:44 tg Exp $");
 
 #define MAXCASECONV 512
 struct cconv {
@@ -497,6 +497,7 @@ main(int argc, char *argv[])
 		cwp = twp;
 		while ((cw = *cwp++))
 			if (cw == L'-' || cw == L'‑') {
+				if (cwp < (dwp + cp + bp))
 					--bp;
 			} else
 				*twp++ = towupper(cw);
