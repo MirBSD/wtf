@@ -29,7 +29,7 @@
 #include <wchar.h>
 #include <wctype.h>
 
-__RCSID("$MirOS: wtf/sortdb.c,v 1.21 2022/08/02 21:34:24 tg Exp $");
+__RCSID("$MirOS: wtf/sortdb.c,v 1.22 2022/08/20 22:21:50 tg Exp $");
 
 #define MAXCASECONV 512
 struct cconv {
@@ -135,9 +135,9 @@ acro_toupper(wchar_t wc)
 int
 main(int argc, char *argv[])
 {
-	wchar_t *cwp, cw, *dwp, *twp, skipdots;
+	wchar_t *cwp, cw, *dwp, *twp, skipdots, *asp;
 	uint8_t *ibuf, c;
-	size_t len, bp, cp, atp, etp;
+	size_t len, bp, cp, asplen, atp, etp;
 	int fd, rv = 0;
 	struct stat sb;
 	size_t nacro = 0, nexpn = 0, noutl = 0;
@@ -285,7 +285,7 @@ main(int argc, char *argv[])
 		skipdots = *cwp == L'.';
 		while ((cw = acro_toupper(cwp[cp])) != L'\t') {
 			if (cw == L'.') {
-				if (cp > 0 &&
+				if (!c && cp > 0 &&
 				    cwp[cp - 1] >= L'A' &&
 				    cwp[cp - 1] <= L'Z') {
 					/* *[A-Z].* */
@@ -315,6 +315,8 @@ main(int argc, char *argv[])
 				errx(2, "raise %s and recompile", "MAXACRO");
 		}
 		acro[cp] = L'\0';
+		asp = NULL;
+		asplen = 0;
 		atp = 0;
 		etp = 0;
  parse_line:
@@ -322,6 +324,54 @@ main(int argc, char *argv[])
 			goto end_of_line;
 		if (iswspace(cw))
 			goto parse_line;
+		if (!atp && !asp && cw == L'{' && *cwp != L'}' &&
+		    (twp = wcschr(cwp, /*{*/ L'}'))) {
+			/* acronym casespelling */
+			asp = cwp;
+			asplen = twp - asp;
+			*twp++ = L'\0';
+			cwp = twp;
+			/* check match */
+			if (skipdots == L'.')
+				goto have_skipdots;
+			c = 0;
+			bp = 0;
+			skipdots = *asp == L'.';
+			while ((cw = asp[bp])) {
+				if (cw == L'.') {
+					if (!c && bp > 0 &&
+					    acro_toupper(asp[bp - 1]) >= L'A' &&
+					    acro_toupper(asp[bp - 1]) <= L'Z') {
+						/* *[A-Z].* */
+						c |= 1;
+					}
+				} else if (cw != L'-') {
+					/* *[!.-]* */
+					c |= skipdots;
+				}
+				++bp;
+			}
+			skipdots = c ? L'.' : L'\0';
+ have_skipdots:
+			/* now we figured skipdots from both acro and asp */
+			twp = asp;
+			bp = 0;
+			while ((cw = *twp++)) {
+				if (cw == skipdots)
+					continue;
+				cw = acro_toupper(cw);
+				if (cw != acro[bp++])
+					goto asp_mismatch;
+			}
+			if (acro[bp] != L'\0') {
+ asp_mismatch:
+				fprintf(stderr, "W: #%zu spelling {%ls} "
+				    " does not match acronym key {%ls}\n",
+				    nlines + 1, asp, acro);
+				rv = 3;
+			}
+			goto parse_line;
+		}
 		if (cw == L'[' && wcschr(cwp, L']')) {
 			/* leading tag */
 			if (atp) {
@@ -389,6 +439,8 @@ main(int argc, char *argv[])
 
 		lines[nlines].acronym = xawcstombs(acro);
 		len = cp + 1 + atp + 1 + bp + 1 + etp + 1;
+		if (asp)
+			len += asplen + 3;
 		if ((dwp = calloc(len, sizeof(wchar_t))) == NULL)
 			err(1, "out of memory");
 		/* construct the literal */
@@ -396,6 +448,13 @@ main(int argc, char *argv[])
 		dwp[cp++] = L'\t';
 		/* for recall of divergence point */
 		twp = dwp + cp;
+		if (asp) {
+			*twp++ = L'{';
+			memcpy(twp, asp, asplen * sizeof(wchar_t));
+			twp += asplen;
+			*twp++ = L'}';
+			*twp++ = L' ';
+		}
 		if (atp) {
 			memcpy(twp, atags, atp * sizeof(wchar_t));
 			twp += atp;
@@ -414,6 +473,14 @@ main(int argc, char *argv[])
 		twp = dwp + cp;
 		memcpy(twp, cwp, bp * sizeof(wchar_t));
 		twp += bp;
+		if (asp) {
+			*twp++ = L' ';
+			*twp++ = L'{';
+			cwp = twp + asplen;
+			while (twp < cwp)
+				*twp++ = L'~'; /* filler, see below */
+			*twp++ = L'}';
+		}
 		if (atp) {
 			*twp++ = L' ';
 			memcpy(twp, atags, atp * sizeof(wchar_t));
@@ -429,11 +496,14 @@ main(int argc, char *argv[])
 		twp = dwp + cp;
 		cwp = twp;
 		while ((cw = *cwp++))
-			if (cw == L'-' || cw == L'‑')
-				--bp;
-			else
+			if (cw == L'-' || cw == L'‑') {
+					--bp;
+			} else
 				*twp++ = towupper(cw);
 		*twp = L'\0';
+		if (asp)
+			/* asp is case-sensitive — overwrite again */
+			memcpy(dwp + cp + bp + 2, asp, asplen * sizeof(wchar_t));
 		lines[nlines].sorting = xawcstombs(dwp);
 		/* back up to remove tags */
 		twp = dwp + cp;
