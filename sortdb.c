@@ -29,7 +29,7 @@
 #include <wchar.h>
 #include <wctype.h>
 
-__RCSID("$MirOS: wtf/sortdb.c,v 1.24 2022/08/20 23:09:05 tg Exp $");
+__RCSID("$MirOS: wtf/sortdb.c,v 1.25 2022/09/06 00:35:59 tg Exp $");
 
 #define MAXCASECONV 512
 struct cconv {
@@ -557,8 +557,10 @@ main(int argc, char *argv[])
 	nlines = 0;
 	goto into_the_loop;
 	while (++nlines < nilines) {
-		if (!strcmp(lines[nlines - 1].literal, lines[nlines].literal))
+		if (!strcmp(lines[nlines - 1].literal, lines[nlines].literal)) {
+			fprintf(stderr, "I: dup: %s\n", lines[nlines].literal);
 			continue;
+		}
 		if (lines[nlines - 1].dupbase != null &&
 		    lines[nlines].dupbase != null &&
 		    !strcmp(lines[nlines - 1].dupbase, lines[nlines].dupbase)) {
