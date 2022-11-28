@@ -1,5 +1,5 @@
 #!/usr/bin/perl -T
-my $rcsid = '$MirOS: wtf/www/wtf.cgi,v 1.34 2022/01/03 03:25:41 tg Exp $';
+my $rcsid = '$MirOS: wtf/www/wtf.cgi,v 1.35 2022/11/28 19:42:49 tg Exp $';
 #-
 # Copyright © 2012, 2014, 2015, 2017, 2020, 2021, 2022
 #	mirabilos <m@mirbsd.org>
@@ -142,24 +142,24 @@ if ($query ne "") {
 		foreach my $r (@wtfresults) {
 			$output .= "  <li>" . tohtml($r) . "</li>\n";
 		}
-		$output .= " </ul>\n";
+		$output .= " </ul>";
 	} else {
 		$output .= " <h2>No results</h2>\n" .
-		    " <p>Gee… I don’t know what “$qhtml” means…</p>\n";
+		    " <p>Gee… I don’t know what “$qhtml” means…</p>";
 	}
 
-	$output .= " <p><a href=\"man.cgi?q=$enq\">Manual page lookup" .
-	    " for: $enc</a></p>\n";
+	$output .= "
+ <p><a href=\"man.cgi?q=$enq\">Manual page lookup for: $enc</a></p>
+ <form accept-charset=\"utf-8\"
+   action=\"https://duckduckgo.com/?kp=-1&#38;kl=wt-wt&#38;kb=t&#38;kh=1&#38;kj=g2&#38;km=l&#38;ka=monospace&#38;ku=1&#38;ko=s&#38;k1=-1&#38;kv=1&#38;t=debian\"
+   method=\"post\"><p>
+  <input type=\"hidden\" name=\"q\" value=\"$enc acronym\" />
+  <span class=\"vextform\"><input type=\"submit\" value=\"Web search: $enc\" /></span>
+ </p></form>
+ <p>DuckDuckGo is a search engine with more privacy and lots of
+  features. This search is external content, not part of MirBSD.</p>
+</fieldset>";
 
-	$output .= " <form accept-charset=\"utf-8\" " .
-	    "action=\"https://duckduckgo.com/?kp=-1&#38;kl=wt-wt&#38;kb=t&#38;kh=1&#38;kj=g2&#38;km=l&#38;ka=monospace&#38;ku=1&#38;ko=s&#38;k1=-1&#38;kv=1&#38;t=debian\" " .
-	    "method=\"post\"><p>\n  <input type=\"hidden\" name=\"q\" value=\"" .
-	    $enc . " acronym\" />\n  <input type=\"submit\" value=\"Web search: " .
-	    $enc . "\" />\n </p></form>\n <p>DuckDuckGo is a search engine " .
-	    "with more privacy and lots of\n  features. This search is " .
-	    "external content, not part of MirBSD.</p>\n";
-
-	$output .= "</fieldset>";
 }
 close(ACRONYMS);
 
