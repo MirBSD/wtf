@@ -1,5 +1,5 @@
 /*-
- * Copyright © 2019, 2020, 2022
+ * Copyright © 2019, 2020, 2022, 2023
  *	mirabilos <m@mirbsd.org>
  *
  * Provided that these terms and disclaimer and all copyright notices
@@ -29,7 +29,7 @@
 #include <wchar.h>
 #include <wctype.h>
 
-__RCSID("$MirOS: wtf/sortdb.c,v 1.25 2022/09/06 00:35:59 tg Exp $");
+__RCSID("$MirOS: wtf/sortdb.c,v 1.26 2023/02/28 20:01:19 tg Exp $");
 
 #define MAXCASECONV 512
 struct cconv {
@@ -540,6 +540,15 @@ main(int argc, char *argv[])
 			}
 			cwp = pwp;
 			goto do_dupbase;
+		}
+		--cp;
+		if (asp) {
+			/* length difference? */
+			if (asplen != cp)
+				memmove(dwp + asplen, dwp + cp,
+				    (wcslen(dwp + cp) + 1) * sizeof(*dwp));
+			/* use spelling for dupbase */
+			memcpy(dwp, asp, asplen * sizeof(*dwp));
 		}
 		lines[nlines].dupbase = xawcstombs(dwp);
 #if 0
