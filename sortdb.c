@@ -29,7 +29,7 @@
 #include <wchar.h>
 #include <wctype.h>
 
-__RCSID("$MirOS: wtf/sortdb.c,v 1.26 2023/02/28 20:01:19 tg Exp $");
+__RCSID("$MirOS: wtf/sortdb.c,v 1.27 2023/12/04 22:39:21 tg Exp $");
 
 #define MAXCASECONV 512
 struct cconv {
@@ -541,6 +541,20 @@ main(int argc, char *argv[])
 			cwp = pwp;
 			goto do_dupbase;
 		}
+		/* and trailing tags */
+		while (cwp > twp && *cwp == L']') {
+			wchar_t *pwp = wcsrchr(twp, '[');
+			if (pwp == NULL)
+				break;
+			if (pwp == twp) {
+				fprintf(stderr, "I: #%zu empty <%s>\n",
+				    nlines + 1, lines[nlines].literal);
+				break;
+			}
+			cwp = pwp;
+			goto do_dupbase;
+		}
+
 		--cp;
 		if (asp) {
 			/* length difference? */
