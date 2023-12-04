@@ -29,7 +29,7 @@
 #include <wchar.h>
 #include <wctype.h>
 
-__RCSID("$MirOS: wtf/sortdb.c,v 1.27 2023/12/04 22:39:21 tg Exp $");
+__RCSID("$MirOS: wtf/sortdb.c,v 1.28 2023/12/04 22:47:24 tg Exp $");
 
 #define MAXCASECONV 512
 struct cconv {
@@ -324,8 +324,14 @@ main(int argc, char *argv[])
 			goto end_of_line;
 		if (iswspace(cw))
 			goto parse_line;
-		if (!atp && !asp && cw == L'{' && *cwp != L'}' &&
-		    (twp = wcschr(cwp, /*{*/ L'}'))) {
+		if (!atp && !asp && cw == L'{' && *cwp != L'}') {
+			twp = wcschr(cwp, /*{*/ L'}');
+			if (!twp) {
+				fprintf(stderr, "W: #%zu unterminated asp <%ls>\n",
+				    nlines + 1, cwp - 1);
+				rv = 3;
+				goto not_asp;
+			}
 			/* acronym casespelling */
 			asp = cwp;
 			asplen = twp - asp;
@@ -371,6 +377,8 @@ main(int argc, char *argv[])
 				rv = 3;
 			}
 			goto parse_line;
+ not_asp:
+			;
 		}
 		if (cw == L'[' && wcschr(cwp, L']')) {
 			/* leading tag */
