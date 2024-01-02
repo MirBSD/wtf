@@ -4,7 +4,7 @@
 mws_setname wtf "WTF acronym database"
 mws_setheadline "What the Fuck?"
 mws_onload "if (!this.fff) document.getElementById('ffield').focus();"
-mws_putheader '$MirOS: wtf/www/wtf.hts,v 1.26 2021/12/16 01:01:15 tg Exp $'
+mws_putheader '$MirOS: wtf/www/wtf.hts,v 1.27 2024/01/02 22:05:33 tg Exp $'
 mws_content <<'EOF'
 <h2>Display all acronyms</h2>
 <p>The “wtf” utility uses this <a type="text/plain; charset=utf-8"
@@ -51,6 +51,8 @@ mws_content <<'EOF'
  for Android, Jolla/SailfishOS and Blackberry Z10 users there’s a Free Äpp <a
  href="https://f-droid.org/packages/de.naturalnet.mirwtfapp/">in F-Droid</a>,
  by Natureshadow (<a href="https://edugit.org/nik/MirWTFApp">source repo</a>).
+ <a href="https://gitlab.com/JKorte/wtf-dos">WTF-DOS</a> by Jens Korte is an
+ implementation that runs on FreeDOS (and therefore slightly feature-reduced).
  An <a href="https://apps.apple.com/us/app/wtf/id1264589483">iOS äpp</a> for
  iPhone users by Eugen used to exist but is no longer available.
  These download on first use the acronyms database and use it offline; the iOS
