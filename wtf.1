@@ -1,4 +1,4 @@
-.\" $MirOS: wtf/wtf.1,v 1.38 2024/01/02 22:05:34 tg Exp $
+.\" $MirOS: wtf/wtf.1,v 1.39 2024/01/05 02:09:10 tg Exp $
 .\" $NetBSD: wtf.6,v 1.4 2001/04/02 22:42:40 wiz Exp $
 .\"-
 .\" Copyright © 2002, 2003, 2006, 2010, 2011, 2012, 2014, 2015,
@@ -20,7 +20,7 @@
 .\" damage or existence of a defect, except proven that it results out
 .\" of said person’s immediate fault when using the work as intended.
 .\"-
-.\" $miros: contrib/samples/portmdoc,v 1.22 2023/12/28 23:47:20 tg Exp $
+.\" $miros: contrib/samples/portmdoc,v 1.23 2024/01/04 22:52:50 tg Exp $
 .\"-
 .\" Copyright © 2008, 2009, 2010, 2016, 2018, 2020, 2023
 .\"	mirabilos <m@mirbsd.org>
@@ -53,7 +53,7 @@
 .\" .Dd must come before most everything, because when called
 .\" with -mandoc it loads -mdoc via .so in .Dd (first macro).
 .\"
-.Dd $Mdocdate: January 2 2024 $
+.Dd $Mdocdate: January 5 2024 $
 .\"
 .\" Check which macro package we use, and do other -mdoc setup.
 .\"
@@ -93,7 +93,7 @@
 .	ds EM \ \(em\ \&
 .\}
 .el \{\
-.	ds EM \f(TR\^\(em\^\fP
+.	ds EM \f(TR\|\(em\|\fP
 .\}
 .\"
 .\" Add UCB mdoc compatibility to GNU mdoc
