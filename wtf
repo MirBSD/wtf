@@ -1,5 +1,5 @@
 #!/bin/mksh
-myver='$MirOS: wtf/wtf,v 1.45 2023/10/21 21:43:38 tg Exp $'
+myver='$MirOS: wtf/wtf,v 1.46 2024/03/09 22:08:02 tg Exp $'
 # $NetBSD: wtf,v 1.7 2000/11/21 00:18:52 soren Exp $
 #-
 # Copyright © 2002, 2003, 2004, 2006, 2007, 2008, 2010, 2011,
@@ -309,9 +309,11 @@ if (( use_why )); then
 			done
 		}
 		function do_why_pkgfmt {
-			print -r -- "$2$(dpkg-query -W "$1" | tr '\n'  | sed \
-			    -e 's/\t\([^]*\)/ (= \1), /g' \
-			    -e 's/ (= )/ [no version]/g' \
+			print -r -- "$2$(dpkg-query -W \
+			    --showformat='${Package} (${Version})\n' \
+			    "$1" | tr '\n' '' | sed \
+			    -e 's/ ()/ [no version]/g' \
+			    -e 's//, /g' \
 			    -e 's/, $//')$3"
 		}
 		function do_why1p {
