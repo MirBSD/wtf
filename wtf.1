@@ -1,8 +1,8 @@
-.\" $MirOS: wtf/wtf.1,v 1.39 2024/01/05 02:09:10 tg Exp $
+.\" $MirOS: wtf/wtf.1,v 1.40 2024/03/09 23:56:52 tg Exp $
 .\" $NetBSD: wtf.6,v 1.4 2001/04/02 22:42:40 wiz Exp $
 .\"-
 .\" Copyright © 2002, 2003, 2006, 2010, 2011, 2012, 2014, 2015,
-.\"		2016, 2017, 2019, 2020, 2022
+.\"		2016, 2017, 2019, 2020, 2022, 2024
 .\"	mirabilos <m@mirbsd.org>
 .\"
 .\" Provided that these terms and disclaimer and all copyright notices
@@ -53,7 +53,7 @@
 .\" .Dd must come before most everything, because when called
 .\" with -mandoc it loads -mdoc via .so in .Dd (first macro).
 .\"
-.Dd $Mdocdate: January 5 2024 $
+.Dd $Mdocdate: March 9 2024 $
 .\"
 .\" Check which macro package we use, and do other -mdoc setup.
 .\"
@@ -280,9 +280,9 @@ is treated as package pattern.
 Alternative dependencies are prefixed with a pipe sign
 .Pq Sq \*(Ba\& ,
 \%unconditional ones with a space.
-Package relationships are de\%duplicated per (real or virtual) package
+Package relationships are de\%duplicated per (real or virtual) name
 expanded from the pattern: unconditional implies alternative, (Pre-)Depends
-silence Recommends imply Suggests beat Enhanced-By.
+beat Recommends imply Suggests quell Enhances silence Enhanced-By.
 .Pp
 Virtual and not installed packages show up as
 .Dq Li "[no version]" .
