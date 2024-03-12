@@ -1,4 +1,4 @@
-.\" $MirOS: wtf/wtf.1,v 1.40 2024/03/09 23:56:52 tg Exp $
+.\" $MirOS: wtf/wtf.1,v 1.41 2024/03/12 01:07:44 tg Exp $
 .\" $NetBSD: wtf.6,v 1.4 2001/04/02 22:42:40 wiz Exp $
 .\"-
 .\" Copyright © 2002, 2003, 2006, 2010, 2011, 2012, 2014, 2015,
@@ -53,7 +53,7 @@
 .\" .Dd must come before most everything, because when called
 .\" with -mandoc it loads -mdoc via .so in .Dd (first macro).
 .\"
-.Dd $Mdocdate: March 9 2024 $
+.Dd $Mdocdate: March 12 2024 $
 .\"
 .\" Check which macro package we use, and do other -mdoc setup.
 .\"
@@ -282,10 +282,11 @@ Alternative dependencies are prefixed with a pipe sign
 \%unconditional ones with a space.
 Package relationships are de\%duplicated per (real or virtual) name
 expanded from the pattern: unconditional implies alternative, (Pre-)Depends
-beat Recommends imply Suggests quell Enhances silence Enhanced-By.
+beat Recommends quell Suggests silence Enhances;
+Provides are shown in full.
 .Pp
-Virtual and not installed packages show up as
-.Dq Li "[no version]" .
+.Dq Li "[unknown version]"
+shows for virtual or not installed packages.
 .El
 .Pp
 To disable an option, prefix it with a plus sign
@@ -321,6 +322,12 @@ The default acronym database may be overridden by setting the
 environment variable
 .Ev ACRONYMDB
 to the name of a file in the proper format (acronym[tab]meaning).
+.It Ev DPKG_ROOT
+If set, passed as
+.Nm dpkg\-query Fl \-root= Ns Ar \&$DPKG_ROOT
+on
+.Nm
+.Fl y .
 .El
 .Sh FILES
 .Bl -tag -width /usr/share/misc/acronyms -compact
