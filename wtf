@@ -1,5 +1,5 @@
 #!/bin/mksh
-myver='$MirOS: wtf/wtf,v 1.49 2024/03/12 01:07:44 tg Exp $'
+myver='$MirOS: wtf/wtf,v 1.50 2024/03/12 02:04:06 tg Exp $'
 # $NetBSD: wtf,v 1.7 2000/11/21 00:18:52 soren Exp $
 #-
 # Copyright © 2002, 2003, 2004, 2006, 2007, 2008, 2010, 2011,
@@ -365,23 +365,27 @@ if (( use_acronyms )); then
 		print -ru2 "E: acronyms database ${acronyms@Q} too old"
 		exit 1
 	fi
-	set -A ucsrch -- $line
+	mkuc='function cconv {'
+	for p in $line; do
+		mkuc+=" tgsrch=\${tgsrch//$p};"
+	done
+	eval "$mkuc }"
+	unset mkuc
 
 	# create sorted input array, uppercased/folded
-	s='set -sA stsrch --'
+	set -A stsrch
+	typeset -u tgu
 	i=0
-	# now: "$@"=("$0" foo bar baz)
-	for target in "$@"; do
-		typeset -u tgsrch=$target
+	# now: "$@"=(foo bar baz foo)
+	for tgu; do
+		tgsrch=$tgu
 		[[ $tgsrch = *[A-Z].* || $tgsrch = .*[!.-]* ]] && \
 		    tgsrch=${tgsrch//.}
-		for p in "${ucsrch[@]}"; do
-			eval 'tgsrch=${tgsrch//'"$p}"
-		done
-		s+=" ${tgsrch@Q}=$((++i))"
+		cconv
+		stsrch[i++]=$tgsrch=$i
 	done
-	eval "$s"
-	# now: stsrch=(BAR=2 BAZ=3 FOO=1)
+	set -sA stsrch -- "${stsrch[@]}"
+	# now: stsrch=(BAR=1 BAZ=2 FOO=0 FOO=3)
 
 	# create output mapping, remove mapping number from stsrch
 	set -A omsrch
@@ -400,16 +404,17 @@ if (( use_acronyms )); then
 		(( omsrch[${s##*=}] = n ))
 	done
 	set -A stsrch -- "${stsrch[@]}"
-	# now: stsrch=(BAR BAZ FOO) omsrch[1]=2 omsrch[2]=0 omsrch[3]=1
+	#  sorted ->   0   1   2   |        0 1 2 3   <- cmdline order
+	# now: stsrch=(BAR BAZ FOO) omsrch=(2 0 1 2)  <- stsrch index
 
 	# shorten search time
-	set -A grepcmd
-	i=-1
+	grepcmd='^(' p=
 	for s in "${stsrch[@]}"; do
-		grepcmd[++i]=-e
-		grepcmd[++i]=${s@/[\\.\[\^\$\*]/\\$KSH_MATCH}$'\t'
+		grepcmd+=$p${s@/[\\.\[\^\$\(\*+\?\{\|]/\\$KSH_MATCH}
+		p='|'
 	done
-	grep "${grepcmd[@]}" <"$acronyms" |&
+	grepcmd+=$')\t'
+	grep -E "$grepcmd" <"$acronyms" |&
 	unset grepcmd
 
 	# look up acronyms
@@ -442,7 +447,7 @@ if (( use_why && !(use_acronyms || use_dict || use_ports || use_mank || use_what
 fi
 
 rv=0
-for target in "$@"; do
+for target; do
 	if (( use_ports )); then
 		p=$(ports_acquire "$target")
 		if [[ -n $p ]]; then
@@ -462,7 +467,7 @@ for target in "$@"; do
 	fi
 
 	if (( use_acronyms )); then
-		n=${omsrch[++i]}
+		n=${omsrch[i++]}
 		s=${acrout[n]}
 		tgsrch=${stsrch[n]}
 		if [[ -n $s ]]; then
