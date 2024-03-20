@@ -1,5 +1,5 @@
 #!/bin/mksh
-myver='$MirOS: wtf/wtf,v 1.52 2024/03/12 02:34:26 tg Exp $'
+myver='$MirOS: wtf/wtf,v 1.53 2024/03/20 22:27:52 tg Exp $'
 # $NetBSD: wtf,v 1.7 2000/11/21 00:18:52 soren Exp $
 #-
 # Copyright © 2002, 2003, 2004, 2006, 2007, 2008, 2010, 2011,
@@ -245,15 +245,27 @@ if (( use_why )); then
 		do_why_pkgfmtS='${binary:Package} (${Version})\n'
 		[[ $(dpkg-query -W --showformat='${binary:Package}\n' dpkg) = dpkg ]] || \
 		    do_why_pkgfmtS='${Package} (${Version})\n'
+		function do_why_getpkgs {
+			local x
+			set +e
+
+			dpkg-query ${DPKG_ROOT:+"--root=$DPKG_ROOT"} -W \
+			    --showformat='${Package}\n' "$@"
+			for x; do
+				# Debian Policy 3.9.8.0, §5.6.1, from
+				# mircvs://contrib/hosted/tg/deb/quinn-ls.sh
+				# changed to disallow trailing - or +
+				[[ $x = [a-z0-9]?(*([a-z0-9+.-])[a-z0-9.]) ]] && \
+				    print -r -- "$x"
+			done
+		}
 		function do_why {
 			set -o noglob
 			local pkgname n pre dep rec sug enh prv
 			local DEP REC SUG EBY PRV
 			local -i nDEP nREC nSUG nEBY nPRV
 
-			for pkgname in $(dpkg-query ${DPKG_ROOT:+"--root=$DPKG_ROOT"} -W \
-			    --showformat='${Package}\n' "$@" | \
-			    sort -u); do
+			for pkgname in $(do_why_getpkgs "$@" | sort -u); do
 				set -A DEP; nDEP=0
 				set -A REC; nREC=0
 				set -A SUG; nSUG=0
