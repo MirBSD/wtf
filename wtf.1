@@ -1,4 +1,4 @@
-.\" $MirOS: wtf/wtf.1,v 1.42 2024/03/12 01:12:46 tg Exp $
+.\" $MirOS: wtf/wtf.1,v 1.43 2024/03/20 22:46:51 tg Exp $
 .\" $NetBSD: wtf.6,v 1.4 2001/04/02 22:42:40 wiz Exp $
 .\"-
 .\" Copyright © 2002, 2003, 2006, 2010, 2011, 2012, 2014, 2015,
@@ -53,7 +53,7 @@
 .\" .Dd must come before most everything, because when called
 .\" with -mandoc it loads -mdoc via .so in .Dd (first macro).
 .\"
-.Dd $Mdocdate: March 12 2024 $
+.Dd $Mdocdate: March 20 2024 $
 .\"
 .\" Check which macro package we use, and do other -mdoc setup.
 .\"
@@ -276,6 +276,13 @@ Show reverse dependencies of packages
 \%every search term
 .Pq Dq Ar acronym
 is treated as package pattern.
+\%Input order is not preserved
+.Pq output is sorted by distinct package names .
+Only packages known to
+.Nm dpkg
+are considered;
+.Nm apt\-cache Ic showpkg
+includes not-installed packages.
 .Pp
 Alternative dependencies are prefixed with a pipe sign
 .Pq Sq \*(Ba\& ,
