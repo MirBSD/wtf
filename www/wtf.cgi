@@ -1,8 +1,8 @@
 #!/usr/bin/perl -T
-my $rcsid = '$MirOS: wtf/www/wtf.cgi,v 1.35 2022/11/28 19:42:49 tg Exp $';
+my $rcsid = '$MirOS: wtf/www/wtf.cgi,v 1.36 2025/04/27 03:29:38 tg Exp $';
 #-
 # Copyright © 2012, 2014, 2015, 2017, 2020, 2021, 2022
-#	mirabilos <m@mirbsd.org>
+#	mirabilos <m$(date +%Y)@mirbsd.de>
 # Copyright © 2017
 #	<RT|Chatzilla> via IRC
 #
